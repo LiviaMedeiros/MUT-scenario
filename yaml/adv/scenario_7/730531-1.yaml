@@ -1,0 +1,836 @@
+---
+story:
+  group_1:
+  - autoTurnLast: 0.01
+    bg: bg_adv_16071.jpg
+    bgm: bgm03_story19
+    chara:
+    - cheek: 1
+      face: mtn_ex_010.exp.json
+      id: 305302
+      motion: 0
+      pos: 1
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 305302
+      motion: 200
+    nameCenter: Ikumi
+    textCenter: So sorry for the wait, everyone!@Your favorite Head Maid Kumi is here!
+    turnChangeOut: fadeOut
+  - chara:
+    - cheek: 1
+      face: mtn_ex_011.exp.json
+      id: 305302
+      motion: 300
+    textCenter: '[chara:305302:effect_emotion_joy_0][se:7222_happy]Thanks sooo much
+      for coming to see me again@today~!'
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801100
+      motion: 0
+      mouthOpen: 1
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801000
+      motion: 0
+      mouthOpen: 1
+      pos: 1
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 800500
+      motion: 0
+      mouthOpen: 1
+      pos: 2
+    turnChangeIn: fadeIn
+  - nameNarration: ""
+    narration: '[bgEffect:shakeLarge]Whoo! She''s here!@Ikumiiin!'
+    narrationBg: ""
+    narrationEffect: in
+    turnChangeOut: fadeOut
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 1
+      face: mtn_ex_010.exp.json
+      id: 305302
+      motion: 0
+      pos: 1
+    narrationEffect: out
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 305302
+      motion: 300
+    textCenter: For all of my super-amazing fans, today I…
+    turnChangeOut: fadeOut
+  - chara:
+    - cheek: 1
+      face: mtn_ex_011.exp.json
+      id: 305302
+      motion: 400
+    textCenter: prepared a new happy and cheerful song♪
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801100
+      motion: 0
+      mouthOpen: 1
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 800400
+      motion: 0
+      mouthOpen: 1
+      pos: 1
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 800900
+      motion: 0
+      mouthOpen: 1
+      pos: 2
+    turnChangeIn: fadeIn
+  - nameNarration: ""
+    narration: '[bgEffect:shakeSmall]Whooooo!@You''re the best, Ikumiiin!'
+    narrationBg: ""
+    narrationEffect: in
+    turnChangeOut: fadeOut
+  - narration: '[bgEffect:shakeLarge]H-A-G!! H-A-G!! H-A-G!!@H-A-G!! H-A-G!! H-A-G!!
+      H-A-G!!'
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 101601
+      motion: 0
+      pos: 1
+    narrationEffect: out
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 101601
+    nameCenter: Kanagi
+    textCenter: Wow, they're all so excited…@So this is the power of cuteness…
+    turnChangeOut: fadeOut
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 101601
+      motion: 200
+    textCenter: Well, this should be a useful experience to learn@from.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 101601
+      motion: 300
+    textCenter: I'm not sure what I'm supposed to do at@a live show though…
+  - autoTurnLast: 0.2
+    chara:
+    - id: 101601
+      pos: 0
+    textClear: 1
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 101201
+      motion: 0
+      pos: 2
+    nameLeft: Kanagi
+    nameRight: Karin
+    textRight: Ah!@[chara:101201:lipSynch_0][wait:0.8][chara:101201:cheek_0][chara:101201:face_mtn_ex_011.exp.json][chara:101201:lipSynch_1]Nagitan!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 101601
+      motion: 0
+    textLeft: Hm?[chara:101601:lipSynch_0][wait:0.8][chara:101601:cheek_0][chara:101601:face_mtn_ex_010.exp.json][chara:101601:lipSynch_1]
+      Oh, what a coincidence to see you, Artist…@Here to do research for your manga?
+  - chara:
+    - id: 101201
+      motion: 1
+    textRight: Yep!@Maid cafes are what's "in" right now after all!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 101201
+    textRight: What about you, Nagitan?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 101601
+      motion: 100
+    textLeft: Onee-sama recommended me this place to study@for my work, but…
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 101601
+    textLeft: I don't know what the proper etiquette for a guest@here is since our
+      cafe doesn't have a concert stage.
+  - chara:
+    - id: 101201
+      motion: 200
+    textRight: No need to think about it too hard. Just do the calls along with the
+      crowd!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 101601
+      motion: 0
+    textLeft: The "calls"?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 101201
+    textRight: It's a way to cheer on the performance!@You show your support with
+      loud chants that@match the song!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 101201
+      motion: 0
+    textRight: It seems like "Ikumin" and "HAG" are the standard@calls around here.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 101201
+    textRight: Just try to repeat after everybody else and you'll be okay!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_040.exp.json
+      id: 101201
+      motion: 300
+    textRight: In case the calls get too complicated to follow…@Here.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 101201
+      motion: 400
+    textRight: Holding these glowsticks and waving them around should be enough! That
+      covers the basics.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 101601
+      motion: 100
+    textLeft: I am in your debt.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 101601
+      motion: 300
+    textLeft: …Alright, I get what "Ikumin" means, but do you@know what "HAG" stands
+      for?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 101201
+      motion: 0
+    textRight: Huh?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_040.exp.json
+      id: 101201
+      motion: 100
+    textRight: Let's see… H…A…G…@[chara:101201:lipSynch_0][wait:0.8][chara:101201:eyeClose_1][chara:101201:lipSynch_1]H…A…G?
+      …Hmm?[chara:101201:lipSynch_0][wait:0.8][chara:101201:eyeClose_0][chara:101201:motion_400][chara:101201:cheek_0][chara:101201:face_mtn_ex_010.exp.json][chara:101201:lipSynch_1]
+      Oh, I got it!
+  - chara:
+    - id: 101201
+      motion: 0
+    textRight: '"H" is "Healthy"!@[chara:101201:lipSynch_0][wait:1.5][chara:101201:motion_100][chara:101201:lipSynch_1]"A"
+      is "Appetizing"![chara:101201:lipSynch_0][wait:1.5][chara:101201:motion_200][chara:101201:lipSynch_1][chara:101201:lipSynch_0][wait:0.8][chara:101201:cheek_0][chara:101201:face_mtn_ex_011.exp.json][chara:101201:lipSynch_1]@And
+      "G" must be "Grilled-Chestnuts"!'
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 101601
+      motion: 0
+    textLeft: Healthy appetizing grilled-chestnuts? …Are they@chanting the name of
+      their favorite food?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 101601
+    textRight: I'm sure of it!@Grilled-chestnut is the best autumn food only after
+      pumpkin!
+  - autoTurnLast: 0.5
+    chara:
+    - effect: fadeout
+      id: 101601
+    - effect: fadeout
+      id: 101201
+    textClear: 1
+  - bgm: stop
+    chara:
+    - cheek: 1
+      face: mtn_ex_011.exp.json
+      id: 305302
+      motion: 100
+      pos: 1
+    nameCenter: Ikumi
+    textCenter: '[chara:305302:effect_emotion_joy_0][se:7222_happy]Here I gooo~♪'
+  - chara:
+    - cheek: 1
+      face: mtn_ex_010.exp.json
+      id: 305302
+    textCenter: Make sure to get your hearts throbbing for my new song, okay?
+  - autoTurnLast: 0.2
+    chara:
+    - effect: fadeout
+      id: 305302
+    textClear: 1
+  - chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 101601
+      motion: 0
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 101201
+      motion: 0
+      pos: 2
+    textRight: Ah! It's starting!@[chara:101201:lipSynch_0][wait:0.8][chara:101201:motion_200][chara:101201:cheek_0][chara:101201:face_mtn_ex_021.exp.json][chara:101201:lipSynch_1]I
+      will join in on the yells!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 101601
+      motion: 200
+    textLeft: Roger that!@I'll also cheer with all my might!
+  - autoTurnLast: 0.2
+    chara:
+    - effect: fadeout
+      id: 101601
+    - effect: fadeout
+      id: 101201
+    textClear: 1
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 801100
+      motion: 0
+      mouthOpen: 1
+      pos: 1
+    nameCenter: ""
+    textBg: shout
+    textCenter: Let's go with the usual Ikumin calls, guys!
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801100
+      motion: 0
+      mouthOpen: 1
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801000
+      motion: 0
+      mouthOpen: 1
+      pos: 1
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 800400
+      motion: 0
+      mouthOpen: 1
+      pos: 2
+    turnChangeIn: fadeIn
+  - nameNarration: ""
+    narration: '[bgEffect:shakeLarge]Yeaaaaah!'
+    narrationBg: ""
+    narrationEffect: in
+    turnChangeOut: fadeOut
+  - autoTurnLast: 0.01
+    bgm: bgm03_story21
+    chara:
+    - cheek: 1
+      face: mtn_ex_010.exp.json
+      id: 305302
+      motion: 1
+      pos: 1
+    narrationEffect: out
+    turnChangeIn: fadeIn
+  - chara:
+    - eyeClose: 1
+      id: 305302
+    nameCenter: Ikumi
+    textCenter: ～♪～♪～♪
+    turnChangeOut: fadeOut
+  - chara:
+    - eyeClose: 0
+      id: 305302
+      motion: 100
+    textCenter: Who's that lovely girl~?
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801100
+      motion: 0
+      mouthOpen: 1
+      pos: 0
+    - cheek: 2
+      face: mtn_ex_011.exp.json
+      id: 101201
+      motion: 0
+      mouthOpen: 1
+      pos: 1
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 800900
+      motion: 0
+      mouthOpen: 1
+      pos: 2
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 101201
+      motion: 200
+    nameNarration: ""
+    narration: '[bgEffect:shakeSmall]C-U-T-E!@Ikumin! Ikumin!'
+    narrationBg: ""
+    narrationEffect: in
+    turnChangeOut: fadeOut
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 1
+      face: mtn_ex_011.exp.json
+      id: 305302
+      motion: 0
+      pos: 1
+    narrationEffect: out
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 305302
+      motion: 400
+    textCenter: Always blessing people with an angelic smile, she is a…～♪
+    turnChangeOut: fadeOut
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801100
+      motion: 0
+      mouthOpen: 1
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 101601
+      motion: 0
+      pos: 1
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 800500
+      motion: 0
+      mouthOpen: 1
+      pos: 2
+    turnChangeIn: fadeIn
+  - nameNarration: ""
+    narration: '[bgEffect:shakeLarge]H-A-G!@H-A-G! H-A-G!@H-A-G! H-A-G! H-A-G!@H-A-G!
+      H-A-G! H-A-G! H-A-G!'
+    narrationBg: ""
+    narrationEffect: in
+    turnChangeOut: fadeOut
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 1
+      face: mtn_ex_020.exp.json
+      id: 305302
+      motion: 0
+      pos: 1
+    narrationEffect: out
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 305302
+      motion: 400
+      mouthOpen: 1
+    textBg: shout
+    textCenter: HEY!!!
+    turnChangeOut: fadeOut
+  - chara:
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 305302
+      motion: 300
+      mouthOpen: 0
+    textCenter: Don't call me old!@Hmph!
+  - chara:
+    - cheek: 1
+      face: mtn_ex_020.exp.json
+      id: 305302
+      motion: 200
+    textCenter: Sheesh!@I'm reeeally mad now, you meanies!
+  - autoTurnLast: 0.01
+    turnChangeIn: fadeIn
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801100
+      motion: 0
+      mouthOpen: 1
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801000
+      motion: 0
+      mouthOpen: 1
+      pos: 1
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 800900
+      motion: 0
+      mouthOpen: 1
+      pos: 2
+    nameNarration: ""
+    narration: Ohhhhhhh!!!
+    narrationBg: ""
+    narrationEffect: in
+    turnChangeOut: fadeOut
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 101601
+      motion: 0
+      pos: 0
+    - cheek: 1
+      face: mtn_ex_011.exp.json
+      id: 101201
+      motion: 0
+      pos: 2
+    narrationEffect: out
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 101201
+      motion: 100
+    nameLeft: Kanagi
+    nameRight: Karin
+    textRight: It's time for the interlude!@This is the most intense part!
+    turnChangeOut: fadeOut
+  - chara:
+    - id: 101601
+      motion: 400
+    textLeft: G-gotcha.@You can count on me for the glowstick swinging.
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801100
+      motion: 0
+      mouthOpen: 1
+      pos: 0
+    - cheek: 2
+      face: mtn_ex_011.exp.json
+      id: 101201
+      motion: 0
+      mouthOpen: 1
+      pos: 1
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 800400
+      motion: 0
+      mouthOpen: 1
+      pos: 2
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 101201
+      motion: 400
+    nameNarration: ""
+    narration: '[bgEffect:shakeLarge]The "H" in "HAG" is "Hyper"!@H-Y-P-E-R!@Hyper
+      love for Ikumin!'
+    narrationBg: ""
+    narrationEffect: in
+    turnChangeOut: fadeOut
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 101601
+      motion: 400
+      pos: 1
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 800400
+      motion: 0
+      mouthOpen: 1
+      pos: 2
+    narration: '[bgEffect:shakeLarge]Next comes "A"!@A-D-O-R-A-B-L-E!@Ikumin is the
+      most adorable!'
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 801100
+      mouthOpen: 1
+    nameLeft: ""
+    narrationEffect: out
+    textBg: shout
+    textLeft: Sorry for the forced abbreviation!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801100
+      mouthOpen: 1
+    - id: 101601
+      motion: 400
+    - cheek: 2
+      face: mtn_ex_011.exp.json
+      id: 101201
+      motion: 1
+      mouthOpen: 1
+      pos: 2
+    nameNarration: ""
+    narration: '[bgEffect:shakeLarge]And the last…"G"!@G-I-R-L!@Our girl Ikumin!'
+    narrationBg: ""
+    narrationEffect: in
+  - chara:
+    - id: 801100
+    narrationEffect: out
+    textBg: shout
+    textLeft: Hyper adorable girl!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801000
+      motion: 0
+      mouthOpen: 1
+      pos: 1
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 800900
+      motion: 0
+      mouthOpen: 1
+      pos: 2
+    nameNarration: ""
+    narration: '[bgEffect:shakeLarge]Ikumin! Ikumin!'
+    narrationBg: ""
+    narrationEffect: in
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 1
+      face: mtn_ex_011.exp.json
+      id: 305302
+      motion: 0
+      pos: 1
+    narrationEffect: out
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 305302
+      motion: 300
+    nameCenter: Ikumi
+    textCenter: Aww, thankiiies~!
+    turnChangeOut: fadeOut
+  - chara:
+    - id: 305302
+      motion: 100
+    textCenter: Tee-hee~! Hope you guys are just as excited for@the next song~!!
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801100
+      motion: 0
+      mouthOpen: 1
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 101601
+      motion: 0
+      pos: 1
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 801000
+      motion: 0
+      mouthOpen: 1
+      pos: 2
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 101601
+      motion: 400
+    nameNarration: ""
+    narration: '[bgEffect:shakeLarge]Yeaaaaah!!!@You''re so C-U-T-E, Ikumin!!'
+    narrationBg: ""
+    narrationEffect: in
+    turnChangeOut: fadeOut
+  - chara:
+    - cheek: 2
+      face: mtn_ex_011.exp.json
+      id: 101201
+      motion: 200
+      mouthOpen: 1
+      pos: 1
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 800500
+      motion: 0
+      mouthOpen: 1
+      pos: 2
+    narration: '[bgEffect:shakeLarge]H-A-G!! H-A-G!!@H-A-G!! H-A-G!! H-A-G!!'
+    narrationFontSize: 50
+  - autoTurnLast: 2
+    bgm: stop
+    chara:
+    - cheek: 0
+      eyeClose: 1
+      face: mtn_ex_010.exp.json
+      id: 305302
+      motion: 0
+      pos: 1
+    narrationEffect: out
+    turnChangeIn: fadeIn
+  - bgm: bgm03_story16
+    chara:
+    - id: 305302
+      lipSynch: 0
+      motion: 300
+    nameCenter: Ikumi
+    textCenter: (Phew~! I managed to make everybody smile…)
+    turnChangeOut: fadeOut
+    turnEffect: thinking
+  - nameRight: Kanagi's voice
+    textRight: Ikumin.
+    turnEffect: stop
+  - chara:
+    - cheek: 1
+      eyeClose: 0
+      face: mtn_ex_010.exp.json
+      id: 305302
+      motion: 0
+    textCenter: '*sigh~*[chara:305302:lipSynch_0][wait:0.8][chara:305302:cheek_0][chara:305302:face_mtn_ex_050.exp.json][chara:305302:lipSynch_1]
+      …Huh…?'
+  - chara:
+    - id: 305302
+      motion: 400
+      mouthOpen: 1
+    textBg: shout
+    textCenter: Whaaa?!@Kanagi?!
+  - autoTurnLast: 0.2
+    chara:
+    - id: 305302
+      pos: 0
+    textClear: 1
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 101601
+      motion: 200
+      pos: 2
+    - id: 305302
+      mouthOpen: 0
+    nameLeft: Ikumi
+    nameRight: Kanagi
+    textRight: Indeed, it's me.
+  - chara:
+    - id: 101601
+    textRight: That was a great performance, Ikumi.@I feel inspired to work harder
+      after watching it.
+  - chara:
+    - id: 305302
+      motion: 0
+    textLeft: Th-thanks.
+  - chara:
+    - id: 305302
+    textLeft: …Huh? Why are you here?@[chara:305302:lipSynch_0][wait:0.8][chara:305302:cheek_0][chara:305302:face_mtn_ex_030.exp.json][chara:305302:lipSynch_1]Magical
+      girl business?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 101601
+      motion: 300
+    textRight: No. There is currently some unrest, but I've already made arrangements
+      about it…
+  - chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 101601
+      motion: 0
+    textRight: I was hoping to learn a thing or two about being@a maid by coming here
+      today.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 101601
+      motion: 0
+    textRight: I work as a maid too you see.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 305302
+      motion: 400
+    textLeft: '[chara:305302:effect_emotion_surprise_0][se:7226_shock]You… work as
+      a maid…?'
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 101601
+      motion: 100
+    textRight: Yes, "Nagitan" is my maid nickname.@Feel free to drop by my cafe anytime.
+  - chara:
+    - id: 305302
+      lipSynch: 0
+    textLeft: (Kanagi…@[wait:0.8][chara:305302:cheek_1][chara:305302:motion_100][chara:305302:face_mtn_ex_011.exp.json]Super-duper
+      cute Kanagi-chan♪)
+    turnEffect: thinking
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 305302
+      lipSynch: 0
+    textLeft: (It's no good… I can't imagine her as a maid in the slightest.)
+  - chara:
+    - cheek: 0
+      face: mtn_ex_040.exp.json
+      id: 101201
+      motion: 300
+      pos: 2
+    nameRight: Karin
+    textRight: '"G" didn''t stand for grilled-chestnuts after all…@A complete letdown.'
+    turnEffect: stop
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 305302
+      motion: 0
+    textLeft: G-grilled-chestnuts…?
+  - chara:
+    - cheek: 1
+      face: mtn_ex_011.exp.json
+      id: 101201
+      motion: 400
+    textRight: Anyways, your live show was super fun!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 305302
+      motion: 100
+    textLeft: Ehehe, I'm glad you enjoyed it, sweetheart!
+  - chara:
+    - id: 305302
+    textLeft: You should look forward to the next part too then.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 101601
+      motion: 200
+      pos: 2
+    nameRight: Kanagi
+    textRight: …You're breaking your character.
+  - chara:
+    - cheek: 1
+      face: mtn_ex_050.exp.json
+      id: 305302
+      motion: 400
+    textLeft: '[chara:305302:effect_emotion_surprise_0][se:7226_shock]Oopsie-daisy!'
+  - chara:
+    - cheek: 1
+      face: mtn_ex_010.exp.json
+      id: 305302
+      motion: 300
+    textLeft: Thankies a bunch~!@[chara:305302:lipSynch_0][wait:0.8][chara:305302:cheek_1][chara:305302:face_mtn_ex_011.exp.json][chara:305302:lipSynch_1]I'm
+      like… super-duper happy to hear that!
+  - chara:
+    - id: 305302
+      motion: 200
+    textLeft: There's looots more fun yet to come, so just you@wait!
+  - autoTurnLast: 2
+    turnChangeIn: fadeIn
+version: 3
+...
