@@ -398,5 +398,5 @@ story:
       Witch''s hands...?)'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

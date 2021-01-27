@@ -12,7 +12,7 @@ story:
     bgm: bgm24_story04
     chara:
     - id: 7107
-      name: ""
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -22,7 +22,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 7107
-      name: ""
+      name: sprite_0
     nameLeft: ""
     nameRight: Chiharu
     textLeft: '......!?!?'
@@ -39,7 +39,7 @@ story:
       id: 102600
     - effect: fadeout
       id: 7107
-      name: Shizuka
+      name: sprite_0
     textClear: 1
   - chara:
     - cheek: 0
@@ -69,7 +69,7 @@ story:
     textClear: 1
   - chara:
     - id: 7107
-      name: ""
+      name: sprite_0
       pos: 0
     nameLeft: ""
     nameRight: Chiharu
@@ -139,7 +139,7 @@ story:
     bg: bg_adv_50025.jpg
     chara:
     - id: 7107
-      name: Chiharu
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -160,7 +160,7 @@ story:
     turnChangeOut: whiteOut
   - chara:
     - id: 7107
-      name: ""
+      name: sprite_0
     textBg: shout
     textLeft: '[flashEffect:flashWhite2][bgEffect:shakeSmall]…!!'
   - chara:
@@ -199,7 +199,7 @@ story:
     chara:
     - effect: shake
       id: 7107
-      name: ""
+      name: sprite_0
     flashEffect: flashRed2
     surround: 1026A04
     textBg: shout
@@ -208,7 +208,7 @@ story:
     chara:
     - effect: fadeout
       id: 7001
-      name: Chiharu
+      name: sprite_0
     se: 3102_enemy_dead
     textClear: 1
   - bgm: stop

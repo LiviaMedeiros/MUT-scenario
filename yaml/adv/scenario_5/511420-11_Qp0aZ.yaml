@@ -124,7 +124,7 @@ story:
     bg: bg_adv_47112.jpg
     chara:
     - id: 6112
-      name: Kanae
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json

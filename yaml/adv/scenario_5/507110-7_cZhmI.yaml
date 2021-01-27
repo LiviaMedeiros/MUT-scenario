@@ -362,7 +362,7 @@ story:
     bgm: stop
     chara:
     - id: 7106
-      name: ""
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -373,7 +373,7 @@ story:
   - bgm: bgm01_anime16
     chara:
     - id: 7106
-      name: ""
+      name: sprite_0
     nameLeft: ""
     textBg: shout
     textLeft: '[flashEffect:flashWhite2]рсопコココ!!'
@@ -396,7 +396,7 @@ story:
     textRight: Watch out Hotorin!
   - chara:
     - id: 7106
-      name: ""
+      name: sprite_0
     textBg: shout
     textLeft: '[flashEffect:flashWhite2]ёгедキキキ!!'
   - chara:

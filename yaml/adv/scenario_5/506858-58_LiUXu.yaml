@@ -6,7 +6,7 @@ story:
     bgm: bgm24_story04
     chara:
     - id: 7107
-      name: ""
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -16,7 +16,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 7107
-      name: ""
+      name: sprite_0
     nameLeft: ""
     nameRight: Chiharu
     textLeft: '............'
@@ -48,7 +48,7 @@ story:
     chara:
     - effect: shake
       id: 7107
-      name: ""
+      name: sprite_0
     flashEffect: flashRed2
     surround: 1026A04
     textBg: shout
@@ -58,7 +58,7 @@ story:
     chara:
     - effect: fadeout
       id: 7107
-      name: Chiharu
+      name: sprite_0
     se: 3102_enemy_dead
     textClear: 1
   - chara:
@@ -298,7 +298,7 @@ story:
     textClear: 1
   - chara:
     - id: 7107
-      name: ""
+      name: sprite_0
       pos: 1
     nameCenter: ""
     textBg: shout
@@ -306,7 +306,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - id: 7107
-      name: Shizuka's mother
+      name: sprite_0
       pos: 0
     textClear: 1
   - chara:
@@ -332,7 +332,7 @@ story:
     textRight: Meter-Leap Decapitation—!?
   - chara:
     - id: 7107
-      name: ""
+      name: sprite_0
       pos: 0
     textLeft: '............'
   - chara:
@@ -345,7 +345,7 @@ story:
     textRight: Ah, the sword...
   - chara:
     - id: 7107
-      name: ""
+      name: sprite_0
       pos: 0
     textBg: shout
     textLeft: '............!!!'

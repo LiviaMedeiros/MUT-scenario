@@ -5,7 +5,7 @@ story:
     bg: bg_adv_47106.jpg
     chara:
     - id: 7106
-      name: Yukika
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -24,7 +24,7 @@ story:
   - autoTurnLast: 0.5
     chara:
     - id: 7106
-      name: ""
+      name: sprite_0
     - id: 301702
       mouthOpen: 0
     textBg: shout
@@ -33,7 +33,7 @@ story:
     chara:
     - effect: fadeout
       id: 7106
-      name: Yukika
+      name: sprite_0
     se: 3102_enemy_dead
     textClear: 1
   - autoTurnLast: 1

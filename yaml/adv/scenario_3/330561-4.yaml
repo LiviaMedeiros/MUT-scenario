@@ -311,7 +311,7 @@ story:
       motion: 0
       pos: 2
     - id: 6105
-      name: Rui
+      name: sprite_0
       pos: 0
     turnChangeIn: fadeIn
   - chara:
@@ -325,12 +325,12 @@ story:
     chara:
     - effect: 7002_damage01
       id: 6105
-      name: ""
+      name: sprite_0
     surround: 3056A03
     textClear: 1
   - chara:
     - id: 6105
-      name: ""
+      name: sprite_0
       pos: 0
     nameLeft: ""
     textBg: shout

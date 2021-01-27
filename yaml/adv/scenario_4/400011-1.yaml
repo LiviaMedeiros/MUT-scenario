@@ -631,5 +631,5 @@ story:
   - narration: I've never truly stood in@front of a mirror until now...
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

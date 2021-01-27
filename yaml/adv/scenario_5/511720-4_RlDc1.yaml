@@ -163,13 +163,13 @@ story:
       motion: 0
       pos: 2
     - id: 6104
-      name: ""
+      name: sprite_0
       pos: 0
     turnChangeIn: fadeIn
   - bgm: bgm01_anime15
     chara:
     - id: 6104
-      name: ""
+      name: sprite_0
     nameLeft: ""
     textBg: shout
     textLeft: '[chara:303500:effect_7001_attack02]…………！'
@@ -188,7 +188,7 @@ story:
       id: 303500
     - effect: fadeout
       id: 6104
-      name: Rika
+      name: sprite_0
     textClear: 1
   - chara:
     - cheek: 0
@@ -228,7 +228,7 @@ story:
     textClear: 1
   - chara:
     - id: 6104
-      name: ""
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -254,7 +254,7 @@ story:
     chara:
     - effect: 7001_attack02
       id: 6104
-      name: Rika
+      name: sprite_0
     surround: 3501A04
     textClear: 1
   - autoTurnLast: 0.2
@@ -297,7 +297,7 @@ story:
     textClear: 1
   - chara:
     - id: 6104
-      name: ""
+      name: sprite_0
       pos: 0
     nameLeft: ""
     textBg: shout
@@ -325,14 +325,14 @@ story:
     chara:
     - effect: 7002_damage01
       id: 6104
-      name: Ren
+      name: sprite_0
     surround: 3501A05
     textClear: 1
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
       id: 6104
-      name: Ren
+      name: sprite_0
     se: 3102_enemy_dead
   - autoTurnLast: 0.5
     bg: bg_adv_17042.jpg

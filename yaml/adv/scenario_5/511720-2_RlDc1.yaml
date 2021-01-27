@@ -81,7 +81,7 @@ story:
     bgm: stop
     chara:
     - id: 6103
-      name: ""
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -92,7 +92,7 @@ story:
   - bgm: bgm01_anime15
     chara:
     - id: 6103
-      name: ""
+      name: sprite_0
     nameLeft: ""
     textLeft: Crunch…★△◇◎○…
     turnChangeOut: fadeOut
@@ -105,7 +105,7 @@ story:
     textRight: '[se:4061_landing_jump5][name:sprite_0:effect_7000_attack01]T-take...this!'
   - chara:
     - id: 6103
-      name: ""
+      name: sprite_0
     - id: 101100
       mouthOpen: 0
     textLeft: Jagigi☆☆●□!
@@ -120,7 +120,7 @@ story:
       id: 101100
     - effect: fadeout
       id: 6103
-      name: Rena
+      name: sprite_0
     textClear: 1
   - chara:
     - cheek: 0
@@ -142,7 +142,7 @@ story:
       motion: 300
       pos: 2
     - id: 6103
-      name: Kaede
+      name: sprite_0
       pos: 0
     textRight: S-sorry, Rena!
   - autoTurnLast: 0.2

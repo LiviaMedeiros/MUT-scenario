@@ -163,7 +163,7 @@ story:
     bgm: stop
     chara:
     - id: 7000
-      name: ""
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -175,7 +175,7 @@ story:
   - bgm: bgm01_anime12
     chara:
     - id: 7000
-      name: ""
+      name: sprite_0
     nameLeft: ""
     nameRight: Chiharu
     textLeft: GI...GAGA...
@@ -187,7 +187,7 @@ story:
     textRight: Huh?
   - chara:
     - id: 7000
-      name: ""
+      name: sprite_0
     textLeft: CHIKICHIKICHIKI...KI...
   - chara:
     - id: 102601

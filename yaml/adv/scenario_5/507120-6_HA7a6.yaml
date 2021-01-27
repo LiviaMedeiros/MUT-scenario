@@ -343,7 +343,7 @@ story:
   - autoTurnLast: 0.01
     chara:
     - id: 6106
-      name: Kyubey
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json

@@ -157,7 +157,7 @@ story:
     textClear: 1
   - chara:
     - id: 7107
-      name: ""
+      name: sprite_0
       pos: 1
     nameCenter: ""
     textBg: shout
@@ -165,7 +165,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - id: 7107
-      name: Chiharu
+      name: sprite_0
       pos: 2
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -217,10 +217,10 @@ story:
       motion: 0
       pos: 1
     - id: 7107
-      name: Chiharu
+      name: sprite_0
       pos: 0
     - id: 7107
-      name: Chiharu
+      name: sprite_2
       pos: 2
     turnChangeIn: rollInFast
   - chara:
@@ -235,10 +235,10 @@ story:
       id: 102600
     - effect: fadeout
       id: 7107
-      name: Shizuka
+      name: sprite_0
     - effect: fadeout
       id: 7107
-      name: Shizuka
+      name: sprite_2
     textClear: 1
   - chara:
     - cheek: 0

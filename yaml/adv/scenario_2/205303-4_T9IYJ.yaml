@@ -325,5 +325,5 @@ story:
     textRight: Please.@That's all I want...
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

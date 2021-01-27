@@ -6,7 +6,7 @@ story:
     bgm: bgm01_anime15
     chara:
     - id: 6000
-      name: ""
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -16,7 +16,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 6000
-      name: ""
+      name: sprite_0
     nameLeft: ""
     nameRight: Shizuka
     textBg: shout
@@ -41,7 +41,7 @@ story:
     chara:
     - effect: shake
       id: 6000
-      name: ""
+      name: sprite_0
     flashEffect: flashRed2
     surround: 1012A03
     textBg: shout
@@ -50,7 +50,7 @@ story:
     chara:
     - effect: fadeout
       id: 6000
-      name: Shizuka
+      name: sprite_0
     se: 3102_enemy_dead
     textClear: 1
   - autoTurnLast: 2

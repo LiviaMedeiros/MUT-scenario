@@ -266,7 +266,7 @@ story:
     bg: bg_adv_46106.jpg
     chara:
     - id: 6106
-      name: Yukika
+      name: sprite_0
       pos: 1
     item:
     - path: resource/scenario/img/51071_tower_yukika/51071_yukika_doppel.jpg
@@ -280,7 +280,7 @@ story:
     chara:
     - effect: shake
       id: 6106
-      name: Yukika
+      name: sprite_0
     flashEffect: flashRed2
     se: 3101_enemy_damage
   - autoTurnLast: 2.5

@@ -504,14 +504,14 @@ story:
   - autoTurnLast: 0.5
     chara:
     - id: 6106
-      name: Hotori
+      name: sprite_0
       pos: 1
     turnChangeIn: whiteIn
   - autoTurnLast: 2
     chara:
     - effect: shake
       id: 6106
-      name: Hotori
+      name: sprite_0
     flashEffect: flashRed1
     se: 3101_enemy_damage
     turnChangeOut: whiteOut
@@ -519,7 +519,7 @@ story:
     chara:
     - effect: fadeout
       id: 6106
-      name: Hotori
+      name: sprite_0
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

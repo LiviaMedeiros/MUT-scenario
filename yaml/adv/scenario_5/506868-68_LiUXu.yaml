@@ -471,14 +471,14 @@ story:
     textClear: 1
   - chara:
     - id: 6107
-      name: ""
+      name: sprite_0
       pos: 1
     nameCenter: ""
     textCenter: 衆倒令專　方界諸聞　若持後佛
   - autoTurnLast: 0.2
     chara:
     - id: 6107
-      name: Mikoshiba
+      name: sprite_0
       pos: 0
     textClear: 1
   - chara:

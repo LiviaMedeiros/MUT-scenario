@@ -6,7 +6,7 @@ story:
     bgm: bgm01_battle08
     chara:
     - id: 6110
-      name: ""
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -16,7 +16,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 6110
-      name: ""
+      name: sprite_0
     nameLeft: ""
     textLeft: '............'
     turnChangeOut: fadeOut

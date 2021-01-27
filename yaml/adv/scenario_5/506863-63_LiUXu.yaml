@@ -218,7 +218,7 @@ story:
     textClear: 1
   - chara:
     - id: 7107
-      name: Sunao
+      name: sprite_0
       pos: 0
     nameLeft: Sunao
     textBg: shout

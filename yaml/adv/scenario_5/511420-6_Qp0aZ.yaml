@@ -319,12 +319,12 @@ story:
   - autoTurnLast: 0.2
     chara:
     - id: 6105
-      name: ""
+      name: sprite_0
       pos: 0
     turnChangeIn: rollInFast
   - chara:
     - id: 6105
-      name: ""
+      name: sprite_0
     nameLeft: ""
     textLeft: XIV#EqVIV[]&XIV!?
     turnChangeOut: rollOutFast
@@ -347,7 +347,7 @@ story:
     textRight: '[surround:1006A02][name:sprite_0:effect_7001_attack02]Eat this!'
   - chara:
     - id: 6105
-      name: ""
+      name: sprite_0
     textBg: shout
     textLeft: '[flashEffect:flashWhite2][bgEffect:shakeSmall]g#SEЛ9→UWO!!'
   - chara:
@@ -569,13 +569,13 @@ story:
       motion: 0
       pos: 2
     - id: 6105
-      name: ""
+      name: sprite_0
       pos: 0
     nameRight: ""
     textRight: Hah, I'll take care of this witch myself...!
   - chara:
     - id: 6105
-      name: ""
+      name: sprite_0
     nameLeft: ""
     textBg: shout
     textLeft: '*(E#%jA+E$!!'
@@ -603,7 +603,7 @@ story:
     narrationEffect: in
   - chara:
     - id: 6105
-      name: ""
+      name: sprite_0
     nameLeft: ""
     narrationEffect: out
     textBg: shout
@@ -611,7 +611,7 @@ story:
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
-      name: ""
+      name: sprite_0
     textClear: 1
   - chara:
     - cheek: 0

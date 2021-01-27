@@ -265,7 +265,7 @@ story:
   - bgm: bgm01_anime12
     chara:
     - id: 7000
-      name: ""
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -283,7 +283,7 @@ story:
     textRight: Huh?
   - chara:
     - id: 7000
-      name: ""
+      name: sprite_0
     textBg: shout
     textLeft: CHIKICHIKICHIKI...KI...
   - chara:

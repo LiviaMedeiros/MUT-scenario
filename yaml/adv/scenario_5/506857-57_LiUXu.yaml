@@ -229,7 +229,7 @@ story:
     textClear: 1
   - chara:
     - id: 7107
-      name: ""
+      name: sprite_0
       pos: 0
     nameLeft: ""
     nameRight: Chiharu

@@ -354,7 +354,7 @@ story:
     bgm: bgm03_story10
     chara:
     - id: 7104
-      name: ""
+      name: sprite_0
       pos: 1
     nameCenter: ""
     narrationEffect: out
@@ -366,7 +366,7 @@ story:
     chara:
     - effect: fadeout
       id: 7104
-      name: Momoko
+      name: sprite_0
     textClear: 1
   - chara:
     - cheek: 0
@@ -445,12 +445,12 @@ story:
     - id: 101100
       pos: 2
     - id: 7104
-      name: ""
+      name: sprite_19
       pos: 0
   - bgEffect: shakeLarge
     chara:
     - id: 7104
-      name: ""
+      name: sprite_19
     flashEffect: flashWhite1
     nameLeft: ""
     textBg: shout
@@ -527,7 +527,7 @@ story:
       id: 101100
     - effect: fadeout
       id: 7104
-      name: Kaede
+      name: sprite_19
     narration: At that moment,@I remembered back to the time that Momoko, too,@had
       been hurt by a witch by of my own mistake...
     narrationBg: bg_adv_47104.jpg
@@ -581,7 +581,7 @@ story:
       id: 101000
     - effect: fadeout
       id: 7104
-      name: Kaede
+      name: sprite_19
     narration: At that point, I lost consciousness...
     narrationBg: black
     narrationEffect: in

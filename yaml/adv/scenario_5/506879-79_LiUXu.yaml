@@ -49,7 +49,7 @@ story:
     textClear: 1
   - chara:
     - id: 6109
-      name: ""
+      name: sprite_0
       pos: 0
     nameLeft: ""
     nameRight: Shizuka
@@ -140,7 +140,7 @@ story:
     textRight: Because it's terrifying, isn't it!?
   - chara:
     - id: 6109
-      name: ""
+      name: sprite_0
     textLeft: '[flashEffect:flashWhite2][bgEffect:shakeSmall]蝨＊溷慍‡繧［］貞ｮ医ｌ!!'
   - chara:
     - cheek: 1
@@ -242,7 +242,7 @@ story:
     textRight: Sunao...
   - chara:
     - id: 6109
-      name: ""
+      name: sprite_0
     textBg: shout
     textLeft: '[flashEffect:flashWhite2][bgEffect:shakeSmall]薙Зｧ縲∫嚀俶純Лｵ縺ｦ!?'
   - autoTurnLast: 0.01
@@ -490,7 +490,7 @@ story:
     textClear: 1
   - chara:
     - id: 6109
-      name: ""
+      name: sprite_0
       pos: 1
     nameCenter: ""
     textBg: shout
@@ -499,7 +499,7 @@ story:
     chara:
     - effect: fadeout
       id: 6109
-      name: Shizuka
+      name: sprite_0
     textClear: 1
   - chara:
     - cheek: 0
@@ -534,7 +534,7 @@ story:
       motion: 1
       pos: 2
     - id: 6109
-      name: Shizuka
+      name: sprite_0
       pos: 0
     turnChangeIn: rollInFast
   - chara:
@@ -552,7 +552,7 @@ story:
     textRight: So!
   - chara:
     - id: 6109
-      name: ""
+      name: sprite_0
     nameLeft: ""
     textLeft: 菫ｗｐ＊斬翫Лｑ!!
   - chara:

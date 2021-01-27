@@ -6,7 +6,7 @@ story:
     bgm: bgm01_battle07
     chara:
     - id: 6110
-      name: Yachiyo
+      name: sprite_0
       pos: 1
     turnChangeIn: fadeIn
   - autoTurnLast: 2
@@ -15,7 +15,7 @@ story:
     chara:
     - effect: fadeout
       id: 6110
-      name: Yachiyo
+      name: sprite_0
     textClear: 1
   - chara:
     - cheek: 0
@@ -145,7 +145,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - id: 6110
-      name: ""
+      name: sprite_0
       pos: 1
     nameCenter: ""
     textBg: shout
@@ -153,17 +153,17 @@ story:
   - chara:
     - effect: 7002_damage01
       id: 6110
-      name: ""
+      name: sprite_0
     se: 6257_hit_spike_02_h
   - chara:
     - id: 6110
-      name: ""
+      name: sprite_0
     textCenter: '[flashEffect:flashWhite2]............!!!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
       id: 6110
-      name: Yachiyo & Mifuyu
+      name: sprite_0
     textClear: 1
   - autoTurnLast: 0.5
     chara:
@@ -243,7 +243,7 @@ story:
     textRight: '...Yes.'
   - chara:
     - id: 6110
-      name: ""
+      name: sprite_0
       pos: 0
     nameLeft: ""
     textBg: shout
@@ -275,7 +275,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - id: 6110
-      name: Yachiyo
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -328,7 +328,7 @@ story:
     chara:
     - effect: 7002_damage01
       id: 6110
-      name: Mifuyu
+      name: sprite_0
     se: 6257_hit_spike_02_h
     textClear: 1
   - chara:
@@ -339,7 +339,7 @@ story:
     chara:
     - effect: 7003_damage02
       id: 6110
-      name: Yachiyo
+      name: sprite_0
     surround: 1006A04
     textClear: 1
   - chara:
@@ -355,7 +355,7 @@ story:
   - autoTurnLast: 0.5
     chara:
     - id: 6110
-      name: ""
+      name: sprite_0
     - id: 100200
       mouthOpen: 0
     textBg: shout
@@ -364,14 +364,14 @@ story:
     chara:
     - effect: fadeout
       id: 6110
-      name: Yachiyo
+      name: sprite_0
     se: 3102_enemy_dead
     textClear: 1
   - autoTurnLast: 0.5
     chara:
     - effect: shake
       id: 6110
-      name: Yachiyo
+      name: sprite_0
       pos: 0
     textClear: 1
   - chara:
@@ -388,7 +388,7 @@ story:
     textRight: Right! This is the end...
   - chara:
     - id: 6110
-      name: ???
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_031.exp.json
@@ -416,7 +416,7 @@ story:
       id: 100600
     - effect: fadeout
       id: 6110
-      name: Yachiyo
+      name: sprite_0
     textClear: 1
   - autoTurnLast: 0.1
     bg: bg_adv_46110.jpg
@@ -438,7 +438,7 @@ story:
     bgChangeEffect: cameraPan
   - chara:
     - id: 6110
-      name: ""
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_031.exp.json
@@ -453,7 +453,7 @@ story:
       id: 100600
     - effect: fadeout
       id: 6110
-      name: Yachiyo
+      name: sprite_0
     textClear: 1
   - autoTurnLast: 0.1
     bg: bg_adv_46110.jpg
@@ -481,7 +481,7 @@ story:
   - autoTurnLast: 0.5
     chara:
     - id: 6110
-      name: Yachiyo
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_031.exp.json
@@ -511,7 +511,7 @@ story:
     textRight: Yachan!
   - chara:
     - id: 6110
-      name: ???
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -557,7 +557,7 @@ story:
     textClear: 1
   - chara:
     - id: 6110
-      name: ""
+      name: sprite_0
     nameLeft: ""
     textBg: shout
     textLeft: '[flashEffect:flashWhite2][bgEffect:shakeSmall]............!'
@@ -565,7 +565,7 @@ story:
     chara:
     - effect: fadeout
       id: 6110
-      name: Mifuyu
+      name: sprite_0
     textClear: 1
   - autoTurnLast: 0.1
     bg: bg_adv_46110.jpg

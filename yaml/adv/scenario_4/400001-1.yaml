@@ -512,5 +512,5 @@ story:
     textRight: '[chara:100100:lipSynch_0](Or else I''ll be dead meat...!)'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

@@ -5,7 +5,7 @@ story:
     bg: bg_adv_46000.jpg
     chara:
     - id: 6000
-      name: Yachiyo
+      name: sprite_0
       pos: 1
     turnChangeIn: fadeIn
   - autoTurnLast: 1
@@ -15,7 +15,7 @@ story:
     chara:
     - effect: fadeout
       id: 6000
-      name: Yachiyo
+      name: sprite_0
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -98,7 +98,7 @@ story:
       motion: 200
       mouthOpen: 1
     - id: 6000
-      name: Yachiyo
+      name: sprite_0
       pos: 0
     nameRight: Yachiyo
     textBg: shout
@@ -215,7 +215,7 @@ story:
       motion: 0
       mouthOpen: 1
     - id: 6000
-      name: Yachiyo
+      name: sprite_0
       pos: 0
     nameRight: Yachiyo
     textRight: Ah...

@@ -57,7 +57,7 @@ story:
     bg: black
     chara:
     - id: 6110
-      name: Yachiyo
+      name: sprite_0
       pos: 1
     turnChangeIn: fadeIn
   - bgm: bgm05_event08
@@ -145,7 +145,7 @@ story:
   - autoTurnLast: 0.5
     chara:
     - id: 6110
-      name: Yachiyo
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -171,7 +171,7 @@ story:
     textRight: Right! This is the end...
   - chara:
     - id: 6110
-      name: ???
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_031.exp.json

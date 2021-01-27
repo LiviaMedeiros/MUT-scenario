@@ -6,7 +6,7 @@ story:
     bgm: bgm23_tokime06
     chara:
     - id: 6107
-      name: Chiharu
+      name: sprite_0
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -24,7 +24,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 6107
-      name: ""
+      name: sprite_0
     textLeft: '[flashEffect:flashRed2][surround:1026A02][chara:6107:effect_shake][bgEffect:shakeLarge]佛當舌斯!?'
   - autoTurnLast: 0.5
     chara:
@@ -58,7 +58,7 @@ story:
   - autoTurnLast: 0.5
     chara:
     - id: 6107
-      name: Shizuka
+      name: sprite_0
       pos: 0
   - chara:
     - cheek: 0
@@ -73,7 +73,7 @@ story:
       Sevenfold Swords!'
   - chara:
     - id: 6107
-      name: ""
+      name: sprite_0
     textBg: shout
     textLeft: '[flashEffect:flashRed2][surround:1012A03][chara:6107:effect_shake][bgEffect:shakeLarge]願合者愍!?!?'
   - autoTurnLast: 0.5
@@ -92,7 +92,7 @@ story:
       motion: 1
       pos: 2
     - id: 6107
-      name: Sunao
+      name: sprite_0
       pos: 0
     turnChangeIn: rollInFast
   - chara:
@@ -109,7 +109,7 @@ story:
     bg: white
     chara:
     - id: 6107
-      name: ""
+      name: sprite_0
       pos: 1
     surround: 1027A02
     turnChangeIn: whiteIn
@@ -118,7 +118,7 @@ story:
     chara:
     - effect: shake
       id: 6107
-      name: ""
+      name: sprite_0
     flashEffect: flashRed2
     nameCenter: ""
     textCenter: 得十佛下!?!?
@@ -127,7 +127,7 @@ story:
     bg: bg_adv_50051.jpg
     chara:
     - id: 6107
-      name: Mikoshiba
+      name: sprite_0
       pos: 0
     - cheek: 2
       face: mtn_ex_030.exp.json
@@ -154,7 +154,7 @@ story:
   - chara:
     - effect: shake
       id: 6107
-      name: ""
+      name: sprite_0
     textLeft: '............!!'
   - autoTurnLast: 0.2
     chara:
@@ -270,7 +270,7 @@ story:
     textClear: 1
   - chara:
     - id: 6107
-      name: ""
+      name: sprite_0
       pos: 1
     nameCenter: ""
     textBg: shout
@@ -279,7 +279,7 @@ story:
     chara:
     - effect: fadeout
       id: 6107
-      name: Chiharu
+      name: sprite_0
     textClear: 1
   - chara:
     - cheek: 0
@@ -345,14 +345,14 @@ story:
       motion: 0
       pos: 2
     - id: 6107
-      name: Mikoshiba
+      name: sprite_0
       pos: 0
     nameLeft: ""
     nameRight: Mikoshiba
     textRight: This is thy last chance, Devil! Don't you dare fail this time...
   - chara:
     - id: 6107
-      name: ""
+      name: sprite_0
     textLeft: 忍行實相　稱光三汝　生受門須
   - autoTurnLast: 0.2
     chara:
@@ -360,7 +360,7 @@ story:
       id: 801800
     - effect: fadeout
       id: 6107
-      name: Shizuka
+      name: sprite_0
     textClear: 1
   - chara:
     - cheek: 0

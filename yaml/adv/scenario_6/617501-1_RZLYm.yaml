@@ -292,7 +292,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100701
       live2dParam:
-        name: Chiharu
+        name: PARAM_BRACELET
         value: 1
       motion: 0
       pos: 0
@@ -314,7 +314,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 101403
       live2dParam:
-        name: Chiharu
+        name: PARAM_BRACELET
         value: 1
       motion: 0
       pos: 2
@@ -341,7 +341,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 101403
       live2dParam:
-        name: Nemu
+        name: PARAM_BRACELET
         value: 1
       motion: 200
       pos: 0
@@ -353,7 +353,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100701
       live2dParam:
-        name: Touka
+        name: PARAM_BRACELET
         value: 1
       motion: 100
       pos: 0
@@ -696,7 +696,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100701
       live2dParam:
-        name: Touka
+        name: PARAM_BRACELET
         value: 1
       motion: 1
       pos: 0

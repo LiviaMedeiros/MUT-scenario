@@ -6,7 +6,7 @@ story:
     bgm: stop
     chara:
     - id: 7107
-      name: ""
+      name: sprite_0
       pos: 1
     turnChangeIn: fadeIn
   - autoTurnLast: 0.5
@@ -14,7 +14,7 @@ story:
     chara:
     - effect: shake
       id: 7107
-      name: ""
+      name: sprite_0
     flashEffect: flashRed2
     nameCenter: ""
     surround: 1026A04
@@ -25,7 +25,7 @@ story:
     chara:
     - effect: fadeout
       id: 7107
-      name: Chiharu
+      name: sprite_0
     se: 3102_enemy_dead
     textClear: 1
   - chara:
@@ -277,13 +277,13 @@ story:
   - bgm: bgm24_story05
     chara:
     - id: 7107
-      name: ""
+      name: sprite_0
       pos: 0
     - id: 7107
-      name: ""
+      name: sprite_1
       pos: 2
     - id: 7107
-      name: ""
+      name: sprite_2
       pos: 1
     nameCenter: ""
     textCenter: '...!!'
@@ -291,13 +291,13 @@ story:
     chara:
     - effect: fadeout
       id: 7107
-      name: Chiharu
+      name: sprite_0
     - effect: fadeout
       id: 7107
-      name: Chiharu
+      name: sprite_1
     - effect: fadeout
       id: 7107
-      name: Chiharu
+      name: sprite_2
     textClear: 1
   - chara:
     - cheek: 0

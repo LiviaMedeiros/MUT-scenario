@@ -254,7 +254,7 @@ story:
   - autoTurnLast: 0.5
     chara:
     - id: 7211
-      name: Ayame
+      name: sprite_0
       pos: 0
     textClear: 1
   - chara:
@@ -322,10 +322,10 @@ story:
   - autoTurnLast: 0.5
     chara:
     - id: 7211
-      name: Hazuki
+      name: sprite_0
       pos: 0
     - id: 7211
-      name: Hazuki
+      name: sprite_1
       pos: 2
   - autoTurnLast: 1
     bgEffect: shakeLarge
@@ -333,10 +333,10 @@ story:
     chara:
     - effect: fadeout
       id: 7211
-      name: Hazuki
+      name: sprite_1
     - effect: fadeout
       id: 7211
-      name: Hazuki
+      name: sprite_0
     textClear: 1
   - chara:
     - cheek: 0
@@ -360,7 +360,7 @@ story:
     textClear: 1
   - chara:
     - id: 7211
-      name: ""
+      name: sprite_1
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json

@@ -580,5 +580,5 @@ story:
   - autoTurnLast: 2
     narrationEffect: out
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

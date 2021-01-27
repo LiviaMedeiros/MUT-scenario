@@ -40,7 +40,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - id: 6000
-      name: Yachiyo
+      name: sprite_0
       pos: 0
   - autoTurnLast: 1.5
     flashEffect: explosion
@@ -48,7 +48,7 @@ story:
     chara:
     - effect: fadeout
       id: 6000
-      name: Yachiyo
+      name: sprite_0
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json

@@ -128,12 +128,12 @@ story:
       motion: 0
       pos: 0
     - id: 7107
-      name: ""
+      name: sprite_0
       pos: 2
     turnChangeIn: rollInFast
   - chara:
     - id: 7107
-      name: ""
+      name: sprite_0
     nameLeft: Chiharu
     nameRight: ""
     textBg: shout
@@ -148,7 +148,7 @@ story:
     textLeft: '[flashEffect:flashWhite2][surround:1026A01]Hrragh!'
   - chara:
     - id: 7107
-      name: ""
+      name: sprite_0
     textRight: '......'
   - chara:
     - cheek: 0
@@ -160,7 +160,7 @@ story:
     chara:
     - effect: fadeout
       id: 7107
-      name: Sunao
+      name: sprite_0
     - effect: fadeout
       id: 102600
     textClear: 1
@@ -185,14 +185,14 @@ story:
       motion: 0
       pos: 0
     - id: 7107
-      name: ""
+      name: sprite_0
       pos: 2
   - autoTurnLast: 0.5
     bgEffect: shakeLarge
     chara:
     - effect: shake
       id: 7107
-      name: ""
+      name: sprite_0
     flashEffect: flashRed2
     surround: 1027A02
     textBg: shout
@@ -201,7 +201,7 @@ story:
     chara:
     - effect: fadeout
       id: 7107
-      name: Chiharu
+      name: sprite_0
     se: 3102_enemy_dead
     textClear: 1
   - chara:
