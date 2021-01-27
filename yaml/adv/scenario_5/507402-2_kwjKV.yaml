@@ -11,7 +11,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - bgm: bgm23_promised05
-    nameNarration: "\uFEFF???"
+    nameNarration: ???
     narration: Everything has gone according to plan... @That sweet romance you've
       been wishing for, @I'll tear it to shreds!
     narrationBg: black

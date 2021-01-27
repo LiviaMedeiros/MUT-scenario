@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 100201
       motion: 301
-    nameCenter: "\uFEFFYachiyo"
+    nameCenter: Yachiyo
     textCenter: '...@Hello? It''s been a while.'
     turnChangeOut: fadeOut
   - chara:

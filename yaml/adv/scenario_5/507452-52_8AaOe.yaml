@@ -23,7 +23,7 @@ story:
     - id: 304400
       posX: -20
     nameNarration: ""
-    narration: "\uFEFF*Poke*"
+    narration: '*Poke*'
     narrationCoverOpacity: 150
     narrationEffect: in
     turnChangeOut: fadeOut

@@ -17,7 +17,7 @@ story:
       id: 102102
       motion: 1
       pos: 0
-    nameLeft: "\uFEFFYuna"
+    nameLeft: Yuna
     textLeft: Is Ao coming?
     turnChangeOut: fadeOut
   - chara:

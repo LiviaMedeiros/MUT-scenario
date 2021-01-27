@@ -22,7 +22,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 770084
-    nameLeft: "\uFEFFRyuugasaki Girl"
+    nameLeft: Ryuugasaki Girl
     surround: 7003_wind
     textLeft: These are all of the Magical Girls I could gather from Ryuugasaki.
     turnChangeOut: fadeOut

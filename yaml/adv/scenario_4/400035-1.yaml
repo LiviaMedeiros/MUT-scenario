@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 101700
       lipSynch: 0
-    nameLeft: "\uFEFFMitama"
+    nameLeft: Mitama
     textLeft: '.......'
     turnChangeOut: fadeOut
   - chara:

@@ -3,7 +3,7 @@ story:
   group_1:
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
-  - nameNarration: "\uFEFFKonoha "
+  - nameNarration: 'Konoha '
     narration: After Hazuki told me about how she let word of Endless Mirrors slip
       to Leila's group... @@I contacted someone and asked if we could discuss things
       in person.

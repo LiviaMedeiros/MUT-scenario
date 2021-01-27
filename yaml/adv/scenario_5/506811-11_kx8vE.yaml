@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 102501
       motion: 100
-    nameLeft: "\uFEFFShizuka"
+    nameLeft: Shizuka
     nameRight: Chiharu
     textLeft: Alright! Today, let's go through the whole routine of finding a Devil
       and defeating it.

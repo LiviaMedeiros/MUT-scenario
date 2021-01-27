@@ -4,7 +4,7 @@ story:
   - bg: black
     bgm: stop
     nameNarration: ""
-    narration: "\uFEFF*Splash*..."
+    narration: '*Splash*...'
     narrationBg: black
     narrationEffect: in
     turnChangeIn: fadeIn

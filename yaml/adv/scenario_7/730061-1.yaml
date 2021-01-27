@@ -19,7 +19,7 @@ story:
     chara:
     - id: 300350
     nameLeft: Emiri
-    nameRight: "\uFEFFHinano"
+    nameRight: Hinano
     textRight: Ha!
     turnChangeOut: fadeOut
   - chara:

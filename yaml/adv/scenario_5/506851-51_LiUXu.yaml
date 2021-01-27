@@ -14,7 +14,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 102601
-    nameCenter: "\uFEFFChiharu"
+    nameCenter: Chiharu
     textCenter: Ng... Ngg...
     turnChangeOut: fadeOut
   - chara:

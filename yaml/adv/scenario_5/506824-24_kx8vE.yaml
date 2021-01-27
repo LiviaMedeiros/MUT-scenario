@@ -19,7 +19,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 102601
-    nameCenter: "\uFEFFChiharu"
+    nameCenter: Chiharu
     textCenter: Shizuka-chan...
     turnChangeOut: fadeOut
   - chara:

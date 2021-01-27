@@ -21,7 +21,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_event_1068/vo_full_506882-82-1
     nameLeft: Shizuka
-    nameRight: "\uFEFFSunao"
+    nameRight: Sunao
     textRight: Diviner.
     turnChangeOut: fadeOut
   - chara:

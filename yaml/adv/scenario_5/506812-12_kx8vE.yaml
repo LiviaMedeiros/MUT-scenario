@@ -30,7 +30,7 @@ story:
   - chara:
     - id: 102501
       lipSynch: 0
-    nameLeft: "\uFEFFShizuka"
+    nameLeft: Shizuka
     nameRight: Sunao
     textLeft: '......'
     turnChangeOut: fadeOut

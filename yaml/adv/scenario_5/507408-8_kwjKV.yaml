@@ -23,7 +23,7 @@ story:
   - bgm: bgm03_story13
     chara:
     - id: 770084
-    nameCenter: "\uFEFFMagical Girl"
+    nameCenter: Magical Girl
     textCenter: Everyone you called for is here.
     turnChangeOut: fadeOut
   - autoTurnLast: 0.3

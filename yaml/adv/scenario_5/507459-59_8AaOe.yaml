@@ -19,7 +19,7 @@ story:
     chara:
     - eyeClose: 1
       id: 102301
-    nameCenter: "\uFEFFAo"
+    nameCenter: Ao
     textCenter: Phew...
     turnChangeOut: fadeOut
   - chara:

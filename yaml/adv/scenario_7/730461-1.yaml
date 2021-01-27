@@ -14,7 +14,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 304650
-    nameCenter: "\uFEFFRyou"
+    nameCenter: Ryou
     textCenter: (Today I've come to the beach to collect data.)
     turnChangeOut: fadeOut
   - chara:

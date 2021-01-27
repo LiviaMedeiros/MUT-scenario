@@ -12,7 +12,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm23_promised05
     nameNarration: ""
-    narration: "\uFEFFOur future was stained with blood @from the moment we were born."
+    narration: Our future was stained with blood @from the moment we were born.
     narrationBg: bg_adv_20522.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

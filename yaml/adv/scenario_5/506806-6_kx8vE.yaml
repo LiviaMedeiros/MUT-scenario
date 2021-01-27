@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 800600
     nameLeft: Shizuka's Mother
-    nameRight: "\uFEFFChiharu's Mother"
+    nameRight: Chiharu's Mother
     textRight: I'm Hiroe Chiharu's mother. @Thank you for your time today.
     turnChangeOut: fadeOut
   - chara:

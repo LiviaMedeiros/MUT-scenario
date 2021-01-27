@@ -10,9 +10,9 @@ story:
       motion: 0
       pos: 1
     nameNarration: ""
-    narration: "\uFEFFIf I become a Devil, I'll surely kill someone. @I couldn't be
-      someone who'd save the Land of the Rising Sun. @I want to tell everyone, but
-      I can't do anything more."
+    narration: If I become a Devil, I'll surely kill someone. @I couldn't be someone
+      who'd save the Land of the Rising Sun. @I want to tell everyone, but I can't
+      do anything more.
     narrationBg: black
     narrationEffect: in
     turnChangeIn: fadeIn

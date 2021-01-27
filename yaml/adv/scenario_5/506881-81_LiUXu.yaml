@@ -31,7 +31,7 @@ story:
       motion: 100
     nameCenter: Chiharu
     nameLeft: Shizuka
-    nameRight: "\uFEFFSunao"
+    nameRight: Sunao
     textRight: Do you think we can summon him without @the dancers?
     turnChangeOut: fadeOut
   - chara:

@@ -19,7 +19,7 @@ story:
     chara:
     - id: 102300
       lipSynch: 0
-    nameCenter: "\uFEFFAo"
+    nameCenter: Ao
     textCenter: (Now I know Juri's plans...)
     turnChangeOut: fadeOut
   - chara:

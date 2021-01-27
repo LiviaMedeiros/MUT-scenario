@@ -24,7 +24,7 @@ story:
   - chara:
     - id: 800600
     nameLeft: Shizuka's mother
-    nameRight: "\uFEFFChiharu's mother"
+    nameRight: Chiharu's mother
     textRight: '............*Sigh*.'
     turnChangeOut: fadeOut
   - chara:

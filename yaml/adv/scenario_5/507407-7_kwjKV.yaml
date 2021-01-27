@@ -13,7 +13,7 @@ story:
   - chara:
     - id: 102103
       lipSynch: 0
-    nameCenter: "\uFEFFYuna"
+    nameCenter: Yuna
     surround: 7003_wind
     textCenter: '........'
     turnChangeOut: fadeOut

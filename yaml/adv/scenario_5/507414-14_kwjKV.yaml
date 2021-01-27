@@ -14,7 +14,7 @@ story:
     chara:
     - id: 102301
       lipSynch: 0
-    nameCenter: "\uFEFFAo"
+    nameCenter: Ao
     textCenter: (Now I know Ryuugasaki's plans...)
     turnChangeOut: fadeOut
   - chara:

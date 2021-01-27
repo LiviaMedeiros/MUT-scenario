@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 801800
     nameLeft: Shizuka
-    nameRight: "\uFEFFMikoshiba"
+    nameRight: Mikoshiba
     textRight: '...And I really did say all of that, correct...?'
     turnChangeOut: fadeOut
   - chara:

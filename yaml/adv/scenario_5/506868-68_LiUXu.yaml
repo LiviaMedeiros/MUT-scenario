@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 102600
     nameLeft: Shizuka
-    nameRight: "\uFEFFChiharu"
+    nameRight: Chiharu
     textRight: The smell definitely feels stronger than before...
     turnChangeOut: fadeOut
   - chara:

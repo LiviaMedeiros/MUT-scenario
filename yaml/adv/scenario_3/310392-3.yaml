@@ -16,7 +16,7 @@ story:
       motion: 1
       pos: 2
     nameLeft: Sudachi
-    nameRight: "\uFEFFMikage"
+    nameRight: Mikage
     turnChangeIn: fadeIn
   - textRight: As for what kind of game it is...
     turnChangeOut: fadeOut

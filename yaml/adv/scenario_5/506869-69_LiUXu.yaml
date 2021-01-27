@@ -20,7 +20,7 @@ story:
     - id: 102600
       motion: 400
     nameLeft: Sunao
-    nameRight: "\uFEFFChiharu"
+    nameRight: Chiharu
     textRight: Granny's controlling the Devil...!?
     turnChangeOut: fadeOut
   - chara:

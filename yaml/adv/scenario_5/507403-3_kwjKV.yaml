@@ -18,7 +18,7 @@ story:
   - bgm: bgm23_promised02
     chara:
     - id: 102300
-    nameLeft: "\uFEFFAo"
+    nameLeft: Ao
     textLeft: I hope orange juice is good?~
     turnChangeOut: fadeOut
   - chara:

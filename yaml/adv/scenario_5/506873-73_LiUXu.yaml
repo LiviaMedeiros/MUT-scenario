@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 102701
       motion: 100
-    nameLeft: "\uFEFFSunao"
+    nameLeft: Sunao
     nameRight: Mikoshiba
     textLeft: I went to Mikoshiba's house, and I found @something...
     turnChangeOut: fadeOut

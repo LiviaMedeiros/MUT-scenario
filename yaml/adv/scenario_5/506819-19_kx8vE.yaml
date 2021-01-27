@@ -13,7 +13,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 102601
-    nameCenter: "\uFEFFChiharu"
+    nameCenter: Chiharu
     textCenter: Hahh... well, here I am...
     turnChangeOut: fadeOut
   - chara:

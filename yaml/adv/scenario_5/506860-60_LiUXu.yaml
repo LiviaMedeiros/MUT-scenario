@@ -13,7 +13,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 102500
-    nameCenter: "\uFEFFShizuka"
+    nameCenter: Shizuka
     textCenter: There's a Devil nesting in my hometown.
     turnChangeOut: fadeOut
   - chara:

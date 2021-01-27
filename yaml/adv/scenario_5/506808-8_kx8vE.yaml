@@ -13,7 +13,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 801800
-    nameCenter: "\uFEFFMikoshiba"
+    nameCenter: Mikoshiba
     textCenter: Now...
     turnChangeOut: fadeOut
   - chara:

@@ -20,7 +20,7 @@ story:
     - id: 100101
       motion: 301
       voiceFull: fullvoice/section_102101/vo_full_102101-2-1
-    nameLeft: "\uFEFFIroha"
+    nameLeft: Iroha
     textLeft: Whew... @I managed to defeat it...
     turnChangeOut: fadeOut
     turnEffect: blackFrame

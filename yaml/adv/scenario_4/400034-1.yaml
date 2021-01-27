@@ -20,7 +20,7 @@ story:
       motion: 200
     - id: 300500
       motion: 200
-    nameRight: "\uFEFFMeiyui"
+    nameRight: Meiyui
     textRight: W-who's there?!
     turnChangeOut: fadeOut
   - chara:

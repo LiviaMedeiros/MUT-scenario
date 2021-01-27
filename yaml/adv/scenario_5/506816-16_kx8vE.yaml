@@ -20,7 +20,7 @@ story:
   - chara:
     - id: 102601
     nameLeft: Shizuka
-    nameRight: "\uFEFFChiharu"
+    nameRight: Chiharu
     textRight: But what d'you think happens if it gets completely tainted?
     turnChangeOut: fadeOut
   - chara:

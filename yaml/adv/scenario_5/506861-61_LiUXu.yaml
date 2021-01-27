@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 102500
       motion: 100
-    nameCenter: "\uFEFFShizuka"
+    nameCenter: Shizuka
     textBg: shout
     textCenter: Is anyone in here!?
     turnChangeOut: fadeOut

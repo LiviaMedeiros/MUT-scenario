@@ -13,7 +13,7 @@ story:
   - bgm: bgm24_story04
     chara:
     - id: 102300
-    nameCenter: "\uFEFFAo"
+    nameCenter: Ao
     textCenter: Ryuugasaki is going to attack Torayacho in two days~
     turnChangeOut: fadeOut
   - chara:

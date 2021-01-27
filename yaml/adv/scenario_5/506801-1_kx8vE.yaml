@@ -3,7 +3,7 @@ story:
   group_1:
   - bg: bg_adv_50022.jpg
     bgm: stop
-    nameNarration: "\uFEFFChiharu"
+    nameNarration: Chiharu
     narration: I asked about my family on the way there.
     narrationBg: black
     narrationEffect: in

@@ -20,7 +20,7 @@ story:
     nameLeft: ""
     nameRight: Shizuka
     textBg: shout
-    textLeft: "\uFEFF[flashEffect:flashWhite2][bgEffect:shakeSmall]BO—N BOBO—N BO—N"
+    textLeft: '[flashEffect:flashWhite2][bgEffect:shakeSmall]BO—N BOBO—N BO—N'
     turnChangeOut: fadeOut
   - chara:
     - id: 102500

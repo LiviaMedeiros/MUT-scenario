@@ -15,7 +15,7 @@ story:
     nameRight: ""
     turnChangeIn: fadeIn
     turnEffect: blackFrame
-  - textCenter: "\uFEFFThe last period is starting!"
+  - textCenter: The last period is starting!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0

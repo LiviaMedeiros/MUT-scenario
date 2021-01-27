@@ -10,7 +10,7 @@ story:
       motion: 0
       pos: 1
     nameNarration: ""
-    narration: "\uFEFF*Ka-chak*..."
+    narration: '*Ka-chak*...'
     narrationBg: black
     narrationEffect: in
     turnChangeIn: fadeIn

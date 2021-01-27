@@ -6,7 +6,7 @@ story:
     bgm: stop
     chara:
     - id: 7107
-      name: "\uFEFFSunao"
+      name: Sunao
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -18,7 +18,7 @@ story:
     - id: 102700
       motion: 100
     nameLeft: ""
-    nameRight: "\uFEFFSunao"
+    nameRight: Sunao
     textRight: '[flashEffect:flashWhite2][surround:1027A01]Take this-- and vanish!'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.5

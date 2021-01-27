@@ -22,7 +22,7 @@ story:
       lipSynch: 0
       motion: 300
     nameLeft: Shizuka
-    nameRight: "\uFEFFSunao"
+    nameRight: Sunao
     textRight: '............'
     turnChangeOut: fadeOut
   - chara:

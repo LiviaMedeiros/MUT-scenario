@@ -14,7 +14,7 @@ story:
     chara:
     - id: 102103
       lipSynch: 0
-    nameCenter: "\uFEFFYuna"
+    nameCenter: Yuna
     textCenter: (More people know about us losing the Horse than I thought...)
     turnChangeOut: fadeOut
   - chara:

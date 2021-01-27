@@ -6,7 +6,7 @@ story:
     bgm: bgm23_tokime06
     chara:
     - id: 6107
-      name: "\uFEFFChiharu"
+      name: Chiharu
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -18,7 +18,7 @@ story:
     - id: 102600
       motion: 200
     nameLeft: ""
-    nameRight: "\uFEFFChiharu"
+    nameRight: Chiharu
     textBg: shout
     textRight: '[flashEffect:flashWhite2][surround:1026A01]Suffer thyself to be bound!'
     turnChangeOut: fadeOut

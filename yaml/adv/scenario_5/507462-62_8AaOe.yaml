@@ -10,7 +10,7 @@ story:
       motion: 0
       pos: 1
     turnChangeIn: fadeIn
-  - nameNarration: "\uFEFFJuri"
+  - nameNarration: Juri
     narration: It's been a while since the last battle, and my wounds have been healing,
       slowly but steadily.
     narrationCoverOpacity: 150

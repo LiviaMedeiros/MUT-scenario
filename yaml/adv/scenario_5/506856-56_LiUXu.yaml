@@ -15,7 +15,7 @@ story:
     - id: 102700
       lipSynch: 0
       motion: 200
-    nameCenter: "\uFEFFSunao"
+    nameCenter: Sunao
     textCenter: (That reminds me. Mikoshiba said...)
     turnChangeOut: fadeOut
   - autoTurnLast: 2

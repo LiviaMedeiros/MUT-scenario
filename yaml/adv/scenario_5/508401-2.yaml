@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 300601
       mouthOpen: 1
-    nameCenter: "\uFEFFEmiri"
+    nameCenter: Emiri
     textCenter: '...haa haa...'
     turnChangeOut: fadeOut
   - autoTurnLast: 2

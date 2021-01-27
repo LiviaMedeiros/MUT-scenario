@@ -4,7 +4,7 @@ story:
   - autoTurnLast: 0.01
     bgm: bgm03_story06
     turnChangeIn: fadeIn
-  - nameNarration: "\uFEFFMizuki Rui"
+  - nameNarration: Mizuki Rui
     narration: I have...@What the world calls "chuunibyou"...
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in

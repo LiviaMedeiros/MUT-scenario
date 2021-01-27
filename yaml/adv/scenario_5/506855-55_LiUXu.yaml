@@ -17,7 +17,7 @@ story:
     - id: 102700
       lipSynch: 0
       motion: 300
-    nameCenter: "\uFEFFSunao"
+    nameCenter: Sunao
     textCenter: (I'm probably just anxious because of how tense this situation is...)
     turnChangeOut: fadeOut
   - chara:

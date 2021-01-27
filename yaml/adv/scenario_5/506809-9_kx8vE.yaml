@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 800600
     nameLeft: Chiharu
-    nameRight: "\uFEFFChiharu's Mother"
+    nameRight: Chiharu's Mother
     textRight: Chiharu... Are you really alright...?
     turnChangeOut: fadeOut
   - chara:

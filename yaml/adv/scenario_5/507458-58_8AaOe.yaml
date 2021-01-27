@@ -13,7 +13,7 @@ story:
   - bgm: bgm03_story04
     chara:
     - id: 102102
-    nameCenter: "\uFEFFYuna"
+    nameCenter: Yuna
     textCenter: What are you girls really here for...?
     turnChangeOut: fadeOut
   - chara:

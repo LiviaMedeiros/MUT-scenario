@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 102501
     nameLeft: Chiharu
-    nameRight: "\uFEFFShizuka"
+    nameRight: Shizuka
     textRight: In short, a completely tainted jewel symbolizes @a Diviner's coming
       of age.
     turnChangeOut: fadeOut

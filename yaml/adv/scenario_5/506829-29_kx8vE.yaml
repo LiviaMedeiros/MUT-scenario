@@ -11,7 +11,7 @@ story:
       motion: 0
       pos: 1
     turnChangeIn: fadeIn
-  - nameNarration: "\uFEFFSunao"
+  - nameNarration: Sunao
     narration: I never wanted to do any of this. @ I'd simply been forced to...
     narrationBg: ""
     narrationEffect: in

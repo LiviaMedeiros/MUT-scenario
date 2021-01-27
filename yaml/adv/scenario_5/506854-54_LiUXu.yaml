@@ -24,7 +24,7 @@ story:
   - chara:
     - id: 102601
     nameLeft: Sunao
-    nameRight: "\uFEFFChiharu"
+    nameRight: Chiharu
     textRight: Shizuka-chan, Sunao-chan, the Devil's reaction is getting stronger...
     turnChangeOut: fadeOut
   - chara:

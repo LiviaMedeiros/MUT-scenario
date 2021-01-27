@@ -20,7 +20,7 @@ story:
     nameLeft: ""
     nameRight: Shizuka
     textBg: shout
-    textLeft: "\uFEFF[flashEffect:flashRed2][surround:1012A03][chara:6103:effect_shake][bgEffect:shakeLarge]ZARIZARI…☆…◇…!?!?"
+    textLeft: '[flashEffect:flashRed2][surround:1012A03][chara:6103:effect_shake][bgEffect:shakeLarge]ZARIZARI…☆…◇…!?!?'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0

@@ -18,7 +18,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 801000
-    nameLeft: "\uFEFFShizuka's Mother"
+    nameLeft: Shizuka's Mother
     nameRight: Chiharu
     textLeft: '[flashEffect:flashWhite2]Still no good, Charu! @You''re relying too
       much on your Diviner powers.'

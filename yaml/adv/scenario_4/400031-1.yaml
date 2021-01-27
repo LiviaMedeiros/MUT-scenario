@@ -19,7 +19,7 @@ story:
     turnEffect: blackFrame
   - chara:
     - id: 302600
-    nameLeft: "\uFEFFKonoha"
+    nameLeft: Konoha
     textLeft: But if we feel anything even the least bit amiss, we'll @get straight
       out of here.
     turnChangeOut: fadeOut

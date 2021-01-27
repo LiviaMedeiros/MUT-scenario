@@ -14,7 +14,7 @@ story:
       id: 102601
       motion: 0
       pos: 1
-    nameNarration: "\uFEFFChiharu"
+    nameNarration: Chiharu
     narration: '*Sniff sniff sniff*'
     narrationBg: bg_adv_50031.jpg
     narrationEffect: in

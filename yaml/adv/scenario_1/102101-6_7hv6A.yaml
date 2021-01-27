@@ -18,7 +18,7 @@ story:
     - id: 6011
       name: sprite_0
     nameLeft: ""
-    textLeft: "\uFEFF∵Hihi_fufu-!!"
+    textLeft: ∵Hihi_fufu-!!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0

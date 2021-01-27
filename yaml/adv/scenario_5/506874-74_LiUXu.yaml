@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 102601
     nameLeft: Shizuka
-    nameRight: "\uFEFFChiharu"
+    nameRight: Chiharu
     textRight: Prices of lives...?
     turnChangeOut: fadeOut
   - chara:

@@ -18,7 +18,7 @@ story:
   - bgm: bgm23_promised03
     chara:
     - id: 102103
-    nameRight: "\uFEFFYuna"
+    nameRight: Yuna
     textRight: Hey, Ao.
     turnChangeOut: fadeOut
   - chara:

@@ -13,7 +13,7 @@ story:
       pos: 1
       soulGem: 0
     turnChangeIn: fadeIn
-  - nameNarration: "\uFEFFChiharu"
+  - nameNarration: Chiharu
     narration: I've admired them for so long.
     narrationBg: ""
     narrationEffect: in

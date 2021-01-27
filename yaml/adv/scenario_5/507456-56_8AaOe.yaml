@@ -12,7 +12,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 800202
-    nameCenter: "\uFEFFRyuugasaki Girl"
+    nameCenter: Ryuugasaki Girl
     textCenter: I want you to show me your proof.
     turnChangeOut: fadeOut
     turnEffect: blackFrame

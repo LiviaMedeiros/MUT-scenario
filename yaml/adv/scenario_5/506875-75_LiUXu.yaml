@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 102700
       lipSynch: 0
-    nameCenter: "\uFEFFSunao"
+    nameCenter: Sunao
     textCenter: (A lot of audio files...)
     turnChangeOut: fadeOut
   - chara:

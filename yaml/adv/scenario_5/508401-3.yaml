@@ -14,7 +14,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 300601
-    nameCenter: "\uFEFFEmiri"
+    nameCenter: Emiri
     textCenter: Hmm...
     turnChangeOut: fadeOut
   - chara:

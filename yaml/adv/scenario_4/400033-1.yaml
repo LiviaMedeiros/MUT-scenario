@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 100201
       motion: 200
-    nameRight: "\uFEFFYachiyo"
+    nameRight: Yachiyo
     surround: 7003_wind
     textRight: What have you been doing here?
     turnChangeOut: fadeOut

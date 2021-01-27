@@ -19,7 +19,7 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF*Splash*..."
+    narration: '*Splash*...'
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut

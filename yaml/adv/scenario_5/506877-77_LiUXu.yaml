@@ -18,7 +18,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 102501
-    nameLeft: "\uFEFFShizuka"
+    nameLeft: Shizuka
     nameRight: Shizuka's mother
     textLeft: So what were you going to tell us?
     turnChangeOut: fadeOut

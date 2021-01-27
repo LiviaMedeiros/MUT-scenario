@@ -20,7 +20,7 @@ story:
     - id: 102500
       motion: 100
     nameLeft: ""
-    nameRight: "\uFEFFShizuka"
+    nameRight: Shizuka
     textRight: Okay! My worries are gone, and I'm feeling fine!
     turnChangeOut: fadeOut
   - chara:

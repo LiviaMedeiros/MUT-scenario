@@ -14,7 +14,7 @@ story:
     - id: 102301
       lipSynch: 0
       motion: 300
-    nameCenter: "\uFEFFAo"
+    nameCenter: Ao
     surround: 7102_townbuzz
     textCenter: (With Hebinomiya, I couldn't get what I wanted...)
     turnChangeOut: fadeOut

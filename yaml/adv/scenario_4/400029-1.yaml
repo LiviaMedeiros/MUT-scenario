@@ -15,7 +15,7 @@ story:
       id: 301200
       motion: 0
       pos: 2
-    nameLeft: "\uFEFFNanaka"
+    nameLeft: Nanaka
     nameRight: Meiyui
     turnChangeIn: fadeIn
   - chara:

@@ -3,7 +3,7 @@ story:
   group_1:
   - bg: bg_adv_50074.jpg
     bgm: stop
-    nameNarration: "\uFEFFChiharu"
+    nameNarration: Chiharu
     narration: The rain showed no sign of stopping...
     narrationBg: bg_adv_50075.jpg
     narrationEffect: in

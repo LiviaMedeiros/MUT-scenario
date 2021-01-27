@@ -26,7 +26,7 @@ story:
     - id: 102601
       motion: 200
     nameLeft: Chiharu's Mother
-    nameRight: "\uFEFFChiharu"
+    nameRight: Chiharu
     textRight: All done! That meal was great.
     turnChangeOut: fadeOut
   - chara:

@@ -25,7 +25,7 @@ story:
   - bgm: bgm03_story02
     chara:
     - id: 101700
-    nameLeft: "\uFEFFMitama"
+    nameLeft: Mitama
     textLeft: 'Everyone, have your drinks ready, alriiight... '
     turnChangeOut: fadeOut
   - chara:

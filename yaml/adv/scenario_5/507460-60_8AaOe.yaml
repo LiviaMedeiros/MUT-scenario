@@ -12,7 +12,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 102400
-    nameCenter: "\uFEFFJuri"
+    nameCenter: Juri
     surround: 7003_wind
     textCenter: That hurts...
     turnChangeOut: fadeOut

@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 102601
       lipSynch: 0
-    nameCenter: "\uFEFFChiharu"
+    nameCenter: Chiharu
     textCenter: '......'
     turnChangeOut: fadeOut
   - chara:

@@ -24,7 +24,7 @@ story:
   - chara:
     - id: 100201
       motion: 100
-    nameRight: "\uFEFFYachiyo"
+    nameRight: Yachiyo
     textRight: Are you doing any better?
     turnChangeOut: fadeOut
   - chara:

@@ -30,7 +30,7 @@ story:
     chara:
     - id: 302100
       motion: 200
-    nameRight: "\uFEFFSakuya"
+    nameRight: Sakuya
     textRight: I'm done setting the gems here. @West Oogibahi is done, too.
     turnChangeOut: fadeOut
   - chara:

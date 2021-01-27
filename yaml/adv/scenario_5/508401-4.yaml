@@ -17,7 +17,7 @@ story:
   - chara:
     - eyeClose: 0
       id: 300601
-    nameCenter: "\uFEFFEmiri"
+    nameCenter: Emiri
     textCenter: Hmm...
   - autoTurnLast: 0.2
     chara:

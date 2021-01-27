@@ -10,7 +10,7 @@ story:
       id: 103801
       motion: 0
       pos: 1
-    nameCenter: "\uFEFFMikage"
+    nameCenter: Mikage
     turnChangeIn: fadeIn
   - chara:
     - id: 103801

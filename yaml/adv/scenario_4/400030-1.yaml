@@ -10,7 +10,7 @@ story:
       id: 300500
       motion: 0
       pos: 1
-    nameCenter: "\uFEFFNanaka"
+    nameCenter: Nanaka
     turnChangeIn: fadeIn
     turnEffect: blackFrame
   - chara:

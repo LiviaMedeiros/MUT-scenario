@@ -19,7 +19,7 @@ story:
     nameCenter: ""
     surround: 1026A04
     textBg: shout
-    textCenter: "\uFEFF...!?"
+    textCenter: '...!?'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.5
     chara:

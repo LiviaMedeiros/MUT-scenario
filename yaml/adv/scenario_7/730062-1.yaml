@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 300651
       motion: 100
-    nameLeft: "\uFEFFEmiri"
+    nameLeft: Emiri
     textLeft: Heya, Akira-chi! @How do I look?
     turnChangeOut: fadeOut
   - chara:

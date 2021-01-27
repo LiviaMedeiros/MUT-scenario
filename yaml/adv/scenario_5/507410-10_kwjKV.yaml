@@ -27,7 +27,7 @@ story:
       id: 102400
       motion: 0
       pos: 0
-    nameRight: "\uFEFFRanka"
+    nameRight: Ranka
     textRight: Here, the Grief Seed.
   - chara:
     - id: 102400

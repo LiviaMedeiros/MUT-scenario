@@ -18,7 +18,7 @@ story:
   - bgm: bgm03_story06
     chara:
     - id: 102301
-    nameRight: "\uFEFFAo"
+    nameRight: Ao
     textRight: Are you sure it's a good idea for me to come @with you?~
     turnChangeOut: fadeOut
   - chara:

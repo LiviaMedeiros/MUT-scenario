@@ -18,7 +18,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 100201
-    nameRight: "\uFEFFYachiyo"
+    nameRight: Yachiyo
     textRight: So what's the location...?
     turnChangeOut: fadeOut
   - chara:

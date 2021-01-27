@@ -4,7 +4,7 @@ story:
   - autoTurnLast: 0.2
     bg: bg_adv_21026.jpg
     bgm: bgm03_story04
-    nameNarration: "\uFEFFSudachi"
+    nameNarration: Sudachi
     narrationBg: black
     narrationEffect: in
     turnChangeIn: fadeIn

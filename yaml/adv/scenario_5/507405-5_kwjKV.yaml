@@ -13,7 +13,7 @@ story:
   - bgm: bgm03_story08
     chara:
     - id: 102102
-    nameNarration: "\uFEFFYuna"
+    nameNarration: Yuna
     narration: Juri Oba, the leader of Ryuugasaki, @has declared war on us!
     narrationEffect: in
     turnChangeOut: fadeOut

@@ -25,7 +25,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102600
     nameLeft: Sunao
-    nameRight: "\uFEFFChiharu"
+    nameRight: Chiharu
     textRight: The Wavering Deity's gotten a lot closer...
   - chara:
     - id: 102700

@@ -25,7 +25,7 @@ story:
       name: ""
     nameLeft: ""
     nameRight: Chiharu
-    textLeft: "\uFEFF......!?!?"
+    textLeft: '......!?!?'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0

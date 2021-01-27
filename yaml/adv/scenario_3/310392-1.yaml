@@ -19,7 +19,7 @@ story:
     nameRight: ""
     turnChangeIn: fadeIn
     turnEffect: blackFrame
-  - textLeft: "\uFEFF…kh…"
+  - textLeft: …kh…
     turnChangeOut: fadeOut
   - textRight: Oh, get a grip.@All I did was just stab you in the leg, see?
   - chara:

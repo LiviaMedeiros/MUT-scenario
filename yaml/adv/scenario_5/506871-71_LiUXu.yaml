@@ -27,7 +27,7 @@ story:
     flashEffect: flashRed2
     surround: 1027A02
     textBg: shout
-    textCenter: "\uFEFF佛色佛諸　應故至貧　以諸靡乃 @彼地如國　意聞淨佛　如甚修覆"
+    textCenter: 佛色佛諸　應故至貧　以諸靡乃 @彼地如國　意聞淨佛　如甚修覆
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout

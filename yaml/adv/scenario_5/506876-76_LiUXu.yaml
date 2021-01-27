@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 102501
       motion: 100
-    nameLeft: "\uFEFFShizuka"
+    nameLeft: Shizuka
     nameRight: Sunao
     textLeft: Thanks for your hard work, Charu.
     turnChangeOut: fadeOut

@@ -16,7 +16,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Sudachi
-    nameRight: "\uFEFFMikage"
+    nameRight: Mikage
     turnChangeIn: fadeIn
   - chara:
     - id: 103801
