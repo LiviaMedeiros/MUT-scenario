@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 100500
       voiceFull: fullvoice/section_102101/vo_full_102101-4-1
-    nameRight: Felicia
+    nameRight: "\uFEFFFelicia"
     textRight: I've got this...@I can handle it myself.
     turnChangeOut: fadeOut
   - chara:
@@ -27,7 +27,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102101/vo_full_102101-4-2
       voiceFullStop: fullvoice/section_102101/vo_full_102101-4-1
-    textRight: I'll go boom and bam and send it flying!
+    textRight: I'll go BOOM and BAM and send it flying!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -69,7 +69,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102101/vo_full_102101-4-7
       voiceFullStop: fullvoice/section_102101/vo_full_102101-4-6
-    textLeft: Don't worry about it Ui!
+    textLeft: Don't worry about it, Ui!
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

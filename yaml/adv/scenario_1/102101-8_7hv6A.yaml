@@ -19,7 +19,7 @@ story:
     - eyeClose: 1
       id: 100100
       voiceFull: fullvoice/section_102101/vo_full_102101-8-1
-    nameRight: Iroha
+    nameRight: "\uFEFFIroha"
     textRight: It'll work...
     turnChangeOut: fadeOut
   - chara:
@@ -88,7 +88,7 @@ story:
       voiceFull: fullvoice/section_102101/vo_full_102101-8-5
       voiceFullStop: fullvoice/section_102101/vo_full_102101-8-4
     nameRight: Tsuruno
-    textRight: Even though I'm supposed to be the strongest.@I'm ashamed...
+    textRight: Even though I'm supposed to be the mightiest.@I'm ashamed...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -98,7 +98,7 @@ story:
       voiceFull: fullvoice/section_102101/vo_full_102101-8-6
       voiceFullStop: fullvoice/section_102101/vo_full_102101-8-5
     nameLeft: Yachiyo
-    textLeft: There's nothing to be depressed about, it's been@a while since we fought
+    textLeft: There's no need to be discouraged, it's been@a while since we fought
       a foe this powerful.
   - chara:
     - cheek: 0
@@ -173,7 +173,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102101/vo_full_102101-8-14
       voiceFullStop: fullvoice/section_102101/vo_full_102101-8-13
-    textLeft: What was that...?
+    textLeft: Huh? Nothing happened...?
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -191,7 +191,7 @@ story:
       voiceFull: fullvoice/section_102101/vo_full_102101-8-16
       voiceFullStop: fullvoice/section_102101/vo_full_102101-8-15
     nameRight: Ui
-    textRight: There's something attached to it.
+    textRight: There's something on it.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -221,7 +221,7 @@ story:
       voiceFull: fullvoice/section_102101/vo_full_102101-8-19
       voiceFullStop: fullvoice/section_102101/vo_full_102101-8-18
     nameRight: Yachiyo
-    textRight: It's kind of creepy...@Can you take it off...?
+    textRight: It gives me a bad feeling...@Can you take it off...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -276,7 +276,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102101/vo_full_102101-8-24
       voiceFullStop: fullvoice/section_102101/vo_full_102101-8-23
-    textLeft: How is it so tough...?
+    textLeft: How is it so tough to get off...?
   - chara:
     - cheek: 1
       effect: shake
@@ -443,7 +443,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102101/vo_full_102101-8-41
       voiceFullStop: fullvoice/section_102101/vo_full_102101-8-40
-    textLeft: You thought so too, userName?
+    textLeft: You think so too, userName?
   - chara:
     - id: 810100
       voiceFull: fullvoice/section_102101/vo_full_102101-8-42
@@ -490,54 +490,55 @@ story:
     narrationPosX: 150
     turnChangeOut: fadeOut
   - progressNarration: '[textBlack:The twilight is a disquieting omen @of brooding
-      curses.]@[textBlack:''Witches'' lord over the town,]@[textBlack:dragging people
+      curses.]@[textBlack:"Witches" lord over the town,]@[textBlack:dragging people
       into the darkness.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-45
   - progressNarration: '[textBlack:What do you think saves them from this?]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-46
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-45
   - progressNarration: '[textBlack:Light is hope, hope is a wish.]@[textBlack:Girls
-      mutter a wish @to a mysterious white creature,]@[textBlack:strong hope becomes
-      a light,]@[textBlack:and the power to illuminate the darkness @dwells in them.]'
+      utter a wish @to a mysterious white creature,]@[textBlack:powerful hope becomes
+      a light,]@[textBlack:and the power to illuminate the darkness @resides within
+      the girls.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-47
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-46
-  - progressNarration: '[textBlack:That''s how ''Magical Girls'' are born.]'
+  - progressNarration: '[textBlack:That''s how "Magical Girls" are born.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-48
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-47
-  - progressNarration: '[textBlack:And yet, the light is shrouded by darkness.]'
+  - progressNarration: '[textBlack:However, darkness envelops the light.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-49
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-48
-  - progressNarration: '[textBlack:Darkness is despair,@the flip side of light''s
-      hope.]@[textBlack:The journey ''Magical Girls'' embark on @is destined to end
-      in despair,@while they diligently fight]@[textBlack:they are gradually tainted
-      by despair.]'
+  - progressNarration: '[textBlack:That darkness is despair,@the other side of light''s
+      hope.]@[textBlack:The journey that "Magical Girls" embark on @is destined to
+      end in despair,@and while they do battle with "Witches"]@[textBlack:they are
+      gradually tainted by that despair.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-50
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-49
   - progressNarration: '[textBlack:In being tainted by despair,@they descend into
       darkness...]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-51
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-50
-  - progressNarration: '[textBlack:The shining jewel of life@is tainted pitch black,]@[textBlack:
-      and ''Magical Girls'' turn into ''Witches''.]'
+  - progressNarration: '[textBlack:The shining jewel of life@is dyed pitch black,]@[textBlack:
+      and "Magical Girls" turn into "Witches".]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-52
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-51
   - progressNarration: '[textBlack:Round and round and round and round, @their fortunes
-      take a turn for the worse.]@[textBlack:Whether only a hundred years or a thousand.]@[textBlack:A
+      take a turn for the worse.]@[textBlack:For a hundred years, for a thousand.]@[textBlack:A
       repetition of countless sacrifices.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-53
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-52
-  - progressNarration: '[textBlack:It''s heart-rending...sad...shameful...]@[textBlack:I''m
+  - progressNarration: '[textBlack:It''s painful...tragic...shameful...]@[textBlack:I''m
       ashamed of the me@who didn''t know death.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-54
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-53
   - progressNarration: '[textBlack:That''s why I record...]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-55
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-54
-  - progressNarration: '[textBlack:One word, two words,@even if it''s just bit by
-      bit,]@[textBlack:I will fight destiny,@for the sake of our light...]'
+  - progressNarration: '[textBlack:One word, two words,@even if it''s just little
+      by little.]@[textBlack:Fighting against destiny,@for the sake of our light...]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-56
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-55
-  - progressNarration: '[textBlack:Because, as the people who know@grow one by one,]@[textBlack:we
+  - progressNarration: '[textBlack:Because, as those of us who know@grow one by one,]@[textBlack:we
       become better able to act as a light @for the Magical Girls.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-57
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-56

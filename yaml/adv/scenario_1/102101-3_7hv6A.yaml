@@ -14,7 +14,7 @@ story:
       name: sprite_0
     nameCenter: ""
     textBg: shout
-    textCenter: ｜『』『』『』!!｜
+    textCenter: "\uFEFF｜『』『』『』!!｜"
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -73,7 +73,7 @@ story:
     - id: 101500
       voiceFull: fullvoice/section_102101/vo_full_102101-3-7
       voiceFullStop: fullvoice/section_102101/vo_full_102101-3-6
-    textRight: To think it would be something this unusual.
+    textRight: To think it would be something this strange.
   - chara:
     - id: 810100
       motion: 0
@@ -123,7 +123,7 @@ story:
     - id: 100200
       motion: 400
       voiceFull: fullvoice/section_102101/vo_full_102101-3-11
-    textLeft: And just after I said that!!
+    textLeft: And right after I said to be careful!!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

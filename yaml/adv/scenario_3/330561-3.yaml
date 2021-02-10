@@ -4,7 +4,7 @@ story:
   - autoTurnLast: 0.01
     bgm: bgm03_story06
     turnChangeIn: fadeIn
-  - nameNarration: Mizuki Rui
+  - nameNarration: Rui
     narration: I have...@What the world calls "chuunibyou"...
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
@@ -14,7 +14,7 @@ story:
   - narration: And before I know it...
   - narration: Sometimes,@I'm a hero who thwarts terrorists who appear at school.
     narrationBg: black
-  - narration: Other times,@I’m a demonic knight who slays evil dragons@that appear
+  - narration: Other times,@I'm a demonic knight who slays evil dragons@that appear
       from another world.
   - narration: However,@my true self is the legendary overlord@known as Fortress the
       Wizard, who has@been reincarnated on Earth to put an end@to their fate with
@@ -38,26 +38,26 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 305601
-    nameLeft: Mizuki Rui
-    textLeft: '...Oh.@What...?'
+    nameLeft: Rui
+    textLeft: '...Oh.@What do you want...?'
     turnChangeOut: fadeOut
   - chara:
     - id: 800100
     nameRight: ""
-    textRight: S-sorry...@I didn’t mean to interrupt your thoughts.
+    textRight: S-sorry...@I didn't mean to interrupt your thoughts.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800100
       pos: 2
     nameRight: ""
-    textRight: Mizuki-san, are you interested in movies?
+    textRight: Rui, are you interested in movies?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 305601
       pos: 0
-    nameLeft: Mizuki Rui
+    nameLeft: Rui
     textLeft: Movies...?
   - chara:
     - cheek: 0
@@ -65,13 +65,13 @@ story:
       lipSynch: 0
       motion: 300
       pos: 0
-    nameLeft: Mizuki Rui
-    textLeft: (W-what does she mean...)
+    nameLeft: Rui
+    textLeft: (Wh-what does she mean...)
     turnEffect: thinking
   - chara:
     - id: 305601
       lipSynch: 0
-    nameLeft: Mizuki Rui
+    nameLeft: Rui
     textLeft: (Does she want us to watch one together...?)
   - chara:
     - cheek: 0
@@ -79,13 +79,13 @@ story:
       id: 305601
       lipSynch: 0
       pos: 0
-    nameLeft: Mizuki Rui
+    nameLeft: Rui
     textLeft: (Why me...?@I don't know what to say...)
   - chara:
     - id: 305601
       lipSynch: 0
-    nameLeft: Mizuki Rui
-    textLeft: …………
+    nameLeft: Rui
+    textLeft: '...'
     turnEffect: stop
   - chara:
     - cheek: 0
@@ -100,12 +100,12 @@ story:
       id: 305601
       motion: 0
       pos: 0
-    nameLeft: Mizuki Rui
-    textLeft: Umm…
+    nameLeft: Rui
+    textLeft: Umm...
   - chara:
     - id: 800100
     nameRight: ""
-    textRight: That’s unfortunate...@But I won’t force you...
+    textRight: That's unfortunate...@But I won't force you...
   - chara:
     - id: 800100
     nameRight: ""
@@ -119,7 +119,7 @@ story:
     - id: 305601
       lipSynch: 0
       pos: 1
-    nameCenter: Mizuki Rui
+    nameCenter: Rui
     textCenter: (Oh...@She left...)
   - chara:
     - cheek: 0
@@ -127,38 +127,38 @@ story:
       id: 305601
       lipSynch: 0
       pos: 1
-    nameCenter: Mizuki Rui
-    textCenter: (Because I couldn’t say anything...)
+    nameCenter: Rui
+    textCenter: (Because I couldn't say anything...)
   - chara:
     - cheek: 0
       id: 305601
       lipSynch: 0
       motion: 200
       pos: 1
-    nameCenter: Mizuki Rui
-    textCenter: …………
+    nameCenter: Rui
+    textCenter: '...'
   - chara:
     - id: 305601
       lipSynch: 0
-    nameCenter: Mizuki Rui
+    nameCenter: Rui
     textCenter: (In my delusions...@Fortress the Wizard is...)
   - chara:
     - id: 305601
       lipSynch: 0
-    nameCenter: Mizuki Rui
+    nameCenter: Rui
     textCenter: (A "me" that is a cool, confident,@and cynical person...)
   - chara:
     - id: 305601
       lipSynch: 0
-    nameCenter: Mizuki Rui
-    textCenter: (In reality...@I can’t even speak to my classmates...)
+    nameCenter: Rui
+    textCenter: (In reality...@I can't even speak to my classmates...)
   - chara:
     - cheek: 0
       id: 305601
       lipSynch: 0
       motion: 300
       pos: 1
-    nameCenter: Mizuki Rui
+    nameCenter: Rui
     textCenter: (For some reason, everyone thinks I'm cool, but...)
   - chara:
     - cheek: 0
@@ -166,12 +166,12 @@ story:
       id: 305601
       lipSynch: 0
       pos: 1
-    nameCenter: Mizuki Rui
+    nameCenter: Rui
     textCenter: (I'm pathetic...@I wish I could talk...)
   - autoTurnLast: 0.01
     bgm: stop
     turnChangeIn: fadeIn
-  - nameNarration: Mizuki Rui
+  - nameNarration: Rui
     narration: I've been worrying about things like this@for a long time...
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in

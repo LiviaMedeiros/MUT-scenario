@@ -3,7 +3,7 @@ story:
   group_1:
   - autoTurnLast: 0.1
     bg: black
-    nameNarration: Kagome
+    nameNarration: "\uFEFFKagome"
     narrationBg: black
     narrationEffect: in
     turnChangeIn: fadeIn

@@ -54,7 +54,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Seira
-    textRight: 'Just like a superhero from an American@comicbook movie! '
+    textRight: Just like a superhero from an American@comicbook movie!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -62,7 +62,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Rui
-    textLeft: American comicbook...movies...?
+    textLeft: American comicbook...movie...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -98,7 +98,7 @@ story:
     - id: 305601
       mouthOpen: 0
     nameRight: Seira
-    textRight: Yeah, that’s great!@You can go even louder!
+    textRight: Yeah, that's great!@You can go even louder!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -106,7 +106,7 @@ story:
       motion: 300
       mouthOpen: 1
     nameLeft: Rui
-    textLeft: Haaa...@Haaa...
+    textLeft: '*Pant*...@*Pant*...'
   - chara:
     - cheek: 0
       id: 305601
@@ -147,7 +147,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Rui
-    textLeft: (T-that’s impossible... Absolutely impossible...@I can’t act...)
+    textLeft: (Th-that's impossible...absolutely impossible...@I can't act...)
   - chara:
     - eyeClose: 1
       id: 305601
@@ -157,7 +157,7 @@ story:
     - id: 303901
       motion: 300
     nameRight: Seira
-    textRight: I'm sure you can do it, Mizuki-san!
+    textRight: I'm sure you can do it, Rui!
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -165,7 +165,7 @@ story:
       id: 305601
       lipSynch: 0
     nameLeft: Rui
-    textLeft: ――!?
+    textLeft: '...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -178,18 +178,17 @@ story:
     - id: 303901
       motion: 100
     nameRight: Seira
-    textRight: That character and performance by Mizuki-san!@I know it’ll inspire
-      everyone!
+    textRight: That character and performance by Rui!@I know it'll inspire everyone!
   - chara:
     - id: 303901
       motion: 1
     nameRight: Seira
-    textRight: Everyone who sees it will think, "that’s so cool!"
+    textRight: Everyone who sees it will think, "that's so cool!"
   - chara:
     - eyeClose: 1
       id: 303901
     nameRight: Seira
-    textRight: I’m sure of that!
+    textRight: I'm sure of that!
   - chara:
     - id: 305601
       motion: 1

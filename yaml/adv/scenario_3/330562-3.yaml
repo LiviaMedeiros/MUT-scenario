@@ -64,7 +64,7 @@ story:
       id: 800100
       pos: 0
     nameLeft: ""
-    textLeft: A role like this...@You’d need to have a certain charisma...
+    textLeft: A role like this...@You'd need to have a certain charisma...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -88,7 +88,7 @@ story:
     - id: 303901
       motion: 100
     nameLeft: Seira
-    textLeft: 'Mizuki Rui! '
+    textLeft: 'Rui Mizuki! '
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -133,13 +133,13 @@ story:
       motion: 0
       pos: 0
     nameLeft: ""
-    textLeft: But is that okay?@Does she know it’s a really difficult role!?
+    textLeft: But is that okay?@Does she know it's a really difficult role?!
   - chara:
     - id: 305601
       motion: 200
       pos: 2
     nameRight: Rui
-    textRight: '...It’s alright...@...I’ll manage...'
+    textRight: '...It''s alright...@...I''ll handle it...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -161,7 +161,7 @@ story:
       lipSynch: 0
       motion: 0
     nameRight: Rui
-    textRight: '............[wait:1.0][chara:305601:lipSynch_1]Yeah.'
+    textRight: '.........[wait:1.0][chara:305601:lipSynch_1]Yeah.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -219,8 +219,8 @@ story:
     - id: 305601
       lipSynch: 0
     nameCenter: Rui
-    textCenter: (On top of that... I'll be exposing my true@nature that I've been
-      hiding until now...)
+    textCenter: (On top of that...I'll be exposing my true@nature that I've been hiding
+      until now...)
   - nameNarration: Seira
     narration: '"Ready, action!”'
     narrationBg: ""
@@ -255,7 +255,7 @@ story:
   - chara:
     - id: 800500
     nameRight: ""
-    textRight: Damn it...!@I’m done for...!
+    textRight: Damn it...!@I'm done for...!
   - nameCenter: Rui
     surround: stop
     textCenter: Kukuku...
@@ -265,7 +265,7 @@ story:
       id: 801100
       lipSynch: 0
     nameLeft: ""
-    textLeft: '[chara:801100:effect_emotion_surprise_0][se:7226_shock]――!?'
+    textLeft: '[chara:801100:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -295,7 +295,7 @@ story:
   - chara:
     - id: 801100
     nameLeft: ""
-    textLeft: W-what the hell...!
+    textLeft: Wh-what the hell...!
   - chara:
     - id: 305601
       motion: 0
@@ -312,13 +312,13 @@ story:
   - chara:
     - id: 305601
     nameRight: Rui
-    textRight: That is the name of the demon that will@destroy you.
+    textRight: That is the name of the demon that will@destroy you...
   - chara:
     - id: 305601
       motion: 0
       pos: 1
     nameCenter: Rui
-    textCenter: '[bgEffect:shakeSmall]Die here, and be condemned to the afterlife. '
+    textCenter: '[bgEffect:shakeSmall]Die here, and be condemned to the afterlife.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -347,7 +347,7 @@ story:
   - chara:
     - id: 800200
     nameRight: ""
-    textRight: Mizuki-san, you're amazing!@You’re really bringing Blue to life!
+    textRight: Rui, you're amazing!@You're really bringing Blue to life!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -363,7 +363,7 @@ story:
       motion: 1
       pos: 1
     nameCenter: Seira
-    textCenter: Fufufu~
+    textCenter: Heh heh...
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

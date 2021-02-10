@@ -68,7 +68,7 @@ story:
       motion: 0
       pos: 0
     nameRight: ""
-    textRight: Oh, Mizuki-san.
+    textRight: Oh, Rui.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -119,7 +119,7 @@ story:
       motion: 0
     nameCenter: Rui
     se: 7201_detect_magic
-    textCenter: ――!?
+    textCenter: '...?!'
   - bgm: bgm03_story10
     chara:
     - cheek: 0
@@ -128,7 +128,7 @@ story:
       lipSynch: 0
       pos: 1
     nameCenter: Rui
-    textCenter: '............'
+    textCenter: '...'
   - autoTurnLast: 0.2
     chara:
     - id: 305601
@@ -153,7 +153,7 @@ story:
     - id: 303901
       motion: 100
     nameRight: Seira
-    textRight: I'll be there soon...@Let's meet at the Barrier!
+    textRight: I'll be there soon...@Let's meet at the Labyrinth!
   - chara:
     - id: 305601
       motion: 0
@@ -173,7 +173,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: ""
-    textLeft: Hey, Mizuki-san?@What's wrong?
+    textLeft: Hey, Rui?@What's wrong?
     turnEffect: stop
   - chara:
     - cheek: 0
@@ -182,7 +182,7 @@ story:
       id: 305601
       motion: 100
     nameRight: Rui
-    textRight: Oh... I was just...listening to the wind...
+    textRight: Oh...I was just...listening to the wind...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -213,7 +213,7 @@ story:
     turnChangeIn: fadeIn
   - autoTurnLast: 1
     turnChangeOut: fadeOut
-  - nameLeft: Rui’s Voice
+  - nameLeft: Rui's voice
     textBg: shout
     textLeft: Decay!
   - chara:
@@ -231,7 +231,7 @@ story:
       pos: 1
     nameCenter: Seira
     textBg: shout
-    textCenter: Mizukiー!
+    textCenter: Ruiー!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -263,7 +263,7 @@ story:
     textRight: I'll witness your final moments!
   - nameLeft: ""
     textBg: shout
-    textLeft: '............！'
+    textLeft: '...!'
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
   - nameNarration: Rui
@@ -288,7 +288,7 @@ story:
   - chara:
     - id: 305600
     nameLeft: Rui
-    textLeft: Now, let's go, Seira-chan.
+    textLeft: Now, let's go, Seira.
     turnChangeOut: fadeOut
   - chara:
     - id: 305600
@@ -311,16 +311,16 @@ story:
       pos: 0
     nameLeft: Rui
     textLeft: '[chara:305600:effect_emotion_surprise_0][se:7226_shock]Oh...@That''s
-      you, Seira-chan.'
+      you, Seira.'
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
   - nameNarration: Rui
-    narration: That's Seira-chan...
+    narration: That's Seira...
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: Even though she knows about me, she@accepts me and stays with me.
-  - narration: I’ve managed to make a friend.
+  - narration: I've managed to make a friend like that.
   - autoTurnLast: 0.01
     bgm: stop
     narrationEffect: out

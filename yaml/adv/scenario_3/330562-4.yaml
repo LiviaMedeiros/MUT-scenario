@@ -32,7 +32,7 @@ story:
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: I want to see it!
+    textRight: I wanna see it!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -50,7 +50,7 @@ story:
     turnChangeOut: fadeOut
   - narration: My character was close to my true personality,@and I was worried about
       exposing that.
-  - narration: It seems I managed to give a performance that@the director, Seira-san,
+  - narration: It seems I managed to give a performance that@the director, Seira,
       approves of...
   - narration: I was able to finish the shooting without any@problems.
   - narration: And...
@@ -127,7 +127,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: Rui
-    textCenter: '............'
+    textCenter: '...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -161,7 +161,7 @@ story:
       motion: 200
       pos: 1
     nameCenter: Rui
-    textCenter: '............！'
+    textCenter: '....!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -193,7 +193,7 @@ story:
       id: 800101
       pos: 2
     nameRight: ""
-    textRight: No, that’s completely wrong!
+    textRight: No, that's completely wrong!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -218,7 +218,7 @@ story:
       id: 800301
       pos: 0
     nameLeft: ""
-    textLeft: The laugh’s not supposed to be like that!
+    textLeft: The laugh's not supposed to be like that!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -247,7 +247,7 @@ story:
       motion: 300
       pos: 1
     nameCenter: Rui
-    textCenter: (Hehe... I'm so happy...)
+    textCenter: (Hehe...I'm so happy...)
   - chara:
     - id: 305601
       lipSynch: 0
@@ -265,7 +265,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: ""
-    textLeft: Hey hey, Mizuki-san!
+    textLeft: Hey hey, Rui!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -273,7 +273,7 @@ story:
       lipSynch: 0
       motion: 0
     nameRight: Rui
-    textRight: '[chara:305601:effect_emotion_surprise_0][se:7226_shock]――!?'
+    textRight: '[chara:305601:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -281,7 +281,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: ""
-    textLeft: That’s right, Mizuki-san, you were the@star of the movie!
+    textLeft: That's right, Rui, you were the@star of the movie!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -313,7 +313,7 @@ story:
       id: 305601
       lipSynch: 0
     nameRight: Rui
-    textRight: '............'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -337,7 +337,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: ""
-    textLeft: It’s the real deal!
+    textLeft: It's the real deal!
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -354,12 +354,12 @@ story:
   - chara:
     - id: 305601
     nameRight: Rui
-    textRight: T-this is how it’s done...
+    textRight: Th-this is how it's done...
     turnChangeOut: fadeOut
   - chara:
     - id: 800101
     nameLeft: ""
-    textLeft: Wow~ I enjoyed that.
+    textLeft: Wow...I enjoyed that.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -367,7 +367,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: ""
-    textLeft: It’s really cool!
+    textLeft: It's really cool!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -382,7 +382,7 @@ story:
       id: 305601
       motion: 300
     nameRight: Rui
-    textRight: No no, it’s...
+    textRight: No no, it's...
   - autoTurnLast: 0.2
     chara:
     - id: 800101
@@ -397,12 +397,12 @@ story:
     - id: 800101
       pos: 2
     nameLeft: ""
-    textLeft: Yeah, because there’s no way someone@like that really exists.
+    textLeft: Yeah, because there's no way someone@like that really exists.
   - bgm: stop
     chara:
     - id: 800101
     nameRight: ""
-    textRight: 'No way, right! They’re only so cool@because it''s a story! '
+    textRight: 'No way, right! They''re only so cool@because it''s a story! '
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -430,7 +430,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: ""
-    textLeft: You have a lot of talent, Mizuki-san,@to play such a character so well!
+    textLeft: You have a lot of talent, Rui,@to play such a character so well!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

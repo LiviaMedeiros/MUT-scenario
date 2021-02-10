@@ -50,7 +50,7 @@ story:
   - narration: '"...Well, she’s forgotten everything anyways."'
   - narrationEffect: out
     textCenter: Or, more accurately, you used your abilities...
-  - textCenter: To "rewrite the memories of Matsuri@and the others," didn't it?
+  - textCenter: To "rewrite the memories of Matsuri@and the others," didn't you?
   - nameNarration: ???
     narration: '"That many people was a lot of work..."'
     narrationBg: ""

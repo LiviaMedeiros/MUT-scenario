@@ -81,8 +81,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 403401
     nameNarration: ""
-    narration: A string of disappearances in the Kamihama...@What is the connection
-      between them?
+    narration: A string of disappearances in Kamihama...@What is the connection between
+      them?
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
   - chara:

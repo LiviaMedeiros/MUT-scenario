@@ -175,7 +175,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: ""
-    textLeft: Mizuki-san, good morning.
+    textLeft: Rui, good morning.
   - chara:
     - id: 305601
     nameRight: Rui
@@ -202,7 +202,7 @@ story:
       motion: 0
       pos: 0
     nameRight: ""
-    textRight: It has to be Mizuki-san.
+    textRight: It has to be Rui.
   - chara:
     - id: 303901
       motion: 300
@@ -249,7 +249,7 @@ story:
     - id: 305601
       lipSynch: 0
     nameCenter: Rui
-    textCenter: '............'
+    textCenter: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 305601
@@ -266,7 +266,7 @@ story:
     - id: 305601
       lipSynch: 0
     nameCenter: Rui
-    textCenter: '............'
+    textCenter: '...'
   - chara:
     - id: 305601
       lipSynch: 0
@@ -285,7 +285,7 @@ story:
       lipSynch: 0
       pos: 1
     nameCenter: Rui
-    textCenter: '............'
+    textCenter: '...'
   - bgm: stop
     chara:
     - cheek: 0
@@ -294,7 +294,7 @@ story:
       id: 305601
       lipSynch: 0
     nameNarration: ""
-    narration: '[bgEffect:shakeLarge]*Tmp Tmp Tmp!*'
+    narration: '[bgEffect:shakeLarge]*Thump Thump Thump!*'
     narrationBg: ""
     narrationEffect: in
     turnEffect: ef_adv_10
@@ -304,7 +304,7 @@ story:
       motion: 400
     nameCenter: Rui
     narrationEffect: out
-    textCenter: ――!?
+    textCenter: '...!?'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

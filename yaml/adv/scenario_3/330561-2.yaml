@@ -34,7 +34,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: ""
-    textLeft: Don’t screw with me!
+    textLeft: Don't screw with me!
   - chara:
     - id: 800500
     nameLeft: ""
@@ -50,7 +50,7 @@ story:
       id: 800500
       pos: 0
     nameLeft: ""
-    textLeft: '[chara:800500:effect_7002_damage01][se:3001_chara_damage][bgEffect:shakeSmall]Ahhh!'
+    textLeft: '[chara:800500:effect_7002_damage01][se:3001_chara_damage][bgEffect:shakeSmall]Aaaahh!'
   - autoTurnLast: 0.8
     chara:
     - effect: fadeout
@@ -68,7 +68,7 @@ story:
   - chara:
     - id: 800700
     nameRight: ""
-    textRight: 'Does anyone else still want to resist? '
+    textRight: Does anyone else still want to resist?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -80,20 +80,20 @@ story:
     textLeft: '............'
   - bgm: stop
     nameCenter: ???'s voice
-    textCenter: '...Sigh, good grief... '
+    textCenter: '...*Sigh*, good grief...'
   - nameCenter: ???'s voice
-    textCenter: 'I guess this means it’s my turn... '
+    textCenter: I guess this means it's my turn...
   - chara:
     - id: 800700
     nameRight: ""
-    textRight: 'Hey, who the hell...? '
+    textRight: Hey, who the hell...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 800200
       pos: 0
     nameLeft: ""
-    textLeft: '[chara:800200:effect_emotion_surprise_0][se:7226_shock]Huh!?@You''re...'
+    textLeft: '[chara:800200:effect_emotion_surprise_0][se:7226_shock]Huh?!@You''re...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -121,7 +121,7 @@ story:
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: Mizuki-san!?
+    textRight: Rui?!
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -148,7 +148,7 @@ story:
   - chara:
     - id: 305601
     nameLeft: Rui
-    textLeft: I, Mizuki Rui, the one also known as...
+    textLeft: I, Rui Mizuki, the one also known as...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -156,7 +156,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Rui
-    textLeft: 'Fortress the Wizard! '
+    textLeft: Fortress the Wizard!
   - chara:
     - id: 800700
     - cheek: 0
@@ -177,7 +177,7 @@ story:
       id: 800700
     nameRight: ""
     narrationEffect: out
-    textRight: '[chara:800700:effect_shake]Gah...ahhh... '
+    textRight: '[chara:800700:effect_shake]Gaaaah...aaahhh...'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -225,21 +225,21 @@ story:
       motion: 0
       pos: 1
     nameLeft: ""
-    textLeft: Huh... No way...@You beat him!?
+    textLeft: Huh...no way...@You beat him?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800200
       pos: 2
     nameRight: ""
-    textRight: Mizuki-san!@You were so powerful!
+    textRight: Rui!@You were so powerful!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800500
       pos: 1
     nameCenter: ""
-    textCenter: Thank you for saving me...@Mizuki-san!
+    textCenter: Thank you for saving me...@Rui!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -257,22 +257,22 @@ story:
       motion: 0
       pos: 1
     nameNarration: ""
-    narration: '"Mizuki-san!”@“Mizuki-san!”'
+    narration: '"Rui!"@"Rui!"'
     narrationBg: ""
     narrationEffect: in
   - bgm: stop
-    narration: '"...Mizuki-san...”'
+    narration: '"...Rui..."'
     turnEffect: stop
-  - narration: '[bgEffect:shakeSmall]“Mizuki-san!”'
+  - narration: '[bgEffect:shakeSmall]"Rui!"'
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_050.exp.json
       id: 305601
       motion: 400
-    nameCenter: Mizuki
+    nameCenter: Rui
     narrationEffect: out
-    textCenter: Whaaa!?
+    textCenter: Whaaa?!
   - autoTurnLast: 0.2
     bgm: bgm03_story01
     chara:
@@ -286,12 +286,12 @@ story:
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: Oh, you finally noticed.
+    textRight: Oh, you finally noticed me.
   - chara:
     - id: 305601
       lipSynch: 0
     nameLeft: Rui
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

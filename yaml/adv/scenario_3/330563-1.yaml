@@ -24,7 +24,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: ""
-    textLeft: There’s no way someone like that really exists.
+    textLeft: There's no way someone like that really exists.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -51,14 +51,14 @@ story:
       motion: 300
       pos: 1
     nameCenter: Rui
-    textCenter: '............'
+    textCenter: '.........'
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 1
       id: 305601
       lipSynch: 0
     nameCenter: Rui
-    textCenter: (It’s still...just as I thought...)
+    textCenter: (It's still...just as I thought...)
   - autoTurnLast: 0.01
     bg: bg_adv_21071.jpg
     chara:
@@ -87,15 +87,15 @@ story:
       pos: 0
     nameLeft: Rui
     narrationEffect: out
-    textLeft: Decagon Ball...?@That’s a manga for boys, isn’t it?
+    textLeft: Decagon Ball...?@That's a manga for boys, isn't it?
   - chara:
     - id: 801201
     nameRight: ""
-    textRight: You’re so naive, Rui-chan.
+    textRight: You're so naive, Rui.
   - chara:
     - id: 801201
     nameRight: ""
-    textRight: It's still an interesting read for girls!
+    textRight: It's still interesting for girls!
   - chara:
     - id: 801600
     nameLeft: Rui
@@ -110,7 +110,7 @@ story:
   - chara:
     - id: 801201
     nameRight: ""
-    textRight: I know! I’ll lend you all the books!
+    textRight: I know! I'll lend you all the books!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -140,7 +140,7 @@ story:
   - chara:
     - id: 801600
     nameLeft: Rui
-    textLeft: I didn’t expect Brillin’s Shattering Bullet@to be used like that!
+    textLeft: I didn't expect Brillin's Shattering Bullet@to be used like that!
   - chara:
     - id: 801201
     nameRight: ""
@@ -169,14 +169,14 @@ story:
   - chara:
     - id: 801201
     nameRight: ""
-    textRight: Yeah... Because of my dad’s work...
+    textRight: Yeah...because of my dad's work...
   - chara:
     - cheek: 1
       id: 801600
       pos: 0
       tear: 1
     nameLeft: Rui
-    textLeft: 'That''s...why...@Sniff...uuuu... '
+    textLeft: That's...why...@*Sniff*...*Sob*...
   - chara:
     - cheek: 1
       id: 801201
@@ -190,7 +190,7 @@ story:
       id: 801201
       pos: 2
     nameRight: ""
-    textRight: I’m not leaving Japan, I’m sure we’ll see each other again.
+    textRight: I'm not leaving Japan, I'm sure we'll see each other again.
   - chara:
     - id: 801201
     nameRight: ""
@@ -205,10 +205,10 @@ story:
     textLeft: Yeah...
   - nameNarration: Rui
     narration: That's what my friend said to me, but...@She moved to a faraway place
-      and I@couldn’t see her again for many years.
+      and I@couldn't see her again for many years.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
-  - narration: But one day when I was in middle school...
+  - narration: But one day, when I was in middle school...
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -224,7 +224,7 @@ story:
   - autoTurnLast: 3
     enableSkipAutoTurn: 1
     nameNarration: ""
-    narration: ～～♪@～～♪
+    narration: ～～♪～～♪
     narrationBg: ""
     narrationEffect: in
     surround: 7105_telphone
@@ -242,17 +242,17 @@ story:
       motion: 400
       pos: 1
     nameCenter: Rui
-    textCenter: Huh!?@It's from that girl...!?
+    textCenter: Huh?!@It's from that girl...?!
   - chara:
     - id: 305601
       motion: 1
     nameCenter: Rui
-    textCenter: Hello... Long time no see...@Haven't heard from you since you moved...
+    textCenter: Hello...long time no see...@Haven't heard from you since you moved...
   - chara:
     - id: 305601
       motion: 100
     nameCenter: Rui
-    textCenter: What...!@You're coming to Kamihama next week!?
+    textCenter: What...?!@You're coming to Kamihama next week?!
   - chara:
     - id: 305601
       motion: 200
@@ -275,12 +275,12 @@ story:
       motion: 300
     nameCenter: Rui
     narrationEffect: out
-    textCenter: (That girl...@She’s coming...!)
+    textCenter: (That girl...@She's coming...!)
   - chara:
     - id: 305601
       lipSynch: 0
     nameCenter: Rui
-    textCenter: (I’m looking forward to it...!)
+    textCenter: (I'm looking forward to it...!)
   - chara:
     - cheek: 0
       id: 305601
@@ -288,7 +288,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: Rui
-    textCenter: (That’s right!)
+    textCenter: (That's right!)
   - chara:
     - id: 305601
       lipSynch: 0
@@ -325,7 +325,7 @@ story:
   - chara:
     - id: 800203
     nameRight: ""
-    textRight: Ohhh!@It's been so long since I've been in this house~!
+    textRight: Ohhh!@It's been so long since I've been in this house!
   - chara:
     - id: 800203
     nameRight: ""
@@ -362,8 +362,8 @@ story:
     turnChangeOut: fadeOut
   - narration: This coat was inspired by the main character@of a doujin game I'm really
       into...@I thought it was super cool, but@my friend pretended not to see it.
-  - narration: After that,@for some reason we went to a department store in Kamihama@where
-      we mostly bought clothes for me.
+  - narration: After that,@for some reason we went to a department store@where we
+      mostly bought clothes for me.
   - autoTurnLast: 0.01
     bg: bg_adv_21025.jpg
     chara:

@@ -166,7 +166,7 @@ story:
       voiceFull: fullvoice/section_102101/vo_full_102101-5-17
       voiceFullStop: fullvoice/section_102101/vo_full_102101-5-16
     nameRight: Tsuruno
-    textRight: In the first place, the Labyrinth not@disappearing means that...
+    textRight: That aside, if the Labyrinth isn't@disppearing, that means...
   - autoTurnLast: 1
     bgm: stop
     flashEffect: flashWhite2
@@ -193,7 +193,7 @@ story:
     voiceFullStop: fullvoice/section_102101/vo_full_102101-5-18
   - bgm: bgm22_battle21
     nameNarration: ""
-    narration: ∵Uuufufu_HAHa!!
+    narration: ∵うっ―ふふ＿ハハッ!!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -202,7 +202,7 @@ story:
     narrationLineSpace: 20
     turnChangeOut: whiteOut
   - nameNarration: Ui
-    narration: ―Ui― @Eeek!
+    narration: ―Ui― @Eeek!!
     voiceFull: fullvoice/section_102101/vo_full_102101-5-20
   - nameNarration: Felicia
     narration: ―Felicia― @A Witch...?!
@@ -221,7 +221,7 @@ story:
     voiceFull: fullvoice/section_102101/vo_full_102101-5-24
     voiceFullStop: fullvoice/section_102101/vo_full_102101-5-23
   - nameNarration: ""
-    narration: ∵Kusukusu_-aha!
+    narration: ∵くすくす＿￣あはっ!
     voiceFullStop: fullvoice/section_102101/vo_full_102101-5-24
   - nameNarration: Iroha
     narration: ―Iroha― @It's aiming for us...

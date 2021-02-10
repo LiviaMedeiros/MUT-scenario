@@ -56,7 +56,7 @@ story:
     - id: 303901
       motion: 1
     nameRight: Seira
-    textRight: Oh, I knew it, you're Mizuki-san!
+    textRight: Oh, I knew it, you're Rui!
   - chara:
     - id: 305601
       motion: 200
@@ -72,7 +72,7 @@ story:
     turnChangeIn: fadeIn
   - bg: bg_adv_narration.jpg
     nameNarration: Rui
-    narration: This person is Mihono Seira...@My classmate.
+    narration: This person is Seira Mihono...@My classmate.
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: She's bright, friendly, gets along with everyone@in the class, and
@@ -112,7 +112,7 @@ story:
     - id: 305601
       lipSynch: 0
     nameLeft: Rui
-    textLeft: (Anyway, she’s a very lively person...)
+    textLeft: (Anyway, she's a very lively person...)
   - chara:
     - cheek: 0
       id: 305601
@@ -125,7 +125,7 @@ story:
     - id: 303901
       motion: 100
     nameRight: Seira
-    textRight: I see...@So you were a Magical Girl too, Mizuki-san!
+    textRight: I see...@So you were a Magical Girl too, Rui!
     turnEffect: stop
   - chara:
     - id: 305601
@@ -139,7 +139,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Rui
-    textLeft: (W-why is she grinning like that...?)
+    textLeft: (Wh-why is she grinning like that...?)
     turnEffect: thinking
   - chara:
     - cheek: 0
@@ -148,7 +148,7 @@ story:
       lipSynch: 0
       motion: 400
     nameLeft: Rui
-    textLeft: '[chara:305601:effect_emotion_surprise_0][se:7226_shock]――!?'
+    textLeft: '[chara:305601:effect_emotion_surprise_0][se:7226_shock]...?!'
     turnEffect: stop
   - chara:
     - id: 305601
@@ -160,7 +160,7 @@ story:
     - id: 305601
       lipSynch: 0
     nameLeft: Rui
-    textLeft: (She found out that I'm a chuunibyou girl@with a weird identity...!?)
+    textLeft: (She found out that I'm a chuunibyou girl@with a weird identity...?!)
   - autoTurnLast: 0.01
     bg: bg_adv_21025.jpg
     bgm: stop
@@ -177,7 +177,7 @@ story:
     - id: 303901
       motion: 100
     nameCenter: Seira
-    textCenter: Okay...@Mizuki Rui impersonation, here goes!
+    textCenter: Okay...@Rui Mizuki impersonation, here goes!
     turnChangeOut: fadeOut
     turnEffect: ef_adv_10
   - chara:
@@ -264,7 +264,7 @@ story:
       pos: 1
       tear: 1
     nameCenter: Rui
-    textCenter: Uuu...@uuu...
+    textCenter: '*Sob*...@*Sob*...'
   - autoTurnLast: 0.01
     bg: bg_adv_16022.jpg
     chara:
@@ -294,7 +294,7 @@ story:
       lipSynch: 0
       motion: 400
     nameLeft: Rui
-    textLeft: (It's over!!)
+    textLeft: (It's over!!!)
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -302,7 +302,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Rui
-    textLeft: W-when did you get here...?
+    textLeft: Wh-when did you get here...?
     turnEffect: stop
   - chara:
     - cheek: 0
@@ -323,7 +323,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Seira
-    textRight: 'You were laughing like,@"Kukuku..."! '
+    textRight: You were laughing like,@"Kukuku..."!
   - chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
@@ -333,7 +333,7 @@ story:
       pos: 0
       tear: 1
     nameLeft: Rui
-    textLeft: (It's over!!)
+    textLeft: (It's over!!!)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -341,7 +341,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Seira
-    textRight: So, um, I have a favor to ask you, Mizuki-san...
+    textRight: So, um, I have a favor to ask you, Rui...
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -366,7 +366,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Seira
-    textRight: Mizuki-san!
+    textRight: Rui!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
