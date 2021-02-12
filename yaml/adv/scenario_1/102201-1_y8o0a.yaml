@@ -552,7 +552,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-1-54
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-53
     nameRight: Momoko
-    textRight: Well, I was the one you two came crying to...
+    textRight: Well, I was the one you two came cryin' to...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -818,7 +818,7 @@ story:
     - id: 101001
       voiceFull: fullvoice/section_102201/vo_full_102201-1-86
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-85
-    textRight: There could be similar things going on@in the other wards.
+    textRight: There could be similar things goin' on@in the other wards.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json

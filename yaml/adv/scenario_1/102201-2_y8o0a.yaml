@@ -304,7 +304,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-2-36
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-35
     nameRight: Eternal Sakura
-    textRight: '|I''m home.|'
+    textRight: '| I''m home. |'
   - bgm: bgm03_story02
     chara:
     - cheek: 0
@@ -321,12 +321,12 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-2-38
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-37
-    textRight: '|There is a gathering of the Kamihama@Magia Union today.|'
+    textRight: '| There is a gathering of the Kamihama@Magia Union today. |'
   - chara:
     - id: 304301
       voiceFull: fullvoice/section_102201/vo_full_102201-2-39
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-38
-    textRight: '|Hinano and the others all seemed busy.|'
+    textRight: '| Hinano and the others all seemed busy. |'
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -346,15 +346,15 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-2-42
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-41
-    textRight: '|Touka, Nemu, are you not going? Iroha@and Ui are going to be there,
-      don''t you know?|'
+    textRight: '| Touka, Nemu, are you not going? Iroha@and Ui are going to be there,
+      don''t you know? |'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304301
       voiceFull: fullvoice/section_102201/vo_full_102201-2-43
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-42
-    textRight: '|Let''s go together.|'
+    textRight: '| Let''s go together. |'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -395,7 +395,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-2-47
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-46
-    textRight: '|...|'
+    textRight: '| ... |'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -404,7 +404,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-2-48
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-47
-    textRight: '|But, you four together...|'
+    textRight: '| But, you four together... |'
   - autoTurnLast: 1
     chara:
     - effect: fadeout

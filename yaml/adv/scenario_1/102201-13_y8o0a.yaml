@@ -755,7 +755,7 @@ story:
     - id: 101000
       voiceFull: fullvoice/section_102201/vo_full_102201-13-70
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-69
-    textRight: If we could help out just by being here,@that's great.
+    textRight: If we could help out just by bein' here,@that's great.
   - chara:
     - id: 101000
       motion: 200

@@ -444,7 +444,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-14-52
     nameLeft: ???
-    textLeft: Alright, your adjustment is finished.
+    textLeft: Alright, yer adjustment is finished.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
