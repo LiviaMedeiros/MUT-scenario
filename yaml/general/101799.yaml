@@ -10,8 +10,8 @@ story:
       pos: 1
       voice: vo_game_0002_01
       textHome: |-
-        I carry everything a girl needs
-        for going into battle...
+        I carry everything a girl
+        needs for going into battle...
   - autoTurnFirst: 1
     chara:
     - id: 101700
@@ -143,7 +143,9 @@ story:
       motion: 200
       pos: 1
       voice: vo_game_0002_02
-      textHome: Are you all prepared for battle?
+      textHome: |-
+        Are you all prepared
+        for battle?
   - autoTurnFirst: 5
     chara:
     - id: 101700
@@ -175,7 +177,9 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 101700
-      textHome: Want me to adjust your Soul Gem?
+      textHome: |-
+        Want me to adjust
+        your Soul Gem?
   - autoTurnFirst: 2
     chara:
     - cheek: -1

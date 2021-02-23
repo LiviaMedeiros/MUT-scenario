@@ -18,7 +18,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 800600
-    nameRight: "\uFEFFWoman"
+    nameRight: Woman
     textRight: Sorry for the wait, here is the appetizer.
     turnChangeOut: fadeOut
   - chara:

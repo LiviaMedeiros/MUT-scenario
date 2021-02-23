@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm01_anime03
     nameNarration: ""
     narration: Several days after their first encounter...
@@ -276,5 +276,5 @@ story:
     textRight: (...)
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

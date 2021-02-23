@@ -587,7 +587,7 @@ story:
       id: 305201
       motion: 1
     textLeft: Sounds awesome! I've been dying to try@some Japanese dishes!
-  - autoTurnFirst: 4.7
+  - autoTurnFirst: 5.5
     bg: bg_adv_narration.jpg
     bgm: stop
     chara:

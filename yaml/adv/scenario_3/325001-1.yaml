@@ -67,7 +67,7 @@ story:
     narrationBg: narration
     narrationEffect: in
     turnChangeOut: fadeOut
-  - autoTurnLast: 0.1
+  - autoTurnLast: 0.01
     bg: bg_adv_14072.jpg
     chara:
     - cheek: 0
@@ -86,7 +86,8 @@ story:
     narrationBg: narration
     narrationEffect: in
     turnChangeOut: fadeOut
-  - chara:
+  - autoTurnLast: 0.1
+    chara:
     - effect: fadeout
       id: 100800
     - effect: fadeout

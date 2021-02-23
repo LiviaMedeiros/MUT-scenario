@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 100500
       voiceFull: fullvoice/section_102101/vo_full_102101-4-1
-    nameRight: "\uFEFFFelicia"
+    nameRight: Felicia
     textRight: I've got this...@I can handle it myself.
     turnChangeOut: fadeOut
   - chara:

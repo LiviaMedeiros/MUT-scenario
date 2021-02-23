@@ -84,7 +84,7 @@ story:
       armatureId: 1
       filePath: resource/image_native/effect/story/general/3003_act_picture.ExportJson
       zOrder: charaFront
-    autoTurnLast: 0.01
+    autoTurnLast: 2
   - bgm: bgm01_anime03
     chara:
     - id: 305201
@@ -252,7 +252,7 @@ story:
       motion: 100
     textCenter: '[chara:305201:effect_emotion_joy_0][se:7222_happy]Dad, Mom... Thank
       you and I love you so@much!'
-  - autoTurnLast: 0.01
+  - autoTurnLast: 2
     bg: bg_adv_21421.jpg
     bgm: stop
     chara:

@@ -19,7 +19,7 @@ story:
     - eyeClose: 1
       id: 100100
       voiceFull: fullvoice/section_102101/vo_full_102101-8-1
-    nameRight: "\uFEFFIroha"
+    nameRight: Iroha
     textRight: It'll work...
     turnChangeOut: fadeOut
   - chara:

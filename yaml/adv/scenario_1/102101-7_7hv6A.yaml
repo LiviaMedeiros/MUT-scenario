@@ -20,7 +20,7 @@ story:
     - id: 100100
       motion: 400
       voiceFull: fullvoice/section_102101/vo_full_102101-7-1
-    nameLeft: "\uFEFFIroha"
+    nameLeft: Iroha
     textLeft: Ui, Yachiyo, Felicia!
     turnChangeOut: fadeOut
   - chara:

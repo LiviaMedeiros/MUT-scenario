@@ -14,7 +14,7 @@ story:
       name: sprite_0
     nameCenter: ""
     textBg: shout
-    textCenter: "\uFEFF｜『』『』『』!!｜"
+    textCenter: ｜『』『』『』!!｜
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:

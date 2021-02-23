@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 305001
       motion: 200
-    nameCenter: "\uFEFFYuuna"
+    nameCenter: Yuuna
     textCenter: Well now... That’s all for today.
     turnChangeOut: fadeOut
   - chara:

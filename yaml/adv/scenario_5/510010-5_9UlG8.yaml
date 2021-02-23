@@ -23,7 +23,7 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF\"Oh, is that a limousine?\""
+    narration: '"Oh, is that a limousine?"'
     narrationBg: bg_adv_15021.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

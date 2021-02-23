@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21241.jpg
+  - bg: bg_adv_13111.jpg
     bgm: bgm03_story01
     nameNarration: ""
     narration: And that was the start of@Emily's Counseling Room...!
@@ -59,7 +59,7 @@ story:
     - effect: fadeout
       id: 303101
     narration: I felt so much better after@I talked to Emiri...!
-    narrationBg: bg_adv_21241.jpg
+    narrationBg: bg_adv_13111.jpg
     narrationEffect: in
   - narration: All my worries just...@Disappeared...!
   - narration: Success bred success, and the counseling@room got more and more popular!
@@ -93,7 +93,7 @@ story:
     - effect: fadeout
       id: 100301
     narration: On one of their busy days,@this one girl showed up.
-    narrationBg: bg_adv_21241.jpg
+    narrationBg: bg_adv_13111.jpg
     narrationEffect: in
     surround: stop
   - bgm: stop
@@ -111,7 +111,7 @@ story:
     - effect: fadeout
       id: 301001
     narration: '[textRed:Ria Ami]... She''s the @most beautiful girl in Kamihama!'
-    narrationBg: bg_adv_21241.jpg
+    narrationBg: bg_adv_13111.jpg
     narrationEffect: in
   - narration: But she got her beauty@from a Magical Girl contract.
   - narration: She appears full of confidence, @but inside, she is full of self-doubt...

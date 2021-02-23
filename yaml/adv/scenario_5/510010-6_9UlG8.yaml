@@ -51,7 +51,7 @@ story:
       id: 304401
       motion: 1
       pos: 1
-    nameCenter: "\uFEFFRanka"
+    nameCenter: Ranka
     textCenter: Are you... @trying to pick a fight?
   - autoTurnLast: 0.2
     chara:

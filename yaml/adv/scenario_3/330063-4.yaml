@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21241.jpg
+  - bg: bg_adv_13111.jpg
     bgm: stop
     chara:
     - cheek: 0
@@ -467,9 +467,9 @@ story:
   - nameNarration: ""
     narration: And just like that, Emiri showed @her special talent for healing a
       @worried mind, even one well-hidden...
-    narrationBg: bg_adv_21241.jpg
+    narrationBg: bg_adv_13111.jpg
     narrationEffect: in
-  - autoTurnFirst: 4.3
+  - autoTurnFirst: 3.9
     bg: bg_adv_narration.jpg
     bgm: stop
     chara:
@@ -485,7 +485,7 @@ story:
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: stop
-  - autoTurnFirst: 2.5
+  - autoTurnFirst: 2
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json

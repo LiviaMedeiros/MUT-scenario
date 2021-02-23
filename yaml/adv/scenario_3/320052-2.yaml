@@ -99,7 +99,8 @@ story:
       motion: 100
     se: 7222_happy
     textLeft: Here we gooo!
-  - chara:
+  - bg: bg_adv_21411.jpg
+    chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
       id: 303101
@@ -180,7 +181,8 @@ story:
       id: 200501
       motion: 100
     textRight: Thank you.@That makes me happy to hear.
-  - chara:
+  - bg: bg_adv_21041.jpg
+    chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 303101
@@ -444,5 +446,5 @@ story:
     textLeft: You're right.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...
