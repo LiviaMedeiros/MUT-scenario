@@ -41,7 +41,7 @@ story:
       motion: 300
     nameLeft: Touka
     narrationEffect: out
-    textLeft: Haa...
+    textLeft: '*Sigh*...'
   - chara:
     - id: 100701
     nameLeft: Touka
@@ -71,7 +71,7 @@ story:
   - chara:
     - id: 101403
     nameRight: Nemu
-    textRight: the amount of books to sort is vast, which tends@to bring about fatigue.
+    textRight: The amount of books to sort is vast, which tends@to bring about fatigue.
   - chara:
     - id: 100701
       motion: 0
@@ -109,7 +109,7 @@ story:
     - id: 100701
       pos: 0
     nameLeft: Touka
-    textLeft: my precious time is being wasted on such@unproductive work like "organizing
+    textLeft: My precious time is being wasted on such@unproductive work like "organizing
       books."
   - chara:
     - id: 100701
@@ -160,7 +160,7 @@ story:
     - id: 101403
       motion: 100
     nameRight: Nemu
-    textRight: since half of these books are from my collection.
+    textRight: Since half of these books are from my collection.
   - chara:
     - id: 101403
       motion: 0
@@ -185,7 +185,7 @@ story:
       id: 100701
       mouthOpen: 0
     nameLeft: Touka
-    textLeft: Where am I supposed to vent these pent-up@feelings!?
+    textLeft: Where am I supposed to vent these pent-up@feelings?!
   - bgm: stop
     item:
     - path: resource/scenario/img/51120_touka_nemu_christmas/51120_magicalbook1.png

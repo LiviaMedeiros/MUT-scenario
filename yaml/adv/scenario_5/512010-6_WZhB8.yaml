@@ -21,7 +21,7 @@ story:
     narrationPosX: 180
     turnChangeOut: fadeOut
   - narration: '[textBlack:In a certain place,]@[textBlack:there was a girl who loved
-      to draw manga]@[textBlack:and a genius artist who mentored her]'
+      to draw manga]@[textBlack:and a genius artist who mentored her.]'
   - narration: '[textBlack:The girl showed a Christmas story,]@[textBlack:but the
       genius artist offered no compliments at all.]'
   - narration: '[textBlack:Despite that,]@[textBlack:the girl was not discouraged]@[textBlack:and
@@ -138,7 +138,7 @@ story:
       motion: 400
     nameCenter: Karin
     textBg: shout
-    textCenter: '[chara:101201:effect_shake]Fugya...!?'
+    textCenter: '[chara:101201:effect_shake]Eeek...?!'
   - autoTurnLast: 1.5
     chara:
     - effect: fadeout
@@ -236,7 +236,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: this girl...Karin Misono, is the one drawing@a manga.
+    textRight: This girl...Karin Misono, is the one drawing@a manga.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -270,7 +270,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 110702
     nameRight: Nemu
-    textRight: we currently can't pick it up nor deliver it.
+    textRight: We currently can't pick it up nor deliver it.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

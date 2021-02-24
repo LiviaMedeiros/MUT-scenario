@@ -49,7 +49,7 @@ story:
       id: 100701
       motion: 400
     nameLeft: Touka
-    textLeft: Unyaa!? This is...huh?
+    textLeft: Unyaa?! This is...huh?
   - chara:
     - id: 100701
     nameLeft: Touka
@@ -76,7 +76,7 @@ story:
       lipSynch: 0
       motion: 0
     nameLeft: Touka
-    textLeft: '[chara:100701:effect_emotion_surprise_0][se:7226_shock]―!?'
+    textLeft: '[chara:100701:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -117,7 +117,7 @@ story:
     - id: 100701
       motion: 100
     nameLeft: Touka
-    textLeft: and then we tried to peek into that girl's far@future!
+    textLeft: And then we tried to peek into that girl's far@future!
   - chara:
     - id: 101403
       motion: 200
@@ -181,7 +181,7 @@ story:
     narration: '[textBlack:In this diary''s]@[textBlack:pure white future...]'
     narrationCoverOpacity: 0
     narrationEffect: in
-  - narration: '[textBlack:new pages will be etched...]'
+  - narration: '[textBlack:New pages will be etched...]'
   - autoTurnLast: 0.5
     narrationEffect: out
   - autoTurnLast: 2
@@ -270,7 +270,7 @@ story:
   - chara:
     - id: 101403
     nameRight: Nemu
-    textRight: what I felt from that page was a feeling of@happiness...
+    textRight: What I felt from that page was a feeling of@happiness...
   - chara:
     - id: 101403
       motion: 100
@@ -291,18 +291,18 @@ story:
     - id: 100701
       motion: 0
     nameLeft: Touka
-    textLeft: It is okay...to put our faith in it?
+    textLeft: Is it okay...to put our faith in it?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 101403
     nameRight: Nemu
-    textRight: '...That''s the reason we''re working so hard now'
+    textRight: '...That''s the reason we''re working so hard now...'
   - chara:
     - id: 101403
       motion: 100
     nameRight: Nemu
-    textRight: together with Ui and Iroha.
+    textRight: Together with Ui and Iroha.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -336,24 +336,24 @@ story:
     - id: 100701
       motion: 1
     nameRight: Nemu
-    textRight: Perhaps that mysterious diary
+    textRight: Perhaps that mysterious diary...
   - chara:
     - id: 101403
     nameRight: Nemu
-    textRight: had no intention to show us
+    textRight: Had no intention to show us...
   - chara:
     - id: 101403
     nameRight: Nemu
-    textRight: the last page...
+    textRight: The last page...
   - chara:
     - id: 101403
       motion: 200
     nameRight: Nemu
-    textRight: What was written on there
+    textRight: What was written on there...
   - chara:
     - id: 101403
     nameRight: Nemu
-    textRight: was the ending of a story of one Magical Girl...
+    textRight: Was the ending of a story of one Magical Girl...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

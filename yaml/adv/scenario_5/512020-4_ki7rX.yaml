@@ -115,7 +115,7 @@ story:
   - chara:
     - id: 801300
     nameRight: ""
-    textRight: Haa...haa... Made it just in time...thank goodness.
+    textRight: '*Pant* *Pant*...Made it just in time...@Thank goodness.'
   - chara:
     - id: 801300
     nameRight: ""
@@ -133,7 +133,7 @@ story:
   - chara:
     - id: 801300
     nameRight: ""
-    textRight: The guardian spirits told me...
+    textRight: The Guardian Spirits told me...
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -198,7 +198,7 @@ story:
       id: 801200
       lipSynch: 0
     nameLeft: ""
-    textLeft: '[chara:801200:effect_emotion_surprise_0][se:7226_shock]―!?'
+    textLeft: '[chara:801200:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
@@ -224,7 +224,7 @@ story:
   - chara:
     - id: 801200
     nameLeft: ""
-    textLeft: so I thought if I went overseas... I would never@be able read it again.
+    textLeft: So I thought if I went overseas... I would never@be able read it again.
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
@@ -263,7 +263,7 @@ story:
   - chara:
     - id: 800700
     nameLeft: ""
-    textLeft: you said you were coming all the way from@Sankyo Ward.
+    textLeft: You said you were coming all the way from@Sankyo Ward.
   - chara:
     - id: 800700
     nameLeft: ""
@@ -275,7 +275,7 @@ story:
   - chara:
     - id: 801000
     nameRight: ""
-    textRight: because of the Christmas guardian spirits that@we made it in time.
+    textRight: Because of the Christmas Guardian Spirits that@we made it in time.
   - chara:
     - id: 800600
     nameCenter: ""
@@ -348,7 +348,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: ""
-    textLeft: The Christmas guardian spirits...!
+    textLeft: The Christmas Guardian Spirits...!
   - chara:
     - id: 801300
     nameRight: ""

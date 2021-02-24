@@ -14,7 +14,7 @@ story:
     turnChangeIn: fadeIn
   - nameNarration: Diary Page
     narration: '[textBlack:20××, December ××, 15:10]@[textBlack:Thus, thanks to the
-      two guardian spirits]@[textBlack:who retied the frayed bonds...]'
+      two Guardian Spirits]@[textBlack:who retied the frayed bonds...]'
     narrationBg: ""
     narrationCoverOpacity: 0
     narrationEffect: in
@@ -104,7 +104,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: the Amane sisters should have had a happy@ending.
+    textRight: The Amane sisters should have had a happy@ending.
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -206,7 +206,7 @@ story:
     - id: 100601
       motion: 100
     narrationEffect: out
-    textCenter: Both have such beautiful wrapping...@the anticipation is growing.
+    textCenter: Both have such beautiful wrapping...the@anticipation is growing.
   - chara:
     - id: 101901
       motion: 1
@@ -230,7 +230,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101901
       motion: 400
-    textLeft: Eh...
+    textLeft: Huh...
   - chara:
     - cheek: 0
       effect: emotion_surprise_0
@@ -313,7 +313,7 @@ story:
       pos: 2
     nameLeft: Tsukasa
     nameRight: Tsukuyo
-    textLeft: '*Sigh* ...And I was so confideeent.'
+    textLeft: Ahhh ah...and I was so confideeent.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -344,7 +344,7 @@ story:
     textRight: '...Then that means, in other words,'
   - chara:
     - id: 101801
-    textRight: we both received the item that we wanted?
+    textRight: We both received the item that we wanted?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -368,12 +368,12 @@ story:
     textCenter: '...You two dears! You should be more happy!'
   - chara:
     - id: 100601
-    textCenter: You both got what you wanted most,@and they're even matching...
+    textCenter: You both got what you wanted most, and they're@even matching...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100601
-    textCenter: Aren't they just the best presents ever!?
+    textCenter: Aren't they just the best presents ever?!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -403,7 +403,7 @@ story:
     - id: 110702
       motion: 200
     nameRight: Nemu
-    textRight: The two of us are guardian spirits right now.
+    textRight: The two of us are Guardian Spirits right now.
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -419,7 +419,7 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: their bond would have frayed just like that?
+    textLeft: Their bond would have frayed just like that?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -434,16 +434,16 @@ story:
       id: 110701
       motion: 200
     nameLeft: Touka
-    textLeft: Muuu―
+    textLeft: Grrr!
   - bgm: bgm01_anime02
     chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: I don't know if it's the diary or this guardian@spirits thing,
+    textLeft: I don't know if it's the diary or this Guardian@Spirits thing,
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: but I'm being manipulated by magic I don't@understand.
+    textLeft: But I'm being manipulated by magic I don't@understand.
   - chara:
     - id: 110701
       motion: 201
@@ -458,7 +458,7 @@ story:
     - id: 110701
       motion: 400
     nameLeft: Touka
-    textLeft: What in the world did I dooo!?
+    textLeft: What in the world did I dooo?!
   - chara:
     - id: 110702
       motion: 100
@@ -475,7 +475,7 @@ story:
     - id: 110701
       motion: 100
     nameLeft: Touka
-    textLeft: The guardian spirit of Christmas is just a copy@of Santa!
+    textLeft: The Guardian Spirit of Christmas is just a copy@of Santa!
   - chara:
     - id: 110701
     nameLeft: Touka
@@ -564,7 +564,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: giving in good will, could all be said to be@friendly acts.
+    textRight: Giving in good will, could all be said to be@friendly acts.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -594,7 +594,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: though I can't deny such people exist.
+    textRight: Though I can't deny such people exist.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -607,7 +607,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 110701
     nameLeft: Touka
-    textLeft: we have a method to return back to our@original time.
+    textLeft: We have a method to return back to our@original time.
   - autoTurnLast: 0.2
     item:
     - path: resource/scenario/img/51120_touka_nemu_christmas/51120_magicalbook1.png
@@ -625,7 +625,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 110701
     nameLeft: Touka
-    textLeft: won't we go back home?
+    textLeft: Won't we go back home?
   - chara:
     - id: 110702
       motion: 100

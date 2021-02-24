@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 304701
       lipSynch: 0
-    nameCenter: Chika
+    nameCenter: "\uFEFFChika"
     textCenter: '.....'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
@@ -30,7 +30,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Yuuna
-    textLeft: Let's see... @There is a magical girl nearby.
+    textLeft: Let's see... @There is a Magical Girl nearby.
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -142,7 +142,7 @@ story:
     - id: 304701
       motion: 0
     nameLeft: Yuuna
-    textLeft: It's not surprsing that other girls also want the holy gems.
+    textLeft: It's not surprising that other girls also want the holy gems.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -268,7 +268,7 @@ story:
       id: 304701
       pos: 2
     nameRight: Chika
-    textRight: '*Giggle* Don''t let appeances fool you.'
+    textRight: '*Giggle* Don''t let appearances fool you.'
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -323,7 +323,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Chika
-    textRight: Ah, thats called...
+    textRight: Ah, that's called...
   - autoTurnLast: 0.01
     bg: bg_adv_21131.jpg
     chara:
@@ -342,7 +342,7 @@ story:
   - chara:
     - id: 304701
     nameRight: Chika
-    textRight: '*giggle* I did talk about that...'
+    textRight: '*Giggle* I did talk about that...'
     turnChangeOut: fadeOut
   - chara:
     - id: 305001
@@ -454,7 +454,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Mitama
-    textLeft: '*Giggle* Thats okay.'
+    textLeft: '*Giggle* That''s okay.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -493,7 +493,7 @@ story:
       id: 301701
       pos: 2
     nameRight: Yukika
-    textRight: Um, is this a question that you aren't supposed to ask?
+    textRight: Um, is this a question that you aren't supposed to@ask?
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -517,7 +517,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Hotori
-    textRight: Automatic purification system?...
+    textRight: Automatic Purification System?...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -540,7 +540,7 @@ story:
       id: 100601
       motion: 200
     nameLeft: Mifiyu
-    textLeft: So, you want control of the automatic purification system, right?
+    textLeft: So, you want control of the Automatic Purification System, right?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -572,7 +572,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Mifiyu
-    textLeft: You don't know about that but you are still asking about the [textYellow:Kimochi]?
+    textLeft: You don't know about that, yet you are still asking about the [textYellow:Kimochi]?
   - chara:
     - id: 301701
       motion: 1
@@ -593,7 +593,7 @@ story:
       id: 100601
       pos: 0
     nameLeft: Mifiyu
-    textLeft: The [textYellow:Kimochi] stones that you are area calling jewels...
+    textLeft: The [textYellow:Kimochi] stones that you are all calling jewels...
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -616,8 +616,8 @@ story:
   - chara:
     - id: 301701
     nameRight: Yukika
-    textRight: So once we have the jewel, we can control the automatic purification
-      system.
+    textRight: So once we have the jewel, we can control the Automatic Purification
+      System.
   - chara:
     - id: 301701
       motion: 0

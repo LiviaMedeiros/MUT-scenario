@@ -31,7 +31,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 801000
     nameCenter: ""
-    textCenter: Now, let’s have a word with the dog trainer…!
+    textCenter: Now, let’s have a word with the dog trainer...!
   - autoTurnLast: 0.01
     bg: bg_adv_21471.jpg
     chara:
@@ -62,7 +62,7 @@ story:
     - id: 102201
       lipSynch: 0
     nameRight: Hikaru
-    textRight: '............'
+    textRight: '...'
   - chara:
     - id: 102201
       motion: 100
@@ -130,7 +130,7 @@ story:
     - id: 102201
       lipSynch: 0
     nameCenter: Hikaru
-    textCenter: （Um, where is it… It should be here...）
+    textCenter: (Um, where is it... It should be here...)
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -251,7 +251,7 @@ story:
       lipSynch: 0
       motion: 300
     nameRight: Hikaru
-    textRight: '............'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -265,7 +265,8 @@ story:
       id: 102201
       motion: 400
     nameRight: Hikaru
-    textRight: Eh?! Th-that...It’s nothing!
+    textRight: '[chara:102201:effect_emotion_surprise_0][se:7226_shock]Huh?!@Th-that...It’s
+      nothing!'
   - chara:
     - id: 102101
     nameLeft: Yuna
@@ -298,7 +299,7 @@ story:
   - bgm: stop
     nameCenter: ""
     textBg: shout
-    textCenter: Kya-! Someone help-!
+    textCenter: Eeek! Someone help!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -336,7 +337,7 @@ story:
     - id: 102201
       motion: 200
     nameRight: Hikaru
-    textRight: '...Yuna, look at that! Should I go help her!?'
+    textRight: '...Yuna, look at that! Should I go help her?!'
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -382,7 +383,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Yuna
-    textLeft: '............What?'
+    textLeft: '...[chara:102101:lipSynch_0][wait:0.8][chara:102101:cheek_0][chara:102101:face_mtn_ex_050.exp.json][chara:102101:lipSynch_1]What?'
   - bgm: bgm23_promised03
     chara:
     - cheek: 0
@@ -498,7 +499,7 @@ story:
       id: 102250
       motion: 0
     nameRight: Hikaru
-    textRight: '...Eh?'
+    textRight: '...Huh?'
   - chara:
     - id: 102101
       motion: 0
@@ -549,7 +550,7 @@ story:
       id: 102101
       lipSynch: 0
     nameLeft: Yuna
-    textLeft: '............'
+    textLeft: '...'
   - bgm: bgm03_story09
     chara:
     - cheek: 0
@@ -569,7 +570,7 @@ story:
       id: 102101
       motion: 100
     nameLeft: Yuna
-    textLeft: our team could be drowning in the ocean, and still@end up okay so long
+    textLeft: Our team could be drowning in the ocean, and still@end up okay so long
       as Hikaru's around.
   - chara:
     - cheek: 0
@@ -577,7 +578,7 @@ story:
       id: 102250
       motion: 0
     nameRight: Hikaru
-    textRight: Eh...?
+    textRight: Huh...?
   - chara:
     - id: 102101
     nameLeft: Yuna
@@ -594,7 +595,8 @@ story:
       id: 102250
       motion: 100
     nameRight: Hikaru
-    textRight: Y-yes! Hikaru understands, Yuna...!
+    textRight: Y-yes![chara:102250:lipSynch_0][wait:0.5][chara:102250:cheek_1][chara:102250:face_mtn_ex_011.exp.json][chara:102250:lipSynch_1]@Hikaru
+      understands, Yuna...!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

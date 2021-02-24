@@ -28,7 +28,7 @@ story:
       id: 304401
       motion: 400
     nameRight: Ranka
-    textRight: Ah, wai–...!
+    textRight: '[chara:304401:effect_emotion_surprise_0][se:7226_shock]Ah, wai–...!'
   - nameNarration: ""
     narration: “YOU WIN!!”
     narrationEffect: in
@@ -150,7 +150,7 @@ story:
       id: 102301
       motion: 100
     nameLeft: Ao
-    textLeft: What, yuck!@Now, to choose a shape…
+    textLeft: What, yuck!@Now, to choose a shape...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -198,7 +198,7 @@ story:
       lipSynch: 0
       motion: 0
     nameLeft: Ao
-    textLeft: '............[wait:0.8][chara:102301:cheek_0][chara:102301:face_mtn_ex_051.exp.json][chara:102301:lipSynch_1]Eh?'
+    textLeft: '...[wait:0.8][chara:102301:cheek_0][chara:102301:face_mtn_ex_051.exp.json][chara:102301:lipSynch_1]Huh?'
   - chara:
     - id: 304401
       motion: 1
@@ -250,7 +250,7 @@ story:
     - id: 304401
       motion: 1
     nameRight: Ranka
-    textRight: What, for real? I don’t care either way…
+    textRight: What, for real? I don’t care either way...
   - chara:
     - id: 102301
       motion: 100
@@ -262,7 +262,7 @@ story:
       id: 102301
       lipSynch: 0
     nameLeft: Ao
-    textLeft: '............'
+    textLeft: '...'
   - autoTurnLast: 1
     bg: bg_adv_narration.jpg
     bgm: stop
@@ -308,7 +308,7 @@ story:
     - id: 102301
       motion: 100
     nameLeft: Ao
-    textLeft: Yay–!@Our team made a big turnaround~
+    textLeft: Yay—!@Our team made a big turnaround~
     turnChangeOut: fadeOut
     turnEffect: thinking
   - chara:
@@ -432,7 +432,7 @@ story:
       lipSynch: 0
       motion: 0
     nameCenter: Ao
-    textCenter: '............[chara:102350:lipSynch_0][wait:0.8][chara:102350:cheek_0][chara:102350:lipSynch_1]Eh?'
+    textCenter: '...[chara:102350:lipSynch_0][wait:0.8][chara:102350:cheek_0][chara:102350:lipSynch_1]Huh?'
   - chara:
     - id: 102350
       lipSynch: 0
@@ -464,7 +464,7 @@ story:
     - id: 102350
       motion: 200
     nameLeft: Ao
-    textLeft: W-why is the call still connected...!?
+    textLeft: W-why is the call still connected...?!
     turnChangeOut: fadeOut
     turnEffect: thinking
   - chara:
@@ -531,7 +531,7 @@ story:
       lipSynch: 0
       motion: 0
     nameLeft: Ao
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 305001
       motion: 200
-    nameCenter: Yuuna
+    nameCenter: "\uFEFFYuuna"
     textCenter: Well now... That’s all for today.
     turnChangeOut: fadeOut
   - chara:
@@ -52,7 +52,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Yuuna
-    textLeft: '*Giggle* Hopefully we can learn more from tommorrow’s investigation.'
+    textLeft: '*Giggle* Hopefully we can learn more from@tomorrow’s investigation.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -67,7 +67,7 @@ story:
       id: 301701
       pos: 2
     nameRight: Yukika
-    textRight: Why don't we all stick together tommorrow?
+    textRight: Why don't we all stick together tomorrow?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -244,7 +244,7 @@ story:
       lipSynch: 0
       motion: 100
     nameCenter: Chika
-    textCenter: (Ugh... if only Yunna was bad....)
+    textCenter: (Ugh... if only Yuuna was bad...)
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -273,7 +273,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Yuuna
-    textLeft: Chika... Whats wrong?
+    textLeft: Chika... What's wrong?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -286,7 +286,7 @@ story:
     - id: 304701
       motion: 400
     nameRight: Chika
-    textRight: Oh? Its nothing. @[chara:304701:lipSynch_0][wait:1.0][chara:304701:cheek_0][chara:304701:face_mtn_ex_011.exp.json][chara:304701:lipSynch_1]Hahaha...
+    textRight: Oh? It's nothing. @[chara:304701:lipSynch_0][wait:1.0][chara:304701:cheek_0][chara:304701:face_mtn_ex_011.exp.json][chara:304701:lipSynch_1]Hahaha...
   - chara:
     - id: 305001
       motion: 0
@@ -327,12 +327,12 @@ story:
       motion: 400
       pos: 0
     nameLeft: Yuuna
-    textLeft: Let's just all go and hang out tommorrow.
+    textLeft: Let's just all go and hang out tomorrow.
   - chara:
     - id: 304701
       motion: 1
     nameRight: Chika
-    textRight: …Eh, eh?
+    textRight: '...Eh, eh?'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -356,7 +356,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Yuuna
-    textLeft: It's decided, let’s go home for today and prepare for tommorrow.
+    textLeft: It's decided, let’s go home for today and prepare for tomorrow.
   - autoTurnLast: 0.2
     chara:
     - id: 305001
@@ -422,7 +422,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Shigure
-    textLeft: Hagumun!, We have to go after them!
+    textLeft: Hagumun!@We have to go after them!
   - chara:
     - id: 103001
     nameRight: Hagumu
@@ -458,7 +458,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Shigure
-    textLeft: What? ...It's true...
+    textLeft: What?@...It's true...
   - autoTurnLast: 0.2
     chara:
     - id: 102901
@@ -508,7 +508,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Hagumu
-    textRight: T-they knew we were following them....
+    textRight: T-they knew we were following them...
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -524,7 +524,7 @@ story:
       pos: 2
       tear: 1
     nameRight: Hagumu
-    textRight: I don't know....
+    textRight: I don't know...
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

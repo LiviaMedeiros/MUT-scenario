@@ -5,7 +5,7 @@ story:
     bg: bg_adv_20631.jpg
     turnChangeIn: fadeIn
   - bgm: bgm01_anime02
-    nameNarration: ""
+    nameNarration: Mel
     narration: Mel Anna became a witch.@In other words, I'm already dead...
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -56,15 +56,15 @@ story:
       face: mtn_ex_050.exp.json
       id: 304950
       motion: 0
-    textRight: ..Eh?
+    textRight: '...Huh?'
   - autoTurnLast: 0.01
     bg: bg_adv_narration.jpg
     turnChangeIn: fadeIn
-  - nameNarration: ""
+  - nameNarration: Mel
     narration: Even though I'm a recreation from Kanagi,@right now, I am Mel Anna.
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: So, first, let's go@to the girls we can call our juniors!
+  - narration: So, first, let's go@to the girls we can call our kohais!
   - autoTurnLast: 1
     bg: bg_adv_20632.jpg
     bgm: stop
@@ -92,7 +92,7 @@ story:
     - id: 303751
       lipSynch: 0
     nameLeft: Mel
-    textLeft: (Tsuruno isn't a junior, but let's set that aside@for now...)
+    textLeft: (Tsuruno isn't a kohai, but let's set that aside@for now...)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -161,7 +161,8 @@ story:
       motion: 400
       pos: 0
     nameLeft: Mel
-    textLeft: Even though it's Halloween...!?
+    textLeft: '[chara:303751:effect_emotion_surprise_0][se:7226_shock]Even though
+      it''s Halloween...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -169,7 +170,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Sana
-    textRight: The only sweets we can have are...@just the "sugar skeletons..."
+    textRight: The only sweets we can have are...@just the "sugar skeletons"...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -185,7 +186,8 @@ story:
       id: 303751
       pos: 0
     nameLeft: Mel
-    textLeft: Na! Even here Kanagi ruins everything...!
+    textLeft: What![chara:303751:lipSynch_0][wait:0.8][chara:303751:cheek_0][chara:303751:motion_300][chara:303751:lipSynch_1]@Even
+      here Kanagi ruins everything...!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -216,7 +218,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Tsuruno
-    textRight: Trick...!?
+    textRight: '[chara:100300:effect_emotion_surprise_0][se:7226_shock]Trick...?!'
   - bgm: bgm03_story16
     chara:
     - id: 303751
@@ -272,7 +274,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Felicia
-    textRight: Wa, wait a minute! What are you gonna do!?
+    textRight: W-wait a minute! What are you gonna do?!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -287,7 +289,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Mel
-    textLeft: Since it's the first, I'll go niiice and easy on one of@our juniors.
+    textLeft: Since it's the first, I'll go niiice and easy on one of@our kohais.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -318,7 +320,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Ui
-    textRight: Kyaa! Ahaha!!
+    textRight: '[chara:101500:effect_shake]Kyaa! Ahaha!!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -346,7 +348,7 @@ story:
       id: 100100
       motion: 400
     nameRight: Iroha
-    textRight: Hya!? S, stop...!? Ahaha...!!!
+    textRight: '[chara:100100:effect_shake]Hya?! S-stop...?!@Ahaha...!!!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -371,7 +373,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Sana
-    textLeft: I, Iroha...! Ui...!
+    textLeft: I-Iroha...! Ui...!
   - chara:
     - id: 100500
       motion: 200
@@ -400,7 +402,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Mel
-    textLeft: '*laughs*, no one will escape!'
+    textLeft: Mwahaha, no one will escape!
   - chara:
     - cheek: 0
       effect: slideInRightFast
@@ -409,7 +411,8 @@ story:
       motion: 201
       pos: 2
     nameRight: Tsuruno
-    textRight: Wa!? You anticipated my moves!?
+    textRight: '[chara:100300:effect_emotion_surprise_0][se:7226_shock]Wha?! You anticipated
+      my moves?!'
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -425,7 +428,7 @@ story:
       id: 100300
       motion: 101
     nameRight: Tsuruno
-    textRight: Ahahaha...! Mel, not there...!
+    textRight: '[chara:100300:effect_shake]Ahahaha...!@Mel, not there...!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -457,14 +460,15 @@ story:
     - id: 100500
       motion: 200
     nameLeft: Felicia
-    textLeft: L, let go...! Ahahaha, that tickles!
+    textLeft: L-let go...!@[chara:100500:lipSynch_0][wait:0.8][chara:304950:motion_200][chara:100500:effect_shake][chara:100500:cheek_1][chara:100500:motion_400][chara:100500:face_mtn_ex_011.exp.json][chara:100500:lipSynch_1]Ahahaha,
+      that tickles!
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 100400
       motion: 400
     nameRight: Sana
-    textRight: '*giggles*...Ahaha. Th, that tickles...!'
+    textRight: '[chara:100400:effect_shake]*Giggle*...Ahaha.@T-that tickles...!'
   - autoTurnLast: 1.5
     bgm: stop
     chara:
@@ -479,7 +483,7 @@ story:
     - id: 303751
       motion: 200
     nameCenter: Mel
-    textCenter: '*Sigh*... We''ll forgive them this time.'
+    textCenter: '*Sigh*...We''ll forgive them this time.'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -498,12 +502,12 @@ story:
       motion: 0
       pos: 2
     nameLeft: Felicia
-    textLeft: Haa...haaa... I'm worn ouuut!
+    textLeft: '*Pant* *Pant*@...I''m worn ouuut!'
   - chara:
     - id: 101500
       motion: 300
     nameRight: Ui
-    textRight: Yeah... But, *giggles*...
+    textRight: Yeah...@But, *Giggle*...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -542,7 +546,7 @@ story:
       id: 100300
       motion: 101
     nameRight: Tsuruno
-    textRight: Ahaha...! That's a prize...!?
+    textRight: '[chara:100300:effect_shake]Ahaha...!@That''s a prize...?!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -575,7 +579,7 @@ story:
     - id: 100100
       motion: 100
     nameRight: Iroha
-    textRight: '*giggles*, it is...!'
+    textRight: '*Giggle* It is...!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -602,7 +606,8 @@ story:
       motion: 100
       pos: 1
     nameCenter: Mel
-    textCenter: When that time comes, I'll tickle you some more!
+    textCenter: '[chara:303751:effect_emotion_joy_0][se:7222_happy]When that time
+      comes, I''ll tickle you some more!'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

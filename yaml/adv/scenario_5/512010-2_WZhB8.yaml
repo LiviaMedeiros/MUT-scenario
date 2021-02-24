@@ -117,7 +117,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: then Tsukasa should appear here shortly.
+    textRight: Then Tsukasa should appear here shortly.
   - autoTurnLast: 0.1
     chara:
     - effect: fadeout
@@ -159,12 +159,12 @@ story:
     - id: 110702
       motion: 100
     nameRight: Nemu
-    textRight: I merely recalled what Mifuyu had told me
+    textRight: I merely recalled what Mifuyu had told me...
   - chara:
     - id: 110702
       motion: 0
     nameRight: Nemu
-    textRight: last Christmas...
+    textRight: Last Christmas...
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -248,7 +248,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: but I'll tell you about the "heartwarming" details@later.
+    textRight: But I'll tell you about the "heartwarming" details@later.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -274,11 +274,11 @@ story:
       motion: 0
     nameRight: Nemu
     textRight: '...According to Mifuyu''s story, Tsukasa is in this@shopping district
-      today'
+      today...'
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: to should purchase fluffy gloves as a present@for Tsukuyo.
+    textRight: To purchase fluffy gloves as a present@for Tsukuyo.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -296,7 +296,7 @@ story:
       id: 110701
       motion: 200
     nameLeft: Touka
-    textLeft: then the mysterious power time slip theory is@confirmed!
+    textLeft: Then the mysterious power time slip theory is@confirmed!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -386,7 +386,7 @@ story:
       motion: 400
     nameRight: Nemu
     narrationEffect: out
-    textRight: '[chara:110702:effect_emotion_surprise_0][se:7226_shock]―!?'
+    textRight: '[chara:110702:effect_emotion_surprise_0][se:7226_shock]...?!'
   - bgm: bgm03_story20
     chara:
     - id: 110702
@@ -460,12 +460,12 @@ story:
       face: mtn_ex_010.exp.json
       id: 110701
     nameLeft: Touka
-    textLeft: Will a time paradox occur
+    textLeft: Will a time paradox occur...
   - chara:
     - id: 110701
       motion: 100
     nameLeft: Touka
-    textLeft: and cause us to cease to exist?
+    textLeft: And cause us to cease to exist?
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -475,14 +475,14 @@ story:
     flashEffect: explosion
     textClear: 1
   - nameRight: Nemu's Voice
-    textRight: ―!? Touka disappeared?
+    textRight: '...?! Touka disappeared?'
   - nameLeft: Touka's Voice
     textLeft: Nemu did tooo!
   - nameRight: Nemu's Voice
     textRight: This is...
   - nameCenter: Touka & Nemu's Voices
     textBg: shout
-    textCenter: A TIME PARADOX!?
+    textCenter: A TIME PARADOX?!
   - autoTurnLast: 0.1
     textClear: 1
   - autoTurnLast: 0.1

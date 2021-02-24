@@ -17,8 +17,8 @@ story:
       pos: 2
     narrationBg: bg_adv_narration.jpg
     turnChangeIn: fadeIn
-  - nameNarration: ""
-    narration: Last Christmas...@It was a little before Eve, but
+  - nameNarration: Tsukasa
+    narration: Last Christmas...@It was a little before Eve, but...
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: Tsukuyo and I@exchanged presents.
@@ -108,7 +108,7 @@ story:
   - chara:
     - id: 101901
       motion: 1
-    textCenter: The same gloves that were sold on the streetside!?
+    textCenter: The same gloves that were sold on the streetside?!
   - nameNarration: ""
     narration: Import Brand 4x discount sale going on now!
     narrationBg: ""
@@ -117,7 +117,7 @@ story:
     - id: 101901
       motion: 400
     narrationEffect: out
-    textCenter: You're kidding! I can afford it with my pocket@change!?
+    textCenter: You're kidding! I can afford it with my pocket@change?!
   - autoTurnLast: 0.2
     chara:
     - id: 101901
@@ -138,7 +138,7 @@ story:
       motion: 100
     nameLeft: Tsukasa
     textLeft: Yes!
-  - nameNarration: ""
+  - nameNarration: Tsukasa
     narration: This please!!!
     narrationEffect: in
   - autoTurnLast: 0.01
@@ -166,20 +166,20 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101901
-    textLeft: I wanted to get another pair for myself, but
+    textLeft: I wanted to get another pair for myself, but...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101901
       motion: 200
-    textLeft: more than that, I just wanted to see Tsukuyo's face@light up!
+    textLeft: More than that, I just wanted to see Tsukuyo's face@light up!
   - chara:
     - id: 100601
     nameRight: Mifuyu
     textRight: I'm looking forward to seeing that.
   - bgm: stop
     nameNarration: ""
-    narration: '*knock knock*'
+    narration: '*Knock knock*'
     narrationEffect: in
   - autoTurnLast: 0.2
     chara:
@@ -245,14 +245,14 @@ story:
       id: 100601
       motion: 200
     nameCenter: Mifuyu
-    textCenter: '*giggling*'
+    textCenter: '*Giggle*'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101901
       motion: 100
     textLeft: One, two...
-  - nameNarration: ""
+  - nameNarration: Tsukuyo & Tsukasa
     narration: Tadaa!
     narrationEffect: in
   - chara:
@@ -269,7 +269,7 @@ story:
       motion: 100
     textRight: Yes we shall...!
   - nameNarration: ""
-    narration: '*rustle...*'
+    narration: '*Rustle*'
     narrationEffect: in
   - bgm: stop
     chara:
@@ -284,7 +284,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101901
       motion: 400
-    textLeft: Eh...
+    textLeft: Huh...
   - chara:
     - cheek: 0
       effect: emotion_surprise_0
@@ -344,7 +344,7 @@ story:
     textLeft: If I'm not mistaken, a good married couple wanted@to please each other...
   - chara:
     - id: 101901
-    textLeft: but their presents ended up not meshing well...@that's what you meant,
+    textLeft: But their presents ended up not meshing well...@that's what you meant,
       right?
   - chara:
     - cheek: 0
@@ -391,7 +391,7 @@ story:
     textRight: '...Then that means, in other words,'
   - chara:
     - id: 101801
-    textRight: we both received the item that we wanted?
+    textRight: We both received the item that we wanted?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -420,7 +420,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100601
-    textCenter: Aren't they just the best presents ever!?
+    textCenter: Aren't they just the best presents ever?!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -491,7 +491,7 @@ story:
       id: 100601
       motion: 1
     surround: stop
-    textCenter: '*giggling*'
+    textCenter: '*Giggle*'
     turnChangeOut: fadeOut
     turnEffect: stop
   - autoTurnLast: 0.5
@@ -504,7 +504,7 @@ story:
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: At a certain party venue
+  - narration: At a certain party venue...
   - armatureList:
     - animation:
       - action
@@ -538,12 +538,12 @@ story:
     - id: 101850
       lipSynch: 0
     nameCenter: Tsukuyo & Tsukasa
-    textCenter: '.....'
+    textCenter: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 101951
     - id: 101850
-    nameNarration: ""
+    nameNarration: Tsukuyo & Tsukasa
     narration: Merry Christmas!
     narrationCoverOpacity: 110
     narrationEffect: in

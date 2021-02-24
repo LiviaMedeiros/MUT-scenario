@@ -18,7 +18,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 300750
-    nameNarration: ""
+    nameNarration: Shizuku
     narration: On the day of the Halloween event...
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
@@ -112,7 +112,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 301950
       motion: 400
-    textLeft: Eehh!?@That's serious!
+    textLeft: '[chara:301950:effect_emotion_surprise_0][se:7226_shock]Huhh?!@That''s
+      serious!'
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
@@ -121,7 +122,7 @@ story:
     textRight: I'll be... just fine.
   - chara:
     - id: 301401
-    textRight: I'll be, next to master...@in Kamihama... laughing...
+    textRight: I'll be, next to Master...@in Kamihama... laughing...
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -129,7 +130,7 @@ story:
       id: 301950
       lipSynch: 0
       motion: 1
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -175,7 +176,7 @@ story:
       lipSynch: 0
       motion: 1
     nameRight: Shizuku
-    textRight: '............'
+    textRight: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 301950
@@ -191,7 +192,7 @@ story:
     textLeft: She must be exhausted after practicing every single@day.
   - chara:
     - id: 300750
-    textRight: Seika's in that condition, but...the double act@comedy, what are you
+    textRight: Seika's in that condition, but... the double act@comedy, what are you
       going to do?
   - chara:
     - id: 300750
@@ -223,7 +224,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 301950
-    textLeft: That... depends on Shizuku!!
+    textLeft: That...[chara:301950:lipSynch_0][wait:1.0][chara:301950:cheek_0][chara:301950:motion_100][chara:301950:face_mtn_ex_011.exp.json][chara:301950:lipSynch_1]depends
+      on Shizuku!!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -269,7 +271,8 @@ story:
       motion: 100
       mouthOpen: 1
     textBg: shout
-    textLeft: Please please please please please please please@please please!
+    textLeft: Please please please please please please please@[wait:1.5][chara:301950:cheek_1][chara:301950:motion_200][chara:301950:face_mtn_ex_020.exp.json][chara:301950:eyeClose_1][chara:301950:mouthOpen_1]please
+      please please please!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -294,7 +297,7 @@ story:
       id: 300750
       lipSynch: 0
       motion: 300
-    textRight: '............'
+    textRight: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -322,7 +325,7 @@ story:
     textRight: If you asked me to remember the lines right now I@would refuse, but,
   - chara:
     - id: 300750
-    textRight: since I watched you two practice so much, I already@memorized it.
+    textRight: Since I watched you two practice so much, I already@memorized it.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -383,7 +386,7 @@ story:
   - chara:
     - id: 300750
     nameNarration: Shizuku
-    narration: ―Shizuku―@You're suddenly starting something!? Also, I'm scared of
+    narration: ―Shizuku―@You're suddenly starting something?! Also, I'm scared of
       the echo!
   - chara:
     - id: 301950
@@ -393,7 +396,7 @@ story:
   - chara:
     - id: 300750
     nameNarration: Shizuku
-    narration: ―Shizuku―@What about third-degree relatives!?
+    narration: ―Shizuku―@What about third-degree relatives?!
   - chara:
     - id: 301950
     nameNarration: Ayaka
@@ -434,7 +437,8 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 301401
-    textLeft: I'm happy, but, also disappointed...
+    textLeft: I'm happy,[chara:301401:lipSynch_0][wait:1.0][chara:301401:cheek_1][chara:301401:face_mtn_ex_030.exp.json][chara:301401:lipSynch_1]
+      but, also disappointed...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -452,7 +456,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300701
       lipSynch: 0
-    textRight: (maybe we delivered some smiles, according to@Ayaka's objective.)
+    textRight: (Maybe we delivered some smiles, according to@Ayaka's objective.)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -489,7 +493,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 301401
       motion: 300
-    textLeft: Hozumi, I'm sorry for the inconvenience I've left@you...
+    textLeft: Shizuku, I'm sorry for the inconvenience I've left@you...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -515,7 +519,8 @@ story:
   - chara:
     - id: 301901
       motion: 100
-    textLeft: After all, comedy is amazing!
+    textLeft: '[chara:301901:effect_emotion_joy_0][se:7222_happy]After all, comedy
+      is amazing!'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

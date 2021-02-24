@@ -44,13 +44,13 @@ story:
       id: 305302
       motion: 100
     nameRight: Ikumi
-    textRight: Welcome, I was waiting for you Shizuku♪
+    textRight: Welcome, I was waiting for you Shizuku♪.
   - chara:
     - id: 304601
       motion: 100
     nameLeft: Ryo
     textLeft: I thought something might've been wrong when@you suddenly contacted
-      me, but I brought what you asked.
+      me, but I brought what you@asked.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -188,11 +188,11 @@ story:
       motion: 200
       pos: 2
     nameRight: Shizuku
-    textRight: '............'
+    textRight: '...'
   - chara:
     - id: 304601
       motion: 200
-    textLeft: Hozumi, doesn't seem to be agreeing with Makino@here.
+    textLeft: Shizuku doesn't seem to be agreeing with Ikumi@here.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -206,7 +206,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 300701
       motion: 401
-    textRight: M, my apologies...
+    textRight: M-my apologies...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -241,7 +241,7 @@ story:
   - chara:
     - id: 300701
       motion: 400
-    textRight: Pl, please wait! Ikumi!!
+    textRight: P-please wait! Ikumi!!
   - autoTurnLast: 1
     bg: bg_adv_16071.jpg
     bgm: stop
@@ -266,7 +266,7 @@ story:
     - id: 304601
       motion: 200
     nameLeft: Ryo
-    textLeft: Mariko's group is doing double act comedy, right.
+    textLeft: Ayaka's group is doing double act comedy, right.
   - chara:
     - id: 300701
     textRight: That's right!
@@ -313,7 +313,7 @@ story:
   - chara:
     - id: 304601
       motion: 1
-    textLeft: Look, Hozumi's pose while resisting Makino...
+    textLeft: Look, Shizuku's pose while resisting Ikumi...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -354,7 +354,7 @@ story:
   - chara:
     - id: 304601
       motion: 0
-    textLeft: Ahh, the Mitakihara magical girl's costumes made@you curious?
+    textLeft: Ahh, the Mitakihara Magical Girl's costumes made@you curious?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -371,7 +371,7 @@ story:
   - chara:
     - id: 300701
       lipSynch: 0
-    textRight: (the atmosphere of the event venue would be@brighter... )
+    textRight: (The atmosphere of the event venue would be@brighter...)
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -390,7 +390,7 @@ story:
     textLeft: Seems like you can really imagine those two wearing@them, can't you?
   - chara:
     - id: 304601
-    textLeft: On that day, Midori and Makino will rush over.
+    textLeft: On that day, Ikumi and I will rush over.
   - chara:
     - id: 304601
       motion: 100
@@ -419,7 +419,7 @@ story:
     - id: 301950
       motion: 100
     nameRight: Ayaka
-    textRight: How was it!? Our double act comedy?
+    textRight: How was it?! Our double act comedy?
     turnChangeOut: fadeOut
   - chara:
     - id: 304601
@@ -428,7 +428,7 @@ story:
     textLeft: Ahh... well, that kind of thing, I have to think about.
   - chara:
     - id: 304601
-    textLeft: Right? Makino?
+    textLeft: Right? Ikumi?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -436,7 +436,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Ikumi
-    textLeft: Y, yeah!
+    textLeft: Y-yeah!
   - chara:
     - id: 305301
       motion: 100
@@ -485,7 +485,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 304601
-    textCenter: the two of you, have happy faces.
+    textCenter: The two of you, have happy faces.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

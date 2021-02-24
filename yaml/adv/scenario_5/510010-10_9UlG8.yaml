@@ -19,13 +19,13 @@ story:
   - chara:
     - id: 304501
       motion: 200
-    nameRight: Rion
+    nameRight: "\uFEFFRion"
     textRight: Ah, that was fun!
     turnChangeOut: fadeOut
   - chara:
     - id: 305001
     nameLeft: Yuuna
-    textLeft: We start searching for the jewels again tommorrow, @let’s do our best!
+    textLeft: We start searching for the jewels again tomorrow, @let’s do our best!
   - chara:
     - cheek: 1
       eyeClose: 1
@@ -34,7 +34,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Yuuna
-    textLeft: '*Giggling* The sooner we get the jewels...'
+    textLeft: '*Giggle* The sooner we get the jewels...'
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
@@ -78,7 +78,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Chika
-    textRight: We are looking for the jewels becuase you want to @find her too, right?
+    textRight: We are looking for the jewels because you want to @find her too, right?
   - chara:
     - id: 305001
     nameLeft: Yuuna
@@ -90,7 +90,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Yuuna
-    textLeft: This was before I had become a magical girl...
+    textLeft: This was before I had become a Magical Girl...
   - autoTurnLast: 0.01
     bgm: stop
     item:
@@ -161,7 +161,7 @@ story:
     - id: 305001
       motion: 0
     nameCenter: Yuuna
-    textCenter: When I transformed into a magicial girl.
+    textCenter: When I transformed into a Magical Girl.
   - chara:
     - id: 305001
     nameCenter: Yuuna
@@ -177,7 +177,7 @@ story:
       id: 305001
       pos: 1
     nameCenter: Yuuna
-    textCenter: '*Giggling*'
+    textCenter: '*Giggle*'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -204,7 +204,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: Yuuna
-    textCenter: As I remember she had powers beyond what a @magical girl has.
+    textCenter: As I remember she had powers beyond what a @Magical Girl has.
   - chara:
     - id: 305001
     nameCenter: Yuuna
@@ -214,7 +214,7 @@ story:
       id: 305001
       motion: 300
     nameCenter: Yuuna
-    textCenter: ' When I finally heard about the jewels, I understood!'
+    textCenter: When I finally heard about the jewels, I understood!
   - chara:
     - id: 305001
     nameCenter: Yuuna
@@ -254,7 +254,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Chika
-    textRight: A-ah Yuuna....!
+    textRight: A-ah Yuuna...!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -262,7 +262,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Yuuna
-    textLeft: Oh, sorry I got too excited, how embarrassing....
+    textLeft: Oh, sorry I got too excited, how embarrassing...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -320,7 +320,7 @@ story:
     - id: 301701
       motion: 200
     nameRight: Yukika
-    textRight: She might be the magical girl...[textRed:Mami Tomoe].
+    textRight: She might be the Magical Girl...[textRed:Mami Tomoe].
   - chara:
     - id: 304701
       motion: 0
@@ -334,23 +334,23 @@ story:
   - chara:
     - id: 301701
     nameRight: Yukika
-    textRight: Do you know about the "Wings of the Magius"? @Chika.
+    textRight: Do you know about the "Wings of the Magius", @Chika?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 304701
       pos: 0
     nameLeft: Chika
-    textLeft: W-Well I've heard rumors...
+    textLeft: W-well I've heard rumors...
   - chara:
     - id: 301701
       motion: 1
     nameRight: Yukika
-    textRight: It was a group dedicated to saving magical girls.
+    textRight: It was a group dedicated to saving Magical Girls.
   - chara:
     - id: 301701
     nameRight: Yukika
-    textRight: I was member of the group.
+    textRight: I was a member of the group.
   - chara:
     - eyeClose: 1
       id: 301701
@@ -367,7 +367,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: blackFrame
   - nameNarration: Yukika
-    narration: There was a magical girl named Mami, who fought for us.
+    narration: There was a Magical Girl named Mami, who fought for us.
     narrationBg: ""
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -375,8 +375,8 @@ story:
   - chara:
     - id: 250000
       motion: 200
-    narration: Mami borrowed the power of the Magius and got alot stronger.
-  - narration: I think she was basically a normal magical girl like us though...
+    narration: Mami borrowed the power of the Magius@and got alot stronger.
+  - narration: I think she was basically a normal Magical Girl@like us though...
   - autoTurnLast: 0.01
     bg: bg_adv_18054.jpg
     chara:
@@ -446,11 +446,11 @@ story:
   - chara:
     - id: 304701
     nameLeft: Chika
-    textLeft: Should we just tell her that the saint was just an @ordinaly magical
-      girl? And has nothing to with the jewels.
+    textLeft: Should we just tell her that the saint was just an @ordinary Magical
+      Girl? And has nothing to with the@jewels.
   - bgm: stop
     nameCenter: Yuuna's voice
-    textCenter: Eh....
+    textCenter: Eh...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -459,7 +459,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Chika
-    textLeft: '[chara:304701:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textLeft: '[chara:304701:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 304701
       motion: 0
@@ -474,12 +474,12 @@ story:
     - id: 305001
       motion: 300
     nameRight: Yuuna
-    textRight: Chika... What you where saying...
+    textRight: Chika... What you were saying...
   - bgm: bgm03_story04
     chara:
     - id: 305001
     nameRight: Yuuna
-    textRight: The saint is a normal magical girl?
+    textRight: The saint is a normal Magical Girl?
   - chara:
     - id: 305001
       motion: 0
@@ -498,7 +498,7 @@ story:
       id: 305001
       pos: 2
     nameRight: Yuuna
-    textRight: '*Laughing*'
+    textRight: Ahahaha...
   - chara:
     - id: 305001
       motion: 100
@@ -559,7 +559,7 @@ story:
       motion: 300
       pos: 1
     nameCenter: Yuuna
-    textCenter: Y-Yes... I see....
+    textCenter: Y-yes... I see....
   - autoTurnLast: 0.2
     chara:
     - effect: slideOutRightFast

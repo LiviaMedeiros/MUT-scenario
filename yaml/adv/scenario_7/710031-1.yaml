@@ -9,7 +9,7 @@ story:
       id: 100151
       motion: 0
       pos: 1
-    nameNarration: ""
+    nameNarration: Iroha
     narration: All kinds of stores are@busy during Christmas season!
     narrationBg: bg_adv_13014.jpg
     narrationEffect: in
@@ -77,7 +77,7 @@ story:
     - cheek: 0
       face: mtn_ex_041.exp.json
       id: 100151
-    textRight: Y, you're absolutely right...
+    textRight: Y-you're absolutely right...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -128,7 +128,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100350
       motion: 0
-    textLeft: '...Eh? What does that mean...?'
+    textLeft: '...Huh? What does that mean...?'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -140,7 +140,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100151
       motion: 400
-    textRight: Tsu, Tsuruno, don't worry about it so much!
+    textRight: T-Tsuruno, don't worry about it so much!
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -149,7 +149,7 @@ story:
   - chara:
     - id: 100350
       lipSynch: 0
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -161,7 +161,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 100151
       motion: 300
-    textRight: '*sigh*...'
+    textRight: '*Sigh*...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -184,7 +184,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 100350
       motion: 201
-    textLeft: Christmas Chinese food!
+    textLeft: '[chara:100350:effect_emotion_angry_1][se:7218_anger]Christmas Chinese
+      food!'
   - chara:
     - cheek: 0
       face: mtn_ex_041.exp.json
@@ -237,7 +238,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100151
       lipSynch: 0
-    textRight: '.....'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -292,7 +293,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100151
       motion: 401
-    textRight: Eh...?
+    textRight: Huh...?
   - chara:
     - id: 100350
       motion: 100
@@ -315,7 +316,7 @@ story:
       face: mtn_ex_040.exp.json
       id: 100350
       lipSynch: 0
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -325,7 +326,7 @@ story:
   - chara:
     - id: 100350
       lipSynch: 0
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -352,7 +353,7 @@ story:
   - chara:
     - id: 100151
       motion: 400
-    textRight: Ack!
+    textRight: '[chara:100151:effect_emotion_surprise_0][se:7226_shock]Ack!'
   - chara:
     - cheek: 1
       eyeClose: 0
@@ -360,13 +361,13 @@ story:
       id: 100350
       motion: 100
       mouthOpen: 0
-    textLeft: '...*sniff*...'
+    textLeft: '...*Sniffle*...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100151
       motion: 200
-    textRight: Tsuruno, you were cold after all...!?
+    textRight: Tsuruno, you were cold after all...?!
   - chara:
     - id: 100350
       motion: 200
@@ -400,7 +401,7 @@ story:
   - chara:
     - id: 100151
       lipSynch: 0
-    textCenter: '.....'
+    textCenter: '...'
   - chara:
     - cheek: 2
       eyeClose: 1
@@ -408,20 +409,20 @@ story:
       id: 100151
       motion: 301
       mouthOpen: 1
-    textCenter: '...achoo!'
+    textCenter: '...Achoo!'
   - chara:
     - eyeClose: 0
       id: 100151
       motion: 200
       mouthOpen: 0
-    textCenter: '...*sigh*...'
+    textCenter: '...*Sigh*...'
   - chara:
     - cheek: 1
       face: mtn_ex_041.exp.json
       id: 100151
       lipSynch: 0
     textCenter: (I'm going home too...!)
-  - nameNarration: ""
+  - nameNarration: Iroha
     narration: Banbanzai's Christmas Chinese food@ended up being popular with the
       regulars!
     narrationBg: bg_adv_narration.jpg
@@ -450,7 +451,7 @@ story:
       id: 100350
       lipSynch: 0
       motion: 0
-    textCenter: '.....'
+    textCenter: '...'
   - chara:
     - cheek: 2
       eyeClose: 1

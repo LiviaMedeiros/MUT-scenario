@@ -40,7 +40,7 @@ story:
     chara:
     - id: 801600
     nameLeft: ""
-    textLeft: Uwaa...! Nice to meet you!
+    textLeft: Woww...! Nice to meet you!
     turnChangeOut: fadeOut
   - chara:
     - id: 801600
@@ -66,7 +66,7 @@ story:
       motion: 0
       pos: 2
     nameCenter: Touka & Nemu
-    textCenter: '[chara:110701:effect_emotion_surprise_0][chara:110702:effect_emotion_surprise_0][se:7226_shock]―!?'
+    textCenter: '[chara:110701:effect_emotion_surprise_0][chara:110702:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -81,21 +81,21 @@ story:
   - chara:
     - id: 801600
     nameLeft: ""
-    textLeft: So I asked Kyubey nicely
+    textLeft: So I asked Kyubey nicely...
   - chara:
     - id: 801600
     nameLeft: ""
-    textLeft: and had my wish come true.
+    textLeft: And had my wish come true.
   - chara:
     - id: 801600
     - id: 110702
       motion: 0
     nameLeft: ""
-    textLeft: I wanted to meet the Christmas guardian spirits
+    textLeft: I wanted to meet the Christmas Guardian Spirits...
   - chara:
     - id: 801600
     nameLeft: ""
-    textLeft: that tied the bond between Mama and Papa!
+    textLeft: That tied the bond between Mama and Papa!
   - chara:
     - id: 110701
       lipSynch: 0
@@ -105,7 +105,7 @@ story:
       id: 110702
       lipSynch: 0
     nameCenter: Touka & Nemu
-    textCenter: '[chara:110701:effect_emotion_surprise_0][chara:110702:effect_emotion_surprise_0][se:7226_shock]―!?'
+    textCenter: '[chara:110701:effect_emotion_surprise_0][chara:110702:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -119,7 +119,7 @@ story:
   - chara:
     - id: 110701
     nameCenter: Touka
-    textCenter: you just had your wish granted...?
+    textCenter: You just had your wish granted...?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -180,7 +180,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: and this girl is the child born from Mii and Kuu.
+    textRight: And this girl is the child born from Mii and Kuu.
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -190,7 +190,7 @@ story:
     - id: 110702
       motion: 100
     nameRight: Nemu
-    textRight: and changed our forms into this?
+    textRight: And changed our forms into this?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -208,7 +208,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: but she won't be happy about letting go when@we leave.
+    textRight: But she won't be happy about letting go when@we leave.
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -286,13 +286,13 @@ story:
   - chara:
     - id: 801600
     nameLeft: ""
-    textLeft: and their bond was just about to break on@the spot.
+    textLeft: And their bond was just about to break on@the spot.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 801600
     nameLeft: ""
-    textLeft: At that time, two guardian spirits appeared.
+    textLeft: At that time, two Guardian Spirits appeared.
   - chara:
     - id: 801600
     nameLeft: ""
@@ -320,8 +320,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 801600
     nameLeft: ""
-    textLeft: '[chara:801600:effect_emotion_joy_0][se:7222_happy]Waa...! You two are
-      really real...!'
+    textLeft: '[chara:801600:effect_emotion_joy_0][se:7222_happy]Woww...! You two
+      are really real...!'
   - chara:
     - id: 801600
     nameLeft: ""
@@ -329,7 +329,7 @@ story:
   - chara:
     - id: 801600
     nameLeft: ""
-    textLeft: I've read the book that you guardian spirits@appear in over and over...!
+    textLeft: I've read the book that you Guardian Spirits@appear in over and over...!
   - chara:
     - id: 110702
       motion: 200

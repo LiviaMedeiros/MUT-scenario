@@ -40,7 +40,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: then that is truly fortunate.
+    textRight: Then that is truly fortunate.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -99,7 +99,7 @@ story:
     - id: 110702
       motion: 100
     nameRight: Nemu
-    textRight: '"return us to our own time?"'
+    textRight: '"Return us to our own time?"'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -123,11 +123,11 @@ story:
       face: mtn_ex_000.exp.json
       id: 110702
     nameRight: Nemu
-    textRight: '...Suppose if'
+    textRight: '...Suppose if...'
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: we wished to "see more of the future,"
+    textRight: We wished to "see more of the future,"
   - chara:
     - id: 110702
       motion: 0
@@ -148,7 +148,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: we forced a girl to become a Magical Girl.
+    textRight: We forced a girl to become a Magical Girl.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -214,22 +214,22 @@ story:
     - id: 110701
       motion: 1
     nameLeft: Touka
-    textLeft: '...So you want to'
+    textLeft: '...So you want to...'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 110701
     nameLeft: Touka
-    textLeft: look into this girl's future...
+    textLeft: Look into this girl's future...
   - chara:
     - id: 110701
       motion: 100
     nameLeft: Touka
-    textLeft: see the results of her fate,
+    textLeft: See the results of her fate,
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: and then go home...?
+    textLeft: And then go home...?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -260,7 +260,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: we shouldn't be afraid to face them and bear@the consequences of our
+    textRight: We shouldn't be afraid to face them and bear@the consequences of our
       mistakes.
   - chara:
     - id: 110701
@@ -324,7 +324,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 801600
     nameLeft: ""
-    textLeft: The guardian spirits are really going home,@aren't they...
+    textLeft: The Guardian Spirits are really going home,@aren't they...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -414,7 +414,7 @@ story:
       eyeClose: 1
       face: mtn_ex_010.exp.json
       id: 110702
-    narration: '[textBlack:but that girl will]@[textBlack:continue to walk]@[textBlack:towards
+    narration: '[textBlack:But that girl will]@[textBlack:continue to walk]@[textBlack:towards
       a happy future...]@[textBlack:as odd as that is.]'
   - chara:
     - cheek: 0
@@ -445,7 +445,7 @@ story:
     narration: '[textBlack:In this diary''s]@[textBlack:pure white future...]'
     narrationCoverOpacity: 0
     narrationEffect: in
-  - narration: '[textBlack:new pages will be etched...]'
+  - narration: '[textBlack:New pages will be etched...]'
   - autoTurnLast: 0.5
     narrationEffect: out
   - autoTurnLast: 2

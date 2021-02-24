@@ -58,7 +58,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Karin
-    textLeft: Uu...I'm so happy my lively Alina seems to@be back...
+    textLeft: '*Sniffle*...I''m so happy my lively Alina seems to@be back...'
   - chara:
     - id: 101152
       motion: 100
@@ -309,7 +309,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Touka
-    textLeft: what is the meaning of this?
+    textLeft: What is the meaning of this?
   - chara:
     - id: 110702
       motion: 100
@@ -318,7 +318,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: it's part of a rehabilitation activity to help Alina@regain her memory.
+    textRight: It's part of a rehabilitation activity to help Alina@regain her memory.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -356,7 +356,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101152
     nameRight: Kaede
-    textRight: '...Eh? Ah...yes?'
+    textRight: '...Huh? Ah...yes?'
   - chara:
     - id: 100651
     nameLeft: Mifuyu
@@ -421,7 +421,7 @@ story:
   - chara:
     - id: 101152
     nameRight: Kaede
-    textRight: so she asked me to go along with her...
+    textRight: So she asked me to go along with her...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -444,11 +444,11 @@ story:
     - id: 101152
       motion: 200
     nameRight: Kaede
-    textRight: so she thought that if she improved her drawing@skills,
+    textRight: So she thought that if she improved her drawing@skills,
   - chara:
     - id: 101152
     nameRight: Kaede
-    textRight: the surprise...might return her memories...
+    textRight: The surprise...might return her memories...
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -501,7 +501,7 @@ story:
   - chara:
     - id: 101152
     nameRight: Kaede
-    textRight: a Christmas Maiden of Mortality or something?@And was planning on continuing
+    textRight: A Christmas Maiden of Mortality or something?@And was planning on continuing
       her drawing of it.
   - chara:
     - id: 101152
@@ -511,14 +511,14 @@ story:
   - chara:
     - id: 101152
     nameRight: Kaede
-    textRight: as a reference she asked me to wear this@costume...
+    textRight: As a reference she asked me to wear this@costume...
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 100651
       motion: 200
     nameLeft: Mifuyu
-    textLeft: '...Haa...'
+    textLeft: '...*Sigh*...'
   - chara:
     - id: 100651
     nameLeft: Mifuyu
@@ -563,11 +563,11 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: and why these girls have had their peaceful@everyday lives taken away,
+    textRight: And why these girls have had their peaceful@everyday lives taken away,
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: is unmistakably because of us.
+    textRight: Is unmistakably because of us.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

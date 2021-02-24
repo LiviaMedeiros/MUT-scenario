@@ -51,12 +51,12 @@ story:
       id: 305001
       motion: 0
       pos: 1
-    nameCenter: Yuuna
+    nameCenter: "\uFEFFYuuna"
     textCenter: So let's start with...
   - chara:
     - id: 305001
     nameCenter: Yuuna
-    textCenter: 'Chika, Let’s Introduce you first. '
+    textCenter: 'Chika, let’s introduce you first. '
   - autoTurnLast: 0.2
     chara:
     - id: 305001
@@ -221,7 +221,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Yukika
-    textRight: No no, this is only the third time we've met
+    textRight: No no, this is only the third time we've met.
   - autoTurnLast: 0.2
     chara:
     - id: 304701
@@ -333,7 +333,7 @@ story:
       id: 304101
       motion: 200
     nameCenter: Hotori
-    textCenter: T-theres trouble! You know Yuuna...
+    textCenter: T-there's trouble! You know Yuuna...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -360,7 +360,7 @@ story:
       id: 301701
       motion: 400
     nameLeft: Yukika
-    textLeft: So Yuuna was a magical Girl!?
+    textLeft: So Yuuna was a Magical Girl?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -372,7 +372,7 @@ story:
     - id: 301701
       motion: 200
     nameLeft: Yukika
-    textLeft: Lets go help her...!
+    textLeft: Let's go help her...!
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -390,7 +390,7 @@ story:
     - id: 304100
       motion: 200
     nameLeft: Hotori
-    textLeft: T-This way...!
+    textLeft: T-this way...!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -423,13 +423,13 @@ story:
       motion: 400
       pos: 2
     - id: 6001
-      name: sprite_0
+      name: Yukika
       pos: 0
     nameRight: Yukika
-    textRight: '[chara:6001:effect_7000_attack01][surround:3017A03]Eh ...!'
+    textRight: '[chara:6001:effect_7000_attack01][surround:3017A03]Eh...!'
   - chara:
     - id: 6001
-      name: sprite_0
+      name: ""
       pos: 0
     nameLeft: ""
     textBg: shout
@@ -438,7 +438,7 @@ story:
     chara:
     - effect: fadeout
       id: 6001
-      name: sprite_0
+      name: Yukika
     textClear: 1
   - chara:
     - cheek: 0
@@ -452,7 +452,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Yukika
-    textRight: Are you okay...!?
+    textRight: Are you okay...?!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -467,7 +467,7 @@ story:
       id: 305000
       pos: 0
     nameLeft: Yuuna
-    textLeft: You were also a magical girl, weren't you?
+    textLeft: You were also a Magical Girl, weren't you?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -483,7 +483,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Hotori
-    textRight: L-lets get the witch first...!
+    textRight: L-let's get the witch first...!
   - chara:
     - id: 305000
       motion: 0
@@ -501,7 +501,7 @@ story:
     bgm: stop
     chara:
     - id: 6001
-      name: sprite_0
+      name: Yukika
       pos: 1
     turnChangeIn: fadeIn
   - autoTurnLast: 0.5
@@ -510,14 +510,14 @@ story:
     chara:
     - effect: shake
       id: 6001
-      name: sprite_0
+      name: Yukika
     flashEffect: flashRed2
     se: 3001_chara_damage
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
       id: 6001
-      name: sprite_0
+      name: Yukika
     se: 3102_enemy_dead
     textClear: 1
   - autoTurnLast: 0.5
@@ -549,7 +549,7 @@ story:
       motion: 1
       pos: 1
     nameCenter: Yukika
-    textCenter: Huh? Where's Yunna?
+    textCenter: Huh? Where's Yuuna?
   - autoTurnLast: 0.2
     chara:
     - id: 301701
@@ -567,7 +567,7 @@ story:
     - id: 301701
       motion: 400
     nameRight: Yukika
-    textRight: I mean, where are we even!?
+    textRight: I mean, where are we even?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -588,12 +588,12 @@ story:
     - id: 301701
       motion: 300
     nameRight: Yukika
-    textRight: On top of that, the Kaharu group's chairman’s daughter is missing.
+    textRight: On top of that, the Kaharu group's chairman’s@daughter is missing.
   - chara:
     - eyeClose: 1
       id: 301701
     nameRight: Yukika
-    textRight: Isn't this really bad!?
+    textRight: Isn't this really bad?!
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -621,7 +621,7 @@ story:
     - id: 304701
       motion: 300
     nameRight: Chika
-    textRight: So thats why Yuuna was alone in the mountains...
+    textRight: So that's why Yuuna was alone in the mountains...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -630,7 +630,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Yuuna
-    textLeft: '*Giggle* Thats correct.'
+    textLeft: '*Giggle* That''s correct.'
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -645,7 +645,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Chika
-    textRight: Oh no, Please don't bow!
+    textRight: Oh no, please don't bow!
   - chara:
     - id: 304701
       motion: 1
@@ -723,7 +723,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Yuuna
-    textLeft: '*Giggle* Please dont be so worried.'
+    textLeft: '*Giggle* Please don''t be so worried.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -739,7 +739,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Yuuna
-    textLeft: Now then,lets get some drinks.
+    textLeft: Now then, let's get some drinks.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

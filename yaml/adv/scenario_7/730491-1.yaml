@@ -55,7 +55,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 304950
       motion: 0
-    textRight: '...Eh?'
+    textRight: '...Huh?'
   - autoTurnLast: 0.1
     turnChangeIn: fadeIn
   - nameNarration: Kanae
@@ -82,8 +82,8 @@ story:
       motion: 300
     nameLeft: Mel
     narrationEffect: out
-    textLeft: '...What a crushing defeat.@If we can''t get even a single piece of
-      candy...'
+    textLeft: '[chara:303751:effect_emotion_sad_0][se:7224_fall_into]...What a crushing
+      defeat.@If we can''t get even a single piece of candy...'
     turnChangeOut: fadeOut
   - chara:
     - id: 304950
@@ -213,7 +213,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Mifuyu
-    textLeft: Eh...!?
+    textLeft: '[chara:100600:effect_emotion_surprise_0][se:7226_shock]Huh...?!'
   - chara:
     - id: 304950
     textRight: What are we doing...?@Tickling again...?
@@ -232,7 +232,8 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303751
-    textLeft: Ugh...@It's the only thing I can think of...
+    textLeft: Ugh...@[chara:303751:lipSynch_0][wait:0.8][chara:303751:cheek_0][chara:303751:eyeClose_1][chara:303751:lipSynch_1]It's
+      the only thing I can think of...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -245,12 +246,13 @@ story:
       face: mtn_ex_050.exp.json
       id: 304950
       motion: 0
-    textRight: Me...?@...Even if you tell me to...
+    textRight: Me...?@[chara:304950:lipSynch_0][wait:0.8][chara:304950:cheek_0][chara:304950:motion_300][chara:304950:lipSynch_1]...Even
+      if you tell me to...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 303751
-    textLeft: If you'd please!
+    textLeft: '[chara:303751:effect_emotion_joy_0][se:7222_happy]If you''d please!'
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -308,7 +310,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Kanae
-    textRight: '.............'
+    textRight: '...'
   - chara:
     - eyeClose: 0
       id: 304950
@@ -347,7 +349,7 @@ story:
       lipSynch: 0
     textLeft: '...?'
   - nameNarration: ""
-    narration: '.............'
+    narration: '...'
     narrationEffect: in
   - chara:
     - cheek: 0
@@ -384,7 +386,7 @@ story:
       mouthOpen: 1
       pos: 2
     nameCenter: Yachiyo & Mifuyu
-    textCenter: Eh...
+    textCenter: Huh...
   - autoTurnLast: 0.2
     chara:
     - cheek: 0
@@ -402,7 +404,7 @@ story:
     - id: 303751
       motion: 400
     nameCenter: Mel
-    textCenter: Take that!
+    textCenter: '[chara:303751:effect_shake]Take that!'
   - autoTurnLast: 0.2
     bgEffect: shakeSmall
     chara:
@@ -457,7 +459,7 @@ story:
     - id: 304950
       motion: 200
     nameCenter: Kanae
-    textCenter: '...There.'
+    textCenter: '[chara:304950:effect_shake]...There.'
   - autoTurnLast: 0.2
     bgEffect: shakeSmall
     chara:
@@ -485,7 +487,7 @@ story:
       lipSynch: 0
     nameCenter: Yachiyo & Mifuyu
     narrationEffect: out
-    textCenter: '...Eh?'
+    textCenter: '...Huh?'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -538,7 +540,7 @@ story:
       motion: 0
       pos: 2
     nameCenter: Yachiyo & Mifuyu
-    textCenter: '.............'
+    textCenter: '...'
   - autoTurnLast: 0.3
     bg: bg_adv_20632.jpg
     chara:
@@ -642,7 +644,7 @@ story:
     - id: 304950
       motion: 200
     nameCenter: Kanae
-    textCenter: '...There.'
+    textCenter: '[chara:304950:effect_shake]...There.'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     bgEffect: shakeSmall
@@ -682,7 +684,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 100601
     nameRight: Mifuyu
-    textRight: '...*Giggle* it was a ridiculous prank...'
+    textRight: '...*Giggle* It was a ridiculous prank...'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

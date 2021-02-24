@@ -13,7 +13,7 @@ story:
   - chara:
     - id: 102400
       motion: 300
-    nameCenter: Juri
+    nameCenter: "\uFEFFJuri"
     textCenter: Screw you, Ao...
     turnChangeOut: fadeOut
   - chara:
@@ -473,7 +473,7 @@ story:
     turnEffect: stop
   - chara:
     - id: 102400
-    textCenter: ""
+    textCenter: If what she said is true, I think I know what to do...
     turnChangeOut: fadeOut
   - autoTurnLast: 2
     bgm: stop

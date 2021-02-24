@@ -19,7 +19,7 @@ story:
     chara:
     - id: 102300
       motion: 100
-    nameLeft: Ao
+    nameLeft: "\uFEFFAo"
     textLeft: Alright~ Now that Torayacho and Ryuugasaki are @finally at it,
     turnChangeOut: fadeOut
   - chara:
@@ -204,7 +204,7 @@ story:
       winning.
   - chara:
     - id: 102200
-    textRight: But since it's for the sake of avenging the week, @I can go along with
+    textRight: But since it's for the sake of avenging the weak, @I can go along with
       it.
   - chara:
     - cheek: 0

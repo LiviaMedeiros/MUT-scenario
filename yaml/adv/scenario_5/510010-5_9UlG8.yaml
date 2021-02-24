@@ -23,7 +23,7 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: '"Oh, is that a limousine?"'
+    narration: "\uFEFF\"Oh, is that a limousine?\""
     narrationBg: bg_adv_15021.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -60,7 +60,7 @@ story:
   - chara:
     - id: 304701
     nameRight: Chika
-    textRight: I came early so I wouldnt be late.
+    textRight: I came early so I wouldn't be late.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -143,7 +143,7 @@ story:
     - id: 301701
       motion: 300
     nameRight: Yukika
-    textRight: An, old lady collapsed in front of me, so I took her to the hosptial...
+    textRight: An old lady collapsed in front of me, so I took her to@the hospital...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -151,7 +151,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Yukika
-    textRight: But thats not important, lets get started.
+    textRight: But that's not important, let's get started.
   - autoTurnLast: 0.2
     chara:
     - id: 304501
@@ -178,7 +178,7 @@ story:
   - chara:
     - id: 305001
     nameLeft: Yuuna
-    textLeft: It's a bracelet that magical girls can wear.
+    textLeft: It's a bracelet that Magical Girls can wear.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -186,13 +186,13 @@ story:
       motion: 0
       pos: 2
     nameRight: Rion
-    textRight: Then let’s try talking to some magical girls.
+    textRight: Then let’s try talking to some Magical Girls.
   - bgm: stop
     chara:
     - id: 305001
       motion: 0
     nameLeft: Yuuna
-    textLeft: Magical girls... let’s look for some magic power...
+    textLeft: Magical Girls... let’s look for some magic power...
   - bgm: bgm03_story16
     chara:
     - cheek: 0
@@ -201,7 +201,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Yukika
-    textRight: Eh? Are we just gonna ask some random magical @girls?
+    textRight: Eh? Are we just gonna ask some random Magical @Girls?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -229,7 +229,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Rion
-    textRight: Lets go, Hotorin!
+    textRight: Let's go, Hotorin!
   - chara:
     - id: 304101
       motion: 400
@@ -406,7 +406,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Chika
-    textRight: Um... I don't know if i would be able to respond if I @was suddenly
+    textRight: Um... I don't know if I would be able to respond if I @was suddenly
       asked about jewels.
   - chara:
     - id: 304701
@@ -419,7 +419,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Yuuna
-    textLeft: Oh, I suppose thats true...
+    textLeft: Oh, I suppose that's true...
   - autoTurnLast: 0.2
     chara:
     - id: 305001
@@ -496,7 +496,7 @@ story:
     - id: 301701
       motion: 300
     nameRight: Yukika
-    textRight: Is it a sensative topic?...
+    textRight: Is it a sensitive topic?...
   - chara:
     - id: 103001
       motion: 400
@@ -509,7 +509,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Hagumu
-    textLeft: You're asking about it without even knowing!?
+    textLeft: You're asking about it without even knowing?!
   - chara:
     - id: 301701
     nameRight: Yukika
@@ -570,7 +570,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Yuuna
-    textLeft: Gems sure are a sensative topic for magical girls @huh?
+    textLeft: Gems sure are a sensitive topic for Magical Girls @huh?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

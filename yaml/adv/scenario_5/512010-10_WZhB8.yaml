@@ -20,10 +20,10 @@ story:
     - id: 100802
       motion: 100
     nameLeft: Alina
-    textLeft: '...Huu, looks like it''s complete for now...'
+    textLeft: '...*Sigh* Looks like it''s complete for now...'
     turnChangeOut: fadeOut
   - nameNarration: ""
-    narration: '*Rip rip rip*'
+    narration: '*Rip* *Rip* *Rip*'
     narrationBg: ""
     narrationEffect: in
   - chara:
@@ -33,7 +33,7 @@ story:
       motion: 400
     nameRight: Mifuyu
     narrationEffect: out
-    textRight: Ehh...!?
+    textRight: Huhh...?!
   - chara:
     - id: 100651
     nameRight: Mifuyu
@@ -104,7 +104,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Mifuyu
-    textRight: Ehh...
+    textRight: Huhh...
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -121,7 +121,7 @@ story:
     - id: 100802
       motion: 100
     nameLeft: Alina
-    textLeft: Yep, Niente.
+    textLeft: Yep, niente.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -220,7 +220,7 @@ story:
       lipSynch: 0
       motion: 400
     nameLeft: Karin
-    textLeft: '[chara:101202:effect_emotion_surprise_0][se:7226_shock]―!?'
+    textLeft: '[chara:101202:effect_emotion_surprise_0][se:7226_shock]...?!'
   - bgm: bgm03_story07
     chara:
     - cheek: 1
@@ -238,7 +238,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Mifuyu
-    textRight: '...Eh?'
+    textRight: '...Huh?'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -269,7 +269,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100651
     nameRight: Mifuyu
-    textRight: Eh...?
+    textRight: Huh...?
   - autoTurnLast: 2
     bg: bg_adv_21491.jpg
     chara:
@@ -407,7 +407,7 @@ story:
       id: 101202
       tear: 1
     nameLeft: Karin
-    textLeft: '...Alina is...*sniff*...'
+    textLeft: '...Alina is...*Sniff*...'
   - chara:
     - id: 101202
     nameLeft: Karin
@@ -451,12 +451,12 @@ story:
       motion: 1
       tear: 1
     nameLeft: Karin
-    textLeft: '...Uu...'
+    textLeft: '...*Sniff*...'
   - chara:
     - eyeClose: 1
       id: 101202
     nameLeft: Karin
-    textLeft: '...Uu...Uuuu...'
+    textLeft: '...*Sniffle*...*Sob*...'
   - chara:
     - cheek: 1
       face: mtn_ex_060.exp.json
@@ -465,7 +465,7 @@ story:
       tear: 1
     nameLeft: Karin
     textBg: shout
-    textLeft: '...UWAaAaAN...!'
+    textLeft: '...WAaAaAa...!'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -505,7 +505,7 @@ story:
     - id: 101202
       motion: 300
     nameLeft: Karin
-    textLeft: '*Sob* *Sniff*'
+    textLeft: '*Sob*...*Sniff*'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 1
@@ -523,7 +523,7 @@ story:
   - chara:
     - id: 100651
     nameRight: Mifuyu
-    textRight: of those days when you felt happy.
+    textRight: Of those days when you felt happy.
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -615,7 +615,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 110702
     nameRight: Nemu
-    textRight: but something we tied had significance.
+    textRight: But something we tied had significance.
   - chara:
     - eyeClose: 1
       id: 110702

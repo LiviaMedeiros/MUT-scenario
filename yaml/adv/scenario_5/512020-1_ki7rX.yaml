@@ -259,7 +259,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: shortly after we met the boy in Sakae Ward.
+    textRight: Shortly after we met the boy in Sakae Ward.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -410,7 +410,7 @@ story:
   - chara:
     - id: 801200
     nameRight: ""
-    textRight: but I am looking forward to going to a foreign@school.
+    textRight: But I am looking forward to going to a foreign@school.
   - chara:
     - id: 801200
     nameRight: ""

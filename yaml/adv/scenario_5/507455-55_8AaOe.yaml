@@ -18,7 +18,7 @@ story:
   - bgm: bgm03_story06
     chara:
     - id: 102301
-    nameRight: Ao
+    nameRight: "\uFEFFAo"
     textRight: Are you sure it's a good idea for me to come @with you?~
     turnChangeOut: fadeOut
   - chara:
@@ -80,7 +80,10 @@ story:
   - chara:
     - id: 800301
     textCenter: I'm still not happy with what happened, @so there's no way I'm joining
-      you, but I'll at least keep out @of your business.
+      you,
+  - chara:
+    - id: 800301
+    textCenter: but I'll at least keep out of your business.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

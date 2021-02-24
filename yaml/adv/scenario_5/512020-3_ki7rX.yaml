@@ -103,7 +103,7 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: so it'll be fine if we go back even earlier!
+    textLeft: So it'll be fine if we go back even earlier!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -263,7 +263,7 @@ story:
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: Gu... The guardian spirits!?
+    textRight: Gu... The Guardian Spirits?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -285,7 +285,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 801300
     nameRight: ""
-    textRight: Eh, eh...?
+    textRight: Wh-wha...?
   - chara:
     - id: 110701
       motion: 400
@@ -301,7 +301,7 @@ story:
   - chara:
     - id: 801300
     nameRight: ""
-    textRight: '[chara:801300:effect_emotion_surprise_0][se:7226_shock]Ehh...!? Really!?'
+    textRight: '[chara:801300:effect_emotion_surprise_0][se:7226_shock]Huhh...?! Really?!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -432,7 +432,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 801300
     nameRight: ""
-    textRight: It's true! The guardian spirits just told me!
+    textRight: It's true! The Guardian Spirits just told me!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -450,7 +450,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 801000
     nameLeft: ""
-    textLeft: Eh...? What's this, there's so many calls...
+    textLeft: Huh...? What's this, there's so many calls...
   - chara:
     - id: 801000
       lipSynch: 0
@@ -465,7 +465,7 @@ story:
   - chara:
     - id: 801000
     nameLeft: ""
-    textLeft: Are the guardian spirits still there right now?
+    textLeft: Are the Guardian Spirits still there right now?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -477,7 +477,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 801000
     nameLeft: ""
-    textLeft: Thank you, Christmas guardian spirits!
+    textLeft: Thank you, Christmas Guardian Spirits!
   - chara:
     - id: 801000
     nameLeft: ""
@@ -527,7 +527,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: ""
-    textCenter: Thank you! Guardian spirits!
+    textCenter: Thank you! Guardian Spirits!
   - autoTurnLast: 0.2
     chara:
     - id: 801300

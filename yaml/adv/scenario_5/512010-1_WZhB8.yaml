@@ -125,7 +125,7 @@ story:
       id: 101403
       motion: 400
     nameLeft: Touka
-    textLeft: '[chara:100701:effect_emotion_surprise_0][se:7226_shock]―!?'
+    textLeft: '[chara:100701:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -148,7 +148,7 @@ story:
     turnChangeInTime: 2
   - bgm: bgm05_event01
     nameNarration: Touka
-    narration: ―Touka―@Eh...? This is...?
+    narration: ―Touka―@Huh...? This is...?
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -160,7 +160,7 @@ story:
   - nameNarration: Nemu
     narration: ―Nemu―@It seems to be Mizutoku Market Street.
   - nameNarration: Touka
-    narration: ―Touka―@Why are we...in such a place...? Ha...!
+    narration: ―Touka―@Why are we...in such a place...? Wha...!
   - narration: ―Touka―@Nemu! Floating! We're floating!!
   - autoTurnLast: 0.01
     bg: bg_adv_13014.jpg
@@ -199,7 +199,7 @@ story:
       motion: 400
     nameLeft: Touka
     textLeft: Nevermind that, what's with our appearance...?@We transformed...into
-      Magical Girl?
+      Magical Girls?
   - chara:
     - id: 110701
     nameLeft: Touka
@@ -340,7 +340,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: only our consciousness was transfered to the@date and place written
+    textRight: Only our consciousness was transfered to the@date and place written
       in this diary...
   - chara:
     - id: 110702
@@ -351,11 +351,11 @@ story:
     - id: 110701
       motion: 200
     nameLeft: Touka
-    textLeft: So a mysterious magic power in this diary
+    textLeft: So a mysterious magic power in this diary...
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: caused this time slip back to last year?
+    textLeft: Caused this time slip back to last year?
   - chara:
     - id: 110702
       motion: 200
@@ -441,7 +441,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 110701
     nameLeft: Touka
-    textLeft: At least it's certain that magic caused this@phenomenom?
+    textLeft: At least it's certain that magic caused this@phenomenon?
   - chara:
     - id: 110702
       motion: 400

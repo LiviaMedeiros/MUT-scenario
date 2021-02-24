@@ -12,7 +12,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: ＜The next day＞
+    narration: "\uFEFF<The next day>"
     narrationBg: bg_adv_13131.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -111,7 +111,7 @@ story:
       motion: 400
     nameCenter: Sunao
     textBg: shout
-    textCenter: A new group is forming to look for the [textYellow:Kimochi] jewels!?
+    textCenter: A new group is forming to look for the [textYellow:Kimochi]@jewels?!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -137,7 +137,7 @@ story:
       motion: 1
       pos: 1
     nameCenter: Chika
-    textCenter: Maybe its not so much a group, but a team...
+    textCenter: Maybe it's not so much a group, but a team...
   - chara:
     - id: 304701
       motion: 300
@@ -162,7 +162,7 @@ story:
       id: 304701
       pos: 2
     nameRight: Chika
-    textRight: I can't explain it very well....
+    textRight: I can't explain it very well...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -170,7 +170,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Chika
-    textRight: They don't know very much about the [textYellow:Kimochi] jewels...
+    textRight: They don't know very much about the [textYellow:Kimochi]@jewels...
   - chara:
     - id: 304701
       motion: 100
@@ -179,7 +179,7 @@ story:
   - chara:
     - id: 304701
     nameRight: Chika
-    textRight: None of them seem like bad people, @ so I don't know what to do.
+    textRight: None of them seem like bad people, @so I don't know what to do.
   - chara:
     - id: 102501
       motion: 200
@@ -251,7 +251,7 @@ story:
     - id: 102501
       motion: 300
     nameLeft: Shizuka
-    textLeft: Thats not a bad idea, but...
+    textLeft: That's not a bad idea, but...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

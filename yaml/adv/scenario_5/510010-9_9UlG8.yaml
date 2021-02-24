@@ -13,7 +13,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 305001
-    nameCenter: Yuuna
+    nameCenter: "\uFEFFYuuna"
     textCenter: Come on, we are almost there.
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
@@ -85,7 +85,7 @@ story:
   - chara:
     - id: 305001
     nameLeft: Yuuna
-    textLeft: We have  a VIP pass.
+    textLeft: We have a VIP pass.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -114,7 +114,7 @@ story:
     - id: 304701
       motion: 0
     nameLeft: Chika
-    textLeft: Such a thing exists....
+    textLeft: Such a thing exists...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -251,7 +251,7 @@ story:
       id: 304701
       lipSynch: 0
     nameRight: Chika
-    textRight: '[chara:304701:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:304701:effect_emotion_surprise_0][se:7226_shock]...?!'
   - bgm: bgm01_anime02
     chara:
     - cheek: 0
@@ -340,7 +340,7 @@ story:
   - chara:
     - id: 304701
     nameLeft: Chika
-    textLeft: Actually I ...
+    textLeft: Actually I...
   - chara:
     - id: 304701
       motion: 200
@@ -366,7 +366,7 @@ story:
     - id: 304701
       motion: 300
     nameLeft: Chika
-    textLeft: I'm part of the Tokime clan, @a group looking for the jewels...
+    textLeft: I'm part of the Tokime Clan, @a group looking for the jewels...
   - chara:
     - id: 304701
     nameLeft: Chika
@@ -394,7 +394,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Hotori
-    textLeft: W-wait Rion you shouldn't say that....
+    textLeft: W-wait Rion you shouldn't say that...
   - autoTurnLast: 0.2
     chara:
     - id: 304101
@@ -537,7 +537,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Yuuna
-    textRight: Yes. Thats the end of that.
+    textRight: Yes. That's the end of that.
   - chara:
     - eyeClose: 1
       id: 305001

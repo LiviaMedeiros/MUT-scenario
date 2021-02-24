@@ -52,7 +52,7 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: we who are a part of a contradicting future@disappeared!
+    textLeft: We who are a part of a contradicting future@disappeared!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -167,12 +167,12 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: She just miraculously remembered her errands@afterwards
+    textLeft: She just miraculously remembered her errands@afterwards...
   - chara:
     - id: 110701
       motion: 201
     nameLeft: Touka
-    textLeft: and barely saved us!
+    textLeft: And barely saved us!
   - chara:
     - id: 110702
       motion: 0
@@ -225,7 +225,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 801200
     nameRight: ""
-    textRight: '[chara:801200:effect_emotion_joy_0][se:7222_happy]Waa...that''s great!'
+    textRight: '[chara:801200:effect_emotion_joy_0][se:7222_happy]Woww...that''s great!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -237,7 +237,7 @@ story:
   - chara:
     - id: 801200
     nameRight: ""
-    textRight: I read the story about guardian spirits over and@over again!
+    textRight: I read the story about Guardian Spirits over and@over again!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -249,7 +249,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 801200
     nameRight: ""
-    textRight: do the real guardian spirits know about that@book?
+    textRight: Do the real Guardian Spirits know about that@book?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -372,7 +372,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 801200
     nameRight: ""
-    textRight: See you, guardian spirits!
+    textRight: See you, Guardian Spirits!
   - chara:
     - id: 801200
     nameRight: ""
@@ -462,7 +462,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: A pair of guardian spirits reconnect the frayed@bonds of people...
+    textRight: A pair of Guardian Spirits reconnect the frayed@bonds of people...
   - chara:
     - id: 110702
       motion: 0
@@ -486,11 +486,11 @@ story:
       id: 110701
       motion: 0
     nameLeft: Touka
-    textLeft: Perhaps we're having these encounters
+    textLeft: Perhaps we're having these encounters...
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: because this diary is that "Christmas Bonds"@book...?
+    textLeft: Because this diary is that "Christmas Bonds"@book...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

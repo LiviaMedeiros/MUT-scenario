@@ -51,7 +51,7 @@ story:
       id: 110701
       motion: 1
     nameCenter: Nemu
-    textCenter: '...Hey'
+    textCenter: '...Hey...'
   - chara:
     - id: 110702
     nameCenter: Nemu
@@ -106,13 +106,13 @@ story:
   - chara:
     - id: 801300
     nameRight: ""
-    textRight: The guardian spirits―
+    textRight: The Guardian Spirits―
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 801000
     nameLeft: ""
-    textLeft: Guardian spirits...?
+    textLeft: Guardian Spirits...?
   - chara:
     - id: 801000
     nameLeft: ""
@@ -122,7 +122,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 801000
     nameLeft: ""
-    textLeft: there's a name written on it... looks like a child@from Sakae Comprehensive
+    textLeft: There's a name written on it... looks like a child@from Sakae Comprehensive
       School.
   - chara:
     - cheek: 0
@@ -241,7 +241,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Touka
-    textLeft: Haa...
+    textLeft: '*Sigh*...'
   - chara:
     - id: 110702
       motion: 100
@@ -281,7 +281,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Nemu
-    textLeft: '...Do you know about the Christmas guardian@spirits?'
+    textLeft: '...Do you know about the Christmas Guardian@Spirits?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -289,7 +289,7 @@ story:
     - id: 110702
       motion: 0
     nameRight: ""
-    textRight: The guardian spirits that appear in "Christmas@Bonds," right?
+    textRight: The Guardian Spirits that appear in "Christmas@Bonds," right?
   - chara:
     - id: 801300
     - id: 110702
@@ -301,7 +301,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 801300
     nameRight: ""
-    textRight: though she talks about it a lot...
+    textRight: Though she talks about it a lot...
   - chara:
     - id: 801300
       lipSynch: 0
@@ -349,7 +349,7 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: you should go deliver a Christmas present.
+    textLeft: You should go deliver a Christmas present.
   - chara:
     - id: 110701
       motion: 100
@@ -407,14 +407,14 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: this "Christmas Bonds" is a book that people@rarely know about,
+    textRight: This "Christmas Bonds" is a book that people@rarely know about,
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 110702
       motion: 0
     nameRight: Nemu
-    textRight: but he also knew of it...?
+    textRight: But he also knew of it...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -460,13 +460,13 @@ story:
     - id: 110702
       motion: 0
     nameLeft: Nemu
-    textLeft: doesn't that girl borrow it from the library often@just to read it?
+    textLeft: Doesn't that girl borrow it from the library often@just to read it?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 801300
     nameRight: ""
-    textRight: Woah! How'd you know that!?
+    textRight: Woah! How'd you know that?!
   - chara:
     - id: 110702
       motion: 100
@@ -510,7 +510,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 801000
     nameLeft: ""
-    textLeft: '...Were you talking to the guardian spirits again?'
+    textLeft: '...Were you talking to the Guardian Spirits again?'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -656,7 +656,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: can only children who believe in good guardian@spirits see us...?
+    textRight: Can only children who believe in good Guardian@Spirits see us...?
   - chara:
     - id: 110701
       motion: 200
@@ -690,7 +690,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: yet we can interfere with the past.
+    textRight: Yet we can interfere with the past.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -713,7 +713,7 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: I wonder if we should keep quiet until there's a@definitive phenomenom
+    textLeft: I wonder if we should keep quiet until there's a@definitive phenomenon
       again.
   - chara:
     - cheek: 0

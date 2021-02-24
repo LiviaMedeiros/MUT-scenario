@@ -30,7 +30,8 @@ story:
     - eyeClose: 0
       id: 301901
       motion: 100
-    textLeft: Once again you've found it!!
+    textLeft: '[chara:301901:effect_emotion_joy_0][se:7222_happy]Once again you''ve
+      found it!!'
   - chara:
     - id: 300701
       motion: 101
@@ -140,7 +141,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 300701
       motion: 401
-    textRight: Th, this?@In this photo, Tomoe's costume?
+    textRight: Th, this?@In this photo, Mami's costume?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -217,10 +218,10 @@ story:
       face: mtn_ex_011.exp.json
       id: 301901
       motion: 0
-    textLeft: It's fine, it's fine! A public relations person said
+    textLeft: It's fine, it's fine!@A public relations person said...
   - chara:
     - id: 301901
-    textLeft: on the day of the event sweets would be given out.
+    textLeft: On the day of the event sweets would be given out.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -275,7 +276,7 @@ story:
     textLeft: Ahh... well, that kind of thing, I have to think about.
   - chara:
     - id: 304601
-    textLeft: Right? Makino?
+    textLeft: Right? Ikumi?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -283,7 +284,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Ikumi
-    textLeft: Y, yeah!
+    textLeft: Y-yeah!
   - chara:
     - id: 305301
       motion: 100
@@ -332,7 +333,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 304601
-    textCenter: the two of you, have happy faces.
+    textCenter: The two of you, have happy faces.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

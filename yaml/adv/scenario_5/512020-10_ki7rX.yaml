@@ -416,14 +416,14 @@ story:
       motion: 100
       pos: 2
     nameRight: Ui
-    textRight: '...Is that so,'
+    textRight: '...Is that so...'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101501
       pos: 2
     nameRight: Ui
-    textRight: well then, let's go buy some together next time.
+    textRight: Well then, let's go buy some together next time.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -457,7 +457,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm05_event01
     nameNarration: Touka
-    narration: ―Touka―@Let's see...@who should I address this to...
+    narration: ―Touka―@Let's see...@Who should I address this to...
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in

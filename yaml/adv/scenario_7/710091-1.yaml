@@ -46,8 +46,8 @@ story:
       id: 100501
       motion: 0
       pos: 0
-    narration: The thing is,@Rena was on team “real” at the beginning,@while Felicia
-      was on team “fake.”@But before I knew it, they reversed positions,@and I lost
+    narration: The thing is,@Rena was on team "real" at the beginning,@while Felicia
+      was on team "fake."@But before I knew it, they reversed positions,@and I lost
       track of what was going on...
   - chara:
     - id: 100901
@@ -58,7 +58,8 @@ story:
     - id: 100501
       motion: 200
     nameLeft: Felicia
-    textLeft: He's real! Because I–!
+    textLeft: He's real![chara:100501:lipSynch_0][wait:1.0][chara:100501:cheek_1][chara:100501:face_mtn_ex_030.exp.json][chara:100501:lipSynch_1]
+      Because I—!
   - chara:
     - id: 100901
     textRight: Because you’ve seen him, right? Or at least,@someone like him.
@@ -119,7 +120,7 @@ story:
       motion: 201
       pos: 2
     nameRight: Rena
-    textRight: Ta-da!
+    textRight: '[chara:100950:effect_emotion_joy_0][se:7222_happy]Ta-da!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -174,11 +175,11 @@ story:
       motion: 0
       pos: 0
     nameLeft: Felicia
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - id: 100950
       motion: 1
-    textRight: '*chuckling*'
+    textRight: '*Chuckles*'
   - bgm: stop
     chara:
     - id: 100501
@@ -201,7 +202,8 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100950
-    textRight: Oh, no, that's not what I meant!
+    textRight: Oh, no,[chara:100950:lipSynch_0][wait:1.0][chara:100950:cheek_0][chara:100950:face_mtn_ex_020.exp.json:motion_201][chara:100950:lipSynch_1]
+      that's not what I meant!
   - chara:
     - id: 100950
     textRight: What I’m trying to say is that I think you saw a@guy dressed like this...
@@ -236,7 +238,7 @@ story:
       face: mtn_ex_060.exp.json
       id: 100950
       motion: 400
-    textRight: Ha!
+    textRight: Wha!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -269,7 +271,7 @@ story:
       id: 100950
       lipSynch: 0
       motion: 0
-    textRight: …………
+    textRight: '...'
   - chara:
     - id: 100950
       lipSynch: 1
@@ -284,7 +286,7 @@ story:
     textLeft: Back then, the guy at the store said...
   - chara:
     - id: 101101
-    textLeft: “If you like the costume, you can take it home@with you if you want…”
+    textLeft: '"If you like the costume, you can take it home@with you if you want..."'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -320,7 +322,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 100950
       motion: 201
-    textRight: That has nothing to do with anything!
+    textRight: '[chara:100950:effect_emotion_angry_0][se:7219_strain]That has nothing
+      to do with anything!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -347,10 +350,11 @@ story:
       motion: 300
       pos: 0
     nameLeft: Kaede
-    textLeft: Rena-chan...
+    textLeft: Rena...
   - chara:
     - id: 101101
-    textLeft: I mean...that’s brave of you!
+    textLeft: I mean...[chara:101101:lipSynch_0][wait:1.0][chara:101101:motion_200][chara:101101:lipSynch_1]that’s
+      brave of you!
   - chara:
     - id: 100950
       motion: 200
@@ -401,8 +405,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 100950
       motion: 100
-    textRight: '...*giggling* Well, clothes are only as good as their@wearer, after
-      all!'
+    textRight: '[chara:100950:effect_emotion_joy_0][se:7222_happy]...*Giggle* Well,
+      clothes are only as good as their@wearer, after all!'
   - autoTurnLast: 0.01
     chara:
     - effect: fadeout
@@ -443,7 +447,7 @@ story:
       face: mtn_ex_051.exp.json
       id: 100201
       motion: 400
-    textLeft: '...What the–?! Rena...'
+    textLeft: '...What the—?! Rena...'
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -451,7 +455,8 @@ story:
       motion: 0
       pos: 0
     nameLeft: Tsuruno
-    textLeft: '...Hm? ...Wow!'
+    textLeft: '...Hm?[chara:100350:lipSynch_0][wait:1.0][chara:100350:cheek_0][chara:100350:face_mtn_ex_050.exp.json:motion_400][chara:100350:lipSynch_1][chara:100350:effect_emotion_surprise_0][se:7226_shock]
+      ...Wow!'
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp.json

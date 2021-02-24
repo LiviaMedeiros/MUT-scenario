@@ -51,7 +51,7 @@ story:
       id: 304401
       motion: 1
       pos: 1
-    nameCenter: Ranka
+    nameCenter: "\uFEFFRanka"
     textCenter: Are you... @trying to pick a fight?
   - autoTurnLast: 0.2
     chara:
@@ -65,7 +65,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: Rion
-    textCenter: You're the one threating my Hotorin!
+    textCenter: You're the one threatening my Hotorin!
   - chara:
     - id: 304501
       motion: 200
@@ -88,7 +88,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Ao
-    textRight: Ranka, wait calm down.~
+    textRight: Ranka, wait calm down~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -96,7 +96,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Hotori
-    textRight: U-Uhm... @Sorry sorry...
+    textRight: U-uhm... @Sorry sorry...
   - chara:
     - id: 304401
       motion: 1
@@ -118,7 +118,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Chika
-    textRight: '*phew* I finally found them!'
+    textRight: Phew, I finally found them!
   - chara:
     - id: 304401
       motion: 0
@@ -145,7 +145,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Ranka
-    textLeft: I'm seriously annoyed! @ Are you sure you aren't trying to pick a fight?
+    textLeft: I'm seriously annoyed! @Are you sure you aren't trying to pick a fight?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -172,7 +172,7 @@ story:
   - chara:
     - id: 304701
     nameRight: Chika
-    textRight: I'm not sure I understand whats happening, so...
+    textRight: I'm not sure I understand what's happening, so...
   - chara:
     - id: 304701
       motion: 0
@@ -202,12 +202,13 @@ story:
   - chara:
     - id: 304701
     nameRight: Chika
-    textRight: And Hotori was getting scared
+    textRight: And Hotori was getting scared.
   - chara:
     - id: 304401
       motion: 200
     nameLeft: Ranka
-    textLeft: Well, if you just start asking about the jewels, @thats how people react.
+    textLeft: Well, if you just start asking about the jewels, @that's how people
+      react.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -284,7 +285,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Ranka
-    textLeft: W-who, are you!
+    textLeft: W-who are you?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -292,7 +293,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Ao
-    textLeft: Ah, good timing.~
+    textLeft: Ah, good timing~
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -337,7 +338,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Ao
-    textLeft: She might start a war with your magical girl friends.~
+    textLeft: She might start a war with your Magical Girl friends~
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -345,7 +346,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Yukika
-    textRight: W-War!?
+    textRight: W-war?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -518,7 +519,7 @@ story:
     - id: 304101
       motion: 300
     nameRight: Hotori
-    textRight: With student council and magical girl work...
+    textRight: With student council and Magical Girl work...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

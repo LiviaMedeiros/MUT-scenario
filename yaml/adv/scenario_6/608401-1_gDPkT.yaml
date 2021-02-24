@@ -18,14 +18,14 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 300701
-    nameNarration: ""
+    nameNarration: Shizuku
     narration: Kamihama has been moving forward@little by little since that day.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
   - chara:
     - id: 300701
-    narration: Magical girls hold hands while@the city continues to recover.
+    narration: Magical Girls hold hands while@the city continues to recover.
   - chara:
     - id: 300701
     narration: There is one person that still@threatens this moment of peace...
@@ -84,7 +84,7 @@ story:
   - chara:
     - id: 301901
       motion: 200
-    textRight: Hmm, but to just do nothiing-
+    textRight: Hmm, but to just do nothiing—
   - chara:
     - id: 300701
       motion: 0
@@ -98,7 +98,7 @@ story:
   - chara:
     - id: 301901
       motion: 0
-    textRight: Doesn't an event like that just make everyone smile!?
+    textRight: Doesn't an event like that just make everyone smile?!
   - chara:
     - id: 301901
     textRight: That's why, right now Kamihama really needs it!
@@ -107,7 +107,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 301901
       motion: 0
-    textRight: Ahh, geez! It would be a waste, Kamihama!
+    textRight: Ahh, geeze! It would be a waste, Kamihama!
   - chara:
     - id: 301901
     textRight: If there's even a chance, I'll bring smiles to the whole@town!
@@ -162,7 +162,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 301901
       motion: 100
-    textRight: That's it Shizuku!
+    textRight: '[chara:301901:effect_emotion_joy_0][se:7222_happy]That''s it Shizuku!'
   - chara:
     - id: 301901
     textRight: All I have to do is make everyone smile!
@@ -198,7 +198,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 300701
       motion: 400
-    textLeft: Eh... but I'm not willing to do this...
+    textLeft: Wha... but I'm not willing to do this...
   - autoTurnLast: 0.01
     bg: bg_adv_17091.jpg
     chara:
@@ -281,7 +281,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 300701
       motion: 0
-    textRight: Eh?
+    textRight: Huh?
   - chara:
     - id: 301401
     textLeft: I too, am encouraged by master's comedy!

@@ -23,7 +23,7 @@ story:
     turnChangeOut: fadeOut
   - narration: '[textBlack:A certain girl meets]@[textBlack:with a strange animal
       that speaks.]'
-  - narration: '[textBlack:She asked to meet]@[textBlack:the "Christmas guardian spirits."]'
+  - narration: '[textBlack:She asked to meet]@[textBlack:the "Christmas Guardian Spirits."]'
   - narration: '[textBlack:Just like that,]@[textBlack:a mysterious diary appeared
       in a flash of light,]@[textBlack:and then disappeared somewhere...]'
   - autoTurnLast: 0.01
@@ -83,7 +83,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: detailed records of all events that have happened@until today.
+    textRight: Detailed records of all events that have happened@until today.
   - chara:
     - id: 110702
       motion: 0
@@ -109,16 +109,16 @@ story:
       pos: 0
     nameRight: Nemu
     surround: 7202_telepathy
-    textRight: Is it because of this diary that we took on the@form of guardian spirits?
+    textRight: Is it because of this diary that we took on the@form of Guardian Spirits?
     turnEffect: ef_adv_02
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: Or was this diary created because this girl@became a Magical Girl
+    textRight: Or was this diary created because this girl@became a Magical Girl...
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: and we simply played the role of guardian@spirits?
+    textRight: And we simply played the role of Guardian@Spirits?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -176,7 +176,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 110701
     nameLeft: Touka
-    textLeft: '...that is all!'
+    textLeft: '...That is all!'
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -200,7 +200,7 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: but why are there blank pages left halfway@through...
+    textLeft: But why are there blank pages left halfway@through...
   - chara:
     - id: 110702
       motion: 200
@@ -224,11 +224,11 @@ story:
       id: 110702
       motion: 0
     nameRight: Nemu
-    textRight: but I think we were entrusted to take care of it
+    textRight: But I think we were entrusted to take care of it...
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: by our own free will.
+    textRight: By our own free will.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -247,7 +247,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: required to be holy Christmas guardian spirits.
+    textRight: Required to be holy Christmas Guardian Spirits.
   - chara:
     - id: 110701
       lipSynch: 0
@@ -264,21 +264,21 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: we were forced to help others just to save@ourselves,
+    textRight: We were forced to help others just to save@ourselves,
   - chara:
     - id: 110702
       motion: 300
     nameRight: Nemu
-    textRight: would we be called real guardian spirits?
+    textRight: Would we be called real Guardian Spirits?
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: Real guardian spirits were supposed to be@summoned here,
+    textRight: Real Guardian Spirits were supposed to be@summoned here,
   - chara:
     - id: 110702
       motion: 0
     nameRight: Nemu
-    textRight: but since we saved people of our own will,@we were qualified to be
+    textRight: But since we saved people of our own will,@we were qualified to be
       sent here.
   - chara:
     - id: 110701
@@ -319,7 +319,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: I was just...having a little secret chat with my@fellow guardian spirit.
+    textRight: I was just...having a little secret chat with my@fellow Guardian Spirit.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -355,13 +355,13 @@ story:
     textRight: What is it?
   - chara:
     - id: 801600
-    nameLeft: Touka
-    textLeft: The time when the guardian spirits met Mama@and Papa...
+    nameLeft: ""
+    textLeft: The time when the Guardian Spirits met Mama@and Papa...
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 801600
-    nameLeft: Touka
+    nameLeft: ""
     textLeft: Please tell me all about it!
   - chara:
     - cheek: 0

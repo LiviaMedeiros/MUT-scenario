@@ -7,7 +7,7 @@ story:
     turnChangeIn: fadeIn
   - nameCenter: Touka & Nemu's Voices
     textBg: shout
-    textCenter: A TIME PARADOX!?
+    textCenter: A TIME PARADOX?!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.1
     textClear: 1
@@ -28,7 +28,7 @@ story:
     nameCenter: ""
     textCenter: Hey...is someone there?
   - nameRight: Nemu
-    textRight: Eh...?
+    textRight: Huh...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -68,7 +68,7 @@ story:
     - id: 110702
       lipSynch: 0
     nameRight: Nemu
-    textRight: '[chara:110702:effect_emotion_surprise_0][se:7226_shock]―!?'
+    textRight: '[chara:110702:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 110702
       motion: 300
@@ -94,8 +94,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 801200
     nameCenter: ""
-    textCenter: '[chara:801200:effect_emotion_joy_0][se:7222_happy]It''s the guardian
-      spirits of "Christmas Bonds"!'
+    textCenter: '[chara:801200:effect_emotion_joy_0][se:7222_happy]It''s the Guardian
+      Spirits of "Christmas Bonds"!'
   - chara:
     - id: 801200
     nameCenter: ""
@@ -139,7 +139,7 @@ story:
       id: 110702
       motion: 0
     nameRight: Nemu
-    textRight: though I'm certain it's a story involving a pair of@guardian spirits
+    textRight: Though I'm certain it's a story involving a pair of@Guardian Spirits
       appearing.
   - chara:
     - cheek: 0
@@ -180,7 +180,7 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: won't we sound like guardian spirits?
+    textLeft: Won't we sound like Guardian Spirits?
   - chara:
     - id: 110702
       motion: 100
@@ -247,7 +247,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 801200
     nameRight: ""
-    textRight: I knew it, it really is the guardian spirits!
+    textRight: I knew it, it really is the Guardian Spirits!
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -450,7 +450,7 @@ story:
       id: 110701
       motion: 201
     nameLeft: Touka
-    textLeft: Geez, what is the meaning of this!?
+    textLeft: Geeze, what is the meaning of this?!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -484,7 +484,7 @@ story:
   - chara:
     - id: 101901
       motion: 1
-    textCenter: The same gloves that were sold on the streetside!?
+    textCenter: The same gloves that were sold on the streetside?!
   - nameNarration: ""
     narration: Import Brand 40% off discount sale going on now!
     narrationBg: ""
@@ -493,7 +493,7 @@ story:
     - id: 101901
       motion: 400
     narrationEffect: out
-    textCenter: You're kidding! I can afford it with my pocket@change!?
+    textCenter: You're kidding! I can afford it with my pocket@change?!
   - autoTurnLast: 0.2
     chara:
     - id: 101901
@@ -537,7 +537,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Touka
-    textLeft: Haa...
+    textLeft: '*Sigh*...'
   - chara:
     - id: 110701
     nameLeft: Touka

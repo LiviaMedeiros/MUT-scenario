@@ -21,7 +21,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Emiri
-    textRight: Soo niiice! Akiracchi, it suits you!
+    textRight: Soo niiice! Akira-chi, it suits you!
     turnChangeOut: fadeOut
   - chara:
     - id: 300651
@@ -49,13 +49,14 @@ story:
       id: 300850
       lipSynch: 0
       motion: 0
-    textLeft: '.....No, it''s fine.'
+    textLeft: '...[wait:1.0][chara:300850:motion_1][chara:300850:cheek_0][chara:300850:face_mtn_ex_010.exp.json][chara:300850:lipSynch_1]No,
+      it''s fine.'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300651
       motion: 100
-    textRight: That's my Akiracchi!
+    textRight: That's my Akira-chi!
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -63,7 +64,7 @@ story:
       id: 300850
       lipSynch: 0
       motion: 300
-    textLeft: (*sigh*... why did I...agree.....to something like...)
+    textLeft: (*Sigh*... Why did I...agree...[wait:1.0]to something like...)
     turnEffect: thinking
   - bgm: stop
     chara:
@@ -143,12 +144,12 @@ story:
       face: mtn_ex_050.exp.json
       id: 300850
       motion: 0
-    textLeft: Eh!?
+    textLeft: Huh?!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300651
-    textRight: Eh...?
+    textRight: Hm...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -163,14 +164,14 @@ story:
       face: mtn_ex_050.exp.json
       id: 300850
       motion: 400
-    textLeft: Ah, aaahhh! H-hey look Emiri-
+    textLeft: Ah, aaahhh! H-hey look Emiri—
   - chara:
     - id: 300850
     textLeft: There's a line outside!
   - chara:
     - id: 300651
       motion: 200
-    textRight: Eh!? Then it can't be helped I guess...
+    textRight: Huh?! Then it can't be helped I guess...
   - chara:
     - id: 300651
       motion: 0
@@ -211,7 +212,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 300850
       motion: 100
-    textLeft: Eh!? No way! Let's go do that!
+    textLeft: Huh?! No way! Let's go do that!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -244,7 +245,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300850
       motion: 1
-    textLeft: R-right!? So there's no need to worry!
+    textLeft: R-right?! So there's no need to worry!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -256,12 +257,12 @@ story:
       face: mtn_ex_030.exp.json
       id: 300850
       motion: 0
-    textLeft: Y, yeah... Ah, but Emiri,
+    textLeft: Y-yeah... Ah, but Emiri,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300850
-    textLeft: doesn't this outfit look like an undershirt?@You think it could be used
+    textLeft: Doesn't this outfit look like an undershirt?@You think it could be used
       as one...?
   - chara:
     - cheek: 0
@@ -289,16 +290,16 @@ story:
   - chara:
     - id: 300601
       lipSynch: 0
-    textRight: '..........'
+    textRight: '...[wait:1.0]@...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300601
-    textRight: H-huh? Akiracchi?
+    textRight: H-huh? Akira-chi?
   - chara:
     - id: 300601
       motion: 200
-    textRight: Akiracchii, you still changing your clooothes?
+    textRight: Akira-chii, you still changing your clooothes?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -309,10 +310,10 @@ story:
   - chara:
     - id: 300601
       motion: 400
-    textRight: Huh!? Deja vu!?
+    textRight: Huh?! Deja vu?!
   - chara:
     - id: 300601
-    textRight: You're dressed exactly the same as before!?
+    textRight: You're dressed exactly the same as before?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -326,10 +327,10 @@ story:
   - chara:
     - id: 300601
       motion: 0
-    textRight: S, so that's what happened...
+    textRight: S-so that's what happened...
   - chara:
     - id: 300601
-    textRight: W, well go get changed.
+    textRight: W-well go get changed.
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -341,13 +342,13 @@ story:
     - id: 300850
       motion: 300
     nameNarration: ""
-    narration: '*dawdle dawdle...@dawdle dawdle...*'
+    narration: '*Dawdle dawdle...*@*Dawdle dawdle...*'
     narrationBg: ""
     narrationEffect: in
   - chara:
     - id: 300601
     narrationEffect: out
-    textRight: Akiracchi...
+    textRight: Akira-chi...
   - chara:
     - id: 300850
       motion: 0
@@ -360,11 +361,11 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300850
-    textLeft: U, ummm, my hands are cold...s, sorry...
+    textLeft: U-ummm, my hands are cold...s-sorry...
   - chara:
     - id: 300850
       motion: 100
-    textLeft: '*blows*'
+    textLeft: '*Sigh*'
   - chara:
     - id: 300601
       motion: 400
@@ -375,7 +376,7 @@ story:
       id: 300850
       motion: 300
     nameNarration: ""
-    narration: '*dawdle dawdle...@dawdle dawdle...*'
+    narration: '*Dawdle dawdle...*@*Dawdle dawdle...*'
     narrationBg: ""
     narrationEffect: in
   - bgm: stop
@@ -383,31 +384,32 @@ story:
     - id: 300601
       lipSynch: 0
     narrationEffect: out
-    textRight: '.....I get it!'
+    textRight: '...[wait:1.0][chara:300601:motion_200][chara:300601:cheek_0][chara:300601:face_mtn_ex_020.exp.json][chara:300601:lipSynch_1]I
+      get it!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300850
       motion: 0
-    textLeft: W-what is it!?
+    textLeft: W-what is it?!
   - bgm: bgm05_event11
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300601
       motion: 100
-    textRight: Akiracchi, you wanted to wear this outfit more,@didn't you!?
+    textRight: Akira-chi, you wanted to wear this outfit more,@didn't you?!
   - chara:
     - id: 300850
       lipSynch: 0
       motion: 400
-    textLeft: '---!?'
+    textLeft: '[chara:300850:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300601
       motion: 0
-    textRight: I knew it after all, it's a bull's-eye. You were@pretending to hallucinate!?
+    textRight: I knew it after all, it's a bull's-eye. You were@pretending to hallucinate?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -438,7 +440,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 300850
       lipSynch: 0
-    textLeft: '---!? ...Th, thank you...!'
+    textLeft: '...?!@[wait:1.0][chara:300850:cheek_0][chara:300850:face_mtn_ex_010.exp.json][chara:300850:lipSynch_1]...Th-thank
+      you...!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -456,7 +459,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300601
       motion: 1
-    textRight: Well, I think Akiracchi could even wear it in here tomorrow.
+    textRight: Well, I think Akira-chi could even wear it in here tomorrow.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -485,7 +488,7 @@ story:
       lipSynch: 0
     nameCenter: Akira
     narrationEffect: out
-    textCenter: '.....There was no way.'
+    textCenter: '...[wait:1.0][chara:300850:lipSynch_1]There was no way.'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

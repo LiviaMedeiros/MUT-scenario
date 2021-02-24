@@ -55,7 +55,7 @@ story:
       id: 110701
       motion: 300
     nameLeft: Touka
-    textLeft: Haa...
+    textLeft: '*Sigh*...'
   - chara:
     - id: 110701
     nameLeft: Touka
@@ -98,12 +98,12 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: we retied their frayed bonds,
+    textRight: We retied their frayed bonds,
   - chara:
     - id: 110702
       motion: 200
     nameRight: Nemu
-    textRight: there doesn't seem to be any more we can do now.
+    textRight: There doesn't seem to be any more we can do now.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -120,7 +120,7 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: we have yet to investigate the true nature of@this diary.
+    textLeft: We have yet to investigate the true nature of@this diary.
   - autoTurnLast: 0.2
     item:
     - path: resource/scenario/img/51120_touka_nemu_christmas/51120_magicalbook2.png
@@ -142,7 +142,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: The fairy tale of "Christmas Bonds..." The guardian@spirit that appears
+    textRight: The fairy tale of "Christmas Bonds..." The Guardian@Spirit that appears
       in it...
   - chara:
     - id: 110702
@@ -285,7 +285,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: the "results" of us retying Mii and Kuu's hearts.
+    textRight: The "results" of us retying Mii and Kuu's hearts.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -304,12 +304,12 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: This mysterious phenomenom that dragged us@into this,
+    textLeft: This mysterious phenomenon that dragged us@into this,
   - chara:
     - id: 110701
       motion: 400
     nameLeft: Touka
-    textLeft: is it finally time to reveal its secrets...?
+    textLeft: Is it finally time to reveal its secrets...?
   - chara:
     - id: 110702
       motion: 100

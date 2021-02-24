@@ -12,7 +12,7 @@ story:
       pos: 1
     narrationBg: bg_adv_narration.jpg
     turnChangeIn: fadeIn
-  - nameNarration: ""
+  - nameNarration: Tsukuyo
     narration: Today is the Christmas Party!
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -54,7 +54,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 101850
       motion: 200
-    textCenter: (Satobon...I'm certain, she became a black feather@recently.)
+    textCenter: (Satobon...I'm certain, she became a Black Feather@recently.)
   - autoTurnLast: 0.2
     bg: bg_adv_19081.jpg
     chara:
@@ -74,7 +74,7 @@ story:
       lipSynch: 1
       motion: 200
     nameRight: Black Feather
-    textRight: Eh...is that...a letter to me? T-thank you very much!
+    textRight: Huh...is that...a letter to me? T-thank you very much!
     turnChangeOut: fadeOut
   - chara:
     - id: 715001
@@ -97,7 +97,7 @@ story:
       motion: 0
     textRight: This letter...who could it be from?
   - nameNarration: ""
-    narration: '*rustle*'
+    narration: '*Rustle*'
     narrationEffect: in
   - chara:
     - id: 715001
@@ -111,7 +111,7 @@ story:
       id: 715001
       lipSynch: 0
       mouthOpen: 0
-    textRight: '..........'
+    textRight: '...@...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -128,7 +128,7 @@ story:
     textLeft: Suzucchi...
   - chara:
     - id: 101850
-    textLeft: I believe you two became black feathers together,@yes?
+    textLeft: I believe you two became Black Feathers together,@yes?
   - chara:
     - id: 715001
     textRight: Yeah...we're childhood friends.
@@ -158,14 +158,14 @@ story:
       face: mtn_ex_011.exp.json
       id: 101850
       motion: 1
-    textLeft: you could get along again just as we have.
+    textLeft: You could get along again just as we have.
   - chara:
     - id: 715001
       motion: 200
     textRight: '...Yes!'
   - bgm: stop
     nameNarration: ""
-    narration: '*open*'
+    narration: '*Open*'
     narrationEffect: in
   - autoTurnLast: 0.2
     chara:
@@ -179,7 +179,7 @@ story:
       id: 715002
       motion: 400
       pos: 2
-    textRight: Ah...Tsukuyo and@...Satobon!?
+    textRight: Ah...Tsukuyo and@[chara:715002:lipSynch_0][wait:1][chara:715002:lipSynch_1]...Satobon?!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -191,7 +191,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 715002
       motion: 0
-    textRight: Um...I actually...dropped...that letter.
+    textRight: Um...I actually[chara:715002:lipSynch_0][wait:1][chara:715002:lipSynch_1]...dropped...[chara:715002:lipSynch_0][wait:0.8][chara:715002:lipSynch_1]that
+      letter.
   - chara:
     - id: 715002
     textRight: But you found it...somewhere?
@@ -213,10 +214,10 @@ story:
     textCenter: I'm sorry... I'm the one, that wanted to apologize.
   - chara:
     - id: 715001
-    textCenter: At that time, when we were spoken to about@witches and magical girls,
+    textCenter: At that time, when we were spoken to about@Witches and Magical Girls,
   - chara:
     - id: 715001
-    textCenter: learning all of that at once, I got confused...
+    textCenter: Learning all of that at once, I got confused...
   - chara:
     - id: 715001
     textCenter: I think I ended up venting everything on Suzucchi.
@@ -225,16 +226,18 @@ story:
       face: mtn_ex_050.exp.json
       id: 715002
       motion: 400
-    textRight: '...Eh, eh!? Wait a minute?'
+    textRight: '[chara:715002:effect_emotion_surprise_0][se:7226_shock]...H-huh?!
+      Wait a minute?'
   - chara:
     - id: 715002
-    textRight: You already...read the letter...!?
+    textRight: You already...read the letter...?!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 715001
       motion: 400
-    textCenter: Eh... Was I not supposed to read it?
+    textCenter: '[chara:715001:effect_emotion_surprise_0][se:7226_shock]Wha...@Was
+      I not supposed to read it?'
   - bgm: stop
     chara:
     - cheek: 0
@@ -267,10 +270,10 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 101850
-    textLeft: Suzucchi, wrote a reconciliation letter to Satobon
+    textLeft: Suzucchi, wrote a reconciliation letter to Satobon,
   - chara:
     - id: 101850
-    textLeft: but lost her courage to hand it to her and became@hesitant.
+    textLeft: But lost her courage to hand it to her and became@hesitant.
   - chara:
     - id: 715002
       motion: 300
@@ -308,12 +311,12 @@ story:
     textLeft: It is a general rule that feathers must hide their@identities.
   - chara:
     - id: 101850
-    textLeft: In the future, please do not
+    textLeft: In the future, please do not...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101850
-    textLeft: lose your private letters...
+    textLeft: '...lose your private letters...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -329,15 +332,15 @@ story:
     - id: 715001
       motion: 200
     nameCenter: Black Feather
-    textCenter: Today, Miss Santa has
+    textCenter: Today, Miss Santa has...
   - chara:
     - id: 715001
       motion: 200
-    textCenter: delivered a wonderful gift to me...!
+    textCenter: Delivered a wonderful gift to me...!
   - chara:
     - id: 101850
       motion: 100
-    textLeft: '*giggling*'
+    textLeft: '*Giggle*'
   - chara:
     - id: 101850
     textLeft: That is because it is Miss Santa's job to deliver@happiness to everyone.
@@ -351,10 +354,10 @@ story:
     textLeft: '...I believe it so.'
   - chara:
     - id: 101850
-    textLeft: Magic is not only for fighting witches, but also to@save people
+    textLeft: Magic is not only for fighting Witches, but also to@save people...
   - chara:
     - id: 101850
-    textLeft: because we magical girls, have already paid the@price.
+    textLeft: Because we Magical Girls, have already paid the@price.
   - chara:
     - id: 715002
       motion: 200
@@ -365,7 +368,7 @@ story:
     textCenter: Ah...that reminds me, Tsukuyo,
   - chara:
     - id: 715001
-    textCenter: that costume...are you going to a Christmas party@today?
+    textCenter: That costume...are you going to a Christmas party@today?
   - chara:
     - id: 101850
       motion: 1
@@ -392,7 +395,7 @@ story:
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: At a certain party venue
+  - narration: At a certain party venue...
   - armatureList:
     - animation:
       - action
@@ -426,12 +429,12 @@ story:
     - id: 101850
       lipSynch: 0
     nameCenter: Tsukuyo & Tsukasa
-    textCenter: '.....'
+    textCenter: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 101951
     - id: 101850
-    nameNarration: ""
+    nameNarration: Tsukuyo & Tsukasa
     narration: Merry Christmas!
     narrationCoverOpacity: 110
     narrationEffect: in

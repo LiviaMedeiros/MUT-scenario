@@ -18,12 +18,12 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 800600
-    nameRight: Woman
-    textRight: Sorry for the wait, here is the appetizer.
+    nameRight: ""
+    textRight: "\uFEFFSorry for the wait, here is the appetizer."
     turnChangeOut: fadeOut
   - chara:
     - id: 800600
-    nameRight: Woman
+    nameRight: ""
     textRight: This is the "White fish carpaccio" with orange jelly.
   - autoTurnLast: 0.2
     chara:
@@ -50,7 +50,7 @@ story:
     - id: 304701
       motion: 400
     nameLeft: Chika
-    textLeft: N-No I've never seen food like this before....
+    textLeft: N-no I've never seen food like this before...
   - autoTurnLast: 0.2
     chara:
     - id: 304701
@@ -86,7 +86,7 @@ story:
     - id: 304701
       motion: 300
     nameRight: Chika
-    textRight: Well...as much as I can remember....
+    textRight: Well...as much as I can remember...
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -104,7 +104,7 @@ story:
     - id: 304701
       motion: 100
     nameRight: Chika
-    textRight: And so, thats the story!
+    textRight: And so, that's the story!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -146,7 +146,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Yuuna
-    textLeft: It looks the same to me ...
+    textLeft: It looks the same to me...
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -224,7 +224,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Yuuna
-    textLeft: '*Giggle* Its not a problem, becuase your stories are interesting.'
+    textLeft: '*Giggle* It''s not a problem, because your stories are interesting.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -252,7 +252,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 305001
     nameLeft: Yuuna
-    textLeft: '...Would any of you happen to know about things @called “[textYellow:Kimochi?]”…'
+    textLeft: '...Would any of you happen to know about things @called “[textYellow:Kimochi]”?...'
   - chara:
     - eyeClose: 0
       id: 305001
@@ -273,7 +273,7 @@ story:
       motion: 400
       pos: 1
     nameCenter: Chika
-    textCenter: '[chara:304701:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textCenter: '[chara:304701:effect_emotion_surprise_0][se:7226_shock]...?!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -321,7 +321,7 @@ story:
   - chara:
     - id: 305001
     nameLeft: Yuuna
-    textLeft: But a magical girl who obtains one such jewel apparently becomes the
+    textLeft: But a Magical Girl who obtains one such jewel apparently becomes the
       jewel's messenger...
   - chara:
     - id: 305001
@@ -336,7 +336,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Yukika
-    textRight: Um... did you hear about that at the coordinators?
+    textRight: Um... did you hear about that at the Coordinator's?
   - chara:
     - id: 305001
       motion: 0
@@ -360,7 +360,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Yuuna
-    textLeft: That the person I admire is also a magical girl.
+    textLeft: That the person I admire is also a Magical Girl.
   - chara:
     - eyeClose: 0
       id: 305001
@@ -404,12 +404,12 @@ story:
     - id: 304501
       motion: 1
     nameRight: Rion
-    textRight: '... I didn’t really understand all that but,'
+    textRight: '...I didn’t really understand all that but,'
     turnChangeOut: fadeOut
   - chara:
     - id: 304501
     nameRight: Rion
-    textRight: You’ve always looked up the to the person who saved you @life before...
+    textRight: You’ve always looked up the to the person who@saved your life before...
   - chara:
     - id: 304501
       motion: 100
@@ -435,7 +435,7 @@ story:
     - id: 305001
       motion: 100
     nameLeft: Yuuna
-    textLeft: Yes, thats my plan.
+    textLeft: Yes, that's my plan.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -478,7 +478,7 @@ story:
     - id: 304101
       motion: 100
     nameRight: Hotori
-    textRight: Y-Yes...!
+    textRight: Y-yes...!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -547,7 +547,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Yukika
-    textRight: No, I mean I think its a wonderful goal.
+    textRight: No, I mean I think it's a wonderful goal.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -675,7 +675,7 @@ story:
     - id: 304701
       motion: 100
     nameCenter: Chika
-    textCenter: '... I have to give a reply after all....'
+    textCenter: '...I have to give a reply after all...'
   - bgm: stop
     nameNarration: ""
     narration: '*Ring*'

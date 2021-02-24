@@ -42,7 +42,7 @@ story:
       id: 110702
       motion: 400
     nameRight: Nemu
-    textRight: This is unmistakably why we became "Christmas@guardian spirits...!"
+    textRight: This is unmistakably why we became "Christmas@Guardian Spirits"...!
   - autoTurnLast: 0.2
     item:
     - path: resource/scenario/img/51120_touka_nemu_christmas/51120_magicalbook2.png
@@ -54,7 +54,7 @@ story:
       id: 110701
       motion: 400
     nameLeft: Touka
-    textLeft: N-Nemuuu!? You're suddenly fired up!
+    textLeft: N-Nemuuu?! You're suddenly fired up!
   - chara:
     - id: 110701
     nameLeft: Touka
@@ -83,8 +83,8 @@ story:
       lipSynch: 0
       motion: 0
     nameLeft: Touka
-    textLeft: '...[wait:0.8][chara:110701:cheek_0][chara:110701:face_mtn_ex_010.exp.json][chara:110701:lipSynch_1]
-      That''s the look of someone who won''t listen.'
+    textLeft: '...[wait:0.8][chara:110701:cheek_0][chara:110701:face_mtn_ex_010.exp.json][chara:110701:lipSynch_1]That''s
+      the look of someone who won''t listen.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -117,11 +117,11 @@ story:
       id: 110701
       motion: 1
     nameLeft: Touka
-    textLeft: For a while now my brain has been thinking
+    textLeft: For a while now my brain has been thinking...
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: 'all about those pure white pages. '
+    textLeft: 'All about those pure white pages. '
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -140,7 +140,7 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: there's one consistency about it...
+    textLeft: There's one consistency about it...
   - chara:
     - id: 110701
       motion: 201
@@ -188,7 +188,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: tell Mii about the move.
+    textRight: Tell Mii about the move.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -225,7 +225,7 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: it's just not my nature to do so.
+    textLeft: It's just not my nature to do so.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -299,7 +299,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: ""
-    textCenter: '...The two Guardian Spirit?'
+    textCenter: '...The two Guardian Spirits?'
   - autoTurnLast: 0.2
     chara:
     - id: 801200
@@ -605,7 +605,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: ""
-    textCenter: Guardian spirits...where are you going?
+    textCenter: Guardian Spirits...where are you going?
   - autoTurnLast: 0.2
     chara:
     - id: 801200
