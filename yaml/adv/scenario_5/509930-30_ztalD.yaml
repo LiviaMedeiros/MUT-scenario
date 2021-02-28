@@ -61,7 +61,8 @@ story:
       id: 301701
       motion: 1
     nameRight: Yukika
-    textRight: '...Ugh...I''m feeling dizzy...I''m...going to@lie down for a moment...'
+    textRight: '[chara:301701:effect_shake]...Ugh...I''m feeling dizzy...I''m...going
+      to@lie down for a moment...'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout

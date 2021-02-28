@@ -215,7 +215,7 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: ＜The next day>
+    narration: ＜ The Next Day >
     narrationBg: bg_adv_19221.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

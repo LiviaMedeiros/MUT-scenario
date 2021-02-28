@@ -91,7 +91,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 103801
       motion: 400
-    textRight: Wha, 500 yen!?@You're giving me this?
+    textRight: Wha, 500 yen?!@You're giving me this?
   - textLeft: Today was the release date for Terapichi.
   - chara:
     - cheek: 0
@@ -204,7 +204,7 @@ story:
       id: 103901
       lipSynch: 0
       motion: 400
-    textRight: Fumu!?
+    textRight: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]Fumu?!'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

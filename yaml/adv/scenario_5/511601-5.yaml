@@ -269,7 +269,7 @@ story:
       face: mtn_ex_051.exp.json
       id: 100201
       motion: 400
-    textLeft: '"What do you think!? Do I look like an adult now!?"'
+    textLeft: '"What do you think?! Do I look like an adult now?!"'
   - chara:
     - cheek: 0
       face: mtn_ex_014.exp.json
@@ -283,7 +283,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Mifuyu
-    textRight: Huh!?
+    textRight: Huh?!
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json

@@ -249,7 +249,7 @@ story:
     nameLeft: Mikage
     textLeft: Okay, cheese.
   - nameNarration: ""
-    narration: '*Flash*'
+    narration: '[surround:7023_camera]Click-click!'
     narrationEffect: in
   - chara:
     - cheek: 0

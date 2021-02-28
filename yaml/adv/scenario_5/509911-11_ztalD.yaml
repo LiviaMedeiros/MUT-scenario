@@ -368,7 +368,7 @@ story:
   - chara:
     - id: 301701
     nameLeft: Yukika
-    textLeft: I believe it's because I have the type of constitution that easily attracts
+    textLeft: I believe it's because I have the type of constitution@that easily attracts
       troublesome matters...
   - chara:
     - cheek: 0

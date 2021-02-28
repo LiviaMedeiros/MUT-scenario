@@ -63,7 +63,7 @@ story:
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
   - nameNarration: Yuuna
-    narration: '"I''ve probably had a much more privileged life than other people."'
+    narration: '"I''ve probably had a much more@privileged life than other people."'
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -339,7 +339,7 @@ story:
     textLeft: '...?@[wait:1.0][chara:305001:lipSynch_1]It''s gotten kind of noisy?'
   - textCenter: Don't push! Ah.
   - nameNarration: ""
-    narration: '[bgEffect:shakeSmall]Bump'
+    narration: '[bgEffect:shakeSmall]*Bump*'
     narrationBg: ""
     narrationEffect: in
   - autoTurnLast: 0.2

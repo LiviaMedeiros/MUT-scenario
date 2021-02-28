@@ -650,15 +650,14 @@ story:
     textCenter: (By parting, there'll be more to look forward to@in the future...)
   - nameRight: Tsumugi's voice
     textBg: shout
-    textRight: '[chara:304301:effect_emotion_surprise_0][se:7226_shock]What a GREAT
-      idea!!'
+    textRight: What a GREAT idea!!
     turnEffect: stop
   - chara:
     - id: 304301
       lipSynch: 0
       motion: 400
     nameCenter: Eternal Sakura
-    textCenter: '| ...?! |'
+    textCenter: '[chara:304301:effect_emotion_surprise_0][se:7226_shock]| ...?! |'
   - autoTurnLast: 0.01
     bg: black
     item:

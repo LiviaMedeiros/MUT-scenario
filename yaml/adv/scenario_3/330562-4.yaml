@@ -161,7 +161,7 @@ story:
       motion: 200
       pos: 1
     nameCenter: Rui
-    textCenter: '....!'
+    textCenter: '...!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

@@ -163,7 +163,7 @@ story:
     nameCenter: Kanoko & Tsumugi
     narrationEffect: out
     surround: 7003_wind
-    textCenter: '[chara:302401:effect_emotion_sad_0][chara:300101:effect_emotion_sad_0][se:7224_fall_into]...'
+    textCenter: '...'
   - chara:
     - id: 300101
       motion: 1
@@ -202,7 +202,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story08
     nameCenter: Kanoko & Tsumugi
-    textCenter: '...'
+    textCenter: '[chara:302401:effect_emotion_sad_0][chara:300101:effect_emotion_sad_0][se:7224_fall_into]...'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:

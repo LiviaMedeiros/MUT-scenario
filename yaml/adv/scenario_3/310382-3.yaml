@@ -115,7 +115,7 @@ story:
       motion: 400
     nameCenter: Mikage
     narrationEffect: out
-    textCenter: '...!?'
+    textCenter: '[chara:103801:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -331,7 +331,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 400
-    textRight: Got it!
+    textRight: '[chara:103801:effect_emotion_joy_0][se:7222_happy]Got it!'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -382,7 +382,7 @@ story:
       id: 300101
       lipSynch: 0
       motion: 0
-    textLeft: '...!?'
+    textLeft: '[chara:300101:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

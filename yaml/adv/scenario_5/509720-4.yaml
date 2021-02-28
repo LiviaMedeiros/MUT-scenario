@@ -211,8 +211,8 @@ story:
     turnEffect: blackFrame
   - chara:
     - id: 800400
-    nameCenter: Mr. Miranda
-    textCenter: Damn, he's still not here...@I'll come back in 10 minutes...
+    nameCenter: ""
+    textCenter: Damn, he's still not here...@I'll come back in another 10 minutes...
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     chara:

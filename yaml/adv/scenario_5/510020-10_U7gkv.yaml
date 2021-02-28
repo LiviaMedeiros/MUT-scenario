@@ -89,7 +89,7 @@ story:
       pos: 2
     nameRight: Chika
     narrationEffect: out
-    textRight: Ah, I'm sorry! @my smartphone.
+    textRight: Ah, I'm sorry! @My smartphone.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -129,7 +129,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Chiharu
-    textLeft: Aah, You've become good friends!
+    textLeft: Aah! You've become good friends!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -164,7 +164,7 @@ story:
       id: 304701
       motion: 200
     nameRight: Chika
-    textRight: I would never betray the Tokime clan!
+    textRight: I would never betray the Tokime Clan!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -213,7 +213,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Yukika
-    textRight: Okay, Thank you for listening.
+    textRight: Okay, thank you for listening.
   - autoTurnLast: 0.01
     bg: bg_adv_19271.jpg
     chara:
@@ -379,7 +379,7 @@ story:
       motion: 100
       pos: 1
     nameCenter: Yuuna
-    textCenter: Saint, no @Mami!
+    textCenter: Saint, no, @Mami!
   - chara:
     - id: 305001
     nameCenter: Yuuna

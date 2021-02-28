@@ -125,7 +125,7 @@ story:
   - chara:
     - id: 305000
     nameLeft: Yuuna
-    textLeft: They have the witches' kiss!
+    textLeft: They have the witch's kiss!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

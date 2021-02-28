@@ -400,7 +400,7 @@ story:
     textLeft: Yeah, totally!
   - chara:
     - id: 101901
-    textLeft: Is it really okay for me to have?
+    textLeft: Is it really okay for me to have this?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

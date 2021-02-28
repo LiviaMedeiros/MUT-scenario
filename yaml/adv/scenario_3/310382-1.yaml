@@ -149,7 +149,7 @@ story:
       id: 103801
       lipSynch: 0
       motion: 400
-    textCenter: '...!?'
+    textCenter: '[chara:103801:effect_emotion_surprise_0][se:7226_shock]...?!'
   - autoTurnLast: 0.2
     chara:
     - id: 103801

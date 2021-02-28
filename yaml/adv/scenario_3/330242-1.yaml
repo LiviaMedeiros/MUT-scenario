@@ -324,8 +324,8 @@ story:
       mouthOpen: 0
     nameRight: Tsumugi
     narrationEffect: out
-    textRight: My mom's onigiri are the best! They bring me@happiness from the bottom
-      of my stomach!
+    textRight: '[chara:302401:effect_emotion_joy_0][se:7222_happy]My mom''s onigiri
+      are the best! They bring me@happiness from the bottom of my stomach!'
   - chara:
     - id: 300902
       lipSynch: 0

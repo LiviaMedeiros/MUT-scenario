@@ -152,7 +152,7 @@ story:
   - chara:
     - id: 305001
     nameRight: Yuuna
-    textRight: I also have the student council
+    textRight: I also have the student council.
   - chara:
     - id: 305001
       motion: 200
@@ -179,7 +179,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: Yuuna
-    textCenter: (Going to a strange country)
+    textCenter: (Going to a strange country...)
     turnEffect: thinking
   - chara:
     - id: 305001
@@ -197,12 +197,12 @@ story:
     - id: 305001
       lipSynch: 0
     nameCenter: Yuuna
-    textCenter: (And it only brings a small warmth to my heart)
+    textCenter: (And it only brings a small warmth to my heart.)
   - chara:
     - id: 305001
       lipSynch: 0
     nameCenter: Yuuna
-    textCenter: (only the saint can truly make my heart burn.)
+    textCenter: (Only the saint can truly make my heart burn.)
   - chara:
     - id: 305001
       lipSynch: 0
@@ -213,12 +213,12 @@ story:
     - id: 305001
       lipSynch: 0
     nameCenter: Yuuna
-    textCenter: (No matter how much money I have, @What I need can't be bought.)
+    textCenter: (No matter how much money I have, @what I need can't be bought.)
   - chara:
     - id: 305001
       lipSynch: 0
     nameCenter: Yuuna
-    textCenter: (A symbol of the extraordinary)
+    textCenter: (A symbol of the extraordinary.)
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -269,7 +269,7 @@ story:
     nameRight: Yuuna
     textRight: Oh, yeah...
   - nameNarration: Chika
-    narration: 'Subject: Aoba Chika'
+    narration: 'Subject: Chika Aoba'
     narrationBg: ""
     narrationEffect: in
     narrationHAlignment: left

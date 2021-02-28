@@ -32,7 +32,7 @@ story:
     - eyeClose: 0
       id: 305601
     nameCenter: Rui
-    textCenter: Sigh...
+    textCenter: '*Sigh*...'
   - chara:
     - cheek: 1
       id: 305601

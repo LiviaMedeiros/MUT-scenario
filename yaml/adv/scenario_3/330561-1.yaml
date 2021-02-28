@@ -66,7 +66,7 @@ story:
       id: 303901
       motion: 100
     nameLeft: Seira
-    textLeft: I don't have any character ideas that actually fit.
+    textLeft: I don't have any ideas for a character that fits.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -111,7 +111,7 @@ story:
       id: 800200
       pos: 2
     nameRight: ""
-    textRight: You could base your idea on someone with@those aspects.
+    textRight: You could base your idea on someone with@those characteristics.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -207,7 +207,7 @@ story:
     - id: 303901
       motion: 300
     nameLeft: Seira
-    textLeft: You’re right, she certainly fits the image.
+    textLeft: You're right, she certainly fits the image.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -215,7 +215,7 @@ story:
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: The words “cool and mysterious”@describe her perfectly!
+    textRight: The words "cool and mysterious"@describe her perfectly!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -231,7 +231,7 @@ story:
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: She doesn’t talk much...@But, isn’t she really cool?
+    textRight: She doesn't talk much...@But, isn't she really cool?
   - chara:
     - eyeClose: 1
       id: 303901
@@ -261,7 +261,7 @@ story:
       lipSynch: 0
       motion: 300
     nameCenter: Rui
-    textCenter: (I heard...a little bit...@I’m being misunderstood...)
+    textCenter: (I heard...a little bit...@I'm being misunderstood...)
   - chara:
     - id: 305601
       lipSynch: 0
@@ -294,7 +294,7 @@ story:
       id: 305601
       lipSynch: 0
     nameNarration: ""
-    narration: '[bgEffect:shakeLarge]*Thump Thump Thump!*'
+    narration: '[bgEffect:shakeLarge]*Thump thump thump*!'
     narrationBg: ""
     narrationEffect: in
     turnEffect: ef_adv_10
@@ -304,7 +304,7 @@ story:
       motion: 400
     nameCenter: Rui
     narrationEffect: out
-    textCenter: '...!?'
+    textCenter: '[chara:305601:effect_emotion_surprise_0][se:7226_shock]...?!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -330,7 +330,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: ""
-    textLeft: What!? Who are you people!!
+    textLeft: What?! Who are you people!!
   - chara:
     - id: 800700
     nameRight: ""
@@ -354,7 +354,7 @@ story:
       pos: 1
     nameCenter: ""
     textBg: shout
-    textCenter: We’re taking over this school!!
+    textCenter: We're taking over this school!!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

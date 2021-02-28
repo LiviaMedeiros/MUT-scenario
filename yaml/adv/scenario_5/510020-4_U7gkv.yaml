@@ -50,7 +50,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Chika
-    textRight: '...Uhm, Have you been eating properly? @Did you have breakfast?'
+    textRight: '...Uhm, have you been eating properly? @Did you have breakfast?'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -82,7 +82,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Chika
-    textRight: Here! @I'll give you this
+    textRight: Here! @I'll give you this.
   - chara:
     - id: 305001
       motion: 200
@@ -94,7 +94,7 @@ story:
       id: 304701
       pos: 2
     nameRight: Chika
-    textRight: They're dried persimmons @ I made them!
+    textRight: They're dried persimmons, @I made them!
   - chara:
     - id: 305001
       motion: 100
@@ -237,7 +237,7 @@ story:
     - eyeClose: 1
       id: 305001
     nameLeft: Yuuna
-    textLeft: Well then, Farewell.
+    textLeft: Well then, farewell.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

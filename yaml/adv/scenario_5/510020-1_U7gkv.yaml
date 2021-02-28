@@ -13,7 +13,7 @@ story:
     narrationEffect: in
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF[se:7106_telmail]Ping"
+    narration: "\uFEFF[se:7106_telmail]Ping♪"
     narrationBg: ""
     turnChangeOut: fadeOut
   - bgm: bgm03_story12
@@ -24,8 +24,8 @@ story:
     narrationEffect: out
     textCenter: A message...from @Rion...
   - nameNarration: Rion
-    narration: Yuuna! @You have been avoiding me for days!@ And show up for student
-      council!@ It's a lot of work without you!
+    narration: Yuuna! @You have been avoiding me for days! @And show up for student
+      council! @It's a lot of work without you!
     narrationBg: ""
     narrationEffect: in
     narrationHAlignment: left
@@ -107,7 +107,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: blackFrame
   - nameNarration: Yuuna
-    narration: ―Yuuna―@I had already given up by then. @ And was just waiting to die...
+    narration: ―Yuuna―@I had already given up by then. @And was just waiting to die...
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -118,7 +118,7 @@ story:
   - narration: ―Yuuna―@Then she appeared surrounded by a divine light @And saved me...
   - narration: ―Yuuna―@......Oh, miss saint
   - narration: ―Yuuna―@How can such a divine being not be@ ...special?
-  - narration: ―Yuuna―@but...
+  - narration: ―Yuuna―@But...
   - autoTurnLast: 0.01
     bg: bg_adv_18054.jpg
     chara:
@@ -179,7 +179,7 @@ story:
     - id: 305001
       lipSynch: 0
     nameCenter: Yuuna
-    textCenter: '......[wait:1.0][chara:305001:lipSynch_1]If'
+    textCenter: '......[wait:1.0][chara:305001:lipSynch_1]If...'
   - chara:
     - id: 305001
     nameCenter: Yuuna
@@ -202,7 +202,7 @@ story:
     - id: 305001
       motion: 400
     nameCenter: Yuuna
-    textCenter: Thinking that my life had changed, @and my feelings for the saint
+    textCenter: Thinking that my life had changed, @and my feelings for the saint.
   - chara:
     - id: 305001
     nameCenter: Yuuna

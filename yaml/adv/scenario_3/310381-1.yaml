@@ -284,7 +284,7 @@ story:
       id: 103801
       lipSynch: 0
       motion: 400
-    textCenter: '...!?'
+    textCenter: '[chara:103801:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 103801
       lipSynch: 0
@@ -349,7 +349,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 101700
       motion: 100
-    textLeft: I’m so happy!
+    textLeft: '[chara:101700:effect_emotion_joy_0][se:7222_happy]I’m so happy!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

@@ -257,7 +257,7 @@ story:
       mouthOpen: 1
     nameRight: ""
     narrationEffect: out
-    textRight: '[DI]*Pant*...*Pant...*Pant*...'
+    textRight: '*Pant*...*Pant...*Pant*...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

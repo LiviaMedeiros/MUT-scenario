@@ -132,9 +132,9 @@ story:
   - chara:
     - id: 304601
     nameRight: Ryo
-    textRight: The Girl Under the Sakura Tree...[chara:304601:cheek_0][chara:304601:motion_200][flashEffect:flashWhite1][surround:7023_camera]*Click-click*
-  - nameNarration: Hinano
-    narration: But what do we actually do? We can't just@leave her like this...
+    textRight: The Girl Under the Sakura Tree...
+  - nameNarration: ""
+    narration: '[chara:304601:cheek_0][chara:304601:motion_200][flashEffect:flashWhite1][surround:7023_camera]*Click-click*'
     narrationBg: ""
     narrationEffect: in
   - chara:
@@ -143,9 +143,9 @@ story:
       id: 300301
       motion: 0
       pos: 0
-    nameLeft: Nemu
+    nameLeft: Hinano
     narrationEffect: out
-    textLeft: That's why this has to end today...
+    textLeft: But what do we actually do? We can't just@leave her like this...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -155,8 +155,8 @@ story:
         value: 1
       motion: 0
       pos: 2
-    nameRight: Touka
-    textRight: I'm getting a little scared...
+    nameRight: Nemu
+    textRight: That's why this has to end today...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -166,26 +166,26 @@ story:
         value: 1
       motion: 1
       pos: 0
-    nameLeft: Ui
-    textLeft: Touka, Nemu...are you sure about this...?
+    nameLeft: Touka
+    textLeft: I'm getting a little scared...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101501
       motion: 300
       pos: 2
-    nameRight: Touka
-    textRight: Once an Uwasa makes a decision, it won't@ever change, right?
+    nameRight: Ui
+    textRight: Touka, Nemu...are you sure about this...?
   - chara:
     - id: 100701
       motion: 100
     nameLeft: Touka
-    textLeft: If she realizes they're dead but still decides@to wait, there'll never
-      be an end to it.
+    textLeft: Once an Uwasa makes a decision, it won't@ever change, right?
   - chara:
     - id: 100701
-    nameLeft: Nemu
-    textLeft: Unless a miracle happens...
+    nameLeft: Touka
+    textLeft: If she realizes they're dead but still decides@to wait, there'll never
+      be an end to it.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -196,11 +196,11 @@ story:
       motion: 300
       pos: 2
     nameRight: Nemu
-    textRight: She might keep waiting like the loyal dog,@Hachiko...
+    textRight: Unless a miracle happens...
   - chara:
     - id: 101403
     nameRight: Nemu
-    textRight: That's why I, as her parent, have to correct@her course at some point.
+    textRight: She might keep waiting like the loyal dog,@Hachiko...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -208,6 +208,10 @@ story:
       motion: 200
     - id: 100701
       motion: 1
+    nameRight: Nemu
+    textRight: That's why I, as her parent, have to correct@her course at some point.
+  - chara:
+    - id: 101403
     nameRight: Nemu
     textRight: In the past, the Uwasa of the Anonymous A.I...
   - chara:
@@ -219,42 +223,38 @@ story:
     nameRight: Nemu
     textRight: Even Sakurako can be led astray from her@content.
   - chara:
-    - id: 101403
-    nameRight: Nemu
-    textRight: That's what I'm afraid of...
-  - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101403
       motion: 0
-    nameRight: Ryo
-    textRight: So you're saying that Sakurako could destroy@herself...
+    nameRight: Nemu
+    textRight: That's what I'm afraid of...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 304601
       motion: 300
       pos: 0
-    nameLeft: Nemu
-    textLeft: That's right...
+    nameLeft: Ryo
+    textLeft: So you're saying that Sakurako could destroy@herself...
   - chara:
     - id: 101403
-    nameRight: Iroha
-    textRight: If she doesn't give up in the next five minutes,@you're going to force
-      her to come home?
+    nameRight: Nemu
+    textRight: That's right...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100101
       motion: 0
       pos: 0
-    nameLeft: Nemu
-    textLeft: That's what I promised Sakurako.
+    nameLeft: Iroha
+    textLeft: If she doesn't give up in the next five minutes,@you're going to force
+      her to come home?
   - chara:
     - id: 101403
       motion: 100
-    nameRight: Yachiyo
-    textRight: I'm feeling a little torn...
+    nameRight: Nemu
+    textRight: That's what I promised Sakurako.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -262,16 +262,16 @@ story:
       motion: 301
       pos: 0
     nameLeft: Yachiyo
-    textLeft: But we have to draw the line somewhere...
+    textLeft: I'm feeling a little torn...
   - chara:
     - id: 100201
     nameLeft: Yachiyo
-    textLeft: I know this is hard for you...
+    textLeft: But we have to draw the line somewhere...
   - chara:
     - eyeClose: 1
       id: 100201
-    nameLeft: ""
-    textLeft: < 5 >
+    nameLeft: Yachiyo
+    textLeft: I know this is hard for you...
   - autoTurnLast: 0.5
     bg: black
     turnChangeIn: fadeIn
@@ -281,32 +281,32 @@ story:
       id: 101501
       motion: 0
       pos: 1
-    nameNarration: Ui
-    narration: I know, Sakurako really just wants to say a@few words...
+    nameNarration: ""
+    narration: < 5 >
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
   - chara:
     - id: 101501
-    nameCenter: ""
+    nameCenter: Ui
     narrationEffect: out
-    textCenter: < 4 >
+    textCenter: I know, Sakurako really just wants to say a@few words...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100101
       motion: 0
       pos: 1
-    nameNarration: Iroha
-    narration: Just being able to say goodbye will help@her sort out her feelings...
+    nameNarration: ""
+    narration: < 4 >
     narrationBg: black
     narrationEffect: in
   - chara:
     - id: 100101
       motion: 301
-    nameCenter: ""
+    nameCenter: Iroha
     narrationEffect: out
-    textCenter: < 3 >
+    textCenter: Just being able to say goodbye will help@her sort out her feelings...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -316,15 +316,15 @@ story:
         value: 1
       motion: 1
       pos: 1
-    nameNarration: Touka
-    narration: As an Uwasa, she's always been very@devoted to us.
+    nameNarration: ""
+    narration: < 3 >
     narrationBg: black
     narrationEffect: in
   - chara:
     - id: 100701
-    nameCenter: ""
+    nameCenter: Touka
     narrationEffect: out
-    textCenter: < 2 >
+    textCenter: As an Uwasa, she's always been very@devoted to us.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -334,15 +334,15 @@ story:
         value: 1
       motion: 0
       pos: 1
-    nameNarration: Nemu
-    narration: I don't think it's wrong for her to pursue@her own happiness.
+    nameNarration: ""
+    narration: < 2 >
     narrationBg: black
     narrationEffect: in
   - chara:
     - id: 101403
-    nameCenter: ""
+    nameCenter: Nemu
     narrationEffect: out
-    textCenter: < 1 >
+    textCenter: I don't think it's wrong for her to pursue@her own happiness.
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -350,20 +350,20 @@ story:
       id: 100101
       motion: 0
       pos: 1
-    nameNarration: Iroha
-    narration: So I hope that she gets what she wants,@at least at a time like this.
+    nameNarration: ""
+    narration: < 1 >
     narrationBg: black
     narrationEffect: in
   - chara:
     - eyeClose: 1
       id: 100101
       motion: 200
-    nameCenter: ""
+    nameCenter: Iroha
     narrationEffect: out
-    textCenter: < 0 >
+    textCenter: So I hope that she gets what she wants,@at least at a time like this.
   - bgm: stop
-    nameNarration: Eternal Sakura
-    narration: '| ... |'
+    nameNarration: ""
+    narration: < 0 >
     narrationBg: black
     narrationEffect: in
   - autoTurnLast: 0.5
@@ -379,19 +379,19 @@ story:
   - chara:
     - id: 304301
       lipSynch: 0
-    nameLeft: ""
+    nameLeft: Eternal Sakura
     surround: stop
-    textLeft: < -1 >
+    textLeft: '| ... |'
     turnChangeOut: fadeOut
   - bg: black
     nameNarration: ""
-    narration: < -2 >
+    narration: < -1 >
     narrationBg: black
     narrationEffect: in
     surround: stop
+  - narration: < -2 >
   - narration: < -3 >
   - narration: < -4 >
-  - narration: ""
   - autoTurnLast: 2
     narrationEffect: out
     turnChangeIn: fadeIn

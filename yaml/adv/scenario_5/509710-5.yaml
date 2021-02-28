@@ -402,7 +402,7 @@ story:
       id: 800700
       pos: 2
     nameRight: ""
-    textRight: It seems he also used counterfeit bills at C-6 and H-14.
+    textRight: It seems he also used counterfeit bills at C-6@and H-14.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

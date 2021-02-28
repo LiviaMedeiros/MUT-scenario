@@ -58,7 +58,7 @@ story:
       id: 103901
       lipSynch: 0
       motion: 400
-    textRight: Fumufumu!?
+    textRight: Fumufumu?!
   - chara:
     - id: 103801
       motion: 100
@@ -115,7 +115,7 @@ story:
       id: 103901
       lipSynch: 0
       motion: 400
-    textRight: Fumu!?
+    textRight: Fumu?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -198,7 +198,7 @@ story:
       id: 103901
       lipSynch: 0
       motion: 100
-    textRight: Fumu!?
+    textRight: Fumu?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -378,7 +378,7 @@ story:
       id: 103801
       motion: 400
     nameLeft: Mikage
-    textLeft: Eh, you mean us?@Does this mean you're a scout!?
+    textLeft: What, you mean us?@Does this mean you're a scout?!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

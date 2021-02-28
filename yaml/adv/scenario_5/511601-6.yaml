@@ -51,7 +51,7 @@ story:
       id: 103901
       lipSynch: 0
       motion: 400
-    textRight: Fumu!?
+    textRight: Fumu?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

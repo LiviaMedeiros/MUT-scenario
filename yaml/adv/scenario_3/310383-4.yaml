@@ -283,7 +283,8 @@ story:
       motion: 400
       pos: 1
     nameCenter: Mikage
-    textCenter: Yes!@I love you two!
+    textCenter: '[chara:103801:effect_emotion_joy_0][se:7222_happy]Yes!@I love you
+      two!'
   - autoTurnFirst: 5.7
     bg: bg_adv_narration.jpg
     bgm: stop

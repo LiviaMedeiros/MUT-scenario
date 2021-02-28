@@ -232,8 +232,7 @@ story:
       pos: 1
     nameCenter: Matsuri
     narrationEffect: out
-    textCenter: Ugh...@[chara:403100:lipSynch_0][wait:0.8][chara:403100:lipSynch_1]That’s
-      a lot of noise...!
+    textCenter: Ugh... That’s a lot of noise...!
   - autoTurnLast: 0.2
     chara:
     - id: 403200
@@ -247,7 +246,7 @@ story:
       pos: 2
     nameLeft: Matsuri
     nameRight: Suzune
-    textRight: '...nn...guh...'
+    textRight: '...nn...[chara:403100:lipSynch_0][wait:0.8][chara:403100:lipSynch_1]guh...'
   - chara:
     - id: 403100
       motion: 300

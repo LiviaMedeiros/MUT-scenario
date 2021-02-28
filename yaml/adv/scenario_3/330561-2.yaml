@@ -144,7 +144,7 @@ story:
     - id: 305601
       motion: 200
     nameLeft: Rui
-    textLeft: The only one on Earth who can stand up to “Them”...
+    textLeft: The only one on Earth who can stand up to "Them"...
   - chara:
     - id: 305601
     nameLeft: Rui
@@ -272,7 +272,7 @@ story:
       motion: 400
     nameCenter: Rui
     narrationEffect: out
-    textCenter: Whaaa?!
+    textCenter: '[chara:305601:effect_emotion_surprise_0][se:7226_shock]Whaaa?!'
   - autoTurnLast: 0.2
     bgm: bgm03_story01
     chara:
