@@ -54,8 +54,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 303901
       motion: 300
-    textLeft: You've got a sharp eye, Kira-senpai. This height@difference *would*
-      be quite appealing...
+    textLeft: You've got a sharp eye, Kira-senpai. This height@difference WOULD be
+      quite appealing...
   - chara:
     - eyeClose: 0
       id: 303901
@@ -340,7 +340,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 301001
       motion: 400
-    textLeft: '[chara:301001:effect_emotion_surprise_0][se:7226_shock]What is *that*
+    textLeft: '[chara:301001:effect_emotion_surprise_0][se:7226_shock]What is THAT
       supposed to mean?!'
   - autoTurnLast: 0.25
     chara:
@@ -553,7 +553,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Seira
-    textRight: It *is* a very subtle difference, after all.
+    textRight: It IS a very subtle difference, after all.
   - chara:
     - id: 303801
       motion: 200

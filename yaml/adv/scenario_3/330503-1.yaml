@@ -38,7 +38,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Rion
-    textRight: So, that's why the preparations for the Mizuna Girls Academy meeting
+    textRight: So, that's why the preparations for the Mizuna Girls' Academy meeting
       aren't progressing...
   - chara:
     - id: 304101
@@ -261,7 +261,7 @@ story:
   - chara:
     - id: 305001
     nameLeft: Yuuna
-    textLeft: We need to prepare sweets and tea for the Mizuna @Girls Academy students.
+    textLeft: We need to prepare sweets and tea for the Mizuna @Girls' Academy students.
   - chara:
     - id: 305001
     nameLeft: Yuuna

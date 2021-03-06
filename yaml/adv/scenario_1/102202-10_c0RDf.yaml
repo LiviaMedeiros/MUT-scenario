@@ -105,7 +105,7 @@ story:
     - id: 101801
       voiceFull: fullvoice/section_102202/vo_full_102202-10-12
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-11
-    textRight: After all, we too are aiming for the liberation@of Magical Girls.
+    textRight: After all, we too are aiming for the liberation@of Magical Girls...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

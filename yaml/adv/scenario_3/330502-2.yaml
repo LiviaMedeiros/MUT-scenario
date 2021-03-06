@@ -44,7 +44,7 @@ story:
   - chara:
     - id: 102601
     nameRight: Chiharu
-    textRight: When I looked at the shopping list, I consulted with Todoroki Koichi.
+    textRight: When I looked at the shopping list, I consulted with Koichi Todoroki.
       So I definitely had it then!
   - chara:
     - cheek: 0
@@ -116,7 +116,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Hotori
-    textLeft: Isn't this a common method to try in mystery stories...?
+    textLeft: Isn't this a common method to try in mystery@stories...?
   - chara:
     - id: 304501
       motion: 200
@@ -150,7 +150,7 @@ story:
     - id: 102601
       motion: 300
     nameRight: Chiharu
-    textRight: Hmmm....
+    textRight: Hmmm...
     turnChangeOut: fadeOut
   - chara:
     - id: 305001
@@ -173,17 +173,17 @@ story:
       motion: 300
       pos: 2
     nameRight: Chika
-    textRight: It didn't fall near the shops, and it wasn't left at the police box....
+    textRight: It didn't fall near the shops, and it wasn't left at the police box...
   - chara:
     - eyeClose: 0
       id: 102601
       motion: 1
     nameLeft: Chiharu
-    textLeft: Shizuka, and Sunao are also helping me look.
+    textLeft: Shizuka and Sunao are also helping me look.
   - chara:
     - id: 102601
     nameLeft: Chiharu
-    textLeft: but they haven't found it yet...
+    textLeft: But they haven't found it yet...
   - chara:
     - cheek: -1
       effect: shake
@@ -193,7 +193,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Hotori
-    textLeft: Hmmm....
+    textLeft: Hmmm...
   - chara:
     - id: 304701
       motion: 100
@@ -268,7 +268,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 801400
-    nameLeft: Woman
+    nameLeft: ""
     textLeft: Badge? No, I haven't seen one.
     turnChangeOut: fadeOut
   - chara:
@@ -278,28 +278,28 @@ story:
     textRight: I see...
   - chara:
     - id: 801400
-    nameLeft: Woman
+    nameLeft: ""
     textLeft: Sorry I couldn't be more helpful.
   - chara:
     - id: 305001
       motion: 100
     nameRight: Yuuna
-    textRight: No, Thank you very much.
+    textRight: No, thank you very much.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801200
       motion: 0
       pos: 2
-    nameRight: Girl
-    textRight: Hey Granny... This here..
+    nameRight: ""
+    textRight: Hey Granny... This here...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801400
       pos: 0
-    nameLeft: Woman
-    textLeft: Yes, yes, Thank you very much.
+    nameLeft: ""
+    textLeft: Yes, yes, thank you very much.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -348,7 +348,7 @@ story:
       id: 801200
       motion: 0
       pos: 2
-    nameRight: Girl
+    nameRight: ""
     textRight: What is it, miss?
   - chara:
     - id: 305001
@@ -359,7 +359,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 801200
       pos: 2
-    nameRight: Girl
+    nameRight: ""
     textRight: This? I found it on the road.
   - chara:
     - cheek: 0
@@ -403,7 +403,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 801200
-    nameRight: Girl
+    nameRight: ""
     textRight: I'm really sorry miss.
     turnChangeOut: fadeOut
   - chara:
@@ -416,8 +416,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 801200
       pos: 2
-    nameRight: Girl
-    textRight: Ok...! @Bye bye
+    nameRight: ""
+    textRight: Ok...! @Bye bye!
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -493,7 +493,7 @@ story:
       id: 305001
       lipSynch: 0
     nameLeft: Yuuna
-    textLeft: (this is the first time...)
+    textLeft: (This is the first time...)
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -593,7 +593,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 304701
     nameRight: Chika
-    textRight: Good Idea..!
+    textRight: Good idea..!
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout

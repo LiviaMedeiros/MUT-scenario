@@ -258,8 +258,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 303902
       motion: 1
-    textLeft: '"Extremely fortunate." It said that everything will@happen just as
-      I desire it!'
+    textLeft: '[chara:303902:effect_emotion_joy_0][se:7222_happy]"Extremely fortunate."
+      It said that everything will@happen just as I desire it!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -394,7 +394,7 @@ story:
       motion: 1
       pos: 1
     nameCenter: Childhood friend
-    textCenter: '| ... |@| ... |'
+    textCenter: '| ...@... |'
   - autoTurnLast: 0.6
     chara:
     - effect: fadeout
@@ -416,7 +416,7 @@ story:
       soulGem: 0
     textLeft: '...'
   - nameNarration: ""
-    narration: '*Dash!*'
+    narration: '[se:7107_arrivalone]*Dash!*'
     narrationBg: bg_adv_19022.jpg
     narrationEffect: in
   - autoTurnLast: 1
@@ -468,7 +468,7 @@ story:
       id: 304302
       lipSynch: 0
       motion: 300
-    textLeft: '| ... |@| ... |'
+    textLeft: '| ...@... |'
   - nameNarration: Temari
     narration: From that day forth...
     narrationBg: black
@@ -507,7 +507,7 @@ story:
       motion: 200
     nameRight: Riko
     narrationEffect: out
-    textRight: Good work, everyone!
+    textRight: '[chara:303501:effect_emotion_joy_0][se:7222_happy]Good work, everyone!'
   - chara:
     - id: 101901
       motion: 200

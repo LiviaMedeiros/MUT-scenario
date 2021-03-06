@@ -148,7 +148,7 @@ story:
       motion: 400
       voiceFull: fullvoice/section_102202/vo_full_102202-6-9
       voiceFullStop: fullvoice/section_102202/vo_full_102202-6-8
-    textLeft: She suddenly came at me...!
+    textLeft: So forward all of a sudden...!
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -181,7 +181,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-6-13
       voiceFullStop: fullvoice/section_102202/vo_full_102202-6-12
-    textLeft: This girl's coming at me too...!
+    textLeft: This girl's really forward too...!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -532,7 +532,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-6-51
       voiceFullStop: fullvoice/section_102202/vo_full_102202-6-50
     nameLeft: Shizuka
-    textLeft: I've memorized how to ride a train.@I've resolved myself.
+    textLeft: I've learned how to ride a train.@I'm ready for this.
   - chara:
     - cheek: 0
       eyeClose: 0

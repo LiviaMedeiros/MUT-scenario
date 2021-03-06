@@ -10,7 +10,7 @@ story:
       posY: 0
       visible: appear
     turnChangeIn: fadeIn
-  - nameNarration: Mikage
+  - nameNarration: "\uFEFFMikage"
     narration: ―Mikage―@Ah, a handmade scrunchie!@You really made one!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
@@ -79,7 +79,7 @@ story:
       motion: 100
     textLeft: fumu…
   - nameNarration: ""
-    narration: '*blip♪*'
+    narration: '*[se:7106_telmail]Blip♪*'
     narrationEffect: in
   - chara:
     - cheek: 0
@@ -105,7 +105,7 @@ story:
       lipSynch: 0
       motion: 300
     textLeft: (I see, so that’s what it was…)
-  - narration: '*blip♪*'
+  - narration: '*[se:7106_telmail]Blip♪*'
     narrationEffect: in
   - chara:
     - id: 103801

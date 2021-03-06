@@ -662,7 +662,7 @@ story:
       id: 100201
       motion: 301
       voiceFull: fullvoice/section_102202/vo_full_102202-1-67
-    textRight: I don't know why even I came here anymore.
+    textRight: I don't know why I even came here anymore.
   - bgm: stop
     chara:
     - cheek: 0

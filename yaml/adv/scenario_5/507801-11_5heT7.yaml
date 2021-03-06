@@ -250,7 +250,7 @@ story:
       pos: 0
     nameLeft: Seira
     textLeft: I gave you the best acting instruction I could, after@all. "C'mon! Really
-      *become* Tsukihiko!"
+      BECOME Tsukihiko!"
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -345,7 +345,7 @@ story:
       pos: 0
       soulGem: 0
     nameLeft: Mikura
-    textLeft: As a matter of fact, it *is* real.
+    textLeft: As a matter of fact, it IS real.
   - chara:
     - id: 303802
       motion: 1

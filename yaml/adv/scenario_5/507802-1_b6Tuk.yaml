@@ -190,8 +190,8 @@ story:
     textLeft: I had been worrying myself sick, thinking that if by@some chance,
   - chara:
     - id: 101801
-    textLeft: You *were* being made to partake in a strange film,@then perhaps you
-      should stop...
+    textLeft: You WERE being made to partake in a strange film,@then perhaps you should
+      stop...
   - chara:
     - id: 101901
       motion: 0

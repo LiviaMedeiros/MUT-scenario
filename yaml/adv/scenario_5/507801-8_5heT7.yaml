@@ -317,7 +317,7 @@ story:
     - eyeClose: 0
       id: 304001
     textLeft: '[chara:303802:effect_emotion_surprise_0][se:7226_shock]...Woah, uh,
-      Kira? Is *that* the sort of conversation@we''re having right now?'
+      Kira? Is THAT the sort of conversation@we''re having right now?'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

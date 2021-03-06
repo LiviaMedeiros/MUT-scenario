@@ -321,7 +321,7 @@ story:
   - chara:
     - id: 305001
     nameLeft: Yuuna
-    textLeft: But a Magical Girl who obtains one such jewel apparently becomes the
+    textLeft: But a Magical girl who obtains one such jewel apparently becomes the
       jewel's messenger...
   - chara:
     - id: 305001
@@ -360,7 +360,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Yuuna
-    textLeft: That the person I admire is also a Magical Girl.
+    textLeft: That the person I admire is also a Magical girl.
   - chara:
     - eyeClose: 0
       id: 305001

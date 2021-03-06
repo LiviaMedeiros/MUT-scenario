@@ -30,7 +30,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Yuuna
-    textLeft: Let's see... @There is a Magical Girl nearby.
+    textLeft: Let's see... @There is a Magical girl nearby.
   - autoTurnLast: 1
     chara:
     - cheek: 0

@@ -161,7 +161,7 @@ story:
     turnChangeOut: rollOutFast
   - narration: —Ruri—@So, where shall we be going today?@A cafe? ...Perhaps the theatre?
   - nameNarration: Tsukihiko
-    narration: —Tsukihiko—@W-wait, *now*?
+    narration: —Tsukihiko—@W-wait, NOW?
   - autoTurnLast: 0.01
     item:
     - path: resource/scenario/img/51078_storyselect_history/memoria_1432.jpg

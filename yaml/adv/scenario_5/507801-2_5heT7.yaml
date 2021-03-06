@@ -215,8 +215,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Temari
-    textRight: '...I suppose they''ve noticed how we haven''t actually@*done* any
-      activities?'
+    textRight: '...I suppose they''ve noticed how we haven''t actually@DONE any activities?'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -246,7 +245,7 @@ story:
     textLeft: Komachi aside...
   - chara:
     - id: 304001
-    textLeft: You're *just* watching films, Mihono.@And I'm just reading, yes?
+    textLeft: You're JUST watching films, Mihono.@And I'm just reading, yes?
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -416,7 +415,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 304001
-    textLeft: '...we *did* fast-track our application thanks to@Komachi''s name recognition...'
+    textLeft: '...we DID fast-track our application thanks to@Komachi''s name recognition...'
   - chara:
     - id: 304001
     textLeft: '...and rent out this entire empty classroom.'
@@ -427,7 +426,7 @@ story:
       id: 304001
       motion: 0
     textLeft: So I'd like to make a good show of doing a@history-related club activity...
-      even if it's just *for*@show.
+      even if it's just FOR@show.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

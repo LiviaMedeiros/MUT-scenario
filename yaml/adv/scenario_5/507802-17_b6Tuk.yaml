@@ -37,7 +37,7 @@ story:
       id: 301701
       motion: 400
     textRight: I-[chara:301701:lipSynch_0][wait:0.3][chara:301701:lipSynch_1]I don't
-      think I stand out *that* much...
+      think I stand out THAT much...
   - autoTurnLast: 0.25
     chara:
     - effect: fadeout
@@ -205,7 +205,7 @@ story:
     narrationBg: bg_adv_21531.jpg
     narrationEffect: in
     turnChangeIn: rollInFast
-  - narration: '*Step* *step...*'
+  - narration: '*Step, step...*'
     turnChangeOut: rollOutFast
   - chara:
     - id: 304001
@@ -404,7 +404,7 @@ story:
     textRight: Ruri's not going to stop until the script is either@destroyed, or completed.
   - chara:
     - id: 304001
-    textRight: This is the only surefire method we have.@...So.
+    textRight: This is the only surefire method we have.@[chara:304001:eyeClose_1]...So.
   - bgm: stop
     nameNarration: ""
     narration: '[se:7107_arrivalone]*Step...*'

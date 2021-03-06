@@ -136,7 +136,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-3-13
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-12
     nameCenter: Felicia
-    textCenter: We!
+    textCenter: Together!
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -501,7 +501,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-3-59
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-58
-    textCenter: This machine is rejecting me!
+    textCenter: This machine won't let me pay!
   - autoTurnLast: 0.2
     chara:
     - id: 102501

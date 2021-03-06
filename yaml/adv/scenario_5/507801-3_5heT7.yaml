@@ -171,7 +171,7 @@ story:
   - chara:
     - id: 303901
       motion: 0
-    textRight: I humbly request that Kira-*sensei* provide us@with an amazing script!
+    textRight: I humbly request that Kira-SENSEI provide us@with an amazing script!
   - chara:
     - id: 303901
     textRight: You were one of the final nominees for some sort@of award a while ago,
@@ -194,7 +194,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Temari
-    textLeft: '...I *have* written a handful of plays, for what it''s@worth.'
+    textLeft: '...I HAVE written a handful of plays, for what it''s@worth.'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

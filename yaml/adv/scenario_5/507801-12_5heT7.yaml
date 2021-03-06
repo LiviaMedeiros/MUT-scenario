@@ -294,7 +294,7 @@ story:
   - chara:
     - id: 301001
       motion: 0
-    textLeft: And they both had just the most *awfully* rough@skin...
+    textLeft: And they both had just the most AWFULLY rough@skin...
   - chara:
     - id: 301701
       motion: 0

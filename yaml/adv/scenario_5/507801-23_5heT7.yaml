@@ -128,7 +128,7 @@ story:
       motion: 400
     nameLeft: Ria
     textLeft: '[chara:301001:effect_emotion_surprise_0][se:7226_shock]Why are you
-      making it sound like something@*should''ve* gone wrong?!'
+      making it sound like something@SHOULD''VE gone wrong?!'
   - autoTurnLast: 0.6
     bgm: stop
     chara:

@@ -518,7 +518,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-9-57
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-56
     nameRight: Nemu
-    textRight: Welcome, Big Sister..
+    textRight: Welcome, Big Sister.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -742,7 +742,7 @@ story:
     voiceFullStop: fullvoice/section_102202/vo_full_102202-9-77
   - nameNarration: Nemu
     narration: '"When I faced off against Alina, I used all of my power, and,@prepared
-      to die, created one last [textBlue:Rumor]."'
+      to die, I created one last [textBlue:Rumor]."'
     narrationCoverOpacity: 150
     narrationEffect: in
     turnChangeOut: fadeOut

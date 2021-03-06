@@ -356,7 +356,7 @@ story:
       id: 304701
       pos: 2
     nameRight: Chika
-    textRight: Yuuna, a labyrinth...
+    textRight: Yuuna, a Labyrinth...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -364,7 +364,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Yuuna
-    textLeft: It's a witch!
+    textLeft: It's a Witch!
   - chara:
     - id: 304701
       motion: 0
@@ -374,7 +374,7 @@ story:
     - id: 304701
       motion: 200
     nameRight: Chika
-    textRight: Let's go take care of that witch.
+    textRight: Let's go take care of that Witch.
   - chara:
     - id: 305001
       motion: 200

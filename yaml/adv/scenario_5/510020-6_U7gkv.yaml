@@ -125,7 +125,7 @@ story:
   - chara:
     - id: 305000
     nameLeft: Yuuna
-    textLeft: They have the witch's kiss!
+    textLeft: They have the Witch's Kiss!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -138,7 +138,7 @@ story:
     - id: 305000
       motion: 100
     nameLeft: Yuuna
-    textLeft: Yeah, I will take care of the familiars @right now!
+    textLeft: Yeah, I will take care of the Familiars @right now!
   - autoTurnLast: 0.2
     chara:
     - id: 305000
@@ -243,7 +243,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Chika
-    textRight: Those people... @Are going to the witch!
+    textRight: Those people... @Are going to the Witch!
   - chara:
     - id: 305000
       motion: 1
@@ -506,7 +506,7 @@ story:
       motion: 200
       pos: 1
     nameCenter: Mami
-    textCenter: I've found you, witch... @Let those people go!
+    textCenter: I've found you, Witch... @Let those people go!
   - autoTurnLast: 0.2
     chara:
     - id: 200500

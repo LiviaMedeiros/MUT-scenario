@@ -308,11 +308,11 @@ story:
     narrationLineMargin: 10
     narrationLineSpace: 20
     turnChangeOut: fadeOut
-  - narration: ―Yuuna―@Despite using all that magic fighting that witch.
+  - narration: ―Yuuna―@Despite using all that magic fighting that Witch.
   - narration: ―Yuuna―@She doesn't show any sign of being tired.
   - narration: ―Yuuna―@She really is a saint! @How wonderful...!
   - nameNarration: Chika
-    narration: ―Chika―@Mami protects everyone, @from witches and familiars!
+    narration: ―Chika―@Mami protects everyone, @from Witches and Familiars!
   - narration: ―Chika―@She seems to spend a lot of time fighting.
   - nameNarration: Yuuna
     narration: ―Yuuna―@Yeah... that's right.

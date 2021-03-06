@@ -122,7 +122,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Chika
-    textLeft: U-Uhm...!
+    textLeft: U-uhm...!
   - chara:
     - id: 304701
     nameLeft: Chika
@@ -164,7 +164,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story06
     nameNarration: Yukika
-    narration: Mami's was extra powerful because @she was using an @[textBlue:Uwasa's]
+    narration: Mami's was extra powerful because @she was using an @[textBlue:Uwasa]'s
       power.
     narrationBg: ""
     narrationEffect: in
@@ -241,7 +241,7 @@ story:
   - chara:
     - id: 304501
     nameRight: Rion
-    textRight: I got lost in a weird place, but a nice young lady saved me!
+    textRight: I got lost in a weird place, but a nice young lady@saved me!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -249,7 +249,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Rion
-    textRight: Thinking about it now, it was a witch's labyrinth, @and she was a Magical
+    textRight: Thinking about it now, it was a Witch's Labyrinth, @and she was a Magical
       girl.
   - chara:
     - id: 304501

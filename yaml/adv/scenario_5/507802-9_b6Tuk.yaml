@@ -348,7 +348,7 @@ story:
     - id: 304001
       lipSynch: 0
       motion: 300
-    textCenter: (Ever since it happened... it's seemed as if she's@afraid of *something*.)
+    textCenter: (Ever since it happened... it's seemed as if she's@afraid of SOMETHING.)
   - autoTurnLast: 1.5
     bg: bg_adv_21131.jpg
     chara:

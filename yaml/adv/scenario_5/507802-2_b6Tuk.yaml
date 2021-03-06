@@ -107,7 +107,7 @@ story:
       pos: 2
     nameLeft: Yachiyo
     nameRight: Kanagi
-    textRight: This is *not* the time for hostilities between East@and West.
+    textRight: This is NOT the time for hostilities between East@and West.
   - chara:
     - id: 101601
     textRight: We joined forces so that we could both grow from@our past.
@@ -188,7 +188,7 @@ story:
     narrationEffect: in
   - autoTurnLast: 2
     enableSkipAutoTurn: 1
-    narration: '[surround:7105_telphone]~ ~ ♪ ~ ~ ♪'
+    narration: '[surround:7105_telphone]*Ring Ring*'
     turnChangeOut: fadeOut
   - chara:
     - id: 303801

@@ -37,7 +37,7 @@ story:
     - id: 304501
       motion: 100
     nameRight: Rion
-    textRight: Mmmm, It felt nice to do something good!
+    textRight: Mmmm, it felt nice to do something good!
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -201,7 +201,7 @@ story:
   - chara:
     - id: 300101
     nameRight: Kanoko
-    textRight: And expect me to tell everything to total strangers
+    textRight: And expect me to tell everything to total strangers.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -255,7 +255,7 @@ story:
       motion: 400
     nameLeft: Yuuna
     surround: 7005_construction
-    textLeft: Look at how cramped it is...!? @and the room is so loud! and shaking!
+    textLeft: Look at how cramped it is...!? @And the room is so loud! And shaking!
     turnChangeOut: fadeOut
   - chara:
     - id: 304101
@@ -298,7 +298,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Yuuna
-    textLeft: Ah, What was I...@[chara:305001:lipSynch_0][wait:1.0][chara:305001:cheek_0][chara:305001:face_mtn_ex_020.exp.json:eyeClose_1][chara:305001:lipSynch_1]*Ahem*
+    textLeft: Ah, what was I...@[chara:305001:lipSynch_0][wait:1.0][chara:305001:cheek_0][chara:305001:face_mtn_ex_020.exp.json:eyeClose_1][chara:305001:lipSynch_1]*Ahem*
   - bgm: stop
     chara:
     - eyeClose: 0
@@ -320,7 +320,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Yuuna
-    textLeft: This elaborate decoration... it's wonderful ...!
+    textLeft: This elaborate decoration... it's wonderful...!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -396,7 +396,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 300101
       motion: 200
-    textRight: Yeah, Witness!！
+    textRight: Yeah, witness!!
   - chara:
     - id: 800900
     textLeft: Eh?
@@ -405,7 +405,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 300101
       motion: 1
-    textRight: Custom made accessories that my dad won't approve.
+    textRight: Custom made accessories that my dad won't@approve.
   - chara:
     - id: 300101
     textRight: Whose worth is recognized by this fine lady with excellent aesthetics!

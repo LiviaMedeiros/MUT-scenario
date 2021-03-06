@@ -215,7 +215,7 @@ story:
       id: 304001
       motion: 400
     textLeft: '[chara:304001:effect_emotion_surprise_0][se:7226_shock]...Doesn''t
-      this strike you as a *bit* risky? I''ll have to@second-guess everything I say!'
+      this strike you as a BIT risky? I''ll have to@second-guess everything I say!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -355,7 +355,7 @@ story:
       eyeClose: 1
       face: mtn_ex_000.exp.json
       id: 304001
-    textLeft: But... how am I supposed to write *any* plays or@novels at this rate?
+    textLeft: But... how am I supposed to write ANY plays or@novels at this rate?
       It'd be too dangerous.
   - chara:
     - cheek: 0
@@ -634,7 +634,7 @@ story:
     textRight: And finally... there's one thing that worries me@above all else.
   - chara:
     - id: 101403
-    textRight: Based on today's incident, there's a high likelihood@that the *following*
+    textRight: Based on today's incident, there's a high likelihood@that the FOLLOWING
       incident will also occur.
   - bgm: bgm03_story10
     chara:

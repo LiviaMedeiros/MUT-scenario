@@ -19,7 +19,7 @@ story:
     chara:
     - id: 801000
     nameRight: "\uFEFFMaid"
-    textRight: Welcome home Miss Yuuna
+    textRight: Welcome home Miss Yuuna.
     turnChangeOut: fadeOut
   - chara:
     - id: 305001
@@ -31,7 +31,7 @@ story:
       id: 801000
     nameRight: Maid
     textRight: Today he is attending the general meeting for the Kaharu Group board
-      of directors
+      of directors.
   - chara:
     - id: 801000
     nameRight: Maid
@@ -92,7 +92,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 801000
     nameRight: Maid
-    textRight: But why?... Miss Yuuna?
+    textRight: But why? ...Miss Yuuna?
   - chara:
     - id: 801000
     nameRight: Maid
@@ -109,7 +109,7 @@ story:
     - id: 305001
       motion: 300
     nameLeft: Yuuna
-    textLeft: I am sorry to worry you, but I hope you understand?
+    textLeft: I am sorry to worry you, but I hope you understand.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -233,7 +233,7 @@ story:
   - chara:
     - id: 304501
     nameCenter: Rion
-    textCenter: Is that what you think Yuuna needs to do to be @closer to "that person"
+    textCenter: Is that what you think Yuuna needs to do to be @closer to "that person"?
   - autoTurnLast: 0.5
     bg: bg_adv_21473.jpg
     chara:

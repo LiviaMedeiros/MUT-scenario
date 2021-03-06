@@ -34,7 +34,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Kanoko's Father
-    textLeft: Wha!?... don't say something so embarrassing...
+    textLeft: Wha!? ...Don't say something so embarrassing...
   - chara:
     - id: 305001
     nameRight: Yuuna
@@ -45,7 +45,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 305001
       motion: 100
-    textRight: but, there is no reason to worry,
+    textRight: But, there is no reason to worry,
   - chara:
     - eyeClose: 0
       id: 305001
@@ -202,7 +202,7 @@ story:
     - eyeClose: 1
       id: 304501
     nameRight: Rion
-    textRight: Well, I think I have an idea..
+    textRight: Well, I think I have an idea...
   - bgm: stop
     chara:
     - effect: fadeout
@@ -295,7 +295,7 @@ story:
       id: 304101
       motion: 1
     nameRight: Hotori
-    textRight: Actually... It's about the exchange meeting with @Mizuna Girls Academy...
+    textRight: Actually... It's about the exchange meeting with @Mizuna Girls' Academy...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -365,7 +365,7 @@ story:
   - chara:
     - id: 305001
       lipSynch: 0
-    textCenter: (I can't believe this is the sort of person I am becoming....)
+    textCenter: (I can't believe this is the sort of person I am becoming...)
   - chara:
     - eyeClose: 1
       id: 305001
@@ -416,7 +416,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Yuuna
-    textLeft: Ah....
+    textLeft: Ah...
   - chara:
     - id: 305001
       lipSynch: 0
@@ -431,7 +431,7 @@ story:
   - chara:
     - id: 305001
       lipSynch: 0
-    textLeft: (It's time to learn from my mistakes and help Hotori!)
+    textLeft: (It's time to learn from my mistakes and help@Hotori!)
   - autoTurnFirst: 5.1
     bg: bg_adv_narration.jpg
     bgm: stop
@@ -444,7 +444,7 @@ story:
       pos: 1
       voice: vo_char_3050_00_04
     nameCenter: Yuuna
-    textCenter: In a place like this... @I don't have time to get depressed ...!
+    textCenter: In a place like this... @I don't have time to get depressed...!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:

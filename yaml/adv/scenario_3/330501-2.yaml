@@ -18,7 +18,7 @@ story:
     - id: 305000
       motion: 400
     nameRight: "\uFEFFYuuna"
-    textRight: '[surround:3050A01][name:sprite_0:effect_7000_attack01]Phew'
+    textRight: '[surround:3050A01][name:sprite_0:effect_7000_attack01]Phew!'
     turnChangeOut: fadeOut
   - chara:
     - id: 6105
@@ -203,7 +203,7 @@ story:
       id: 305000
       motion: 100
     nameLeft: Yuuna
-    textLeft: This was all just a bad dream, soon everything will be normal again.
+    textLeft: This was all just a bad dream, soon everything will@be normal again.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -299,7 +299,7 @@ story:
   - chara:
     - id: 305001
     nameLeft: Yuuna
-    textLeft: What is it... @what should I do?...
+    textLeft: What is it... @What should I do?...
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -307,7 +307,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Hotori
-    textLeft: Um... Well.. @I don't think that's it...
+    textLeft: Um... Well... @I don't think that's it...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -334,7 +334,7 @@ story:
     - id: 304101
     nameLeft: Hotori
     textLeft: Isn't there a big difference between sincerely @wanting to help people,
-      and just helping them...
+      and just helping them...?
   - chara:
     - id: 304101
       motion: 0
@@ -347,7 +347,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Yuuna
-    textLeft: So, does that mean?
+    textLeft: So, what does that mean?
   - chara:
     - id: 304501
       motion: 100
@@ -356,7 +356,7 @@ story:
   - chara:
     - id: 304501
     nameRight: Rion
-    textRight: Is that what you think Yuuna needs to do to be @closer to "that person."
+    textRight: Is that what you think Yuuna needs to do to be @closer to "that person"?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

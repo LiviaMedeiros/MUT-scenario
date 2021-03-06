@@ -175,7 +175,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Yuuna
-    textLeft: By solving your problems, I will learn what sort of things trouble people.
+    textLeft: By solving your problems, I will learn what sort of@things trouble people.
   - chara:
     - id: 305001
     nameLeft: Yuuna
@@ -289,7 +289,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Rion
-    textRight: Wait wait!, are you just going to skip class?!
+    textRight: Wait wait! Are you just going to skip class?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

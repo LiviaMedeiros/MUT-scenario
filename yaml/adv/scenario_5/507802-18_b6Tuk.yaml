@@ -37,7 +37,7 @@ story:
       pos: 2
     nameLeft: Mikura
     nameRight: Seira
-    textRight: '...Tsukihi[chara:303902:lipSynch_0][wait:1.8]...@...[chara:303902:lipSynch_1]ko...'
+    textRight: '...Tsukihi...[chara:303902:lipSynch_0][wait:1.8]@...[chara:303902:lipSynch_1]ko...'
   - nameNarration: ""
     narration: '[se:7107_arrivalone]*Step...*'
     narrationBg: bg_adv_21531.jpg
@@ -462,7 +462,7 @@ story:
     chara:
     - id: 304300
       motion: 100
-    nameRight: Sakurako
+    nameRight: Eternal Sakura
     narrationEffect: out
     textBg: shout
     textRight: '| Get in there! Hurry! |'
@@ -611,7 +611,7 @@ story:
     textLeft: Plus, I certainly can't let this borrowed body get@injured.
   - chara:
     - id: 303802
-    textLeft: Now *that* would be quite the sin.
+    textLeft: Now THAT would be quite the sin.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

@@ -93,7 +93,7 @@ story:
     - eyeClose: 1
       id: 304001
       motion: 0
-    textLeft: I wouldn't *actually* do that, of course.
+    textLeft: I wouldn't ACTUALLY do that, of course.
   - chara:
     - cheek: 0
       eyeClose: 0

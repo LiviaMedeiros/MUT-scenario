@@ -108,7 +108,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Yukika
-    textRight: No, no stop that 's embarrassing!
+    textRight: No, no stop that's embarrassing!
   - chara:
     - id: 305001
       motion: 100
@@ -297,7 +297,7 @@ story:
     - eyeClose: 1
       id: 305001
     nameLeft: Yuuna
-    textLeft: By stepping up, I can find the joy of understanding the people around
+    textLeft: By stepping up, I can find the joy of understanding@the people around
       me.
   - chara:
     - cheek: 1

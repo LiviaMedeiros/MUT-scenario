@@ -444,7 +444,8 @@ story:
       motion: 0
       pos: 2
     nameLeft: Chiharu
-    textLeft: Yeah! Let's do it! Let's trade!
+    textLeft: '[chara:102601:effect_emotion_joy_0][se:7222_happy]Yeah! Let''s do it!
+      Let''s trade!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

@@ -85,14 +85,14 @@ story:
       id: 800200
       motion: 0
       pos: 2
-    nameCenter: Student
+    nameCenter: ""
     textCenter: Delicious…!
   - chara:
     - id: 800100
     textCenter: This tea smells so elegant...!
   - chara:
     - id: 800200
-    nameRight: Student
+    nameRight: ""
     textRight: These cookies are also just the right sweetness, and match the tea
       perfectly.
   - chara:
@@ -106,7 +106,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Hotori
-    textLeft: '*phew* ...Thank you.'
+    textLeft: '*Phew* ...Thank you.'
   - chara:
     - id: 304101
     nameLeft: Hotori
@@ -132,7 +132,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Rion
-    textRight: What about Yukika? She is a member of the Mizuna Girls Academy student
+    textRight: What about Yukika? She is a member of the Mizuna Girls' Academy student
       council, right?
   - chara:
     - cheek: 0
@@ -176,8 +176,8 @@ story:
       id: 800100
       motion: 0
       pos: 0
-    nameLeft: Student
-    textLeft: Oh, You really are quite late Yukika...
+    nameLeft: ""
+    textLeft: Oh, you really are quite late Yukika...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -235,11 +235,11 @@ story:
       id: 304101
       motion: 0
       pos: 0
-    nameRight: Student
+    nameRight: ""
     textRight: I'm really sorry about making you do all the @preparation work Hotori...
   - chara:
     - id: 800301
-    nameCenter: Student
+    nameCenter: ""
     textCenter: It must've been super difficult, I'm sorry for being a @bad senpai...
   - chara:
     - cheek: 0
@@ -268,11 +268,11 @@ story:
       id: 800300
       motion: 0
       pos: 1
-    nameCenter: Student
+    nameCenter: ""
     textCenter: Well then, It's time for the closing speech.
   - chara:
     - id: 800300
-    nameCenter: Student
+    nameCenter: ""
     textCenter: Today's turn is...
   - autoTurnLast: 0.2
     chara:
@@ -292,7 +292,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 800300
       pos: 0
-    nameLeft: Student
+    nameLeft: ""
     textLeft: Ah, Yuuna?
   - chara:
     - cheek: 0
@@ -300,14 +300,14 @@ story:
       id: 800102
       motion: 0
       pos: 2
-    nameRight: Student
+    nameRight: ""
     textRight: We don't have any problems with that.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 800300
       pos: 0
-    nameLeft: Student
+    nameLeft: ""
     textLeft: So, please proceed.
   - chara:
     - cheek: 0
@@ -329,7 +329,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: Yuuna
-    textCenter: Mizuna Girls Academy student council,
+    textCenter: Mizuna Girls' Academy student council,
   - chara:
     - id: 305001
     nameCenter: Yuuna
@@ -395,7 +395,7 @@ story:
       id: 305001
       motion: 100
     nameLeft: Yuuna
-    textLeft: Once again, Thank you Hotori.
+    textLeft: Once again, thank you Hotori.
   - nameNarration: ""
     narration: '*Clap clap clap clap*'
     narrationEffect: in
@@ -429,27 +429,27 @@ story:
       id: 800200
       motion: 0
       pos: 2
-    nameRight: Student
+    nameRight: ""
     textRight: The exchange party was really fun!
   - chara:
     - id: 800200
-    nameRight: Student
-    textRight: It was fun and refreshing to be greeted with a shower of flowers!
+    nameRight: ""
+    textRight: It was fun and refreshing to be greeted with a@shower of flowers!
   - chara:
     - id: 800302
-    nameLeft: Student
-    textLeft: The tea and sweets were delicious ...
+    nameLeft: ""
+    textLeft: The tea and sweets were delicious...
   - chara:
     - id: 800302
     textLeft: The dance club's performance was also passionate @and impressive.
   - chara:
     - id: 800100
-    nameCenter: Student
+    nameCenter: ""
     textCenter: This was definitely the best exchange party yet.
   - chara:
     - cheek: 1
       id: 800200
-    nameRight: Student
+    nameRight: ""
     textRight: Yes!
   - chara:
     - cheek: 1

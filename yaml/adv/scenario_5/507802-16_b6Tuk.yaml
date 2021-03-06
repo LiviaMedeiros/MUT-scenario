@@ -262,8 +262,8 @@ story:
     textLeft: You said you can't predict what Ruri will do if she@goes off-script,
   - chara:
     - id: 303801
-    textLeft: But she *was* wearing her movie costume when@we ran into her in the
-      club room.
+    textLeft: But she WAS wearing her movie costume when@we ran into her in the club
+      room.
   - chara:
     - id: 303801
     textLeft: Chances are good that she'll try to kill me as@scheduled.

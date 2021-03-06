@@ -407,7 +407,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Yuuna
-    textLeft: That ring...@are you a Magical Girl too?
+    textLeft: That ring...@are you a Magical girl too?
   - chara:
     - id: 304701
       motion: 0

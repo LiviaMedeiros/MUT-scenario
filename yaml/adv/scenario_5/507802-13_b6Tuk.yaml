@@ -131,7 +131,7 @@ story:
       motion: 1
     enableSkipAutoTurn: 1
     nameNarration: ""
-    narration: '[surround:7105_telphone]~ ~ ♪ ~ ~ ♪'
+    narration: '[surround:7105_telphone]*Ring Ring*'
     narrationBg: bg_adv_21061.jpg
     narrationEffect: in
   - chara:

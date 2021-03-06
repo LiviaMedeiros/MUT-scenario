@@ -338,7 +338,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Ao
-    textLeft: She might start a war with your Magical Girl friends~
+    textLeft: She might start a war with your Magical girl friends~
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -519,7 +519,7 @@ story:
     - id: 304101
       motion: 300
     nameRight: Hotori
-    textRight: With student council and Magical Girl work...
+    textRight: With student council and Magical girl work...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

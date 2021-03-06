@@ -143,7 +143,7 @@ story:
       id: 304101
       motion: 1
     nameRight: Hotori
-    textRight: Hehe,[chara:304101:lipSynch_0][wait:1.0][chara:304101:eyeClose_0][chara:304101:lipSynch_1]thanks
+    textRight: Hehe, [chara:304101:lipSynch_0][wait:1.0][chara:304101:eyeClose_0][chara:304101:lipSynch_1]thanks
       Yuuna.
   - chara:
     - cheek: 0
@@ -178,7 +178,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Yukika
-    textRight: '"That person"... Mami Tomoe...'
+    textRight: '"That person"...Mami Tomoe...'
   - chara:
     - cheek: 1
       eyeClose: 0
@@ -219,7 +219,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story03
     nameNarration: Yuuna
-    narration: My ideal, "that person"... Mami Tomoe
+    narration: My ideal, "that person"...Mami Tomoe...
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -229,8 +229,8 @@ story:
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - narration: I wasn't a Magical girl then, and she saved me when I was trapped inside
-      a Witches barrier.
-  - narration: My noble saint ...
+      a Witch's barrier.
+  - narration: My noble saint...
   - autoTurnLast: 0.5
     bg: bg_adv_21028.jpg
     chara:
@@ -251,17 +251,17 @@ story:
     turnChangeIn: fadeIn
     turnEffect: stop
   - nameNarration: Yuuna
-    narration: Since I was born into a wealthy family, and have never needed effort
+    narration: Since I was born into a wealthy family, and have@never needed effort
       or been faced with hardships.
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: I lived an empty life, everyday without a sense of purpose...
-  - narration: But then I met Miss Tomoe, and she showed me a glorious world that
+  - narration: But then I met Miss Tomoe, and she showed me a@glorious world that
       cannot be reached by money or power.
   - narration: I decided that I wanted to be like her, @and reach the same heights
       as her.
-  - narration: My wish to Kyuubey was "That I could be like the one who saved me,
+  - narration: My wish to Kyuubey was "That I could be like the one who@saved me,
       defeating Witches and saving people."...
   - chara:
     - id: 305001
@@ -274,7 +274,7 @@ story:
       lipSynch: 1
       motion: 300
     nameLeft: Yuuna
-    textLeft: But wishing to be like her was unrealistic....
+    textLeft: But wishing to be like her was unrealistic...
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -415,7 +415,7 @@ story:
       lipSynch: 0
       motion: 100
     nameLeft: Yuuna
-    textLeft: (I feel like I finally found what I've been missing ...)
+    textLeft: (I feel like I finally found what I've been missing...)
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn
