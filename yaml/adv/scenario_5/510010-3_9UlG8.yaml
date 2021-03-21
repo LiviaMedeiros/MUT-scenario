@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 800600
     nameRight: ""
-    textRight: "\uFEFFSorry for the wait, here is the appetizer."
+    textRight: Sorry for the wait, here is the appetizer.
     turnChangeOut: fadeOut
   - chara:
     - id: 800600

@@ -24,7 +24,7 @@ story:
     chara:
     - id: 304101
       motion: 300
-    nameCenter: "\uFEFFHotori"
+    nameCenter: Hotori
     textCenter: I'm sorry about yesterday Yuuna...
     turnChangeOut: fadeOut
   - chara:

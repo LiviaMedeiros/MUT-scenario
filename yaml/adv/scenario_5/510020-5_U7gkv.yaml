@@ -19,7 +19,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 304701
-    nameRight: "\uFEFFChika"
+    nameRight: Chika
     textRight: Eeh...
     turnChangeOut: fadeOut
   - chara:

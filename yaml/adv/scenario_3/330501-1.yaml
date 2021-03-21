@@ -21,7 +21,7 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF＜St. Lilianna School, Student Council＞"
+    narration: ＜St. Lilianna School, Student Council＞
     narrationEffect: in
     turnChangeOut: fadeOut
   - autoTurnLast: 0.3

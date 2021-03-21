@@ -18,7 +18,7 @@ story:
   - bgm: bgm05_event10
     chara:
     - id: 305001
-    nameLeft: "\uFEFFYuuna"
+    nameLeft: Yuuna
     textLeft: By the way... Yukika.
     turnChangeOut: fadeOut
   - chara:

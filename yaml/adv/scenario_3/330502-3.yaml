@@ -19,7 +19,7 @@ story:
     chara:
     - id: 305001
       motion: 100
-    nameLeft: "\uFEFFYuuna"
+    nameLeft: Yuuna
     textLeft: Chiharu and her friends have left.
     turnChangeOut: fadeOut
   - chara:

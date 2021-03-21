@@ -14,7 +14,7 @@ story:
     chara:
     - id: 304701
       motion: 100
-    nameRight: "\uFEFFChika"
+    nameRight: Chika
     textRight: Aah, Chiharu!
     turnChangeOut: fadeOut
   - chara:

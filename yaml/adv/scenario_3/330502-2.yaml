@@ -21,7 +21,7 @@ story:
   - bgm: bgm03_story06
     chara:
     - id: 102601
-    nameRight: "\uFEFFChiharu"
+    nameRight: Chiharu
     textRight: Well, yesterday I left Suitoku Temple to help buy @dinner and...
     turnChangeOut: fadeOut
   - chara:

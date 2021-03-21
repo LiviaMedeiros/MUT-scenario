@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm03_story02
     chara:
     - cheek: 0
@@ -155,7 +155,8 @@ story:
       id: 200601
       motion: 0
     textLeft: Sure, you bet.
-  - chara:
+  - bg: bg_adv_19231.jpg
+    chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300902
@@ -165,7 +166,8 @@ story:
     textCenter: '*Mumble mumble* *Mumble mumble*'
     turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
-  - chara:
+  - bg: bg_adv_19221.jpg
+    chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 200601
@@ -292,5 +294,5 @@ story:
     textRight: '*Giggle*'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

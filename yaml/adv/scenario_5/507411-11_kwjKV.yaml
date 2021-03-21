@@ -19,7 +19,7 @@ story:
     chara:
     - id: 102300
       motion: 100
-    nameLeft: "\uFEFFAo"
+    nameLeft: Ao
     textLeft: Alright~ Now that Torayacho and Ryuugasaki are @finally at it,
     turnChangeOut: fadeOut
   - chara:

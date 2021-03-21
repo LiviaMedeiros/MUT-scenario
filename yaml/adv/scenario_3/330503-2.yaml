@@ -21,7 +21,7 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF<On the day of the exchange event.>"
+    narration: <On the day of the exchange event.>
     narrationBg: bg_adv_21027.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

@@ -13,7 +13,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 305001
-    nameCenter: "\uFEFFYuuna"
+    nameCenter: Yuuna
     textCenter: E-everyone...!? @Why are you here?
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2

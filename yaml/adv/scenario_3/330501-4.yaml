@@ -28,7 +28,7 @@ story:
       id: 304101
       motion: 1
       pos: 0
-    nameRight: "\uFEFFRion"
+    nameRight: Rion
     textRight: Yuuna!
   - autoTurnLast: 0.2
     chara:

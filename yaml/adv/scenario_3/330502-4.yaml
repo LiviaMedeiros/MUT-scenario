@@ -18,7 +18,7 @@ story:
   - bgm: bgm03_story05
     chara:
     - id: 305001
-    nameLeft: "\uFEFFYuuna"
+    nameLeft: Yuuna
     textLeft: Perhaps, your father was worried you would fail, and have your feelings
       hurt?
     turnChangeOut: fadeOut

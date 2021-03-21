@@ -19,7 +19,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 305001
-    nameLeft: "\uFEFFYuuna"
+    nameLeft: Yuuna
     textLeft: Why I was attracted to the saint.
     turnChangeOut: fadeOut
   - chara:

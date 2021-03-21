@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 304501
       motion: 200
-    nameRight: "\uFEFFRion"
+    nameRight: Rion
     textRight: Oh, come on...!
     turnChangeOut: fadeOut
   - chara:

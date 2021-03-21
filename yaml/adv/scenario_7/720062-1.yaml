@@ -16,7 +16,7 @@ story:
       pos: 0
     turnChangeIn: fadeIn
   - bgm: bgm03_story21
-    nameNarration: "\uFEFFKyouko"
+    nameNarration: Kyouko
     narration: Sayaka and the others invited me@to the beach over the summer.
     narrationBg: bg_adv_20251.jpg
     narrationEffect: in

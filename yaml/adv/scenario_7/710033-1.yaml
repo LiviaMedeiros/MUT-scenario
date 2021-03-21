@@ -12,7 +12,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - bgm: bgm01_anime02
-    nameNarration: "\uFEFFTsuruno"
+    nameNarration: Tsuruno
     narration: '"Isn''t it too early in the season for this?"@is what I told my dad,
       but'
     narrationBg: bg_adv_narration.jpg

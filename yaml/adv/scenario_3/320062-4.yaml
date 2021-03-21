@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm03_story02
     chara:
     - cheek: 0
@@ -239,7 +239,7 @@ story:
     textLeft: Yeah, thanks.
   - nameNarration: Kyoko
     narration: A Magical Girl chef, huh?@She was odd, but…
-    narrationBg: bg_adv_21221.jpg
+    narrationBg: bg_adv_19221.jpg
     narrationEffect: in
   - narration: She did make some delicious@comfort food.
   - autoTurnLast: 0.01

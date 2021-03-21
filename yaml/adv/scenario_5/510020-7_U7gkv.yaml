@@ -30,7 +30,7 @@ story:
       id: 200501
       motion: 300
       pos: 0
-    nameLeft: "\uFEFFMami"
+    nameLeft: Mami
     se: 7205_magic_girl
     textLeft: Phew...
   - autoTurnLast: 0.2

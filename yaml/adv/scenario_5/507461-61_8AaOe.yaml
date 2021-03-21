@@ -13,7 +13,7 @@ story:
   - chara:
     - id: 102400
       motion: 300
-    nameCenter: "\uFEFFJuri"
+    nameCenter: Juri
     textCenter: Screw you, Ao...
     turnChangeOut: fadeOut
   - chara:

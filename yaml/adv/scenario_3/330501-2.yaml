@@ -17,7 +17,7 @@ story:
     chara:
     - id: 305000
       motion: 400
-    nameRight: "\uFEFFYuuna"
+    nameRight: Yuuna
     textRight: '[surround:3050A01][name:sprite_0:effect_7000_attack01]Phew!'
     turnChangeOut: fadeOut
   - chara:

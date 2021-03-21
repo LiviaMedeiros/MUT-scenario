@@ -13,7 +13,7 @@ story:
     narrationEffect: in
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF[se:7106_telmail]Ping♪"
+    narration: '[se:7106_telmail]Ping♪'
     narrationBg: ""
     turnChangeOut: fadeOut
   - bgm: bgm03_story12

@@ -34,7 +34,7 @@ story:
       id: 304700
       motion: 0
       pos: 2
-    nameLeft: "\uFEFFYuuna"
+    nameLeft: Yuuna
     textLeft: It's coming right for us!
   - chara:
     - id: 304700

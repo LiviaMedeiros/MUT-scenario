@@ -12,7 +12,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF<The next day>"
+    narration: <The next day>
     narrationBg: bg_adv_13131.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

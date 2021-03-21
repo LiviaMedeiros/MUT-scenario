@@ -51,7 +51,7 @@ story:
       id: 305001
       motion: 0
       pos: 1
-    nameCenter: "\uFEFFYuuna"
+    nameCenter: Yuuna
     textCenter: So let's start with...
   - chara:
     - id: 305001

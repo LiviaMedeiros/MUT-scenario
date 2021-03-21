@@ -20,7 +20,7 @@ story:
     - eyeClose: 1
       id: 304101
       motion: 300
-    nameRight: "\uFEFFHotori"
+    nameRight: Hotori
     textRight: '*Sigh* It''s over...'
     turnChangeOut: fadeOut
   - chara:
