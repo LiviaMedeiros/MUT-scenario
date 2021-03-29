@@ -61,7 +61,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Haruka
-    textLeft: We’re here to do research first.
+    textLeft: We have to investigate first. That’s why we’re here.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

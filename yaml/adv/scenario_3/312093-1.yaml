@@ -292,7 +292,7 @@ story:
       lipSynch: 0
       motion: 400
     nameLeft: Yachiyo
-    textLeft: '[chara:100201:effect_emotion_surprise_0][se:7226_shock]ー?!'
+    textLeft: '[chara:100201:effect_emotion_surprise_0][se:7226_shock]Hm?!'
   - chara:
     - id: 100201
     nameLeft: Yachiyo
@@ -469,7 +469,7 @@ story:
       lipSynch: 0
       motion: 0
     nameLeft: Yachiyo
-    textLeft: '[chara:100201:effect_emotion_surprise_0][se:7226_shock]ー?!'
+    textLeft: '[chara:100201:effect_emotion_surprise_0][se:7226_shock]Huh?!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

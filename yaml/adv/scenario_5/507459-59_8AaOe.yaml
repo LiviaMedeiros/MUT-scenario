@@ -358,7 +358,8 @@ story:
   - chara:
     - id: 102400
       motion: 0
-    textRight: You're a soft girl like that. But I took a liking to that kindness.
+    textRight: You're a soft girl like that.[chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_010.exp.json:motion_100][chara:102400:lipSynch_1]
+      But I took a liking to that kindness.
   - chara:
     - id: 102400
     textRight: You're trying to act the part of a bad guy, but you're actually pure.
@@ -557,7 +558,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102300
       motion: 200
-    textLeft: The only thing I want is to take Ranka's life!
+    textLeft: The only thing I want is to take Ranka's life![surround:1012A01][chara:102400:effect_7000_attack01]
   - chara:
     - id: 102400
       motion: 400

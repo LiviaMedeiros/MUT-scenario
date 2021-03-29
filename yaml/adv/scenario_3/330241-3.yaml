@@ -302,7 +302,7 @@ story:
     narrationEffect: out
     textLeft: From now on...what should I do...
   - nameNarration: ""
-    narration: '*Munch Munch Munch Munch*@*Munch Munch Munch Munch * '
+    narration: '*Munch Munch Munch Munch*@*Munch Munch Munch Munch* '
     narrationBg: ""
     narrationEffect: in
   - chara:

@@ -79,13 +79,13 @@ story:
     bg: bg_adv_narration.jpg
     turnChangeIn: fadeIn
     turnEffect: sepiaFrame
-  - nameNarration: Haruka’s father
-    narration: '"Ah, that’s our Kanata!@Just amazing!"'
+  - nameNarration: Haruka’s Father
+    narration: '"Ah, that’s my girl, Kanata!"'
     narrationBg: ""
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: '"You’re a prodigy, no matter what you do!@As your parents, we couldn’t
-      be more proud!"'
+  - narration: '"No matter what you try,@you’re a prodigy at it!@As your parents,
+      we couldn’t be more proud!"'
   - autoTurnLast: 0.01
     item:
     - path: resource/scenario/img/51075_singleraid_suzune2/memoria_1416.jpg

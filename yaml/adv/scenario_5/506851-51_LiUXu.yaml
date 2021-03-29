@@ -326,7 +326,7 @@ story:
     - id: 102601
       lipSynch: 0
       motion: 400
-    textLeft: ――!?
+    textLeft: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]――!?'
   - chara:
     - eyeClose: 0
       id: 102701

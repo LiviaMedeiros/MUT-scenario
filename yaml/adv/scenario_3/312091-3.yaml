@@ -388,7 +388,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Kaede
-    textRight: '[chara:101101:effect_emotion_surprise_0][se:7226_shock]―?!'
+    textRight: '[chara:101101:effect_emotion_surprise_0][se:7226_shock]...?!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

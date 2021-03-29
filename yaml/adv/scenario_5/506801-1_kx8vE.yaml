@@ -43,8 +43,8 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102601
-    textCenter: There's plants and insects everywhere, @and the air is so fresh! This
-      feels AWESOME!
+    textCenter: '[chara:102601:effect_emotion_joy_0][se:7222_happy]There''s plants
+      and insects everywhere, @and the air is so fresh! This feels AWESOME!'
   - chara:
     - id: 102601
       motion: 200

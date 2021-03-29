@@ -144,7 +144,7 @@ story:
       motion: 400
     nameLeft: Rena
     narrationEffect: out
-    textLeft: '[chara:120901:effect_emotion_surprise_0][se:7226_shock]ー?!'
+    textLeft: '[chara:120901:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 120901
       motion: 0
@@ -307,7 +307,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Mitama
-    textLeft: Kanagi, Mifuyu, please choose your onigiri.
+    textLeft: Kanagi, Mifuyu, please choose your rice balls.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -320,7 +320,7 @@ story:
   - chara:
     - id: 101651
     nameRight: Kanagi
-    textRight: Which of these are your onigiri?
+    textRight: Which of these are yours?
   - bgm: stop
     chara:
     - id: 101750
@@ -346,7 +346,7 @@ story:
   - chara:
     - id: 101750
     nameLeft: Mitama
-    textLeft: Mitama musubi, and rice balls from the@convenience store...
+    textLeft: Mitama Musubi, and rice balls from the@convenience store...
   - chara:
     - id: 101750
       motion: 400
@@ -440,7 +440,7 @@ story:
       mouthOpen: 0
     nameRight: Mifuyu
     narrationEffect: out
-    textRight: '[chara:100650:effect_emotion_surprise_0][se:7226_shock]ー?!'
+    textRight: '[chara:100650:effect_emotion_surprise_0][se:7226_shock]Huh?!'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -456,7 +456,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Mitama
-    textLeft: Oh, congratulations! You got Mitama musubi!
+    textLeft: Oh, congratulations! You got Mitama Musubi!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -555,7 +555,7 @@ story:
     - id: 120901
       motion: 100
     nameLeft: Rena
-    textLeft: Mitama musubi... We're going to get through this.@One way or another!
+    textLeft: Mitama Musubi... We're going to get through this.@One way or another!
   - chara:
     - id: 120902
       motion: 1

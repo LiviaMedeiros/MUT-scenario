@@ -376,7 +376,7 @@ story:
       lipSynch: 0
     nameLeft: Shizuka
     nameRight: Chiharu
-    textRight: '............What is this place...?'
+    textRight: '............[wait:0.8][chara:102600:lipSynch_1]What is this place...?'
     turnChangeOut: whiteOut
   - chara:
     - id: 102500

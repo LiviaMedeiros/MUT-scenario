@@ -203,7 +203,7 @@ story:
     nameRight: Tsuruno
     textRight: I'm gonna do mine when I get home. Right now@I want to play in the
       ocean... [chara:100301:lipSynch_0][wait:1.0][chara:100301:cheek_0][chara:100301:face_mtn_ex_030.exp.json][chara:100301:lipSynch_1]I
-      can't ?
+      can't?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -433,7 +433,7 @@ story:
       pos: 2
     nameLeft: Tsuruno
     textLeft: If that's the case, I'm raring to go all of a sudden!@[chara:100301:lipSynch_0][wait:1.0][chara:100301:cheek_0][chara:100301:face_mtn_ex_011.exp.json][chara:100301:lipSynch_1]Yep,
-      yep !
+      yep!
   - chara:
     - id: 100501
       motion: 100

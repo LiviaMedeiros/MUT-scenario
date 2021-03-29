@@ -210,7 +210,7 @@ story:
       pos: 1
     nameCenter: Eternal Sakura
     textCenter: '| ...Ryo? |'
-  - nameNarration: Ryo
+  - nameNarration: Ryo's voice
     narration: '"...Right...here..."'
     narrationBg: bg_adv_20511.jpg
     narrationEffect: in

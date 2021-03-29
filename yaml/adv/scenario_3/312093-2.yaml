@@ -210,7 +210,7 @@ story:
     nameLeft: Rena
     textLeft: We can use our smartphones as flashlights,@so we're all set.
   - nameNarration: ""
-    narration: '*Ring ♪ Ring ♪*'
+    narration: '*Ring Ring♪*'
     narrationBg: ""
     narrationEffect: in
     se: 7106_telmail
@@ -358,7 +358,7 @@ story:
     nameRight: Yachiyo
     textRight: Please do. And thank you.
   - nameNarration: ""
-    narration: '*Ring ♪ Ring ♪*'
+    narration: '*Ring Ring♪*'
     narrationBg: ""
     narrationEffect: in
     se: 7106_telmail

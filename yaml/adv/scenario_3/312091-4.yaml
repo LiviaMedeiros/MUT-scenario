@@ -381,7 +381,7 @@ story:
       id: 120901
       lipSynch: 0
     nameRight: Rena
-    textRight: '[chara:120901:effect_emotion_surprise_0][se:7226_shock]―?!'
+    textRight: '[chara:120901:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 2
       face: mtn_ex_060.exp.json

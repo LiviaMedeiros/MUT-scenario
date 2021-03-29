@@ -568,7 +568,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Iroha
-    textRight: You want us to forget about my daily life and@have fun, right?
+    textRight: You want us to forget about our daily life and@have fun, right?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

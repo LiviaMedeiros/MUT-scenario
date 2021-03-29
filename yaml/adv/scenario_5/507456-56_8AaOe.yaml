@@ -173,8 +173,8 @@ story:
     textLeft: I've added up the numbers from you all.
   - chara:
     - id: 102103
-    textLeft: And it shows that there's as many witches as before @the Bloody Tragedy.
-      Maybe even more...
+    textLeft: And it shows that there's as many witches as before @the [textRed:Bloody
+      Tragedy]. Maybe even more...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
