@@ -126,7 +126,8 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-6-13
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-12
-    textLeft: Actually this time around, the West seems@to be relatively on our side.
+    textLeft: Actually, at least this time, the West seems@to be relatively on our
+      side.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -163,7 +164,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-6-18
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-17
-    textRight: Considering that Witches are the actual culprits,@it's quite the misfortune
+    textRight: Considering that Witches are the actual culprits,@it's quite unfortunate
       for the mayor...
   - chara:
     - id: 101601
@@ -265,14 +266,14 @@ story:
     - id: 101601
       voiceFull: fullvoice/section_102201/vo_full_102201-6-26
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-25
-    textRight: If there are any problems, the East@will deal with it.
+    textRight: If there are any problems, it'll be the@East dealing with it first.
   - chara:
     - id: 101700
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-6-27
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-26
     nameLeft: Mitama
-    textLeft: It's as labyrinthine and mysterious as ever.
+    textLeft: As usual, it grows ever more labyrinthine@and mysterious by the day.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

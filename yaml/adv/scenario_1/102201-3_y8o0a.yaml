@@ -18,7 +18,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-3-1
     nameNarration: Touka
     narration: '■Report #1@　The Automatic Purification System is@continuing to harvest
-      corruption and protect@against Witchification, however, it is still@unclear
+      impurities and protect@against Witchification, however, it is still@unclear
       where its Labyrinth is.'
     narrationCoverOpacity: 150
     narrationEffect: in
@@ -30,7 +30,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-3-2
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-1
     narration: '■Report #2@　Since it was formed by a Kyubey without@emotions taking
-      Ui''s place as Eve''s core, we''re@assuming it to be purely conceptual entity@that
+      Ui''s place as Eve''s core, we''re@assuming it to be a purely conceptual entity@that
       is neither Magical Girl nor Witch.'
   - chara:
     - id: 100701
@@ -38,7 +38,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-3-3
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-2
     narration: '■Report #3@　If it is neither Magical Girl nor Witch,@it is unclear
-      what kind of energy it requires,@so further investigation is required.'
+      what kind of energy it requires,@so further investigation is necessary.'
   - autoTurnFirst: 6.4
     chara:
     - cheek: 0
@@ -48,8 +48,8 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-3-4
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-3
     enableSkipAutoTurn: 1
-    narration: In concluuuusion, with regards to expanding@the Automatic Purification
-      System that protects us@from Witchification, we have ZERO idea!
+    narration: In concluuuusion!@With regards to expanding the Automatic@Purification
+      System that protects us from@Witchification, we have ZERO idea!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -187,13 +187,13 @@ story:
     - id: 101501
       voiceFull: fullvoice/section_102201/vo_full_102201-3-17
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-16
-    textRight: That's what I thought....
+    textRight: That's what I thought...
   - chara:
     - id: 101501
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-3-18
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-17
-    textRight: I can't seem to tell when I'm separated@from the main body, either...
+    textRight: I can't seem to tell either after being@separated from the main body...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -257,7 +257,8 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-3-25
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-24
     nameRight: Hinano
-    textRight: It has traces of quite powerful magic.@What kind of Witch was it?
+    textRight: It has traces of some quite powerful magic.@What kind of Witch was
+      it?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -477,7 +478,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-3-52
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-51
-    textRight: Certainly, I will make sure to stay vigilant.
+    textRight: Certainly, we'll have to remain vigilant.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

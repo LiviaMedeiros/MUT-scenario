@@ -31,7 +31,7 @@ story:
     - id: 302100
       motion: 200
     nameRight: Sakuya
-    textRight: I'm done setting the gems here. @West Oogibahi is done, too.
+    textRight: I'm done setting the gems here. @West Oogibashi is done, too.
     turnChangeOut: fadeOut
   - chara:
     - id: 102102
@@ -53,7 +53,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 302100
       motion: 300
-    textRight: are we expecting them to come in through @Monzanbashi?
+    textRight: are we expecting them to come in through @Monzenbashi?
   - chara:
     - id: 102102
     textLeft: The magical energy in these gems will make @Ryuugasaki think we're in
@@ -347,7 +347,7 @@ story:
     textLeft: Don't misunderstand me, okay?
   - chara:
     - id: 102102
-    textLeft: What I'm asking is, are you ready to devote your life @to Torayacho?
+    textLeft: What I'm asking is, are you ready to devote your life @to Torayamachi?
   - chara:
     - id: 770082
     textRight: Yes... Yes... of course...!

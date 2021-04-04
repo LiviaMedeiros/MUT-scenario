@@ -39,7 +39,7 @@ story:
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-1
     enableSkipAutoTurn: 0
     nameLeft: Iroha
-    textLeft: Urk...my robe...
+    textLeft: Urk...my cloak...
   - chara:
     - id: 102200
       motion: 400
@@ -450,14 +450,14 @@ story:
       lipSynch: 0
       motion: 0
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-34
-    textLeft: '...[wait:0.8][chara:100100:cheek_0][chara:100100:motion_301][chara:100100:lipSynch_1]][chara:100100:voiceFull_fullvoice/section_102201/vo_full_102201-13-35]No...'
+    textLeft: '...[wait:0.8][chara:100100:cheek_0][chara:100100:motion_301][chara:100100:lipSynch_1][chara:100100:voiceFull_fullvoice/section_102201/vo_full_102201-13-35]No...'
   - chara:
     - eyeClose: 1
       id: 102100
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-13-36
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-35
-    textRight: So you don't know anything....
+    textRight: So you don't know anything...
   - chara:
     - eyeClose: 0
       id: 102100
@@ -490,7 +490,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-13-41
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-40
-    textRight: We will obtain what was made by spilling@our blood...
+    textRight: We will take back what was made by spilling@our blood...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -549,8 +549,8 @@ story:
     - id: 102100
       voiceFull: fullvoice/section_102201/vo_full_102201-13-47
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-46
-    textLeft: I'm telling you because it wouldn't be fair@if I one-sidedly knew about
-      you.
+    textLeft: I'm telling you because it wouldn't be fair@if I one-sidedly knew your
+      names.
   - chara:
     - id: 102200
       motion: 100

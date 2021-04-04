@@ -16,7 +16,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-3-1
     nameCenter: Tsuruno
-    textCenter: Alright then, everyone that's assembled here!
+    textCenter: Alright then, ladies and gentlemen!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -47,7 +47,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-3-3
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-2
     nameLeft: Tsuruno
-    textLeft: I've gathered you here today for the Dragon Fair@in Mikazuki Villa!
+    textLeft: I've gathered you here today for the@Dragon Fair at Mikazuki Villa!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -57,7 +57,7 @@ story:
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-3
     enableSkipAutoTurn: 1
     textBg: shout
-    textLeft: We're going to use up ALL the chili peppers with@this dinner!!
+    textLeft: We're going to use up ALL the chili peppers for@this dinner!!
   - bgEffect: shakeLarge
     chara:
     - cheek: 1

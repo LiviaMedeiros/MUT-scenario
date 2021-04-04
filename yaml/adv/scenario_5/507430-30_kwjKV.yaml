@@ -199,7 +199,7 @@ story:
     - eyeClose: 1
       id: 102300
     nameLeft: Ao
-    textLeft: We're Hebinomiya...
+    textLeft: We're Janomiya...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -258,7 +258,7 @@ story:
   - chara:
     - id: 102300
       lipSynch: 0
-    textCenter: (Hikaru should be taking care of Torayacho@now...)
+    textCenter: (Hikaru should be taking care of Torayamachi@now...)
   - chara:
     - id: 102300
       lipSynch: 1
@@ -356,7 +356,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Yuna
-    textRight: We've known about Hebinomiya all along...
+    textRight: We've known about Janomiya all along...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -372,7 +372,7 @@ story:
     textLeft: So you betrayed us...
   - chara:
     - id: 102200
-    textRight: A loyal member of Torayacho from the@very beginning...
+    textRight: A loyal member of Torayamachi from the@very beginning...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -392,7 +392,7 @@ story:
       face: mtn_ex_051.exp.json
       id: 102300
       motion: 400
-    textLeft: Hikaru...you're Torayacho's Horse...
+    textLeft: Hikaru...you're Torayamachi's Horse...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -413,7 +413,7 @@ story:
   - chara:
     - id: 102300
       motion: 0
-    textLeft: The Hebinomiya girls in Torayacho...@did you kill them...?
+    textLeft: The Janomiya girls in Torayamachi...@did you kill them...?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -444,7 +444,7 @@ story:
     - eyeClose: 0
       id: 102200
       motion: 100
-    textRight: That's why Torayacho will take over@your wish.
+    textRight: That's why Torayamachi will take over@your wish.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -529,7 +529,7 @@ story:
     narrationLineSpace: 20
   - narration: With everything I have,@I'll put an end to this battle!
   - narration: March forth, Hikaru Army!
-  - narration: Run down Hebinomiya!
+  - narration: Run down Janomiya!
   - autoTurnLast: 0.01
     bg: black
     item:

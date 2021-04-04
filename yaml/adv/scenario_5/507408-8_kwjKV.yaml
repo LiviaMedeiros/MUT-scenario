@@ -47,7 +47,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Ao
-    textLeft: We're finally going to war with Torayacho, huh~
+    textLeft: We're finally going to war with Torayamachi, huh~
   - chara:
     - id: 304400
       motion: 300
@@ -168,8 +168,7 @@ story:
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 0
-    textLeft: '[chara:304400:effect_emotion_surprise_0][se:7226_shock]Well, @Juri
-      the Great is going with two teams of nine!'
+    textLeft: Well, @Juri the Great is going with two teams of nine!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -285,7 +284,7 @@ story:
   - chara:
     - id: 102400
       lipSynch: 1
-    textLeft: You really think we can take Torayacho by surprise @like that?
+    textLeft: You really think we can take Torayamachi by @surprise like that?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -298,7 +297,7 @@ story:
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 1
-    textLeft: If Torayacho is really expecting us to come through @the central bridge,
+    textLeft: If Torayamachi is really expecting us to come @through the central bridge,
   - chara:
     - id: 102400
     textLeft: then we can crush them with a pincer attack from @the other two bridges.

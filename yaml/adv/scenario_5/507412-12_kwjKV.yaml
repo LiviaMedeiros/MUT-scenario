@@ -30,7 +30,7 @@ story:
     - id: 102300
       lipSynch: 0
       motion: 300
-    textCenter: (If Torayacho's really going to be waiting on the @central bridge,
+    textCenter: (If Torayamachi's really going to be waiting on the @central bridge,
       they'll be at a big disadvantage...)
   - chara:
     - eyeClose: 1
@@ -133,7 +133,7 @@ story:
       so hard to keep me from your @secret group.
   - chara:
     - id: 770183
-    textRight: Hebinomiya's hideout is in the arcade down the @street, isn't it?
+    textRight: Janomiya's hideout is in the arcade down the @street, isn't it?
   - bgm: stop
     chara:
     - cheek: 0

@@ -264,7 +264,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Felicia
-    textRight: What is this...
+    textRight: What is this...?
   - bgm: bgm03_story19
     chara:
     - cheek: 1

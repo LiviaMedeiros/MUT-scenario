@@ -20,7 +20,7 @@ story:
     - id: 801100
       voiceFull: fullvoice/section_102202/vo_full_102202-11-1
     nameRight: ""
-    textRight: '[chara:801100:effect_emotion_joy_0][se:7222_happy]Hm...'
+    textRight: '[chara:801100:effect_emotion_joy_0][se:7222_happy]Mn...!'
     turnChangeOut: fadeOut
   - chara:
     - id: 801100

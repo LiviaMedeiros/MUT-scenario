@@ -20,11 +20,11 @@ story:
     - id: 102300
       motion: 100
     nameLeft: Ao
-    textLeft: Alright~ Now that Torayacho and Ryuugasaki are @finally at it,
+    textLeft: Alright~ Now that Torayamachi and Ryuugasaki are @finally at it,
     turnChangeOut: fadeOut
   - chara:
     - id: 102300
-    textLeft: We Hebinomiya need to get moving to take them @both out~
+    textLeft: We Janomiya need to get moving to take them @both out~
   - chara:
     - id: 102200
       motion: 200
@@ -42,7 +42,7 @@ story:
   - chara:
     - id: 102200
       motion: 100
-    textRight: Since I deserted Ryuugasaki, it has to be Torayacho.
+    textRight: Since I deserted Ryuugasaki, it has to be @Torayamachi.
   - chara:
     - id: 102200
     textRight: I don't think I'll have any issues with it, either.
@@ -133,7 +133,7 @@ story:
   - chara:
     - id: 102200
       motion: 300
-    textRight: So we can't trust in Torayacho or Ryuugasaki, huh...
+    textRight: So we can't trust in Torayamachi or Ryuugasaki, huh...
   - chara:
     - id: 102200
       motion: 0
@@ -152,7 +152,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102300
       motion: 300
-    textLeft: Hebinomiya was originally formed by refugees from other gangs.
+    textLeft: Janomiya was originally formed by refugees from @other gangs.
   - chara:
     - id: 102300
     textLeft: Allll of us were exploited by the older Magical Girls~
@@ -216,7 +216,7 @@ story:
     textLeft: I'm glad to hear it~
   - chara:
     - id: 102300
-    textLeft: Alright then, there are a few Hebinomiya girls in Torayacho right now.
+    textLeft: Alright then, there are a few Janomiya girls in Torayamachi right now.
   - chara:
     - id: 102300
       motion: 400

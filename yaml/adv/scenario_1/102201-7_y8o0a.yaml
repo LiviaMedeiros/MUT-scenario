@@ -156,8 +156,8 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-7-10
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-9
     nameRight: Iroha
-    textRight: Yes, it could be that the Feathers who were part@of the Wings of the
-      Magius came back.
+    textRight: Yes, it could just be that the Feathers who were@part of the Wings
+      of the Magius came back...
   - chara:
     - id: 100101
       voiceFull: fullvoice/section_102201/vo_full_102201-7-11

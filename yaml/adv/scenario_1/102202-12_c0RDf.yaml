@@ -215,7 +215,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-12-23
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-22
     nameLeft: Chiharu
-    textLeft: Um, you might not believe me.
+    textLeft: Um, you might not believe me...
   - chara:
     - id: 102601
       motion: 300

@@ -102,7 +102,7 @@ story:
     - id: 102200
       voiceFull: fullvoice/section_102201/vo_full_102201-15-8
     nameRight: Hikaru
-    textRight: This corpse...what are we gonna do with it?
+    textRight: What are we gonna do with this corpse?
     turnChangeOut: fadeOut
   - chara:
     - id: 102100
@@ -221,7 +221,7 @@ story:
       id: 102301
       motion: 0
     enableSkipAutoTurn: 1
-    textLeft: I don't get t- aah- MGRH!
+    textLeft: I don't get i- aah- MGRH!
   - chara:
     - cheek: 0
       effect: shake
@@ -378,12 +378,12 @@ story:
     - id: 103300
       voiceFull: fullvoice/section_102201/vo_full_102201-15-35
       voiceFullStop: fullvoice/section_102201/vo_full_102201-15-34
-    textCenter: A truth from which I can't avert my eyes.
+    textCenter: A reality from which I cannot look away.
   - chara:
     - id: 103300
       voiceFull: fullvoice/section_102201/vo_full_102201-15-36
       voiceFullStop: fullvoice/section_102201/vo_full_102201-15-35
-    textCenter: Now, one step was taken forward.
+    textCenter: Just now, we moved one step closer.
   - chara:
     - eyeClose: 1
       id: 103300
@@ -417,34 +417,34 @@ story:
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 150
-    progressNarration: '[textBlack:I can hear the Magical Girls'' voices.]'
+    progressNarration: '[textBlack:The Magical Girls'' voices fill my ears.]'
     turnChangeOut: fadeOut
     voiceFull: fullvoice/section_102201/vo_full_102201-15-39
-  - progressNarration: '[textBlack:A mysterious Witch...]@[textBlack:A Bracelet...]@[textBlack:People
-      who are after that Bracelet...]'
+  - progressNarration: '[textBlack:A mysterious Witch...]@[textBlack:A Bracelet...]@[textBlack:Those
+      who seek it...]'
     voiceFull: fullvoice/section_102201/vo_full_102201-15-40
     voiceFullStop: fullvoice/section_102201/vo_full_102201-15-39
-  - progressNarration: '[textBlack:The people who appeared here,@guided by something,]@[textBlack:what
-      goal might they have...?]'
+  - progressNarration: '[textBlack:People led here by an unseen force:]@[textBlack:what
+      are they after, I wonder...?]'
     voiceFull: fullvoice/section_102201/vo_full_102201-15-41
     voiceFullStop: fullvoice/section_102201/vo_full_102201-15-40
-  - progressNarration: '[textBlack:They are almost like large,@pitch-black waves]@[textBlack:tossed
-      by the aimless ocean@in the dead of night.]'
+  - progressNarration: '[textBlack:They are like pitch-black waves]@[textBlack:wrought
+      by the restless ocean at nightfall.]'
     voiceFull: fullvoice/section_102201/vo_full_102201-15-42
     voiceFullStop: fullvoice/section_102201/vo_full_102201-15-41
-  - progressNarration: '[textBlack:Is everyone alright?]@[textBlack:Will they be able
-      to stay safe...?]'
+  - progressNarration: '[textBlack:Will everyone be okay?]@[textBlack:Can they remain
+      unharmed...?]'
     voiceFull: fullvoice/section_102201/vo_full_102201-15-43
     voiceFullStop: fullvoice/section_102201/vo_full_102201-15-42
-  - progressNarration: '[textBlack:They''re all Magical Girls...]'
+  - progressNarration: '[textBlack:They too are Magical Girls...]'
     voiceFull: fullvoice/section_102201/vo_full_102201-15-44
     voiceFullStop: fullvoice/section_102201/vo_full_102201-15-43
-  - progressNarration: '[textBlack:These waves somehow feel like]@[textBlack:they''re
-      driven by the urge to survive.]'
+  - progressNarration: '[textBlack:I sense in these towering waves]@[textBlack:something
+      like the will to Live.]'
     voiceFull: fullvoice/section_102201/vo_full_102201-15-45
     voiceFullStop: fullvoice/section_102201/vo_full_102201-15-44
-  - progressNarration: '[textBlack:Our light, the Magical Girls,]@[textBlack:might
-      be chasing after their own light...]'
+  - progressNarration: '[textBlack:Perhaps our Light]@[textBlack:runs in pursuit of
+      theirs...]'
     voiceFull: fullvoice/section_102201/vo_full_102201-15-46
     voiceFullStop: fullvoice/section_102201/vo_full_102201-15-45
   - autoTurnLast: 0.3
@@ -529,8 +529,8 @@ story:
     turnChangeIn: fadeIn
     voiceFullStop: fullvoice/section_102201/vo_full_102201-15-55
   - nameNarration: Kagome
-    narration: 'Together with Aru I''m going to continue recording,@and, with that
-      person, spread it to the world:'
+    narration: 'I''m going to keep recording together with this one,@and, with that
+      man, spread it to the world:'
     narrationEffect: in
     turnChangeOut: fadeOut
     voiceFull: fullvoice/section_102201/vo_full_102201-15-56
@@ -567,12 +567,12 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-15-59
       voiceFullStop: fullvoice/section_102201/vo_full_102201-15-58
     nameRight: ???
-    textRight: It's like I told you, Shizuka!@You need to load it!
+    textRight: It's like I told you, Shizuka!@You need to charge it!
   - chara:
     - id: 102601
       voiceFull: fullvoice/section_102201/vo_full_102201-15-60
       voiceFullStop: fullvoice/section_102201/vo_full_102201-15-59
-    textRight: You need to load money onto your card!
+    textRight: You need to charge your card with money!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -599,7 +599,7 @@ story:
       pos: 2
       voiceFull: fullvoice/section_102201/vo_full_102201-15-63
       voiceFullStop: fullvoice/section_102201/vo_full_102201-15-62
-    textRight: That's because you're loading it!
+    textRight: That's because you're charging it!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -650,7 +650,7 @@ story:
       pos: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-15-69
       voiceFullStop: fullvoice/section_102201/vo_full_102201-15-68
-    textLeft: I'm gonna go over to the station attendant@real quick!
+    textLeft: I'm gonna go fetch a station attendant@real quick!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

@@ -20,7 +20,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm23_tokime02
     nameNarration: Chika
-    narration: ―Chika-@Aaaaaahhhh~~~~
+    narration: -Chika-@Aaaaaahhhh~~~~
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -29,11 +29,11 @@ story:
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - narration: ―Chika-@Paradise, paradise～♪
-  - narration: ―Chika-@This is the best, spending a sunny day ~in a drum bath~
-  - narration: ―Chika-@But it's really part of my nature guide job...
-  - narration: ―Chika-@I hope I can let the customers who come for the tour enjoy
+  - narration: -Chika-@This is the best, spending a sunny day ~in a drum bath~
+  - narration: -Chika-@But it's really part of my nature guide job...
+  - narration: -Chika-@I hope I can let the customers who come for the tour enjoy
       this.
-  - narration: ―chika-@I wonder if it would make my senpai upset.~
+  - narration: -Chika-@I wonder if it would make my senpai upset.~
   - autoTurnLast: 0.01
     bg: bg_adv_19301.jpg
     chara:

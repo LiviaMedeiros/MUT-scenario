@@ -91,20 +91,20 @@ story:
     - eyeClose: 0
       id: 102300
       motion: 100
-    textLeft: We're a team called Hebinomiya, @and this is our HQ~
+    textLeft: We're a team called Janomiya, @and this is our HQ~
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102200
       motion: 1
-    textRight: Hebinomiya... huh...
+    textRight: Janomiya... huh...
   - chara:
     - id: 102300
     textLeft: Right~
   - chara:
     - id: 102300
       motion: 0
-    textLeft: I'll bet you've only heard of Torayacho and @Ryuugasaki, right?~
+    textLeft: I'll bet you've only heard of Torayamachi and @Ryuugasaki, right?~
   - chara:
     - id: 102300
     textLeft: And there used to be Monzenbashi, but that team's long gone~
@@ -125,7 +125,7 @@ story:
     textLeft: Though in another way, we're just parasites.
   - chara:
     - id: 102300
-    textLeft: Every one of us belongs to either Torayacho or Ryuugasaki.
+    textLeft: Every one of us belongs to either Torayamachi or Ryuugasaki.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -237,7 +237,7 @@ story:
   - chara:
     - id: 102300
       motion: 300
-    textLeft: Everyone in Hebinomiya is fifteen or younger~
+    textLeft: Everyone in Janomiya is fifteen or younger~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -258,7 +258,7 @@ story:
     textRight: I'm thirteen.
   - chara:
     - id: 102300
-    textLeft: Then, why not join Hebinomiya and help us?
+    textLeft: Then, why not join Janomiya and help us?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -336,7 +336,7 @@ story:
   - chara:
     - id: 102300
       motion: 0
-    textLeft: You're free to go after we crush Torayacho and Ryuugasaki.
+    textLeft: You're free to go after we crush Torayamachi and Ryuugasaki.
   - chara:
     - eyeClose: 1
       id: 102300
@@ -395,13 +395,14 @@ story:
       are.
   - chara:
     - id: 102300
-    textLeft: Torayacho and Ryuugasaki will probably start @fighting each other soon.
+    textLeft: Torayamachi and Ryuugasaki will probably start @fighting each other
+      soon.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102300
       motion: 200
-    textLeft: And that's where all the undercover Hebinomiya members will shine~
+    textLeft: And that's where all the undercover Janomiya @members will shine~
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -431,12 +432,12 @@ story:
       motion: 400
     - id: 102200
       motion: 0
-    textLeft: We'll kill the Fang of Torayacho, Yuna Kurena, @and the Flame of Ryuugasaki,
+    textLeft: We'll kill the Fang of Torayamachi, Yuna Kurena, @and the Flame of Ryuugasaki,
       Juri Oba.
   - chara:
     - id: 102300
-    textLeft: And then I, Ao Kasane, the Venom of Hebinomiya, @will turn this city
-      into a peaceful one~
+    textLeft: And then I, Ao Kasane, the Venom of Janomiya, @will turn this city into
+      a peaceful one~
   - chara:
     - id: 102200
       motion: 400
@@ -467,8 +468,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 102300
       motion: 0
-    textLeft: Apparently Torayacho lost their Horse~ @If that's true, its only a matter
-      of time~
+    textLeft: Apparently Torayamachi lost their Horse~ @If that's true, its only a
+      matter of time~
   - chara:
     - id: 102200
       motion: 300

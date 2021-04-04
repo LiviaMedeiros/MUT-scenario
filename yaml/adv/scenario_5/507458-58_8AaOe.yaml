@@ -27,7 +27,7 @@ story:
       id: 770180
       motion: 0
       pos: 2
-    nameLeft: Torayacho Girl
+    nameLeft: Torayamachi Girl
     textLeft: Yuna...!
   - autoTurnLast: 0.3
     chara:
@@ -155,7 +155,7 @@ story:
       id: 770080
       motion: 0
       pos: 2
-    nameRight: Torayacho Girl
+    nameRight: Torayamachi Girl
     textRight: Yuna...
   - autoTurnLast: 0.1
     chara:
@@ -363,7 +363,7 @@ story:
       lipSynch: 1
       motion: 400
     textCenter: Girls, regroup!! We're getting out of here...!
-  - nameNarration: Torayacho Girl
+  - nameNarration: Torayamachi Girl
     narration: Aaaaagh!
     narrationEffect: in
   - chara:
@@ -393,7 +393,7 @@ story:
     turnChangeOut: rollOutFast
   - chara:
     - id: 770081
-    nameLeft: Torayacho Girl
+    nameLeft: Torayamachi Girl
     textLeft: Yu... na...
   - autoTurnLast: 1
     chara:
@@ -476,11 +476,11 @@ story:
       id: 770080
       motion: 0
       pos: 0
-    nameLeft: Torayacho Girl
+    nameLeft: Torayamachi Girl
     textLeft: I'm ready to do this...
   - chara:
     - id: 770080
-    nameRight: Torayacho Girl
+    nameRight: Torayamachi Girl
     textRight: Me too... let's go out with a bang...
   - chara:
     - cheek: 0
@@ -580,8 +580,8 @@ story:
       id: 102102
     textCenter: Everything I thought I should do... was it all wrong...?
   - nameNarration: ???
-    narration: You worked hard to make last night's fight the final one, just like
-      you promised. That wasn't wrong, neither was trying to negotiate with them.
+    narration: You worked hard to make last night's fight the final one, @just like
+      you promised. That wasn't wrong, neither was @trying to negotiate with them.
     narrationEffect: in
   - chara:
     - id: 102102
@@ -589,7 +589,7 @@ story:
     narrationEffect: out
     textCenter: But... I don't think I can keep this up anymore...
   - nameNarration: ???
-    narration: There's someone who's always at your side, pushing forward along with
+    narration: There's someone who's always at your side, pushing @forward along with
       you. You have to believe in her.
     narrationEffect: in
   - autoTurnLast: 0.2

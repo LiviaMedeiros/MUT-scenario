@@ -309,8 +309,7 @@ story:
     - id: 100101
       voiceFull: fullvoice/section_102201/vo_full_102201-8-39
       voiceFullStop: fullvoice/section_102201/vo_full_102201-8-38
-    textRight: I defeated it, and and in turn it seems to@have entrusted its life
-      to me...
+    textRight: I defeated it, and in turn it seems to@have entrusted its life to me...
   - autoTurnLast: 0.2
     chara:
     - id: 100101
@@ -362,7 +361,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-8-45
       voiceFullStop: fullvoice/section_102201/vo_full_102201-8-44
     enableSkipAutoTurn: 1
-    textRight: Something might be left there! Hehehe!
+    textRight: Something might be left there! Yep yep!
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json

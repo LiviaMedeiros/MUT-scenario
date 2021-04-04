@@ -621,13 +621,13 @@ story:
       motion: 0
       pos: 2
     nameLeft: Sana
-    textLeft: Um, who told you about this?
+    textLeft: Um, so you heard that you could obtain a@Purification System if you
+      retrieved strong magic...
   - chara:
     - id: 100401
       voiceFull: fullvoice/section_102202/vo_full_102202-19-59
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-58
-    textLeft: That you could obtain the Automatic Purification@System if you retrieved
-      strong magic...?
+    textLeft: Who was it that told you that...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -636,7 +636,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-19-60
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-59
     nameRight: Chiharu
-    textRight: From Lord Kyūbē, you know?
+    textRight: It was Lord Kyūbē, you know?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

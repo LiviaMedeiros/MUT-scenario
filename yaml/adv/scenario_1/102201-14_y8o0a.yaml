@@ -102,8 +102,8 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-14-11
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-10
-    textLeft: These are terrible injuries... Those must have@been some quite powerful
-      opponents...
+    textLeft: These are terrible injuries... Those must have@been some quite formidable
+      foes...
   - chara:
     - id: 101700
       voiceFull: fullvoice/section_102201/vo_full_102201-14-12

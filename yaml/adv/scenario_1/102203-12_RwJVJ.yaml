@@ -30,7 +30,7 @@ story:
       id: 102500
       voiceFull: fullvoice/section_102203/vo_full_102203-12-2
       voiceFullStop: fullvoice/section_102203/vo_full_102203-12-1
-    textLeft: Really, we're all fellow Magical Girls. Together@we're blades that protect
+    textLeft: Really, we're all Magical Girls. Together we're@blades that protect
       the Land of the Rising Sun...
   - chara:
     - cheek: 0
@@ -49,7 +49,8 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-12-4
       voiceFullStop: fullvoice/section_102203/vo_full_102203-12-3
     nameRight: Chiharu
-    textRight: Yeah, I feel a little bit, but it doesn't feel like@bad people...
+    textRight: Yeah, I feel a little bit, but it doesn't feel the@same as a villain
+      would...
   - chara:
     - id: 102600
       voiceFull: fullvoice/section_102203/vo_full_102203-12-5

@@ -402,14 +402,14 @@ story:
       id: 102101
       voiceFull: fullvoice/section_102202/vo_full_102202-10-49
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-48
-    textLeft: A powerhouse...or the brains...
+    textLeft: A powerhouse...or the brains of the operation...
   - chara:
     - eyeClose: 0
       id: 102101
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-10-50
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-49
-    textLeft: Well, going from the location, it's probably@the latter.
+    textLeft: Well, judging by the location, it's probably@the latter.
   - chara:
     - cheek: 0
       eyeClose: 0

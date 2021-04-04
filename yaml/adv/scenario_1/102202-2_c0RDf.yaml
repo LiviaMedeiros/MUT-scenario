@@ -29,7 +29,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-2-2
       voiceFullStop: fullvoice/section_102202/vo_full_102202-2-1
     nameRight: Hikaru
-    textRight: We've tried various things to convince her,@but no luck so far...
+    textRight: We've tried various means to convince her,@but no luck so far...
   - chara:
     - id: 102101
       motion: 300
@@ -102,7 +102,7 @@ story:
     - id: 102401
       voiceFull: fullvoice/section_102202/vo_full_102202-2-11
       voiceFullStop: fullvoice/section_102202/vo_full_102202-2-10
-    textLeft: I can't even tell apart the Kamihama Magical Girls,@ya know.
+    textLeft: I can't even tell apart the Kamihama Magical Girls@yet, ya know.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -192,7 +192,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Yuna
-    textRight: That said, Second Sister, do NOT take things@too far.
+    textRight: That said, Second Sister, make certain@you don't take things too far.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

@@ -117,7 +117,7 @@ story:
     textCenter: Everyone, get ready!
   - chara:
     - id: 102400
-    textCenter: It's finally time to rid Futatsugi of@the Torayacho gang!
+    textCenter: It's finally time to rid Futatsugi of@the Torayamachi gang!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

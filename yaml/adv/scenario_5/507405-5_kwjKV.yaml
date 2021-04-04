@@ -89,7 +89,8 @@ story:
     - id: 102102
       motion: 400
     narration: Also, keep away from Oogibashi, Monzenbashi, and @West Oogibashi. Those
-      bridges connect Torayacho and @Ryuugasaki territory, so they're extremely dangerous.
+      bridges connect Torayamachi and @Ryuugasaki territory, so they're extremely
+      dangerous.
   - autoTurnLast: 0.01
     bg: bg_adv_21025.jpg
     chara:
@@ -299,7 +300,7 @@ story:
   - bgm: stop
     chara:
     - id: 770080
-    textRight: '... From Ryuugasahi.'
+    textRight: '... From Ryuugasaki.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -491,7 +492,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Yuna
-    textLeft: Alright, Hikaru. Welcome to Torayacho.
+    textLeft: Alright, Hikaru. Welcome to Torayamachi.
   - chara:
     - id: 102102
     textLeft: Now let's get down to business. You'll be helping us @as well.
@@ -517,8 +518,8 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - nameNarration: Yuna
-    narration: There are three bridges between Torayacho and Ryuugasaki territory.
-      @West Oogibashi, East Oogibashi, and Monzenbashi.
+    narration: There are three bridges between Torayamachi and Ryuugasaki @territory.
+      West Oogibashi, East Oogibashi, and Monzenbashi.
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in

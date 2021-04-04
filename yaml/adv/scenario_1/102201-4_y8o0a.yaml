@@ -200,8 +200,8 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-4-19
       voiceFullStop: fullvoice/section_102201/vo_full_102201-4-18
-    textLeft: It's the start of the Dragon Fair after all, where@you'll be choked
-      by just breathing in the store!
+    textLeft: It's the start of the Dragon Fair after all, where@you'll choke just
+      from breathing the store's air!
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
@@ -210,7 +210,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-4-20
       voiceFullStop: fullvoice/section_102201/vo_full_102201-4-19
     textRight: '[chara:100501:effect_emotion_joy_0][se:7222_happy]It''s a welcome
-      with flaming hot Chinese food!'
+      of flaming hot Chinese food!'
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -416,7 +416,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-4-40
       voiceFullStop: fullvoice/section_102201/vo_full_102201-4-39
     nameRight: Ryo
-    textRight: Going shopping, hand-in-hand against the sunset,@it's a nice picture.
+    textRight: Going shopping, hand-in-hand against the sunset.@That's a nice picture.
   - nameNarration: ""
     narration: '[flashEffect:flashWhite1][surround:7023_camera]*Click-click*'
     narrationEffect: in
@@ -425,7 +425,7 @@ story:
     - id: 304601
       voiceFull: fullvoice/section_102201/vo_full_102201-4-42
     narrationEffect: out
-    textRight: I'll send it to you later.
+    textRight: Maybe I'll send it to them later.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -451,7 +451,7 @@ story:
       id: 304601
       voiceFull: fullvoice/section_102201/vo_full_102201-4-46
       voiceFullStop: fullvoice/section_102201/vo_full_102201-4-45
-    textRight: I'd say so, apparently she's been staying late@pretty often these days.
+    textRight: I'd say so. Apparently she's been staying late@pretty often these days.
   - chara:
     - id: 300301
       motion: 0
@@ -548,7 +548,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-4-56
       voiceFullStop: fullvoice/section_102201/vo_full_102201-4-55
-    textRight: This magic...who is it?
+    textRight: This magic...whose is it?
   - autoTurnLast: 3
     chara:
     - cheek: 0
@@ -609,7 +609,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Ryo
-    textRight: Moreover, they're not alone.@Maybe they're Magical Girls from afar?
+    textRight: Moreover, they're not alone.@Maybe they're Magical Girls from elsewhere?
   - chara:
     - id: 300301
       motion: 400

@@ -446,7 +446,7 @@ story:
     - 1
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: To "accept" Torayachou's directions, or to "ignore" them?@By accepting
+    narration: To "accept" Torayamachi's directions, or to "ignore" them?@By accepting
       them, the gears went awry...
     narrationBg: black
     narrationEffect: in

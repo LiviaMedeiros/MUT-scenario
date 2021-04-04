@@ -21,13 +21,13 @@ story:
       pos: 1
     nameCenter: Ao
     narrationEffect: out
-    textCenter: (It doesn't matter if Torayacho knows@this area better or not...)
+    textCenter: (It doesn't matter if Torayamachi knows@this area better or not...)
   - chara:
     - eyeClose: 1
       id: 102300
       lipSynch: 0
       motion: 300
-    textCenter: (This isn't guerilla warefare...it's@just a massacre...)
+    textCenter: (This isn't guerilla warfare...it's@just a massacre...)
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -375,8 +375,8 @@ story:
     turnChangeIn: fadeIn
   - nameNarration: ""
     narration: How do you use the gems that Ryuugasaki@had already found out about?@By
-      "changing" the possition or "leaving them be",@the gears of fate would have
-      moved@in a very different direction.
+      "changing" the position or "leaving them be",@the gears of fate would have moved@in
+      a very different direction.
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut

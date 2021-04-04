@@ -104,7 +104,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 102103
       motion: 0
-    textLeft: Plus, it'd be better to not have Torayacho's Horse @show up at the meeting.
+    textLeft: Plus, it'd be better to not have Torayamachi's Horse @show up at the
+      meeting.
   - chara:
     - eyeClose: 1
       id: 102201
@@ -317,7 +318,7 @@ story:
   - chara:
     - id: 770084
     textRight: But no matter how hard I try, I just can't see myself working with
-      Torayacho.
+      Torayamachi.
   - chara:
     - id: 102102
       lipSynch: 0

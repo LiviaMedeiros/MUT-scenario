@@ -489,57 +489,54 @@ story:
     narrationHAlignment: left
     narrationPosX: 150
     turnChangeOut: fadeOut
-  - progressNarration: '[textBlack:The twilight is a disquieting omen @of brooding
-      curses.]@[textBlack:"Witches" lord over the town,]@[textBlack:dragging people
-      into the darkness.]'
+  - progressNarration: '[textBlack:Nightfall is the harbinger of unfolding curses,]@[textBlack:as
+      "Witches" tread the town underfoot]@[textBlack:and drag people into the Dark.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-45
-  - progressNarration: '[textBlack:What do you think saves them from this?]'
+  - progressNarration: '[textBlack:And who do you think saves them?]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-46
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-45
-  - progressNarration: '[textBlack:Light is hope, hope is a wish.]@[textBlack:Girls
-      utter a wish @to a mysterious white creature,]@[textBlack:powerful hope becomes
-      a light,]@[textBlack:and the power to illuminate the darkness @resides within
-      the girls.]'
+  - progressNarration: '[textBlack:Where there is Light, there is hope.@Where there
+      is hope, there are Wishes.]@[textBlack:When a girl utters her Wish@to a strange,
+      white creature,]@[textBlack:her strong hope becomes Light,]@[textBlack:imbuing
+      her with the power@to illuminate the Dark.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-47
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-46
-  - progressNarration: '[textBlack:That''s how "Magical Girls" are born.]'
+  - progressNarration: '[textBlack:And that is how "Magical Girls" are born.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-48
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-47
-  - progressNarration: '[textBlack:However, darkness envelops the light.]'
+  - progressNarration: '[textBlack:However, the Dark enshrouds that Light.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-49
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-48
-  - progressNarration: '[textBlack:That darkness is despair,@the other side of light''s
-      hope.]@[textBlack:The journey that "Magical Girls" embark on @is destined to
-      end in despair,@and while they do battle with "Witches"]@[textBlack:they are
-      gradually tainted by that despair.]'
+  - progressNarration: '[textBlack:Where there is Dark, there is despair:@the reverse
+      of Light''s hope.]@[textBlack:"Magical Girls" ride a depair-bound train,]@[textBlack:that
+      despair tinging them a little bit more]@[textBlack:with each "Witch" they fight.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-50
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-49
-  - progressNarration: '[textBlack:In being tainted by despair,@they descend into
-      darkness...]'
+  - progressNarration: '[textBlack:To be despair-tinged is to fall into the Dark...]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-51
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-50
-  - progressNarration: '[textBlack:The shining jewel of life@is dyed pitch black,]@[textBlack:
-      and "Magical Girls" turn into "Witches".]'
+  - progressNarration: '[textBlack:The "Jewel" that once shone with life@is dyed pitch-black,]@[textBlack:and
+      the "Magical Girl" transforms@into a "Witch".]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-52
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-51
-  - progressNarration: '[textBlack:Round and round and round and round, @their fortunes
-      take a turn for the worse.]@[textBlack:For a hundred years, for a thousand.]@[textBlack:A
-      repetition of countless sacrifices.]'
+  - progressNarration: '[textBlack:Round and round and round@goes the vicious cycle:]@[textBlack:for
+      hundreds if not thousands of years,]@[textBlack:the litany of sacrifices has
+      grown.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-53
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-52
-  - progressNarration: '[textBlack:It''s painful...tragic...shameful...]@[textBlack:I''m
-      ashamed of the me@who didn''t know death.]'
+  - progressNarration: '[textBlack:Unbearable...sorrowful...shameful...]@[textBlack:So
+      shameful I was, knowing nothing of death.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-54
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-53
-  - progressNarration: '[textBlack:That''s why I record...]'
+  - progressNarration: '[textBlack:Hence this pen and paper...]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-55
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-54
-  - progressNarration: '[textBlack:One word, two words,@even if it''s just little
-      by little.]@[textBlack:Fighting against destiny,@for the sake of our light...]'
+  - progressNarration: '[textBlack:One letter.  Two letters.@ Let it be one stroke
+      at a time,]@[textBlack:if by them I fight my fate,@and brighten our Light...]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-56
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-55
-  - progressNarration: '[textBlack:Because, as those of us who know@grow one by one,]@[textBlack:we
-      become better able to act as a light @for the Magical Girls.]'
+  - progressNarration: '[textBlack:With each of us who learns the truth,]@[textBlack:the
+      Light of the Magical Girls@shines all the brighter.]'
     voiceFull: fullvoice/section_102101/vo_full_102101-8-57
     voiceFullStop: fullvoice/section_102101/vo_full_102101-8-56
   - autoTurnLast: 1
@@ -570,7 +567,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102101/vo_full_102101-8-59
       voiceFullStop: fullvoice/section_102101/vo_full_102101-8-58
-    textCenter: '...Aru, do you think I''m doing a proper job @writing this down...?'
+    textCenter: '...Aru, do you think I''m doing a proper job@writing this down...?'
   - chara:
     - id: 102001
       lipSynch: 0

@@ -134,7 +134,7 @@ story:
     - id: 102400
       motion: 200
       tear: 1
-    textRight: You were using Hebinomiya from the start...in@order to make this mess
+    textRight: You were using Janomiya from the start...in@order to make this mess
       happen, weren't you...!?
   - chara:
     - cheek: 0
@@ -215,7 +215,7 @@ story:
     textRight: '............'
   - chara:
     - id: 102102
-    textLeft: Torayacho will always have a door open@for you.
+    textLeft: Torayamachi will always have a door open@for you.
   - chara:
     - eyeClose: 0
       id: 102400
@@ -291,7 +291,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Hikaru
-    textRight: Yuna, we should carry these Hebinomiya@girls somewhere else...
+    textRight: Yuna, we should carry these Janomiya@girls somewhere else...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json

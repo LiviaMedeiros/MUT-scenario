@@ -108,7 +108,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 304400
       motion: 200
-    textRight: I'm asking you what you're planning to do in @Torayacho.
+    textRight: I'm asking you what you're planning to do in @Torayamachi.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -155,7 +155,7 @@ story:
   - chara:
     - id: 102400
       motion: 300
-    textLeft: Now that she has Torayacho and Hebinomiya both.
+    textLeft: Now that she has Torayamachi and Janomiya both.
   - chara:
     - id: 102400
     textLeft: Her flunkies will take me out before I even get close @to her.
@@ -197,8 +197,8 @@ story:
   - chara:
     - id: 304400
       motion: 300
-    textRight: We were right about Torayacho trying to get the @other Ryuugasaki girls
-      to join them.
+    textRight: We were right about Torayamachi trying to get the @other Ryuugasaki
+      girls to join them.
   - chara:
     - id: 304400
       motion: 1

@@ -33,7 +33,8 @@ story:
       lipSynch: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-1-3
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-2
-    textCenter: (And the power to not become Witches,@the Automatic Purification System...)
+    textCenter: (And the power to avoid becoming a Witch,@the Automatic Purification
+      System...)
   - chara:
     - eyeClose: 0
       id: 102001
@@ -41,7 +42,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-1-4
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-3
-    textCenter: (I couldn't do anything for a long time, but thanks@to that girl I've
+    textCenter: (I couldn't do anything for a long time, but thanks@to this one I've
       found a way to move forward...)
   - autoTurnLast: 0.01
     bg: black
@@ -58,32 +59,34 @@ story:
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 150
-    progressNarration: '[textBlack:She whispers in my ear.]@[textBlack:The words of
-      Kamihama''s Magical Girls.]'
+    progressNarration: '[textBlack:She whispers into my ear]@[textBlack:the words
+      of Kamihama''s Magical Girls.]'
     turnChangeOut: fadeOut
     voiceFull: fullvoice/section_102201/vo_full_102201-1-5
-  - progressNarration: '[textBlack:Each one a small word.]@[textBlack:Casual conversations.]'
+  - progressNarration: '[textBlack:Small words, individually.]@[textBlack:Inconsequential
+      chat.]'
     voiceFull: fullvoice/section_102201/vo_full_102201-1-6
     voiceFullStop: fullvoice/section_102201/vo_full_102201-1-5
-  - progressNarration: '[textBlack:But when connected by a thin thread,]@[textBlack:the
-      world that Magical Girls reside in]@[textBlack:gradually comes into view.]'
+  - progressNarration: '[textBlack:Those thin threads, when spun together,]@[textBlack:begin
+      to form a tapestry]@[textBlack:of the world these Magical Girls inhabit.]'
     voiceFull: fullvoice/section_102201/vo_full_102201-1-7
     voiceFullStop: fullvoice/section_102201/vo_full_102201-1-6
-  - progressNarration: '[textBlack:Darkness engulfs the light,@the "Magical Girls".]'
+  - progressNarration: '[textBlack:"Magical Girls"@That Light of hope enshrouded by
+      the Dark.]'
     voiceFull: fullvoice/section_102201/vo_full_102201-1-8
     voiceFullStop: fullvoice/section_102201/vo_full_102201-1-7
-  - progressNarration: '[textBlack:Kamihama is a special place to all of them.]@[textBlack:It''s
-      a strange place, permeated by@the power to remain untainted by darkness,]@[textBlack:to
-      never turn into a Witch.]'
+  - progressNarration: '[textBlack:To them, Kamihama is a special place,]@[textBlack:overflowing
+      with power untainted by the Dark,]@[textBlack:where, miraculously,@they will
+      never become Witches.]'
     voiceFull: fullvoice/section_102201/vo_full_102201-1-9
     voiceFullStop: fullvoice/section_102201/vo_full_102201-1-8
-  - progressNarration: '[textBlack:Is that a utopia?]@[textBlack:An eden for Magical
+  - progressNarration: '[textBlack:Is it a Utopia?]@[textBlack:An Eden for Magical
       Girls?]'
     voiceFull: fullvoice/section_102201/vo_full_102201-1-10
     voiceFullStop: fullvoice/section_102201/vo_full_102201-1-9
-  - progressNarration: '[textBlack:They join hands and form a circle,]@[textBlack:enjoying
-      a stable everyday life.]@[textBlack:However, with quiet creaking,]@[textBlack:the
-      sound of cracks spreading can be heard.]'
+  - progressNarration: '[textBlack:Though their hands join in a circle]@[textBlack:that
+      revolves with their daily lives,]@[textBlack:I can make out the creaking sounds]@[textBlack:of
+      cracks beginning to form.]'
     voiceFull: fullvoice/section_102201/vo_full_102201-1-11
     voiceFullStop: fullvoice/section_102201/vo_full_102201-1-10
   - autoTurnLast: 0.01
@@ -158,7 +161,7 @@ story:
       motion: 400
       voiceFull: fullvoice/section_102201/vo_full_102201-1-17
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-16
-    textCenter: If you don't hurry up, you'll be late for school!
+    textCenter: If you don't hurry up, we'll be late for school!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -173,7 +176,7 @@ story:
       pos: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-1-18
     nameCenter: Iroha
-    textCenter: I'm ready to lock up! Yachiyo!
+    textCenter: I'm ready to lock up, Yachiyo!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -429,8 +432,8 @@ story:
       pos: 2
       voiceFull: fullvoice/section_102201/vo_full_102201-1-41
     nameRight: Iroha
-    textRight: '[chara:100101:effect_emotion_surprise_0][se:7226_shock]Eh?!@Uh, there
-      are two!'
+    textRight: '[chara:100101:effect_emotion_surprise_0][se:7226_shock]Eh?!@Uh, it''s
+      two!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -516,8 +519,8 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-1-50
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-49
     nameLeft: Kaede
-    textLeft: Rena, you cried about messing up the day for@the English final exams
-      last year too.
+    textLeft: Rena, you cried about messing up the English@day words for last year's
+      final exam too.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -552,7 +555,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-1-54
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-53
     nameRight: Momoko
-    textRight: Well, I was the one you two came cryin' to...
+    textRight: Well, I was the one you came cryin' to...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -560,7 +563,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-1-55
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-54
-    textRight: Sheesh, can't you at least get along@during lunch break...
+    textRight: Sheesh, can't you at least get along@during lunch break...?
   - chara:
     - id: 101001
       voiceFull: fullvoice/section_102201/vo_full_102201-1-56
@@ -681,7 +684,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-1-68
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-67
     nameRight: Momoko
-    textRight: Was there something weird about that Witch?
+    textRight: Was there anything weird about that Witch?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

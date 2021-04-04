@@ -125,7 +125,7 @@ story:
       motion: 400
       voiceFull: fullvoice/section_102203/vo_full_102203-9-10
       voiceFullStop: fullvoice/section_102203/vo_full_102203-9-9
-    textLeft: I'm sure there are still some enemies left,@get it together everyone.
+    textLeft: I'm sure there are still some enemies left.@Get it together everyone.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -192,7 +192,7 @@ story:
     - id: 770500
       voiceFull: fullvoice/section_102203/vo_full_102203-9-16
       voiceFullStop: fullvoice/section_102203/vo_full_102203-9-15
-    textLeft: How dare you, after we agreed to cooperate.
+    textLeft: How dare you, after we agreed to cooperate!
   - chara:
     - id: 102400
       motion: 200
@@ -344,7 +344,7 @@ story:
       pos: 0
     nameLeft: ""
     nameRight: ""
-    textRight: Eep... What is this... This magical power...
+    textRight: Eep... What is this...?@This magical power...
   - chara:
     - id: 770500
       motion: 300
@@ -421,7 +421,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-9-35
       voiceFullStop: fullvoice/section_102203/vo_full_102203-9-34
-    textLeft: I'll roast you to a crisp!
+    textLeft: I'll roast you well-done!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -474,7 +474,7 @@ story:
       id: 100600
       voiceFull: fullvoice/section_102203/vo_full_102203-9-39
       voiceFullStop: fullvoice/section_102203/vo_full_102203-9-38
-    textRight: I'm surprised, there's even more of them@than I expected...
+    textRight: I'm surprised, there are even more@of them than I expected...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

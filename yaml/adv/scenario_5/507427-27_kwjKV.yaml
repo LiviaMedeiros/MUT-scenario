@@ -27,7 +27,7 @@ story:
     chara:
     - id: 102400
       motion: 100
-    nameCenter: Juri
+    nameCenter: "\uFEFFJuri"
     textCenter: Hey,@Ranka! Ranka!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
@@ -90,7 +90,7 @@ story:
     textRight: Anyway, my team's on its way to the@central bridge.
   - chara:
     - id: 304400
-    textRight: We're taking the east and west bridges@to avoid the Torayacho girls
+    textRight: We're taking the east and west bridges@to avoid the Torayamachi girls
       on the way.
   - chara:
     - cheek: 0
@@ -471,26 +471,27 @@ story:
     - eyeClose: 1
       id: 102102
     nameLeft: Yuna
-    textLeft: This is where the final battle is@going to be fought...
+    textLeft: This is where the final battle is@going to be fought... @The most dangerous
+      point of this entire war.
   - chara:
     - eyeClose: 1
       id: 102102
     nameLeft: Yuna
-    textLeft: The most dangerous point of this entire war.
+    textLeft: The younger girls still have a future ahead of@them...they're not to
+      follow us into battle.
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 0
       id: 102102
       motion: 200
-    textLeft: The younger girls still have a future ahead of@them...they're not to
-      follow us into battle.
-  - chara:
-    - id: 102102
     textLeft: They'll stay behind at the foot of the@bridge.
   - chara:
     - id: 102102
-      motion: 400
     textLeft: But I need you with me, Hikaru.
+  - chara:
+    - id: 102102
+      motion: 400
+    textLeft: Everyone's lives are in my hands...
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn
@@ -515,34 +516,34 @@ story:
     - id: 102102
       motion: 300
     nameLeft: Yuna
-    textLeft: Everyone's lives are in my hands...
+    textLeft: But it wouldn't feel right if I left@them behind in this decisive moment.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json
       id: 102102
-    textLeft: But it wouldn't feel right if I left@them behind in this decisive moment.
+    textLeft: It'd be one of the biggest regrets@of my life.
   - chara:
     - id: 102102
-    textLeft: It'd be one of the biggest regrets@of my life.
+    textLeft: So I'll bring everyone.
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 400
-    textLeft: So I'll bring everyone.
+    textLeft: Are you sure about that?
   - chara:
     - id: 102200
       motion: 200
-    nameRight: Hikaru
-    textRight: Are you sure about that?
+    nameRight: Yuna
+    textRight: We've made it this far together,@so I believe in them.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102102
       motion: 0
-    textLeft: We've made it this far together,@so I believe in them.
+    textLeft: Leave some of the girls behind
   - autoTurnLast: 2
     turnChangeIn: fadeIn
   group_4:
@@ -565,10 +566,10 @@ story:
   - select:
     - alternativeId: 9
       group: group_2
-      textSelect: Leave some of the girls behind
+      textSelect: Bring everyone to the bridge
     - alternativeId: 10
       group: group_3
-      textSelect: Bring everyone to the bridge
+      textSelect: ""
     turnChangeOut: fadeOut
 version: 3
 ...

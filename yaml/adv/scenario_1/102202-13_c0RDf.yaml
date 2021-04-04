@@ -278,7 +278,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102202/vo_full_102202-13-26
       voiceFullStop: fullvoice/section_102202/vo_full_102202-13-25
-    textLeft: How can that be...
+    textLeft: How can that be...?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -375,7 +375,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-13-36
       voiceFullStop: fullvoice/section_102202/vo_full_102202-13-35
     nameLeft: Tsuruno
-    textLeft: They'll probably just go ahead if we call for help...
+    textLeft: They'll probably just go ahead@if we wait to call for help...
   - bgm: stop
     chara:
     - cheek: 0

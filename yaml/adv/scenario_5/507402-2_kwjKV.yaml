@@ -80,7 +80,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 304400
       motion: 0
-    textRight: Ranka Just now.
+    textRight: Just now.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -106,8 +106,8 @@ story:
     textLeft: '[chara:102400:effect_emotion_joy_0][se:7222_happy]Perfect.'
   - chara:
     - id: 102400
-    textLeft: With this stalemate between us and Torayacho @going on, I'll take anything
-      that puts me in a better mood.
+    textLeft: With this stalemate between us and Torayamachi @going on, I'll take
+      anything that puts me in a better mood.
   - chara:
     - id: 304400
       motion: 1
@@ -126,8 +126,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 304400
       motion: 300
-    textRight: Then why don't we go wreck Torayacho? @That'll put you in a great mood
-      for sure.
+    textRight: Then why don't we go wreck Torayamachi? @That'll put you in a great
+      mood for sure.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -202,7 +202,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102400
-    textLeft: Though I'm dead serious about crushing Torayacho.
+    textLeft: Though I'm dead serious about crushing @Torayamachi.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

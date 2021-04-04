@@ -377,13 +377,13 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-18-44
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-43
     nameRight: Nemu
-    textRight: It's a huge crystal of condensed individual emotions.
+    textRight: It's a huge crystal of condensed@individual emotions.
   - chara:
     - id: 101403
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-18-45
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-44
-    textRight: For now, we can call these new enemies "[textYellow:Kimochi]".
+    textRight: For now, we can call these@new enemies "[textYellow:Kimochi]".
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -593,7 +593,7 @@ story:
     - id: 100100
       voiceFull: fullvoice/section_102203/vo_full_102203-18-68
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-67
-    textCenter: And that's how to acquire the Automatic@Purification System.
+    textCenter: And that's how to gain control of the@Automatic Purification System.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

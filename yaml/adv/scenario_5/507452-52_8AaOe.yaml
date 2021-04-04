@@ -83,7 +83,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 1
-    textLeft: I knew this would happen, since everyone's faith was in @my strength.
+    textLeft: I knew this would happen, since everyone's faith was @in my strength.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

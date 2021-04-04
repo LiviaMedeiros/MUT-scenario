@@ -213,12 +213,12 @@ story:
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 0
-    textLeft: They're Hebinomiya...
+    textLeft: They're Janomiya...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102400
-    textRight: Hebinomiya...?
+    textRight: Janomiya...?
   - chara:
     - id: 102102
     textLeft: It's an shadowy gang led by Ao Kasane.
@@ -297,7 +297,7 @@ story:
     turnChangeOut: rollOutFast
   - chara:
     - id: 102200
-    textRight: We have to retreat with the survivors@back to Torayacho!
+    textRight: We have to retreat with the survivors@back to Torayamachi!
   - chara:
     - eyeClose: 1
       id: 102102
@@ -369,7 +369,7 @@ story:
     - id: 102300
       motion: 100
     nameLeft: Ao
-    textLeft: Torayacho and Ryuugasaki...have both@finally fallen~
+    textLeft: Torayamachi and Ryuugasaki...have both@finally fallen~
   - autoTurnLast: 0.01
     bg: black
     bgm: bgm23_promised05
@@ -388,9 +388,9 @@ story:
     - 1
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: The girls lurking in Ryuugasaki and Torayachou,@by "bringing them along"
-      or "leaving them",@the gear that decided the battle@would move in a very different
-      direction.
+    narration: The girls lurking in Ryuugasaki and Torayamachi,@by "bringing them
+      along" or "leaving them",@the gear that decided the battle@would move in a very
+      different direction.
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut

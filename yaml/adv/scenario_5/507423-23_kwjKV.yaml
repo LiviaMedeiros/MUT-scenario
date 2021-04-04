@@ -21,7 +21,7 @@ story:
   - chara:
     - id: 102300
       lipSynch: 0
-    textCenter: (Torayacho should be headed for the central@bridge...)
+    textCenter: (Torayamachi should be headed for the central@bridge...)
   - chara:
     - eyeClose: 1
       id: 102300
@@ -124,7 +124,7 @@ story:
   - chara:
     - id: 102300
       motion: 1
-    textLeft: So, where's Torayacho's sniper team at?
+    textLeft: So, where's Torayamachi's sniper team at?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -174,7 +174,7 @@ story:
   - chara:
     - id: 102300
       motion: 0
-    textLeft: I'm pretty sure that's whar Juri's wanted@from the start~
+    textLeft: I'm pretty sure that's what Juri's wanted@from the start~
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -251,7 +251,7 @@ story:
   - chara:
     - id: 102300
       motion: 200
-    textLeft: We, Hebinomiya, will have a good chance@of winning~
+    textLeft: We, Janomiya, will have a good chance@of winning~
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

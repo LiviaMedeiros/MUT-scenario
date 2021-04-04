@@ -23,7 +23,7 @@ story:
       id: 102301
       lipSynch: 0
       motion: 200
-    textCenter: (It won't be long before Torayacho makes their move, too. I'd better
+    textCenter: (It won't be long before Torayamachi makes their @move, too. I'd better
       let the team know right away.)
   - autoTurnLast: 1
     bg: bg_adv_21031.jpg

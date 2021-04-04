@@ -39,7 +39,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 304400
       motion: 100
-    textRight: Maybe Torayacho is right about witches coming back.
+    textRight: Maybe Torayamachi is right about witches coming @back.
   - chara:
     - id: 102400
       motion: 1
@@ -155,7 +155,8 @@ story:
   - chara:
     - id: 304400
       motion: 300
-    textRight: Torayacho trying to spy on us like that proves they're willing to fight.
+    textRight: Torayamachi trying to spy on us like that proves @they're willing to
+      fight.
   - chara:
     - eyeClose: 1
       id: 304400
@@ -177,7 +178,7 @@ story:
     textLeft: '... Let''s tell the others to get ready.'
   - chara:
     - id: 102400
-    textLeft: We'll strike Torayacho in two days.
+    textLeft: We'll strike Torayamachi in two days.
   - chara:
     - cheek: 0
       eyeClose: 0

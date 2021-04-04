@@ -186,7 +186,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102203/vo_full_102203-2-20
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-19
-    textRight: Looking at the feats of any of the wise men@throughout human history...
+    textRight: If you look at the feats of any of the@wise men throughout human history...
   - chara:
     - id: 101403
       voiceFull: fullvoice/section_102203/vo_full_102203-2-21
@@ -256,7 +256,7 @@ story:
       pos: 0
     nameLeft: ???
     nameRight: ???
-    textRight: Um... We'll get the Automatic Purification System...
+    textRight: Um... We'll take the Automatic Purification System...
   - chara:
     - id: 102900
       voiceFull: fullvoice/section_102203/vo_full_102203-2-28

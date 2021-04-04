@@ -14,7 +14,7 @@ story:
     chara:
     - id: 102300
     nameCenter: Ao
-    textCenter: Ryuugasaki is going to attack Torayacho in two days~
+    textCenter: Ryuugasaki is going to attack Torayamachi in two @days~
     turnChangeOut: fadeOut
   - chara:
     - id: 102300
@@ -42,7 +42,7 @@ story:
     textLeft: Yes~?
   - chara:
     - id: 770186
-    textRight: I heard some of our comrades were killed by @Torayacho and Ryuugasaki...
+    textRight: I heard some of our comrades were killed by @Torayamachi and Ryuugasaki...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -58,7 +58,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Hikaru
-    textLeft: Torayacho didn't kill any of ours.
+    textLeft: Torayamachi didn't kill any of ours.
   - chara:
     - id: 102200
     textLeft: They caught one of us trying to steal a Grief Seed, @but they're just
@@ -229,7 +229,7 @@ story:
     textRight: I only knew Ryuugasaki at first.
   - chara:
     - id: 102201
-    textRight: But working with Torayacho makes me feel like @maybe we should help
+    textRight: But working with Torayamachi makes me feel like @maybe we should help
       Yuna win the war...
   - chara:
     - cheek: 0

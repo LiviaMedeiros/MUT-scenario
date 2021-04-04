@@ -328,7 +328,7 @@ story:
       eyeClose: 0
       face: mtn_ex_001.exp.json
       id: 102500
-    narration: '"The village''s leader traded them@to influential men elseewhere in
+    narration: '"The village''s leader traded them@to influential men from across
       this country@to make their wishes come true."'
     voiceFull: fullvoice/section_102203/vo_full_102203-16-38
     voiceFullStop: fullvoice/section_102203/vo_full_102203-16-37
@@ -373,7 +373,7 @@ story:
     - id: 102500
       voiceFull: fullvoice/section_102203/vo_full_102203-16-42
       voiceFullStop: fullvoice/section_102203/vo_full_102203-16-41
-    textLeft: The problem of becoming Witches still remains,@though.
+    textLeft: The problem of becoming Witches still remains,@however.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

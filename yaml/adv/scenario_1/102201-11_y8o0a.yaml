@@ -156,7 +156,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-11-11
       voiceFullStop: fullvoice/section_102201/vo_full_102201-11-10
     nameLeft: Iroha
-    textLeft: Wow, you've really gotten better at fighting...
+    textLeft: Wow, they're really used to fighting...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

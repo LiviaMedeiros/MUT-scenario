@@ -20,14 +20,14 @@ story:
     - id: 100401
       voiceFull: fullvoice/section_102203/vo_full_102203-1-1
     nameLeft: Sana
-    textLeft: Um, who told you about this?
+    textLeft: Um, so you heard that you could obtain a@Purification System if you
+      retrieved strong magic...
     turnChangeOut: fadeOut
   - chara:
     - id: 100401
       voiceFull: fullvoice/section_102203/vo_full_102203-1-2
       voiceFullStop: fullvoice/section_102203/vo_full_102203-1-1
-    textLeft: That you could obtain the Automatic Purification@System if you retrieved
-      strong magic...?
+    textLeft: Who was it that told you that...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -36,7 +36,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-1-3
       voiceFullStop: fullvoice/section_102203/vo_full_102203-1-2
     nameRight: Chiharu
-    textRight: From Lord Kyūbē, you know?
+    textRight: It was Lord Kyūbē, you know?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -489,35 +489,35 @@ story:
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 150
-    progressNarration: '[textBlack:A big wave swept over Kamihama.]@[textBlack:The
-      tale of the mysterious Magical Girls@and the Bracelets]@[textBlack:will soon
-      spread across the city.]'
+    progressNarration: '[textBlack:The great wave swells@as it strikes Kamihama.]@[textBlack:Tales
+      of the mysterious Magical Girls@and the Bracelets]@[textBlack:soon sweep across
+      the city.]'
     turnChangeOut: fadeOut
     voiceFull: fullvoice/section_102203/vo_full_102203-1-55
-  - progressNarration: '[textBlack:In the midst of it all,]@[textBlack:that one delivers
-      them to my ears.]@[textBlack:Again, just like a light breeze,]@[textBlack:those
-      gentle words reach me.]'
+  - progressNarration: '[textBlack:Amidst it all,]@[textBlack:she brings me their
+      words,]@[textBlack:again like a mild breeze,]@[textBlack:gentle in my ears.]'
     voiceFull: fullvoice/section_102203/vo_full_102203-1-56
     voiceFullStop: fullvoice/section_102203/vo_full_102203-1-55
-  - progressNarration: '[textBlack:The Magical Girls are on the move.]@[textBlack:Again,
-      with a mighty swell,]@[textBlack:they''re moving.]'
+  - progressNarration: '[textBlack:The Magical Girls are moving, she says.]@[textBlack:As
+      another great swell,]@[textBlack:they are moving.]'
     voiceFull: fullvoice/section_102203/vo_full_102203-1-57
     voiceFullStop: fullvoice/section_102203/vo_full_102203-1-56
-  - progressNarration: '[textBlack:Pitter patter pitter,]@[textBlack:my feet are slow,
-      my body is tiny,]@[textBlack:and I''m not athletic at all.]@[textBlack:It''s
-      hard just to reach my destination.]'
+  - progressNarration: '[textBlack:Pitter patter pitter,]@[textBlack:halting are my
+      steps, and small my body,]@[textBlack:quite unsuited to exertion]@[textBlack:as
+      I labor toward my destination.]'
     voiceFull: fullvoice/section_102203/vo_full_102203-1-58
     voiceFullStop: fullvoice/section_102203/vo_full_102203-1-57
-  - progressNarration: '[textBlack:When I finally got there]@[textBlack:that one whispered
-      to me,@"It''s coming."]'
+  - progressNarration: '[textBlack:And, reaching it, I hear that one whisper:]@[textBlack:"Here
+      it comes".]'
     voiceFull: fullvoice/section_102203/vo_full_102203-1-59
     voiceFullStop: fullvoice/section_102203/vo_full_102203-1-58
-  - progressNarration: '[textBlack:I couldn''t sense anything,]@[textBlack:but for
-      a strange moment]@[textBlack:I thought it was an animal.]'
+  - progressNarration: '[textBlack:I sensed nothing,]@[textBlack:wondering in that
+      peculiar instant]@[textBlack:if she meant some sort of beast.]'
     voiceFull: fullvoice/section_102203/vo_full_102203-1-60
     voiceFullStop: fullvoice/section_102203/vo_full_102203-1-59
-  - progressNarration: '[textBlack:Rustle rustle, through the leaves.]@[textBlack:In
-      that deep forest surrounding me,]@[textBlack:something shot straight through.]'
+  - progressNarration: '[textBlack:Then, slithering through the foliage]@[textBlack:of
+      the deep forest spread before me,]@[textBlack:something parted the branches
+      dead ahead.]'
     voiceFull: fullvoice/section_102203/vo_full_102203-1-61
     voiceFullStop: fullvoice/section_102203/vo_full_102203-1-60
   - autoTurnLast: 0.5
@@ -543,7 +543,7 @@ story:
     - id: 102001
       voiceFull: fullvoice/section_102203/vo_full_102203-1-63
       voiceFullStop: fullvoice/section_102203/vo_full_102203-1-62
-    textCenter: Just now, did something just pass me?
+    textCenter: Just now, did something go past me?
   - chara:
     - id: 102001
       lipSynch: 0

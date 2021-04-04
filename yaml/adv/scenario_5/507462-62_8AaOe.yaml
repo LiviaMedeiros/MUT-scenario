@@ -11,7 +11,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - nameNarration: Juri
-    narration: It's been a while since the last battle, and my wounds have been healing,
+    narration: It's been a while since the last battle, @and my wounds have been healing,
       slowly but steadily.
     narrationCoverOpacity: 150
     narrationEffect: in
@@ -19,17 +19,17 @@ story:
   - chara:
     - id: 102400
       motion: 200
-    narration: Even now, I'm always thinking about defeating Yuna. I don't like the
-      idea of Torayacho ruling all of Futatsugi.
-  - narration: If you still haven't decided between Torayacho or Ryugasaki, I have
-      one last thing to tell you, if you'll come to listen.
+    narration: Even now, I'm always thinking about defeating Yuna. @I don't like the
+      idea of Torayamachi ruling all of Futatsugi.
+  - narration: If you still haven't decided between Torayamachi or @Ryugasaki, I have
+      one last thing to tell you, @if you'll come to listen.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102400
       motion: 100
-    narration: I'm not trying to gather you all in one place so I can kill you all.
-      I mean, I still haven't recovered enough to take you all on, so don't worry
+    narration: I'm not trying to gather you all in one @place so I can kill you all.
+      I mean, I still haven't @recovered enough to take you all on, so don't worry
       about that.
   - autoTurnLast: 0.5
     bg: bg_adv_20033.jpg
@@ -55,7 +55,7 @@ story:
   - chara:
     - id: 770084
     nameRight: Ryuugasaki Girl B
-    textRight: I'll bet Torayacho has approached us all.
+    textRight: I'll bet Torayamachi has approached us all.
   - chara:
     - id: 770084
     textRight: What are you guys going to do, though?...
@@ -194,7 +194,7 @@ story:
   - chara:
     - id: 770184
     textCenter: Are you going to tell us to stop being stubborn and @just go join
-      Torayacho?
+      Torayamachi?
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -243,7 +243,7 @@ story:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
-    textLeft: Let's come together as Ryuugasaki again and wreck Torayacho.
+    textLeft: Let's come together as Ryuugasaki again and wreck Torayamachi.
   - bgm: bgm23_promised06
     chara:
     - cheek: 0
@@ -275,7 +275,7 @@ story:
       why you're here now, right?
   - chara:
     - id: 304400
-    textLeft: Torayacho or Ryuugasaki.
+    textLeft: Torayamachi or Ryuugasaki.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -304,7 +304,7 @@ story:
       id: 770184
       motion: 0
       pos: 2
-    textRight: Torayacho's proved that witches have been returning.
+    textRight: Torayamachi's proved that witches have been returning.
   - chara:
     - id: 770184
     textRight: We investigated with them and found out that there @are as many witches

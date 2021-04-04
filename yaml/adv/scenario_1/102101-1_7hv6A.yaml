@@ -73,7 +73,7 @@ story:
       motion: 400
       voiceFull: fullvoice/section_102101/vo_full_102101-1-10
     narrationEffect: out
-    textRight: It's true! @I don't know anything.
+    textRight: It's true!@I don't know anything.
   - chara:
     - id: 7102
       name: sprite_0
@@ -160,7 +160,7 @@ story:
       id: 100100
       voiceFull: fullvoice/section_102101/vo_full_102101-1-18
       voiceFullStop: fullvoice/section_102101/vo_full_102101-1-17
-    textLeft: Wait just a moment, @I'll defeat the Familiar right away!
+    textLeft: Wait just a moment,@I'll defeat the Familiar right away!
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

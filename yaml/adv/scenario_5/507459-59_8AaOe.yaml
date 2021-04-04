@@ -230,7 +230,7 @@ story:
       motion: 100
       pos: 1
     nameCenter: Juri
-    textCenter: Just come and try me. You might get yourself a nice souvenir for Torayacho.
+    textCenter: Just come and try me. You might get yourself a nice souvenir for Torayamachi.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -396,7 +396,7 @@ story:
     textRight: instead of her, you should be worrying about @yourself.
   - chara:
     - id: 102400
-    textRight: You've got to stop letting yourself be taken in by Torayacho's pipe
+    textRight: You've got to stop letting yourself be taken in by Torayamachi's pipe
       dream.
   - chara:
     - cheek: 0
@@ -415,7 +415,7 @@ story:
       us peace.
   - chara:
     - id: 102300
-    textLeft: Everyone in Hebinomiya believes in them!
+    textLeft: Everyone in Janomiya believes in them!
   - chara:
     - id: 102400
       motion: 300

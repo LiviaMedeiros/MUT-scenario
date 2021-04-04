@@ -482,7 +482,7 @@ story:
       motion: 0
       pos: 2
     nameCenter: ""
-    textCenter: If you're gonna fight, come at us like@your lives depend on it.
+    textCenter: If you're gonna fight, better make sure@you're ready to die.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

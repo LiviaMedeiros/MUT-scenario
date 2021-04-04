@@ -76,7 +76,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: ""
-    textLeft: The hammer girl over there is looking like@a wounded animal.
+    textLeft: That hammer girl over there is wounded prey.
   - chara:
     - id: 770100
       voiceFull: fullvoice/section_102201/vo_full_102201-12-8
@@ -97,20 +97,20 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-12-10
       voiceFullStop: fullvoice/section_102201/vo_full_102201-12-9
-    textRight: I was trying to be nice and holding back.
+    textRight: I was going easy on you while I@assessed how things were going.
   - chara:
     - eyeClose: 1
       id: 100300
       voiceFull: fullvoice/section_102201/vo_full_102201-12-11
       voiceFullStop: fullvoice/section_102201/vo_full_102201-12-10
-    textRight: But you've pushed too far and I'm out of patience.
+    textRight: But you've gone too far and I'm out of patience.
   - chara:
     - eyeClose: 0
       id: 100300
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-12-12
       voiceFullStop: fullvoice/section_102201/vo_full_102201-12-11
-    textRight: No matter how many of you come at me!!
+    textRight: It doesn't matter how many of you come at me!!
   - chara:
     - cheek: 1
       face: mtn_ex_021.exp.json
@@ -118,7 +118,7 @@ story:
       motion: 201
       voiceFull: fullvoice/section_102201/vo_full_102201-12-13
       voiceFullStop: fullvoice/section_102201/vo_full_102201-12-12
-    textRight: The flames that shroud me will become@an ultimate wall that no one
+    textRight: The flames that shroud me will become@the mightiest of walls that none
       can pass!!!
   - autoTurnLast: 0.2
     chara:

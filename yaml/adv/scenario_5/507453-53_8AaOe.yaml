@@ -16,7 +16,7 @@ story:
       motion: 300
     nameCenter: Ao
     surround: 7102_townbuzz
-    textCenter: (With Hebinomiya, I couldn't get what I wanted...)
+    textCenter: (With Janomiya, I couldn't get what I wanted...)
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     item:
@@ -57,13 +57,14 @@ story:
   - chara:
     - id: 102301
       lipSynch: 0
-    textCenter: (Now that I'm with Torayacho, I can tell it's a good @gang to be in...)
+    textCenter: (Now that I'm with Torayamachi, I can tell it's a good @gang to be
+      in...)
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 1
       id: 102301
       lipSynch: 0
-    textCenter: (And I can see that Kureha Yuna and Hikaru really @care about Hebinomiya...)
+    textCenter: (And I can see that Yuna Kureha and Hikaru really @care about Janomiya...)
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -101,7 +102,7 @@ story:
     chara:
     - id: 102301
       lipSynch: 1
-    textCenter: Chizu Ranka... the second in command of Monzenbashi...
+    textCenter: Ranka Chizu ... the second in command of Monzenbashi...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -214,7 +215,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102201
       motion: 1
-    textRight: The other Hebinomiya girls are there now, you know? And Yuna's waiting
+    textRight: The other Janomiya girls are there now, you know? @And Yuna's waiting
       for you too!
   - chara:
     - cheek: 0
@@ -299,7 +300,7 @@ story:
     textLeft: When you guys triggered the event where I joined @your party,
   - chara:
     - id: 102301
-    textLeft: I decided I wouldn't betray Torayacho.
+    textLeft: I decided I wouldn't betray Torayamachi.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json

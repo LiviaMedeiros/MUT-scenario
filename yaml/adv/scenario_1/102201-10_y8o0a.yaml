@@ -43,7 +43,7 @@ story:
       motion: 201
       voiceFull: fullvoice/section_102201/vo_full_102201-10-4
       voiceFullStop: fullvoice/section_102201/vo_full_102201-10-3
-    textLeft: Make sure to protect your Soul Gems@with your life!!
+    textLeft: Make sure to protect your Soul Gems,@they're your lives!!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -53,14 +53,14 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-10-5
       voiceFullStop: fullvoice/section_102201/vo_full_102201-10-4
     nameRight: Felicia
-    textRight: What? This bloodlust...
+    textRight: What's with this bloodlust...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100500
       voiceFull: fullvoice/section_102201/vo_full_102201-10-6
       voiceFullStop: fullvoice/section_102201/vo_full_102201-10-5
-    textRight: What did we do to deserve this...
+    textRight: What did we do to deserve this...?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -116,7 +116,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-10-11
       voiceFullStop: fullvoice/section_102201/vo_full_102201-10-10
     nameLeft: ""
-    textLeft: I don't care if she dies.
+    textLeft: I don't care if she lives or dies.
   - chara:
     - id: 770100
       motion: 200

@@ -144,7 +144,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-5-12
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-11
     nameLeft: Tsuruno
-    textLeft: Uh oh, Sana's angry...
+    textLeft: Oh no, Sana's angry...
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -236,7 +236,7 @@ story:
       pos: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-5-20
     nameLeft: Tsuruno
-    textLeft: Uh oh, what timing...!
+    textLeft: Oh no, what timing...!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -245,7 +245,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-5-21
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-20
     nameRight: Yachiyo
-    textRight: Please open the window...The room is going@to turn into chili peppers...
+    textRight: Please open the window... The room is going@to turn into chili peppers...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -569,7 +569,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-5-62
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-61
-    textRight: I think it'll be alright, but don't cause them trouble,@okay?
+    textRight: I think it'll be alright, but don't@cause them trouble, okay?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

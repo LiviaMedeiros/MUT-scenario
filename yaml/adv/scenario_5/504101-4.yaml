@@ -215,7 +215,7 @@ story:
       id: 101301
       motion: 100
     nameRight: Asuka
-    textRight: Those witches really are appearing throughout everywhere in Kamihama!
+    textRight: Those witches really are appearing everywhere throughout Kamihama!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

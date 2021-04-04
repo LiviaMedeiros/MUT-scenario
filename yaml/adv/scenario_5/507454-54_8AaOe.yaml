@@ -72,7 +72,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102102
       motion: 100
-    textLeft: I think for now, we should let her do what she wants, so she can sort
+    textLeft: I think for now, we should let her do what she wants, @so she can sort
       her feelings out.
   - chara:
     - id: 102200
@@ -174,7 +174,7 @@ story:
   - chara:
     - id: 102102
       motion: 0
-    textLeft: You should head to the Hebinomiya base.
+    textLeft: You should head to the Janomiya base.
   - chara:
     - id: 102102
     textLeft: None of them are here today, so they're probably @over there.
@@ -208,8 +208,8 @@ story:
   - bgm: bgm23_promised04
     chara:
     - id: 770186
-    nameRight: Hebinomiya Girl
-    textRight: Are we really not going to do anything as Hebinomiya anymore?
+    nameRight: Janomiya Girl
+    textRight: Are we really not going to do anything as Janomiya anymore?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -223,7 +223,7 @@ story:
       id: 770087
       motion: 0
       pos: 2
-    textRight: We've been talking about you because you never @show up at Toryacho's
+    textRight: We've been talking about you because you never @show up at Torayamachi's
       base.
   - chara:
     - id: 770087
@@ -239,16 +239,16 @@ story:
     textLeft: We lost and got a Game Over~
   - chara:
     - id: 102300
-    textLeft: And I don't think anyone wants to rise up against Torayacho again and
-      get themselves killed.
+    textLeft: And I don't think anyone wants to rise up against Torayamachi again
+      and get themselves killed.
   - chara:
     - id: 102300
       motion: 1
     textLeft: The power balance has finally collapsed, @you know?
   - chara:
     - id: 102300
-    textLeft: If Torayacho and Ryuugasaki are going to talk things out, I think we
-      should wait and see what happens~
+    textLeft: If Torayamachi and Ryuugasaki are going to talk @things out, I think
+      we should wait and see what @happens~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -266,7 +266,7 @@ story:
     textLeft: You're imagining things.
   - chara:
     - id: 102300
-    textLeft: Even if it doesn't seem like it, I believe in Torayacho @and Hikaru
+    textLeft: Even if it doesn't seem like it, I believe in @Torayamachi and Hikaru
       for now~
   - chara:
     - cheek: 0
@@ -291,7 +291,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102300
-    textLeft: That's the one thing I have to settle before I can join Torayacho.
+    textLeft: That's the one thing I have to settle before I can join Torayamachi.
   - chara:
     - eyeClose: 1
       id: 102300
@@ -318,7 +318,7 @@ story:
   - chara:
     - id: 102300
       motion: 1
-    textLeft: I'm sure we'll be fine with Torayacho. @They've inherited our goals
+    textLeft: I'm sure we'll be fine with Torayamachi. @They've inherited our goals
       now.
   - chara:
     - id: 102300
@@ -355,14 +355,14 @@ story:
       face: mtn_ex_030.exp.json
       id: 102200
       motion: 300
-    textRight: I feel a little left out that you didn't invite me for this Hebinomiya
+    textRight: I feel a little left out that you didn't invite me for this Janomiya
       meeting...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102300
       motion: 400
-    textLeft: Very funny. You've been with Torayacho all along~
+    textLeft: Very funny. You've been with Torayamachi all along~
   - chara:
     - id: 102200
       motion: 0

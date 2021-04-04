@@ -41,7 +41,7 @@ story:
     - id: 770400
       voiceFull: fullvoice/section_102203/vo_full_102203-3-3
       voiceFullStop: fullvoice/section_102203/vo_full_102203-3-2
-    textRight: And there's other Feathers waiting,@so they'll let us know when we
+    textRight: And there are other Feathers waiting,@so they'll let us know when we
       get close.
   - chara:
     - cheek: 0
@@ -74,7 +74,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-3-8
       voiceFullStop: fullvoice/section_102203/vo_full_102203-3-7
-    textLeft: We'll have to work hard on our end to acquire@this as well.
+    textLeft: We'll have to work hard on our end to acquire@this energy as well.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

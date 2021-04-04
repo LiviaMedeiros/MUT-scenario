@@ -144,7 +144,7 @@ story:
     - id: 102400
       voiceFull: fullvoice/section_102203/vo_full_102203-19-17
       voiceFullStop: fullvoice/section_102203/vo_full_102203-19-16
-    textLeft: If she's related to the Magius,@we can't just leave her alone.
+    textLeft: If she's related to the Magius,@we can't just let her go.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -158,7 +158,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-19-19
       voiceFullStop: fullvoice/section_102203/vo_full_102203-19-18
-    textLeft: That's what I'm waiting to hear.
+    textLeft: That's what I'm gonna find out.
   - chara:
     - cheek: 0
       face: mtn_ex_052.exp.json
@@ -168,7 +168,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-19-20
       voiceFullStop: fullvoice/section_102203/vo_full_102203-19-19
     nameRight: Karin
-    textRight: Uh-oh...
+    textRight: '*Gasp*...'
   - chara:
     - id: 102400
       motion: 200

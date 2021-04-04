@@ -69,7 +69,7 @@ story:
       motion: 400
       voiceFull: fullvoice/section_102202/vo_full_102202-9-8
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-7
-    textLeft: I attached it in an email.
+    textLeft: I sent it to you in an email.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -99,7 +99,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-9-12
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-11
-    textLeft: The security was quite lax,@so it was easy for me to find.
+    textLeft: The school's security was quite lax,@so it was easy for me to find.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -180,7 +180,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-9-21
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-20
-    textRight: That kind of enforced uniformity feels like it@belongs in the military.
+    textRight: That kind of enforced uniformity is@a policy that belongs in the military.
   - chara:
     - eyeClose: 1
       id: 100701
@@ -212,7 +212,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-9-25
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-24
-    textRight: So, did you bring the Bracelet?
+    textRight: So, I take it you brought the Bracelet with you?
   - bgm: bgm03_story06
     chara:
     - id: 100701
@@ -390,7 +390,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-9-43
     nameLeft: Yachiyo
-    textLeft: So that lets her compare magic against the@patterns she knows.
+    textLeft: So that lets you compare magic against the@patterns you know.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -653,7 +653,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-9-69
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-68
-    textRight: The four of us gathering is all she wants,@that part of the [textBlue:Rumor]
+    textRight: The four of us gathering is all she wants.@That part of the [textBlue:Rumor]
       won't change.
   - chara:
     - id: 101403

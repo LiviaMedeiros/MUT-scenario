@@ -20,7 +20,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-5-2
     nameCenter: Ikumi
     narrationEffect: out
-    textCenter: '''Scuse meee!'
+    textCenter: '''Scuse meeee!'
   - autoTurnLast: 0.2
     chara:
     - id: 305301
@@ -75,7 +75,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-5-6
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-5
     enableSkipAutoTurn: 0
-    textRight: '[flashEffect:explosion]Here it goes, my Love Beam!'
+    textRight: '[flashEffect:explosion]Here it goes, my Love Beeeam!'
   - chara:
     - cheek: 0
       effect: shake
@@ -84,7 +84,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-5-7
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-6
-    textLeft: Right....
+    textLeft: Mn...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -92,8 +92,8 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-5-8
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-7
-    textRight: '[chara:305301:effect_emotion_sad_0][se:7224_fall_into]Aw, no way,
-      my love didn''t reach you...'
+    textRight: '[chara:305301:effect_emotion_sad_0][se:7224_fall_into]Aww, no waay,
+      my love didn''t reach you at all...'
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -112,7 +112,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-5-11
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-10
-    textRight: But, you should go home too.@The sun's gonna set soon.
+    textRight: But Karin, you should go home too.@The sun's gonna set soon.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -259,7 +259,7 @@ story:
       id: 305301
       voiceFull: fullvoice/section_102201/vo_full_102201-5-32
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-31
-    textRight: Willing to sacrifice the city and the Wings@in order to finish raising
+    textRight: Willing to sacrifice the city and the Feathers@in order to finish raising
       a Witch...
   - chara:
     - cheek: 0
@@ -341,7 +341,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-5-43
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-42
     textRight: '[chara:305301:effect_emotion_joy_0][se:7222_happy]Kumi''s super heart
-      SPARKLE will make@you feel better~!'
+      SPARKLE will make@you feel aaall better!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

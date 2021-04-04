@@ -60,8 +60,8 @@ story:
     - id: 101403
       voiceFull: fullvoice/section_102201/vo_full_102201-2-4
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-3
-    textLeft: It's a problem that can only be explained by@destiny, stepping into
-      God's territory.
+    textLeft: It's a problem that can only be explained by@fate, which is beyond mortal
+      understanding.
   - chara:
     - id: 100601
       motion: 100
@@ -80,13 +80,13 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-2-6
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-5
     nameLeft: Touka
-    textLeft: I was doing stats!
+    textLeft: I was running the numbers!
   - chara:
     - id: 100701
       voiceFull: fullvoice/section_102201/vo_full_102201-2-7
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-6
-    textLeft: On the number of Grief Seeds necessary@to maintain magical power for
-      Magical Girls.
+    textLeft: Consider the number of Grief Seeds necessary@for a Magical Girl to maintain
+      magical power.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -94,7 +94,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-2-8
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-7
-    textLeft: Put your braincells to good use and think@about it, Mifuyu!
+    textLeft: Come on, Mifuyu, put those brain cells to@good use!
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -108,12 +108,12 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-2-10
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-9
-    textRight: S-so, that means, uhm....?@If you're so troubled by this, then...
+    textRight: S-so, that means, uhm...?@If you're so troubled by this, then...
   - chara:
     - id: 100601
       voiceFull: fullvoice/section_102201/vo_full_102201-2-11
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-10
-    textRight: You can't figure out exactly how many@Grief Seeds you need, right?
+    textRight: You can't figure out exactly how many@Grief Seeds are needed, right?
   - chara:
     - id: 100601
       voiceFull: fullvoice/section_102201/vo_full_102201-2-12
@@ -211,8 +211,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-2-24
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-23
-    textRight: It sounds good to talk about expanding@the Automatic Purification System,
-      but...
+    textRight: Expanding the Automatic Purification@System would be wonderful, but...
   - chara:
     - id: 100601
       voiceFull: fullvoice/section_102201/vo_full_102201-2-25
@@ -242,7 +241,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-2-28
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-27
-    textRight: We don't even know where in Kamihama it is,@after all...
+    textRight: We don't even know where in Kamihama it's@based, after all...
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -274,7 +273,7 @@ story:
     - id: 100701
       voiceFull: fullvoice/section_102201/vo_full_102201-2-32
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-31
-    textLeft: There's no choice, we'll just have to use@Magical Girls or Witches—
+    textLeft: There's no choice, we'll just have to use@Magical Girls or Witches.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -293,7 +292,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-2-35
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-34
-    textLeft: Come on, I can't think of any other way!
+    textLeft: But I can't think of any other way!
   - bgm: stop
     chara:
     - cheek: 0
@@ -321,7 +320,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-2-38
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-37
-    textRight: '| There is a gathering of the Kamihama@Magia Union today. |'
+    textRight: '| Yes, there''s a gathering of the@Kamihama Magia Union today. |'
   - chara:
     - id: 304301
       voiceFull: fullvoice/section_102201/vo_full_102201-2-39
@@ -380,7 +379,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-2-45
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-44
     nameLeft: Nemu
-    textLeft: I too have already relayed the things that I@needed to report, so you
+    textLeft: I've also already relayed the things that we@need to report, so you
       don't need to worry.
   - chara:
     - id: 101403
@@ -404,7 +403,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-2-48
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-47
-    textRight: '| But, you four together... |'
+    textRight: '| But, you four should be together... |'
   - autoTurnLast: 1
     chara:
     - effect: fadeout

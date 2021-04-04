@@ -150,7 +150,7 @@ story:
   - bgm: bgm23_promised02
     chara:
     - id: 800300
-    nameLeft: Hebinomiya Girl
+    nameLeft: Janomiya Girl
     textLeft: I found more witches than I expected during my investigation, too.
     turnChangeOut: fadeOut
   - chara:
@@ -231,7 +231,7 @@ story:
       id: 800300
       motion: 0
       pos: 2
-    nameRight: Hebinomiya Girl
+    nameRight: Janomiya Girl
     textRight: But I'd still say it's a good start, if witches really are coming back.
   - chara:
     - id: 102103

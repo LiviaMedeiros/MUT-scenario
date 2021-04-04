@@ -21,7 +21,7 @@ story:
       motion: 301
       voiceFull: fullvoice/section_102101/vo_full_102101-2-1
     nameLeft: Iroha
-    textLeft: Whew... @I managed to defeat it...
+    textLeft: Whew...@I managed to defeat it...
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
@@ -55,7 +55,7 @@ story:
     - id: 102001
       voiceFull: fullvoice/section_102101/vo_full_102101-2-4
       voiceFullStop: fullvoice/section_102101/vo_full_102101-2-3
-    textCenter: The likes of Witches and Familiars are dangerous @beings that hurt
+    textCenter: The likes of Witches and Familiars are dangerous@beings that hurt
       people.
   - chara:
     - eyeClose: 1
@@ -91,7 +91,7 @@ story:
     - id: 102001
       voiceFull: fullvoice/section_102101/vo_full_102101-2-9
     narrationEffect: out
-    textCenter: They're fighting for everyone else's sake, @but no one even knows...
+    textCenter: They're fighting for everyone else's sake,@but no one even knows...
     voiceFullStop: fullvoice/section_102101/vo_full_102101-2-8
   - nameNarration: ""
     narration: '"Indeed...@No one knows about the Magical Girls heading@to their deaths."'
@@ -210,7 +210,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102101/vo_full_102101-2-25
       voiceFullStop: fullvoice/section_102101/vo_full_102101-2-24
-    textLeft: Before I make a contract with you, @I have a promise to fulfill...
+    textLeft: Before I make a contract with you,@I have a promise to fulfill...
   - chara:
     - id: 102001
       voiceFull: fullvoice/section_102101/vo_full_102101-2-26

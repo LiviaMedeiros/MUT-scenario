@@ -329,7 +329,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-17-35
       voiceFullStop: fullvoice/section_102203/vo_full_102203-17-34
-    textRight: As long as we can get it,@other Magical Girls will follow.
+    textRight: As long as we control it,@other Magical Girls will follow.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

@@ -36,7 +36,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770184
-    textLeft: Where the hell are the rest of Torayacho@hiding!?
+    textLeft: Where the hell are the rest of Torayamachi@hiding!?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -110,8 +110,8 @@ story:
       motion: 400
       pos: 2
     nameRight: Ao
-    textRight: Ranka, what in the world is happening...?@Torayacho doesn't have this
-      many members...
+    textRight: Ranka, what in the world is happening...?@Torayamachi doesn't have
+      this many members...
   - chara:
     - id: 304400
       motion: 1
@@ -210,7 +210,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 0
-    textRight: The thing is, Torayacho is about to@surround Juri.
+    textRight: The thing is, Torayamachi is about to@surround Juri.
   - chara:
     - id: 102200
     textRight: They'll get you too if you show up@here without a good plan.

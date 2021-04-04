@@ -46,7 +46,7 @@ story:
       id: 102001
       voiceFull: fullvoice/section_102202/vo_full_102202-1-5
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-4
-    textCenter: Even the voice of this little one@here with me...
+    textCenter: Even the voice of this one@here with me...
   - autoTurnLast: 0.5
     bg: black
     item:
@@ -63,28 +63,28 @@ story:
     narrationHAlignment: left
     narrationPosX: 150
     progressNarration: '[textBlack:Shining girls with sparkling silver rings.]@[textBlack:Their
-      words, once again,]@[textBlack:reach my waiting ears.]'
+      words again reach my ears:]@[textBlack:me, who was close at hand.]'
     turnChangeOut: fadeOut
     voiceFull: fullvoice/section_102202/vo_full_102202-1-6
-  - progressNarration: '[textBlack:They are soft and kind words,@like a gentle breeze.]@[textBlack:Words
-      whispered by the one beside me.]@[textBlack:But their content is so horrible,]@[textBlack:it
-      feels like hearing them chips away at me.]'
+  - progressNarration: '[textBlack:Gentle were the words,@wafting like a mild breeze.]@[textBlack:Like
+      the whisper of one at my shoulder.]@[textBlack:But within them, a blade]@[textBlack:that
+      transfixed me with each syllable.]'
     voiceFull: fullvoice/section_102202/vo_full_102202-1-7
     voiceFullStop: fullvoice/section_102202/vo_full_102202-1-6
-  - progressNarration: '[textBlack:Predetermined rules.]@[textBlack:A firmly secured
-      prison.]@[textBlack:The Magical Girls trapped within.]'
+  - progressNarration: '[textBlack:Firm rules.]@[textBlack:A dungeon, shut tight.]@[textBlack:And
+      Magical Girls, circling within.]'
     voiceFull: fullvoice/section_102202/vo_full_102202-1-8
     voiceFullStop: fullvoice/section_102202/vo_full_102202-1-7
-  - progressNarration: '[textBlack:The foreign Magical Girls and the Bracelets]@[textBlack:have
-      become the inescapable waves]@[textBlack:that descend on everyone.]'
+  - progressNarration: '[textBlack:The Magical Girls from without,@and the Bracelet:]@[textBlack:a
+      great wave washing over@those unable to flee.]'
     voiceFull: fullvoice/section_102202/vo_full_102202-1-9
     voiceFullStop: fullvoice/section_102202/vo_full_102202-1-8
-  - progressNarration: '[textBlack:It''s like they''re filling the isolated world]@[textBlack:of
-      the Magical Girls from the bottom up...]'
+  - progressNarration: '[textBlack:Welling up from their feet, seemingly,]@[textBlack:to
+      drown the Magical Girls'' sundered world...]'
     voiceFull: fullvoice/section_102202/vo_full_102202-1-10
     voiceFullStop: fullvoice/section_102202/vo_full_102202-1-9
-  - progressNarration: '[textBlack:And with this comes unease...]@[textBlack:All without
-      anyone knowing...]'
+  - progressNarration: '[textBlack:With it, great anxiety...]@[textBlack:Unknown to
+      all...]'
     voiceFull: fullvoice/section_102202/vo_full_102202-1-11
     voiceFullStop: fullvoice/section_102202/vo_full_102202-1-10
   - autoTurnLast: 0.5
@@ -135,7 +135,7 @@ story:
     - id: 102601
       voiceFull: fullvoice/section_102202/vo_full_102202-1-14
     nameRight: ???
-    textRight: Do you remember how to load your IC card?
+    textRight: Do you remember how to charge your IC card?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -158,12 +158,12 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-1-17
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-16
-    textLeft: And I know that trains aren't big snakes,@too..
+    textLeft: I also understand that trains are not giant snakes.
   - chara:
     - id: 102501
       voiceFull: fullvoice/section_102202/vo_full_102202-1-18
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-17
-    textLeft: I remember that much from seeing it on the TV.
+    textLeft: I know all about that from seeing it on the TV.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -173,18 +173,18 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-1-19
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-18
     nameRight: ???
-    textRight: Other than that, are you okay on the@basics of traffic safety?
+    textRight: Next up, basic traffic safety.@How are you on that?
   - chara:
     - id: 102501
       voiceFull: fullvoice/section_102202/vo_full_102202-1-20
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-19
-    textLeft: Green means you can cross, red means@you definitely don't cross.
+    textLeft: Green means you can cross,@red means you absolutely don't cross.
   - chara:
     - id: 102501
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-1-21
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-20
-    textLeft: Isn't that right?
+    textLeft: That's right, isn't it?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -216,7 +216,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-1-25
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-24
-    textLeft: Yes, I won't repeat the same mistake again.
+    textLeft: Yes, I won't repeat the same mistake twice.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -248,8 +248,8 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-1-29
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-28
-    textLeft: You're right, I should repeat it and get my body to@memorize it while
-      it's still fresh in my mind.
+    textLeft: You're right, I should repeat it and learn it@with my body while it's
+      still fresh in my mind.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -306,7 +306,7 @@ story:
       id: 102601
       voiceFull: fullvoice/section_102202/vo_full_102202-1-35
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-34
-    textRight: We need to figure something out before@everyone gets here...
+    textRight: We need to figure something out before@everyone else gets here...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -367,7 +367,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-1-41
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-40
     nameRight: Yachiyo
-    textRight: Our timings just happened to match up, that's all...
+    textRight: Our timings just happened@to match up, that's all...
   - autoTurnLast: 0.1
     chara:
     - effect: fadeout
@@ -408,7 +408,7 @@ story:
       id: 101801
       voiceFull: fullvoice/section_102202/vo_full_102202-1-45
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-44
-    textLeft: We're just preparing dinner for you as a@token of appreciation.
+    textLeft: We're just preparing dinner for you@as a token of appreciation.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -520,8 +520,8 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-1-55
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-54
-    textLeft: Well, I did give you the essentials to be@free to do your work with
-      the Wings of the Magius.
+    textLeft: Well, I did arrange for your essentials so you'd have@the leeway to
+      work for the Wings of the Magius.
   - chara:
     - id: 100701
       voiceFull: fullvoice/section_102202/vo_full_102202-1-56
@@ -738,14 +738,13 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-1-77
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-76
-    textLeft: I took a look earlier, around midday, and the@number of magical responses
-      supported as much.
+    textLeft: I took a look around at noon,@and felt even more magical reactions.
   - chara:
     - id: 100201
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-1-78
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-77
-    textRight: I've heard about people sensing them at school,@too.
+    textRight: I've heard about people@sensing them at school, too.
   - chara:
     - id: 100201
       voiceFull: fullvoice/section_102202/vo_full_102202-1-79
@@ -844,7 +843,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-1-90
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-89
-    textRight: We will obtain what was made by spilling@our blood...
+    textRight: We will take back what was made by spilling@our blood...
   - autoTurnLast: 0.5
     bg: bg_adv_21082.jpg
     chara:
@@ -872,8 +871,8 @@ story:
       id: 100201
       voiceFull: fullvoice/section_102202/vo_full_102202-1-92
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-91
-    textRight: I can't tell everyone to stay on-guard either,@since it would just
-      wear them out...
+    textRight: I can't tell everyone to just stay on-guard@either, since it would
+      just wear them down...
   - chara:
     - id: 100601
       motion: 300
@@ -937,7 +936,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-1-101
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-100
-    textRight: Alright, I'll trust you.
+    textRight: Alright, I'll take your word for it.
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

@@ -78,7 +78,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-4-5
       voiceFullStop: fullvoice/section_102203/vo_full_102203-4-4
     nameLeft: Rena
-    textLeft: Hold up, are Touka and the others alright with this?
+    textLeft: Hold up, are Touka and the others alright like this?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -222,7 +222,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-4-20
       voiceFullStop: fullvoice/section_102203/vo_full_102203-4-19
     nameLeft: Momoko
-    textLeft: There are some Magical Girls who have@their eyes on us...
+    textLeft: There are some Magical Girls who have@their sights set on us...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

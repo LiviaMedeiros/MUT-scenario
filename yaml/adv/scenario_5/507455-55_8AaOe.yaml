@@ -30,7 +30,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102103
     nameLeft: Yuna
-    textLeft: Now that Hebinomiya has joined with Torayacho,
+    textLeft: Now that Janomiya has joined with Torayamachi,
   - chara:
     - id: 102103
     textLeft: The fact is that Ryuugasaki is weaker than ever.
@@ -75,7 +75,7 @@ story:
   - chara:
     - id: 800301
     nameCenter: Ryuugasaki Girl
-    textCenter: With things the way they are, I'd be stupid to go @against Torayacho.
+    textCenter: With things the way they are, I'd be stupid to go @against Torayamachi.
     turnChangeOut: fadeOut
   - chara:
     - id: 800301
@@ -119,8 +119,8 @@ story:
   - chara:
     - id: 800101
     nameCenter: Ryuugasaki Girl
-    textCenter: You went out of your way to come to me with the leader of Hebinomiya,
-      huh? Are you just here to show off how strong your gang is now?
+    textCenter: You went out of your way to come to me with the @leader of Janomiya,
+      huh? Are you just here to show @off how strong your gang is now?
     turnChangeOut: fadeOut
   - chara:
     - id: 800101
@@ -206,7 +206,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800202
-    textRight: If a group led by you is with Torayacho now, I'll be happy to join
+    textRight: If a group led by you is with Torayamachi now, I'll be happy to join
       up too.
   - chara:
     - id: 800202
