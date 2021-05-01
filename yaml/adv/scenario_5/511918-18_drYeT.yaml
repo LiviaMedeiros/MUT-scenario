@@ -25,21 +25,21 @@ story:
     chara:
     - id: 301100
     nameRight: "\uFEFFNatsume Kako"
-    textRight: '...You mean, that box produces,'
+    textRight: '...You''re saying, that box produces'
     turnChangeOut: fadeOut
   - chara:
     - id: 301100
     nameRight: Natsume Kako
-    textRight: The things needed for us to smile...
+    textRight: the things needed for us to smile...
   - chara:
     - id: 301100
       motion: 100
     nameRight: Natsume Kako
-    textRight: So for example, something we need to,
+    textRight: So for example, something we need
   - chara:
     - id: 301100
-    textRight: Fulfill our wishes will come out of that box... @Is it something like
-      that?
+    textRight: to fulfill our wishes will come out of that box... @Is it something
+      like that?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -47,7 +47,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Kira Temari
-    textRight: That's an interesting box.
+    textRight: That’s an interesting box.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -87,13 +87,13 @@ story:
       face: mtn_ex_050.exp.json
       id: 103700
     nameRight: Nayuta
-    textRight: Perhaps... this is the key for those archives we talked about just
+    textRight: Perhaps... this is the key for those archives we @talked about just
       now,
   - chara:
     - id: 103700
       motion: 100
     nameRight: Nayuta
-    textRight: The ones we never had the key for?
+    textRight: the ones we never had the key for?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -101,7 +101,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Natsume Kako
-    textLeft: Ah... that's probably it!
+    textLeft: Ah... that’s probably it!
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -134,7 +134,7 @@ story:
       motion: 400
     nameRight: Natsume Kako
     narrationEffect: out
-    textRight: '...It opened! Amazing... even though we went through so much trouble
+    textRight: '...It opened! Amazing... even though we went @through so much trouble
       before!'
   - autoTurnLast: 0.2
     item:
@@ -147,7 +147,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Felicia
-    textLeft: '[chara:120302:effect_emotion_joy_0][se:7222_happy]Heheh! @That''s the
+    textLeft: '[chara:120302:effect_emotion_joy_0][se:7222_happy]Heheh! That’s the
       magic of the Reindeer Santas!'
   - chara:
     - cheek: 0
@@ -160,11 +160,11 @@ story:
       id: 301100
       motion: 0
     nameLeft: Tsuruno
-    textLeft: Alright then, let's split up.
+    textLeft: Alright then, let’s split up.
   - chara:
     - id: 120301
     nameLeft: Tsuruno
-    textLeft: Let's look for any books that might be related to @those two’s memories!
+    textLeft: Let’s look for any books that might be related to @those two’s memories!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -192,7 +192,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 120301
     nameCenter: Tsuruno
-    textCenter: I'll start by opening up the closest book and having a look.
+    textCenter: I’ll start by opening up the closest book and having @a look.
   - autoTurnLast: 0.1
     bg: black
     bgm: stop
@@ -252,7 +252,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Rabi
-    textRight: It’s as I told you earlier, they’re someone's thoughts, wishes, and
+    textRight: It’s as I told you earlier, they’re someone’s thoughts, wishes, and
       memories...
   - chara:
     - id: 103300
@@ -265,7 +265,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Natsume Kako
-    textRight: We call them "diaries".
+    textRight: We call them “diaries”.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -286,8 +286,8 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: '[textBlack:Seira-ch... *ahem* @Future Star still hasn’t returned from
-      @her walk,] @[textBlack:and it’s already been a quarter of a double-hour...]@[textBlack:Thirty
+    narration: '[textBlack:Seira-ch... *Ahem* @Future Star still hasn’t returned from
+      her walk,] @[textBlack:and it’s already been a quarter of a double-hour...]@[textBlack:Thirty
       minutes, if I were to use modern terms.]'
     narrationCoverOpacity: 0
     narrationEffect: in
@@ -326,13 +326,13 @@ story:
     - id: 120302
       motion: 200
     nameLeft: Felicia
-    textLeft: I don't get what any of this means!!
+    textLeft: I don’t get what any of this means!!
     turnChangeOut: fadeOut
   - chara:
     - id: 301100
       motion: 100
     nameRight: Natsume Kako
-    textRight: It looks like the "diary" of a daydreaming child.
+    textRight: It looks like the “diary” of a daydreaming child.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -347,11 +347,11 @@ story:
       id: 120301
       motion: 0
     nameLeft: Tsuruno
-    textLeft: The thoughts and desires felt by everyone in this @world each day
+    textLeft: The thoughts and desires felt by everyone in the @world each day
   - chara:
     - id: 120301
     nameLeft: Tsuruno
-    textLeft: Gather in this library and become books one after another...
+    textLeft: gather in this library and become books one after another...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -374,7 +374,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Felicia
-    textLeft: That's a hella lotta books. How are we even gonna @get around to readin’
+    textLeft: That’s a hella lotta books. How are we even gonna @get around to readin’
       them all!?
   - chara:
     - cheek: 0
@@ -383,7 +383,7 @@ story:
       motion: 101
       pos: 2
     nameRight: Komachi Mikura
-    textRight: If there’s any meaning to that key, then there should @be a hint in
+    textRight: If there’s any meaning to that key, then there @should be a hint in
       this archive.
   - chara:
     - cheek: 0
@@ -392,7 +392,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Kira Temari
-    textRight: That's a lot easier than searching all over town.
+    textRight: That’s a lot easier than searching all over town.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -410,7 +410,7 @@ story:
   - chara:
     - id: 301100
     nameLeft: Natsume Kako
-    textLeft: And if we find any books related to Nayuta-san and Rabi-san’s memories,
+    textLeft: and if we find any books related to Nayuta-san and Rabi-san’s memories,
       we hand them over.
   - chara:
     - id: 301100
@@ -420,7 +420,7 @@ story:
   - chara:
     - id: 301100
     nameLeft: Natsume Kako
-    textLeft: We librarians will take them and label them @according to their contents...
+    textLeft: we librarians will take them and label them @according to their contents...
   - autoTurnLast: 0.2
     chara:
     - id: 301100
@@ -490,11 +490,11 @@ story:
       motion: 1
       pos: 2
     nameRight: Nayuta
-    textRight: You’re saying the important person I'm searching @for...
+    textRight: You’re saying the important person I’m searching @for...
   - chara:
     - id: 103700
     nameRight: Nayuta
-    textRight: Ccould be the same person Rabi-san is looking for?
+    textRight: could be the same person Rabi-san is looking for?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -506,7 +506,7 @@ story:
   - chara:
     - id: 103300
     nameRight: Rabi
-    textRight: since we both harbor the same feelings of respect for them.
+    textRight: since we both harbor the same feelings of respect @for them.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -529,7 +529,7 @@ story:
   - chara:
     - id: 103300
     nameRight: Rabi
-    textRight: Because she said she held deep affection for them.
+    textRight: because she said she held deep affection for them.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -537,7 +537,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Natsume Kako
-    textLeft: Something like... @friends?
+    textLeft: Something like... friends?
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -547,14 +547,14 @@ story:
       motion: 300
       pos: 2
     nameRight: Komachi Mikura
-    textRight: '.....@ .....'
+    textRight: '.....@.....'
   - chara:
     - eyeClose: 0
       id: 303800
       lipSynch: 1
       motion: 100
     nameRight: Komachi Mikura
-    textRight: Maybe... something like "family"?
+    textRight: Maybe... something like “family”?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -562,11 +562,11 @@ story:
       motion: 0
       pos: 0
     nameLeft: Felicia
-    textLeft: Family? What's that?
+    textLeft: Family? What’s that?
   - chara:
     - id: 303800
     nameRight: Komachi Mikura
-    textRight: I've been curious about this word for a while... @Look at this diary.
+    textRight: I’ve been curious about this word for a while... @Look at this diary.
   - autoTurnLast: 0.1
     bg: black
     deleteArmatureList:
@@ -580,7 +580,7 @@ story:
     turnChangeIn: fadeIn
   - nameNarration: ""
     narration: '[textBlack:The first time I climbed to the top @of the mountain with
-      her,]@ [textBlack:I felt a happiness that I hadn''t felt since I climbed @with
+      her,]@[textBlack:I felt a happiness that I hadn’t felt since I climbed @with
       my “family” a long, long time ago.]'
     narrationCoverOpacity: 0
     narrationEffect: in
@@ -588,7 +588,7 @@ story:
     narrationPosX: 150
     turnChangeOut: fadeOut
   - narration: '[textBlack:When I said that to her, she replied, @“...What’s “family”?”
-      I was at a loss for words.]'
+      @I was at a loss for words.]'
   - armatureList:
     - animation:
       - action
@@ -616,12 +616,12 @@ story:
   - chara:
     - id: 303800
     nameRight: Komachi Mikura
-    textRight: The word "family" that appears in this diary
+    textRight: The word “family” that appears in this diary
     turnChangeOut: fadeOut
   - chara:
     - id: 303800
     nameRight: Komachi Mikura
-    textRight: seems to mean "someone closer than a friend".
+    textRight: seems to mean “someone closer than a friend”.
   - chara:
     - id: 120302
       motion: 300

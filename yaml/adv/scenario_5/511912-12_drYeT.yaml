@@ -63,7 +63,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 305800
     nameRight: Natsu Ryoko
-    textRight: But it’s getting close to the time when I wouldn’t be surprised if
+    textRight: but it’s getting close to the time when I wouldn’t @be surprised if
       new people appeared.
   - chara:
     - cheek: 0
@@ -110,7 +110,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Natsu Ryoko
-    textRight: '...Don’t say that, that thing’s called a “curse” after all.'
+    textRight: '...Don’t say that, that thing’s called a “curse” @after all.'
   - chara:
     - id: 305800
     nameRight: Natsu Ryoko
@@ -128,7 +128,7 @@ story:
       id: 102500
       motion: 300
     nameLeft: Shizuka
-    textLeft: But... when I think of my appearance causing s@omeone else to disappear...
+    textLeft: But... when I think of my appearance causing @someone else to disappear...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -136,7 +136,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Natsu Ryoko
-    textRight: Mmm, when my senpais discussed whose turn was next,
+    textRight: Mmm, when my senpais discussed whose turn @was next,
   - chara:
     - id: 305800
     nameRight: Natsu Ryoko
@@ -153,7 +153,7 @@ story:
     - id: 305800
       motion: 0
     nameRight: Natsu Ryoko
-    textRight: Mmm, it seems we all have some day we’ll disappear.
+    textRight: Mmm, it seems we all have some day we’ll @disappear.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -206,7 +206,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Natsu Ryoko
-    textRight: Mmm... @[chara:305800:lipSynch_0][wait:1.0][chara:305800:cheek_0][chara:305800:face_mtn_ex_011.exp.json:motion_100][chara:305800:lipSynch_1]Hard
+    textRight: Mmm... [chara:305800:lipSynch_0][wait:1.0][chara:305800:cheek_0][chara:305800:face_mtn_ex_011.exp.json:motion_100][chara:305800:lipSynch_1]@Hard
       to wrap my head around stuff like this.
   - bgm: stop
     chara:
@@ -307,7 +307,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Sunao
-    textLeft: I agree... Although while I do dislike partings,
+    textLeft: I agree... @Although while I do dislike partings,
   - chara:
     - id: 102700
     nameLeft: Sunao
@@ -342,7 +342,7 @@ story:
     textRight: '...I’m sorry.'
   - chara:
     - id: 102500
-    textRight: We’re having such an unsightly quarrel in front of our guests.
+    textRight: We’re having such an unsightly quarrel in front @of our guests.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -350,7 +350,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Felicia
-    textLeft: Hm, is that so? I just see that ya have a great relationship?
+    textLeft: Hm, not really? I just see that ya have a great relationship?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -358,7 +358,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: After all you’re not arguing because you hate each other!
+    textLeft: After all, you’re not arguing because you hate @each other!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -378,12 +378,12 @@ story:
   - chara:
     - id: 305800
     nameRight: Natsu Ryoko
-    textRight: But Shizuka said she doesn’t want us to part,
+    textRight: but Shizuka said she doesn’t want us to part,
   - chara:
     - eyeClose: 1
       id: 305800
     nameRight: Natsu Ryoko
-    textRight: And Sunao gives the impression we can only leave things as they are.
+    textRight: and Sunao gives the impression we can only leave things as they are.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -397,7 +397,7 @@ story:
   - chara:
     - id: 102700
     nameLeft: Sunao
-    textLeft: It seems everyone finding happiness is unlikely...
+    textLeft: it seems everyone finding happiness is unlikely...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -435,7 +435,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Felicia
-    textRight: 'It’s ‘bout this guy’s time to shine? '
+    textRight: 'It’s ’bout this guy’s time to shine? '
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -486,7 +486,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Yup, we’re collecting the magical energy produced by smiles as fuel
+    textLeft: Yup, we’re collecting the magical energy produced @by smiles as fuel
       during our travels!
   - chara:
     - cheek: 0
@@ -516,7 +516,7 @@ story:
     - id: 120302
       motion: 100
     nameRight: Felicia
-    textRight: Their wishes ain’t aligned, yeah?
+    textRight: their wishes ain’t aligned, yeah?
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -543,7 +543,7 @@ story:
   - chara:
     - id: 120301
     nameLeft: Tsuruno
-    textLeft: Wouldn’t a present that can make everyone happy come out?
+    textLeft: wouldn’t a present that can make everyone happy come out?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -551,7 +551,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Shizuka
-    textRight: '...Maybe opening it together would be best. Shall we @try that?'
+    textRight: '...Maybe opening it together would be best. @Shall we try that?'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

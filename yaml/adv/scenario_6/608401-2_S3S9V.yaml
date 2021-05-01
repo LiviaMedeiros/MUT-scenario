@@ -59,7 +59,7 @@ story:
   - chara:
     - id: 301901
       motion: 200
-    textLeft: This feels like a new rhythm double act comedy!
+    textLeft: This feels like a new rhythm comedy!
   - chara:
     - id: 301901
       motion: 1
@@ -199,7 +199,7 @@ story:
       id: 301401
       motion: 1
       pos: 2
-    textLeft: Double act comedy is expressed through one's body!
+    textLeft: Comedy is expressed through one's body!
   - chara:
     - id: 301901
       motion: 200
@@ -372,7 +372,7 @@ story:
       eyeClose: 1
       face: mtn_ex_050.exp.json
       id: 300701
-    nameRight: ""
+    nameRight: Ayaka's Voice
     textBg: shout
     textRight: Huhhh?!
   - chara:

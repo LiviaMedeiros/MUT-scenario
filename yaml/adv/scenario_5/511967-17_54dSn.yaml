@@ -26,7 +26,7 @@ story:
     - id: 102900
       motion: 400
     nameLeft: "\uFEFFShigure"
-    textLeft: '...Eh...? @An urgent message from Candy Town...?'
+    textLeft: '...Eh...? An urgent message from Candy Town...?'
     turnChangeOut: fadeOut
   - chara:
     - id: 103000
@@ -99,7 +99,7 @@ story:
       id: 102900
       motion: 0
     nameLeft: Shigure
-    textLeft: It’s just a guess... Hagumun... @Tell us the full story.
+    textLeft: It’s just a guess... Hagumun... Tell us the full story.
   - autoTurnLast: 2
     chara:
     - cheek: 0
@@ -131,7 +131,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Shigure
-    textLeft: Yeah... Only... @the world being in this kind of state
+    textLeft: Yeah... Only... the world being in this kind of state
   - chara:
     - id: 102900
     nameLeft: Shigure
@@ -142,14 +142,14 @@ story:
       id: 120302
       motion: 200
     nameRight: Felicia
-    textRight: 'So that’s why those weird enemies are kickin’ up a @fuss! '
+    textRight: 'So that’s why those weird enemies are kickin’ up @a fuss! '
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 102900
       motion: 200
     nameLeft: Shigure
-    textLeft: However... it seems the Three Magi are still unaware.
+    textLeft: However... it seems the Three Magi are still @unaware.
   - autoTurnLast: 0.01
     bg: bg_adv_21473.jpg
     chara:
@@ -209,7 +209,7 @@ story:
       motion: 100
     nameLeft: Shigure
     textLeft: We’ve accumulated enough energy... and the Three Magi... haven’t entered
-      the mix yet.
+      the equation yet.
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -225,7 +225,7 @@ story:
       lipSynch: 0
       motion: 400
     nameCenter: Tsuruno & Felicia
-    textCenter: '[chara:120301:effect_emotion_surprise_0][chara:120302:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textCenter: '[chara:120301:effect_emotion_surprise_0][chara:120302:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - id: 120302
       motion: 0
@@ -261,7 +261,7 @@ story:
       id: 103000
       motion: 100
     nameRight: Hagumu
-    textRight: Y-Yeah...! @They’re doing fine.
+    textRight: Y-Yeah...! They’re doing fine.
   - chara:
     - id: 103000
     nameRight: Hagumu
@@ -304,8 +304,8 @@ story:
     - id: 303800
       motion: 200
     nameCenter: Komachi Mikura
-    textCenter: 'But being able to witness a historical moment is an extraordinary
-      opportunity. '
+    textCenter: But being able to witness history in the making @is an extraordinary
+      opportunity.
   - chara:
     - cheek: 0
       face: mtn_ex_022.exp.json
@@ -393,7 +393,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Tsuruno
-    textRight: This really is sudden, we’re lacking people...
+    textRight: This really is sudden, we’re lacking enough hands @on deck...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -409,7 +409,7 @@ story:
       pos: 1
     nameCenter: Hibiki Meguru
     textBg: shout
-    textCenter: Yahoo, isn’t it Meguru SOS’s turn to enter the stage!?
+    textCenter: Yahoo, isn’t it Meguru SOS’s turn to step up!?
   - autoTurnLast: 1
     bg: black
     deleteArmatureList:
@@ -479,7 +479,7 @@ story:
       id: 303500
       motion: 300
     nameRight: Chiaki Riko
-    textRight: I’m not sure... We somehow managed to get out of town, but...
+    textRight: I’m not sure... We somehow managed to get out @of town, but...
   - chara:
     - id: 103800
       motion: 300
@@ -541,7 +541,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Nayuta
-    textRight: Indeed, after hearing the tidings, we rushed to pick @you up.
+    textRight: Indeed, after hearing the tidings, we rushed to @pick you up.
   - chara:
     - id: 103700
     nameRight: Nayuta
@@ -557,7 +557,7 @@ story:
     - id: 103700
       motion: 200
     nameRight: Nayuta
-    textRight: This is actually a salvaged vehicle discovered at a nearby town.
+    textRight: This is actually a salvaged vehicle discovered at @a nearby town.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -580,7 +580,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Rabi
-    textRight: Did you intend to walk there...? That would be the height of foolishness.
+    textRight: Did you intend to walk there...? @That would be the height of foolishness.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -708,7 +708,7 @@ story:
     - id: 120302
       motion: 100
     nameRight: Felicia
-    textRight: Whoo, ‘bout time!
+    textRight: Whoo, ’bout time!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -724,7 +724,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Just the two of us will go! @That way it’ll be faster!
+    textLeft: Just the two of us will go! That way it’ll be faster!
   - autoTurnLast: 0.5
     item:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_caribou_mini.png
@@ -825,7 +825,7 @@ story:
       id: 120302
       motion: 400
     nameRight: Felicia
-    textRight: '...Geh!? @Even the bike was sucked into the barrier!?'
+    textRight: '...Geh!? Even the bike was sucked into the @barrier!?'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0

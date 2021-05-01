@@ -190,7 +190,7 @@ story:
       posX: 40
       posY: 0
     nameLeft: Hikaru
-    textLeft: What's this creature...@How did you get in here...?
+    textLeft: What's this creature...?@How did you get in here...?
   - chara:
     - id: 810000
     nameRight: Kyubey
@@ -275,7 +275,7 @@ story:
     textRight: I will come again.
   - chara:
     - id: 810000
-    textRight: You better decide after thinking carefully until then.
+    textRight: You better make a decision until then.
   - autoTurnLast: 0.01
     bgm: stop
     nameNarration: Hikaru

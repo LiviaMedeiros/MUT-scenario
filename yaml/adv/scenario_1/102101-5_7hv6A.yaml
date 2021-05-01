@@ -166,7 +166,7 @@ story:
       voiceFull: fullvoice/section_102101/vo_full_102101-5-17
       voiceFullStop: fullvoice/section_102101/vo_full_102101-5-16
     nameRight: Tsuruno
-    textRight: That aside, if the Labyrinth isn't@disppearing, that means...
+    textRight: That aside, if the Labyrinth isn't@disappearing, that means...
   - autoTurnLast: 1
     bgm: stop
     flashEffect: flashWhite2

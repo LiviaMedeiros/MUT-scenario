@@ -433,7 +433,7 @@ story:
     textLeft: Strictly speaking, the moment the building@collapsed has already happened...
   - chara:
     - id: 810000
-    textLeft: But here accident has yet to occur.
+    textLeft: But here the accident has yet to occur.
   - chara:
     - id: 810000
     textLeft: So from your perspective, when you were@standing in the arcade...

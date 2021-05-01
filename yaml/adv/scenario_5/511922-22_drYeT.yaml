@@ -43,7 +43,7 @@ story:
     - id: 120302
       motion: 100
     nameRight: Felicia
-    textRight: ‘Cuz we went outta our way to make a detour before continuin’ on!
+    textRight: ‘Cuz we went outta our way to make a detour @before continuin’ on!
   - autoTurnLast: 0.2
     item:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_mana_cartridge.png
@@ -136,7 +136,7 @@ story:
       lipSynch: 0
       motion: 400
     nameLeft: Tsuruno
-    textLeft: '[chara:120301:effect_emotion_surprise_0][se:7226_shock]...!?@[wait:1.0][chara:120301:lipSynch_1]It
+    textLeft: '[chara:120301:effect_emotion_surprise_0][se:7226_shock]!?@[wait:1.0][chara:120301:lipSynch_1]It
       really is!'
   - chara:
     - cheek: 1
@@ -196,7 +196,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: I feel a little embarrassed when I think of how that’s @my other self.
+    textLeft: I feel a little embarrassed when I think of how @that’s my other self.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -273,7 +273,7 @@ story:
     - id: 100301
       motion: 0
     nameRight: Ui
-    textRight: Eh...? @Was that what it was?
+    textRight: Eh...? Was that what it was?
   - chara:
     - id: 101501
     nameRight: Ui
@@ -316,8 +316,8 @@ story:
       motion: 100
       pos: 2
     nameRight: Ui
-    textRight: '...Wouldn''t it be really chaotic if a ton of people came @in all
-      at once?'
+    textRight: '...Wouldn’t it be really chaotic if a ton of people @came in all at
+      once?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -358,7 +358,7 @@ story:
   - chara:
     - id: 100301
     nameLeft: Tsuruno
-    textLeft: your other selves will usually get along if you’re close @in real life.
+    textLeft: your other selves will usually get along if you’re @close in real life.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -383,17 +383,16 @@ story:
   - chara:
     - id: 101501
     nameRight: Ui
-    textRight: Earlier, when I was on my phone deciding on the destination for you
-      two,
+    textRight: Earlier, when you decided on the destination for @your game versions,
   - chara:
     - id: 101501
       motion: 100
     nameRight: Ui
-    textRight: in the game,
+    textRight: didn't they say,
   - chara:
     - id: 101501
     nameRight: Ui
-    textRight: you said “I can hear the voice of an angel”, @didn’t you?
+    textRight: “I can hear the voice of an angel”?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

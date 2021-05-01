@@ -169,7 +169,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 102200
-    textRight: Is Ryuugasaki really coming from the@central brdige?
+    textRight: Is Ryuugasaki really coming from the@central bridge?
   - chara:
     - id: 102102
       motion: 200

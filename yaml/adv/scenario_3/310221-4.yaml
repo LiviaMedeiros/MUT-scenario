@@ -263,7 +263,7 @@ story:
       pos: 2
       soulGem: 0
     nameLeft: Hikaru
-    textLeft: '...Huh?@Who...How...?'
+    textLeft: '...Huh?@Who...? How...?'
   - bgm: bgm01_anime02
     chara:
     - id: 102103

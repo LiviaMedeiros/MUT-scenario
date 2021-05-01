@@ -24,7 +24,7 @@ story:
     - id: 100501
       motion: 100
     nameLeft: "\uFEFFFelicia"
-    textLeft: '...But y''know, to keep that world'
+    textLeft: '...But y’know, to keep that world'
     turnChangeOut: fadeOut
   - chara:
     - id: 100501
@@ -33,7 +33,7 @@ story:
   - chara:
     - id: 100501
     nameLeft: Felicia
-    textLeft: won't it have to be destroyed?
+    textLeft: won’t it have to be destroyed?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -45,7 +45,7 @@ story:
     - eyeClose: 1
       id: 100701
     nameRight: Touka
-    textRight: I was prepared to create another world without that bug,
+    textRight: I was prepared to create another world without @that bug,
   - chara:
     - id: 100701
     nameRight: ""
@@ -65,7 +65,7 @@ story:
       id: 100701
       motion: 400
     nameRight: Touka
-    textRight: Of course I'll bulk restore all the AI exactly as they @are!
+    textRight: Of course I’ll bulk restore all the AI exactly as they @are!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -88,7 +88,7 @@ story:
       id: 100701
       motion: 100
     nameRight: Touka
-    textRight: '...But it probably won’t come to that, because there’s @a better way.'
+    textRight: '...But it probably won’t come to that, because @there’s a better way.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -103,7 +103,7 @@ story:
       id: 100701
       motion: 200
     nameRight: Touka
-    textRight: We're going to make it so that it’s effectively @impossible to interfere
+    textRight: We’re going to make it so that it’s effectively @impossible to interfere
       with our side.
   - chara:
     - cheek: 0
@@ -118,11 +118,11 @@ story:
       id: 100701
       motion: 1
     nameRight: Touka
-    textRight: Ui, you didn’t want that world to be able to interfere with this side,
+    textRight: Ui, you didn’t want that world to be able to @interfere with this side,
   - chara:
     - id: 100701
     nameRight: Touka
-    textRight: and you didn’t want the girls living there to know the truth,
+    textRight: and you didn’t want the girls living there to know @the truth,
   - chara:
     - id: 100701
     nameRight: Touka
@@ -169,7 +169,7 @@ story:
   - chara:
     - id: 100701
     nameRight: Touka
-    textRight: Just like the speed of light and Planck's constant in @our universe,
+    textRight: Just like the speed of light and Planck’s constant in @our universe,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -204,12 +204,12 @@ story:
       id: 100701
       motion: 100
     nameRight: Touka
-    textRight: In order to cross the door linking the two worlds and interfere with
+    textRight: In order to cross the door linking the two worlds @and interfere with
       this world,
   - chara:
     - id: 100701
     nameRight: Touka
-    textRight: it'll take orders of magnitude more energy than before...
+    textRight: it’ll take orders of magnitude more energy than before...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -223,14 +223,14 @@ story:
       id: 100301
       motion: 300
     nameLeft: Tsuruno
-    textLeft: Ahh, so theoretically,  it’s possible, but...
+    textLeft: Ahh, so theoretically, it’s possible,
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 100301
       motion: 101
     nameLeft: Tsuruno
-    textLeft: actually doing it is practically impossible! @Something like that?
+    textLeft: but actually doing it is practically impossible! @Something like that?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -252,7 +252,7 @@ story:
   - chara:
     - id: 100701
     nameRight: Touka
-    textRight: they’ll find that they can't collect that amount by any means.
+    textRight: they’ll find that they can’t collect that amount by @any means.
   - chara:
     - id: 100701
       motion: 100
@@ -277,7 +277,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100701
     nameRight: Touka
-    textRight: It won't break the world that’s already in place.
+    textRight: It won’t break the world that’s already in place.
   - chara:
     - id: 100701
       motion: 400
@@ -313,21 +313,21 @@ story:
       id: 101501
       motion: 100
     nameLeft: Ui
-    textLeft: 'But I''m really glad they still have “hope” left! '
+    textLeft: 'But I’m really glad they still have “hope” left! '
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100701
       motion: 0
     nameRight: Touka
-    textRight: You're so kind, Ui~!
+    textRight: You’re so kind, Ui~!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100701
       motion: 100
     nameRight: Touka
-    textRight: Weell, I'll go and apply the new settings right away.
+    textRight: Weeell, I’ll go and apply the new settings right away.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -350,7 +350,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Felicia
-    textLeft: We're countin’ on ya!
+    textLeft: We’re countin’ on ya!
   - autoTurnLast: 2
     bg: bg_adv_21203.jpg
     bgm: stop
@@ -408,7 +408,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Felicia
-    textRight: But it ain’t like that world doesn't have hope!
+    textRight: But it ain’t like that world doesn’t have hope!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -416,7 +416,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Ui
-    textRight: '...I wonder what the Tsuruno-san and others in that world are going
+    textRight: '...I wonder what the Tsuruno-san and others in @that world are going
       to do now?'
   - chara:
     - cheek: 0
@@ -424,11 +424,11 @@ story:
       id: 100301
       motion: 1
     nameLeft: Tsuruno
-    textLeft: At first, they'll try no matter how hard the challenge @is,
+    textLeft: At first, they’ll try no matter how hard the @challenge is,
   - chara:
     - id: 100301
     nameLeft: Tsuruno
-    textLeft: but they’ll probably give up when they realize it's impossible...?
+    textLeft: but they’ll probably give up when they realize it’s impossible...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -436,14 +436,14 @@ story:
       motion: 100
       pos: 2
     nameRight: Felicia
-    textRight: Ya think they’ll back down that easily? *Our* other selves...?
+    textRight: Ya think they’ll back down that easily? @*Our* other selves...?
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 100301
       motion: 300
     nameLeft: Tsuruno
-    textLeft: Hmm, I guess so...
+    textLeft: Hmm, I guess not...
   - chara:
     - id: 100301
     nameLeft: Tsuruno
@@ -485,14 +485,14 @@ story:
   - chara:
     - id: 100701
     nameCenter: Touka
-    textCenter: I don't think it’s likely that they will break through, @but...
+    textCenter: I don’t think it’s likely that they will break through, @but...
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 100701
       motion: 201
     nameCenter: Touka
-    textCenter: It's a genius’s job to be prepared for the unexpected!
+    textCenter: It’s a genius’s job to be prepared for the @unexpected!
   - chara:
     - id: 100701
       motion: 1

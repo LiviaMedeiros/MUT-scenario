@@ -55,7 +55,7 @@ story:
     - id: 120301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: I'm going in!
+    textLeft: I’m going in!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -279,13 +279,13 @@ story:
       motion: 200
     nameRight: Felicia
     narrationEffect: out
-    textRight: We're at the Central Tower!
+    textRight: We’re at the Central Tower!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 120301
     nameLeft: Tsuruno
-    textLeft: Where's the entrance...?
+    textLeft: Where’s the entrance...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -341,13 +341,13 @@ story:
     - 10
     turnChangeIn: fadeIn
   - nameNarration: Tsuruno
-    narration: “This is Tsuruno and Felicia!@ We've reached the energy tank on the
-      first floor of the @Central Tower!”
+    narration: “This is Tsuruno and Felicia!@ We’ve reached the energy tank on the
+      first floor @of the Central Tower!”
     narrationBg: bg_adv_16052.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
   - nameNarration: Felicia
-    narration: '"Mana cartridges have been set!"'
+    narration: ‘Mana cartridges have been set!’
   - chara:
     - id: 103000
       motion: 100
@@ -361,7 +361,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Hibiki Meguru
-    textRight: Increased output level confirmed! It's ready to use!
+    textRight: Increased output level confirmed! It’s ready to use!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -373,7 +373,7 @@ story:
   - chara:
     - id: 102900
     nameLeft: Shigure
-    textLeft: Then I'll beam a bit-converted audio signal
+    textLeft: Then I’ll beam a bit-converted audio signal
   - chara:
     - id: 102900
       motion: 400
@@ -385,7 +385,7 @@ story:
     - id: 102900
       motion: 0
     nameNarration: Felicia
-    narration: '"We escaped on our end!"'
+    narration: ‘We escaped on our end!’
     narrationBg: bg_adv_16052.jpg
     narrationEffect: in
   - nameNarration: Tsuruno
@@ -403,7 +403,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Hibiki Meguru
-    textRight: Alright, here we go?
+    textRight: Alright, here we go!
   - nameNarration: Hibiki Meguru
     narration: '{Nice to meet you, O’ Wise Sage!}'
     narrationBg: bg_adv_16052.jpg
@@ -434,14 +434,14 @@ story:
     - id: 102900
       motion: 200
     nameLeft: Shigure
-    textLeft: I don't know... but I think we did our best.
+    textLeft: I don’t know... but I think we did our best.
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
       id: 102900
     nameLeft: Shigure
-    textLeft: All that's left... is to wait for results...
+    textLeft: All that’s left... is to wait for results...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -457,13 +457,13 @@ story:
       motion: 0
       pos: 0
     nameLeft: Shigure
-    textLeft: '...What''s wrong?'
+    textLeft: '...What’s wrong?'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 103000
     nameRight: Hagumu
-    textRight: Where's Nanase-san? @We lost contact halfway through...
+    textRight: Where’s Nanase-san? We lost contact halfway @through...
   - chara:
     - id: 102900
       motion: 100
@@ -492,7 +492,7 @@ story:
       id: 304200
       motion: 0
       pos: 2
-    narration: '{For the time being, if you are worried about me, @please don''t be.}'
+    narration: '{For the time being, if you are worried about me, @please don’t be.}'
   - bgm: stop
     narration: '{Ah!}'
   - chara:

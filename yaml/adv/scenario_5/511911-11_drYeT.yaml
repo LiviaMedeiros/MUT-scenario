@@ -31,7 +31,7 @@ story:
   - chara:
     - id: 120302
     nameLeft: Felicia
-    textLeft: It’s not uncommon in other towns for people to just suddenly disappear,
+    textLeft: It’s not uncommon in other towns for people to @just suddenly disappear,
       y’know?
   - chara:
     - id: 305800
@@ -48,7 +48,7 @@ story:
   - chara:
     - id: 102700
     nameLeft: Sunao
-    textLeft: We have only heard about that...
+    textLeft: we have only heard about that...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -56,7 +56,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Natsu Ryoko
-    textRight: But it’s NOT a coincidence. It’s a “curse.”
+    textRight: But it’s NOT a coincidence. It’s a *curse*.
   - chara:
     - id: 305800
     nameRight: Natsu Ryoko
@@ -112,7 +112,7 @@ story:
       id: 305800
       motion: 300
     nameRight: Natsu Ryoko
-    textRight: '...I have fond memories of her.  She was a super @caring type.'
+    textRight: '...I have fond memories of her. She was a super @caring type.'
   - chara:
     - id: 305800
     textRight: When I first came to the village, not knowing @anything, pretty much
@@ -120,7 +120,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 305800
-    textRight: she taught me everything, from how to draw water to how to cook rice.
+    textRight: she taught me everything, from how to draw water @to how to cook rice.
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -138,7 +138,7 @@ story:
     textLeft: Thanks to her teachings on how to draw well water,
   - chara:
     - id: 102500
-    textLeft: All of us, even now, are able to live comfortably.
+    textLeft: all of us, even now, are able to live comfortably.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -184,7 +184,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Natsu Ryoko
-    textRight: At night, for a bath, we boil water in a cauldron using firewood.
+    textRight: At night, for a bath, we boil water in a cauldron @using firewood.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -205,7 +205,7 @@ story:
     - id: 120301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: So, what do you do for food and stuff?
+    textLeft: So what do you do for food and stuff?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -213,7 +213,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Shizuka
-    textRight: In the mornings, we go out to the fields where edible plants grow,
+    textRight: In the mornings, we go out to the fields where @edible plants grow,
   - chara:
     - id: 102500
     nameRight: Shizuka
@@ -231,7 +231,7 @@ story:
   - chara:
     - id: 102700
     nameRight: Sunao
-    textRight: How do people live their lives there?
+    textRight: how do people live their lives there?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -246,14 +246,14 @@ story:
       motion: 100
       pos: 2
     nameRight: Felicia
-    textRight: For water and baths, you twist a faucet and water comes out.
+    textRight: For water and baths, ya twist a faucet and water @comes out.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 120302
       pos: 2
     nameRight: Felicia
-    textRight: When you’re out on the road, if you go into a store @you can get food.
+    textRight: When you’re out on the road, if ya go into a store @ya can get food.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -281,7 +281,7 @@ story:
   - chara:
     - id: 102500
     nameRight: Shizuka
-    textRight: '...The crops grow in the field by themselves... @Isn’t that strange?'
+    textRight: The crops grow in the field by themselves... @Isn’t that strange?
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -353,13 +353,13 @@ story:
       motion: 1
       pos: 2
     nameRight: Natsu Ryoko
-    textRight: I've heard that before too, from the experienced @senpai I just mentioned.
+    textRight: I’ve heard that before too, from the experienced @senpai I just mentioned.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 305800
     nameRight: Natsu Ryoko
-    textRight: '...Though, it seems senpai got it from her senpai who got it from
+    textRight: '...Though it seems senpai got it from her senpai @who got it from
       a traveller!'
   - chara:
     - cheek: 0
@@ -415,8 +415,8 @@ story:
       id: 120301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: It’s like that feeling of loneliness you get, when @you’re not part
-      of the group?
+    textLeft: It’s like that feeling of loneliness you get when @you’re not part of
+      the group?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

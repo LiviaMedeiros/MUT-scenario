@@ -398,7 +398,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102103
       motion: 0
-    textRight: If then, you will only have to follow me as you@always do.
+    textRight: If so, you will only have to follow me as you@always do.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

@@ -41,7 +41,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Is the time capsule prepared?
+    textLeft: Is the time capsule ready?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -100,7 +100,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Is it really a good idea... to dig around somewhere @like this?
+    textLeft: Is it really a good idea to dig around somewhere @like this...?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -133,7 +133,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Natsu Ryoko
-    textRight: We’d already talked about this!
+    textRight: we’d already talked about this!
   - autoTurnLast: 0.2
     item:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_shovel.png
@@ -177,7 +177,7 @@ story:
     - id: 305800
     nameCenter: Natsu Ryoko
     narrationEffect: out
-    textCenter: '... Hm, what’s this?'
+    textCenter: '...Hm, what’s this?'
   - autoTurnLast: 0.2
     chara:
     - id: 305800
@@ -197,7 +197,7 @@ story:
       id: 305800
       motion: 300
     nameRight: Natsu Ryoko
-    textRight: There’s something very hard... Maybe I hit a rock?
+    textRight: There’s something very hard... @Maybe I hit a rock?
   - bgm: stop
     chara:
     - cheek: 0
@@ -311,7 +311,7 @@ story:
       motion: 0
     nameRight: Natsu Ryoko
     narrationEffect: out
-    textRight: Inside is... @just a letter.
+    textRight: Inside is... just a letter.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -319,7 +319,7 @@ story:
       lipSynch: 0
       motion: 400
     nameRight: Natsu Ryoko
-    textRight: '...!?'
+    textRight: '!?'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -342,7 +342,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Shizuka
-    textLeft: '...!?'
+    textLeft: '!?'
   - autoTurnLast: 1
     bg: black
     deleteArmatureList:
@@ -354,7 +354,7 @@ story:
       posY: 0
       visible: appear
     turnChangeIn: fadeIn
-  - nameNarration: Sakuya
+  - nameNarration: Suzuka Sakuya
     narration: '[textBlack:Great job, you found the time capsule?]'
     narrationCoverOpacity: 0
     narrationEffect: in
@@ -362,9 +362,9 @@ story:
     narrationPosX: 150
     turnChangeOut: fadeOut
   - narration: '[textBlack:Something like this should be written and then buried @with
-      everyone in a boisterous mood, but...]'
-  - narration: '[textBlack:Somehow that didn’t seem to fit the subject matter, @so
-      I buried it myself.]'
+      everyone in a boisterous mood...]'
+  - narration: '[textBlack:But somehow that didn’t seem to fit the subject matter,
+      @so I buried it myself.]'
   - narration: '[textBlack:If some kid’s worried about the “Village Curse”, @I hope
       you’ll read this.]'
   - narration: '[textBlack:If that’s not the case, there’s no need to keep reading.
@@ -442,7 +442,7 @@ story:
       posY: 0
       visible: appear
     turnChangeIn: fadeIn
-  - nameNarration: Sakuya
+  - nameNarration: Suzuka Sakuya
     narration: '[textBlack:Yesterday, I heard news about a certain someone @from a
       traveller visiting the village...]'
     narrationCoverOpacity: 0
@@ -454,8 +454,8 @@ story:
       of amazement grew on me.]'
   - narration: '[textBlack:That person, appeared to be the senpai who’d taken @care
       of me in this village and who should have @disappeared a long time ago...]'
-  - narration: '[textBlack:The name and how their conduct was described were @identical
-      to her, so I thought it @had to be the same person.]'
+  - narration: '[textBlack:The name and how their conduct was described @were identical
+      to her, so I thought it had @to be the same person.]'
   - armatureList:
     - animation:
       - action
@@ -485,7 +485,7 @@ story:
       lipSynch: 0
       motion: 200
     nameLeft: Shizuka
-    textLeft: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textLeft: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]!?'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -506,7 +506,7 @@ story:
       posY: 0
       visible: appear
     turnChangeIn: fadeIn
-  - nameNarration: Sakuya
+  - nameNarration: Suzuka Sakuya
     narration: '[textBlack: When I told the traveller about all of this, @I got this
       reply in response.]'
     narrationCoverOpacity: 0
@@ -514,10 +514,9 @@ story:
     narrationHAlignment: left
     narrationPosX: 150
     turnChangeOut: fadeOut
-  - narration: '[textBlack:Based on what the traveller said, no matter which @town
-      it was,] [textBlack:there had never once been an instance @of a disappeared
-      person returning.] @[textBlack:...And then the traveller said, @perhaps only
-      this village was special.]'
+  - narration: '[textBlack:Based on what the traveller said, no matter @which town
+      it was, there had never once been @an instance of a disappeared person returning.]
+      @[textBlack:...And then the traveller said, @perhaps only this village was special.]'
   - armatureList:
     - animation:
       - action
@@ -565,29 +564,28 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - bgm: bgm03_story07
-    nameNarration: Sakuya
+    nameNarration: Suzuka Sakuya
     narration: '[textBlack:According to the traveller...]'
     narrationCoverOpacity: 0
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 150
     turnChangeOut: fadeOut
-  - narration: '[textBlack:The village was a place where souls lost in another world]
-      @[textBlack:would first arrive after being reborn in this one,]@[textBlack:a
-      type of rest stop.]'
-  - narration: '[textBlack:Here, people would learn everything needed to survive...@
-      as well as meet and part.]'
+  - narration: '[textBlack:The village was a place where souls lost @in another world
+      would first arrive after being @reborn in this one, a type of rest stop.]'
+  - narration: '[textBlack:Here, people would learn everything needed @to survive...
+      @As well as meet and part.]'
   - narration: '[textBlack:Souls whose pains and sorrows from the past world @were
-      healed and who completed their learning @would leave the village... giving up
-      their place @to the next generation.]'
-  - narration: '[textBlack:Afterwards their memories would be wiped clean as @blank
+      healed and who completed their learning @would leave the village... @Giving
+      up their place to the next generation.]'
+  - narration: '[textBlack:Afterwards their memories would be wiped clean @as blank
       slates, and they would appear in other towns @to start their new lives.]'
   - narration: '[textBlack:In other words, it could be said that this village is a
       @lounge for souls, an area to practice living in...]'
   - narration: '[textBlack: The traveller told me they read a story about here @in
       some book. ]'
   - narration: '[textBlack: This place was called the “School of Souls”... @where
-      leaving, is “graduating”... @In the story, it appears they were called @as such.]'
+      leaving, is “graduating”... @In the story, it appears they were called as such.]'
   - armatureList:
     - animation:
       - action
@@ -615,12 +613,12 @@ story:
   - chara:
     - id: 305800
     nameCenter: Natsu Ryoko
-    textCenter: “There are those who cannot stand the idea of parting...”
+    textCenter: “there are those who cannot stand the idea @of parting,”
   - chara:
     - id: 305800
       motion: 1
     nameCenter: Natsu Ryoko
-    textCenter: “Why not think of it as “graduating”?”
+    textCenter: “why not think of it as “graduating”?”
   - chara:
     - id: 305800
     nameCenter: Natsu Ryoko
@@ -673,7 +671,7 @@ story:
   - chara:
     - id: 305800
     nameRight: Natsu Ryoko
-    textRight: In a letter that no one would read if they didn’t know about it.
+    textRight: in a letter that no one would read if they @didn’t know about it.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

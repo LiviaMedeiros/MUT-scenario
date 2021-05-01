@@ -97,7 +97,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Tsuruno
-    textLeft: I’m not sure either, but
+    textLeft: I’m not sure either,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -105,16 +105,16 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: This present will definitely be useful in some way!
+    textLeft: but this present will definitely be useful in @some way!
   - chara:
     - id: 305800
       motion: 300
     nameRight: Natsu Ryoko
-    textRight: Hum, in short, if this thing is used properly
+    textRight: Hum, in short, if this thing is used properly,
   - chara:
     - id: 305800
     nameRight: Natsu Ryoko
-    textRight: Everyone will become billionaires?
+    textRight: everyone will become billionaires?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -130,7 +130,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Natsu Ryoko
-    textRight: Haha, that was a joke. That brought out some smiles, eh?
+    textRight: Haha, that was a joke. @That brought out some smiles, eh?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -146,7 +146,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Shizuka
-    textLeft: Just... what is this used for?
+    textLeft: Just what is this used for...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -184,7 +184,7 @@ story:
   - chara:
     - id: 102500
     nameLeft: Shizuka
-    textLeft: Wherever you dig, something will be uncovered... @is that not so?
+    textLeft: wherever you dig, something will be uncovered... @Is that not so?
   - chara:
     - id: 102700
       motion: 100
@@ -246,7 +246,7 @@ story:
     - id: 102700
       motion: 300
     nameRight: Sunao
-    textRight: Does not appear anything will turn up.
+    textRight: does not appear anything will turn up.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -282,11 +282,11 @@ story:
       posY: 0
       visible: appear
     nameRight: Shizuka
-    textRight: But does this tool...
+    textRight: But does this tool
   - chara:
     - id: 102500
     nameRight: Shizuka
-    textRight: Have any uses outside of digging in dirt or sand?
+    textRight: have any uses outside of digging in dirt or sand...?
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -318,7 +318,7 @@ story:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_shovel.png
       visible: hide
     nameRight: Sunao
-    textRight: Ah... @That’s it!
+    textRight: Oh... That’s it!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -332,7 +332,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Shizuka
-    textLeft: Time capsule...?
+    textLeft: A time capsule...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -340,14 +340,14 @@ story:
       motion: 0
       pos: 2
     nameRight: Natsu Ryoko
-    textRight: Ahh, my senpais once said.
+    textRight: Ahh, my senpais once said
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 305800
       motion: 100
     nameRight: Natsu Ryoko
-    textRight: We should leave a message or such for future @villagers.
+    textRight: we should leave a message or such for future @villagers.
   - chara:
     - id: 305800
     nameRight: Natsu Ryoko
@@ -359,10 +359,10 @@ story:
       motion: 1
       pos: 2
     nameRight: Sunao
-    textRight: During the last generation, we actually planned to do that,
+    textRight: During the last generation, we actually planned @to do that,
   - chara:
     - id: 102700
-    textRight: But Shizuka came to the village right after and we completely forgot.
+    textRight: but Shizuka came to the village right after and we completely forgot.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -384,7 +384,7 @@ story:
     - id: 102700
       motion: 200
     nameRight: Sunao
-    textRight: Can understand who the senpais they never met @were like and what sort
+    textRight: can understand who the senpais they never met @were like and what sort
       of lives they led.
   - chara:
     - cheek: 0
@@ -413,7 +413,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Shizuka
-    textLeft: I see. ,@[chara:102500:lipSynch_0][wait:1.0][chara:102500:cheek_0][chara:102500:face_mtn_ex_010.exp.json:motion_100][chara:102500:lipSynch_1]...Yeah
+    textLeft: I see. [chara:102500:lipSynch_0][wait:1.0][chara:102500:cheek_0][chara:102500:face_mtn_ex_010.exp.json:motion_100][chara:102500:lipSynch_1]@...Yeah
       this works!
   - chara:
     - cheek: 0
@@ -468,7 +468,7 @@ story:
     - id: 102700
       motion: 100
     nameLeft: Sunao
-    textLeft: We’d already contemplated what we would write @some time ago.
+    textLeft: We’d already contemplated what we would write @some time back.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -491,7 +491,7 @@ story:
   - chara:
     - id: 102500
     nameLeft: Shizuka
-    textLeft: Is something I have never pondered...
+    textLeft: is something I have never pondered...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -499,23 +499,23 @@ story:
       motion: 100
       pos: 2
     nameRight: Natsu Ryoko
-    textRight: Very good!
+    textRight: Then that's very good!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102500
       motion: 1
     nameLeft: Shizuka
-    textLeft: When Sunao and Ryoko would always mention.
+    textLeft: When Sunao and Ryoko
   - chara:
     - id: 102500
     nameLeft: Shizuka
-    textLeft: Those people who had vanished...
+    textLeft: would always mention those people @who had vanished...
   - chara:
     - id: 102500
       motion: 200
     nameLeft: Shizuka
-    textLeft: Was it because you wanted someone to know.
+    textLeft: Was it because you wanted someone to know
   - chara:
     - id: 102500
     nameLeft: Shizuka
@@ -535,7 +535,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: If that’s the case, everything you’ve done has meant something.
+    textLeft: If that’s the case, everything you’ve done has @meant something.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

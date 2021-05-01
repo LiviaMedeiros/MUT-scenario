@@ -427,7 +427,7 @@ story:
   - chara:
     - id: 102102
       motion: 100
-    textLeft: I believe this one of the things I taught@you before, Juri.
+    textLeft: I believe this is one of the things I taught@you before, Juri.
   - chara:
     - id: 102400
       motion: 300

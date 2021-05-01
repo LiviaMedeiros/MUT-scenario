@@ -162,7 +162,7 @@ story:
       pos: 2
     nameLeft: Hotori
     surround: stop
-    textLeft: Ah.. that...
+    textLeft: Ah... that...
     turnEffect: stop
   - chara:
     - id: 304101
@@ -296,7 +296,7 @@ story:
     - id: 801000
       pos: 2
     nameRight: Nurse
-    textRight: Hehehe
+    textRight: Hehehe.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -336,7 +336,7 @@ story:
     - id: 305050
       lipSynch: 0
     nameCenter: Yuuna
-    textCenter: (How can I explain the mis-understanding.)
+    textCenter: (How can I explain the misunderstanding.)
   - chara:
     - id: 305050
       lipSynch: 0
@@ -369,7 +369,7 @@ story:
       motion: 0
       pos: 0
     nameRight: ""
-    textRight: Ah, Delicious!
+    textRight: Ah, delicious!
   - chara:
     - id: 801201
     nameRight: ""
@@ -395,7 +395,7 @@ story:
     nameRight: ""
     textRight: I wanna play too!
   - nameNarration: Yuuna
-    narration: In the end, I was never able to clear up the mis-understanding...
+    narration: In the end,@I was never able to clear up the misunderstanding...
     narrationBg: bg_adv_21771.jpg
     narrationEffect: in
   - autoTurnLast: 2
@@ -531,7 +531,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Hotori
-    textRight: '... When is the next Hospice party?'
+    textRight: '...When is the next Hospice party?'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -539,7 +539,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Yuuna
-    textLeft: February 14th ... @It's Valentine's day.
+    textLeft: February 14th... @It's Valentine's day.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

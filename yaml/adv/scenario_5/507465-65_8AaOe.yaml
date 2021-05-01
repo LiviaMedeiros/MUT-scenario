@@ -194,7 +194,7 @@ story:
       id: 102300
       motion: 200
       pos: 2
-    textLeft: ' [surround:1012A01][chara:304400:effect_7001_attack02]Attacking already!?'
+    textLeft: '[surround:1012A01][chara:304400:effect_7001_attack02]Attacking already!?'
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.2
     chara:

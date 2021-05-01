@@ -393,7 +393,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
-    textRight: instead of her, you should be worrying about @yourself.
+    textRight: Instead of her, you should be worrying about @yourself.
   - chara:
     - id: 102400
     textRight: You've got to stop letting yourself be taken in by Torayamachi's pipe
@@ -502,7 +502,7 @@ story:
     - id: 102300
       motion: 300
     nameLeft: Ao
-    textLeft: No matter how peacefull it gets, it will be the same @in the end...
+    textLeft: No matter how peaceful it gets, it will be the same @in the end...
     turnChangeOut: fadeOut
   - chara:
     - id: 102400

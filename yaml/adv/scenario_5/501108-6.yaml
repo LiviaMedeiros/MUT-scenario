@@ -22,7 +22,7 @@ story:
     - id: 100250
       lipSynch: 0
     narrationEffect: out
-    textCenter: (I was fighting all alone last year...)
+    textCenter: (I was fighting all alone until last year...)
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -45,18 +45,18 @@ story:
       id: 100250
       lipSynch: 0
       motion: 0
-    textCenter: (But I believe I was able to make some@strong bonds.)
+    textCenter: (I just think I've formed a good working@relationship with them...)
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_010.exp.json
       id: 100250
       lipSynch: 0
-    textCenter: (Bonds that will last forever...)
+    textCenter: (Yes, purely a working relationship...)
   - chara:
     - id: 100250
       lipSynch: 0
-    textCenter: (So I won't wish for any new relationships.)
+    textCenter: (So I won't wish for anything more@than that...)
   - chara:
     - id: 100250
       lipSynch: 0

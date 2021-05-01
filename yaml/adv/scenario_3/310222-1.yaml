@@ -94,8 +94,8 @@ story:
     - cheek: 1
       face: mtn_ex_020.exp.json
       id: 800700
-    textRight: A-anyway regulations are regulations, so just dye@that hair by the
-      next week...
+    textRight: A-anyway regulations are regulations, so just dye@that hair by next
+      week...
   - autoTurnLast: 0.01
     bg: bg_adv_21341.jpg
     chara:
@@ -242,7 +242,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: ""
-    textLeft: Yeah, let's back to the classroom.
+    textLeft: Yeah, let's go back to the classroom.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

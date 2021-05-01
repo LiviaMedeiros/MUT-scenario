@@ -132,7 +132,7 @@ story:
     textLeft: Certainly... After all, it seems...
   - chara:
     - id: 800100
-    textLeft: that the Karahu Family head's daughter will@be attending.
+    textLeft: that the Kaharu Family head's daughter will@be attending.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

@@ -31,7 +31,7 @@ story:
       motion: 300
     nameLeft: "\uFEFFTsuruno"
     surround: 7003_wind
-    textLeft: '...It’s such a lonely place. Is there really a village @here?'
+    textLeft: '...It’s such a lonely place. @Is there really a village here?'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -40,8 +40,8 @@ story:
       motion: 200
       pos: 2
     nameRight: Felicia
-    textRight: 'If you have any complaints, tell ’em to the navi!  @I didn’t mess
-      it up. '
+    textRight: 'If ya have any complaints, tell ’em to the navi! @I didn’t mess it
+      up. '
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -58,7 +58,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Felicia
-    textRight: ' Yea, we should be able to see the magic dome soon.'
+    textRight: Yea, we should be able to see the magic dome @soon.
   - autoTurnLast: 0.1
     bg: bg_adv_20641.jpg
     deleteArmatureList:
@@ -67,7 +67,7 @@ story:
     narrationEffect: in
     surround: stop
     turnChangeIn: fadeIn
-  - narration: Chapter 2 {Village of Meetings and Partings}
+  - narration: Chapter 2 (Green) {Village of Meetings and Partings}
     narrationCoverOpacity: 150
     narrationFontSize: 40
     turnChangeOut: fadeOut
@@ -113,7 +113,7 @@ story:
       motion: 100
     nameLeft: Tsuruno
     surround: 7001_birdsong
-    textLeft: Huuh? The scenery is completely different inside the dome!
+    textLeft: Huuh? The scenery is completely different @inside the dome!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -122,7 +122,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Tsuruno
-    textLeft: It doesn’t have a Christmasy feeling at all... I wonder @if people really
+    textLeft: It doesn’t have a Christmasy feeling at all... @I wonder if people really
       live here...?
   - chara:
     - id: 120302
@@ -150,7 +150,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 120302
     nameRight: Felicia
-    textRight: Anyway... Ain’t there any buildings anywhere here?
+    textRight: Anyway... @Ain’t there any buildings anywhere here?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -226,7 +226,7 @@ story:
     - id: 102700
       motion: 300
     nameRight: Sunao
-    textRight: We are so sorry it’s so desolate here...
+    textRight: We are very sorry it’s so desolate here...
     turnChangeOut: fadeOut
   - chara:
     - id: 102500
@@ -300,7 +300,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Shizuka
-    textLeft: When a new resident appears, someone vanishes in their place...
+    textLeft: When a new resident appears, someone vanishes @in their place...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -330,8 +330,8 @@ story:
       motion: 1
       pos: 2
     nameRight: Shizuka
-    textRight: I don’t know the reason for it, but... I’ve heard it’s always been
-      that way.
+    textRight: I don’t know the reason for it, but I’ve heard @it’s always been that
+      way...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -351,7 +351,7 @@ story:
   - chara:
     - id: 305800
     nameRight: Natsu Ryoko
-    textRight: So it’s not like she’s actually experienced it herself.
+    textRight: so it’s not like she’s actually experienced it herself.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -359,11 +359,11 @@ story:
       motion: 100
       pos: 0
     nameLeft: Sunao
-    textLeft: Before Shizuka-san came to this village...
+    textLeft: Before Shizuka-san came to this village,
   - chara:
     - id: 102700
     nameLeft: Sunao
-    textLeft: There was Ryoko-san, myself, and one other person.
+    textLeft: there was Ryoko-san, myself, and one other person.
   - autoTurnLast: 0.2
     bg: bg_adv_50011.jpg
     chara:
@@ -411,7 +411,7 @@ story:
     - eyeClose: 1
       id: 102700
     nameLeft: Sunao
-    textLeft: How should I put this- She was a loud, interesting @kind of person...
+    textLeft: How should I put this- @She was a loud, interesting kind of person...
   - chara:
     - id: 305800
     nameRight: Natsu Ryoko
@@ -426,7 +426,7 @@ story:
       id: 102700
       motion: 0
     nameRight: Natsu Ryoko
-    textRight: “Disaster, Player Meguru’s abs are about to give out!”
+    textRight: “Disaster, Player Meguru’s abs are about to @give out!”
   - chara:
     - id: 305800
     nameRight: Natsu Ryoko
@@ -436,7 +436,7 @@ story:
     - id: 305800
       motion: 400
     nameRight: Natsu Ryoko
-    textRight: “Finally, finally! Be knocked out of the ring...!?
+    textRight: “Finally, finally! Be knocked out of the ring...!?”
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -469,7 +469,7 @@ story:
     - id: 120301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: Me too... I wonder where I’ve heard it before?
+    textLeft: Me too... @I wonder where I’ve heard it before?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -516,12 +516,12 @@ story:
     - id: 305800
       motion: 0
     nameLeft: Tsuruno
-    textLeft: Even though Shizuka-chan had just gotten here...
+    textLeft: Even though Shizuka-chan had just gotten here,
   - chara:
     - id: 120301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: the number of villagers remained the same at three.
+    textLeft: the number of villagers remained the same @at three...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

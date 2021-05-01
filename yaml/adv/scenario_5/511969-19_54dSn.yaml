@@ -79,7 +79,7 @@ story:
       id: 120302
       motion: 100
     nameRight: Felicia
-    textRight: Yeah! To the rooftop!
+    textRight: Yea! To the rooftop!
   - autoTurnLast: 1
     bg: black
     deleteArmatureList:
@@ -141,7 +141,7 @@ story:
       id: 120302
       motion: 200
     nameRight: Felicia
-    textRight: We’re here! @Right below the Wishin’ Star!
+    textRight: We’re here! Right below the Wishin’ Star!
   - autoTurnLast: 0.5
     bg: bg_adv_24013.jpg
     turnChangeIn: fadeIn
@@ -165,10 +165,10 @@ story:
     - id: 120301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: Shigure-chan, can you hear? @We’ve come to the rooftop!
+    textLeft: Shigure-chan, can you hear? @We’ve arrived at the rooftop!
     turnChangeOut: fadeOut
   - nameNarration: Shigure
-    narration: '{So you’re the closest you can be... Is the bike also alright?}'
+    narration: '{So you’re the closest you can be... @Is the bike also alright?}'
     narrationBg: bg_adv_14081.jpg
     narrationEffect: in
   - chara:
@@ -186,8 +186,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 120302
     nameNarration: ""
-    narration: '{And now, we lie on the cusp of the dawn of a new moment in human
-      history! This is *the first* manned mission to the @End of the World!}'
+    narration: '{And now, we lie on the cusp of the dawn @of a new moment in human
+      history! @This is *the first* manned mission to the End of the World!}'
     narrationBg: bg_adv_14081.jpg
     narrationEffect: in
   - chara:
@@ -202,7 +202,7 @@ story:
       id: 120302
       motion: 200
     nameRight: Felicia
-    textRight: 'The rest is just flyin’ there on Reindeer-san #2, yeah?'
+    textRight: 'The rest is just flyin’ there on Reindeer-san #2, @yeah?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -213,13 +213,13 @@ story:
       id: 120302
       motion: 0
     nameNarration: Shigure
-    narration: '{Yeah... To avoid transmission loss, I want you to launch yourselves
-      into the sky and get as close to the Wishing Star as possible.}'
+    narration: '{Yeah... To avoid transmission loss, I want you to launch @yourselves
+      into the sky and get as close @to the Wishing Star as possible.}'
     narrationBg: bg_adv_14081.jpg
     narrationEffect: in
-  - narration: '{At that moment... the observatory will shoot a transmission beam.}'
-  - narration: '{The computer will automatically manage the positioning and timing,
-      so it should be fine... But just in case, send a signal right before you lift
+  - narration: '{At that moment... the observatory will shoot a @transmission beam.}'
+  - narration: '{The computer will automatically manage the @positioning and timing,
+      so it should be fine... @But just in case, send a signal right before you lift
       off.}'
   - nameNarration: Hagumu
     narration: '{Ah, um... I-I’ll also... d-do my best!}'
@@ -243,7 +243,7 @@ story:
       id: 120301
       motion: 300
     nameLeft: Tsuruno
-    textLeft: Yeah, until we’re merely bits... Sort of, makes me tremble.
+    textLeft: Yeah, until we’re merely bits... @Sort of, makes me tremble.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -279,10 +279,10 @@ story:
       id: 120302
       motion: 0
     nameLeft: Tsuruno
-    textLeft: '...Alright then, Shigure-chan! We’re departing for the other side of
-      that starry sky!'
+    textLeft: '...Alright then, Shigure-chan! We’re departing for @the other side
+      of that starry sky!'
   - nameNarration: Shigure
-    narration: '{...Understood. Observatory, please ready the transmission beam.}'
+    narration: '{...Understood. Observatory, @please ready the transmission beam.}'
     narrationBg: bg_adv_14081.jpg
     narrationEffect: in
   - chara:
@@ -292,7 +292,7 @@ story:
       motion: 200
     nameLeft: Tsuruno
     narrationEffect: out
-    textLeft: 'Super Reindeer-san #2 (reworked)! Star Booster, @ON!'
+    textLeft: 'Super Reindeer-san #2 (reworked)! @Star Booster, ON!'
   - autoTurnLast: 0.01
     deleteArmatureList:
     - 3
@@ -417,8 +417,8 @@ story:
             posY: 0
       path: resource/scenario/img/51119_storyselect_delivery/memoria_1572.jpg
     nameNarration: Hibiki Meguru
-    narration: -Meguru- They’re delivering smiles to the End of the World! @This is
-      the first, and probably the last, Space Flight!!
+    narration: -Meguru- @They’re delivering smiles to the End of the World! @This
+      is the first, and probably the last, Space Flight!!
   - armatureList:
     - animation:
       - action
@@ -681,9 +681,9 @@ story:
       lipSynch: 0
       motion: 100
     nameCenter: Tsuruno
-    textCenter: (Yeah, that’s only expected after being disintegrated into bits.)
+    textCenter: (Yeah, that’s only expected after being @disintegrated into bits.)
   - nameNarration: Shigure
-    narration: '{Fish that leave the aquarium can’t survive in the outside world.}'
+    narration: “Fish that leave the aquarium can’t survive in the outside world.”
     narrationBg: black
     narrationEffect: in
   - chara:
@@ -694,7 +694,7 @@ story:
       motion: 300
     nameCenter: Tsuruno
     narrationEffect: out
-    textCenter: (I remembered, something unpleasant-)
+    textCenter: (I remembered, something unpleasant.)
   - chara:
     - eyeClose: 1
       id: 120301
@@ -714,8 +714,8 @@ story:
     nameCenter: Tsuruno
     textCenter: (Which is to say... this is the other side of the @Wishing Star?)
   - nameNarration: Shigure
-    narration: '{The most probable result is... you’d be thrown into the void... @and
-      extinguished in the end.}'
+    narration: “The most probable result is... you’d be thrown into the void... @and
+      extinguished in the end.”
     narrationBg: black
     narrationEffect: in
   - chara:
@@ -744,12 +744,12 @@ story:
       id: 120301
       lipSynch: 0
     nameCenter: Tsuruno
-    textCenter: (This is the mightiest feat in history... The proof that @I existed.)
+    textCenter: (This is the mightiest feat in history... The proof @that I existed.)
   - chara:
     - id: 120301
       lipSynch: 0
     nameCenter: Tsuruno
-    textCenter: '(No one will witness it, but... I’ve left my mark on the world.) '
+    textCenter: '(No one will witness it, but... I’ve left my mark on @the world.) '
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -771,7 +771,7 @@ story:
     - id: 120301
       lipSynch: 0
     nameCenter: Tsuruno
-    textCenter: (Even if it’s only her who was delivered to the other side...)
+    textCenter: (Even if it’s only her who was delivered to the @other side...)
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -780,7 +780,7 @@ story:
       lipSynch: 0
       motion: 300
     nameCenter: Tsuruno
-    textCenter: (that’d be a full 100 points...)
+    textCenter: (That’d be a full 100 points...)
   - autoTurnLast: 3
     bg: black
     chara:
@@ -805,7 +805,7 @@ story:
       id: 120302
       lipSynch: 0
     nameCenter: Felicia
-    textCenter: '...!?'
+    textCenter: '!?'
   - chara:
     - id: 120302
       lipSynch: 0
@@ -836,7 +836,7 @@ story:
     - id: 120302
       lipSynch: 0
     nameCenter: Felicia
-    textCenter: (what I forgot, should be somewhere ‘round here right...?)
+    textCenter: (what I forgot, should be somewhere ’round here right...?)
   - chara:
     - id: 120302
       lipSynch: 0
@@ -905,7 +905,7 @@ story:
       lipSynch: 0
       motion: 300
     nameRight: Felicia
-    textRight: (Oh yeah, I think someone said that ain’t a star, but a “door”.)
+    textRight: (Oh yeah, I think someone said that ain’t a star, @but a “door”.)
   - chara:
     - id: 120302
       lipSynch: 0
@@ -932,7 +932,7 @@ story:
     turnChangeInTime: 2
     turnChangeOutTime: 1
   - nameNarration: Felicia
-    narration: -Felicia- @...!?
+    narration: -Felicia- @!?
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -986,7 +986,7 @@ story:
     - id: 120302
       lipSynch: 0
     nameCenter: Felicia
-    textCenter: (as well as two people...@Right... those people called “family”.)
+    textCenter: (as well as two people... Right... those people @called “family”.)
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
@@ -994,14 +994,14 @@ story:
       lipSynch: 0
       motion: 0
     nameCenter: Felicia
-    textCenter: (That blissful time...)
+    textCenter: (That blissful time)
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 120302
       lipSynch: 0
     nameCenter: Felicia
-    textCenter: (was just like a miracle.)
+    textCenter: (was just like a miracle...)
   - chara:
     - id: 120302
       lipSynch: 0

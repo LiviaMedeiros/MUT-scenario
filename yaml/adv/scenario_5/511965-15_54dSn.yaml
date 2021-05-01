@@ -97,14 +97,15 @@ story:
       face: mtn_ex_051.exp.json
       id: 102900
     nameLeft: Shigure
-    textLeft: Really...? @That went faster... than I expected.
+    textLeft: Really...? That went faster... than I expected.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102900
       motion: 1
     nameLeft: Shigure
-    textLeft: 'It was really fortunate... that Library Town’s citizens helped us out. '
+    textLeft: 'It was really fortunate... that Library Town’s @citizens helped us
+      out. '
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -146,7 +147,7 @@ story:
       id: 120301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: Just what happens when things are on a larger scale than before.
+    textLeft: Just what happens when things are on a larger @scale than before.
   - chara:
     - id: 120302
     nameRight: Felicia
@@ -224,7 +225,7 @@ story:
     - id: 120302
       motion: 200
     nameRight: Felicia
-    textRight: 'With the remodeled Reindeer-san #2,  '
+    textRight: 'With the remodeled Reindeer-san #2,'
     turnChangeOut: fadeOut
   - chara:
     - id: 120302
@@ -234,7 +235,7 @@ story:
     - id: 102900
       motion: 100
     nameLeft: Shigure
-    textLeft: Yeah... The necessary adjustments were made to the motorcycle and okamochi.
+    textLeft: Yeah... The necessary adjustments were made to @the motorcycle and okamochi.
   - chara:
     - id: 102900
     nameLeft: Shigure
@@ -280,7 +281,7 @@ story:
       id: 120301
       motion: 0
     nameLeft: Shigure
-    textLeft: Since the communication protocol we use should be @the same as in the
+    textLeft: Since the communication protocol we use should @be the same as in the
       angels’ world,
   - chara:
     - id: 102900
@@ -304,7 +305,7 @@ story:
       id: 102900
       motion: 1
     nameLeft: Shigure
-    textLeft: '...Yeah... With our knowledge... we can’t predict what will happen.'
+    textLeft: '...Yeah... With our knowledge... we can’t predict @what will happen.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -339,7 +340,8 @@ story:
       id: 120301
       motion: 101
     nameRight: Tsuruno
-    textRight: Saying I’m not scared would be a lie, but even so, I’m willing to believe
+    textRight: Saying I’m not scared would be a lie, but even so, @I’m willing to
+      believe
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -361,7 +363,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Felicia
-    textRight: We’ve already made up our minds ‘bout this, @no point in frettin’ now!
+    textRight: We’ve already made up our minds ’bout this, @no point in frettin’ now!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

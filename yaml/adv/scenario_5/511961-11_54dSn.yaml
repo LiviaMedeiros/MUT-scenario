@@ -125,7 +125,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Hagumu
-    textRight: '[chara:103000:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:103000:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -146,7 +146,7 @@ story:
     - id: 304200
       motion: 200
     nameRight: Hibiki Meguru
-    textRight: the Three Wise Girls on the other side of the Wishing Star!
+    textRight: the Three Wise Girls on the other side of the @Wishing Star!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -175,7 +175,7 @@ story:
     - id: 102900
       motion: 100
     nameRight: Shigure
-    textRight: '...I think the Magi had no intention of destroying the world.'
+    textRight: '...I think the Magi had no intention of destroying @the world.'
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -292,7 +292,7 @@ story:
     - id: 120301
       motion: 0
     nameLeft: Tsuruno
-    textLeft: even if we completed a million deliveries, it’d still be nowhere near
+    textLeft: even if we completed a million deliveries, it’d still @be nowhere near
       enough!
   - chara:
     - cheek: 0
@@ -335,12 +335,12 @@ story:
       motion: 0
       pos: 0
     nameLeft: Felicia
-    textLeft: ‘Bout how much up would it go?
+    textLeft: ’Bout how much up would it go?
   - chara:
     - id: 102900
       motion: 300
     nameRight: Shigure
-    textRight: Uh... I haven’t tried to calculate just how many extra digits it would
+    textRight: Uh... I haven’t tried to calculate just how many @extra digits it would
       be...
   - chara:
     - cheek: 0
@@ -377,7 +377,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Felicia
-    textLeft: Is it really that hard?
+    textLeft: Is it really that bad?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

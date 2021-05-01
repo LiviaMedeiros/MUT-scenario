@@ -68,7 +68,7 @@ story:
       face: mtn_ex_042.exp.json
       id: 102201
       motion: 0
-    textRight: Hikaru...looks like someone who'd welch...?
+    textRight: Hikaru...looks like someone who'd welsh...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -387,7 +387,7 @@ story:
     textRight: Erm...the student council president is the head@honcho right?
   - chara:
     - id: 102201
-    textRight: Why should a person who aims to be the one@do this kind of chore...
+    textRight: Why should a person who aims to be the@president do this kind of chore...
   - chara:
     - id: 102201
       motion: 1
@@ -404,7 +404,7 @@ story:
     textLeft: I decided for myself that I will become the student@council president.
   - chara:
     - id: 102103
-    textLeft: There is no way making efforts to become the one@is fruitless.
+    textLeft: There is no way making efforts to become the@president is fruitless.
   - chara:
     - id: 102201
       motion: 300

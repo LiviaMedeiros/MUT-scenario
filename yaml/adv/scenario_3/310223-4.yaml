@@ -35,7 +35,7 @@ story:
       id: 102201
       motion: 400
     textLeft: '[chara:102201:effect_emotion_surprise_0][se:7226_shock]Wh-why are you
-      laughing at this time?!'
+      laughing now of all times?!'
   - chara:
     - id: 102103
       motion: 1
@@ -293,8 +293,8 @@ story:
   - chara:
     - id: 102103
       motion: 0
-    textCenter: '...the ones who have brought enormous passion into@my activities...My
-      comrades.'
+    textCenter: '...the ones who have brought enormous passion into@my activities...
+      my comrades.'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -445,7 +445,7 @@ story:
   - chara:
     - id: 102201
       motion: 300
-    textLeft: I had no friend around me, so every day,@I was anxious...
+    textLeft: I had no friends around me, so every day,@I was anxious...
   - chara:
     - id: 102201
     textLeft: Not figuratively but, really I was all alone...

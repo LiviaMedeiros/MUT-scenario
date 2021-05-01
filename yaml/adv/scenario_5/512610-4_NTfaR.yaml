@@ -132,7 +132,7 @@ story:
       motion: 400
     nameLeft: Ashley
     textLeft: T-to the other side...?
-  - nameCenter: Riko's
+  - nameCenter: Riko's voice
     textCenter: Eek...! Th-that means...
   - chara:
     - cheek: 0

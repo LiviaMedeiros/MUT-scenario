@@ -85,7 +85,7 @@ story:
     - id: 302001
       motion: 1
     nameLeft: Himika
-    textLeft: I guess you appeared in my dream because I met you yesterday...?
+    textLeft: I guess you appeared in my dream because@I met you yesterday...?
   - chara:
     - cheek: 0
       eyeClose: 1

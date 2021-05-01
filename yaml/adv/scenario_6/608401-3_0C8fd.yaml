@@ -224,14 +224,14 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 301950
-    textLeft: That...[chara:301950:lipSynch_0][wait:1.0][chara:301950:cheek_0][chara:301950:motion_100][chara:301950:face_mtn_ex_011.exp.json][chara:301950:lipSynch_1]depends
-      on Shizuku!!
+    textLeft: That...[chara:301950:lipSynch_0][wait:1.0][chara:301950:cheek_0][chara:301950:motion_100][chara:301950:face_mtn_ex_011.exp.json][chara:301950:lipSynch_1]
+      depends on Shizuku!!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300750
       motion: 400
-    textRight: M, me?
+    textRight: M-me?
   - chara:
     - id: 301950
       motion: 0
@@ -305,7 +305,7 @@ story:
       motion: 100
       mouthOpen: 1
     textBg: shout
-    textLeft: Please please please please please
+    textLeft: Please please please please please—
   - chara:
     - id: 300750
       motion: 400
@@ -325,7 +325,7 @@ story:
     textRight: If you asked me to remember the lines right now I@would refuse, but,
   - chara:
     - id: 300750
-    textRight: Since I watched you two practice so much, I already@memorized it.
+    textRight: since I watched you two practice so much, I already@memorized it.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -374,7 +374,7 @@ story:
     - id: 301950
     nameNarration: Ayaka
     narration: ―Ayaka―@No, it can stare at the sun!! Werewolves are amazing!!@It's
-      the king of "chimiryou!!"
+      the king of "chimiryou"!!
   - chara:
     - id: 300750
     nameNarration: Shizuku
@@ -386,7 +386,7 @@ story:
   - chara:
     - id: 300750
     nameNarration: Shizuku
-    narration: ―Shizuku―@You're suddenly starting something?! Also, I'm scared of
+    narration: ―Shizuku―@You're suddenly starting something?!@Also, I'm scared of
       the echo!
   - chara:
     - id: 301950
@@ -456,7 +456,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300701
       lipSynch: 0
-    textRight: (Maybe we delivered some smiles, according to@Ayaka's objective.)
+    textRight: (maybe we delivered some smiles, according to@Ayaka's objective.)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

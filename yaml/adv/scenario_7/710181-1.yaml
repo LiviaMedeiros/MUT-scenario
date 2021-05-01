@@ -158,7 +158,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 101850
       motion: 1
-    textLeft: You could get along again just as we have.
+    textLeft: you could get along again just as we have.
   - chara:
     - id: 715001
       motion: 200
@@ -179,7 +179,7 @@ story:
       id: 715002
       motion: 400
       pos: 2
-    textRight: Ah...Tsukuyo and@[chara:715002:lipSynch_0][wait:1][chara:715002:lipSynch_1]...Satobon?!
+    textRight: Ah...Tsukuyo and...@[chara:715002:lipSynch_0][wait:1][chara:715002:lipSynch_1]...Satobon?!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -191,7 +191,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 715002
       motion: 0
-    textRight: Um...I actually[chara:715002:lipSynch_0][wait:1][chara:715002:lipSynch_1]...dropped...[chara:715002:lipSynch_0][wait:0.8][chara:715002:lipSynch_1]that
+    textRight: Um...I actually...[chara:715002:lipSynch_0][wait:1][chara:715002:lipSynch_1]dropped...[chara:715002:lipSynch_0][wait:0.8][chara:715002:lipSynch_1]that
       letter.
   - chara:
     - id: 715002
@@ -217,7 +217,7 @@ story:
     textCenter: At that time, when we were spoken to about@Witches and Magical Girls,
   - chara:
     - id: 715001
-    textCenter: Learning all of that at once, I got confused...
+    textCenter: learning all of that at once, I got confused...
   - chara:
     - id: 715001
     textCenter: I think I ended up venting everything on Suzucchi.
@@ -273,7 +273,7 @@ story:
     textLeft: Suzucchi, wrote a reconciliation letter to Satobon,
   - chara:
     - id: 101850
-    textLeft: But lost her courage to hand it to her and became@hesitant.
+    textLeft: but lost her courage to hand it to her and became@hesitant.
   - chara:
     - id: 715002
       motion: 300
@@ -299,7 +299,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 715001
-    textCenter: It's thanks to Tsukuyo that were were able to make@up!
+    textCenter: It's thanks to Tsukuyo that we were able to@make up!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -308,7 +308,7 @@ story:
     textLeft: '...Then that is good. However, there is one thing you@should heed.'
   - chara:
     - id: 101850
-    textLeft: It is a general rule that feathers must hide their@identities.
+    textLeft: It is a general rule that Feathers must hide their@identities.
   - chara:
     - id: 101850
     textLeft: In the future, please do not...
@@ -336,7 +336,7 @@ story:
   - chara:
     - id: 715001
       motion: 200
-    textCenter: Delivered a wonderful gift to me...!
+    textCenter: '...delivered a wonderful gift to me...!'
   - chara:
     - id: 101850
       motion: 100
@@ -368,7 +368,7 @@ story:
     textCenter: Ah...that reminds me, Tsukuyo,
   - chara:
     - id: 715001
-    textCenter: That costume...are you going to a Christmas party@today?
+    textCenter: that costume...are you going to a Christmas party@today?
   - chara:
     - id: 101850
       motion: 1
@@ -376,7 +376,7 @@ story:
   - chara:
     - id: 715001
       motion: 200
-    textCenter: And they're matching, right? Wow, how lovely...!
+    textCenter: And they're matching, right?@Wow, how lovely...!
   - chara:
     - id: 715002
       motion: 100

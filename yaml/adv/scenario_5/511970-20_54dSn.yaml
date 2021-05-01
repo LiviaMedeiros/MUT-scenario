@@ -95,7 +95,7 @@ story:
     - id: 100101
       motion: 100
     nameRight: Iroha
-    textRight: '...I heard Felicia-chan and you all were playing a @game?'
+    textRight: '...I heard Felicia-chan and you all were playing @a game?'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -114,7 +114,7 @@ story:
   - chara:
     - id: 101501
     nameLeft: Ui
-    textLeft: It’s a game where you just watch everyone’s avatars.
+    textLeft: It’s a game where you just watch everyone’s @avatars.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -126,7 +126,7 @@ story:
     - id: 100101
       motion: 401
     nameRight: Iroha
-    textRight: Heeh...!
+    textRight: Wow...!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -233,7 +233,7 @@ story:
     bg: white
     turnChangeIn: fadeIn
   - nameNarration: Tsuruno
-    narration: '[textBlack:I''m also not there!]'
+    narration: '[textBlack:I’m also not there!]'
     narrationBg: white
     narrationCoverOpacity: 0
     narrationEffect: in
@@ -303,7 +303,7 @@ story:
     - id: 101501
       motion: 400
     nameLeft: Ui
-    textLeft: Eh...!? @What does this mean...!?
+    textLeft: Eh...!? What does this mean...!?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -330,7 +330,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm24_story08
     nameNarration: Tsuruno
-    narration: '[se:3201_heal]@-Tsuruno- @We’re your old pals, the Reindeer Santas!
+    narration: '[se:3201_heal]-Tsuruno- @We’re your old pals, the Reindeer Santas!
       @We’re here to deliver smiles!'
     narrationAnchor: bottom
     narrationCoverOpacity: 110
@@ -340,7 +340,7 @@ story:
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - nameNarration: Felicia
-    narration: '@-Felicia-@ We can visit anywhere on the ‘net with Super Reindeer-san
+    narration: '-Felicia- @We can visit anywhere on the ’net @with Super Reindeer-san
       #2 (reworked)!'
   - autoTurnLast: 1
     bg: bg_adv_21201.jpg
@@ -376,7 +376,7 @@ story:
     - id: 100501
       motion: 200
     nameRight: Felicia
-    textRight: Why’re they over there? Ui, you’ve never started the game, right?
+    textRight: Why’re they over there? Ui, you’ve never started @the game, right?
   - chara:
     - id: 101501
       motion: 400
@@ -425,7 +425,7 @@ story:
     - id: 100501
       motion: 200
     nameRight: Felicia
-    textRight: and they can freely go anywhere on the ‘net?
+    textRight: and they can freely go anywhere on the ’net?
   - chara:
     - id: 101501
       motion: 300

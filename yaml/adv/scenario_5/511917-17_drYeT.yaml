@@ -47,7 +47,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Nayuta
-    textRight: In regards to that, I cannot remember their name or what they look
+    textRight: In regards to that, I cannot remember their name @or what they look
       like.
   - chara:
     - id: 103700
@@ -65,7 +65,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: You two were close, yet you can't remember what @they were like?
+    textLeft: You two were close, yet you can’t remember what @they were like?
   - chara:
     - eyeClose: 0
       id: 103700
@@ -88,14 +88,14 @@ story:
   - chara:
     - id: 103300
     nameRight: Rabi
-    textRight: And it's someone who, I can't say I'm fond of just yet, but I can place
+    textRight: And it’s someone who, I can’t say I’m fond of just yet, but I can place
       all of my trust in.
   - chara:
     - eyeClose: 1
       id: 103300
       motion: 100
     nameRight: Rabi
-    textRight: That's who I’m looking for.
+    textRight: That’s who I’m looking for.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -141,12 +141,12 @@ story:
       face: mtn_ex_030.exp.json
       id: 120302
     nameLeft: Felicia
-    textLeft: I also have somethin’ I can’t remember, somethin’ @real important.
+    textLeft: I also have somethin’ I can’t remember, somethin’ @real important
   - chara:
     - id: 120302
       motion: 300
     nameLeft: Felicia
-    textLeft: That I'm travelin’ to get back...
+    textLeft: that I’m travelin’ to get back...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -175,7 +175,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Felicia
-    textLeft: That's right!
+    textLeft: That’s right!
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -204,7 +204,7 @@ story:
       id: 303800
       motion: 1
     nameLeft: Komachi Mikura
-    textLeft: '...No, I think it''s lovely.'
+    textLeft: '...No, I think it’s lovely.'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -229,7 +229,7 @@ story:
     - id: 120301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: The two of you are searching for someone you @respect, right?
+    textLeft: the two of you are searching for someone you @respect, right?
   - chara:
     - id: 103700
       motion: 200
@@ -275,7 +275,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: '...If we help these people, we might learn something.'
+    textLeft: '...If we help these people, we might learn @something.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -299,7 +299,7 @@ story:
       id: 120301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: It's time for us Reindeer Santas to take center stage!
+    textLeft: It’s time for us Reindeer Santas to take center @stage!
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -307,7 +307,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Rabi
-    textRight: Reindeer Santa...?
+    textRight: Reindeer Santas...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -380,12 +380,12 @@ story:
       id: 120301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: Open this box?
+    textLeft: open this box?
   - chara:
     - id: 103300
       motion: 0
     nameRight: Rabi
-    textRight: I don't really know what this is, but...
+    textRight: I don’t really know what this is, but...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -459,7 +459,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: I'll explain!
+    textLeft: I’ll explain!
   - autoTurnLast: 2
     bgm: stop
     deleteArmatureList:

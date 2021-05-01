@@ -64,7 +64,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Felicia
-    textLeft: Yachiyo has magazine work, so great timin’, Tsuruno.
+    textLeft: Yachiyo has magazine work, so great timin’, @Tsuruno.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -160,8 +160,8 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: Said to be located just above the End of the World...
-  - narration: That exceptionally bright star came to be called the wish-granting
-      “Wishing Star”...
+  - narration: That exceptionally bright star @came to be called the wish-granting
+      @“Wishing Star”...
   - autoTurnLast: 0.5
     bg: bg_adv_21201.jpg
     chara:
@@ -321,7 +321,7 @@ story:
     - id: 100301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: It's been so long since I've played “Little Vacation”...
+    textLeft: It’s been so long since I’ve played “Little Vacation”...
   - chara:
     - id: 101501
     nameRight: Ui
@@ -333,7 +333,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: It’s because it’s invite-only.
+    textLeft: That’s because it’s invite-only.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -341,7 +341,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Felicia
-    textRight: I learned ‘bout it from Kako and started playin’ with Tsuruno.
+    textRight: I learned ’bout it from Kako and started playin’ @with Tsuruno.
   - chara:
     - id: 100301
       motion: 0
@@ -433,7 +433,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: There are some familiar places, but it’s a mysterious @world.
+    textLeft: There are some familiar places, but it’s a @mysterious world.
   - chara:
     - id: 101501
       motion: 300
@@ -443,11 +443,11 @@ story:
     - id: 100301
       motion: 1
     nameLeft: Tsuruno
-    textLeft: Yup, it’s a blend of that along with real-life elements mixed in.
+    textLeft: Yup, it’s a blend of that along with real-life @elements mixed in.
   - chara:
     - id: 100301
     nameLeft: Tsuruno
-    textLeft: If I remember right, it’s always Christmas in that world
+    textLeft: If I remember right, it’s always Christmas @in that world
   - chara:
     - id: 100301
     nameLeft: Tsuruno

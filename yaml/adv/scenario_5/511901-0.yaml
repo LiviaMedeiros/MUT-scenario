@@ -16,13 +16,13 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: '{Well today''s another great day on the public band, @it''s your very
+    narration: '{Well today’s another great day on the public band, @it’s your very
       illegal station @- Pirate Radio Central!}'
     narrationBg: bg_adv_20641.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: '{Coming at you live is the cosmic, @sword-loving idol’s, Sayu-Sayu''s
-      best of the best, @"High End National Treasure"!}'
+  - narration: '{Coming at you live is the cosmic, @sword-loving idol’s, Sayu-Sayu’s
+      best of the best, @“High End National Treasure”!}'
   - armatureList:
     - animation:
       - action
@@ -39,7 +39,7 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameNarration: Felicia
-    narration: -Felicia- @The radio's changed. We gotta be close to the next town.
+    narration: -Felicia- @The radio’s changed. We gotta be close to the next town.
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -47,13 +47,13 @@ story:
     narrationLineMargin: 10
     narrationLineSpace: 20
     turnChangeOut: fadeOut
-  - narration: -Felicia- @You see it, Tsuruno?
+  - narration: -Felicia- @Ya see it, Tsuruno?
   - nameNarration: Tsuruno
-    narration: -Tsuruno- @Yep! There's no doubt, that's the town!
+    narration: -Tsuruno- @Yep! There’s no doubt, that’s the town!
   - nameNarration: Felicia
     narration: -Felicia- @We good on fuel?
   - nameNarration: Tsuruno
-    narration: -Tsuruno- @We’re at 50 percent, don't worry about running out of gas!
+    narration: -Tsuruno- @We’re at 50 percent, don’t worry about running out of gas!
   - nameNarration: Felicia
     narration: -Felicia- @Why’d it have to be 50 points…
   - autoTurnLast: 0.5
@@ -87,7 +87,7 @@ story:
       id: 120301
       motion: 101
     nameLeft: Tsuruno
-    textLeft: I'll get it to a perfect 100 points in due time!
+    textLeft: I’ll get it to a perfect 100 points in due time!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -103,7 +103,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Felicia
-    textRight: Why are ya suddenly talkin' so cool!
+    textRight: Why are ya suddenly talkin’ so cool!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -151,13 +151,13 @@ story:
       motion: 0
       pos: 2
     nameLeft: Tsuruno
-    textLeft: '...Well, that''s enough talking, get on the back!'
+    textLeft: '...Well, that’s enough talking, get on the back!'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 120301
     nameLeft: Tsuruno
-    textLeft: Our objective‘s that town over there!
+    textLeft: Our objective’s that town over there!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -175,7 +175,7 @@ story:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_caribou_mini.png
       visible: hide
     nameRight: Felicia
-    textRight: Alright! @Let's go with a vroom vroom!
+    textRight: Alright! @Let’s go with a vroom vroom!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -183,11 +183,11 @@ story:
       motion: 201
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Roger that! @We're gonna go faast!
+    textLeft: Roger that! @We’re gonna go faast!
   - chara:
     - id: 120301
     nameLeft: Tsuruno
-    textLeft: It's Christmas season! @So the sun's going down soon.
+    textLeft: It’s Christmas season! @So the sun’s going down soon.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -195,7 +195,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Felicia
-    textRight: '...Hm, ain''t that strange though?'
+    textRight: '...Hm, ain’t that strange though?'
   - chara:
     - id: 120302
     nameRight: Felicia
@@ -215,7 +215,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Come on, let's go deliver some smiles!
+    textLeft: Come on, let’s go deliver some smiles!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

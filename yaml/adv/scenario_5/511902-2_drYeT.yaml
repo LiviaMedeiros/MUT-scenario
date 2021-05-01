@@ -34,7 +34,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Felicia
-    textLeft: Don't ya already have some?
+    textLeft: Don’t ya already have some?
   - chara:
     - id: 103800
       motion: 400
@@ -47,7 +47,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Tsuruno
-    textLeft: You're in Candy Town, but you want candy.
+    textLeft: You’re in Candy Town, but you want candy.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -61,7 +61,7 @@ story:
       eyeClose: 1
       id: 103800
     nameRight: Mikage
-    textRight: It's so soft and chewy in your mouth… and super sweet~
+    textRight: It’s so soft and chewy in your mouth @and super sweet~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -69,12 +69,12 @@ story:
       motion: 300
       pos: 2
     nameRight: Chiaki Riko
-    textRight: But there aren't any in the stores, so we have to get @it from the
+    textRight: But there aren’t any in the stores, so we have to get @it from the
       crane game.
   - chara:
     - id: 303500
     nameRight: Chiaki Riko
-    textRight: It's hard to get any to eat...
+    textRight: It’s hard to get any to eat...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -82,7 +82,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Felicia
-    textLeft: If that's it, then leave it to me!
+    textLeft: If that’s it, then leave it to me!
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -100,7 +100,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Felicia
-    textLeft: I'll smash the glass usin' my hammer…
+    textLeft: I’ll smash the glass usin’ my hammer…
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -127,7 +127,7 @@ story:
       face: mtn_ex_040.exp.json
       id: 120301
     nameLeft: Tsuruno
-    textLeft: That'll make you a burglar, not Santa!
+    textLeft: That’ll make you a burglar, not Santa!
   - autoTurnLast: 0.2
     chara:
     - cheek: 0
@@ -142,7 +142,7 @@ story:
     - id: 120302
       motion: 300
     nameRight: Felicia
-    textRight: Tch, that's no good huh… @Thought this'd be an easy job.
+    textRight: Tch, that’s no good huh… @Thought this’d be an easy job.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -150,7 +150,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Let's do what we usually do! Here, get the okamochi out.
+    textLeft: Let’s do what we usually do! @Here, get the okamochi out.
   - chara:
     - id: 120302
       motion: 100
@@ -163,7 +163,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Mikage
-    textRight: What's... that?
+    textRight: What’s... that?
   - autoTurnLast: 0.5
     item:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_magical_box.png
@@ -178,7 +178,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Tadaa! Banbanzai's Magical Okamochi Box!
+    textLeft: Tadaa! Banbanzai’s Magical Okamochi Box!
   - chara:
     - id: 120301
     nameLeft: Tsuruno
@@ -224,7 +224,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: It's possible. Try opening it?
+    textLeft: It’s possible. Try opening it?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -249,7 +249,7 @@ story:
       pos: 2
     nameRight: Mikage
     narrationEffect: out
-    textRight: Huh...? @There's no... candy?
+    textRight: Huh...? There’s no candy...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -257,7 +257,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Chiaki Riko
-    textRight: Three small bags and... a ribbon?
+    textRight: Three small bags... and a ribbon?
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -265,7 +265,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Tsuruno
-    textLeft: It's a gift wrapping set.
+    textLeft: It’s a gift wrapping set.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -279,7 +279,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Mikage
-    textRight: No, it's all wrong!
+    textRight: No, it’s all wrong!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -304,11 +304,11 @@ story:
   - chara:
     - id: 120301
     nameLeft: Tsuruno
-    textLeft: but we're Santas who deliver "smiles".
+    textLeft: but we’re Santas who deliver *smiles*.
   - chara:
     - id: 120301
     nameLeft: Tsuruno
-    textLeft: Never once has the box,
+    textLeft: Never once has the box
   - chara:
     - id: 120301
       motion: 100
@@ -319,7 +319,7 @@ story:
       motion: 300
     nameLeft: Tsuruno
     textLeft: There’s no mistaking that whatever comes out can definitely help bring
-      about smiles in the end, but...
+      about smiles in the end...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -327,12 +327,12 @@ story:
       motion: 100
       pos: 2
     nameRight: Felicia
-    textRight: Now the hard part’s here…
+    textRight: But now the hard part’s here…
   - chara:
     - id: 120301
       motion: 0
     nameLeft: Tsuruno
-    textLeft: Yeah, this feels like it'll be hard.
+    textLeft: Yeah, this feels like it’ll be hard.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -340,13 +340,13 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: But don't you worry!
+    textLeft: But don’t you worry!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 120301
     nameLeft: Tsuruno
-    textLeft: I assure you that we'll make you smile!
+    textLeft: I assure you that we’ll make you smile!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -363,7 +363,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Felicia
-    textRight: '[chara:120302:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:120302:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - id: 120302
     - id: 120301
@@ -398,7 +398,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 120301
     nameLeft: Tsuruno
-    textLeft: And in the same way, I'll make Mikage-chan smile, @too!
+    textLeft: And in the same way, I’ll make Mikage-chan smile, @too!
   - autoTurnLast: 2
     bgm: stop
     deleteArmatureList:

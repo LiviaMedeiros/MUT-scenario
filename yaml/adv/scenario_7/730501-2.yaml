@@ -122,16 +122,16 @@ story:
     nameRight: Yuuna
     textRight: Yeah... I didn't have time to change, sorry...
   - nameNarration: Yuuna
-    narration: We, the students of St Liliana Academy hold an annual party...
+    narration: We, the students of St Liliana Academy@hold an annual party...
     narrationBg: bg_adv_19311.jpg
     narrationEffect: in
-  - narration: For the children here who have all been diagnosed with incurable diseases,
+  - narration: For the children here who have all been diagnosed with@incurable diseases,
       untreatable by modern medicine.
-  - narration: The destination is the "hospice" center attached to Satomi Medical
+  - narration: The destination is the "hospice" center@attached to Satomi Medical
       Center.
-  - narration: The Satomi Medical Center offers the most advanced treatments in Japan
+  - narration: The Satomi Medical Center offers the most advanced@treatments in Japan
       for children with all kinds of illnesses.
-  - narration: The hospice is a home for those who cannot be saved, to calmly await
+  - narration: The hospice is a home for those who cannot be saved,@to camly await
       their time.
   - chara:
     - id: 304501
@@ -172,7 +172,7 @@ story:
     - id: 305050
       motion: 0
     nameRight: Yuuna
-    textRight: '... And here are some tea and cookies from a @good cafe.'
+    textRight: '...And here are some tea and cookies from a @good cafe.'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -337,7 +337,7 @@ story:
     textLeft: Yeah, there's no mistake!
   - bgm: bgm03_story06
     nameNarration: Yuuna
-    narration: So, your saying that I used magic to help you get out of a strange
+    narration: So, you're saying that I used magic to help you get out of@a strange
       place your family had gotten lost in?
     narrationBg: bg_adv_19311.jpg
     narrationEffect: in
@@ -345,7 +345,7 @@ story:
     - id: 801201
     nameLeft: ""
     narrationEffect: out
-    textLeft: You transformed, and saved me with a magic ribbon!
+    textLeft: You transformed, and saved me with a magic@ribbon!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -374,7 +374,7 @@ story:
   - chara:
     - id: 801201
     nameLeft: ""
-    textLeft: you taught me!
+    textLeft: You taught me!
   - chara:
     - id: 305050
       motion: 300
@@ -395,7 +395,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Hotori
-    textRight: Where you able to see her face?
+    textRight: Were you able to see her face?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

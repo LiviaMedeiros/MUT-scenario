@@ -66,7 +66,7 @@ story:
   - chara:
     - id: 102400
       lipSynch: 0
-    textCenter: (They're blocking my way to Nee-san...)
+    textCenter: (They're blocking my way to Big Sis...)
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

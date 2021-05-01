@@ -26,7 +26,7 @@ story:
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - nameNarration: Felicia
-    narration: -Felicia- @What's this guy used for?
+    narration: -Felicia- @What’s this guy used for?
   - nameNarration: Hagumu
     narration: -Hagumu- @Ah... Uh... Um...
   - nameNarration: Shigure
@@ -79,11 +79,11 @@ story:
     - id: 102900
       motion: 100
     nameRight: Shigure
-    textRight: This is... @our base of operations...
+    textRight: This is... our base of operations...
   - chara:
     - id: 102900
     nameRight: Shigure
-    textRight: for our plan to transmit our voices beyond the End of the World...
+    textRight: for our plan to transmit our voices beyond the End @of the World...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -134,7 +134,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Hagumu
-    textRight: '...Eh...? @At the base of... the Wishing Star?'
+    textRight: '...Eh...? At the base of... the Wishing Star?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -159,7 +159,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Hagumu
-    textRight: Eh... Ah... @Not funny, but well...
+    textRight: Eh... Ah... Not funny, but well...
   - autoTurnLast: 0.2
     chara:
     - id: 102900
@@ -184,7 +184,7 @@ story:
       id: 102900
       motion: 0
     nameRight: Shigure
-    textRight: '...the End of the World... @isn’t at the base of the Wishing Star.'
+    textRight: '...the End of the World... isn’t at the base of @the Wishing Star.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -200,8 +200,8 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story06
     nameNarration: Shigure
-    narration: -Shigure- @There’s a tall tower near this city... called the "Central
-      Tower".
+    narration: -Shigure- @There’s a tall tower near this city... called the “Central
+      Tower”.
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -240,7 +240,7 @@ story:
     - id: 120301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: Just now, you said it's nearby!?
+    textLeft: Just now, you said it’s nearby!?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -248,7 +248,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Hagumu
-    textRight: Yeah... It's not more than a few hours away.
+    textRight: Yeah... It’s not more than a few hours away.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -256,7 +256,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Felicia
-    textLeft: Then that means the End of the World is right ahead!
+    textLeft: Then that means the End of the World is right @ahead!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -275,7 +275,7 @@ story:
       id: 120302
       motion: 100
     nameLeft: Felicia
-    textLeft: Huh...? @Ain’t there a cliff?
+    textLeft: Huh...? Ain’t there a cliff?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -301,13 +301,13 @@ story:
       motion: 200
       pos: 2
     nameRight: Shigure
-    textRight: Another town... @will come into view.
+    textRight: Another town... will come into view.
   - chara:
     - id: 120302
       lipSynch: 0
       motion: 400
     nameLeft: Felicia
-    textLeft: '[chara:120302:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textLeft: '[chara:120302:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -340,7 +340,7 @@ story:
       id: 102900
       motion: 100
     nameRight: Shigure
-    textRight: I think someday... you'll return to the town where you first departed
+    textRight: I think someday... you’ll return to the town where @you first departed
       from...
   - chara:
     - cheek: 0
@@ -366,7 +366,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Shigure
-    textRight: After this... let's go to the tower. You’ll understand @once you see.
+    textRight: After this... let’s go to the tower. You’ll understand @once you see.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -383,7 +383,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: '...You''re sure about this, aren''t you?'
+    textLeft: '...You’re sure about this, aren’t you?'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -462,7 +462,7 @@ story:
       lipSynch: 1
       motion: 100
     nameRight: Felicia
-    textRight: What's up?
+    textRight: What’s up?
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -544,7 +544,7 @@ story:
       id: 102900
       pos: 2
     nameRight: Shigure
-    textRight: I... don't think it does on this world’s surface.
+    textRight: I... don’t think it does on this world’s surface.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

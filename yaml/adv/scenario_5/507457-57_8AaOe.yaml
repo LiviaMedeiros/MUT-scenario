@@ -294,7 +294,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 0
-    textLeft: It sounds like you're saying
+    textLeft: It sounds like you're saying...
   - chara:
     - id: 102102
     textLeft: That you're only agreeing to a ceasefire if we stay @out of your territory...

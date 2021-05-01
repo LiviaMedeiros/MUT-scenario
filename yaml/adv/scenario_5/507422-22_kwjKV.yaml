@@ -222,7 +222,7 @@ story:
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 200
-    textRight: Sayaka is too.
+    textRight: Sakuya is too.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

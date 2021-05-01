@@ -22,7 +22,7 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: And cruel.
-  - narration: The worst part is that you aren't allowed to prepare yourself beforehand.
+  - narration: The worst part is that you aren't allowed@to prepare yourself beforehand.
   - narration: Just like the reunion in "Step-up Saki-chan" @when she finally meets
       the senior she admires again...
   - chara:
@@ -51,7 +51,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Mami
-    textRight: Oh? you like blend 18 too?
+    textRight: Oh? You like blend 18 too?
   - bgm: stop
     chara:
     - cheek: 0
@@ -189,7 +189,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Yuuna
-    textLeft: (... How wonderful!)
+    textLeft: (...How wonderful!)
   - chara:
     - id: 305050
       lipSynch: 0
@@ -202,7 +202,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Yuuna
-    textLeft: '...Pardon the late introduction, I am Yuuna Kaharu'
+    textLeft: '...Pardon the late introduction, I am Yuuna Kaharu.'
   - chara:
     - id: 305050
     nameLeft: Yuuna
@@ -214,11 +214,11 @@ story:
       motion: 400
       pos: 2
     nameRight: Mami
-    textRight: Eh?.. Oh... a high school second year...?
+    textRight: Eh?... Oh... a high school second year...?
   - chara:
     - id: 200552
     nameRight: Mami
-    textRight: '... I''m sorry I didn''t mean to be overly familiar!'
+    textRight: '...I''m sorry I didn''t mean to be overly familiar!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -226,7 +226,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Mami
-    textRight: I am Mami Tomoe, a third year at Mitakihara junior high.
+    textRight: I am Mami Tomoe, a third year at Mitakihara Junior High.
   - chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
@@ -282,7 +282,7 @@ story:
     - id: 305001
       motion: 100
     nameLeft: Yuuna
-    textLeft: '... It was all so very exciting!'
+    textLeft: '...It was all so very exciting!'
     turnChangeOut: fadeOut
   - chara:
     - id: 305001

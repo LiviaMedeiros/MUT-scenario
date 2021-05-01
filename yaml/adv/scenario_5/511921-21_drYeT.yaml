@@ -59,7 +59,7 @@ story:
       motion: 1
       pos: 0
     nameRight: Felicia
-    textRight: Sorry! @Reindeer Santas are real busy!
+    textRight: Sorry! Reindeer Santas are real busy!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -113,7 +113,7 @@ story:
     - id: 303800
       motion: 1
     nameRight: Komachi Mikura
-    textRight: The mysterious light that Satomi-san and Himuro-san @saw just before
+    textRight: The mysterious light that Satomi-san and Himuro-@san saw just before
       they lost their memories...
   - chara:
     - id: 303800
@@ -146,7 +146,7 @@ story:
       motion: 100
     nameRight: Kira Temari
     textRight: The reason why you could only vaguely recall the motorcycle you call
-      "#1" was because
+      “#1” was because
   - chara:
     - id: 304000
     nameRight: Kira Temari
@@ -158,7 +158,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Felicia
-    textLeft: '...I remember now! I''m pretty sure we did see that light...!'
+    textLeft: '...I remember now! I’m pretty sure we did see that light...!'
   - autoTurnLast: 0.5
     bg: bg_adv_20643.jpg
     chara:
@@ -205,13 +205,13 @@ story:
     - id: 120302
       motion: 300
     nameRight: Felicia
-    textRight: It was daytime, but... @the Wishin’ Star was shinin’ so brightly...
+    textRight: It was daytime, but... the Wishin’ Star was shinin’ @so brightly...
     turnChangeOut: whiteOut
   - chara:
     - id: 120301
       motion: 101
     nameLeft: Tsuruno
-    textLeft: Ah, that's right... The next thing we know...
+    textLeft: Ah, that’s right... The next thing we know...
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -244,7 +244,7 @@ story:
       motion: 400
       pos: 2
     nameCenter: Tsuruno & Felicia
-    textCenter: '[chara:120301:effect_emotion_surprise_0][chara:120302:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textCenter: '[chara:120301:effect_emotion_surprise_0][chara:120302:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -252,7 +252,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: When you put it that way, that's what it felt like!
+    textLeft: When you put it that way, that’s what it felt like!
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -266,7 +266,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Komachi Mikura
-    textRight: 'So you didn''t make a new #2, but rather #1 was repaired on its own?'
+    textRight: 'So you didn’t make a new #2, but rather #1 was repaired on its own?'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -279,7 +279,7 @@ story:
     - id: 120301
       motion: 300
     nameLeft: Tsuruno
-    textLeft: I couldn't remember a lot of other things that @happened around that
+    textLeft: I couldn’t remember a lot of other things that @happened around that
       time...
   - chara:
     - cheek: 0
@@ -288,7 +288,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Komachi Mikura
-    textRight: As far as I can tell from all the diary entries, @everyone in the world
+    textRight: As far as I can tell from all the diary entries, everyone @in the world
       seems to have been through the same.
   - chara:
     - eyeClose: 1
@@ -338,7 +338,7 @@ story:
   - chara:
     - id: 120302
     nameLeft: Felicia
-    textLeft: Hm... @You there...
+    textLeft: Hm... You there...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -373,7 +373,7 @@ story:
       lipSynch: 0
       motion: 400
     nameLeft: Felicia
-    textLeft: '[chara:120302:effect_emotion_surprise_0][se:7226_shock]...!?@[wait:1.0][chara:120302:cheek_0][chara:120302:motion_200][chara:120302:lipSynch_1]That’s
+    textLeft: '[chara:120302:effect_emotion_surprise_0][se:7226_shock]!?@[wait:1.0][chara:120302:cheek_0][chara:120302:motion_200][chara:120302:lipSynch_1]That’s
       right, you’re Kako, ain’t ya!'
     turnChangeOut: fadeOut
   - chara:
@@ -392,7 +392,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Natsume Kako
-    textRight: '...!?@[wait:0.8][chara:301100:lipSynch_1]You may be right!'
+    textRight: '!?@[wait:0.8][chara:301100:lipSynch_1]You may be right!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -400,7 +400,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: I'm starting to remember too...!
+    textLeft: I’m starting to remember too...!
   - autoTurnLast: 0.5
     bg: black
     item:
@@ -443,7 +443,7 @@ story:
     - id: 301100
       motion: 100
     nameRight: Natsume Kako
-    textRight: Yes... that's right.
+    textRight: Yes... that’s right.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -485,7 +485,7 @@ story:
     - id: 301100
       motion: 1
     nameRight: Natsume Kako
-    textRight: weren’t there a lot of people who could hear the @voice of angels?
+    textRight: weren’t there a lot of people who could hear the @voices of angels?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -493,7 +493,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Felicia
-    textLeft: Oh yeah, that's right!
+    textLeft: Oh yeah, that’s right!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -501,7 +501,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Tsuruno
-    textLeft: I'm starting to remember more and more, but... @they’re still kinda
+    textLeft: I’m starting to remember more and more, but... @they’re still kinda
       hazy memories.
   - autoTurnLast: 0.2
     chara:
@@ -522,7 +522,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Komachi Mikura
-    textLeft: Yes... There is a gap in everyone's memories before @and after the Great
+    textLeft: Yes... There is a gap in everyone’s memories before @and after the Great
       Void.
   - chara:
     - id: 303800
@@ -532,7 +532,7 @@ story:
     - id: 303800
       motion: 300
     nameLeft: Komachi Mikura
-    textLeft: It was as if the world's clock was turned back.
+    textLeft: It was as if the world’s clock was turned back.
   - chara:
     - id: 303800
     nameLeft: Komachi Mikura
@@ -568,7 +568,7 @@ story:
   - chara:
     - id: 103300
     nameRight: Rabi
-    textRight: our memories, which we thought might be remnants @of a previous life...
+    textRight: our memories, which we thought might be @remnants of a previous life...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -615,7 +615,7 @@ story:
       pos: 0
     nameLeft: Kira Temari
     surround: stop
-    textLeft: '...Although, there are some things that can''t be explained by that
+    textLeft: '...Although, there are some things that can’t be explained by that
       alone.'
   - chara:
     - cheek: 0
@@ -628,7 +628,7 @@ story:
   - chara:
     - id: 304000
     nameLeft: Kira Temari
-    textLeft: The legend of the Three Magi who created this world,
+    textLeft: The legend of the Three Magi who created this @world,
   - chara:
     - id: 304000
     nameLeft: Kira Temari
@@ -638,12 +638,12 @@ story:
       id: 304000
       motion: 200
     nameLeft: Kira Temari
-    textLeft: and words like "family" which have uncertain @origins...
+    textLeft: and words like “family” which have uncertain @origins...
   - chara:
     - eyeClose: 0
       id: 304000
     nameLeft: Kira Temari
-    textLeft: all suggest the existence of a world completely @different than this
+    textLeft: All suggest the existence of a world completely @different than this
       one.
   - autoTurnLast: 0.2
     chara:
@@ -663,7 +663,7 @@ story:
   - chara:
     - id: 304000
     nameRight: Kira Temari
-    textRight: The memories you feel you've lost, the “memories @you had before you
+    textRight: The memories you feel you’ve lost, the @“memories you had before you
       came to this world”,
   - chara:
     - id: 304000
@@ -683,7 +683,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Komachi Mikura
-    textRight: Maybe those are truly memories from a "past life"...
+    textRight: Maybe those are truly memories from a “past life”...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -723,12 +723,12 @@ story:
     - id: 120301
     nameLeft: Tsuruno
     textLeft: you had a nagging feeling that you lost “something” even before all
-      that, didn't you?
+      that, didn’t you?
   - chara:
     - id: 120302
       motion: 200
     nameRight: Felicia
-    textRight: Yeah! @...You’re right!
+    textRight: Yeah! You’re right...!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -773,7 +773,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: I'm sure we'll get there!
+    textLeft: I’m sure we’ll get there!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -854,12 +854,12 @@ story:
       id: 120301
       motion: 101
     nameLeft: Tsuruno
-    textLeft: We'll stop by again on the way back!
+    textLeft: We’ll stop by again on the way back!
   - chara:
     - id: 301100
       motion: 400
     nameRight: Natsume Kako
-    textRight: '...I''ll be waiting...!'
+    textRight: '...I’ll be waiting...!'
   - autoTurnLast: 0.3
     chara:
     - cheek: 0
@@ -925,7 +925,7 @@ story:
     - id: 304000
       motion: 400
     nameRight: Kira Temari
-    textRight: '...Are you sure you didn''t want to tell them? @About the “Wishing
+    textRight: '...Are you sure you didn’t want to tell them? @About the “Wishing
       Star”?'
     turnChangeOut: fadeOut
   - chara:

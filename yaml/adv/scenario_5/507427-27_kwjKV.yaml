@@ -471,27 +471,22 @@ story:
     - eyeClose: 1
       id: 102102
     nameLeft: Yuna
-    textLeft: This is where the final battle is@going to be fought... @The most dangerous
+    textLeft: This is where the final battle is going to be fought...@The most dangerous
       point of this entire war.
-  - chara:
-    - eyeClose: 1
-      id: 102102
-    nameLeft: Yuna
-    textLeft: The younger girls still have a future ahead of@them...they're not to
-      follow us into battle.
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 0
       id: 102102
       motion: 200
+    textLeft: The younger girls still have a future ahead of@them...they're not to
+      follow us into battle.
+  - chara:
+    - id: 102102
     textLeft: They'll stay behind at the foot of the@bridge.
   - chara:
     - id: 102102
-    textLeft: But I need you with me, Hikaru.
-  - chara:
-    - id: 102102
       motion: 400
-    textLeft: Everyone's lives are in my hands...
+    textLeft: But I need you with me, Hikaru.
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn
@@ -516,34 +511,34 @@ story:
     - id: 102102
       motion: 300
     nameLeft: Yuna
-    textLeft: But it wouldn't feel right if I left@them behind in this decisive moment.
+    textLeft: Everyone's lives are in my hands...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json
       id: 102102
-    textLeft: It'd be one of the biggest regrets@of my life.
+    textLeft: But it wouldn't feel right if I left@them behind in this decisive moment.
   - chara:
     - id: 102102
-    textLeft: So I'll bring everyone.
+    textLeft: It'd be one of the biggest regrets@of my life.
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 400
-    textLeft: Are you sure about that?
+    textLeft: So I'll bring everyone.
   - chara:
     - id: 102200
       motion: 200
-    nameRight: Yuna
-    textRight: We've made it this far together,@so I believe in them.
+    nameRight: Hikaru
+    textRight: Are you sure about that?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102102
       motion: 0
-    textLeft: Leave some of the girls behind
+    textLeft: We've made it this far together,@so I believe in them.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
   group_4:
@@ -569,7 +564,7 @@ story:
       textSelect: Bring everyone to the bridge
     - alternativeId: 10
       group: group_3
-      textSelect: ""
+      textSelect: Leave some of the girls behind
     turnChangeOut: fadeOut
 version: 3
 ...

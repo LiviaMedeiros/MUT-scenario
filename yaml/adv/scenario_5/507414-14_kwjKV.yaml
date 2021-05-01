@@ -271,7 +271,7 @@ story:
     - 1
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: Whether to "Capture" or " Let her go" thats when the story derailed.
+    narration: Whether to "Capture" or " Let her go",@that's when the story derailed.
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut

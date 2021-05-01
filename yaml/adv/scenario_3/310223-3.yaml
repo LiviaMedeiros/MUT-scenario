@@ -139,7 +139,7 @@ story:
     textRight: It is obvious.
   - chara:
     - id: 102103
-    textRight: As the student council did, the teachers were no@exception.
+    textRight: As the student council did, the teachers are no@exception.
   - chara:
     - id: 102103
     textRight: Ignoring this amount of signatures from the@students...
@@ -185,7 +185,7 @@ story:
     - id: 102103
       motion: 100
     nameLeft: Yuna
-    textLeft: Yes...But, this is just the beginning, with one week@to go before the
+    textLeft: Yes... but, this is just the beginning, with one week@to go before the
       election day...
   - chara:
     - id: 102103
@@ -273,7 +273,7 @@ story:
   - chara:
     - id: 102201
       motion: 200
-    textLeft: Hikaru will continue campaigning no matter what@the teacher thinks.
+    textLeft: Hikaru will continue campaigning no matter what@Teacher thinks.
   - chara:
     - id: 800900
     nameRight: Advisor
@@ -431,7 +431,7 @@ story:
   - chara:
     - id: 102201
       motion: 100
-    textLeft: Anyway thank you very much, teacher.
+    textLeft: Anyway thank you very much, Teacher.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

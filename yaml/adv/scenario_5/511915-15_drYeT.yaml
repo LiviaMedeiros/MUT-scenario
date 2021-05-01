@@ -32,7 +32,7 @@ story:
       motion: 100
     nameLeft: Shizuka
     narrationEffect: out
-    textLeft: Ryokoo!
+    textLeft: Ryokooo!
   - chara:
     - id: 102700
       motion: 400
@@ -123,7 +123,7 @@ story:
   - chara:
     - id: 102700
     nameRight: Sunao
-    textRight: 'She looked free of any worries, as if she was at peace. '
+    textRight: 'She looked free of any worries, as if she was at @peace. '
   - chara:
     - id: 102700
       motion: 100
@@ -136,7 +136,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Shizuka
-    textLeft: No way... @Then...!
+    textLeft: No way... Then...!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -220,7 +220,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102700
     nameLeft: Sunao
-    textLeft: 'She is the newest resident to appear, Ryoko’s replacement. '
+    textLeft: 'She is the newest resident to appear, @Ryoko’s replacement. '
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -228,7 +228,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Chiharu
-    textLeft: '...Eh ...Um? @Is this about... me?'
+    textLeft: Eh... Um...? @Is this about... me?
   - chara:
     - eyeClose: 1
       id: 102500
@@ -268,7 +268,7 @@ story:
   - chara:
     - id: 102700
     nameRight: Sunao
-    textRight: Let me see, where should I begin...? The situation’s rather complicated...
+    textRight: Let me see, where should I begin...? @The situation’s rather complicated...
   - autoTurnLast: 0.2
     chara:
     - id: 102700
@@ -332,7 +332,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Chiharu
-    textLeft: I’m Hiroe Chiharu! ...You can call me Charu!
+    textLeft: I’m Hiroe Chiharu! @...You can call me Charu!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -396,12 +396,12 @@ story:
   - chara:
     - id: 102500
     nameLeft: Shizuka
-    textLeft: Had always hoped new residents would appear in @the village.
+    textLeft: had always hoped new residents would appear in @the village
   - chara:
     - id: 102500
       motion: 200
     nameLeft: Shizuka
-    textLeft: For Sunao’s and my sake.
+    textLeft: for Sunao’s and my sake.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -415,7 +415,7 @@ story:
       id: 102500
       motion: 300
     nameLeft: Shizuka
-    textLeft: But, because I insisted it was better to keep things @as they were,
+    textLeft: But because I insisted it was better to keep things @as they were,
   - chara:
     - eyeClose: 1
       id: 102500
@@ -461,7 +461,7 @@ story:
     - id: 120302
       motion: 300
     nameRight: Felicia
-    textRight: It’s our fault she disappeared ‘cuz of our present?
+    textRight: it’s our fault she disappeared ‘cuz of our present?
   - chara:
     - id: 120301
       motion: 300
@@ -476,13 +476,12 @@ story:
     - id: 120301
       motion: 0
     nameRight: Shizuka
-    textRight: That’s not true!
+    textRight: That's not true!
   - chara:
     - eyeClose: 1
       id: 102500
     nameRight: Shizuka
-    textRight: It’s what Ryoko wished for... and a cute kouhai appeared on top of
-      that.
+    textRight: It’s what Ryoko wished for… and a cute kouhai appeared on top of that.
   - chara:
     - eyeClose: 0
       id: 102500
@@ -538,7 +537,7 @@ story:
     - eyeClose: 0
       id: 102700
     nameLeft: Shizuka
-    textLeft: 'Indeed... @The three of us all wished for different things, '
+    textLeft: Indeed… The three of us all wished for different @things,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -546,11 +545,11 @@ story:
       motion: 200
       pos: 0
     nameLeft: Shizuka
-    textLeft: But I think the Reindeer Santas’ magic
+    textLeft: but I think the Reindeer Santas’ magic
   - chara:
     - id: 102500
     nameLeft: Shizuka
-    textLeft: Fulfilled the most fervent wish among us.
+    textLeft: fulfilled the most fervent wish among us.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -558,18 +557,18 @@ story:
       motion: 1
       pos: 2
     nameRight: Sunao
-    textRight: Ryoko’s...?
+    textRight: Ryoko’s…?
   - chara:
     - eyeClose: 1
       id: 102500
       motion: 300
     nameLeft: Shizuka
-    textLeft: Yeah, it let Ryoko understand partings can also come with a smile.
+    textLeft: Yeah, it let Ryoko understand partings can also @come with a smile.
   - chara:
     - eyeClose: 1
       id: 102500
     nameLeft: Shizuka
-    textLeft: Even if she left the village in this way, I’d understand.
+    textLeft: Even if she left the village in this way, @I’d understand.
   - chara:
     - eyeClose: 0
       id: 102500
@@ -601,25 +600,24 @@ story:
     - id: 102700
       motion: 100
     nameRight: Sunao
-    textRight: Ryoko merely “graduated” from the village... She will appear in some
-      other town.
+    textRight: Ryoko merely “graduated” from the village…
   - chara:
     - id: 102700
     nameRight: Sunao
-    textRight: She might be reuniting with Sakuya-san right about now.
+    textRight: She will appear in some other town.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102700
-    nameRight: Tsuruno
-    textRight: Ahh...
+    nameRight: Sunao
+    textRight: She might be reuniting with Sakuya-san right about now.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
     nameLeft: Tsuruno
-    textLeft: Therefore, even if it was right before her parting, @she looked at peace!
+    textLeft: Ahh...
   - autoTurnLast: 1
     bg: bg_adv_50071.jpg
     chara:
@@ -651,8 +649,8 @@ story:
   - chara:
     - id: 120301
       motion: 200
-    nameLeft: Shizuka
-    textLeft: That was why! Santas, thank you.
+    nameLeft: Tsuruno
+    textLeft: Therefore, even if it was right before her parting, @she looked at peace!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -661,23 +659,23 @@ story:
       motion: 100
       pos: 2
     nameRight: Shizuka
-    textRight: From here on, I’ll speak of Ryoko to Charu,
+    textRight: That was why! Santas, thank you.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102500
       motion: 0
     nameRight: Shizuka
-    textRight: Until she is tired of hearing about her!
+    textRight: From here on, I’ll speak of Ryoko to Charu,
   - chara:
     - id: 102500
     nameRight: Shizuka
-    textRight: After all, one day I’ll become the last person to have known Ryoko!
+    textRight: until she is tired of hearing about her.
   - chara:
     - id: 102500
       motion: 200
-    nameRight: Chiharu
-    textRight: Huh...? @I’m not too clear on what’s going on,
+    nameRight: Shizuka
+    textRight: After all, one day I’ll become the last person to have known Ryoko!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -685,13 +683,13 @@ story:
       motion: 0
       pos: 0
     nameLeft: Chiharu
-    textLeft: But please... don’t give me too much to chew!
+    textLeft: Huh…? I’m not too clear on what’s going on,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102600
       motion: 100
-    textLeft: Hah.
+    textLeft: but please… don’t give me too much to chew!
   - autoTurnLast: 0.2
     chara:
     - id: 102500
@@ -704,20 +702,20 @@ story:
       id: 102700
       motion: 0
       pos: 2
-    nameRight: Shizuka
-    textRight: Fufufufu.
+    nameRight: Sunao
+    textRight: Hah.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102500
     nameCenter: Shizuka
-    textCenter: Come, take these smiles as your reward, while @there’s still time!
+    textCenter: Fufufufu.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102500
       motion: 100
-    textCenter: Ah... Felicia!
+    textCenter: Come, take these smiles as your reward, while @there’s still time!
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -738,12 +736,12 @@ story:
       id: 120302
       motion: 0
       pos: 2
-    nameLeft: Felicia
-    textLeft: Y-Yeah!
+    nameLeft: Tsuruno
+    textLeft: Ah… Felicia!
   - chara:
     - id: 120302
     nameRight: Felicia
-    textRight: '...Aight, refuelling’s done.'
+    textRight: Y-Yeah!
   - autoTurnLast: 2
     chara:
     - cheek: 0
@@ -763,8 +761,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 120301
-    nameRight: Tsuruno
-    textRight: All sorts of stuff happened this time, but...
+    nameRight: Felicia
+    textRight: '...Aight, refuelling’s done.'
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -772,8 +770,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Tsuruno
-    textLeft: The delivery’s complete...@[chara:120301:lipSynch_0][wait:0.8][chara:120301:cheek_0][chara:120301:face_mtn_ex_011.exp.json:motion_101][chara:120301:lipSynch_1]Another
-      one down!
+    textLeft: All sorts of stuff happened this time, but...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -783,8 +780,9 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 120302
-    nameLeft: Sunao
-    textLeft: Now, what shall we do today...?
+    nameLeft: Tsuruno
+    textLeft: The delivery’s complete… [chara:120301:lipSynch_0][wait:0.8][chara:120301:cheek_0][chara:120301:face_mtn_ex_011.exp.json:motion_101][chara:120301:lipSynch_1]@Another
+      one down!
   - autoTurnLast: 2
     bg: bg_adv_50011.jpg
     chara:
@@ -806,17 +804,17 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 102700
-    nameRight: Shizuka
-    textRight: 'Yes... '
+    nameRight: Sunao
+    textRight: Now, what shall we do today…?
     turnChangeOut: fadeOut
   - chara:
     - id: 102500
       motion: 200
     nameCenter: Shizuka
-    textCenter: for the time being,
+    textCenter: Yes… For the time being,
   - chara:
     - id: 102500
-    textCenter: Let’s go bury the time capsule we weren’t able to before?
+    textCenter: let’s go bury the time capsule we weren’t able to before?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

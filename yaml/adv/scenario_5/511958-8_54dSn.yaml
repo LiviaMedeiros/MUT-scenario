@@ -51,7 +51,7 @@ story:
     - id: 120301
       motion: 0
     nameLeft: Tsuruno
-    textLeft: Though we still need to borrow Shigure-chan @and the others’ assistance...
+    textLeft: Though we still need to borrow Shigure-chan @and the others’ help...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -113,7 +113,7 @@ story:
   - chara:
     - id: 102900
     nameRight: Shigure
-    textRight: We were, purposefully avoiding this topic.
+    textRight: I was, purposefully avoiding this topic.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -141,17 +141,17 @@ story:
     - id: 102900
       motion: 200
     nameCenter: Shigure
-    textCenter: In this world, everything is
+    textCenter: In this world,
     turnChangeOut: fadeOut
   - chara:
     - id: 102900
     nameCenter: Shigure
-    textCenter: made up of units called "pixels".
+    textCenter: everything is made up of units called “pixels”.
   - chara:
     - id: 102900
     nameCenter: Shigure
     textCenter: If you break down the pixel further, it becomes the smallest unit
-      called a "bit”.
+      called a “bit”.
   - chara:
     - id: 102900
       motion: 1
@@ -258,7 +258,7 @@ story:
       motion: 0
     nameLeft: Shigure
     textLeft: First off... a massive amount of energy would be required, an amount
-      incomparable @to what’s needed to send sound...
+      incomparable to what’s @needed to send sound...
   - chara:
     - id: 102900
     nameLeft: Shigure
@@ -289,7 +289,7 @@ story:
       lipSynch: 0
       motion: 0
     nameRight: Hagumu
-    textRight: '[chara:103000:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:103000:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -297,7 +297,7 @@ story:
       id: 102900
       motion: 1
     nameLeft: Shigure
-    textLeft: Normally, in order to prevent that, you would do lots @of testing.
+    textLeft: Normally, in order to prevent that, you would do @lots of testing.
   - chara:
     - id: 102900
     nameLeft: Shigure
@@ -315,7 +315,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Nuh-uh, that won’t work.
+    textLeft: Nuh-uh, that won’t fly.
   - chara:
     - id: 120301
       motion: 0
@@ -324,7 +324,7 @@ story:
   - chara:
     - id: 120301
     nameLeft: Tsuruno
-    textLeft: The door could be closed forever, y’know?
+    textLeft: The door could be closed forever.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -347,7 +347,7 @@ story:
     - id: 120301
       motion: 0
     nameRight: Shigure
-    textRight: If that’s the case... @I oppose this even more.
+    textRight: If that’s the case... I oppose this even more.
   - chara:
     - id: 102900
     nameRight: Shigure
@@ -355,7 +355,7 @@ story:
   - chara:
     - id: 102900
     nameRight: Shigure
-    textRight: up until your bit-converted selves arrive in the Three Magi’s world.
+    textRight: up until your bit-converted selves arrive in the @Three Magi’s world.
   - chara:
     - id: 102900
       motion: 0
@@ -399,7 +399,7 @@ story:
       id: 120301
       motion: 101
     nameLeft: Tsuruno
-    textLeft: We’re all going to vanish someday, and if my life were @to end in that
+    textLeft: We’re all going to vanish someday, and if my life @were to end in that
       place, I couldn’t be more satisfied.
   - chara:
     - cheek: 0
@@ -416,14 +416,14 @@ story:
       pos: 1
       posX: -50
     nameCenter: Felicia
-    textCenter: ‘Course!
+    textCenter: ’Course!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 120302
       motion: 0
     nameCenter: Felicia
-    textCenter: ‘Cause I still have somethin’ I want back.
+    textCenter: ’Cause I still have somethin’ I want back.
   - chara:
     - id: 120302
       lipSynch: 0
@@ -447,8 +447,8 @@ story:
       id: 102900
       motion: 100
     nameRight: Shigure
-    textRight: '...Understood, I won’t question you further. I’ll cooperate with you
-      two.'
+    textRight: '...Understood, I won’t question you further. @I’ll cooperate with
+      you two.'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -478,13 +478,13 @@ story:
     - id: 103000
       motion: 1
     nameRight: Hagumu
-    textRight: Ah... Umm...@[chara:103000:lipSynch_0][wait:1.0][chara:103000:motion_100][chara:103000:cheek_0][chara:103000:face_mtn_ex_010.exp.json][chara:103000:lipSynch_1]Okay...
+    textRight: Ah... Umm... [chara:103000:lipSynch_0][wait:1.0][chara:103000:motion_100][chara:103000:cheek_0][chara:103000:face_mtn_ex_010.exp.json][chara:103000:lipSynch_1]Okay...
   - nameCenter: Meguru’s Voice
     textBg: shout
     textCenter: Hooold up, Player Meguru’s here!
   - nameCenter: Meguru’s Voice
     textBg: shout
-    textCenter: Meguru can’t just sit and watch on the sideines!
+    textCenter: Meguru can’t just sit and watch on the sidelines!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -609,7 +609,7 @@ story:
       id: 120301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: I completely forgot but, our Reindeer Santa job!
+    textLeft: I completely forgot but look, our Reindeer @Santa job!
   - chara:
     - id: 120302
       motion: 400

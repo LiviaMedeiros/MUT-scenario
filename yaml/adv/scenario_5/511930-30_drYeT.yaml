@@ -36,7 +36,7 @@ story:
     - id: 102900
       motion: 200
     nameLeft: Shigure
-    textLeft: In other words... it’ll produce the thing we need most @to obtain our
+    textLeft: In other words... it’ll produce the thing we need @most to obtain our
       desired result...?
   - chara:
     - cheek: 0
@@ -66,7 +66,7 @@ story:
     - id: 103000
       motion: 200
     nameRight: Hagumu
-    textRight: '...I got it... @Let''s do it together!'
+    textRight: '...I got it... Let’s do it together!'
   - bgm: stop
     item:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_magical_box.png
@@ -101,7 +101,7 @@ story:
     - id: 120301
       motion: 101
     nameLeft: Tsuruno
-    textLeft: Mana cartridges...? @They’re super full!
+    textLeft: Mana cartridges...? They’re super full!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -109,7 +109,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Felicia
-    textRight: '...Wait, thisー'
+    textRight: '...Wait, this-'
   - chara:
     - id: 120302
       motion: 200
@@ -165,11 +165,12 @@ story:
     - id: 120302
       motion: 0
     nameRight: Felicia
-    textRight: 'Once all the fuel that’s left in Super Reindeer-san #2'
+    textRight: 'Once all the fuel that’s left in Super Reindeer-san #2 @gets used
+      up,'
   - chara:
     - id: 120302
     nameRight: Felicia
-    textRight: gets used up, we’ll be out.
+    textRight: we’ll be out.
   - autoTurnLast: 0.5
     item:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_mana_cartridge.png
@@ -186,7 +187,7 @@ story:
     - id: 120301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: we covered the cost for Shigure-chan and the others @as a present?
+    textLeft: we covered the cost for Shigure-chan and the @others as a present?
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -205,7 +206,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Shigure
-    textLeft: We certainly needed an enormous amount of energy
+    textLeft: We certainly needed an enormous amount of @energy
   - chara:
     - id: 102900
       motion: 200
@@ -242,7 +243,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: That’s the Magical Okamochi Box's answer!
+    textLeft: That’s the Magical Okamochi Box’s answer!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -257,7 +258,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 120302
     nameLeft: Felicia
-    textLeft: I thought we’d be able to go to way more towns with it...!
+    textLeft: I thought we’d be able to go to way more towns @with it...!
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp.json
@@ -265,7 +266,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Hagumu
-    textRight: You're right... We can't accept this...
+    textRight: You’re right... We can’t accept this...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -300,7 +301,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: '...Well, isn''t that okay?'
+    textLeft: '...Well, isn’t that okay?'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -318,7 +319,7 @@ story:
   - chara:
     - id: 120301
     nameLeft: Tsuruno
-    textLeft: we'll eventually just end up running around the @same places!
+    textLeft: we’ll eventually just end up running around the @same places!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -404,7 +405,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Tsuruno
-    textLeft: If we do it this way, wouldn't that make everyone @smile?
+    textLeft: If we do it this way, wouldn’t that make everyone @smile?
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -460,7 +461,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Felicia
-    textLeft: We'll help too!
+    textLeft: We’ll help too!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

@@ -541,7 +541,7 @@ story:
       face: mtn_ex_052.exp.json
       id: 102102
       motion: 0
-    textLeft: is this really the time to be chatting? You'll have @plenty of time
+    textLeft: Is this really the time to be chatting? You'll have @plenty of time
       to talk in hell.
   - chara:
     - id: 102102

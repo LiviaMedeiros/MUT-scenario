@@ -64,13 +64,13 @@ story:
       motion: 200
       pos: 2
     nameRight: Shigure
-    textRight: to deliver our voices to the "Three Magi" who live beyond the End of
+    textRight: to deliver our voices to the “Three Magi” who live beyond the End of
       the World.
   - chara:
     - id: 120301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: The Three Magi...!@[chara:120301:lipSynch_0][wait:1.0][chara:120301:cheek_0][chara:120301:face_mtn_ex_040.exp.json][chara:120301:lipSynch_1]But
+    textLeft: The Three Magi...! [chara:120301:lipSynch_0][wait:1.0][chara:120301:cheek_0][chara:120301:face_mtn_ex_040.exp.json][chara:120301:lipSynch_1]But
       how...?
   - chara:
     - cheek: 0
@@ -113,7 +113,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Tsuruno
-    textLeft: '[chara:120301:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textLeft: '[chara:120301:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -121,7 +121,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Felicia
-    textLeft: If you’re jus’ droppin’ that on us, there’s gotta be some @basis for
+    textLeft: If you’re jus’ droppin’ that on us, there’s gotta be @some basis for
       it, right!?
   - chara:
     - id: 102900
@@ -169,7 +169,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Hibiki Meguru
-    textRight: Unbelievable, the two challengers Meguru and Yukika have materialized
+    textRight: Unbelievable, the two challengers Meguru and @Yukika have materialized
       out of the smoke!
   - chara:
     - cheek: 0
@@ -235,12 +235,12 @@ story:
       motion: 400
       pos: 2
     nameRight: Hibiki Meguru
-    textRight: '[chara:304200:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:304200:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - id: 304200
       lipSynch: 1
     nameRight: Hibiki Meguru
-    textRight: Eh, there were actually listeners? @...For real?
+    textRight: Eh, there were actually listeners? ...For real?
   - chara:
     - cheek: 0
       face: mtn_ex_041.exp.json
@@ -248,7 +248,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Hagumu
-    textLeft: Hibiki-san... broke character.
+    textLeft: Hibiki-san broke character...
   - autoTurnLast: 1
     chara:
     - cheek: 1
@@ -411,7 +411,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Shigure
-    textRight: '...Since things will get complicated, let''s continue our introductions
+    textRight: '...Since things will get complicated, let''s continue @our introductions
       outside.'
   - chara:
     - cheek: 0

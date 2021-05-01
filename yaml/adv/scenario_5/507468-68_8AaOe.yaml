@@ -311,14 +311,14 @@ story:
     - id: 102400
     - id: 102102
       motion: 1
-    textRight: That's my Nee-san...
+    textRight: That's my Big Sis...
   - chara:
     - id: 102400
       motion: 200
     textRight: Haha.
   - chara:
     - id: 102400
-    textRight: I always have the most fun when I'm fighting you, Nee-san!
+    textRight: I always have the most fun when I'm fighting you,@Big Sis!
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -429,7 +429,7 @@ story:
       face: mtn_ex_021.exp.json
       id: 102400
       motion: 200
-    textCenter: Hey, Nee-san!
+    textCenter: Hey, Big Sis!
   - chara:
     - id: 102400
     textCenter: You can't be weak enough to get beaten like this!
@@ -542,8 +542,8 @@ story:
     turnChangeIn: fadeIn
     turnEffect: stop
   - nameNarration: Hikaru
-    narration: '@That''s right, I''m Yuna''s strongest spear and shield. @I''ll protect
-      her with my life!'
+    narration: -Hikaru-@That's right, I'm Yuna's strongest spear and shield. @I'll
+      protect her with my life!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in

@@ -130,7 +130,7 @@ story:
     - id: 305050
       motion: 200
     nameRight: Yuuna
-    textRight: Sometime ago, a child and her parents got lost in a Witches barrier
+    textRight: Sometime ago, a child and her parents got lost in a Witch's barrier
       near this shop.
   - chara:
     - id: 305050
@@ -319,7 +319,7 @@ story:
       id: 200552
       motion: 0
     nameLeft: Mami
-    textLeft: So that’s why you came to this store?
+    textLeft: So that's why you came to this store?
   - chara:
     - id: 200552
       motion: 1
@@ -391,7 +391,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Mami
-    textLeft: '... from the hospital?'
+    textLeft: '...from the hospital?'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

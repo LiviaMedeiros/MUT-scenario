@@ -83,7 +83,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Sudachi
-    textRight: Fumumumumu @fumumunmumu!
+    textRight: Fumumumumu fumumunmumu!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -104,7 +104,7 @@ story:
       motion: 100
     nameLeft: Felicia
     narrationEffect: out
-    textLeft: Tsuruno's got some real luck, bet she’d win the @lottery.
+    textLeft: Tsuruno’s got some real luck, bet she’d win the @lottery.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -157,7 +157,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Felicia
-    textLeft: Nah, they won't go in? @They're completely different size-
+    textLeft: Nah, they won’t go in? @They’re completely different size-
   - item:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_magical_candies.png
       visible: hide
@@ -185,7 +185,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Felicia
-    textRight: No kiddin'!
+    textRight: No kiddin’!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -334,7 +334,7 @@ story:
       id: 120302
       motion: 0
     nameRight: Felicia
-    textRight: But the total number of people’s also been steadily goin' down...
+    textRight: But the total number of people’s also been steadily goin’ down...
   - chara:
     - id: 120301
       motion: 300
@@ -361,14 +361,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 120302
     nameRight: Felicia
-    textRight: I ain’t goin’ anywhere until I see the End of the World with my own
+    textRight: I ain’t goin’ anywhere until I see the @End of the World with my own
       eyes.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 120301
     nameLeft: Tsuruno
-    textLeft: '...Thank goodness, that''s a relief.'
+    textLeft: '...Thank goodness, that’s a relief.'
   - autoTurnLast: 2
     bgm: stop
     chara:
@@ -426,7 +426,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Felicia
-    textLeft: You're a greedy kid, aren't ya.
+    textLeft: You’re a greedy kid, ain't ya.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -442,7 +442,7 @@ story:
     - id: 103800
       motion: 300
     nameRight: Mikage
-    textRight: You're right, Mii should give something in return.
+    textRight: You’re right, Mii should give something in return.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -450,7 +450,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: No need, you don't have to give anything back.
+    textLeft: No need, you don’t have to give anything back.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -465,7 +465,7 @@ story:
       motion: 300
     nameLeft: Tsuruno
     textLeft: Hmm...@[chara:120301:lipSynch_0][wait:1.0][chara:120301:cheek_0][chara:120301:face_mtn_ex_050.exp.json:motion_200][chara:120301:lipSynch_1]Ah,
-      if that's the case!
+      if that’s the case!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -473,7 +473,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Tsuruno
-    textLeft: How ‘bout you fill the three bags that came out of @the okamochi with
+    textLeft: How ’bout you fill the three bags that came out of @the okamochi with
       candy
   - chara:
     - id: 120301
@@ -486,7 +486,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: That'll be our fee for the smiles!
+    textLeft: That’ll be our fee for the smiles!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -523,7 +523,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: It's alright, just let me take care of it.
+    textLeft: It’s alright, just let me take care of it.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -541,7 +541,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Mikage
-    textRight: '...Then here''s a token of appreciation for the Santas!'
+    textRight: '...Then here’s a token of appreciation @for the Santas!'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -549,7 +549,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Thank youu!
+    textLeft: Thank youuu!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -575,13 +575,13 @@ story:
       motion: 0
       pos: 2
     nameCenter: Mikage
-    textCenter: We may have lost a little, but we can gain it all back again!
+    textCenter: We may have lost a little, but we can gain it all @back again!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103800
     nameCenter: Mikage
-    textCenter: Let's do this! Riko-tan, Su-tan!
+    textCenter: Let’s do this! Riko-tan, Su-tan!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

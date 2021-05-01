@@ -402,7 +402,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Ria
-    textLeft: Therefore, if something's bothering you,@you should confront it
+    textLeft: Therefore, if something's bothering you,@you should confront it.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

@@ -49,7 +49,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 103800
     nameRight: Mikage
-    textRight: '[chara:103800:effect_emotion_joy_0][se:7222_happy]Ehehe, @Mii is so
+    textRight: '[chara:103800:effect_emotion_joy_0][se:7222_happy]Ehehe, Mii is so
       happy~'
   - nameNarration: ""
     narration: '*Thump, thump...*'
@@ -104,13 +104,13 @@ story:
       posY: 0
       visible: appear
     nameRight: Mikage
-    textRight: Yaay! There's so much candy!
+    textRight: Yaay! There’s so much candy!
     turnChangeOut: fadeOut
   - chara:
     - id: 120302
       motion: 300
     nameLeft: Felicia
-    textLeft: It's spillin’ all over the floor...
+    textLeft: It’s spillin’ all over the floor...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -118,7 +118,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: That's gotta be enough for 200 people.
+    textLeft: That’s gotta be enough for 200 people.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -144,7 +144,7 @@ story:
     nameRight: Sudachi
     textRight: Fumumu...?
   - nameNarration: Sudachi
-    narration: There's so much... @Where is it all coming from?
+    narration: There’s so much... @Where is it all coming from?
     narrationBg: bg_adv_21031.jpg
     narrationEffect: in
     narrationHAlignment: left
@@ -154,11 +154,11 @@ story:
       motion: 100
     nameLeft: Chiaki Riko
     narrationEffect: out
-    textLeft: You’re right... @The mountain of candy came out.
+    textLeft: You’re right... The mountain of candy that came out
   - chara:
     - id: 303500
     nameLeft: Chiaki Riko
-    textLeft: Seems to be bigger than the machine...
+    textLeft: seems to be bigger than the machine...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -178,12 +178,12 @@ story:
       motion: 0
       pos: 0
     nameRight: Felicia
-    textRight: Ain't that odd? What's goin' on?
+    textRight: Ain’t that odd? What’s goin’ on?
   - chara:
     - id: 120301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: It's almost about to reach the wall too... @Unbelievable.
+    textLeft: It’s almost about to reach the wall too... @Unbelievable.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -226,7 +226,7 @@ story:
   - chara:
     - id: 120302
     nameLeft: Felicia
-    textLeft: What's that written on there?
+    textLeft: What’s that written on there?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -234,7 +234,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: It's like a chance at a big prize.
+    textLeft: It’s like a chance at a big prize.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -270,7 +270,7 @@ story:
     nameRight: Sudachi
     textRight: Fumu, fuumun fumu?
   - nameNarration: Sudachi
-    narration: Isn't this enough?
+    narration: Isn’t this enough?
     narrationBg: bg_adv_21031.jpg
     narrationEffect: in
     narrationHAlignment: left
@@ -283,7 +283,7 @@ story:
       pos: 0
     nameLeft: Mikage
     narrationEffect: out
-    textLeft: With this much, we'll run out if we eat some every @day!
+    textLeft: With this much, we’ll run out if we eat some every @day!
   - chara:
     - id: 103900
       lipSynch: 0
@@ -291,7 +291,7 @@ story:
     nameRight: Sudachi
     textRight: Fumumumu, fumumu munmu.
   - nameNarration: Sudachi
-    narration: If you lose, won't it all be gone?
+    narration: If you lose, won’t it all be gone?
     narrationBg: bg_adv_21031.jpg
     narrationEffect: in
     narrationHAlignment: left
@@ -304,7 +304,7 @@ story:
       pos: 0
     nameLeft: Mikage
     narrationEffect: out
-    textLeft: Muu, that may be true... Riko-tan, what do you @think?
+    textLeft: Muu, that may be true... @Riko-tan, what do you think?
   - autoTurnLast: 0.2
     chara:
     - id: 103800
@@ -324,7 +324,7 @@ story:
       id: 303500
       motion: 0
     nameLeft: Chiaki Riko
-    textLeft: isn't it better to bet a little at a time instead of all at once...?
+    textLeft: isn’t it better to bet a little at a time instead of all at once...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -334,7 +334,7 @@ story:
     nameRight: Sudachi
     textRight: Funmunmu, fumumu?
   - nameNarration: Sudachi
-    narration: Let's decide with janken?
+    narration: Let’s decide with janken?
     narrationBg: bg_adv_21031.jpg
     narrationEffect: in
     narrationHAlignment: left
@@ -347,7 +347,7 @@ story:
       pos: 1
     nameCenter: Mikage
     narrationEffect: out
-    textCenter: '...Good idea, we''ll do what the winner says!'
+    textCenter: '...Good idea, we’ll do what the winner says!'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -395,7 +395,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 103800
     nameCenter: Mikage
-    textCenter: We're betting all the candy~
+    textCenter: We’re betting all the candy~
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -458,7 +458,7 @@ story:
     - id: 103800
       lipSynch: 0
     nameCenter: Mikage
-    textCenter: '.....@ .....'
+    textCenter: '.....@.....'
     turnChangeOut: fadeOut
   - chara:
     - id: 103800
@@ -475,7 +475,7 @@ story:
     - id: 303500
       motion: 200
     nameLeft: Chiaki Riko
-    textLeft: I-It can't be helped.
+    textLeft: T-That’s okay, it happens.
   - chara:
     - id: 103900
       lipSynch: 0
@@ -500,7 +500,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: You're really too greedy, but cheer up.
+    textLeft: You’re really too greedy, but cheer up.
   - bgm: bgm03_story09
     chara:
     - cheek: 0
@@ -530,7 +530,7 @@ story:
   - chara:
     - id: 303500
     nameRight: Chiaki Riko
-    textRight: We gave that to Tsuruno onee-san and Felicia @onee-san, didn't we?
+    textRight: We gave that to Tsuruno onee-san and Felicia @onee-san, didn’t we?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -538,7 +538,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: That's right!
+    textLeft: That’s right!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -562,7 +562,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Chiaki Riko
-    textRight: Waa...!
+    textRight: Wow...!
   - autoTurnLast: 0.2
     chara:
     - cheek: 1
@@ -633,7 +633,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 120302
       motion: 100
-    textRight: Nice, it's completely charged!
+    textRight: Nice, it’s completely charged!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -641,7 +641,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Mikage
-    textRight: Eh... what's that?
+    textRight: Eh... What’s that?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -649,7 +649,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: It's a fuel cylinder for our motorcycle.
+    textLeft: It’s a fuel cylinder for our motorcycle.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -657,7 +657,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Felicia
-    textRight: When we deliver smiles to everyone, we use the @magic power
+    textRight: When we deliver smiles to everyone, @we use the magic power
   - chara:
     - id: 120302
     nameRight: Felicia
@@ -681,7 +681,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Chiaki Riko
-    textRight: So that's how it is...
+    textRight: So that’s how it is...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -689,7 +689,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Felicia
-    textLeft: We have our work cut out for us every time we try to get this stuff...
+    textLeft: We have our work cut out for us every time we try @to get this stuff...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -735,7 +735,7 @@ story:
     - id: 103800
       motion: 400
     nameRight: Mikage
-    textRight: Ah... So that's it!
+    textRight: Ah... So that’s it!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -796,7 +796,7 @@ story:
       id: 120302
       motion: 100
     nameLeft: Tsuruno
-    textLeft: This delivery is now complete!@[chara:120301:lipSynch_0][wait:0.8][chara:120301:cheek_0][chara:120301:face_mtn_ex_011.exp.json:motion_101][chara:120301:lipSynch_1]That's
+    textLeft: This delivery is now complete!@[chara:120301:lipSynch_0][wait:0.8][chara:120301:cheek_0][chara:120301:face_mtn_ex_011.exp.json:motion_101][chara:120301:lipSynch_1]That’s
       one down~!
   - autoTurnLast: 2
     bgm: stop

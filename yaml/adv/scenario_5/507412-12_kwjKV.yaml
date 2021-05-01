@@ -232,8 +232,8 @@ story:
     textLeft: '...!'
   - chara:
     - id: 770183
-    textRight: Nice dodge... @[chara:770183:lipSynch_0][wait:1.0][chara:770183:cheek_0][chara:102300:effect_7000_attack01][chara:770183:lipSynch_1]
-      but how about this!?
+    textRight: Nice dodge... @[chara:770183:lipSynch_0][wait:1.0][chara:770183:cheek_0][chara:102300:effect_7000_attack01][chara:770183:lipSynch_1]but
+      how about this!?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -565,7 +565,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 770183
     nameRight: Magical Girl
-    textRight: You going to let me go...?
+    textRight: You're going to let me go...?
   - chara:
     - id: 102300
     textLeft: I said get lost.

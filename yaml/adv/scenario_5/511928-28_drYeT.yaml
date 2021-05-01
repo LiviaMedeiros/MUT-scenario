@@ -39,12 +39,12 @@ story:
       motion: 0
       pos: 0
     nameRight: "\uFEFFFelicia"
-    textRight: '...This place’s crazy! @What''s up with all these enemies!'
+    textRight: '...This place’s crazy! What’s up with all these @enemies!'
   - chara:
     - id: 120301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: So that's why you said we needed our weapons.
+    textLeft: So that’s why you said we needed our weapons.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -89,7 +89,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Nanase Yukika
-    textRight: When the enemy pierces the magic dome and breaks through...
+    textRight: When the enemy pierces the magic dome and @breaks through...
   - chara:
     - id: 301700
     nameRight: Nanase Yukika
@@ -117,7 +117,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Shigure
-    textRight: '...It''s getting dark, let''s hurry ahead.'
+    textRight: '...It’s getting dark, let’s hurry ahead.'
   - autoTurnLast: 1
     bg: black
     bgm: stop
@@ -174,7 +174,7 @@ story:
     - id: 120301
       mouthOpen: 0
     nameRight: Felicia
-    textRight: The Wishin’ Star... It's really right above us!
+    textRight: The Wishin’ Star... It’s really right above us!
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
@@ -182,7 +182,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: I'm feeling a bit swept up just seeing it...!
+    textLeft: I’m feeling a bit swept up just seeing it...!
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -268,7 +268,7 @@ story:
     - id: 120301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: If we go straight ahead... we'll be back at Banbanzai!
+    textLeft: If we go straight ahead... we’ll be back at Banbanzai!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -283,7 +283,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Felicia
-    textRight: So then Hagure and Shigumu's theory was right after all...!
+    textRight: So then Hagure and Shigumu’s theory was right @after all...!
   - autoTurnLast: 0.2
     chara:
     - id: 120302
@@ -362,7 +362,7 @@ story:
   - chara:
     - id: 304200
     nameRight: Hibiki Meguru
-    textRight: One wrong step, and you'll be greeted by the hostile defense system.
+    textRight: One wrong step, and you’ll be greeted by the hostile defense system.
   - chara:
     - id: 304200
       motion: 200
@@ -391,7 +391,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Shigure
-    textRight: '...That''s what we''re here to talk about.'
+    textRight: '...That’s what we’re here to talk about.'
   - chara:
     - id: 102900
       motion: 300
@@ -443,7 +443,7 @@ story:
   - chara:
     - id: 103000
     nameRight: Hagumu
-    textRight: but also an infinite stream of signals leaking from the angels’ world.
+    textRight: but also an infinite stream of signals leaking from @the angels’ world.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -459,7 +459,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Shigure
-    textRight: Yes... Just like Hibiki-san's pirate radio broadcasts,
+    textRight: Yes... Just like Hibiki-san’s pirate radio broadcasts,
   - chara:
     - id: 102900
     nameRight: Shigure
@@ -501,7 +501,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Ah... so that's why you were in Junk City?
+    textLeft: Ah... so that’s why you were in Junk City?
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -515,7 +515,7 @@ story:
   - chara:
     - id: 102900
     nameRight: Shigure
-    textRight: and because it’s close to Central Tower.
+    textRight: and because it’s close to the Central Tower.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -535,7 +535,7 @@ story:
       face: mtn_ex_041.exp.json
       id: 103000
     nameRight: Hagumu
-    textRight: Although I don't know why I had so many screws left over after finishing
+    textRight: Although I don’t know why I had so many screws @left over after finishing
       assembling...
   - chara:
     - id: 120301
@@ -549,7 +549,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: That’s amazing...! @They’re way ahead of us.
+    textLeft: That’s amazing...! They’re way ahead of us.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -655,7 +655,7 @@ story:
     - id: 102900
       motion: 100
     nameRight: Shigure
-    textRight: It's a bit clunky but... try attaching this to the radio.
+    textRight: It’s a bit clunky but... try attaching this to the radio.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

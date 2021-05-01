@@ -81,7 +81,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Hagumu
-    textRight: How... @How does it work?
+    textRight: How... How does it work?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -160,7 +160,7 @@ story:
       visible: hide
     nameRight: Hibiki Meguru
     textBg: shout
-    textRight: ' Spectacular! @In a shocking turn of events,'
+    textRight: ' Spectacular! In a shocking turn of events,'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -196,7 +196,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: This was collected from before, @from Hagumu-chan and the others!
+    textLeft: This was collected from before, from Hagumu-chan @and the others!
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -211,7 +211,7 @@ story:
     - id: 103000
       motion: 400
     nameRight: Hagumu
-    textRight: Ah... Eh... Right now? @If we lose, it’ll all be gone...
+    textRight: Ah... Eh... Right now? If we lose, it’ll all be gone...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -277,7 +277,7 @@ story:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_mana_cartridge.png
       visible: hide
     nameLeft: Felicia
-    textLeft: There’s no way Tsuruno could lose at somethin’ like this!
+    textLeft: There’s no way Tsuruno could lose at somethin’ @like this!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -358,7 +358,7 @@ story:
   - chara:
     - id: 103000
     nameRight: Hagumu
-    textRight: No way... @It’s that easy...?
+    textRight: No way... It’s that easy...?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -372,7 +372,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 120301
     nameLeft: Tsuruno
-    textLeft: Yukika-chan and everyone, I’m counting on you guys!
+    textLeft: Yukika-chan and everyone, I’m counting on you @guys!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -490,7 +490,7 @@ story:
       id: 120301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: In that case, let’s go look! We should get everyone’s help!
+    textLeft: In that case, let’s go look! We should get @everyone’s help!
   - chara:
     - cheek: 0
       face: mtn_ex_041.exp.json

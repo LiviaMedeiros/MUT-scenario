@@ -274,7 +274,7 @@ story:
   - chara:
     - id: 102400
       motion: 0
-    textLeft: Where are you friends?
+    textLeft: Where are your friends?
   - chara:
     - id: 770085
     textRight: To-Torayamachi... @Everyone's stressed out over there...

@@ -106,7 +106,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Juri
-    textRight: You're looking pretty impatient, Nee-san.
+    textRight: You're looking pretty impatient, Big Sis.
   - chara:
     - id: 102400
     textRight: You're still recovering, aren't you? I wouldn't go overboard if I were

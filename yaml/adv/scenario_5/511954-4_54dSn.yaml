@@ -43,7 +43,7 @@ story:
       motion: 400
       pos: 2
     nameCenter: Shigure & Hagumu
-    textCenter: '[chara:103000:effect_emotion_surprise_0][chara:102900:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textCenter: '[chara:103000:effect_emotion_surprise_0][chara:102900:effect_emotion_surprise_0][se:7226_shock]!?'
   - autoTurnLast: 0.01
     bg: bg_adv_14072.jpg
     chara:
@@ -61,7 +61,7 @@ story:
       lipSynch: 0
       motion: 400
     nameRight: Nanase Yukika
-    textRight: '[chara:301700:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:301700:effect_emotion_surprise_0][se:7226_shock]!?'
     turnChangeOut: rollOutFast
   - armatureList:
     - animation:
@@ -92,7 +92,7 @@ story:
     - id: 120301
     - id: 120302
     nameCenter: Tsuruno & Felicia
-    textCenter: '[chara:120301:effect_emotion_surprise_0][chara:120302:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textCenter: '[chara:120301:effect_emotion_surprise_0][chara:120302:effect_emotion_surprise_0][se:7226_shock]!?'
     turnChangeOut: fadeOut
   - chara:
     - id: 120301
@@ -297,7 +297,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Hagumu
-    textLeft: She wasn’t that injured, it seems she was more worn out from the continuous
+    textLeft: She wasn’t that injured, it seems she was more @worn out from the continuous
       fighting.
   - chara:
     - cheek: 0
@@ -363,7 +363,7 @@ story:
   - chara:
     - id: 301700
     nameRight: Nanase Yukika
-    textRight: For the time being, if you are worried about me, @please don't be.
+    textRight: For the time being, if you are worried about me, @please don’t be.
   - autoTurnLast: 0.2
     flashEffect: flashWhiteSlow2
     textClear: 1
@@ -393,17 +393,17 @@ story:
   - chara:
     - id: 301700
     nameRight: Nanase Yukika
-    textRight: 'The instant I saw that white light, @I lost consciousness... '
+    textRight: 'The instant I saw that white light, I lost @consciousness... '
     turnChangeOut: fadeOut
   - chara:
     - id: 301700
     nameRight: Nanase Yukika
-    textRight: Thats why I was slow to respond to the @enemy attacks.
+    textRight: And thus I was delayed in responding to the @enemy attacks
   - chara:
     - id: 301700
     nameRight: Nanase Yukika
-    textRight: Afterwards the fighting became legions more intense than I could ever
-      have imagined...
+    textRight: and the fighting became legions more intense @than I could ever have
+      imagined...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -466,7 +466,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Felicia
-    textRight: '[chara:120302:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:120302:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

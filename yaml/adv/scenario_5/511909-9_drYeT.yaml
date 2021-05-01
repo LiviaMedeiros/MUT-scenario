@@ -41,7 +41,7 @@ story:
       motion: 300
     nameLeft: Tsuruno
     narrationEffect: out
-    textLeft: '...Even though they said it so straightforwardly, what the heck is
+    textLeft: '...Even though they said it so straightforwardly, @what the heck is
       a cosmic, local idol?'
   - chara:
     - cheek: 0
@@ -103,8 +103,7 @@ story:
       pos: 2
     nameRight: Felicia
     textRight: I wonder if it’s on the navi device. Lemme check.
-  - nameNarration: Search results
-    narration: 0 items
+  - narration: Search results - @0 items
     narrationBg: bg_adv_20643.jpg
     narrationEffect: in
     narrationHAlignment: left
@@ -150,8 +149,7 @@ story:
     - id: 120301
       motion: 101
     nameLeft: Tsuruno
-    textLeft: '[chara:120301:effect_emotion_surprise_0][se:7226_shock]Isn’t there
-      a fork in the road up ahead!?'
+    textLeft: Isn’t there a fork in the road up ahead?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -179,8 +177,8 @@ story:
     - id: 120302
       motion: 0
     nameLeft: Tsuruno
-    textLeft: On our right is “Library Town”. ...To the left is the “Village of Meetings
-      and Partings”.
+    textLeft: On our right is “Library Town”. To the left is the @“Village of Meetings
+      and Partings”...
   - chara:
     - id: 120301
       motion: 100
@@ -303,7 +301,7 @@ story:
     - eyeClose: 1
       id: 120302
     nameRight: Felicia
-    textRight: 'We still had Super Reindeer-san #1, didn’t we.'
+    textRight: 'we still had Super Reindeer-san #1, didn’t we.'
   - chara:
     - eyeClose: 1
       id: 120301
@@ -321,7 +319,7 @@ story:
   - chara:
     - id: 120301
     nameLeft: Tsuruno
-    textLeft: But I wondered if it was okay to just keep living my 50-point life as
+    textLeft: but I wondered if it was okay to just keep living my 50-point life as
       I had been.
   - chara:
     - id: 120301
@@ -338,7 +336,7 @@ story:
   - chara:
     - id: 120302
     nameRight: Felicia
-    textRight: Don’t have any memories from before we came to Banbanzai.
+    textRight: don’t have any memories from before we came to Banbanzai.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -355,7 +353,7 @@ story:
   - chara:
     - id: 120301
     nameLeft: Tsuruno
-    textLeft: But that was the case for all the girls we met in every town.
+    textLeft: but that was the case for all the girls we met in @every town.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -363,11 +361,11 @@ story:
       motion: 100
       pos: 2
     nameRight: Felicia
-    textRight: '...”Somethin’” must have happened before I came to this world.'
+    textRight: '...”Somethin’” must have happened before I came @to this world.'
   - chara:
     - id: 120302
     nameRight: Felicia
-    textRight: I can’t remember, but... I know I’m not wrong...
+    textRight: I can’t remember, but I know I’m not wrong...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -411,7 +409,7 @@ story:
   - chara:
     - id: 120302
     nameRight: Felicia
-    textRight: If you don’t hurry up and decide...
+    textRight: If ya don’t hurry up and decide...
   - bgm: stop
     chara:
     - cheek: 0

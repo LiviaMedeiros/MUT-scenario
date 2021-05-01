@@ -184,8 +184,8 @@ story:
     textLeft: Someone like that needs to "go", don't you think?
   - chara:
     - id: 102400
-    textLeft: Its one less mouth to feed, plus we'll never get a @Grief Seed back
-      from her if we turn her into a witch.
+    textLeft: Its one less mouth to feed, plus we'll get a @Grief Seed back from her
+      if we turn her into a witch.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

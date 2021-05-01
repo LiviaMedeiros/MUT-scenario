@@ -61,14 +61,14 @@ story:
   - chara:
     - id: 100501
     nameLeft: Felicia
-    textLeft: The beta game...
+    textLeft: The beta game
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100501
       motion: 400
     nameLeft: Felicia
-    textLeft: '...was actually Touka’s experiment all along!?'
+    textLeft: was actually Touka’s experiment all along!?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -88,7 +88,7 @@ story:
   - chara:
     - id: 101501
     nameRight: Ui
-    textRight: We wanted to create a fictional world where @everyone could live happily.
+    textRight: we wanted to create a fictional world where @everyone could live happily.
   - chara:
     - id: 101501
     nameRight: Ui
@@ -251,7 +251,7 @@ story:
     - id: 101402
       motion: 0
     nameLeft: Touka
-    textLeft: Equipped with autonomous AI that can evolve based @on real personalities...
+    textLeft: Equipped with autonomous AI that can evolve @based on real personalities...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -382,11 +382,11 @@ story:
     - id: 100301
       motion: 1
     nameLeft: Tsuruno
-    textLeft: That’s right, they originally had our personalities and memories,
+    textLeft: That’s right, they originally had our personalities @and memories,
   - chara:
     - id: 100301
     nameLeft: Tsuruno
-    textLeft: but it seems unnecessary memories were deleted to adapt them for the
+    textLeft: but it seems unnecessary memories were deleted @to adapt them for the
       game.
   - chara:
     - cheek: 0
@@ -443,17 +443,17 @@ story:
       motion: 1
       pos: 2
     nameRight: Ui
-    textRight: When we were watching on Tsuruno's phone...
+    textRight: When we were watching on Tsuruno’s phone,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101501
     nameRight: Ui
-    textRight: It seemed the two of them stop by towns to collect @fuel,
+    textRight: it seemed the two of them stop by towns to @collect fuel,
   - chara:
     - id: 101501
     nameRight: Ui
-    textRight: While heading for the End of the World.
+    textRight: while heading for the End of the World.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -469,7 +469,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Felicia
-    textLeft: '...Hm? Huh, was there supposed to be a menu like @this?'
+    textLeft: '...Hm? Huh, was there supposed to be this sorta @menu?'
   - autoTurnLast: 0.2
     chara:
     - id: 100501

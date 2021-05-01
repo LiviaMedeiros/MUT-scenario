@@ -107,7 +107,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 301901
       motion: 0
-    textRight: Ahh, geeze! It would be a waste, Kamihama!
+    textRight: Ahh, geez! It would be a waste, Kamihama!
   - chara:
     - id: 301901
     textRight: If there's even a chance, I'll bring smiles to the whole@town!
@@ -123,7 +123,7 @@ story:
   - chara:
     - id: 300701
       motion: 101
-    textLeft: Um... I was just thinking,
+    textLeft: Um... I was just thinking.
   - chara:
     - id: 300701
     textLeft: If your goal is to make everyone smile...

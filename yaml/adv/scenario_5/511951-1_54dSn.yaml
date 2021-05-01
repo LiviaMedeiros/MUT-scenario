@@ -175,7 +175,7 @@ story:
       id: 100501
       motion: 100
     nameRight: Felicia
-    textRight: Where'd it go wrong for this to happen...?
+    textRight: Where’d it go wrong for this to happen...?
   - autoTurnLast: 0.2
     chara:
     - id: 100501
@@ -212,7 +212,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: It should be okay if there's some type of @safeguard...?
+    textLeft: It should be okay if there’s some type of @safeguard...?
   - chara:
     - id: 101501
       motion: 0
@@ -228,7 +228,7 @@ story:
   - chara:
     - id: 100301
     nameLeft: Tsuruno
-    textLeft: who knows what kind of trouble might happen next.
+    textLeft: who knows what kind of trouble might happen @next.
   - chara:
     - id: 101501
       motion: 200
@@ -238,7 +238,7 @@ story:
     - id: 100301
       motion: 1
     nameLeft: Tsuruno
-    textLeft: I'm really sorry to make this comparison...
+    textLeft: I’m really sorry to make this comparison...
   - chara:
     - id: 100301
     nameLeft: Tsuruno
@@ -258,7 +258,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Hmm... @I guess Touka?
+    textLeft: Hmm... I guess Touka?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -275,7 +275,7 @@ story:
     - id: 100301
       motion: 0
     nameRight: Ui
-    textRight: Yeah... but listen.
+    textRight: Yeah... but you see.
   - chara:
     - id: 101501
     nameRight: Ui

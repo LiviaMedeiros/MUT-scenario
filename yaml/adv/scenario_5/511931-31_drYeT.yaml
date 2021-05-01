@@ -74,7 +74,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Hagumu
-    textLeft: All I have to do... is keep watch on our surroundings so nobody gets
+    textLeft: All I have to do... is keep watch on our surroundings @so nobody gets
       in our way.
   - chara:
     - cheek: 0
@@ -89,7 +89,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Nanase Yukika
-    textRight: I usually manage with just the two of us, @so I think @it'll be safe
+    textRight: I usually manage with just the two of us, @so I think it'll be safe
       with three people...
   - chara:
     - cheek: 0
@@ -251,7 +251,7 @@ story:
   - chara:
     - id: 304200
     nameRight: Hibiki Meguru
-    textRight: '...They should almost be at the tower by now, are @they okay...?'
+    textRight: '...They should almost be at the tower by now, @are they okay...?'
     turnChangeOut: fadeOut
   - chara:
     - id: 102900
@@ -283,14 +283,14 @@ story:
   - chara:
     - id: 103000
     nameRight: Hagumu
-    textRight: so that they can lead us to the Three Magi, deliver @our voices,
+    textRight: so that they can lead us to the Three Magi, @deliver our voices,
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_010.exp.json
       id: 103000
     nameRight: Hagumu
-    textRight: and bring our wishes... to the other side of the End @of the World
+    textRight: and bring our wishes... to the other side of the End @of the World.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -298,7 +298,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Shigure
-    textLeft: Instead of their own wishes... they’re doing it for our wishes...?
+    textLeft: Instead of their own wishes... they’re doing it for @our wishes...?
   - chara:
     - eyeClose: 0
       id: 103000
@@ -434,7 +434,7 @@ story:
       id: 120301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: Take them out! @We don't have time to stop!
+    textLeft: Take them out! We don't have time to stop!
   - autoTurnLast: 2
     bgm: stop
     deleteArmatureList:

@@ -28,14 +28,14 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF{Thanks for listening, and welcome back to JAKQ, home of @Pirate
+    narration: "\uFEFF{Thanks for listening and welcome back to JAKQ, @home of Pirate
       Radio Central!}"
     narrationBg: bg_adv_20641.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: '{Just like normal, Kamihama City HQ’s love for Sayu-Sayu aka Fumino
+  - narration: '{Just like normal, Kamihama City HQ’s love for Sayu-Sayu @aka Fumino
       Sayuki-chan is every bit as fierce as ever!}'
-  - narration: '{Today, cutting at you in reverse! It’s "High End National Treasure"!}'
+  - narration: '{Today, cutting at you in reverse! @It’s “High End National Treasure”!}'
   - chara:
     - id: 120302
       motion: 400
@@ -49,8 +49,8 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Best sound quality with zero delay,@[chara:120301:lipSynch_0][wait:1.0][chara:120301:cheek_0][chara:120301:face_mtn_ex_011.exp.json][chara:120301:lipSynch_1]huh.
-      We’re picking up a pretty close signal.
+    textLeft: Best sound quality with zero delay, huh. [chara:120301:lipSynch_0][wait:1.0][chara:120301:cheek_0][chara:120301:face_mtn_ex_011.exp.json][chara:120301:lipSynch_1]@We’re
+      picking up a pretty close signal.
   - chara:
     - id: 120302
       motion: 300
@@ -73,7 +73,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Then let's go there next!
+    textLeft: Then let’s go there next!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -88,7 +88,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Hm, what's wrong? Don’t know which direction?
+    textLeft: Hm, what’s wrong? Don’t know which direction?
   - chara:
     - id: 120302
       motion: 100
@@ -99,7 +99,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 120302
     nameRight: Felicia
-    textRight: Jus’... @the map from the navi device cuts off right after it.
+    textRight: Jus’... the map from the navi device cuts off right @after it.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -107,7 +107,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Felicia
-    textRight: Ain’t that mean... @the End of the World could be right ahead!?
+    textRight: Ain’t that mean... the End of the World could be @right ahead!?
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -210,7 +210,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Hagumu
-    textRight: A meter I've never seen before and... and, um...[chara:103000:lipSynch_0][wait:1.2][chara:103000:cheek_0][chara:103000:face_mtn_ex_050.exp.json:motion_400][chara:103000:lipSynch_1]hawawa!?
+    textRight: A meter I’ve never seen before... And, um... [chara:103000:lipSynch_0][wait:1.2][chara:103000:cheek_0][chara:103000:face_mtn_ex_050.exp.json:motion_400][chara:103000:lipSynch_1]@Hawawa!?
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -226,11 +226,11 @@ story:
       motion: 300
       pos: 2
     nameRight: Hagumu
-    textRight: I deliberately wrote it down on a memo so I wouldn't forget...
+    textRight: I deliberately wrote it down on a memo so I @wouldn’t forget...
   - chara:
     - id: 103000
     nameRight: Hagumu
-    textRight: Where could that memo be, maybe I left it in a store...
+    textRight: Where could that memo be, maybe I left it in a @store...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -238,7 +238,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Shigure
-    textLeft: There's plenty of time... @Let's look for it one more time.
+    textLeft: There’s plenty of time... @Let’s look for it one more time.
   - chara:
     - id: 103000
       motion: 0
@@ -283,7 +283,7 @@ story:
       motion: 400
       pos: 2
     nameCenter: Shigure & Hagumu
-    textCenter: '...!?'
+    textCenter: '!?'
   - chara:
     - id: 102900
       motion: 1
@@ -373,7 +373,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Ah, I'm sorry! Did I scare you?
+    textLeft: Ah, I’m sorry! Did we scare you?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -394,8 +394,8 @@ story:
     - id: 120301
       motion: 300
     nameLeft: Tsuruno
-    textLeft: Sorry...[chara:120301:lipSynch_0][wait:1.0][chara:120301:cheek_0][chara:120301:face_mtn_ex_010.exp.json:motion_200][chara:120301:lipSynch_1]Well
-      then, we’ll redo our introductions.
+    textLeft: Sorry...[chara:120301:lipSynch_0][wait:1.0][chara:120301:cheek_0][chara:120301:face_mtn_ex_010.exp.json:motion_200][chara:120301:lipSynch_1]
+      Well then, we’ll redo our introductions.
   - chara:
     - id: 120301
       motion: 101
@@ -406,7 +406,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 120301
     nameLeft: Tsuruno
-    textLeft: This time, we’ve come to bring smiles to @Mech Junk City!
+    textLeft: This time, we’ve come to bring smiles to Mech @Junk City!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -486,7 +486,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Hagumu
-    textRight: That’s...
+    textRight: Well...
   - armatureList:
     - animation:
       - action
@@ -515,7 +515,7 @@ story:
     - id: 120301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: Even though we're inside the dome!?
+    textLeft: Even though we’re inside the dome!?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

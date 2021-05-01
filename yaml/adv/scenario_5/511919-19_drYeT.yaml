@@ -25,7 +25,7 @@ story:
     chara:
     - id: 304000
     nameLeft: "\uFEFFKira Temari"
-    textLeft: There’s one more thing in this diary that I’m curious about.
+    textLeft: There’s one more thing in this diary that I’m @curious about.
     turnChangeOut: fadeOut
   - chara:
     - id: 103700
@@ -36,7 +36,7 @@ story:
     - id: 304000
       motion: 100
     nameLeft: Kira Temari
-    textLeft: The owner of the thoughts written down in this @diary.
+    textLeft: The owner of the thoughts written down in this @diary
   - chara:
     - id: 304000
     nameLeft: Kira Temari
@@ -51,11 +51,11 @@ story:
     - id: 103700
       motion: 0
     nameLeft: Kira Temari
-    textLeft: It’s as if the diary’s owner.
+    textLeft: It’s as if the diary’s owner
   - chara:
     - id: 304000
     nameLeft: Kira Temari
-    textLeft: Had lived in a world completely different from the present one...
+    textLeft: had lived in a world completely different from the present one...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -83,7 +83,7 @@ story:
   - chara:
     - id: 303800
     nameRight: Komachi Mikura
-    textRight: That is to say, memories of a life before birth reside within us.
+    textRight: that is to say, memories of a life before birth reside within us.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -95,16 +95,16 @@ story:
     - id: 120302
       motion: 0
     nameLeft: Felicia
-    textLeft: My feelin’ I left something important behind.
+    textLeft: My feelin’ I left something important behind
   - chara:
     - id: 120302
     nameLeft: Felicia
-    textLeft: From before I came to this world could also...!
+    textLeft: from before I came to this world could also...!
   - chara:
     - id: 303800
       motion: 101
     nameRight: Komachi Mikura
-    textRight: Yeah... It may be a remnant of a memory from a past life.
+    textRight: Yeah... It may be a remnant of a memory from a @past life.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -112,14 +112,14 @@ story:
       motion: 0
       pos: 2
     nameRight: Kira Temari
-    textRight: Where we came from and where we disappear to,
+    textRight: Where we came from and where we disappear to
   - chara:
     - id: 304000
     textRight: is still a mystery to everyone.
   - chara:
     - id: 304000
       motion: 200
-    textRight: Some people believe our past life...  @is a life we had before we came
+    textRight: Some people believe our past life is a life we had @before we came
       to this world.
   - autoTurnLast: 0.2
     chara:
@@ -140,11 +140,11 @@ story:
       motion: 1
       pos: 2
     nameLeft: Nayuta
-    textLeft: In our past life...
+    textLeft: In our past life,
   - chara:
     - id: 103700
     nameLeft: Nayuta
-    textLeft: Each of us may have had a special existence called a "family"...
+    textLeft: each of us may have had a special existence called @a “family”...
   - chara:
     - eyeClose: 1
       id: 103700
@@ -158,7 +158,7 @@ story:
       id: 103700
       motion: 100
     nameLeft: Nayuta
-    textLeft: '...In other words, my missing person was "family" @to me in my past
+    textLeft: '...In other words, my missing person was “family” @to me in my past
       life.'
   - chara:
     - id: 103700
@@ -215,13 +215,13 @@ story:
     narrationHAlignment: left
     narrationPosX: 150
     turnChangeOut: fadeOut
-  - narration: '[textBlack:It was three wise sages, the first to exist in this world,
+  - narration: '[textBlack:It was three wise sages, @the first to exist in this world,
       @who said the “word”.]'
-  - narration: '[textBlack:...My favorite season?]'
-  - narration: '[textBlack:Hmm... I haven’t given it much thought, @but it’s probably
-      winter, @since there’s Christmas.]'
+  - narration: '[textBlack:“...My favorite season?”]'
+  - narration: '[textBlack:“Hmm... I haven’t given it much thought, @but it’s probably
+      winter, @since there’s Christmas.”]'
   - narration: '[textBlack:When one of the wise sages said as such, @a light was born.]'
-  - narration: '[textBlack:That light became a star, and from the end of the world,
+  - narration: '[textBlack:That light became a star, @and from the end of the world,
       @it illuminated the void for all eternity...]'
   - armatureList:
     - animation:
@@ -261,7 +261,7 @@ story:
   - chara:
     - id: 103300
     nameRight: Rabi
-    textRight: Was written in this diary.
+    textRight: was written in this diary.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -296,7 +296,7 @@ story:
     - id: 301100
       motion: 300
     nameRight: Natsume Kako
-    textRight: This is the legend of the Three Magi who created the world...
+    textRight: This is the legend of the Three Magi who created @the world...
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -328,7 +328,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Kira Temari
-    textRight: Or it maybe it’s the dream of someone who heard the legend
+    textRight: Or maybe it’s the dream of someone who heard @the legend
   - chara:
     - id: 304000
     nameRight: Kira Temari
@@ -348,7 +348,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Rabi
-    textLeft: We got our hopes up on that one.
+    textLeft: We got our hopes up.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -434,7 +434,7 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: '[textBlack:Today, I held a memorial service for @Super Reindeer-san
+    narration: '[textBlack:Today, I held a memorial service @for Super Reindeer-san
       #1.]'
     narrationCoverOpacity: 0
     narrationEffect: in
@@ -481,7 +481,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Nayuta
-    textRight: It’s as you see... @It's Tsuruno-san's diary.
+    textRight: It’s as you see... It's Tsuruno-san's diary.
   - chara:
     - id: 120301
       motion: 100
@@ -496,7 +496,7 @@ story:
     - id: 120301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: 'This is from right after Super Reindeer-san #1 broke down.'
+    textLeft: 'this is from right after Super Reindeer-san #1 @broke down.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -588,7 +588,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Eh!? @...I just gave it to you!
+    textLeft: Eh!? ...I just gave it to you!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

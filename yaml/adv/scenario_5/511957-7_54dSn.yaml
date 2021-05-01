@@ -152,7 +152,7 @@ story:
   - chara:
     - id: 120302
     nameRight: Felicia
-    textRight: I wanted to get back the forgotten memories I’ve lost.
+    textRight: I wanted to get back the forgotten memories I’ve @lost.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -272,7 +272,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 120302
     nameRight: Felicia
-    textRight: So by goin’ over there, couldn’t I get back what I lost?
+    textRight: So by goin’ over there, couldn’t I get back what I @lost?
   - chara:
     - cheek: 0
       eyeClose: 1

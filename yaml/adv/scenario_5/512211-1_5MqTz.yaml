@@ -58,7 +58,7 @@ story:
     turnChangeInTime: 2
   - bgm: bgm03_story18
     nameNarration: Matsuri
-    narration: Suzune...!
+    narration: ―Matsuri―@Suzune...!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -66,13 +66,13 @@ story:
     narrationLineMargin: 35
     narrationLineSpace: 20
     turnChangeOut: whiteOut
-  - narration: ―Matsuri―@...I’m so sorry I forgot about you...
+  - narration: ―Matsuri―@...I’m so sorry@I forgot about you...
   - nameNarration: Suzune
     narration: ―Suzune―@...nn...ugh...
   - nameNarration: ""
     narration: '*Squeeze*...'
   - nameNarration: Matsuri
-    narration: ―Matsuri―@(Ah... She squeezed my hand back...)
+    narration: ―Matsuri―@(Ah...@She squeezed my hand back...)
   - autoTurnLast: 0.5
     narrationEffect: out
   - autoTurnLast: 1.5

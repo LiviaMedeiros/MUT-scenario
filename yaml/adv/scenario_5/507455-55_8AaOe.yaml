@@ -182,7 +182,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 800202
-    textCenter: Because Juri's is good as finished, and I like you.
+    textCenter: Because Juri's is as good as finished, and I like you.
   - autoTurnLast: 0.2
     chara:
     - id: 800202

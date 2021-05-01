@@ -150,7 +150,7 @@ story:
       id: 304501
       motion: 1
     textRight: '...Are you getting the wrong idea?! [chara:304501:lipSynch_0][wait:1.0][chara:304501:cheek_0][chara:304501:face_mtn_ex_020.exp.json][chara:304501:lipSynch_1]Yes,
-      Horotin@and I are twins!'
+      Hotorin@and I are twins!'
   - chara:
     - id: 304501
     textRight: I'm her sister Rion, her sister AND guardian!@[chara:304501:lipSynch_0][wait:1.2][chara:304501:cheek_0][chara:304501:face_mtn_ex_012.exp.json][chara:304501:lipSynch_1]...Okay?
@@ -219,7 +219,7 @@ story:
     textLeft: Oh?
   - chara:
     - id: 800100
-    textLeft: It seems that  someone's missing from the@guest list.
+    textLeft: It seems that someone's missing from the@guest list.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json

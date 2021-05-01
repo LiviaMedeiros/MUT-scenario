@@ -66,7 +66,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 102900
     nameRight: Shigure
-    textRight: '...After Hibiki-san sent the message to the @Three Magi'
+    textRight: '...After Hibiki-san sent the message to the Three @Magi'
   - chara:
     - id: 102900
     nameRight: Shigure
@@ -92,7 +92,7 @@ story:
     - id: 102900
       motion: 1
     nameRight: Shigure
-    textRight: 'For example, it’s like a song was suddenly broken off mid-way, '
+    textRight: 'For example, it’s like a song was suddenly broken @off mid-way, '
   - chara:
     - id: 102900
     nameRight: Shigure
@@ -153,7 +153,7 @@ story:
   - chara:
     - id: 301700
     nameRight: Nanase Yukika
-    textRight: may perchance have gotten a glimpse of evidence for that.
+    textRight: may perchance have gotten a glimpse of evidence @for that.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -165,7 +165,7 @@ story:
     - id: 301700
       motion: 200
     nameRight: Nanase Yukika
-    textRight: Yes... During the time I was unconsciousness
+    textRight: Yes... During the time I was unconscious.
   - autoTurnLast: 1
     bg: bg_adv_14073.jpg
     turnChangeIn: fadeIn
@@ -177,7 +177,7 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: '{as one of the Three Magi who created this world?}'
-  - narration: '{Until Ui has sorted out her feelings, I’ll be stopping “Little Vacation’s”
+  - narration: '{Until Ui has sorted out her feelings, @I’ll be stopping “Little Vacation’s”
       time.}'
   - autoTurnLast: 1
     bg: bg_adv_21075.jpg
@@ -198,12 +198,12 @@ story:
   - chara:
     - id: 102900
     nameLeft: Shigure
-    textLeft: You heard the Three Magi’s conversation...?
+    textLeft: You heard the Three Magi's conversation...?
     turnChangeOut: fadeOut
   - chara:
     - id: 301700
     nameRight: Nanase Yukika
-    textRight: Yes... I was thinking it was something like an auditory hallucination...
+    textRight: Yes... I was thinking it was something like an @auditory hallucination...
   - chara:
     - id: 301700
       motion: 100
@@ -228,7 +228,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Hagumu
-    textRight: Something like... @the name of this world?
+    textRight: Something like... the name of this world?
   - bgm: stop
     chara:
     - cheek: 0
@@ -299,7 +299,7 @@ story:
   - chara:
     - id: 102900
     nameLeft: Shigure
-    textLeft: then maybe our communications... @were unexpected for the Three Magi.
+    textLeft: then maybe our communications... were @unexpected for the Three Magi.
   - chara:
     - id: 102900
       motion: 100
@@ -338,7 +338,7 @@ story:
       face: mtn_ex_041.exp.json
       id: 103000
     nameRight: Hagumu
-    textRight: '....First we would discuss it with everyone, I guess?'
+    textRight: '...First we would discuss it with everyone, I guess?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -346,7 +346,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Hibiki Meguru
-    textRight: It'd be like, “The referees are discussing next steps!”
+    textRight: It’d be like, “The referees are discussing next steps!”
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -386,7 +386,7 @@ story:
     - id: 120301
       motion: 0
     nameLeft: Tsuruno
-    textLeft: For the sake of buying time to talk, they stopped the aquarium’s time...
+    textLeft: For the sake of buying time to talk, they stopped @the aquarium’s time...
   - chara:
     - id: 120301
       motion: 100
@@ -441,7 +441,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102900
     nameRight: Shigure
-    textRight: And then... slightly afterwards... @we were all frozen.
+    textRight: And then... slightly afterwards... we were all @frozen.
   - autoTurnLast: 0.2
     chara:
     - id: 102900
@@ -454,7 +454,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Nanase Yukika
-    textRight: 'Then I heard the Magi’s voices though...? '
+    textRight: 'Then I heard the Magi’s voices through...? '
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -490,7 +490,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Ahaha...@[chara:120301:lipSynch_0][wait:0.8][chara:120301:cheek_0][chara:120301:face_mtn_ex_010.exp.json][chara:120301:lipSynch_1]But
+    textLeft: Ahaha... [chara:120301:lipSynch_0][wait:0.8][chara:120301:cheek_0][chara:120301:face_mtn_ex_010.exp.json][chara:120301:lipSynch_1]But
       I understand now!
   - chara:
     - cheek: 0

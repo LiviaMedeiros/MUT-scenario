@@ -37,7 +37,7 @@ story:
       motion: 0
       pos: 2
     nameNarration: ""
-    narration: "\uFEFF{Mayday, mayday! You’re listening to our always lively underground
+    narration: "\uFEFF{Mayday, mayday! @You’re listening to our always lively underground
       station! @It’s the pirate radio station, Radio Central, broadcasting live!}"
     narrationBg: bg_adv_16053.jpg
     narrationEffect: in
@@ -72,7 +72,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 120301
     nameLeft: Tsuruno
-    textLeft: In all of my travels across the world... @Everyone I’ve met has been
+    textLeft: In all of my travels across the world... everyone I’ve @met has been
       a good person!
   - chara:
     - cheek: 0
@@ -145,7 +145,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Felicia
-    textRight: '...Oi, ‘bout time for us to head out too!'
+    textRight: '...Oi, ’bout time for us to head out too!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -228,7 +228,7 @@ story:
       posY: 0
       visible: appear
     nameRight: Felicia
-    textRight: How ‘bout this stuff?
+    textRight: How ’bout this stuff?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -310,7 +310,7 @@ story:
     - id: 120301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: Mhm, can’t be helped!
+    textLeft: Mhm, only to be expected!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -408,7 +408,7 @@ story:
   - chara:
     - id: 304200
     nameLeft: Hibiki Meguru
-    textLeft: The pirate channel Meguru SOS that was thought to have been reaching
+    textLeft: The pirate channel Meguru SOS that was thought @to have been reaching
       no one
   - chara:
     - id: 304200
@@ -419,7 +419,7 @@ story:
     - id: 103000
       motion: 100
     nameRight: Hagumu
-    textRight: Wah wah... @Um, is the button for phone-ins over here?
+    textRight: Wah wah... Um, is the button for phone-ins over @here?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -489,7 +489,7 @@ story:
   - chara:
     - id: 304000
     nameRight: Kira Temari
-    textRight: 100 percent a broadcasting mishap.
+    textRight: One-hundred percent a broadcasting mishap.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -513,7 +513,7 @@ story:
   - chara:
     - id: 303800
     nameCenter: Komachi Mikura
-    textCenter: and thought, perhaps we could be of assistance.
+    textCenter: and thought, perhaps we could be of use.
   - autoTurnLast: 1
     bg: black
     bgm: stop
@@ -618,7 +618,7 @@ story:
       id: 103000
       motion: 300
     nameRight: Hagumu
-    textRight: Hooray... Shigure-chan...!
+    textRight: Hooray, Shigure-chan...!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -674,7 +674,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Hagumu
-    textLeft: Ah... These are the parts you found...?
+    textLeft: Oh... These are the parts you found...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -689,7 +689,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Shigure
-    textLeft: That’s for sure... There’s really this much?
+    textLeft: That’s for sure... There’s really this many?
   - autoTurnLast: 0.2
     item:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_junk_parts.png

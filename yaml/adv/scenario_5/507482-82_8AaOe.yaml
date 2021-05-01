@@ -468,8 +468,8 @@ story:
       voiceFull: fullvoice/section_event_1074/vo_full_507482-82-52
       voiceFullStop: fullvoice/section_event_1074/vo_full_507482-82-51
     nameLeft: Yuna
-    textLeft: I still want him to keep making contracts and turning girls into Magical
-      Girls, though...
+    textLeft: I still don't want him to keep making contracts and@turning girls into
+      Magical Girls, though...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

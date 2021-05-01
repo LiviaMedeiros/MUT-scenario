@@ -31,7 +31,7 @@ story:
     - id: 103800
       motion: 300
     nameRight: Mikage
-    textRight: Does this mean we have to win the candy and bag it?
+    textRight: Does this mean we have to win the candy @and bag it?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -115,7 +115,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Felicia
-    textLeft: But even though you doubled it... there still ain’t enough for one bag.
+    textLeft: But even though ya doubled it, there still ain’t @enough for one bag.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -247,7 +247,7 @@ story:
       motion: 1
       pos: 1
     nameCenter: Sudachi
-    textCenter: '.....@ .....'
+    textCenter: '.....@.....'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -337,7 +337,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Hoh? @Could it be...
+    textLeft: Hoh? Could it be...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -460,7 +460,7 @@ story:
       id: 303500
       motion: 0
     nameNarration: Sudachi
-    narration: Don't worry!
+    narration: No worries!
     narrationBg: bg_adv_21031.jpg
     narrationEffect: in
     narrationHAlignment: left
@@ -470,8 +470,8 @@ story:
       motion: 100
     nameLeft: Chiaki Riko
     narrationEffect: out
-    textLeft: Ehehe,@[chara:303500:lipSynch_0][wait:0.8][chara:303500:cheek_0][chara:303500:face_mtn_ex_011.exp.json][chara:303500:lipSynch_1]thank
-      you!
+    textLeft: Ehehe,[chara:303500:lipSynch_0][wait:0.8][chara:303500:cheek_0][chara:303500:face_mtn_ex_011.exp.json][chara:303500:lipSynch_1]
+      alright!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -479,7 +479,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Now that you've made lots of friends...
+    textLeft: Now that you've made lots of friends,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

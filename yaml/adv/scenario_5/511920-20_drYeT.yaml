@@ -74,14 +74,14 @@ story:
     turnChangeIn: fadeIn
   - nameNarration: ""
     narration: '[textBlack:Could I have possibly... gone the wrong way?] @[textBlack:Everything
-      is buried in snow, so I can’t be sure...] @[textBlack:but I don''t think what
+      is buried in snow, so I can’t be sure...] @[textBlack:but I don’t think what
       we’re walking down could @even be considered a road...?]'
     narrationCoverOpacity: 0
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 150
     turnChangeOut: fadeOut
-  - narration: '[textBlack:Even the usually expressionless Rabi-san seems to be in
+  - narration: '[textBlack:Even the usually expressionless Rabi-san @seems to be in
       somewhat of a low mood...] @[textBlack:When would be the right time to tell
       her...?]'
   - armatureList:
@@ -130,16 +130,16 @@ story:
     - id: 103700
       motion: 100
     nameRight: Nayuta
-    textRight: It's true that we met because.
+    textRight: It’s true that we met
   - chara:
     - id: 103700
     nameRight: Nayuta
-    textRight: I called out to Rabi-san, who was lost in the snowfield.
+    textRight: because I called out to Rabi-san, who was lost in @the snowfield.
   - chara:
     - id: 103700
       motion: 300
     nameRight: Nayuta
-    textRight: But I don't think Rabi-san and I have ever been lost together...
+    textRight: But I don’t think Rabi-san and I have ever been lost together...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -236,7 +236,7 @@ story:
     - id: 304000
       motion: 200
     nameRight: Kira Temari
-    textRight: I'm also curious as to why you didn't call her "Nayuta-sama".
+    textRight: I’m also curious as to why you didn’t call her “Nayuta-sama”.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -324,13 +324,13 @@ story:
     turnChangeIn: fadeIn
     turnEffect: blackFrame
   - nameNarration: Nayuta
-    narration: (At some point, I took a wrong turn, @and we ended up lost in the snowfield.)
+    narration: “At some point, I took a wrong turn, @and we ended up lost in the snowfield.”
     narrationCoverOpacity: 150
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: (These diaries are most likely a record @of our thoughts and feelings
-      from that time...)
-  - narration: (Immediately after, the entire sky was @covered with a dazzling light...)
+  - narration: “These diaries are most likely a record @of our thoughts and feelings
+      from that time...”
+  - narration: “Immediately after, the entire sky was @covered with a dazzling light...”
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -353,8 +353,8 @@ story:
     turnChangeIn: whiteIn
     turnChangeInTime: 1.2
   - nameNarration: Nayuta
-    narration: (When we came to our senses, we were both @transported to a completely
-      different @snowfield than the one we were in...)
+    narration: “When we came to our senses, we were both @transported to a completely
+      different @snowfield than the one we were in...”
     narrationCoverOpacity: 150
     narrationEffect: in
     turnChangeOut: whiteOut
@@ -365,7 +365,7 @@ story:
       id: 103700
       motion: 1
       pos: 1
-    narration: (We just stood there, @having forgotten about each other.)
+    narration: “We just stood there, @having forgotten about each other.”
   - autoTurnLast: 0.5
     bg: bg_adv_21511.jpg
     chara:
@@ -420,8 +420,8 @@ story:
     - id: 103700
       motion: 300
     nameLeft: Nayuta
-    textLeft: But for some reason, we were both under the impression that it was our
-      first time meeting each other...
+    textLeft: But for some reason, we were both under the impression it was our first
+      time meeting each other...
   - autoTurnLast: 0.2
     chara:
     - id: 103700
@@ -434,7 +434,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: How did you get to the town after that? You didn't know the way, right?
+    textLeft: How did you get to the town after that? You didn’t know the way, right?
   - chara:
     - id: 103700
       motion: 200
@@ -542,7 +542,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Komachi Mikura
-    textRight: I'm sorry, I started talking about things like past lives and family...
+    textRight: I’m sorry, I started talking about things like past lives and family...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -567,7 +567,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Rabi
-    textRight: '...That''s for sure.'
+    textRight: '...That’s for sure.'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -678,7 +678,7 @@ story:
     - id: 120301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: It made you smile, didn't it?
+    textLeft: It made you smile, didn’t it?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -724,17 +724,17 @@ story:
     - id: 103700
       motion: 0
     nameLeft: Nayuta
-    textLeft: According to my restored memories, the two of us
+    textLeft: According to my restored memories,
   - chara:
     - id: 103700
     nameLeft: Nayuta
-    textLeft: were fellow companions who held deep respect and affection for each
-      other...
+    textLeft: the two of us were fellow companions who held @deep respect and affection
+      for each other...
   - chara:
     - id: 103300
       motion: 100
     nameRight: Rabi
-    textRight: That's right.
+    textRight: That’s right.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -755,15 +755,15 @@ story:
   - chara:
     - id: 103300
     nameCenter: Rabi
-    textCenter: It's someone who, I can't say I'm fond of just yet, but I can place
-      all of my trust in.
+    textCenter: And it’s someone who, I can’t say I’m fond of just yet, but I can
+      place all of my trust in.
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 1
       id: 103300
       motion: 100
     nameCenter: Rabi
-    textCenter: That's who I’m looking for.
+    textCenter: That’s who I’m looking for.
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -808,7 +808,7 @@ story:
   - chara:
     - id: 103300
     nameRight: Rabi
-    textRight: It's impossible for me to make excuses here.
+    textRight: It’s impossible for me to make excuses here.
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -840,7 +840,7 @@ story:
       mouthOpen: 1
     nameLeft: Nayuta
     textBg: shout
-    textLeft: That doesn’t help me feel any better!!!
+    textLeft: You’re not making this any better!!!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

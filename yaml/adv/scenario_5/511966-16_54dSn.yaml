@@ -60,7 +60,7 @@ story:
   - chara:
     - id: 301700
     nameLeft: Nanase Yukika
-    textLeft: the additional energy into the mana cartridges over there.
+    textLeft: the additional energy into the mana cartridges @over there.
   - autoTurnLast: 0.2
     item:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_mana_cartridge.png
@@ -83,7 +83,7 @@ story:
       id: 301700
       motion: 100
     nameLeft: Nanase Yukika
-    textLeft: Indeed... @but by not doing as such,
+    textLeft: Indeed... but by not doing as such,
   - chara:
     - id: 301700
     nameLeft: Nanase Yukika
@@ -100,7 +100,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Chiaki Riko
-    textRight: If too much energy is stored up, it won’t overflow or anything?
+    textRight: If too much energy is stored up, it won’t overflow @or anything?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -123,12 +123,12 @@ story:
       motion: 100
       pos: 2
     nameRight: Chiaki Riko
-    textRight: '...Ah, it’s Yukika onee-san’s turn next for the medal game!'
+    textRight: '...Ah, it’s Yukika onee-san’s turn next for the @medal game!'
   - chara:
     - id: 103800
       motion: 1
     nameLeft: Mikage
-    textLeft: Isn’t it ‘bout time to go big? To bet eeeverything we have?
+    textLeft: Isn’t it ‘bout time to go big? To bet eeeverything @we have?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -164,11 +164,11 @@ story:
       motion: 1
     nameLeft: Nanase Yukika
     narrationEffect: out
-    textLeft: Right right, we’ve collected enough for today’s quota anyway.
+    textLeft: Right right, we’ve collected enough for today’s @quota anyway.
   - chara:
     - id: 301700
     nameLeft: Nanase Yukika
-    textLeft: There is plenty of time, no need to rush to claim the prize.
+    textLeft: There is plenty of time, no need to rush to claim @the prize.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -176,7 +176,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Mikage
-    textRight: Reeeally...? @Well, I guess so.
+    textRight: Reeeally...? Well, I guess so.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -207,7 +207,7 @@ story:
       motion: 0
     nameLeft: Nanase Yukika
     narrationEffect: out
-    textLeft: '[chara:301700:effect_emotion_surprise_0][se:7226_shock] ...!?'
+    textLeft: '[chara:301700:effect_emotion_surprise_0][se:7226_shock]!?'
   - item:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_mana_cartridge.png
       posX: 0
@@ -281,7 +281,7 @@ story:
     - id: 301700
       motion: 100
     nameLeft: Nanase Yukika
-    textLeft: We don’t know when the next time we could see a @big chance like this
+    textLeft: We don’t know when the next time we could see @a big chance like this
       would be!
   - chara:
     - id: 301700
@@ -314,7 +314,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 301700
     nameLeft: Nanase Yukika
-    textLeft: If we simply bet half of what we have in-hand and things go as planned,
+    textLeft: If we simply bet half of what we have in-hand @and things go as planned,
   - chara:
     - id: 301700
       motion: 400
@@ -335,14 +335,14 @@ story:
       motion: 1
       pos: 0
     nameLeft: Nanase Yukika
-    textLeft: Yes... This is such a vast amount of energy... that whether we could
+    textLeft: Yes... This is such a vast amount of energy... @that whether we could
       acquire it
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 301700
     nameLeft: Nanase Yukika
-    textLeft: after taking months at our current pace... no, maybe even longer, is
+    textLeft: after taking months at our current pace... no, @maybe even longer, is
       unclear...!
   - chara:
     - cheek: 0
@@ -357,7 +357,7 @@ story:
       id: 301700
       motion: 100
     nameLeft: Nanase Yukika
-    textLeft: Even supposing we lose, giving up half of our current stash, we still
+    textLeft: Even supposing we lose, giving up half of our @current stash, we still
       started not long ago.
   - chara:
     - id: 301700
@@ -446,7 +446,7 @@ story:
   - chara:
     - id: 301700
     nameCenter: Nanase Yukika
-    textCenter: I never expected to reach our goal so easily, without @a single hitch.
+    textCenter: I never expected to reach our goal so easily, @without a single hitch.
   - bgm: stop
     chara:
     - cheek: 0
@@ -475,7 +475,7 @@ story:
       name: sprite_0
       pos: 0
     nameRight: Nanase Yukika
-    textRight: '[chara:301700:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:301700:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -573,7 +573,7 @@ story:
   - chara:
     - id: 301700
     nameRight: Nanase Yukika
-    textRight: I’m afraid... @I may have trod on the tiger’s tail...
+    textRight: I’m afraid... I may have trod on the tiger’s tail...
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -604,7 +604,7 @@ story:
     - id: 301700
     nameRight: Nanase Yukika
     textBg: shout
-    textRight: please deliver the mana cartridges to the observatory!
+    textRight: please deliver the mana cartridges to the @observatory!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -708,7 +708,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 301700
     nameRight: Nanase Yukika
-    textRight: Although... @I expect this is not the end...
+    textRight: Although... I expect this is not the end...
   - autoTurnLast: 1
     flashEffect: flashWhiteSlow2
     textClear: 1
@@ -719,7 +719,7 @@ story:
       lipSynch: 0
       motion: 0
     nameRight: Nanase Yukika
-    textRight: '[chara:301700:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:301700:effect_emotion_surprise_0][se:7226_shock]!?'
   - autoTurnLast: 0.01
     textClear: 1
   - autoTurnLast: 2

@@ -84,7 +84,7 @@ story:
       id: 102900
       motion: 200
     nameLeft: Shigure
-    textLeft: ' our actions prompted a reaction from the @Three Magi.'
+    textLeft: ' our actions prompted a reaction from the Three @Magi.'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -187,18 +187,18 @@ story:
       face: mtn_ex_030.exp.json
       id: 301700
     nameLeft: Nanase Yukika
-    textLeft: into forbidden territory that should not be touched...
+    textLeft: into forbidden territory that should not be @touched...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 103000
       motion: 400
     nameRight: Hagumu
-    textRight: Eh... Eh?
+    textRight: Eh... Huh?
   - chara:
     - id: 103000
     nameRight: Hagumu
-    textRight: If that really is the case... @what’s going to happen to us?
+    textRight: If that really is the case... what’s going to @happen to us?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -218,7 +218,7 @@ story:
     - id: 103000
       motion: 0
     nameRight: Hagumu
-    textRight: Eh...? @What do you mean?
+    textRight: Eh...? What do you mean?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -265,7 +265,7 @@ story:
       lipSynch: 0
       motion: 400
     nameRight: Felicia
-    textRight: '[chara:120302:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:120302:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

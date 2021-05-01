@@ -47,8 +47,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 102102
       motion: 0
-    textLeft: I know they were both members of Mozenbashi. @They both worked for the
-      Bat, right?
+    textLeft: I know they were both members of Monzenbashi. @They both worked for
+      the Bat, right?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

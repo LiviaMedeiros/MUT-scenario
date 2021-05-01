@@ -221,7 +221,7 @@ story:
     textRight: Janomiya...?
   - chara:
     - id: 102102
-    textLeft: It's an shadowy gang led by Ao Kasane.
+    textLeft: It's a shadowy gang led by Ao Kasane.
   - chara:
     - id: 102400
       motion: 400

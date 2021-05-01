@@ -39,13 +39,13 @@ story:
     - id: 120302
       motion: 300
     nameRight: "\uFEFFFelicia"
-    textRight: Haah... @It's been a day with nothin’ but surprises.
+    textRight: Haah... It’s been a day with nothin’ but surprises.
     turnChangeOut: fadeOut
   - chara:
     - id: 120301
       motion: 300
     nameLeft: Tsuruno
-    textLeft: I wouldn’t have thought the Wishing Star was a door @to another world.
+    textLeft: I wouldn’t have thought the Wishing Star was a @door to another world.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -53,7 +53,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: I wonder what kind of world the Three Magi live in...?
+    textLeft: I wonder what kind of world the Three Magi live @in...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -63,12 +63,12 @@ story:
     - id: 120301
       motion: 1
     nameRight: Shigure
-    textRight: I've been improving the receiver and decoding the signal little by
+    textRight: I’ve been improving the receiver and decoding the signal little by
       little,
   - chara:
     - id: 102900
     nameRight: Shigure
-    textRight: but we still... can’t make out anything other than bits and pieces.
+    textRight: but we still... can’t make out anything other than @bits and pieces.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -76,12 +76,12 @@ story:
       motion: 100
       pos: 2
     nameRight: Shigure
-    textRight: However, I think I've identified the band used by one @of the Three
+    textRight: However, I think I’ve identified the band used by one @of the Three
       Magi.
   - chara:
     - id: 102900
     nameRight: Shigure
-    textRight: That song we received at Central Tower also came @from there.
+    textRight: That song we received at the Central Tower also @came from there.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -97,11 +97,11 @@ story:
       motion: 100
       pos: 2
     nameRight: Hagumu
-    textRight: It's not just that song, there's a lot of information @flying around...
+    textRight: It’s not just that song, there’s a lot of information @flying around...
   - chara:
     - id: 103000
     nameRight: Hagumu
-    textRight: We've found out some amazing things, like secrets about the world.
+    textRight: We’ve found out some amazing things, like secrets about this world.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -123,7 +123,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102900
     nameRight: Shigure
-    textRight: Since it was all obtained from decoding signals, this knowledge is
+    textRight: Since it was all obtained from decoding signals, @this knowledge is
       a little unreliable, but...
   - chara:
     - cheek: 0
@@ -131,16 +131,16 @@ story:
       id: 102900
       motion: 200
     nameRight: Shigure
-    textRight: In this world, everything is
+    textRight: In this world,
   - chara:
     - id: 102900
     nameRight: Shigure
-    textRight: made up of units called "pixels".
+    textRight: everything is made up of units called “pixels”.
   - chara:
     - id: 102900
     nameRight: Shigure
     textRight: If you break down the pixel further, it becomes the smallest unit called
-      a "bit”.
+      a “bit”.
   - chara:
     - id: 102900
       motion: 1
@@ -157,7 +157,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Felicia
-    textLeft: Um... @[chara:120302:lipSynch_0][wait:1.0][chara:120302:cheek_0][chara:120302:face_mtn_ex_030.exp.json][chara:120302:lipSynch_1]in
+    textLeft: Um... [chara:120302:lipSynch_0][wait:1.0][chara:120302:cheek_0][chara:120302:face_mtn_ex_030.exp.json][chara:120302:lipSynch_1]in
       other words, what does that all mean?
   - chara:
     - id: 102900
@@ -169,8 +169,8 @@ story:
       id: 102900
       motion: 100
     nameRight: Shigure
-    textRight: we just need enough energy output... From there, transmitting the information
-      material @that we’re made of,
+    textRight: we just need enough energy output... From there, @transmitting the
+      information material that we’re @made of,
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -196,7 +196,7 @@ story:
       motion: 400
       pos: 2
     nameCenter: Tsuruno & Felicia
-    textCenter: '[chara:120301:effect_emotion_surprise_0][chara:120302:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textCenter: '[chara:120301:effect_emotion_surprise_0][chara:120302:effect_emotion_surprise_0][se:7226_shock]!?'
   - bgm: bgm01_anime03
     chara:
     - cheek: 0
@@ -241,12 +241,12 @@ story:
   - chara:
     - id: 103000
     nameRight: Hagumu
-    textRight: First, we should start with what's feasible...
+    textRight: First, we should start with what’s feasible...
   - chara:
     - id: 103000
       motion: 100
     nameRight: Hagumu
-    textRight: We're currently experimenting on delivering @something smaller.
+    textRight: We’re currently experimenting on delivering @something smaller.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -329,8 +329,8 @@ story:
       motion: 0
       pos: 2
     nameRight: Shigure
-    textRight: Of course that’s what we'll do when we do it for real...@But right
-      now, we don't have enough output.
+    textRight: Of course that’s what we’ll do when we do it for real...@But right
+      now, we don’t have enough output.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -342,7 +342,7 @@ story:
   - chara:
     - id: 102900
     nameRight: Shigure
-    textRight: We're continuing broadcasting testing in the form of Pirate Radio.
+    textRight: We’re continuing broadcasting testing in the form of Pirate Radio.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -384,7 +384,7 @@ story:
   - chara:
     - id: 301700
     nameRight: Nanase Yukika
-    textRight: Yes... I’m an assistant and something like Hibiki-san's bodyguard.
+    textRight: Yes... I’m an assistant and something like Hibiki-san’s bodyguard.
   - autoTurnLast: 0.2
     chara:
     - id: 301700
@@ -397,7 +397,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Hibiki Meguru
-    textRight: I'm using the old railyard in Junk City as a studio.
+    textRight: I’m using the old railyard in Junk City as a studio.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -425,7 +425,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Hibiki Meguru
-    textRight: I'm still alive today, so it’s A-OK, there’s no problem!
+    textRight: I’m still alive today, so it’s A-OK, there’s no problem!
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -461,7 +461,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Let's bring smiles to everyone in the Junk House!
+    textLeft: Let’s bring smiles to everyone in the Junk House!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

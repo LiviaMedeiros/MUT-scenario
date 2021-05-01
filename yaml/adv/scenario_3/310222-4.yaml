@@ -64,7 +64,7 @@ story:
     textLeft: Yes, Hikaru thinks so too.
   - chara:
     - id: 102201
-    textLeft: With Yuna, I can definitely find out.
+    textLeft: With Yuna, I can definitely find it.
   - autoTurnLast: 0.01
     bg: bg_adv_21025.jpg
     chara:

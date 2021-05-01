@@ -391,7 +391,7 @@ story:
     textLeft: We should have time to look into this before the balance tips.
   - bgm: stop
     nameNarration: ""
-    narration: '[bgEffect:shakeSmall]*Door slam open*'
+    narration: '[bgEffect:shakeSmall]*Door slams open*'
     narrationEffect: in
   - chara:
     - cheek: 0
@@ -421,7 +421,7 @@ story:
     - id: 102102
       lipSynch: 1
       motion: 0
-    textLeft: '... what happened?'
+    textLeft: '...What happened?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

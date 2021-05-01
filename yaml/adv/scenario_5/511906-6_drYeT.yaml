@@ -42,7 +42,7 @@ story:
       pos: 2
     nameRight: Felicia
     narrationEffect: out
-    textRight: Cartridge loaded! Now we can head to the next town!
+    textRight: Cartridge loaded! @Now we can head to the next town!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -50,7 +50,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Alright! Then we're off!
+    textLeft: Alright! Then we’re off!
   - autoTurnLast: 0.5
     item:
     - path: resource/scenario/img/51119_storyselect_delivery/51119_mana_cartridge.png
@@ -76,7 +76,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Felicia
-    textLeft: This new method's better ain't it?
+    textLeft: This new method’s better ain’t it?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -120,7 +120,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Felicia
-    textLeft: We can't chill out until we've seen the End of the @World!
+    textLeft: We can’t chill out until we’ve seen the @End of the World!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -176,7 +176,8 @@ story:
       id: 120301
       motion: 101
     nameLeft: Tsuruno
-    textLeft: Instead of 50 points, isn't it better to reach the finish with 100 points?
+    textLeft: Instead of 50 points, isn’t it better to reach @the finish with 100
+      points?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -184,7 +185,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Mikage
-    textRight: That's dreaming big!
+    textRight: That’s dreaming big!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -206,7 +207,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 120302
     nameLeft: Felicia
-    textLeft: What I want, is to get my wish granted by the @“Wishin’ Star".
+    textLeft: What I want, is to get my wish granted by the @“Wishin’ Star”.
   - bgm: stop
     chara:
     - id: 303500
@@ -218,7 +219,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm01_anime02
     nameNarration: Chiaki Riko
-    narration: -Riko-@ The Wishing Star...
+    narration: -Riko-@The Wishing Star...
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -226,7 +227,7 @@ story:
     narrationLineMargin: 35
     narrationLineSpace: 20
     turnChangeOut: fadeOut
-  - narration: -Riko-@ Is the bright star that always stays in the same spot, right?
+  - narration: -Riko-@is the bright star that always stays in the same spot, right?
   - autoTurnLast: 0.1
     bg: bg_adv_20644.jpg
     chara:
@@ -255,7 +256,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Under the Wishing Star is the “End of the World"...
+    textLeft: Under the Wishing Star is the “End of the World”...
   - chara:
     - id: 120301
     nameLeft: Tsuruno
@@ -275,7 +276,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Chiaki Riko
-    textRight: '...I think I''ve heard of that too.'
+    textRight: '...I think I’ve heard of that too.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -283,7 +284,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Mikage
-    textRight: Do you have a wish you want to have come true no matter what?
+    textRight: Do you have a wish you want to have come true @no matter what?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -296,7 +297,7 @@ story:
     - id: 120302
       motion: 200
     nameLeft: Felicia
-    textLeft: When I get to the End of the World I'll get back what @I lost.
+    textLeft: When I get to the End of the World, I’ll get back @what I lost.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -325,7 +326,7 @@ story:
     - eyeClose: 1
       id: 120302
     nameLeft: Felicia
-    textLeft: I dunno how to explain it, but... There's somethin' important I forgot
+    textLeft: I dunno how to explain it, but... @There’s somethin’ important I forgot
       about.
   - chara:
     - id: 103900
@@ -350,7 +351,7 @@ story:
       motion: 300
     nameLeft: Tsuruno
     narrationEffect: out
-    textLeft: Let's see... For example...
+    textLeft: Let’s see... For example...
   - chara:
     - id: 120301
       motion: 0
@@ -385,16 +386,17 @@ story:
     - id: 303500
     nameRight: Chiaki Riko
     narrationEffect: out
-    textRight: '...That''s how we and everyone else are.'
+    textRight: '...That’s how we and everyone else are.'
   - chara:
     - id: 303500
     nameRight: Chiaki Riko
-    textRight: 'People suddenly show up in a town one day '
+    textRight: People suddenly show up in a town one day@and then just as suddenly
+      vanish another.
   - chara:
     - id: 303500
       motion: 300
     nameRight: Chiaki Riko
-    textRight: And then just as suddenly vanish another.
+    textRight: Now, more people disappear than arrive...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -402,7 +404,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Felicia
-    textLeft: Where'd we come from, and where do we go after?
+    textLeft: Where’d we come from, and where do we go after?
   - chara:
     - id: 303500
       motion: 0
@@ -455,7 +457,7 @@ story:
   - chara:
     - id: 103800
     nameRight: Mikage
-    textRight: By praying to the Wishing Star at the End of the World...?
+    textRight: by praying to the Wishing Star at the End of the World...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -463,12 +465,12 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: There's no way to know for sure she'll remember, @but y'know!
+    textLeft: There’s no way to know for sure she’ll remember, @but y’know!
   - chara:
     - id: 120301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: Just maybe, it's possible that on the other side of the horizon
+    textLeft: Just maybe, it’s possible that on the other side @of the horizon
   - chara:
     - id: 120301
     nameLeft: Tsuruno
@@ -484,7 +486,7 @@ story:
   - chara:
     - id: 303500
     nameRight: Chiaki Riko
-    textRight: there were a lot of people who could hear the voices @of angels...
+    textRight: there were a lot of people who could hear @the voices of angels...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -494,11 +496,11 @@ story:
     - id: 120301
       motion: 0
     nameRight: Mikage
-    textRight: Mii's heard that too!
+    textRight: Mii’s heard that too!
   - chara:
     - id: 103800
     nameRight: Mikage
-    textRight: If angels live in another world, there must be a world that's different
+    textRight: If angels live in another world, there must be @a world that’s different
       from this one.
   - chara:
     - cheek: 0
@@ -515,7 +517,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Felicia
-    textLeft: If I can get to the End of the World, I might learn somethin'.
+    textLeft: If I can get to the End of the World, I might learn somethin’.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -523,7 +525,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: So, that's why the two of us are traveling.
+    textLeft: So that’s why the two of us are traveling.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -531,7 +533,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Chiaki Riko
-    textRight: I'll be cheering for you!
+    textRight: I’ll be cheering for you!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -587,7 +589,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Felicia
-    textRight: See ya! We'll meet again some time!
+    textRight: See ya! We’ll meet again some time!
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout

@@ -68,7 +68,7 @@ story:
   - chara:
     - id: 102201
       motion: 300
-    textRight: I got it...@But I don't really see it as tough.
+    textRight: I get it...@But I don't really see it as tough.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

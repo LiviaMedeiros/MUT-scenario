@@ -170,7 +170,7 @@ story:
       pos: 1
       tear: 1
     nameCenter: Yuuna
-    textCenter: '...... @.....'
+    textCenter: '..... @.....'
   - autoTurnLast: 0.2
     chara:
     - id: 305050
@@ -232,7 +232,7 @@ story:
     narration: I won't forget.
     narrationBg: bg_adv_21221.jpg
     narrationEffect: in
-  - narration: I was just an artificial flower admiring the flower named Mami...
+  - narration: I was just an artificial flower@admiring the flower named Mami...
   - narration: But now...
   - autoTurnLast: 0.01
     bg: bg_adv_narration.jpg

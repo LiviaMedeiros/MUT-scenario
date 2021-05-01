@@ -252,7 +252,7 @@ story:
     textCenter: But when that didn't work, they vanished from the town,
   - chara:
     - id: 102102
-    textCenter: Probably thinking there was no longer a benefit to @them being here.
+    textCenter: probably thinking there was no longer a benefit to @them being here.
   - chara:
     - eyeClose: 1
       id: 102102

@@ -28,7 +28,7 @@ story:
   - chara:
     - id: 101501
     nameLeft: Ui
-    textLeft: no matter how far you travel toward the base of the Wishing Star,
+    textLeft: no matter how far you travel toward the base of @the Wishing Star,
   - chara:
     - id: 101501
       motion: 100
@@ -57,7 +57,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Touka
-    textRight: It’s just, that place isn’t really the end of the world, so it’s nothing
+    textRight: It’s just, that place isn’t really the end of the world, @so it’s nothing
       special at all!
   - chara:
     - cheek: 0
@@ -83,14 +83,14 @@ story:
   - chara:
     - id: 100301
     nameLeft: Tsuruno
-    textLeft: Polaris will seem to gradually rise higher and higher @in the sky...
+    textLeft: Polaris will seem to gradually rise higher and higher @in the sky
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: and when you arrive at the North Pole, it’ll appear to @be directly
+    textLeft: and when you arrive at the North Pole, it’ll appear @to be directly
       above you.
   - chara:
     - cheek: 0
@@ -127,7 +127,7 @@ story:
   - chara:
     - id: 100701
     nameRight: Touka
-    textRight: When you get closer, it won’t look nearly as high as Polaris would,
+    textRight: When you get closer, it won’t look nearly as high up @as Polaris would,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -172,7 +172,7 @@ story:
       motion: 1
     nameLeft: Tsuruno
     textLeft: Even if you finally reach it after pouring in your @blood, sweat, and
-      tears... @there’s nothing special about it.
+      tears... there’s nothing special @about it.
   - chara:
     - id: 100301
     nameLeft: Tsuruno
@@ -242,7 +242,7 @@ story:
         name: PARAM_BRACELET
         value: 1
     nameRight: Touka
-    textRight: There isn’t really any deeper meaning to it, it’s just a bug.
+    textRight: There isn’t really any deeper meaning to it, it’s just @a bug.
   - autoTurnLast: 1
     bg: bg_adv_21201.jpg
     chara:
@@ -262,7 +262,7 @@ story:
     - id: 101501
       motion: 300
     nameRight: Ui
-    textRight: They’ve put in so much effort to get to where they’re @at now on their
+    textRight: They’ve put in so much effort to get to where @they’re at now on their
       journey.
     turnChangeOut: fadeOut
   - chara:
@@ -279,7 +279,7 @@ story:
     - id: 100301
       motion: 300
     nameLeft: Tsuruno
-    textLeft: They must have been traveling for an incredibly long time...
+    textLeft: They must have been traveling for an incredibly @long time...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -320,7 +320,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Ah, maybe...
+    textLeft: Ah, maybe-
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -328,7 +328,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: the game itself could be magical.
+    textLeft: The game itself could be magical.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -357,7 +357,7 @@ story:
       pos: 2
     nameCenter: Tsuruno & Ui
     narrationEffect: out
-    textCenter: '...!?'
+    textCenter: '!?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -377,7 +377,7 @@ story:
     - id: 101501
       motion: 0
     nameRight: Ui
-    textRight: A message... @[chara:101501:lipSynch_0][wait:0.8][chara:101501:cheek_0][chara:101501:face_mtn_ex_010.exp.json][chara:101501:lipSynch_1]from
+    textRight: A message... [chara:101501:lipSynch_0][wait:0.8][chara:101501:cheek_0][chara:101501:face_mtn_ex_010.exp.json][chara:101501:lipSynch_1]from
       Onee-chan.
   - chara:
     - cheek: 0
@@ -435,7 +435,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Ui
-    textRight: She treated me to doughnuts before that...
+    textRight: She treated me to donuts before that...
   - autoTurnLast: 0.5
     bg: bg_adv_21111.jpg
     chara:
@@ -472,8 +472,8 @@ story:
     - id: 100301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: She’s already got you trapped,@[chara:100301:lipSynch_0][wait:1.0][chara:100301:cheek_0][chara:100301:face_mtn_ex_011.exp.json:motion_101][chara:100301:lipSynch_1]doing
-      her evangelizing work.
+    textLeft: She completely set you up [chara:100301:lipSynch_0][wait:1.0][chara:100301:cheek_0][chara:100301:face_mtn_ex_011.exp.json:motion_101][chara:100301:lipSynch_1]to
+      do her evangelizing @work.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
