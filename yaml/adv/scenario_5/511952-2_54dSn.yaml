@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 101501
       motion: 300
-    nameRight: "\uFEFFUi"
+    nameRight: Ui
     textRight: '...So now,'
     turnChangeOut: fadeOut
   - chara:

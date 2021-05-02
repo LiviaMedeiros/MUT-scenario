@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 101100
       motion: 100
-    nameRight: "\uFEFFKaede"
+    nameRight: Kaede
     textRight: Ah, Momokoooー!
     turnChangeOut: fadeOut
   - chara:

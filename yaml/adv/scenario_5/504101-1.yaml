@@ -5,7 +5,7 @@ story:
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
   - bg: black
-    nameNarration: "\uFEFFNagisa"
+    nameNarration: Nagisa
     narration: '*Phew*...'
     narrationEffect: in
     turnChangeOut: fadeOut

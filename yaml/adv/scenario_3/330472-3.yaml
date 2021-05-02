@@ -20,7 +20,7 @@ story:
     turnEffect: blackFrame
   - chara:
     - id: 800600
-    nameRight: "\uFEFFChika's Mother"
+    nameRight: Chika's Mother
     textRight: Are these mushrooms edible?
     turnChangeOut: fadeOut
   - chara:

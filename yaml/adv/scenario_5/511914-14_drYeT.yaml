@@ -25,7 +25,7 @@ story:
     chara:
     - id: 120301
       motion: 100
-    nameLeft: "\uFEFFTsuruno"
+    nameLeft: Tsuruno
     textLeft: Morniiing~
     turnChangeOut: fadeOut
   - chara:

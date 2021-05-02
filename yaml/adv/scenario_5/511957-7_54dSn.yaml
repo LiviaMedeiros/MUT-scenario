@@ -25,7 +25,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 120301
-    nameLeft: "\uFEFFTsuruno"
+    nameLeft: Tsuruno
     textLeft: '...Pretty surprising stuff.'
     turnChangeOut: fadeOut
   - chara:

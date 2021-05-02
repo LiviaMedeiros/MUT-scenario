@@ -23,7 +23,7 @@ story:
   - chara:
     - id: 100501
       motion: 100
-    nameLeft: "\uFEFFFelicia"
+    nameLeft: Felicia
     textLeft: '...But y’know, to keep that world'
     turnChangeOut: fadeOut
   - chara:

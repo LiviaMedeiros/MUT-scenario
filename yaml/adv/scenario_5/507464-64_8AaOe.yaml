@@ -13,7 +13,7 @@ story:
   - bgm: bgm23_promised04
     chara:
     - id: 102400
-    nameCenter: "\uFEFFJuri"
+    nameCenter: Juri
     textCenter: Yuna's being too hopeful.
     turnChangeOut: fadeOut
     turnEffect: blackFrame

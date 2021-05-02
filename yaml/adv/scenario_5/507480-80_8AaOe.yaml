@@ -23,7 +23,7 @@ story:
     - effect: shake
       id: 102100
     nameNarration: ""
-    narration: "\uFEFF*Hug*"
+    narration: '*Hug*'
     narrationEffect: in
     turnChangeOut: fadeOut
   - chara:

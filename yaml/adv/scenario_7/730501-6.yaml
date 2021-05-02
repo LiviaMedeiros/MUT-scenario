@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 304101
     - id: 304501
-    nameCenter: "\uFEFFHotori & Rion"
+    nameCenter: Hotori & Rion
     textCenter: '...... @......'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2

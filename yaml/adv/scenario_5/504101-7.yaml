@@ -5,7 +5,7 @@ story:
     turnChangeIn: fadeIn
   - bg: black
     bgm: bgm05_event09
-    nameNarration: "\uFEFFNagisa"
+    nameNarration: Nagisa
     narration: '"NAGISA IS THE ANGEL OF CHEESE!"'
     narrationEffect: in
     turnChangeOut: fadeOut

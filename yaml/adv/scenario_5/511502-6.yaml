@@ -29,7 +29,7 @@ story:
     - id: 304900
       lipSynch: 0
       motion: 400
-    nameLeft: "\uFEFFKanae"
+    nameLeft: Kanae
     textLeft: …………[wait:1.0][chara:304900:eyeClose_1][chara:304900:lipSynch_1]kh...agh...
   - autoTurnLast: 1
     chara:

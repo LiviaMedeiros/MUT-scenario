@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 111000
       lipSynch: 0
-    nameCenter: "\uFEFFMomoko"
+    nameCenter: Momoko
     textCenter: …………
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01

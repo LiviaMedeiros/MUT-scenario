@@ -22,7 +22,7 @@ story:
     - id: 770700
       motion: 200
     nameCenter: ""
-    textCenter: "\uFEFF…………[chara:770602:effect_7002_damage01][chara:770700:effect_7003_damage02][se:6100_hit_slash_01_s][bgEffect:shakeSmall]"
+    textCenter: …………[chara:770602:effect_7002_damage01][chara:770700:effect_7003_damage02][se:6100_hit_slash_01_s][bgEffect:shakeSmall]
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:

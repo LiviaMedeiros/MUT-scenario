@@ -23,7 +23,7 @@ story:
       pos: 2
     - id: 304600
       motion: 300
-    nameRight: "\uFEFFMomoko"
+    nameRight: Momoko
     textRight: Haa...haa...
     turnChangeOut: fadeOut
   - chara:

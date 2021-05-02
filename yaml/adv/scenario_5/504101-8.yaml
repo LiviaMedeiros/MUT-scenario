@@ -4,7 +4,7 @@ story:
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
   - bg: black
-    nameNarration: "\uFEFFNagisa"
+    nameNarration: Nagisa
     narration: Despite some bumps along the road, Nagisa even managed to win over
       Meiyui Chun and co.!
     narrationEffect: in

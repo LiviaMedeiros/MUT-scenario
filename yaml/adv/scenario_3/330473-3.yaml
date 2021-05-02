@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 304701
       motion: 400
-    nameLeft: "\uFEFFChika"
+    nameLeft: Chika
     textLeft: Helping to repair the cabin.
     turnChangeOut: fadeOut
   - chara:

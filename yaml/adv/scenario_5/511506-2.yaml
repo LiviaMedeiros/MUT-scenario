@@ -20,7 +20,7 @@ story:
   - chara:
     - id: 303701
       motion: 400
-    nameRight: "\uFEFFMel"
+    nameRight: Mel
     textRight: Ah...
     turnChangeOut: fadeOut
   - chara:

@@ -18,7 +18,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 101800
-    nameLeft: "\uFEFFTsukuyo"
+    nameLeft: Tsukuyo
     textLeft: Add the sugar～♪ Mix in water～♪ Let's knead～♪
     turnChangeOut: fadeOut
   - chara:

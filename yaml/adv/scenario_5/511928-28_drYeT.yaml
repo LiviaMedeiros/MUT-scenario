@@ -38,7 +38,7 @@ story:
       id: 120301
       motion: 0
       pos: 0
-    nameRight: "\uFEFFFelicia"
+    nameRight: Felicia
     textRight: '...This place’s crazy! What’s up with all these @enemies!'
   - chara:
     - id: 120301

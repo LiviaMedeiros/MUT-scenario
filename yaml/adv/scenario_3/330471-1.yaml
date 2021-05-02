@@ -6,7 +6,7 @@ story:
     bgm: stop
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF<Hokuyo Ward ・ Mountain Forest>"
+    narration: <Hokuyo Ward ・ Mountain Forest>
     narrationBg: bg_adv_19301.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

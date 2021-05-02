@@ -37,8 +37,8 @@ story:
       motion: 0
       pos: 2
     nameNarration: ""
-    narration: "\uFEFF{Mayday, mayday! @You’re listening to our always lively underground
-      station! @It’s the pirate radio station, Radio Central, broadcasting live!}"
+    narration: '{Mayday, mayday! @You’re listening to our always lively underground
+      station! @It’s the pirate radio station, Radio Central, broadcasting live!}'
     narrationBg: bg_adv_16053.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

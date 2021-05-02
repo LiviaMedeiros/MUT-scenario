@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 305050
       motion: 100
-    nameCenter: "\uFEFFYuuna"
+    nameCenter: Yuuna
     textCenter: What should we play next?
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2

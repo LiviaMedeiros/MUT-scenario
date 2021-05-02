@@ -27,7 +27,7 @@ story:
     chara:
     - id: 102400
       motion: 100
-    nameCenter: "\uFEFFJuri"
+    nameCenter: Juri
     textCenter: Hey,@Ranka! Ranka!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01

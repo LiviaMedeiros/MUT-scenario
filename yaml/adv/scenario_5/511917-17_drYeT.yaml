@@ -24,7 +24,7 @@ story:
   - bgm: bgm01_anime02
     chara:
     - id: 120301
-    nameLeft: "\uFEFFTsuruno"
+    nameLeft: Tsuruno
     textLeft: Missing people...
     turnChangeOut: fadeOut
   - chara:

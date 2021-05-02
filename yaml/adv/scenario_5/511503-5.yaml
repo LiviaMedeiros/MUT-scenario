@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 101300
       motion: 100
-    nameLeft: "\uFEFFTatsuki Asuka"
+    nameLeft: Tatsuki Asuka
     textLeft: Add the sugar～♪ Mix in water～♪ Let's knead～♪
     turnChangeOut: fadeOut
   - chara:

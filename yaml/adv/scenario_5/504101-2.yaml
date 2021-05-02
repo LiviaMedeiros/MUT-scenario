@@ -5,7 +5,7 @@ story:
     bg: black
     turnChangeIn: fadeIn
   - bgm: bgm03_story21
-    nameNarration: "\uFEFFNagisa"
+    nameNarration: Nagisa
     narration: For the moment, I decided to hold a strategy meeting over some cheese.
       But...
     narrationEffect: in

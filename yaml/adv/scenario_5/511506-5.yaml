@@ -19,7 +19,7 @@ story:
     turnEffect: sepiaFrame
   - chara:
     - id: 101601
-    nameLeft: "\uFEFFKanagi"
+    nameLeft: Kanagi
     textLeft: '...Is that so? Yukino really died?'
     turnChangeOut: fadeOut
   - chara:

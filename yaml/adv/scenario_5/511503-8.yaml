@@ -18,7 +18,7 @@ story:
       id: 304651
       motion: 200
       pos: 1
-    nameCenter: "\uFEFFMidori Ryou"
+    nameCenter: Midori Ryou
     textCenter: You managed to make it up here.
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2

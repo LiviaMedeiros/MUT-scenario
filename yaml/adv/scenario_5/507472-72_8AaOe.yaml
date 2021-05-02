@@ -18,7 +18,7 @@ story:
   - bgm: bgm03_story08
     chara:
     - id: 102200
-    nameRight: "\uFEFFHikaru"
+    nameRight: Hikaru
     textRight: Are you alright, Yuna...?
     turnChangeOut: fadeOut
   - chara:

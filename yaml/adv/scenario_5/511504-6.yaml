@@ -24,7 +24,7 @@ story:
       id: 111000
       motion: 0
       pos: 2
-    nameRight: "\uFEFFMomoko"
+    nameRight: Momoko
     textRight: Mel!
   - chara:
     - cheek: 0

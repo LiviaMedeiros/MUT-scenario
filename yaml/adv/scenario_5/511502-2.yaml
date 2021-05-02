@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 100100
       motion: 100
-    nameLeft: "\uFEFFIroha"
+    nameLeft: Iroha
     textLeft: Add the sugar～♪ Mix in water～♪
     turnChangeOut: fadeOut
   - chara:

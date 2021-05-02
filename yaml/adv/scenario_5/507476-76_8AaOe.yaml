@@ -13,7 +13,7 @@ story:
   - bgm: bgm23_promised05
     chara:
     - id: 102102
-    nameCenter: "\uFEFFYuna"
+    nameCenter: Yuna
     textCenter: Senpai... Senpai...
     turnChangeOut: fadeOut
   - chara:

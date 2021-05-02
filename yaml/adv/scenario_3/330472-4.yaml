@@ -18,7 +18,7 @@ story:
   - chara:
     - id: 304701
       motion: 300
-    nameCenter: "\uFEFFChika"
+    nameCenter: Chika
     textCenter: I-I'm... sorry...
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2

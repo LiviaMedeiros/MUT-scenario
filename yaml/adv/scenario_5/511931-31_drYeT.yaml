@@ -19,7 +19,7 @@ story:
   - bgm: bgm24_story04
     chara:
     - id: 102900
-    nameCenter: "\uFEFFShigure"
+    nameCenter: Shigure
     textCenter: Okay then... I’ll review the strategy.
     turnChangeOut: fadeOut
   - chara:

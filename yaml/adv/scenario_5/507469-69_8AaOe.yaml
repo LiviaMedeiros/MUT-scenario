@@ -18,7 +18,7 @@ story:
   - bgm: bgm24_story04
     chara:
     - id: 770183
-    nameLeft: "\uFEFFRyuugasaki Girl"
+    nameLeft: Ryuugasaki Girl
     textLeft: Ugh... I can't die in a place like this...
     turnChangeOut: fadeOut
   - chara:

@@ -32,6 +32,7 @@ story:
       id: 300600
     - effect: fadeout
       id: 300300
+    textClear: 1
   - bgm: bgm01_battle02
     chara:
     - cheek: 0
@@ -45,6 +46,7 @@ story:
     chara:
     - id: 302500
       pos: 2
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -259,6 +261,7 @@ story:
       id: 303191
     - effect: fadeout
       id: 303100
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -321,6 +324,7 @@ story:
       id: 303191
     - effect: fadeout
       id: 303100
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -373,6 +377,7 @@ story:
     chara:
     - effect: fadeout
       id: 302500
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -400,6 +405,7 @@ story:
       id: 303191
     - effect: fadeout
       id: 303100
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -424,6 +430,7 @@ story:
       id: 300600
     - effect: fadeout
       id: 300300
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

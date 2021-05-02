@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 303300
       motion: 100
-    nameLeft: "\uFEFFFumino Sayuki"
+    nameLeft: Fumino Sayuki
     textLeft: Add the sugar～♪ Mix in water～♪ Let's knead～♪
     turnChangeOut: fadeOut
   - chara:

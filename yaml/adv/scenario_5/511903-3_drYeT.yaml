@@ -24,7 +24,7 @@ story:
   - bgm: bgm03_story02
     chara:
     - id: 303500
-    nameLeft: "\uFEFFChiaki Riko"
+    nameLeft: Chiaki Riko
     textLeft: The only things inside are some bags and a ribbon @for wrapping...
     turnChangeOut: fadeOut
   - chara:

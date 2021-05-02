@@ -36,7 +36,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 103700
-    nameLeft: "\uFEFFNayuta"
+    nameLeft: Nayuta
     surround: 7002_fountain
     textLeft: Are you leaving already?
     turnChangeOut: fadeOut

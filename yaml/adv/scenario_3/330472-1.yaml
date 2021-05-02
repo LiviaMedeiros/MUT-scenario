@@ -15,7 +15,7 @@ story:
   - chara:
     - id: 304701
       mouthOpen: 1
-    nameCenter: "\uFEFFChika"
+    nameCenter: Chika
     textCenter: Hmmm...
     turnChangeOut: fadeOut
   - chara:

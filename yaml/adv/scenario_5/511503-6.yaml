@@ -15,7 +15,7 @@ story:
     - id: 770601
       motion: 300
     nameCenter: ""
-    textCenter: "\uFEFFI got a \"sugar skeleton\", but what should I dooo～"
+    textCenter: I got a "sugar skeleton", but what should I dooo～
     turnChangeOut: fadeOut
   - chara:
     - id: 770601

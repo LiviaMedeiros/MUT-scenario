@@ -21,7 +21,7 @@ story:
   - chara:
     - id: 100701
       motion: 100
-    nameRight: "\uFEFFTouka"
+    nameRight: Touka
     textRight: Ahh, the world in that app is still running?
     turnChangeOut: fadeOut
     turnEffect: thinking

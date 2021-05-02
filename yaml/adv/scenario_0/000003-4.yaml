@@ -39,30 +39,33 @@ story:
     - id: 200300
       voiceFullStop: fullvoice/section_000003/vo_full_000003-4-3
     item:
-    - path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
       visible: appear
     se: 7208_wander_into
   - autoTurnLast: 0.03
     item:
-    - path: resource/scenario/img/white.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/white.png
       posX: 0
       posY: 0
       visible: appear
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/black.png
       visible: hide
   - autoTurnLast: 0.03
     item:
-    - path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
       visible: appear
-    - path: resource/scenario/img/white.jpg
+    - path: resource/scenario/img/white.png
       visible: hide
   - autoTurnLast: 0.03
     item:
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/black.png
       visible: hide
   - autoTurnLast: 0.2
     turnEffect: promist
@@ -163,7 +166,8 @@ story:
     - id: 200300
       voiceFullStop: fullvoice/section_000003/vo_full_000003-4-12
     item:
-    - path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
       visible: appear
@@ -171,23 +175,25 @@ story:
     turnEffect: stop
   - autoTurnLast: 0.03
     item:
-    - path: resource/scenario/img/white.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/white.png
       posX: 0
       posY: 0
       visible: appear
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/black.png
       visible: hide
   - autoTurnLast: 0.03
     item:
-    - path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
       visible: appear
-    - path: resource/scenario/img/white.jpg
+    - path: resource/scenario/img/white.png
       visible: hide
   - autoTurnLast: 0.03
     item:
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/black.png
       visible: hide
   - autoTurnLast: 0.2
   - bgm: bgm04_movie08

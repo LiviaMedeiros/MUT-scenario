@@ -18,7 +18,7 @@ story:
     chara:
     - id: 820100
       motion: 100
-    nameNarration: "\uFEFFSystem"
+    nameNarration: System
     narration: '[bgEffect:shakeLarge][chara:820100:effect_shake]>System shutdown.'
     narrationEffect: in
     narrationHAlignment: left

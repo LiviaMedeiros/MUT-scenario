@@ -20,7 +20,7 @@ story:
     - id: 770602
       motion: 300
     nameLeft: ""
-    textLeft: "\uFEFFAs I thought, her selfishness hasn't changed..."
+    textLeft: As I thought, her selfishness hasn't changed...
     turnChangeOut: fadeOut
   - chara:
     - id: 770700

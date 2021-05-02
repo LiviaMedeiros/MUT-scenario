@@ -29,7 +29,7 @@ story:
     - eyeClose: 0
       id: 102102
       motion: 300
-    nameLeft: "\uFEFFYuna"
+    nameLeft: Yuna
     textLeft: '... It''s going to be a while before we''ve both @recovered.'
   - autoTurnLast: 1.5
     chara:

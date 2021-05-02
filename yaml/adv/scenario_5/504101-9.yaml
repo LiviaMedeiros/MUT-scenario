@@ -4,7 +4,7 @@ story:
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
   - bg: black
-    nameNarration: "\uFEFFNagisa"
+    nameNarration: Nagisa
     narration: The plan was a huge success! With the help of the Kamihama Magical
       Girls, we defeated every last ex-Nagisa!
     narrationEffect: in

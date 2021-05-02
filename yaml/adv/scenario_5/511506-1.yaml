@@ -5,7 +5,7 @@ story:
     bg: black
     bgm: bgm24_story07
     turnChangeIn: fadeIn
-  - nameNarration: "\uFEFF???"
+  - nameNarration: ???
     narration: 「I'm not exactly fond of them...」
     narrationBg: black
     narrationEffect: in

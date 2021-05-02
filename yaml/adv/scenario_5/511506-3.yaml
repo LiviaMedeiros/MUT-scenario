@@ -15,7 +15,7 @@ story:
   - chara:
     - id: 101601
       lipSynch: 0
-    nameCenter: "\uFEFFKanagi"
+    nameCenter: Kanagi
     textCenter: …………
     turnChangeOut: fadeOut
   - chara:

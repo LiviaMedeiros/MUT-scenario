@@ -4,7 +4,7 @@ story:
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
   - bg: black
-    nameNarration: "\uFEFFNagisa"
+    nameNarration: Nagisa
     narration: By revealing my true identity, I succeeded in uniting the Kamihama
       Magical Girls as one!
     narrationEffect: in

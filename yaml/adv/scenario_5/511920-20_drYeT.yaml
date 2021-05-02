@@ -25,7 +25,7 @@ story:
     chara:
     - id: 103300
       motion: 200
-    nameRight: "\uFEFFRabi"
+    nameRight: Rabi
     textRight: '...I found it.'
     turnChangeOut: fadeOut
   - chara:

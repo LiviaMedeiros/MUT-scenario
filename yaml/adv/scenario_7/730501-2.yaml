@@ -17,7 +17,7 @@ story:
       pos: 0
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF<Satomi Medical Center>"
+    narration: <Satomi Medical Center>
     narrationBg: bg_adv_19311.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

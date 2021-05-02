@@ -7,7 +7,7 @@ story:
     nameNarration: ""
     narrationEffect: in
     turnChangeIn: fadeIn
-  - narration: "\uFEFFIntermission {Little Vacation}"
+  - narration: Intermission {Little Vacation}
     narrationCoverOpacity: 150
     narrationFontSize: 40
     turnChangeOut: fadeOut

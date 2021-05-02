@@ -6,7 +6,7 @@ story:
     nameNarration: ""
     narrationEffect: in
     turnChangeIn: fadeIn
-  - narration: "\uFEFFChapter 2 (Red) {Library Town}"
+  - narration: Chapter 2 (Red) {Library Town}
     narrationCoverOpacity: 150
     narrationFontSize: 40
     turnChangeOut: fadeOut

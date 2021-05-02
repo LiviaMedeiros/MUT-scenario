@@ -42,7 +42,7 @@ story:
       zOrder: messageBack
     autoTurnLast: 0.01
   - nameNarration: ""
-    narration: "\uFEFF*Thump*"
+    narration: '*Thump*'
     narrationBg: ""
     narrationEffect: in
     turnChangeOut: fadeOut

@@ -4,7 +4,7 @@ story:
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
   - bg: black
-    nameNarration: "\uFEFFNagisa"
+    nameNarration: Nagisa
     narration: With the help of Kanoko Yayoi, @the first Magical Girl I met in Kamihama,
       @we defeated the ex-Nagisa!
     narrationEffect: in

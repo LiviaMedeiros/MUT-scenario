@@ -19,7 +19,7 @@ story:
     chara:
     - id: 102102
       motion: 300
-    nameLeft: "\uFEFFYuna"
+    nameLeft: Yuna
     textLeft: They have us completely surrounded...
     turnChangeOut: fadeOut
   - chara:

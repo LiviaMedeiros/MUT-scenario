@@ -27,7 +27,7 @@ story:
   - chara:
     - id: 111000
       motion: 200
-    nameRight: "\uFEFFMomoko"
+    nameRight: Momoko
     textRight: Kh...
   - chara:
     - id: 111600

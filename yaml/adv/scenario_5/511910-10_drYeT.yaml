@@ -29,7 +29,7 @@ story:
   - chara:
     - id: 120301
       motion: 300
-    nameLeft: "\uFEFFTsuruno"
+    nameLeft: Tsuruno
     surround: 7003_wind
     textLeft: '...It’s such a lonely place. @Is there really a village here?'
     turnChangeOut: fadeOut

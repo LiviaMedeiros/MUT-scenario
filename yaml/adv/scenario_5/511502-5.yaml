@@ -17,7 +17,7 @@ story:
       lipSynch: 0
       motion: 300
       pos: 1
-    nameCenter: "\uFEFFMomoko"
+    nameCenter: Momoko
     textCenter: (I managed to get up to here...)
     turnChangeOut: fadeOut
   - chara:

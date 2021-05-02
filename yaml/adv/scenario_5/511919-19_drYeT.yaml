@@ -24,7 +24,7 @@ story:
   - bgm: bgm03_story06
     chara:
     - id: 304000
-    nameLeft: "\uFEFFKira Temari"
+    nameLeft: Kira Temari
     textLeft: There’s one more thing in this diary that I’m @curious about.
     turnChangeOut: fadeOut
   - chara:

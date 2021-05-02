@@ -16,7 +16,7 @@ story:
       motion: 0
       pos: 0
     turnChangeIn: fadeIn
-  - nameNarration: "\uFEFFYuuna"
+  - nameNarration: Yuuna
     narration: Encounters with destiny are always sudden.
     narrationBg: bg_adv_21221.jpg
     narrationEffect: in

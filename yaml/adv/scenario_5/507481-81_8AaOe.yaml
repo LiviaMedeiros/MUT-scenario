@@ -19,7 +19,7 @@ story:
   - bgm: bgm23_promised05
     chara:
     - id: 810000
-    nameLeft: "\uFEFFKyubey"
+    nameLeft: Kyubey
     textLeft: That's right.
     turnChangeOut: fadeOut
     turnChangeOutTime: 0.8

@@ -6,7 +6,7 @@ story:
     nameNarration: ""
     narrationEffect: in
     turnChangeIn: fadeIn
-  - narration: "\uFEFFIntermission {The Angels}"
+  - narration: Intermission {The Angels}
     narrationCoverOpacity: 150
     narrationFontSize: 40
     turnChangeOut: fadeOut

@@ -21,7 +21,7 @@ story:
     - id: 800200
       motion: 300
     nameRight: ""
-    textRight: "\uFEFF*Hiccup*…@*Sniffle*..."
+    textRight: '*Hiccup*…@*Sniffle*...'
     turnChangeOut: fadeOut
   - chara:
     - id: 101601

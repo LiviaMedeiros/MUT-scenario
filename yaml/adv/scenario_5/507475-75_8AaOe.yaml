@@ -25,7 +25,7 @@ story:
   - bgm: bgm03_story06
     chara:
     - id: 302100
-    nameLeft: "\uFEFFSakuya"
+    nameLeft: Sakuya
     textLeft: Feeling better now...?
   - chara:
     - cheek: 0

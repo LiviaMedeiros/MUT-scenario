@@ -28,8 +28,8 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF{Thanks for listening and welcome back to JAKQ, @home of Pirate
-      Radio Central!}"
+    narration: '{Thanks for listening and welcome back to JAKQ, @home of Pirate Radio
+      Central!}'
     narrationBg: bg_adv_20641.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

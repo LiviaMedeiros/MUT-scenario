@@ -24,7 +24,7 @@ story:
   - bgm: bgm05_event07
     chara:
     - id: 102700
-    nameRight: "\uFEFFSunao"
+    nameRight: Sunao
     textRight: Well, getting back on topic...
     turnChangeOut: fadeOut
   - chara:

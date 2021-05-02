@@ -21,7 +21,7 @@ story:
     chara:
     - id: 304200
       lipSynch: 0
-    nameCenter: "\uFEFFHibiki Meguru"
+    nameCenter: Hibiki Meguru
     textCenter: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2

@@ -14,7 +14,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 304701
-    nameCenter: "\uFEFFChika"
+    nameCenter: Chika
     textCenter: Huh ...
     turnChangeOut: fadeOut
   - chara:

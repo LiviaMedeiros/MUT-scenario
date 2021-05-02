@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 101700
       motion: 100
-    nameRight: "\uFEFFMitama"
+    nameRight: Mitama
     textRight: …Whew…Since we've gotten this far away,@we should be safe for the time
       being…
     turnChangeOut: fadeOut

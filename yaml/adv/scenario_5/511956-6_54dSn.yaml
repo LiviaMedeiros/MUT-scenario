@@ -25,7 +25,7 @@ story:
   - chara:
     - id: 103000
       motion: 300
-    nameRight: "\uFEFFHagumu"
+    nameRight: Hagumu
     textRight: If Hibiki-san’s voice really did reach the Three Magi...
     turnChangeOut: fadeOut
   - chara:

@@ -16,7 +16,7 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - bgm: bgm01_anime03
-    nameNarration: "\uFEFFTsuruno"
+    nameNarration: Tsuruno
     narration: -Tsuruno- @Hoehh~! There’s so many gadgets I’ve never seen before.
     narrationAnchor: bottom
     narrationCoverOpacity: 110

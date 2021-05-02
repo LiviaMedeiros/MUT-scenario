@@ -7,7 +7,7 @@ story:
     nameNarration: ""
     narrationEffect: in
     turnChangeIn: fadeIn
-  - narration: "\uFEFFPart 2"
+  - narration: Part 2
     narrationCoverOpacity: 150
     narrationFontSize: 40
     turnChangeOut: fadeOut

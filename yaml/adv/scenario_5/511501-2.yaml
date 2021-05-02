@@ -14,7 +14,7 @@ story:
       motion: 300
       mouthOpen: 1
       pos: 1
-    nameCenter: "\uFEFFMomoko"
+    nameCenter: Momoko
     textCenter: '...Haa...haa...'
   - chara:
     - cheek: 0

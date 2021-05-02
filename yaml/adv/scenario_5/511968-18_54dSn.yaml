@@ -23,7 +23,7 @@ story:
   - chara:
     - id: 120301
       motion: 201
-    nameRight: "\uFEFFTsuruno"
+    nameRight: Tsuruno
     textBg: shout
     textRight: '[se:4051_landing_throw][chara:7005:effect_7000_attack01]Make way,
       make waaay!'

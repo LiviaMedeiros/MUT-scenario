@@ -29,7 +29,7 @@ story:
   - bgm: bgm01_anime03
     chara:
     - id: 102900
-    nameLeft: "\uFEFFShigure"
+    nameLeft: Shigure
     textLeft: Something that will make us smile...
     turnChangeOut: fadeOut
   - chara:

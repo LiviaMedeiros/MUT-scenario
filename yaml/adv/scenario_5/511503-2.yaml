@@ -32,7 +32,7 @@ story:
       motion: 300
     - id: 100900
       motion: 300
-    nameRight: "\uFEFFKaede"
+    nameRight: Kaede
     textRight: '...Fuyuu～@You''re terrible...Momoko...'
   - chara:
     - id: 100900

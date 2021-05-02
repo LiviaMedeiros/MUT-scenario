@@ -7,7 +7,7 @@ story:
     nameNarration: ""
     narrationEffect: in
     turnChangeIn: fadeIn
-  - narration: "\uFEFFChapter 5 {The End of the World}"
+  - narration: Chapter 5 {The End of the World}
     narrationCoverOpacity: 150
     narrationFontSize: 40
     turnChangeOut: fadeOut

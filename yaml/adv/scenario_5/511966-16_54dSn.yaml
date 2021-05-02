@@ -28,7 +28,7 @@ story:
       posY: 0
       visible: appear
     nameNarration: ""
-    narration: "\uFEFF*Thump*"
+    narration: '*Thump*'
     narrationBg: ""
     narrationEffect: in
     turnChangeOut: fadeOut

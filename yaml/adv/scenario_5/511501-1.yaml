@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 101001
       lipSynch: 0
-    nameCenter: "\uFEFFMomoko"
+    nameCenter: Momoko
     textCenter: …………[wait:1.0][chara:101001:lipSynch_1]Ha?
     turnChangeOut: fadeOut
   - bgm: bgm03_story13

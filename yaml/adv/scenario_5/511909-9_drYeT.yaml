@@ -28,9 +28,9 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF{Alright, who knows how many of you are out there listening,
-      @but today, we’ll once again hijack the waves far and wide @to bring you Pirate
-      Radio Central!}"
+    narration: '{Alright, who knows how many of you are out there listening, @but
+      today, we’ll once again hijack the waves far and wide @to bring you Pirate Radio
+      Central!}'
     narrationBg: bg_adv_20643.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

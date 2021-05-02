@@ -20,7 +20,7 @@ story:
   - chara:
     - id: 800100
     nameLeft: ""
-    textLeft: "\uFEFFHuh? Kanagi, good day."
+    textLeft: Huh? Kanagi, good day.
     turnChangeOut: fadeOut
   - chara:
     - id: 101601

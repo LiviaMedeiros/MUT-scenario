@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 800800
     nameRight: ""
-    textRight: "\uFEFFWe are \"Hyper at Home!\""
+    textRight: We are "Hyper at Home!"
     turnChangeOut: fadeOut
   - chara:
     - id: 800800

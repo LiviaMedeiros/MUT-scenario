@@ -490,7 +490,6 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 303100
-      motion: 0
     nameRight: Rika
     textRight: You're so mean, Miko-senpai.
   - chara:

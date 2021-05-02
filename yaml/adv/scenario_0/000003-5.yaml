@@ -92,7 +92,8 @@ story:
       id: 200500
       voiceFullStop: fullvoice/section_000003/vo_full_000003-5-7
     item:
-    - path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/blackpng
       posX: 0
       posY: 0
       visible: appear
@@ -100,23 +101,25 @@ story:
     surround: stop
   - autoTurnLast: 0.03
     item:
-    - path: resource/scenario/img/white.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/white.png
       posX: 0
       posY: 0
       visible: appear
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/blackpng
       visible: hide
   - autoTurnLast: 0.03
     item:
-    - path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/blackpng
       posX: 0
       posY: 0
       visible: appear
-    - path: resource/scenario/img/white.jpg
+    - path: resource/scenario/img/white.png
       visible: hide
   - autoTurnLast: 0.03
     item:
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/blackpng
       visible: hide
   - autoTurnLast: 0.2
     turnEffect: promist
@@ -279,35 +282,38 @@ story:
     - id: 200300
       voiceFullStop: fullvoice/section_000003/vo_full_000003-5-24
     item:
-    - path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
       visible: appear
     se: 7209_gate_close
   - autoTurnLast: 0.03
     item:
-    - path: resource/scenario/img/white.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/white.png
       posX: 0
       posY: 0
       visible: appear
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/black.png
       visible: hide
   - autoTurnLast: 0.03
     item:
-    - path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
       visible: appear
-    - path: resource/scenario/img/white.jpg
+    - path: resource/scenario/img/white.png
       visible: hide
   - autoTurnLast: 0.03
     item:
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/black.png
       visible: hide
   - autoTurnLast: 0.2
     bg: bg_adv_20041.jpg
     item:
-    - path: resource/scenario/img/white.jpg
+    - path: resource/scenario/img/white.png
       visible: hide
     turnEffect: stop
   - chara:
@@ -387,7 +393,7 @@ story:
     textLeft: N-no, I don't...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_010.exp.json
       id: 200100
       motion: 0
       mouthOpen: 0
@@ -413,7 +419,7 @@ story:
       voiceFull: fullvoice/section_000003/vo_full_000003-5-35
       voiceFullStop: fullvoice/section_000003/vo_full_000003-5-34
     textRight: I made a new kind of cake.
-  - autoTurnFirst: 1.5
+  - autoTurnFirst: 0.3
     chara:
     - cheek: 0
       face: mtn_ex_051.exp.json

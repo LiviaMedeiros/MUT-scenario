@@ -13,7 +13,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 111000
-    nameCenter: "\uFEFFMomoko"
+    nameCenter: Momoko
     textCenter: This is a dead end...
     turnChangeOut: fadeOut
   - autoTurnLast: 0.5

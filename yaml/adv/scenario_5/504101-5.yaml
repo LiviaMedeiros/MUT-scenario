@@ -5,7 +5,7 @@ story:
     turnChangeIn: fadeIn
   - bg: black
     bgm: bgm03_story01
-    nameNarration: "\uFEFFNagisa"
+    nameNarration: Nagisa
     narration: We called for help from Magical Girls across Kamihama, @which was all
       well and good... BUT! @A Magical Girl named Ria Ami declared that she'd be the
       leader, @and now everyone's in an uproar!

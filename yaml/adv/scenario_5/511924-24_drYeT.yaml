@@ -21,7 +21,7 @@ story:
   - bgm: bgm03_story06
     chara:
     - id: 101501
-    nameLeft: "\uFEFFUi"
+    nameLeft: Ui
     textLeft: '...So then, Touka-chan,'
     turnChangeOut: fadeOut
     turnEffect: thinking

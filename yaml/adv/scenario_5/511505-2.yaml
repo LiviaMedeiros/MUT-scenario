@@ -21,7 +21,7 @@ story:
       motion: 400
     - id: 111000
       motion: 200
-    nameLeft: "\uFEFFMisono Karin"
+    nameLeft: Misono Karin
     textLeft: '[chara:101200:effect_7003_damage02][se:6100_hit_slash_01_s][bgEffect:shakeSmall]Uu…'
     turnChangeOut: fadeOut
   - chara:

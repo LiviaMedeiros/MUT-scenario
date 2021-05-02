@@ -23,7 +23,7 @@ story:
       motion: 0
       pos: 2
     nameNarration: ""
-    narration: "\uFEFF<A few days later...>"
+    narration: <A few days later...>
     narrationBg: bg_adv_16141.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

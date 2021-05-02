@@ -22,7 +22,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 770081
-    nameLeft: "\uFEFFTorayamachi Girl"
+    nameLeft: Torayamachi Girl
     surround: 7003_wind
     textLeft: Yuna...
     turnChangeOut: fadeOut

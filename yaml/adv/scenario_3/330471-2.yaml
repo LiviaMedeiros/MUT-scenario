@@ -18,7 +18,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 102501
-    nameLeft: "\uFEFFShizuka"
+    nameLeft: Shizuka
     textLeft: This is the first time we've gone out together.
     turnChangeOut: fadeOut
   - chara:

@@ -36,7 +36,7 @@ story:
     chara:
     - id: 120301
       motion: 200
-    nameLeft: "\uFEFFTsuruno"
+    nameLeft: Tsuruno
     textLeft: We’ve saved up quite a bit of fuel, haven’t we?
     turnChangeOut: fadeOut
   - chara:

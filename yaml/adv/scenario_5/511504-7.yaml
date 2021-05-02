@@ -23,7 +23,7 @@ story:
       motion: 400
     - id: 111000
       motion: 200
-    nameLeft: "\uFEFFMel"
+    nameLeft: Mel
     textLeft: '[chara:303700:effect_7002_damage01][se:6100_hit_slash_01_s][bgEffect:shakeSmall]ah…kh…'
   - autoTurnLast: 1
     chara:

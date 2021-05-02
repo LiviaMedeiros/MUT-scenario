@@ -14,7 +14,7 @@ story:
     chara:
     - id: 102200
       lipSynch: 0
-    nameCenter: "\uFEFFHikaru"
+    nameCenter: Hikaru
     textCenter: (The meeting place should be just up ahead...)
     turnChangeOut: fadeOut
   - chara:

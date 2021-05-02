@@ -27,7 +27,7 @@ story:
       posY: 0
       visible: appear
     nameNarration: ""
-    narration: "\uFEFFJACKPOT!"
+    narration: JACKPOT!
     narrationEffect: in
     turnChangeOut: fadeOut
   - bgm: bgm03_story16

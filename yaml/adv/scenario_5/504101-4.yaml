@@ -4,7 +4,7 @@ story:
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
   - bg: black
-    nameNarration: "\uFEFFNagisa"
+    nameNarration: Nagisa
     narration: I met with the Magical Girl Kanoko Yayoi, @and in a stroke of good
       luck, finally obtained some cheese... @But! There was hardly a moment to rest
       and @savor the post-meal flavor, @for I was attacked by an ex-Nagisa!

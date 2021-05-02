@@ -20,7 +20,7 @@ story:
     - id: 102101
       motion: 100
       voiceFull: fullvoice/section_event_1074/vo_full_507482-82-1
-    nameLeft: "\uFEFFYuna"
+    nameLeft: Yuna
     textLeft: Can I have one of those flowers?
     turnChangeOut: fadeOut
   - chara:

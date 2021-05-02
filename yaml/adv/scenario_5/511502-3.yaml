@@ -24,7 +24,7 @@ story:
   - chara:
     - id: 302300
       motion: 100
-    nameLeft: "\uFEFFEri Aimi"
+    nameLeft: Eri Aimi
     textLeft: Add the sugar～♪ Mix in water～♪ Let's knead～♪
     turnChangeOut: fadeOut
   - chara:

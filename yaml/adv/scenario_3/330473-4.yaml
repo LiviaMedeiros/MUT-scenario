@@ -17,7 +17,7 @@ story:
       pos: 0
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF*Bang Bang Bang Bang*"
+    narration: '*Bang Bang Bang Bang*'
     narrationBg: ""
     narrationEffect: in
     turnChangeOut: fadeOut

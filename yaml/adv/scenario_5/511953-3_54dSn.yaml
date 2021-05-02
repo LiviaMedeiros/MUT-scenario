@@ -18,7 +18,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 100301
-    nameLeft: "\uFEFFTsuruno"
+    nameLeft: Tsuruno
     textLeft: In the end, Ui-chan doesn’t want that world to be destroyed, right?
     turnChangeOut: fadeOut
   - chara:

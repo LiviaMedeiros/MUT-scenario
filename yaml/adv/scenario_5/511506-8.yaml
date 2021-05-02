@@ -13,7 +13,7 @@ story:
     turnEffect: sepiaFrame
   - chara:
     - id: 101601
-    nameCenter: "\uFEFFKanagi"
+    nameCenter: Kanagi
     textCenter: '...Finally, the Halloween party will be@the day after tomorrow...'
     turnChangeOut: fadeOut
   - chara:

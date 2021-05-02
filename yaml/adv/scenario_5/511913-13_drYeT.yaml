@@ -40,7 +40,7 @@ story:
       motion: 200
       mouthOpen: 1
       pos: 2
-    nameCenter: "\uFEFFEveryone"
+    nameCenter: Everyone
     textBg: shout
     textCenter: Ready, set-!
   - autoTurnLast: 0.5

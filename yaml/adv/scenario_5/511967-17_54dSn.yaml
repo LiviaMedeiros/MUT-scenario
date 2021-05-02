@@ -25,7 +25,7 @@ story:
     chara:
     - id: 102900
       motion: 400
-    nameLeft: "\uFEFFShigure"
+    nameLeft: Shigure
     textLeft: '...Eh...? An urgent message from Candy Town...?'
     turnChangeOut: fadeOut
   - chara:

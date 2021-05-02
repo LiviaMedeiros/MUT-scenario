@@ -38,7 +38,7 @@ story:
     chara:
     - id: 120302
       motion: 300
-    nameRight: "\uFEFFFelicia"
+    nameRight: Felicia
     textRight: Haah... It’s been a day with nothin’ but surprises.
     turnChangeOut: fadeOut
   - chara:

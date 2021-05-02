@@ -21,7 +21,7 @@ story:
       face: mtn_ex_060.exp.json
       id: 101800
       motion: 400
-    nameLeft: "\uFEFFTsukuyo"
+    nameLeft: Tsukuyo
     textLeft: '[chara:101800:effect_7002_damage01][se:6100_hit_slash_01_s][bgEffect:shakeSmall]Uu!?'
     turnChangeOut: fadeOut
   - chara:

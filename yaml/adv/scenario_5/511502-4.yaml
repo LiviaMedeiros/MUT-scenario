@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 770701
     nameCenter: ""
-    textCenter: "\uFEFFI got it...a \"sugar skeleton\"."
+    textCenter: I got it...a "sugar skeleton".
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:

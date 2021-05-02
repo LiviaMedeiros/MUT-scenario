@@ -21,7 +21,7 @@ story:
     - id: 111000
       motion: 200
       mouthOpen: 1
-    nameRight: "\uFEFFMomoko"
+    nameRight: Momoko
     textBg: shout
     textRight: '[chara:111600:effect_7001_attack02][se:6101_hit_slash_01_vh]AAAAHH!'
     turnChangeOut: fadeOut

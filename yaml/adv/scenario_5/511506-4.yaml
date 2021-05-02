@@ -20,7 +20,7 @@ story:
   - chara:
     - id: 800300
     nameRight: ""
-    textRight: "\uFEFF...Kanagi...@I'm sorry for calling you here so late..."
+    textRight: '...Kanagi...@I''m sorry for calling you here so late...'
     turnChangeOut: fadeOut
   - chara:
     - id: 101601

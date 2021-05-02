@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 300250
       motion: 100
-    nameLeft: "\uFEFFUtsuho Natsuki"
+    nameLeft: Utsuho Natsuki
     textLeft: Whew～@Safe. I was able to hand it over!
     turnChangeOut: fadeOut
   - chara:

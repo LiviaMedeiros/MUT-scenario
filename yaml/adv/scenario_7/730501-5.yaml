@@ -16,7 +16,7 @@ story:
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
-  - nameNarration: "\uFEFFYuuna"
+  - nameNarration: Yuuna
     narration: I knew from the moment I arrived that day, @that we would have to say
       goodbye.
     narrationBg: bg_adv_21221.jpg

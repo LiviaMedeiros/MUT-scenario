@@ -10,7 +10,7 @@ story:
       posY: 0
       visible: appear
     turnChangeIn: fadeIn
-  - nameNarration: "\uFEFFKanagi"
+  - nameNarration: Kanagi
     narration: ―Kanagi―@Really, you're stubborn...@Aren't you already...at your limit...?
     narrationAnchor: bottom
     narrationCoverOpacity: 110

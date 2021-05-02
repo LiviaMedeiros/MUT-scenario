@@ -17,7 +17,7 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFFThat day in autumn approaches…"
+    narration: That day in autumn approaches…
     narrationBg: bg_adv_11061.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

@@ -13,7 +13,7 @@ story:
   - bgm: bgm23_promised04
     chara:
     - id: 102102
-    nameCenter: "\uFEFFYuna"
+    nameCenter: Yuna
     textCenter: The week Ryuugasaki gave us is almost up...
     turnChangeOut: fadeOut
   - chara:

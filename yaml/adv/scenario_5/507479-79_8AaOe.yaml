@@ -20,7 +20,7 @@ story:
   - chara:
     - id: 102200
       motion: 200
-    nameLeft: "\uFEFFHikaru"
+    nameLeft: Hikaru
     questTurnChangeOut: fadeOut
     textLeft: I'm your loyal horse, but I have to go against you just this once.
     turnChangeOut: fadeOut

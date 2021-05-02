@@ -18,7 +18,7 @@ story:
       soulGem: 0
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: "\uFEFF<1 Year ago>"
+    narration: <1 Year ago>
     narrationBg: bg_adv_19062.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

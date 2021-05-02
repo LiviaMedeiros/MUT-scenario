@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 304701
       motion: 100
-    nameRight: "\uFEFFChika"
+    nameRight: Chika
     textRight: We don't need a model with the latest features, a simpler easy to use
       model would be better.
     turnChangeOut: fadeOut

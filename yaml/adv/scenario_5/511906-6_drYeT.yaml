@@ -30,7 +30,7 @@ story:
       posY: 0
       visible: appear
     nameNarration: ""
-    narration: "\uFEFF*Click*"
+    narration: '*Click*'
     narrationEffect: in
     turnChangeOut: fadeOut
   - bgm: bgm01_anime03

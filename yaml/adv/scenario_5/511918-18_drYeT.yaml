@@ -24,7 +24,7 @@ story:
   - bgm: bgm03_story02
     chara:
     - id: 301100
-    nameRight: "\uFEFFNatsume Kako"
+    nameRight: Natsume Kako
     textRight: '...You''re saying, that box produces'
     turnChangeOut: fadeOut
   - chara:

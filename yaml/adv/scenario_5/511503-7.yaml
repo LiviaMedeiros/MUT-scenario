@@ -24,7 +24,7 @@ story:
     - id: 111000
       motion: 200
     nameLeft: ""
-    textLeft: "\uFEFF…………[chara:770601:effect_7002_damage01][se:6100_hit_slash_01_s][bgEffect:shakeSmall]"
+    textLeft: …………[chara:770601:effect_7002_damage01][se:6100_hit_slash_01_s][bgEffect:shakeSmall]
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0

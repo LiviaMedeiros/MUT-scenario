@@ -24,7 +24,7 @@ story:
   - bgm: bgm01_anime03
     chara:
     - id: 120301
-    nameLeft: "\uFEFFTsuruno"
+    nameLeft: Tsuruno
     textLeft: You want crane game candy...?
     turnChangeOut: fadeOut
   - chara:

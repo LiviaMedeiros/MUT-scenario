@@ -19,7 +19,7 @@ story:
     chara:
     - id: 102201
       motion: 300
-    nameRight: "\uFEFFHikaru"
+    nameRight: Hikaru
     textRight: Are you sure you can do this, Ao?
     turnChangeOut: fadeOut
   - chara:
