@@ -314,7 +314,7 @@ story:
   - chara:
     - id: 101750
       motion: 200
-    nameCenter: ？？？
+    nameCenter: ???
     textCenter: Phew!@This shouldn't be too difficult.
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
@@ -628,8 +628,8 @@ story:
     - eyeClose: 1
       id: 101501
       motion: 1
-    textRight: I wonder we will all need to help each other@again... Just like we
-      did on the deserted island.
+    textRight: I wonder when we will all need to help each other@again... Just like
+      we did on the deserted island.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

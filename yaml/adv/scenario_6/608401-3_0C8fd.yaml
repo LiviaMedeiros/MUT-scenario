@@ -374,15 +374,16 @@ story:
     - id: 301950
     nameNarration: Ayaka
     narration: ―Ayaka―@No, it can stare at the sun!! Werewolves are amazing!!@It's
-      the king of "chimiryou"!!
+      the king of "mountain spirits"!!
   - chara:
     - id: 300750
     nameNarration: Shizuku
-    narration: ―Shizuku―@Chimiryou?
+    narration: ―Shizuku―@Mountain spirits?
   - chara:
     - id: 301950
     nameNarration: Ayaka
-    narration: ―Ayaka―@Chimiryou! That is, chimimouryou!@You and I are chimimouryou!
+    narration: ―Ayaka―@Mountain spirits! That is, mountain river spirits!@You and
+      I are mountain river spirits!
   - chara:
     - id: 300750
     nameNarration: Shizuku
@@ -391,8 +392,15 @@ story:
   - chara:
     - id: 301950
     nameNarration: Ayaka
-    narration: ―Ayaka―@Fathers and mothers are chimimouryou! Siblings and grandparents@are
-      chimimouryou! Aunts and uncles are chimimouryou!
+    narration: ―Ayaka―@Fathers and Mothers are mountain river spirits!
+  - chara:
+    - id: 301950
+    nameNarration: Ayaka
+    narration: ―Ayaka―@Siblings and Grandparents are mountain river spirits!
+  - chara:
+    - id: 301950
+    nameNarration: Ayaka
+    narration: ―Ayaka―@Aunts and Uncles are mountain river spirits!
   - chara:
     - id: 300750
     nameNarration: Shizuku
@@ -404,7 +412,8 @@ story:
   - chara:
     - id: 301950
     nameNarration: Ayaka & Shizuku
-    narration: ―Ayaka & Shizuku―@Chimiryou, chimiryou, chimimouryou!@Everyone is chimimouryou!!!
+    narration: ―Ayaka & Shizuku―@Mountain spirits! Mountain spirits!@Everyone is mountain
+      river spirits!!!
   - autoTurnLast: 1.5
     bg: bg_adv_17112.jpg
     bgm: stop

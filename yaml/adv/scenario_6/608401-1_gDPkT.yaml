@@ -70,13 +70,13 @@ story:
   - chara:
     - id: 301901
       motion: 300
-    textRight: I think there's still lots of people that want to do it@thoough.
+    textRight: I think there's still lots of people that want to do it@thooough.
   - chara:
     - id: 300701
     textLeft: But, nobody is doing anything, right?
   - chara:
     - id: 301901
-    textRight: You're totally riight.
+    textRight: You're totally riiight.
   - chara:
     - id: 300701
       motion: 300
@@ -84,7 +84,7 @@ story:
   - chara:
     - id: 301901
       motion: 200
-    textRight: Hmm, but to just do nothiing—
+    textRight: Hmm, but to just do nothiiing—
   - chara:
     - id: 300701
       motion: 0
@@ -110,7 +110,7 @@ story:
     textRight: Ahh, geez! It would be a waste, Kamihama!
   - chara:
     - id: 301901
-    textRight: If there's even a chance, I'll bring smiles to the whole@town!
+    textRight: If there's even a chance, I'll bring smiles to the whole@city!
   - chara:
     - id: 300701
     textLeft: '...Then, why not try, Ayaka?'
@@ -284,7 +284,7 @@ story:
     textRight: Huh?
   - chara:
     - id: 301401
-    textLeft: I too, am encouraged by master's comedy!
+    textLeft: I too, am encouraged by Master's comedy!
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -298,7 +298,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Ayaka
-    textRight: Alriight!
+    textRight: Alriiight!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
