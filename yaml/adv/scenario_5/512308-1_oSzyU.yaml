@@ -511,7 +511,7 @@ story:
     - id: 300200
       motion: 200
     nameLeft: Natsuki
-    textLeft: That's right! Something weird is happening@o them...!
+    textLeft: That's right! Something weird is happening@to them...!
   - chara:
     - id: 300200
     nameLeft: Natsuki

@@ -107,7 +107,7 @@ story:
       lipSynch: 0
       motion: 100
     nameCenter: Kagari
-    textCenter: (Feels like magic I felt previously,@but not quite...?)
+    textCenter: (Feels like magic I've felt previously,@but not quite...?)
   - chara:
     - eyeClose: 0
       id: 403700

@@ -96,7 +96,7 @@ story:
     - id: 302300
       motion: 400
     nameNarration: Aimi
-    narration: '"Why are you disappearing Tsubaki?@And everyone else...!"'
+    narration: '"Why are you disappearing, Tsubaki?@And everyone else...!"'
     narrationEffect: in
     turnChangeOut: fadeOut
     turnEffect: blackFrame

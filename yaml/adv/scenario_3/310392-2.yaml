@@ -17,7 +17,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Sudachi
-    nameRight: Mikage
+    nameRight: "\uFEFFMikage"
     turnChangeIn: fadeIn
   - textRight: The 100-yen shops are super big here, aren't they?
     turnChangeOut: fadeOut
@@ -31,7 +31,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 103801
       motion: 100
-    textRight: They've got this whole lineup of@cheap and cute stationary, accessories,
+    textRight: They've got this whole lineup of cheap and cute@stationery, accessories,
       you name it!
   - chara:
     - cheek: 0
@@ -215,8 +215,8 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 801400
-    textLeft: Oh it’s you. You sure come here often,@even though your school is so
-      far.
+    textLeft: Oh, it’s you. You sure come here often,@even though your school is so
+      far away.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -231,7 +231,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801400
-    textLeft: You brought a friend along today, didn’t you.
+    textLeft: You brought a friend along today, didn’t you?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -316,11 +316,11 @@ story:
   - nameLeft: ""
     textLeft: You're banned from buying any more.
   - nameLeft: Mikage's voice
-    textLeft: Whaat!? W-Why…?
+    textLeft: Whaat!? W-why…?
   - nameLeft: ""
     textLeft: You've got to let the other kids win once in a while!
   - nameLeft: Mikage's voice
-    textLeft: Then…um…@Mii, will have the chocolate wafer rolls…
+    textLeft: Then…um…@Mii...will have the chocolate wafer rolls…
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -395,7 +395,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 103801
-    textRight: Oh, 'what is this game machine'?
+    textRight: Oh, "what is this game machine"?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -410,7 +410,7 @@ story:
       motion: 200
     textRight: It doesn't have a screen like modern video games.
   - textRight: There’s just drawing of a prison and and prisoner.@I don’t really get
-      itー
+      it.
   - chara:
     - id: 103901
       lipSynch: 0

@@ -16,7 +16,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Mikage
-    nameRight: Mitama
+    nameRight: "\uFEFFMitama"
     turnChangeIn: fadeIn
   - chara:
     - id: 101701
@@ -52,13 +52,13 @@ story:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 101701
-    textRight: Oh my～, is that right?
+    textRight: Oh my～ is that right?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 1
-    textLeft: That's what we're messaging each other about,@right now, in fact!
+    textLeft: That's what we're messaging each other about@right now, in fact!
   - autoTurnLast: 0.2
     bg: bg_adv_14123.jpg
     bgm: stop
@@ -77,7 +77,7 @@ story:
     nameRight: Livia
     turnChangeIn: fadeIn
   - bgm: bgm23_puella02
-    textRight: Whaddaya know, so she stuck with ya,@and now you're friends again?
+    textRight: Whaddaya know, so she stuck with ya@and now you're friends again?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -118,7 +118,8 @@ story:
       motion: 200
       pos: 2
     nameRight: Livia
-    textRight: That's right, after dinner is over,@ya can call 'em as much as ya like.
+    textRight: That's right, after dinner is over,@you can call 'em as much as ya
+      like.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -133,7 +134,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Yozuru
-    textLeft: Speaking of Mikage-chan,@I heard you talked with her using telepathy.
+    textLeft: Speaking of Mikage,@I heard you talked with her using telepathy.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -150,7 +151,7 @@ story:
     nameNarration: Sudachi
     narrationEffect: in
     turnChangeIn: fadeIn
-  - narration: Once asleep, the dream continues where it had left off,
+  - narration: Once asleep, the dream continues@from where it had left off,
     turnChangeOut: fadeOut
   - narration: with violent gunshots and screams,@red blood mixing together, pooling
       at my feet.
@@ -160,9 +161,9 @@ story:
       friends who believe in me,@and that my heart will shine.
   - narration: Simply having someone believe in me@made me a little stronger.
   - nameNarration: ""
-    narration: “Carry our sins and die.”
+    narration: “Carry your sins and die.”
   - nameNarration: Sudachi
-    narration: I'm going to become a good person@good enough to be able to hit those
+    narration: I'm going to become a good person,@good enough to be able to hit those
       words right back.
   - autoTurnFirst: 2.9
     bg: bg_adv_narration.jpg

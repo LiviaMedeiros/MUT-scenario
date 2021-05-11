@@ -31,7 +31,7 @@ story:
     textCenter: A birthday present for Ren…@I wonder what she’d like?
   - chara:
     - id: 303101
-    textCenter: Candy, my favourite makeup, accessories,@stuffed toys…
+    textCenter: Candy, my favorite makeup, accessories,@stuffed toys…
   - chara:
     - id: 303101
     textCenter: or maybe flowers…or a cute purse…?
@@ -65,14 +65,14 @@ story:
       id: 303101
       lipSynch: 1
       motion: 400
-    textCenter: …Eh! No, that’s not right!
+    textCenter: …Wait! No, that’s not right!
     turnEffect: stop
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 303101
       motion: 201
-    textCenter: I can’t be lazy with thinking up ideas!
+    textCenter: I can’t be lazy about figuring out a present for her!
   - chara:
     - eyeClose: 1
       id: 303101
@@ -189,11 +189,11 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 303101
-    textLeft: Ren, is drawing like, a hobby of yours?
+    textLeft: Ren, do you like to draw?
     turnChangeOut: fadeOut
   - chara:
     - id: 302501
-    textRight: Drawing…?
+    textRight: Draw...?
   - chara:
     - id: 303101
       motion: 0
@@ -201,11 +201,11 @@ story:
   - chara:
     - id: 303101
       motion: 100
-    textLeft: You collect color pencils, right?@That’s why I asked.
+    textLeft: You collect colored pencils, right?@So I just figured you must draw.
   - chara:
     - id: 302501
       motion: 1
-    textRight: '...I draw, but…it’s not anything great…so...'
+    textRight: '...I do draw, but...@Well…I''m not any good really...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -219,20 +219,20 @@ story:
       id: 303101
       lipSynch: 1
       motion: 200
-    textLeft: But I’m curious!@I really want to see your drawings.
+    textLeft: Oh come on!@I wanna see them!
     turnEffect: stop
   - chara:
     - cheek: 1
       id: 302501
       motion: 100
-    textRight: The pictures in my diary…?
+    textRight: The drawings in my diary?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
       motion: 0
-    textLeft: '[chara:303101:effect_emotion_surprise_0][se:7226_shock]Ueh!? [chara:303101:lipSynch_0][wait:0.7][chara:303101:cheek_1][chara:303101:face_mtn_ex_011.exp.json][chara:303101:lipSynch_1]Ah,
-      in your diary huh～?'
+    textLeft: '[chara:303101:effect_emotion_surprise_0][se:7226_shock]Oh?![chara:303101:lipSynch_0][wait:0.7][chara:303101:cheek_1][chara:303101:face_mtn_ex_011.exp.json][chara:303101:lipSynch_1]
+      I see. They''re in your diary...'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -246,7 +246,7 @@ story:
       id: 303101
       lipSynch: 1
       motion: 1
-    textLeft: Never mind then,@I won’t ask to look at them.
+    textLeft: Well, then I guess I can't ask you to@show them to me.
     turnEffect: stop
   - autoTurnLast: 1
     bg: bg_adv_21073.jpg
@@ -308,14 +308,15 @@ story:
     - cheek: 0
       id: 302501
       motion: 1
-    textRight: Eh? Ah, b-but…if it’s just the pictures…@then just a few should be...
+    textRight: Err, well...but...@If it's just the drawings, I guess...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
       motion: 0
-    textLeft: Really? [chara:303101:lipSynch_0][wait:0.7][chara:303101:motion_100][chara:303101:cheek_0][chara:303101:face_mtn_ex_011.exp.json][chara:303101:lipSynch_1]Yayy!
+    textLeft: Seriously?[chara:303101:lipSynch_0][wait:0.7][chara:303101:motion_100][chara:303101:cheek_0][chara:303101:face_mtn_ex_011.exp.json][chara:303101:lipSynch_1]
+      Yay!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -325,7 +326,7 @@ story:
     - cheek: 1
       id: 302501
       motion: 0
-    textLeft: ……..[wait:0.9][chara:302501:motion_400][chara:302501:cheek_1][chara:302501:face_mtn_ex_050.exp.json][chara:302501:effect_emotion_surprise_0][se:7226_shock]
+    textLeft: ………[wait:0.9][chara:302501:motion_400][chara:302501:cheek_1][chara:302501:face_mtn_ex_050.exp.json][chara:302501:effect_emotion_surprise_0][se:7226_shock]
   - chara:
     - id: 303101
       lipSynch: 0
@@ -345,26 +346,26 @@ story:
       face: mtn_ex_050.exp.json
       id: 302501
       motion: 400
-    textRight: Eh! No…! Ah…!
+    textRight: Umm...! Ahhh...errr...!
   - chara:
     - id: 302501
       motion: 200
-    textRight: N-no…!@I…I can’t show you after all…!
+    textRight: N...N...No...!@I, umm, I changed my mind...!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 303101
-    textLeft: It's okay. I was the one who asked for something unreasonable.
+    textLeft: Oh, okay.@I shouldn't have asked in the first place.
   - chara:
     - id: 303101
       motion: 1
-    textLeft: '...Well, if you ever change your mind,@show them to me then, okay?'
+    textLeft: '...If you ever change your mind, will@you show me?'
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
       id: 302501
       motion: 0
-    textRight: '...mm, okay...'
+    textRight: '...O-okay...'
   - autoTurnLast: 0.5
     bg: bg_adv_21073.jpg
     chara:
@@ -447,7 +448,7 @@ story:
   - chara:
     - id: 303101
       motion: 0
-    textCenter: The timing of giving her the present@sounds good, but...
+    textCenter: The main idea of the present sounds good, but...
   - chara:
     - id: 303101
       motion: 201

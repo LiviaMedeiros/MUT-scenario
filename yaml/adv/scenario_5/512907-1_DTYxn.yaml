@@ -79,7 +79,7 @@ story:
       lipSynch: 0
       motion: 100
     nameCenter: Shigure
-    textCenter: (We ended up lying to the instructor to get them to join,@but...)
+    textCenter: (We ended up lying to the instructor to get them to@join, but...)
     turnChangeOut: fadeOut
   - chara:
     - id: 102901
@@ -408,7 +408,7 @@ story:
     turnChangeIn: fadeIn
   - nameNarration: Himena
     narration: Hey gals, let's meet at the mountains in Hokuyo@this evening! I'll
-      explain the reason behind Takarazaki's worsening@situation and tell you who
+      explain the reason behind@Takarazaki's worsening situation and tell you@who
       the real culprit is.
     narrationCoverOpacity: 80
     narrationEffect: in

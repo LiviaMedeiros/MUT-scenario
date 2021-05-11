@@ -23,7 +23,7 @@ story:
       motion: 100
     nameCenter: Emiri
     narrationEffect: out
-    textCenter: Heey! Lookie here, lookie here!@I decorated my phone case!
+    textCenter: Hey guys! Check this out!@I totally tricked out my phone case!
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -36,13 +36,13 @@ story:
       motion: 1
       pos: 1
     nameCenter: Rika
-    textCenter: …Decorate…………@…decorate…………
+    textCenter: '...Tricked...@...Tricked out...?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 303101
       motion: 100
-    textCenter: That’s it!
+    textCenter: That's it! That's an awesome idea!
   - nameNarration: Rika
     narration: I decided that Ren’s present@would be color pencils and a pencil case.
     narrationBg: bg_adv_narration.jpg
@@ -50,8 +50,7 @@ story:
   - narration: Of course, it wouldn’t just be a normal pencil set,@I would engrave
       her name on the pencils@and I would decorate the case@with a lily of the valley.
   - narration: But…since that wasn’t something@I could possibly make by myself,@I
-      got the heir of Yayoi Sheet Metals@Kano-sensei to teach me and help me work
-      on it.
+      got the heir of Yayoi Plating@Kano-sensei to teach me and help me work on it.
   - autoTurnLast: 0.3
     bg: bg_adv_21161.jpg
     chara:
@@ -144,7 +143,7 @@ story:
     narrationBg: bg_adv_16101.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: While borrowing space and machinery@in the Yayoi sheet metal factory,@I
+  - narration: While borrowing space and machinery@in the Yayoi Plating factory,@I
       would work every day to make the case!
   - bgm: stop
     narration: '...or at least, that was the plan.'
@@ -298,7 +297,7 @@ story:
     - id: 303101
       motion: 0
     nameNarration: Rika
-    narration: 'To: Ren☆@Thank you so much for the invite,@I’m really glad (‘w ‘)
+    narration: 'To: Ren☆@Thank you so much for the invite,@I’m really glad (*‘w‘ *)
       but I’m so sorry!@I’m already busy with plans on Saturday,@so I can’t gooo!
       (>_<)'
     narrationBg: bg_adv_21073.jpg
@@ -455,7 +454,7 @@ story:
       motion: 100
       pos: 1
     nameCenter: Emiri
-    textCenter: Hallo, hallo!@Are you hanging in there, Rikappe!?
+    textCenter: Hallo, hallo!@Are you hanging in there, Rikki!?
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -496,7 +495,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 300601
       motion: 200
-    textLeft: Then, I have a reward for the absolute-maximum-@hardest-working Rikappe!
+    textLeft: Then, I have a reward for the absolute-maximum-@hardest-working Rikki!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -614,7 +613,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Emiri
-    textLeft: Then...you won’t be hanging out with Renpasu?
+    textLeft: Then...you won’t be hanging out with Renki?
   - chara:
     - id: 303101
       motion: 0
@@ -649,8 +648,8 @@ story:
     - effect: fadeout
       id: 300601
     nameNarration: Rika
-    narration: 'Recipient: Ren☆@I’m reeeally sorry!@I have supplementary lessons I
-      have to go to…@I don’t think I’ll be able to hang out much@right now...! (>_<)'
+    narration: 'Recipient: Ren☆@I''m sooooo sorry!@I''m taking some extra classes,
+      so I won''t@be able to hang out for a while...! (>_<)'
     narrationBg: bg_adv_16102.jpg
     narrationEffect: in
     narrationHAlignment: left
@@ -698,16 +697,16 @@ story:
     - id: 303101
     nameLeft: Rika
     narrationEffect: out
-    textLeft: Thank you for the help!@Really...
+    textLeft: Hey, thanks for all the help!@Seriously, you guys were great!
   - chara:
     - id: 303101
       motion: 1
-    textLeft: Kano-chin, Emirin, thank you so much!
+    textLeft: Kano-chin, Emirin, thanks so much!
   - chara:
     - id: 300101
       motion: 100
     nameRight: Kanoko
-    textRight: It was nothing.
+    textRight: Oh, it was nothing.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -715,7 +714,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Emiri
-    textRight: Yea! We’re true friends after all!
+    textRight: Yeah, no prob!@We got your back, girl!
   - autoTurnLast: 0.3
     chara:
     - cheek: 0
@@ -732,14 +731,14 @@ story:
   - bgm: stop
     chara:
     - id: 300601
-    textRight: Oh. It’s Renpasu.
+    textRight: Oh...@It's Renki!
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
     nameLeft: Rika
-    textLeft: Eh...?
+    textLeft: Huh?
   - autoTurnLast: 0.2
     chara:
     - cheek: 0
@@ -751,7 +750,7 @@ story:
   - chara:
     - id: 302502
     nameCenter: Ren
-    textCenter: '...ah...'
+    textCenter: Oh…
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.01
     chara:
@@ -766,7 +765,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Rika
-    textRight: Ah...! Ren...?@Uhm...!
+    textRight: Huh? Ren?@Ummm…
   - chara:
     - id: 303101
       lipSynch: 0
@@ -777,20 +776,20 @@ story:
       face: mtn_ex_030.exp.json
       id: 303101
       motion: 200
-    textRight: Um...this is...it’s like...it’s not...!
+    textRight: Errr, this is...ummm, it's not@like that... We just...I mean...
     turnEffect: stop
   - chara:
     - cheek: 2
       id: 302502
       motion: 1
     nameLeft: Ren
-    textLeft: '...ah...it’s...it’s fine...'
+    textLeft: '...Errr, umm...@...It''s fine...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
       motion: 400
-    textRight: Ah...! Ren!!
+    textRight: Ah...! Ren!
   - autoTurnLast: 1
     chara:
     - effect: fadeout

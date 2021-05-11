@@ -4,7 +4,7 @@ story:
   - autoTurnLast: 0.2
     bg: bg_adv_21026.jpg
     bgm: bgm03_story04
-    nameNarration: Sudachi
+    nameNarration: "\uFEFFSudachi"
     narrationBg: black
     narrationEffect: in
     turnChangeIn: fadeIn
@@ -50,7 +50,7 @@ story:
     - id: 103901
       lipSynch: 0
       motion: 200
-    textLeft: (Everyone who’s all buddy-buddy with each other...@It would be fine
+    textLeft: (Everyone who’s all buddy-buddy with each other...@it would be fine
       if they all just died…!)
   - chara:
     - id: 810000
@@ -59,7 +59,7 @@ story:
       posX: 40
       posY: 0
     nameRight: Kyubey
-    textRight: Sawa Sudachi.
+    textRight: Sudachi Sawa.
   - textRight: Are you really okay with not making a wish?
   - chara:
     - eyeClose: 1
@@ -151,15 +151,15 @@ story:
       lipSynch: 0
     textLeft: ' …………'
   - textRight: I was a solitary kind of person,@just like you.
-  - textRight: Back when we were kids, your sensei used to@harass me, and I would
+  - textRight: Back when we were kids, your teacher used to@harass me, and I would
       just take it.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 800900
       motion: 0
-    textRight: So let’s threaten him and get him to regret it all@was what I was thinking,
-      but
+    textRight: So let’s threaten him and get him to regret it all!@...was what I was
+      thinking, but...
   - textRight: I can't help but pity you,@being sold out by your own classmates…
   - chara:
     - cheek: 0
@@ -177,7 +177,7 @@ story:
     narrationEffect: in
     turnChangeIn: fadeIn
     turnEffect: stop
-  - narration: “[textRed:will carry our sins and die.]”
+  - narration: “[textRed:will carry your sins and die.]”
     turnChangeOut: fadeOut
   - autoTurnLast: 1
     bgm: bgm03_story17
@@ -212,7 +212,7 @@ story:
   - narration: ―Yozuru―@I thought it would be kinder to quietly watch over her.@I’m
       sorry to say I left her unattended until evening.
   - nameNarration: Livia
-    narration: ―Livia―@Ya don’t really need to apologize, it’s aight.@Can you make
+    narration: ―Livia―@Ya don’t really need to apologize, it’s alright.@Can you make
       us something warm to drink.
   - narration: ―Livia―@Just leave me to watch Sudachi!
   - autoTurnLast: 0.2
@@ -239,7 +239,7 @@ story:
       id: 103901
       lipSynch: 0
       motion: 200
-    textLeft: gbmu …!  fubhmu ...!!
+    textLeft: gbmu…!  fubhmu...!!
     turnChangeOut: fadeOut
   - textRight: Yer gonna be alright, yer sins will be cleared!@I’m here for ya, for
       exactly that reason!
@@ -247,7 +247,7 @@ story:
   - chara:
     - id: 104101
       motion: 300
-    textRight: Some sacrifices might happen, sure!@But if we all do our best,
+    textRight: There may be some sacrifices, sure!@But if we all do our best,
   - textRight: you can save more people than you hurt.
   - chara:
     - id: 104101
@@ -257,7 +257,7 @@ story:
     - id: 103901
       lipSynch: 0
       motion: 300
-    textLeft: fubgmu …  bhmu …
+    textLeft: fubgmu… bhmu…
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -314,8 +314,7 @@ story:
     - id: 101701
       motion: 0
     textRight: I might…
-  - textRight: …have seen Sudachi-chan before@in a news photo exhibit over 1 year
-      ago…
+  - textRight: …have seen Sudachi before@in a news photo exhibit over 1 year ago…
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

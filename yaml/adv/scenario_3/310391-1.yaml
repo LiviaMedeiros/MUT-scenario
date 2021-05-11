@@ -15,7 +15,7 @@ story:
     nameRight: ""
     turnChangeIn: fadeIn
     turnEffect: blackFrame
-  - textCenter: The last period is starting!
+  - textCenter: "\uFEFFThe last period is starting!"
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -56,12 +56,12 @@ story:
       pos: 1
     textCenter: The more you grow up,@the more fun things you'll find packed in each
       day.
-  - textCenter: You haven't got any time to waste@falling asleep in class!
+  - textCenter: You haven't got any time to waste falling asleep@in class!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 800700
-    textCenter: Just don't go overdoing it@to the point of getting sick.
+    textCenter: Just don't go overdoing it to the point@of getting sick.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -126,7 +126,7 @@ story:
     narration: 「Whaaat!?」
     narrationEffect: in
   - narrationEffect: out
-    textCenter: Sensei doesn't want to do it either.
+    textCenter: I don't want to do it either.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -214,7 +214,7 @@ story:
     - id: 103901
       lipSynch: 0
       motion: 400
-    textLeft: fufumu~ fumu!
+    textLeft: fufumu～ fumu!
     turnChangeOut: fadeOut
   - chara:
     - id: 104001
@@ -246,7 +246,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 104101
       motion: 200
-    textRight: Why such a hurry?@The magazine ain't gonna get away from you.
+    textRight: Why such a hurry?@That magazine ain't gonna get away.
   - chara:
     - id: 103901
       lipSynch: 0
@@ -285,7 +285,7 @@ story:
       id: 103901
       lipSynch: 0
       motion: 0
-    textLeft: fumu~
+    textLeft: fumu～
   - chara:
     - id: 104101
       motion: 300
@@ -336,30 +336,30 @@ story:
     - eyeClose: 1
       id: 103901
       lipSynch: 0
-    textCenter: （Livia-san is special to me, which is why@I don't want her to know
-      that I feel nervous…）
+    textCenter: (Livia is special to me, which is why@I don't want her to know that
+      I feel nervous…)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103901
       lipSynch: 0
       motion: 300
-    textCenter: （And also, it's easier for me to rely on everyone@with the way things
-      are now…）
+    textCenter: (And also, it's easier for me to rely on everyone@with the way things
+      are now…)
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_050.exp.json
       id: 103901
       lipSynch: 0
-    textCenter: （Not that I should go around telling them that…）
+    textCenter: (Not that I should go around telling them that…)
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 103901
       lipSynch: 0
       motion: 100
-    textCenter: （Eventually, I'll talk to Livia-san too…@Yeah, eventually.）
+    textCenter: (Eventually, I'll talk to Livia too…@Yeah, eventually.)
   - autoTurnLast: 0.2
     bg: bg_adv_21241.jpg
     chara:
@@ -379,14 +379,14 @@ story:
   - chara:
     - id: 103901
       lipSynch: 0
-    textCenter: （Only 1 copy of TeraPichi left…!）
+    textCenter: (Only 1 copy of TeraPichi left…!)
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 103901
       lipSynch: 0
       motion: 100
-    textCenter: （Livia-san…!@The magazine DID almost get away from me…!）
+    textCenter: (Livia…!@The magazine DID almost get away…!)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -413,7 +413,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 103901
       lipSynch: 0
-    textLeft: （This hand…!）
+    textLeft: (This hand…!)
   - bgm: bgm03_story20
     chara:
     - cheek: 0
@@ -426,19 +426,19 @@ story:
       face: mtn_ex_040.exp.json
       id: 103901
       lipSynch: 0
-    textLeft: （Who…?）
+    textLeft: (Who…?)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103801
-    textRight: Ah, but Mii's hand is underneath yours,@so it's Mii's victory~
+    textRight: Ah, but Mii's hand is underneath yours,@so it's Mii's victory～
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 103901
       lipSynch: 0
       motion: 400
-    textLeft: （Ah, it's true…）
+    textLeft: (Ah, it's true…)
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -451,7 +451,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 103801
       motion: 200
-    textRight: hm?
+    textRight: Hm?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -462,11 +462,11 @@ story:
   - chara:
     - id: 103901
       lipSynch: 0
-    textLeft: （Um, how about rock paper scissors…）
+    textLeft: (Um, how about rock paper scissors…)
   - chara:
     - id: 103801
       motion: 400
-    textRight: Huh? Don't worry about it?
+    textRight: Huh? "Don't worry about it"?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -479,11 +479,11 @@ story:
       face: mtn_ex_011.exp.json
       id: 103801
       motion: 100
-    textRight: I'll take you up on that offer, then! Thanks!
+    textRight: I'll take you up on that offer, then!@Thanks!
   - chara:
     - id: 103901
       lipSynch: 0
-    textLeft: （I'm not getting through to her at all…!）
+    textLeft: (I'm not getting through to her at all…!)
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -512,7 +512,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 103901
       lipSynch: 0
-    textLeft: （It's been a long time since@I've played with a kid my age.）
+    textLeft: (It's been a long time since I've played with@a kid my age.)
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

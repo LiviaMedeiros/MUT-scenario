@@ -375,7 +375,7 @@ story:
     - id: 302300
       motion: 400
     nameCenter: Aimi
-    textCenter: Why are you disappearing Tsubaki?
+    textCenter: Why are you disappearing, Tsubaki?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0

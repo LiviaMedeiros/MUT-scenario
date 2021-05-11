@@ -11,7 +11,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Livia
-    nameRight: Sudachi
+    nameRight: "\uFEFFSudachi"
     turnChangeIn: fadeIn
   - chara:
     - cheek: 0
@@ -71,7 +71,7 @@ story:
       motion: 100
     surround: stop
     textLeft: It would appear her high spirits is due to@the fact that she was able
-      to share it
+      to share
     turnEffect: stop
   - textLeft: with the person who purchased the book@and exchange contact information.
   - chara:
@@ -112,7 +112,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Yozuru
-    textLeft: But, that dream is getting closer again,@is what she says.
+    textLeft: But, that dream is getting closer again@...is what she said.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -143,25 +143,25 @@ story:
     chara:
     - id: 101701
       motion: 100
-    textRight: Heh～, a new friend?
+    textRight: Oh～ a new friend?
     turnChangeOut: fadeOut
   - chara:
     - id: 103801
       motion: 200
-    textLeft: Yup, I don't know where she's from or which school,
+    textLeft: Yup, I don't know where she's from@or which school she goes to,
   - textLeft: and no matter what she said,@I almost didn't understand any of it,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103801
       motion: 400
-    textLeft: but it all just kinda came to me like *pew pew*@and we became friends.
+    textLeft: but it all just kinda came to me like *pshooom*@and we became friends.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101701
       motion: 200
-    textRight: Fufu～@So there was something like that.
+    textRight: '*chuckle～*@So there was something like that.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -183,7 +183,7 @@ story:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 101701
-    textRight: Suu-tan?@Sawa Sudachi...?
+    textRight: Suu-tan?@Sudachi Sawa...?
   - bgm: stop
     chara:
     - cheek: 0
@@ -191,14 +191,14 @@ story:
       id: 101701
       lipSynch: 0
       motion: 400
-    textRight: '[chara:101701:effect_emotion_surprise_0][se:7226_shock]――!?'
+    textRight: '[chara:101701:effect_emotion_surprise_0][se:7226_shock]!?'
   - bgm: bgm03_story08
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 101701
       lipSynch: 0
-    textRight: (She's from Pure Care Traveling Coordinators...)
+    textRight: (She's from Puella Care Traveling Coordinators...)
   - chara:
     - eyeClose: 1
       id: 101701
@@ -208,7 +208,7 @@ story:
   - chara:
     - id: 101701
       lipSynch: 0
-    textRight: (That's Sensei's place,@so I expect she should be netural...)
+    textRight: (That's Teacher's place,@so I expect she should be netural...)
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -252,7 +252,7 @@ story:
     - id: 101701
       lipSynch: 0
       motion: 200
-    textRight: (Where else have i seen this girl before...)
+    textRight: (Where else have I seen this girl before...)
     turnChangeOut: fadeOut
   - chara:
     - id: 101701
@@ -261,7 +261,7 @@ story:
   - chara:
     - id: 103801
       motion: 100
-    textLeft: Nee-cha...?
+    textLeft: Sis...?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -346,7 +346,7 @@ story:
     - id: 103901
       lipSynch: 0
       motion: 100
-    textCenter: (and if we got a new sensei,@I think these cliques would fall apart.)
+    textCenter: (and if we got a new teacher,@I think these cliques would fall apart.)
   - chara:
     - id: 103901
       lipSynch: 0
@@ -418,7 +418,7 @@ story:
       id: 800500
       motion: 0
       pos: 2
-    textRight: An acquaintance of sensei's...?
+    textRight: '...an acquaintance of Teacher''s...?'
   - textLeft: What are you doing here...
   - autoTurnLast: 0.2
     chara:

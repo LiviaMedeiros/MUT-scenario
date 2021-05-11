@@ -9,7 +9,7 @@ story:
       id: 103901
       motion: 0
       pos: 1
-    nameCenter: Sudachi
+    nameCenter: "\uFEFFSudachi"
     surround: 7007_evening_townbuzz
     turnChangeIn: fadeIn
   - chara:
@@ -41,7 +41,7 @@ story:
       lipSynch: 0
       motion: 200
     narrationEffect: out
-    textCenter: (I did it…I did it…)
+    textCenter: (I did it…I did it…!)
   - nameRight: Mikage's voice
     textRight: You did it,@didn’t you Suu-tan!
   - chara:
@@ -51,7 +51,7 @@ story:
       lipSynch: 0
       motion: 400
     surround: stop
-    textCenter: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]――!?'
+    textCenter: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]!?'
   - autoTurnLast: 0.2
     chara:
     - id: 103901
@@ -182,7 +182,7 @@ story:
       id: 103901
       lipSynch: 0
       motion: 100
-    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]――!?'
+    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - id: 103801
       motion: 1
@@ -202,8 +202,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 0
-    textRight: '''There’s no way my heart can shine''@is what Suu-tan is thinking,
-      am I right?'
+    textRight: '"There’s no way my heart can shine"@is what Suu-tan is thinking, am
+      I right?'
   - textRight: That's why, even if it may not shine now,
   - chara:
     - id: 103801
@@ -226,9 +226,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 200
-    textRight: Besides, nee-cha said that@if you show the potential to graduate from
-      school,
-  - textRight: they let you go job hunting.
+    textRight: Besides, Sis said that@if you show the potential to graduate from school,
+  - textRight: they let you go job-hunting.
   - chara:
     - id: 103801
       motion: 0
@@ -244,13 +243,13 @@ story:
       lipSynch: 0
       motion: 100
       tear: 1
-    textLeft: '*sobs*…mu…fumuu…'
+    textLeft: '*sob*…@mu…fumuu…'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 103801
       motion: 400
-    textRight: Ahー, I didn’t mean to make you cry!
+    textRight: Ahー I didn’t mean to make you cry!
   - chara:
     - cheek: 2
       face: mtn_ex_010.exp.json
@@ -258,7 +257,7 @@ story:
       motion: 0
       tear: 1
     surround: 7202_telepathy
-    textLeft: Thank you, Mikage-chan…
+    textLeft: Thank you, Mikage…
     turnEffect: ef_adv_02
   - chara:
     - cheek: 2

@@ -16,7 +16,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Sudachi
-    nameRight: Mikage
+    nameRight: "\uFEFFMikage"
     turnChangeIn: fadeIn
   - chara:
     - id: 103801
@@ -34,7 +34,8 @@ story:
       id: 103801
       motion: 1
     textRight: There's so many coordinated outfits@that are simple and cheap…
-  - textRight: Which suits Mii perfectly!@Plus, the clothes are just Mii's style.
+  - textRight: '...which suit Mii perfectly!@Plus, the clothes are just Mii''s style
+      too.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -46,14 +47,14 @@ story:
       face: mtn_ex_050.exp.json
       id: 103801
       motion: 400
-    textRight: ' …Ahーーー!'
+    textRight: ' …Ah!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 103901
       lipSynch: 0
       motion: 400
-    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]――!?'
+    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -64,7 +65,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103801
-    textRight: I'm gonna get nee-cha to wear this one!
+    textRight: I'm gonna get Sis to wear this one!
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -81,13 +82,13 @@ story:
   - chara:
     - id: 103801
       motion: 200
-    textRight: Huh, so there was a selfie app like thisー
+    textRight: Huh, so there was a selfie app like this...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103801
-    textRight: Your skin will be so pretty!@I'm gonna tell nee-cha about thisー
+    textRight: '"Your skin will be so pretty!"@I''m gonna tell Sis about this～'
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -116,7 +117,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 103801
       motion: 400
-    textRight: But Mii will never be able to afford itー!
+    textRight: But Mii will never be able to afford it!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -127,7 +128,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 103801
-    textRight: gahー@nee-cha would be angry with me, won't she...
+    textRight: Gahー@Sis would be angry with me, won't she...
   - chara:
     - id: 103901
       lipSynch: 0
@@ -190,7 +191,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 103801
       motion: 400
-    textRight: Oohhー That's amazing!
+    textRight: Oohhー@That's amazing!
   - textRight: You can even make this hair scrunchie?
   - chara:
     - cheek: 0
@@ -203,7 +204,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 100
-    textRight: Ohー, cool!@I'm looking forward to our next hang-out!
+    textRight: Woah, cool!@I'm looking forward to our next hang-out!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -220,7 +221,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 103801
       motion: 1
-    textRight: I wonder what I should have you makeー
+    textRight: I wonder what I should have you make～
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -232,12 +233,12 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103801
-    textRight: Ah, in exchange,@I'll give you this.
+    textRight: Ah, in exchange, I'll give you this.
   - chara:
     - id: 103901
       lipSynch: 0
       motion: 200
-    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]――!?'
+    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]!?'
   - textRight: The manicure set that came with the magazine.
   - chara:
     - cheek: 0

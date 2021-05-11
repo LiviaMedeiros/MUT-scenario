@@ -22,7 +22,7 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: Based on the masterpiece shoujo manga,@it's the premiere of the movie@「The
-      Crimson-Dyed Classroom」
+      Classroom Dyed Madder Red」
   - narration: When I told her that I wanted to see the movie,@Ren told me that she
       wanted to see it too,@and came with me on opening day, but…
   - chara:
@@ -180,7 +180,7 @@ story:
     textRight: I want two middle school student tickets, please
   - chara:
     - id: 303101
-    textRight: for the 10am showing of@「The Crimson-Dyed Classroom」
+    textRight: for the 10am showing of@「The Classroom Dyed Madder Red」
   - chara:
     - id: 800600
     textLeft: Okay. May I see your student IDs?
@@ -374,9 +374,9 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story05
     nameNarration: Rika
-    narration: The protagonist in the movie 「The Crimson-Dyed Classroom」@that I saw
-      with Ren was about a high school girl@who was gentle and earnest, but also clumsy@and
-      bad at talking to people.
+    narration: The protagonist in the movie 「The Classroom Dyed Madder Red」@that I
+      saw with Ren was about a high school girl@who was gentle and earnest, but also
+      clumsy@and bad at talking to people.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -447,7 +447,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 303101
       motion: 1
-    textLeft: How about you, Ren? Any parts that made you cry,@or scenes you liked?
+    textLeft: How about you, Ren? Any parts that made you cry,@or scenes you really
+      liked?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

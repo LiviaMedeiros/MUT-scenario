@@ -10,7 +10,7 @@ story:
       posY: 0
       visible: appear
     turnChangeIn: fadeIn
-  - nameNarration: Mikage
+  - nameNarration: "\uFEFFMikage"
     narration: ―Mikage―@Ah, a handmade scrunchie!@You really made one!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
@@ -24,7 +24,7 @@ story:
     narration: ―Sudachi―@fumu!
   - nameNarration: Mikage
     narration: ―Mikage―@In that case, in return,@Mii will have to do her best too,
-      won’t she.
+      won’t she?
   - narration: ―Mikage―@I've still got the tiles and barrettes from earlier,@so how
       about I make an original one!
   - nameNarration: Sudachi
@@ -38,12 +38,12 @@ story:
   - nameNarration: Sudachi
     narration: ―Sudachi―@fumu fumu.
   - nameNarration: Mikage
-    narration: ―Mikage―@I’m gladー@Next time, let’s go pick them together.
+    narration: ―Mikage―@I’m glad～@Next time, let’s go pick them together.
   - nameNarration: Sudachi
     narration: ―Sudachi―@…………
-  - narration: ―Sudachi―@(This is only the second time we've met but, Mikage-chan’s
-      sense@for personal distance has been short right from the start.)
-  - narration: ―Sudachi―@(I don’t dislike it at all, in fact, it makes me happy.)
+  - narration: ―Sudachi―@(This is only the second time we've met but, Mikage’s sense@for
+      personal distance has been short right from the start.)
+  - narration: ―Sudachi―@(I don’t dislike it at all,@in fact, it makes me happy.)
   - narration: ―Sudachi―@(She taught me about all kinds of shops too.@Why is she so
       kind to me?)
   - autoTurnLast: 0.2
@@ -79,7 +79,7 @@ story:
       motion: 100
     textLeft: fumu…
   - nameNarration: ""
-    narration: '*[se:7106_telmail]Blip♪*'
+    narration: '[se:7106_telmail]*blip♪*'
     narrationEffect: in
   - chara:
     - cheek: 0
@@ -97,7 +97,7 @@ story:
   - chara:
     - id: 103801
       motion: 200
-    textRight: '''Why are you so kind?''@Well, isn''t it because we’re friends…?'
+    textRight: '"Why are you so kind to me?"@Well, isn''t it because we’re friends…?'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -105,7 +105,7 @@ story:
       lipSynch: 0
       motion: 300
     textLeft: (I see, so that’s what it was…)
-  - narration: '*[se:7106_telmail]Blip♪*'
+  - narration: '[se:7106_telmail]*blip♪*'
     narrationEffect: in
   - chara:
     - id: 103801
@@ -135,13 +135,13 @@ story:
       id: 103901
       lipSynch: 0
       motion: 0
-    textLeft: fuumuuー…
+    textLeft: fuumuu…
   - chara:
     - id: 103801
       motion: 0
-    textRight: That was unexpected, huh.
+    textRight: That was unexpected, huh?
   - textRight: But, it can’t be helped.
-  - textRight: A long time ago, it seemed@nee-cha caused an incident at school.
+  - textRight: A long time ago, it seems@Sis caused an incident at school.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -160,13 +160,13 @@ story:
       face: mtn_ex_050.exp.json
       id: 103801
       motion: 400
-    textRight: Ah, but but,@nee-cha isn’t a bad person, you know?
+    textRight: Ah, but but,@Sis isn’t a bad person, you know?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 0
-    textRight: It’s because everyone around her was bad@that nee-cha got angry.
+    textRight: It’s because everyone around her was bad@that Sis got angry.
   - textRight: That’s why if there’s anyone to blame,@it’s other people. Mii isn’t
       upset.
   - chara:
@@ -174,14 +174,14 @@ story:
       face: mtn_ex_011.exp.json
       id: 103801
       motion: 100
-    textRight: Rather, Mii really loves nee-cha, you know?
+    textRight: Rather, Mii really loves Sis, you know?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 103901
       lipSynch: 0
       motion: 300
-    textLeft: (Livia-san did mention that@Kamihama is a complex town...)
+    textLeft: (Livia did mention that@Kamihama is a complex town...)
   - chara:
     - id: 103901
       lipSynch: 0
@@ -275,7 +275,7 @@ story:
     - id: 103901
       lipSynch: 0
       motion: 300
-    textLeft: '*gasp*...*gasp*…'
+    textLeft: '*gasp*... *gasp*…'
     turnChangeOut: fadeOut
   - chara:
     - id: 103801
@@ -319,7 +319,7 @@ story:
   - chara:
     - id: 103901
       lipSynch: 0
-    textLeft: '*gasp*...*gasp*…'
+    textLeft: '*gasp*... *gasp*…'
     turnChangeOut: fadeOut
   - chara:
     - id: 103801
@@ -372,7 +372,7 @@ story:
       soulGem: 0
     narrationEffect: out
   - nameCenter: Sudachi
-    textCenter: Eh…
+    textCenter: Eh…?
   - autoTurnLast: 1
     bg: bg_adv_21142.jpg
     bgm: stop
@@ -455,7 +455,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: ""
-    textCenter: Sawa!
+    textCenter: Sudachi!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

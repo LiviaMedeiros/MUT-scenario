@@ -16,7 +16,7 @@ story:
       motion: 1
       pos: 2
     nameLeft: Sudachi
-    nameRight: Mikage
+    nameRight: "\uFEFFMikage"
     turnChangeIn: fadeIn
   - textRight: As for what kind of game it is...
     turnChangeOut: fadeOut
@@ -54,7 +54,7 @@ story:
       lipSynch: 0
       motion: 1
     narrationEffect: out
-    textLeft: fumuー…
+    textLeft: fumu…
   - textRight: True, it’s hard to tell from just the art,@but that seems to be the
       setting?
   - textRight: Mii’s first time was way too difficult@and Mii couldn’t clear it all.
@@ -74,7 +74,7 @@ story:
     - cheek: 0
       id: 103801
       motion: 400
-    textRight: But she scolded Mii, saying@the human heart does not shine so easily!
+    textRight: But she scolded Mii, saying@"the human heart does not shine so easily!"
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -115,7 +115,7 @@ story:
     - id: 103901
       motion: 400
     narrationEffect: out
-    textLeft: fubghmuーー!!
+    textLeft: fubghmuー!!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -186,7 +186,7 @@ story:
       id: 103901
       lipSynch: 0
       motion: 100
-    textLeft: (Okay, I get it!)
+    textLeft: (Okay okay, I get it already!)
   - chara:
     - id: 103901
       lipSynch: 0
@@ -263,7 +263,7 @@ story:
   - textLeft: I'd say that loops back around to your heart bein'@impure, so this won't
       count.
   - nameLeft: Mikage's voice
-    textLeft: Whaaat, that’s wrooong!
+    textLeft: Whaaat, that’s so wrooong!
   - bgm: stop
     chara:
     - cheek: 0
@@ -300,7 +300,7 @@ story:
     - id: 103901
       lipSynch: 0
       motion: 200
-    textCenter: (...and it's why I originally came to Kamihama with Livia-san…)
+    textCenter: (...and it's why I originally came to Kamihama@with Livia…)
   - nameNarration: Sudachi
     narration: For the sake of purging my sins.
     narrationBg: black

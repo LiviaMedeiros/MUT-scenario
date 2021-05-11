@@ -10,7 +10,7 @@ story:
       id: 103801
       motion: 0
       pos: 1
-    nameCenter: Mikage
+    nameCenter: "\uFEFFMikage"
     turnChangeIn: fadeIn
   - chara:
     - id: 103801
@@ -20,7 +20,7 @@ story:
   - chara:
     - id: 103801
       lipSynch: 0
-    textCenter: (Should I try visiting her house...?)
+    textCenter: (Should I try visiting her place...?)
   - chara:
     - id: 103801
       lipSynch: 0
@@ -45,8 +45,7 @@ story:
     turnEffect: blackFrame
   - textRight: I might…
     turnChangeOut: fadeOut
-  - textRight: …have seen Sudachi-chan before@in a news photo exhibit over 1 year
-      ago…
+  - textRight: …have seen Sudachi before@in a news photo exhibit over 1 year ago…
   - autoTurnLast: 0.2
     bg: bg_adv_14031.jpg
     chara:
@@ -106,7 +105,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 800600
-    textLeft: Ah, the catalog is in the library.@I’ll go and bring it.
+    textLeft: Ah, the catalog is in the archives.@I’ll go and bring it.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -155,7 +154,7 @@ story:
     - id: 103801
       lipSynch: 0
       motion: 0
-    textCenter: (Was nee-cha mistaken?@Maybe it’s on another page?)
+    textCenter: (Was Sis mistaken?@Maybe it’s on another page?)
   - chara:
     - id: 103801
       lipSynch: 0
@@ -171,7 +170,7 @@ story:
       lipSynch: 0
       motion: 400
     narrationEffect: out
-    textCenter: '[chara:103801:effect_emotion_surprise_0][se:7226_shock]――!?'
+    textCenter: '[chara:103801:effect_emotion_surprise_0][se:7226_shock]!?'
   - bgm: bgm05_event07
     chara:
     - id: 103801
@@ -211,8 +210,8 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameNarration: Sudachi
-    narration: Sorry about yesterday.@I was wondering if we could be friends, but@I
-      think it’s impossible, and that we shouldn’t meet again.
+    narration: Sorry about yesterday.@I was wondering if we could be friends,@but
+      I think it’s impossible after all,@and that we shouldn’t meet again.
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 100
@@ -256,7 +255,7 @@ story:
     - id: 103901
       motion: 400
     narrationEffect: out
-    textLeft: fubhmuーー!!
+    textLeft: fubhmuー!!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -303,7 +302,7 @@ story:
       id: 103801
       lipSynch: 0
       motion: 0
-    textCenter: …
+    textCenter: …………
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

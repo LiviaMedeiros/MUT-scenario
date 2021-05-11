@@ -19,7 +19,7 @@ story:
     nameRight: ""
     turnChangeIn: fadeIn
     turnEffect: blackFrame
-  - textLeft: …kh…
+  - textLeft: "\uFEFF…kh…"
     turnChangeOut: fadeOut
   - textRight: Oh, get a grip.@All I did was just stab you in the leg, see?
   - chara:
@@ -76,7 +76,7 @@ story:
     - eyeClose: 1
       id: 103901
       lipSynch: 0
-    textCenter: (I don’t get along with sensei,@and I’m not an honor student either…)
+    textCenter: (I don’t get along with Teacher,@and I’m not an honor student either…)
   - chara:
     - id: 103901
       lipSynch: 0
@@ -111,22 +111,22 @@ story:
       face: mtn_ex_010.exp.json
       id: 104001
       motion: 100
-    textRight: A scrunchie?@You are quite handy aren't you?
+    textRight: A scrunchie?@You are quite handy, aren't you?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103901
       motion: 400
     surround: 7202_telepathy
-    textLeft: The handmade-recipe for this@was on this month’s issue of TeraPichi!
+    textLeft: The handmade instructions for this@was on this month’s issue of TeraPichi!
     turnEffect: ef_adv_02
-  - textLeft: When I met Mikage-chan last time,@I promised I would make it.
+  - textLeft: When I met Mikage last time,@I promised I would make it.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103901
       motion: 1
-    textLeft: I hope she likes itー
+    textLeft: I hope she likes it.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -164,7 +164,7 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 104001
-    textRight: What do you think, sensei?
+    textRight: What do you think, Teacher?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -177,7 +177,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 104101
-    textLeft: So roundabout and vague.@I don’t really get what ya jus' said.
+    textLeft: So roundabout and vague.@I don’t really get what ya just said.
   - chara:
     - id: 104001
       motion: 0
@@ -224,7 +224,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Yozuru
-    textLeft: The criminal has made his appearance,@is what she said…
+    textLeft: The criminal has made his appearance@...is what she said…
   - chara:
     - id: 104101
       motion: 1
@@ -244,7 +244,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Sudachi
-    textLeft: fumuー…
+    textLeft: fumu…
   - nameCenter: Mikage's voice
     textBg: shout
     textCenter: SUUU-TAAAN!
@@ -258,7 +258,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 104101
       motion: 0
-    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]――!?@[wait:0.8]fumumu
+    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]!?@[wait:0.8]fumumu
       funmu!'
   - chara:
     - cheek: 0
@@ -267,7 +267,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Yozuru
-    textLeft: Mikage-san has arrived.
+    textLeft: Mikage has arrived.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

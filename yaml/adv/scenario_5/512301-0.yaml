@@ -278,7 +278,7 @@ story:
     - id: 800100
     nameLeft: ""
     nameRight: Arisa
-    textLeft: Apparently some girls were erased by the Ripper Girl.
+    textLeft: Apparently some girls were erased@by the Ripper Girl.
     turnChangeOut: fadeOut
   - autoTurnLast: 1
     bg: bg_adv_14021.jpg
@@ -492,7 +492,7 @@ story:
       lipSynch: 0
       motion: 100
     nameCenter: Kagari
-    textCenter: (Feels like magic I felt previously,@but not quite...?)
+    textCenter: (Feels like magic I've felt previously,@but not quite...?)
   - chara:
     - eyeClose: 0
       id: 403700

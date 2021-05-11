@@ -41,9 +41,8 @@ story:
     - id: 303101
       motion: 0
     nameNarration: Rika
-    narration: 'Recipient: Ren☆@I’m sorry about the other day.@I know the last thing
-      you want to hear@are excuses, but it wasn’t how it looked.@I wasn’t just hanging
-      out@with Kano-chin and the others.'
+    narration: 'Recipient: Ren☆@This might just sound like an@excuse to you, but I
+      didn''t lie...@I wasn''t just hanging out with the girls...'
     narrationBg: bg_adv_21073.jpg
     narrationEffect: in
     narrationHAlignment: left
@@ -132,7 +131,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Emiri
-    textLeft: Then...you won’t be hanging out with Renpasu?
+    textLeft: Then...you won’t be hanging out with Renki?
   - chara:
     - id: 303101
       motion: 0
@@ -182,8 +181,8 @@ story:
     - effect: fadeout
       id: 300601
     nameNarration: Rika
-    narration: 'Recipient: Ren☆@I’m reeeally sorry!@I have supplementary lessons I
-      have to go to…@I don’t think I’ll be able to hang out much@right now...! (>_<)'
+    narration: 'Recipient: Ren☆@I''m sooooo sorry!@I''m taking some extra classes,
+      so I won''t@be able to hang out for a while...! (>_<)'
     narrationBg: bg_adv_16102.jpg
     narrationEffect: in
     narrationHAlignment: left
@@ -255,14 +254,14 @@ story:
   - chara:
     - id: 300601
     nameRight: Emiri
-    textRight: Oh. It’s Renpasu.
+    textRight: Oh...@It's Renki!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
     nameLeft: Rika
-    textLeft: Eh...?
+    textLeft: Huh?
   - autoTurnLast: 0.2
     chara:
     - cheek: 0
@@ -274,7 +273,7 @@ story:
   - chara:
     - id: 302502
     nameCenter: Ren
-    textCenter: '...ah...'
+    textCenter: Oh…
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.01
     chara:
@@ -288,7 +287,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Rika
-    textRight: Ah...! Ren...?@Uhm...!
+    textRight: Huh? Ren?@Ummm…
   - chara:
     - id: 303101
       lipSynch: 0
@@ -298,19 +297,19 @@ story:
       face: mtn_ex_030.exp.json
       id: 303101
       motion: 200
-    textRight: Um...this is...it’s like...it’s not...!
+    textRight: Errr, this is...ummm, it's not@like that... We just...I mean...
   - chara:
     - cheek: 2
       id: 302502
       motion: 1
     nameLeft: Ren
-    textLeft: '...ah...it’s...it’s fine...'
+    textLeft: '...Errr, umm...@...It''s fine...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
       motion: 400
-    textRight: Ah...! Ren!!
+    textRight: Ah...! Ren!
   - autoTurnLast: 0.5
     bg: bg_adv_21073.jpg
     bgm: stop
@@ -435,7 +434,7 @@ story:
     - id: 300101
       motion: 200
     nameLeft: Kanoko
-    textLeft: Nonono...with a misunderstanding like this,@that’s to be expected.
+    textLeft: No, no...you've got to try to clear@up this whole misunderstanding.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -444,7 +443,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Akira
-    textLeft: Yeah, I think so too.
+    textLeft: For sure.
   - chara:
     - id: 303101
       motion: 0
@@ -462,7 +461,7 @@ story:
     - id: 300801
       motion: 0
     narrationEffect: out
-    textLeft: If you can’t reach her by text, go find her...@and talk to her directly.
+    textLeft: If you can't reach her by email, maybe@you should talk to her face-to-face.
   - chara:
     - id: 303101
       lipSynch: 0
@@ -544,17 +543,17 @@ story:
     - id: 303101
     nameLeft: Rika
     nameRight: Ren
-    textLeft: Audiovisual room?
+    textLeft: The Audio-Visual Room?
     turnChangeOut: fadeOut
   - chara:
     - id: 302501
       motion: 1
-    textRight: Yes...people rarely come there...@It’s quiet...
+    textRight: Yeah…there's not many people there...@It's nice and quiet...
   - chara:
     - cheek: 1
       id: 302501
       motion: 100
-    textRight: At school...it’s the place I love being the most...@Yes...
+    textRight: It's...my favorite place at school...
   - nameNarration: Rika
     narration: That’s got to be where she is...!
     narrationBg: bg_adv_narration.jpg
