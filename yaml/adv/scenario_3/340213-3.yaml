@@ -19,9 +19,9 @@ story:
     chara:
     - id: 402200
       motion: 100
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Liz
-    textRight: You did it, Darc!
+    textRight: You did it, Tart!
     turnChangeOut: whiteOut
   - chara:
     - id: 402100
@@ -151,7 +151,7 @@ story:
       id: 402301
       motion: 400
     nameCenter: Melissa
-    textCenter: Darc! Liz!
+    textCenter: Tart! Liz!
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -161,7 +161,7 @@ story:
       pos: 0
     - id: 402301
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Melissa
     textLeft: Melissa! Is everyone all right?!
   - chara:

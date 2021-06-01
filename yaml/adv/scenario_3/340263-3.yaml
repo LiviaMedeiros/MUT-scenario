@@ -59,7 +59,7 @@ story:
     - id: 402601
       motion: 200
     textCenter: For that I shall make use of this magical@weapon crafted by the alchemist
-      Pernelle.
+      Perenelle.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -193,14 +193,14 @@ story:
       pos: 0
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 831100
+      face: mtn_ex_041.exp.json
+      id: 402900
       motion: 0
       pos: 2
     narration: '*Click*'
   - bgm: bgm05_event03
     chara:
-    - id: 831100
+    - id: 402900
     nameRight: Perenelle
     narrationEffect: out
     textRight: Um... You're going to shoot them here?
@@ -384,8 +384,8 @@ story:
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 831100
+      face: mtn_ex_041.exp.json
+      id: 402900
       motion: 0
       pos: 2
     nameRight: Perenelle
@@ -397,11 +397,11 @@ story:
     textLeft: That's it exactly. Even the night sky was an@illusion.
   - chara:
     - id: 402600
-    textLeft: You were taken by surprise again. How unlike@you, Pernelle.
+    textLeft: You were taken by surprise again. How unlike@you, Perenelle.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 831100
+      id: 402900
     textClear: 1
   - autoTurnLast: 0.2
     chara:
@@ -644,7 +644,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 402600
       motion: 200
-    textRight: Pernelle! A spell of detection for them, if@you would!
+    textRight: Perenelle! A spell of detection for them, if@you would!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -653,7 +653,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 0
     nameLeft: Perenelle
@@ -666,8 +666,8 @@ story:
     textRight: Whatever it's called. You know what I mean.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 831100
+      face: mtn_ex_041.exp.json
+      id: 402900
     textLeft: Very well... You work me like a dog, you@know.
   - autoTurnLast: 1
     bgEffect: shakeLarge
@@ -679,7 +679,7 @@ story:
     - effect: fadeout
       id: 402600
     - effect: fadeout
-      id: 831100
+      id: 402900
     textClear: 1
   - chara:
     - cheek: 0

@@ -72,19 +72,19 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
-    nameRight: Pernelle
+    nameRight: Perenelle
     textRight: Allow me to summarize what happened.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: The proper history was sealed away in a@"Fragment of True History".
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: Ui recorded the fragment on her Blank@Prophecy, confirming it as true.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: Then, Elisa recovered her memories of her@experience of that proper
       history.
   - chara:
@@ -136,19 +136,19 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
-    nameRight: Pernelle
+    nameRight: Perenelle
     textRight: History was fine three months ago.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: Our memories of what happened up until@Orléans was freed are intact.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: When history was changed, the future was@split into two branches.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: What Ui and Elisa saw was a fragment of the@real history that was lost.
   - chara:
     - id: 810000

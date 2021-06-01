@@ -9,7 +9,7 @@ story:
     narrationEffect: in
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-  - narration: Because those peaceful days@that I spent with Darc and Catherine...
+  - narration: Because those peaceful days@that I spent with Tart and Catherine...
   - narration: They came to a very abrupt end.
     narrationBg: black
   - bg: bg_adv_20082.jpg
@@ -27,7 +27,7 @@ story:
       id: 402201
       motion: 0
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     narrationEffect: out
     textLeft: Liz...
     turnChangeIn: fadeIn
@@ -57,8 +57,8 @@ story:
       posY: 0
       visible: appear
     turnChangeIn: fadeIn
-  - nameNarration: Darc
-    narration: ―Darc―@Monsieur Angel...
+  - nameNarration: Tart
+    narration: —Tart—@O, Monsieur Angel...
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -66,13 +66,13 @@ story:
     narrationLineMargin: 35
     narrationLineSpace: 20
     turnChangeOut: fadeOut
-  - narration: ―Darc―@I have made my choice.
-  - narration: ―Darc―@I won't allow this cruelty@to happen again, to anyone.
-  - narration: ―Darc―@I will become...a Magical Girl.
+  - narration: —Tart—@I have made my choice.
+  - narration: —Tart—@I shall not allow this cruelty@to happen again, to anyone.
+  - narration: —Tart—@I will become...a Magical Girl.
   - nameNarration: Qube
-    narration: ―Cube―@Okay, Darc... What will you wish for?
-  - nameNarration: Darc
-    narration: ―Darc―@The power to bring light to all of France!
+    narration: —Qube—@Okay, Tart... What will you wish for?
+  - nameNarration: Tart
+    narration: —Tart—@The power to bring light to all of France!
   - autoTurnLast: 0.5
     deleteArmatureList:
     - 1
@@ -127,7 +127,7 @@ story:
     textRight: Without a doubt...
   - chara:
     - id: 810000
-    textRight: Darc is a light of hope that just may clear@away the dark clouds of
+    textRight: Tart is a light of hope that just may clear@away the dark clouds of
       this country.
   - autoTurnLast: 0.5
     deleteArmatureList:
@@ -137,7 +137,7 @@ story:
     turnEffect: stop
   - bg: bg_adv_20081.jpg
     nameNarration: Liz
-    narration: And I became the shadow to that light.@I vowed to protect Darc.
+    narration: And I became the shadow to that light.@I vowed to protect Tart.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -176,7 +176,7 @@ story:
       id: 402201
       motion: 200
     nameLeft: Liz
-    textLeft: Where's Darc?!
+    textLeft: Where's Tart?!
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -190,7 +190,7 @@ story:
   - chara:
     - id: 402101
       lipSynch: 0
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: '...'
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.5

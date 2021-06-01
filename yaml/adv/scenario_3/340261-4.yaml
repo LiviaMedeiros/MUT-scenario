@@ -60,7 +60,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     nameLeft: Elisa
@@ -69,7 +69,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831100
+      id: 402900
       motion: 0
     nameRight: Perenelle
     textRight: Yes, there's no trace of magic left.
@@ -226,22 +226,22 @@ story:
       motion: 1
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     textLeft: This castle is rather desolate... I did not@expect so few soldiers to
       be living here.
   - chara:
-    - id: 831100
+    - id: 402900
     nameRight: Perenelle
     textRight: There must be a reason for it.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: Let's see what he'll tell us.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 831200
@@ -251,7 +251,7 @@ story:
     textRight: Lady Elisa did rid us of some ghosts.
     turnEffect: stop
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: Though, that does not appear to be the last@of them...
   - chara:
     - cheek: 0
@@ -280,7 +280,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     nameRight: Perenelle
@@ -316,7 +316,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     - id: 402601
@@ -330,7 +330,7 @@ story:
       id: 402601
     textLeft: Oh? What would that be?
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: Conditions here are this bad, but no word@has been sent to the inner
       regions.
   - chara:
@@ -391,17 +391,17 @@ story:
       face: mtn_ex_010.exp.json
       id: 402601
       motion: 1
-    textLeft: Pernelle, a reveal spell, if you please.
+    textLeft: Perenelle, a reveal spell, if you please.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     nameRight: Perenelle
     textRight: I'm an alchemist. Such abilities are outside@my field.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: However, I can briefly negate the curse of@an evildoer, if that's what
       you need.
   - chara:
@@ -412,15 +412,15 @@ story:
     textLeft: I don't care what you call it, just hurry!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 831100
+      face: mtn_ex_041.exp.json
+      id: 402900
       motion: 0
     textRight: No need to become impatient.
   - bgm: stop
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
       lipSynch: 0
       motion: 0
     se: 3203_buff
@@ -455,7 +455,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     nameRight: Perenelle
@@ -474,7 +474,7 @@ story:
     - effect: fadeout
       id: 402601
     - effect: fadeout
-      id: 831100
+      id: 402900
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -497,7 +497,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     textLeft: No wonder he wouldn't take his helmet off.@He's nothing but walking

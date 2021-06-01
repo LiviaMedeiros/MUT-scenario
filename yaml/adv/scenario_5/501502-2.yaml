@@ -21,19 +21,19 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 100200
-    textLeft: It's Darc and the French soldiers.
+    textLeft: It's Tart and the French soldiers.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402101
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Ah, Iroha!
   - chara:
     - id: 100100
       motion: 100
-    textRight: Darc! And there's Melissa and Liz!
+    textRight: Tart! And there's Melissa and Liz!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -118,7 +118,7 @@ story:
       id: 402101
       motion: 300
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: We believed you were sucked into a Witch's@Labyrinth.
   - chara:
     - cheek: 0
@@ -164,11 +164,11 @@ story:
       face: mtn_ex_011.exp.json
       id: 402101
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Of course. What would you like to know?
   - chara:
     - id: 100200
-    textRight: You go by "Darc."
+    textRight: You go by "Tart."
   - chara:
     - id: 100200
       motion: 100
@@ -188,7 +188,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402101
-    textLeft: People usually call me Jeannette or Darc.
+    textLeft: People usually call me Jeannette or Tart.
   - chara:
     - id: 402101
     textLeft: But my true name is Jeanne, and my father@goes by the name d'Arc!
@@ -227,7 +227,7 @@ story:
       id: 402101
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: But, Yachiyo.
   - chara:
     - id: 402101
@@ -248,7 +248,7 @@ story:
       pos: 2
       soulGem: 0
     nameRight: Melissa
-    textRight: Oh my! [chara:402301:lipSynch_0][wait:0.8][chara:402301:cheek_0][chara:402301:face_mtn_ex_030.exp.json][chara:402301:lipSynch_1]Darc,
+    textRight: Oh my! [chara:402301:lipSynch_0][wait:0.8][chara:402301:cheek_0][chara:402301:face_mtn_ex_030.exp.json][chara:402301:lipSynch_1]Tart,
       Liz!
   - chara:
     - id: 402301
@@ -324,7 +324,7 @@ story:
       id: 402101
       motion: 100
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: What happened to her?!
   - chara:
     - id: 801600
@@ -347,14 +347,14 @@ story:
       motion: 400
       pos: 2
     nameRight: Iroha
-    textRight: Darc, we need to go help her!
+    textRight: Tart, we need to go help her!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 402101
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Yes!
   - chara:
     - cheek: 0

@@ -18,7 +18,7 @@ story:
       pos: 1
     nameCenter: Iroha
     nameLeft: Yachiyo
-    nameRight: Iroha
+    nameRight: Felicia
     narrationEffect: out
     textCenter: '...'
   - autoTurnLast: 0.2
@@ -53,7 +53,7 @@ story:
   - chara:
     - id: 100201
       motion: 0
-    textLeft: Felicia?
+    textLeft: Felicia
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -126,7 +126,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 100101
       motion: 100
-    textRight: But the Darc we met has already lost a@battle there once, right?
+    textRight: But the Tart we met has already lost a@battle there once, right?
   - chara:
     - id: 100201
     textLeft: Yes... Orléans has already fallen.
@@ -195,7 +195,7 @@ story:
     textLeft: We need to hurry and make things right.
   - chara:
     - id: 100201
-    textLeft: Let's get back and help Darc.
+    textLeft: Let's get back and help Tart.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

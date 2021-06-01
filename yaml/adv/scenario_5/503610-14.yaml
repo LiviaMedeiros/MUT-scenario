@@ -129,7 +129,7 @@ story:
       eyeClose: 0
       face: mtn_ex_010.exp.json
       id: 101700
-    textLeft: The lunch you ate during the hike seemed especially delicious.
+    textLeft: '...the lunch you ate during the hike seemed@especially delicious.'
   - chara:
     - id: 302901
       motion: 200
@@ -269,7 +269,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101700
-    textLeft: '...maybe?'
+    textLeft: '...Maybe?'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

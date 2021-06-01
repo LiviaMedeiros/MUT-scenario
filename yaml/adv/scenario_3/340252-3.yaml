@@ -93,7 +93,7 @@ story:
     chara:
     - id: 402100
       motion: 201
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Now is the time!
     turnChangeOut: fadeOut
   - chara:
@@ -258,7 +258,7 @@ story:
       id: 402100
       lipSynch: 0
       motion: 400
-    nameRight: Darc
+    nameRight: Tart
     textRight: '...?!'
   - chara:
     - cheek: 0
@@ -372,7 +372,7 @@ story:
       id: 402100
       motion: 200
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textBg: shout
     textCenter: '[flashEffect:flashRed1][se:3001_chara_damage][bgEffect:shakeLarge][chara:402100:effect_shake]I
       won''t let you!'
@@ -419,7 +419,7 @@ story:
       mouthOpen: 1
     - id: 402500
       mouthOpen: 0
-    nameRight: Darc
+    nameRight: Tart
     textBg: shout
     textRight: '[flashEffect:flashRed1][bgEffect:shakeSmall][chara:402100:effect_shake][surround:4025A03]Ugh!'
   - autoTurnLast: 2

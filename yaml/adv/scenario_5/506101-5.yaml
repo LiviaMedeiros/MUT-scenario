@@ -15,7 +15,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: ""
-    nameRight: Darc
+    nameRight: Tart
     textLeft: La Pucelle! You're okay!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -77,7 +77,7 @@ story:
       id: 402100
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: They are Corbeau's minions!
   - chara:
     - cheek: 0
@@ -118,7 +118,7 @@ story:
   - chara:
     - id: 100200
       motion: 100
-    textLeft: Yes. Based on what they're saying, Darc is@a member of the French military...
+    textLeft: Yes. Based on what they're saying, Tart is@a member of the French military...
   - chara:
     - id: 100200
     textLeft: And their enemy, the English, appear to be@summoning monsters to fight
@@ -141,7 +141,7 @@ story:
     - eyeClose: 0
       id: 100200
       lipSynch: 0
-    textLeft: (Could Darc really be her?)
+    textLeft: (Could Tart really be her?)
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -171,7 +171,7 @@ story:
       id: 402100
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Melissa
     textRight: They're coming!
     turnChangeIn: rollInFast
@@ -208,7 +208,7 @@ story:
   - chara:
     - id: 100200
       lipSynch: 0
-    textLeft: (I suppose it's probably best to follow@Darc's instructions for now.)
+    textLeft: (I suppose it's probably best to follow@Tart's instructions for now.)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -245,14 +245,14 @@ story:
       face: mtn_ex_030.exp.json
       id: 100100
       motion: 200
-    textRight: Darc, please stay safe!
+    textRight: Tart, please stay safe!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 402100
       motion: 100
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: I will!
   - chara:
     - cheek: 0

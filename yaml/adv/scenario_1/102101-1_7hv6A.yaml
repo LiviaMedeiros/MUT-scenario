@@ -10,7 +10,7 @@ story:
     turnChangeOut: fadeOut
   - narration: Why...
     voiceFull: fullvoice/section_102101/vo_full_102101-1-1
-  - narration: Why does this sort of thing only happen to me...
+  - narration: Why does this sort of thing only happen to me...?
     voiceFull: fullvoice/section_102101/vo_full_102101-1-2
     voiceFullStop: fullvoice/section_102101/vo_full_102101-1-1
   - narration: All I did was transfer schools...
@@ -39,7 +39,7 @@ story:
     - id: 102001
       voiceFull: fullvoice/section_102101/vo_full_102101-1-5
     nameRight: Kagome
-    textRight: What is...this...
+    textRight: What is...this...?
     turnChangeOut: fadeOut
   - chara:
     - id: 102001
@@ -87,7 +87,7 @@ story:
       face: mtn_ex_060.exp.json
       id: 102001
       voiceFull: fullvoice/section_102101/vo_full_102101-1-12
-    textRight: Eep...
+    textRight: Eep...!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

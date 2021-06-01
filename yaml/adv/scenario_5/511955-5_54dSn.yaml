@@ -562,8 +562,8 @@ story:
   - chara:
     - id: 120301
     nameLeft: Tsuruno
-    textLeft: 'perhaps the abnormality happened due to that... @Does that sound about
-      right? '
+    textLeft: 'perhaps the abnormality happened due to that...@[chara:120301:lipSynch_0][wait:0.8][chara:120301:motion_200][chara:120301:cheek_0][chara:120301:face_mtn_ex_010.exp.json][chara:120301:lipSynch_1]Does
+      that sound about right? '
   - chara:
     - id: 102900
       motion: 100

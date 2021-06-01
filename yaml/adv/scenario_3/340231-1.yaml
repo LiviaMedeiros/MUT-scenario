@@ -126,7 +126,7 @@ story:
   - chara:
     - cheek: 0
       id: 402301
-    textCenter: I usually travel with La Pucelle, also known@as Darc, as her maid.
+    textCenter: I usually travel with La Pucelle, also known@as Tart, as her maid.
   - chara:
     - cheek: 0
       id: 402301
@@ -394,7 +394,7 @@ story:
   - chara:
     - cheek: 0
       id: 810000
-    textRight: But I won't pressure her. Darc would get@very angry.
+    textRight: But I won't pressure her. Tart would get@very angry.
   - chara:
     - cheek: -1
       face: mtn_ex_051.exp.json
@@ -408,7 +408,7 @@ story:
       pos: 2
       soulGem: 0
     nameRight: Melissa
-    textRight: Yes. Darc's very kind...
+    textRight: Yes. Tart's very kind...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

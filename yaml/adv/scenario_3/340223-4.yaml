@@ -42,20 +42,20 @@ story:
       lipSynch: 0
       motion: 0
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: '...'
   - chara:
     - face: mtn_ex_050.exp.json
       id: 402101
       motion: 400
-    nameRight: Darc
+    nameRight: Tart
     textRight: Oh, Liz? Monsieur Angel!
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 402201
       motion: 100
-    textLeft: Darc... You're awake!
+    textLeft: Tart... You're awake!
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -101,7 +101,7 @@ story:
       motion: 0
     textLeft: A voice?
   - nameNarration: Melissa
-    narration: Darc... Liz!
+    narration: Tart... Liz!
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
   - narration: Please answer if you can hear me!
@@ -117,7 +117,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 402101
       motion: 100
-    nameRight: Darc
+    nameRight: Tart
     textRight: They must've come looking for us!
   - chara:
     - cheek: 0
@@ -222,7 +222,7 @@ story:
       id: 402201
       motion: 1
       pos: 0
-    textLeft: By the way, you were unconscious for quite@a while, Darc.
+    textLeft: By the way, you were unconscious for quite@a while, Tart.
     turnEffect: stop
   - chara:
     - id: 402201
@@ -236,7 +236,7 @@ story:
       id: 402101
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Yes!
   - chara:
     - cheek: 0
@@ -299,8 +299,8 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
     turnEffect: blackFrame
-  - nameNarration: Darc
-    narration: ―Darc―@Because I will liberate this country...
+  - nameNarration: Tart
+    narration: ―Tart―@Because I will liberate this country...
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -310,7 +310,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 402101
-    narration: ―Darc―@I will not waste that@vow I made to Catherine.
+    narration: ―Tart―@I will not waste that@vow I made to Catherine.
   - autoTurnLast: 0.1
     bg: bg_adv_20102.jpg
     bgEffect: stop
@@ -340,7 +340,7 @@ story:
   - chara:
     - id: 402201
       lipSynch: 0
-    textLeft: (It's not that Darc is lacking the ability to@feel regret, it's just...)
+    textLeft: (It's not that Tart is lacking the ability to@feel regret, it's just...)
   - chara:
     - id: 402201
       lipSynch: 0
@@ -355,7 +355,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 402201
       motion: 1
-    textLeft: Darc
+    textLeft: Tart
     turnEffect: stop
   - chara:
     - cheek: 0
@@ -363,7 +363,7 @@ story:
       id: 402101
       motion: 400
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: '[chara:402101:effect_emotion_surprise_0][se:7226_shock]Y-yes?!'
   - chara:
     - eyeClose: 1

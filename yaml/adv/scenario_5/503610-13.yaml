@@ -161,7 +161,7 @@ story:
       id: 101001
       lipSynch: 0
       motion: 400
-    textRight: '[chara:101001:effect_emotion_surprise_0][se:7226_shock]—huh?!'
+    textRight: '[chara:101001:effect_emotion_surprise_0][se:7226_shock]—Huh?!'
   - chara:
     - id: 101001
     textRight: Gah, the second after I made up my mind...!@That stuff's obviously
@@ -282,7 +282,7 @@ story:
     nameLeft: Kokoro
     nameRight: Masara
     narrationEffect: out
-    textRight: Wait... What about lunch?
+    textRight: Wait... what about lunch?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

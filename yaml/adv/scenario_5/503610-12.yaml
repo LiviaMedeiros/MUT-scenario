@@ -27,8 +27,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 101701
       motion: 1
-    textRight: '[chara:101701:effect_emotion_joy_0][se:7222_happy]We''re here at the
-      shopping mall!'
+    textRight: '[chara:101701:effect_emotion_joy_0][se:7222_happy]...we''re here at
+      the shopping mall!'
   - chara:
     - id: 302901
       motion: 200
@@ -425,7 +425,7 @@ story:
   - chara:
     - id: 101701
       lipSynch: 0
-    textCenter: (...Right there.)
+    textCenter: (...right there.)
   - autoTurnLast: 0.01
     bgm: stop
     item:

@@ -63,7 +63,7 @@ story:
     textRight: This battle is over.
   - chara:
     - id: 402200
-    textRight: I am Darc's shadow. If it's to save our@light of hope...
+    textRight: I am Tart's shadow. If it's to save our@light of hope...
   - chara:
     - id: 402200
     textRight: I won't hesitate to bloody my hands!
@@ -108,7 +108,7 @@ story:
       id: 100100
       motion: 401
       pos: 2
-    textRight: Darc, watch out!
+    textRight: Tart, watch out!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -116,7 +116,7 @@ story:
       lipSynch: 0
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '...?!'
   - chara:
     - cheek: 0
@@ -169,7 +169,7 @@ story:
       id: 402200
       motion: 0
       pos: 2
-    textRight: Darc...
+    textRight: Tart...
   - chara:
     - id: 402100
       motion: 100
@@ -317,7 +317,7 @@ story:
       id: 100100
       motion: 0
     textBg: shout
-    textRight: Darc, run!
+    textRight: Tart, run!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -325,7 +325,7 @@ story:
       lipSynch: 0
       motion: 300
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: '...'
   - chara:
     - cheek: 0
@@ -354,7 +354,7 @@ story:
     narration: Liz disappeared.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
-  - narration: And now Darc's been taken?
+  - narration: And now Tart's been taken?
   - autoTurnLast: 2
     narrationEffect: out
     turnChangeIn: fadeIn

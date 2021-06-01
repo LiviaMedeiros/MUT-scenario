@@ -182,13 +182,13 @@ story:
   - chara:
     - id: 303050
       motion: 400
-    textLeft: '[chara:800300:effect_emotion_joy_0][se:7222_happy]There we go! What
-      do you think of this?'
+    textLeft: There we go! What do you think of this?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800300
-    textRight: Wow, that’s wonderful! I'll take it!
+    textRight: '[chara:800300:effect_emotion_joy_0][se:7222_happy]Wow, that’s wonderful!
+      I''ll take it!'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

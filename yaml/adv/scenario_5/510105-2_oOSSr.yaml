@@ -161,15 +161,15 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     surround: 7202_telepathy
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - chara:
-    - id: 831100
-    nameRight: Pernelle
+    - id: 402900
+    nameRight: Perenelle
     textRight: The center of the temporal distortion is in@a forest on the outskirts
       of the village.
     turnChangeOut: fadeOut

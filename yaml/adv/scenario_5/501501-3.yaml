@@ -208,8 +208,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402100
-    nameRight: Darc
-    textRight: Please call me Darc!
+    nameRight: Tart
+    textRight: Please call me Tart!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -239,7 +239,7 @@ story:
       id: 402100
       motion: 201
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Corbeau!
   - chara:
     - id: 402100
@@ -272,13 +272,13 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100100
-    textLeft: Please be careful, Darc!
+    textLeft: Please be careful, Tart!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 402100
       motion: 0
-    nameRight: Darc
+    nameRight: Tart
     textRight: I shall do my utmost!
   - chara:
     - cheek: 0
@@ -363,7 +363,7 @@ story:
       id: 402100
       motion: 201
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: You can leave the Witch to me!
   - chara:
     - cheek: 0

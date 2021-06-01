@@ -192,7 +192,7 @@ story:
       id: 102100
       motion: 200
     textLeft: They stole our witches away from us... they forced @us through that
-      Bloody Tragedy.
+      [textRed:Bloody Tragedy].
   - chara:
     - id: 102100
     textLeft: That's how they got their system.

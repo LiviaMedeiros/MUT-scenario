@@ -20,9 +20,9 @@ story:
     bgm: stop
     chara:
     - id: 402301
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Melissa
-    textRight: Regarding the large crater you created with@your magic, Darc...
+    textRight: Regarding the large crater you created with@your magic, Tart...
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 1
@@ -139,7 +139,7 @@ story:
       id: 402101
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: I agree...
   - chara:
     - cheek: 0
@@ -196,7 +196,7 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: '"So you want to have more control over@how much magic you use at once?"'
-  - nameNarration: Darc
+  - nameNarration: Tart
     narration: '"Yes, Monsieur Angel!"'
   - autoTurnFirst: 1
     bg: bg_adv_20103.jpg
@@ -212,7 +212,7 @@ story:
       posY: 0
     narrationEffect: out
     turnChangeIn: fadeIn
-  - nameLeft: Darc
+  - nameLeft: Tart
     nameRight: Qube
     textRight: That might be difficult.
     turnChangeOut: fadeOut
@@ -228,7 +228,7 @@ story:
       id: 402101
       motion: 0
     textLeft: You really think so?
-  - textRight: Darc, do you remember?
+  - textRight: Tart, do you remember?
   - textRight: That wish you made, back when you became@a Magical Girl?
   - chara:
     - cheek: 0
@@ -242,7 +242,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: stop
   - nameNarration: Qube
-    narration: Okay, Darc... What will you wish for?
+    narration: Okay, Tart... What will you wish for?
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -254,7 +254,7 @@ story:
       visible: appear
     narrationEffect: out
     turnChangeIn: fadeIn
-  - nameNarration: Darc
+  - nameNarration: Tart
     narration: The power to bring light to all of France!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
@@ -281,7 +281,7 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
   - bgm: bgm03_story07
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Qube
     textRight: '"The power to bring light to all of France."'
     turnChangeOut: fadeOut
@@ -310,7 +310,7 @@ story:
     - eyeClose: 1
       id: 402201
       motion: 100
-    textRight: If Darc hadn't been here, who knows what@state the fortress would be
+    textRight: If Tart hadn't been here, who knows what@state the fortress would be
       in now...
   - chara:
     - id: 402101
@@ -323,7 +323,7 @@ story:
       posY: 0
     nameRight: Qube
     textRight: Exactly!
-  - textRight: Darc, you have your own role to play, just@as Liz has hers.
+  - textRight: Tart, you have your own role to play, just@as Liz has hers.
   - bgm: stop
     textRight: That's why the two of you joined forces,@isn't it?
   - bgm: bgm01_anime03

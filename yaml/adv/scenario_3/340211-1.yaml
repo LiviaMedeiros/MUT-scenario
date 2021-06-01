@@ -9,7 +9,7 @@ story:
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: sepiaFrame
-  - narration: Jeanne d'Arc, also known as Darc.
+  - narration: Jeanne d'Arc, also known as Tart.
   - narration: 'A dreamland set in France... '
   - autoTurnLast: 1
     chara:
@@ -22,7 +22,7 @@ story:
   - bg: bg_adv_20082.jpg
     bgm: bgm03_story06
     nameNarration: Qube
-    narration: Darc, you can make any miracle come true.@All you have to do is wish
+    narration: Tart, you can make any miracle come true.@All you have to do is wish
       for it.
     narrationBg: narration
     narrationEffect: in
@@ -35,14 +35,14 @@ story:
       no@guarantee it won't happen a second time.
   - narration: You could lose them all over again.
   - narration: Are you willing to accept that?
-  - nameNarration: Darc
+  - nameNarration: Tart
     narration: '...'
   - narration: O, Monsieur Angel...
   - narration: I have made my choice.
   - narration: I shall not allow this cruelty@to happen again, to anyone.
   - narration: I will become...a Magical Girl.
   - nameNarration: Qube
-    narration: Okay, Darc... What will you wish for?
+    narration: Okay, Tart... What will you wish for?
   - autoTurnLast: 0.01
     bgm: stop
     item:
@@ -53,7 +53,7 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
     turnEffect: stop
-  - nameNarration: Darc
+  - nameNarration: Tart
     narration: The power to bring light to all of France!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
@@ -78,7 +78,7 @@ story:
   - chara:
     - id: 402101
       lipSynch: 0
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: (I wonder...)
     turnChangeOut: fadeOut
   - chara:
@@ -119,15 +119,15 @@ story:
   - bgm: bgm03_story02
     chara:
     - id: 402201
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Liz
-    textRight: Darc...
+    textRight: Tart...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 402201
-    textRight: Darc... Are you listening?
+    textRight: Tart... Are you listening?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -224,7 +224,7 @@ story:
     - id: 402301
       motion: 300
     nameCenter: Melissa
-    textCenter: Darc... Liz!
+    textCenter: Tart... Liz!
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -234,7 +234,7 @@ story:
       pos: 0
     - id: 402301
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '[chara:402101:effect_emotion_surprise_0][se:7226_shock]Melissa?! You''re
       back already?'
   - bgm: bgm03_story10

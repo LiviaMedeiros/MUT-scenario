@@ -36,7 +36,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - nameNarration: Liz
-    narration: Darc and I chased sheep there, and I taught@Catherine how to use a
+    narration: Tart and I chased sheep there, and I taught@Catherine how to use a
       sword over there...
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
@@ -186,7 +186,7 @@ story:
       motion: 100
       pos: 1
     nameCenter: Liz
-    textCenter: (The true form of this magical trap that has@imprisoned Darc and I...)
+    textCenter: (The true form of this magical trap that has@imprisoned Tart and I...)
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: stop

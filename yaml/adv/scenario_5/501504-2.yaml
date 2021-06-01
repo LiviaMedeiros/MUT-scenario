@@ -9,7 +9,7 @@ story:
       id: 402100
       motion: 201
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: Just a little further!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -29,7 +29,7 @@ story:
     bgm: stop
     nameCenter: ""
     nameLeft: ""
-    nameRight: Darc
+    nameRight: Tart
     se: 7208_wander_into
   - bgm: bgm01_anime15
     chara:
@@ -202,7 +202,7 @@ story:
       pos: 0
     nameLeft: Liz
     surround: 7202_telepathy
-    textLeft: She becomes like this whenever people@criticize Darc.
+    textLeft: She becomes like this whenever people@criticize Tart.
     turnEffect: ef_adv_02
   - chara:
     - cheek: 0

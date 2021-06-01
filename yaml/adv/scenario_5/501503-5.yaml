@@ -16,7 +16,7 @@ story:
       pos: 0
     nameLeft: Yachiyo
     nameRight: Iroha
-    textRight: This must be where Darc and the others@made camp!
+    textRight: This must be where Tart and the others@made camp!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -134,7 +134,7 @@ story:
       id: 402101
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: You arrived right as we were in peril.
   - chara:
     - id: 402101
@@ -159,7 +159,7 @@ story:
   - chara:
     - id: 100100
       motion: 0
-    textRight: Another world, I guess, where you're known@as a legend, Darc.
+    textRight: Another world, I guess, where you're known@as a legend, Tart.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -218,7 +218,7 @@ story:
       pos: 0
     nameLeft: Liz
     nameRight: Melissa
-    textRight: '...Darc frees Orléans and leads France to@victory?'
+    textRight: '...Tart frees Orléans and leads France to@victory?'
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -260,7 +260,7 @@ story:
       id: 402101
       motion: 100
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Oh, most excellent! It is just as Monsieur@Angel decreed!
   - chara:
     - cheek: 0

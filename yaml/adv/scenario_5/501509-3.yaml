@@ -276,7 +276,7 @@ story:
     textRight: This book has information...
   - chara:
     - id: 100100
-    textRight: '...on the magical trap our enemy is using@on Darc.'
+    textRight: '...on the magical trap our enemy is using@on Tart.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

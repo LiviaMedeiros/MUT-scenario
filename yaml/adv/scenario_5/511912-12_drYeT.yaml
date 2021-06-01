@@ -231,7 +231,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Shizuka
-    textLeft: Ehh?
+    textLeft: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]Ehh?'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

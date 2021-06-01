@@ -378,7 +378,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-15-44
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-43
-    textRight: Yeah, it's stuck tight to Sis's arm.
+    textRight: Yeah, it's stuck tight to Big Sis's arm.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

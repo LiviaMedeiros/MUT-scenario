@@ -125,7 +125,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402200
-    textLeft: Darc must have defeated the Witch.
+    textLeft: Tart must have defeated the Witch.
   - bgm: bgm01_anime03
     chara:
     - cheek: 0
@@ -178,7 +178,7 @@ story:
       id: 402100
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Monsieur La Hire!
   - chara:
     - cheek: 0
@@ -249,14 +249,14 @@ story:
   - chara:
     - id: 100200
       motion: 201
-    textLeft: Oh, Darc's giving out orders.
+    textLeft: Oh, Tart's giving out orders.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 402100
       motion: 1
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: Now, let us face this challenge head-on!
     turnChangeIn: rollInFast
     turnChangeOut: rollOutFast

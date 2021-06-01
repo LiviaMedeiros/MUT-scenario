@@ -16,7 +16,7 @@ story:
       pos: 2
     nameLeft: Yachiyo
     nameRight: Iroha
-    textLeft: Iroha! We have to cover Darc!
+    textLeft: Iroha! We have to cover Tart!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -29,7 +29,7 @@ story:
       id: 402100
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: I won't lose!
   - autoTurnLast: 2
     turnChangeIn: fadeIn

@@ -22,7 +22,7 @@ story:
       id: 402101
       motion: 1
     nameLeft: ""
-    nameRight: Darc
+    nameRight: Tart
     textRight: The Cursed Girl?
     turnChangeOut: fadeOut
   - textLeft: Yes...
@@ -58,7 +58,7 @@ story:
   - chara:
     - id: 402101
     nameLeft: ""
-    nameRight: Darc
+    nameRight: Tart
     textRight: What happened to her?
     turnChangeOut: fadeOut
   - textLeft: She uttered, "If you keep me here,@I really am going to turn into a
@@ -185,7 +185,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4021_00_04
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: The entire town has been thrown into a panic!
     turnChangeOut: fadeOut
   - autoTurnFirst: 4

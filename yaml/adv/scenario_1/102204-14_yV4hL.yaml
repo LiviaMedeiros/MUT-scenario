@@ -177,7 +177,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-14-17
       voiceFullStop: fullvoice/section_102204/vo_full_102204-14-16
     nameRight: Juri
-    textRight: What's the matter, Big Sis?@Shouldn't you be a little more excited?
+    textRight: What's the matter, Sis?@Shouldn't you be a little more excited?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -238,7 +238,7 @@ story:
       voiceFullStop: fullvoice/section_102204/vo_full_102204-14-23
     enableSkipAutoTurn: 1
     nameRight: Juri
-    textRight: '*Chuckle*@Just what I''d expect from my Big Sis.'
+    textRight: '*Chuckle*@Just what I''d expect from my Sis.'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -391,7 +391,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-14-40
       voiceFullStop: fullvoice/section_102204/vo_full_102204-14-39
     nameRight: Ao
-    textRight: Looks like Sis's loyalty is the real deal~
+    textRight: Looks like Big Sis's loyalty is the real deal~
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json

@@ -52,14 +52,14 @@ story:
     textLeft: I can't move!
   - chara:
     - id: 402200
-    textRight: Now, Darc! Everyone back away!
+    textRight: Now, Tart! Everyone back away!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 402100
       motion: 0
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: All right... Here I go!
   - autoTurnLast: 0.5
     bgEffect: shakeLarge
@@ -122,7 +122,7 @@ story:
     turnChangeOut: whiteOut
   - chara:
     - id: 402301
-    textRight: Darc, Iroha! Over here!
+    textRight: Tart, Iroha! Over here!
   - chara:
     - id: 402301
     textRight: We can storm Orléans now!
@@ -132,7 +132,7 @@ story:
       id: 402100
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Excellent!
   - chara:
     - cheek: 0
@@ -141,7 +141,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Liz
-    textRight: Iroha, look after Darc!
+    textRight: Iroha, look after Tart!
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -193,7 +193,7 @@ story:
       motion: 201
       pos: 2
     nameRight: Yachiyo
-    textRight: But Darc is gone, Corbeau. This "dream"@is almost over.
+    textRight: But Tart is gone, Corbeau. This "dream"@is almost over.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -260,14 +260,14 @@ story:
       motion: 200
       pos: 2
     nameRight: Iroha
-    textRight: Darc! There's the bell tower!
+    textRight: Tart! There's the bell tower!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 402100
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Then let's hurry!
   - bgm: stop
     chara:
@@ -283,7 +283,7 @@ story:
       pos: 0
     nameLeft: Melissa
     nameRight: Qube
-    textRight: If you ring the bell, Darc will wake up@in the real world.
+    textRight: If you ring the bell, Tart will wake up@in the real world.
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -304,7 +304,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 402301
-    textLeft: Thank you for saving Darc.
+    textLeft: Thank you for saving Tart.
   - bgm: bgm05_event05
     chara:
     - cheek: 0
@@ -317,7 +317,7 @@ story:
       id: 402100
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Iroha
     textRight: We've finally arrived at the bell tower.
     turnChangeIn: fadeIn
@@ -371,7 +371,7 @@ story:
       visible: appear
     turnChangeIn: fadeIn
     turnEffect: sepiaFrame
-  - nameNarration: Darc
+  - nameNarration: Tart
     narration: I lost my beloved little sister when@my hometown was invaded.
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -424,7 +424,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 100100
       motion: 301
-    textRight: I'll never forget you either, Darc!
+    textRight: I'll never forget you either, Tart!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -472,7 +472,7 @@ story:
     textLeft: That sound...
   - chara:
     - id: 810000
-    textRight: Darc must be ringing the bell.
+    textRight: Tart must be ringing the bell.
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -555,7 +555,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Liz
-    textRight: Darc and Iroha made it to the church!
+    textRight: Tart and Iroha made it to the church!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -635,7 +635,7 @@ story:
       motion: 0
       pos: 0
     flashEffect: flashWhiteSlow2
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Iroha
     surround: 7010_bell
     textRight: Ah, this feeling!

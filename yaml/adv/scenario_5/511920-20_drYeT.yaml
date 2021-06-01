@@ -611,7 +611,7 @@ story:
       posY: 0
       visible: appear
     nameRight: Felicia
-    textRight: Here we go!
+    textRight: '[flashEffect:explosion]Here we go!'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

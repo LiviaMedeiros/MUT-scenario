@@ -27,7 +27,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 402200
       motion: 0
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Liz
     textRight: We've cleared away most of the Familiars...
     turnChangeOut: fadeOut
@@ -104,7 +104,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 402200
       motion: 0
-    textRight: Darc?
+    textRight: Tart?
   - chara:
     - id: 402100
       motion: 300
@@ -214,7 +214,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 402200
       motion: 100
-    textRight: Darc!
+    textRight: Tart!
   - chara:
     - id: 402100
       motion: 201

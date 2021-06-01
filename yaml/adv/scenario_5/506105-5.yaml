@@ -142,9 +142,9 @@ story:
       motion: 0
       pos: 2
     nameLeft: Liz
-    nameRight: Darc
+    nameRight: Tart
     surround: 7202_telepathy
-    textLeft: Now, Darc!
+    textLeft: Now, Tart!
     turnEffect: ef_adv_02
   - chara:
     - id: 402100
@@ -166,7 +166,7 @@ story:
     - id: 402100
       motion: 100
     flashEffect: flashWhite2
-    nameCenter: Darc
+    nameCenter: Tart
     surround: 4021A03
     textBg: shout
     textCenter: '[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:3025A02]La
@@ -208,7 +208,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 100200
       motion: 201
-    textLeft: That must be Darc!
+    textLeft: That must be Tart!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -332,7 +332,7 @@ story:
       id: 830100
       motion: 0
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Gilles
     textLeft: Monsieur Gilles de Rais! Give us a speech.
     turnChangeOut: whiteOut
@@ -389,7 +389,7 @@ story:
       motion: 1
       pos: 2
     nameLeft: Dauphin Charles
-    nameRight: Darc
+    nameRight: Tart
     textLeft: La Pucelle... What a delight it was to be@rescued by you.
   - chara:
     - id: 830200
@@ -419,7 +419,7 @@ story:
     textRight: Wow...
   - chara:
     - id: 402301
-    textRight: The crown prince himself took Darc's hand@as he thanked her!
+    textRight: The crown prince himself took Tart's hand@as he thanked her!
   - chara:
     - id: 100100
       motion: 100
@@ -466,7 +466,7 @@ story:
       motion: 1
       pos: 2
     nameLeft: Dauphin Charles
-    nameRight: Darc
+    nameRight: Tart
     narrationEffect: out
     textLeft: Now, recognized by God and with the@protection of Les Pucelles...
     turnChangeIn: fadeIn

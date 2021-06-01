@@ -15,7 +15,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: ""
-    nameRight: Darc
+    nameRight: Tart
     textLeft: La Pucelle...
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -50,7 +50,7 @@ story:
     textLeft: Geographically, this fortress stands@between two opposing factions of
       nobles.
     turnChangeOut: fadeOut
-  - textLeft: But, thanks to Darc, it is now firmly an ally@of France.
+  - textLeft: But, thanks to Tart, it is now firmly an ally@of France.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -58,7 +58,7 @@ story:
       motion: 1
     textRight: Yes, and now it will be easier than ever to@source supplies from here!
   - textLeft: Looks like you gained quite a useful supply@line for the French army.
-  - textLeft: Darc's selfless devotion to her cause has@gained her even more allies...
+  - textLeft: Tart's selfless devotion to her cause has@gained her even more allies...
   - textLeft: Her place in the universe will likely @grow even further in importance.
   - chara:
     - cheek: 0
@@ -94,8 +94,8 @@ story:
       id: 402201
       motion: 0
     nameLeft: Liz
-    nameRight: Darc
-    textLeft: Welcome back, Darc.
+    nameRight: Tart
+    textLeft: Welcome back, Tart.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -175,7 +175,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402101
-    textLeft: Darc...
+    textLeft: Tart...
   - chara:
     - id: 402201
       motion: 1
@@ -217,11 +217,11 @@ story:
     - eyeClose: 0
       id: 402201
       motion: 0
-    textLeft: Darc...
+    textLeft: Tart...
   - chara:
     - id: 402201
       motion: 0
-    textLeft: Darc... Are you listening?
+    textLeft: Tart... Are you listening?
   - chara:
     - id: 402101
     textRight: '*Snore*'
@@ -269,7 +269,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4021_00_05
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: I must carry on...no matter what happens...
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut

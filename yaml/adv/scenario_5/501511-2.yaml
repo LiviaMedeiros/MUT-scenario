@@ -16,7 +16,7 @@ story:
       pos: 2
     nameLeft: Yachiyo
     nameRight: Iroha
-    textLeft: Iroha! Let's go rescue Darc!
+    textLeft: Iroha! Let's go rescue Tart!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -25,7 +25,7 @@ story:
     textRight: Yeah, no matter what!
   - chara:
     - id: 100200
-    textLeft: Darc and our future... We'll bring them@both back!
+    textLeft: Tart and our future... We'll bring them@both back!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

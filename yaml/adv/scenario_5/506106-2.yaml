@@ -52,7 +52,7 @@ story:
   - chara:
     - id: 100100
       motion: 100
-    textRight: All because Darc took back this area!
+    textRight: All because Tart took back this area!
   - chara:
     - id: 100200
       motion: 0
@@ -287,7 +287,7 @@ story:
     - eyeClose: 0
       id: 100200
       motion: 100
-    textLeft: And Darc and her friends are fighting with@everything they have, just
+    textLeft: And Tart and her friends are fighting with@everything they have, just
       like us!
   - chara:
     - id: 100100
@@ -300,7 +300,7 @@ story:
       is.
   - chara:
     - id: 100200
-    textLeft: We have to take Darc and everyone else@seriously.
+    textLeft: We have to take Tart and everyone else@seriously.
   - chara:
     - id: 100100
       motion: 0

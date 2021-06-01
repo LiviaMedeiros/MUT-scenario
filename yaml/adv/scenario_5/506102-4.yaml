@@ -13,7 +13,7 @@ story:
       motion: 1
       pos: 2
     nameLeft: ""
-    nameRight: Darc
+    nameRight: Tart
     textBg: shout
     textLeft: 蜃ｺ縺ｦ陦後▲縺ｦ繧茨ｼ!!!
     turnChangeIn: fadeIn
@@ -144,7 +144,7 @@ story:
       id: 402200
       motion: 1
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Liz
     textLeft: I have found the captive girl!
     turnChangeIn: rollInFast
@@ -179,7 +179,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Iroha
-    textRight: Darc.
+    textRight: Tart.
   - chara:
     - id: 100100
     textRight: I...I've fought that Witch before.

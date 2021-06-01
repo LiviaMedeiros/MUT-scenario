@@ -18,7 +18,7 @@ story:
       posY: 0
     nameLeft: Qube
     narrationEffect: out
-    textLeft: If we want to wake up Darc...
+    textLeft: If we want to wake up Tart...
   - chara:
     - id: 810000
     textLeft: We must ring the Sacred Bell!
@@ -97,7 +97,7 @@ story:
     turnEffect: blackFrame
   - chara:
     - id: 402200
-    textCenter: Remember Darc's little sister, Catherine.
+    textCenter: Remember Tart's little sister, Catherine.
   - chara:
     - id: 402200
     textCenter: Go to the church that shares her name and@offer your prayers.
@@ -141,7 +141,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 402301
       motion: 300
-    textLeft: Catherine... Darc's younger sister who is@no longer with us?
+    textLeft: Catherine... Tart's younger sister who is@no longer with us?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -185,7 +185,7 @@ story:
       it's in a town called Fierbois.
   - chara:
     - id: 402301
-    textLeft: Darc, Liz, and I met a mysterious woman@there.
+    textLeft: Tart, Liz, and I met a mysterious woman@there.
   - chara:
     - id: 810000
       motion: 0
@@ -193,7 +193,7 @@ story:
       posX: 0
       posY: 0
     nameLeft: Qube
-    textLeft: That must've been Pernelle.
+    textLeft: That must've been Perenelle.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -237,7 +237,7 @@ story:
     textRight: We might find someone there who can help us.
   - chara:
     - id: 810000
-    textLeft: Yes, if you're able to speak with Pernelle...
+    textLeft: Yes, if you're able to speak with Perenelle...
   - chara:
     - id: 810000
     textLeft: You may learn some useful information!
@@ -248,7 +248,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Iroha
-    textLeft: This Sacred Bell that can awaken Darc...
+    textLeft: This Sacred Bell that can awaken Tart...
   - chara:
     - id: 100100
     textLeft: Maybe we can ask her about it.

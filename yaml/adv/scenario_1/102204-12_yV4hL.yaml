@@ -134,7 +134,7 @@ story:
     - id: 102001
       voiceFull: fullvoice/section_102204/vo_full_102204-12-16
       voiceFullStop: fullvoice/section_102204/vo_full_102204-12-15
-    textCenter: What is this....?@I can hear voices...
+    textCenter: What is this...?@I can hear voices...
   - chara:
     - id: 102001
       lipSynch: 0
@@ -158,7 +158,7 @@ story:
     - id: 102001
       voiceFull: fullvoice/section_102204/vo_full_102204-12-20
       voiceFullStop: fullvoice/section_102204/vo_full_102204-12-19
-    textCenter: They work so hard, but no even one knows.@It's awful....
+    textCenter: They work so hard, but no one even knows.@It's awful...
   - chara:
     - id: 102001
       lipSynch: 0
@@ -260,7 +260,7 @@ story:
       id: 100501
       voiceFull: fullvoice/section_102204/vo_full_102204-12-30
       voiceFullStop: fullvoice/section_102204/vo_full_102204-12-29
-    textRight: You're not even a magical girl,@but you fused with an Uwasa?!
+    textRight: You're not even a Magical Girl,@but you fused with an Uwasa?!
   - chara:
     - id: 100601
       motion: 100

@@ -34,7 +34,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Ui
-    textRight: Ha... Ha...
+    textRight: '*Pant*... *Pant*...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -193,7 +193,7 @@ story:
     voiceFullStop: fullvoice/section_102101/vo_full_102101-5-18
   - bgm: bgm22_battle21
     nameNarration: ""
-    narration: ∵うっ―ふふ＿ハハッ!!
+    narration: ∵Ooh―huhu＿HAHAA!!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -221,7 +221,7 @@ story:
     voiceFull: fullvoice/section_102101/vo_full_102101-5-24
     voiceFullStop: fullvoice/section_102101/vo_full_102101-5-23
   - nameNarration: ""
-    narration: ∵くすくす＿￣あはっ!
+    narration: ∵Gwuhuhu＿￣ahah!
     voiceFullStop: fullvoice/section_102101/vo_full_102101-5-24
   - nameNarration: Iroha
     narration: ―Iroha―@It's aiming for us...

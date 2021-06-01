@@ -343,21 +343,21 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     surround: 7202_telepathy
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - chara:
-    - id: 831100
-    nameRight: Pernelle
+    - id: 402900
+    nameRight: Perenelle
     textRight: Don't worry. I created your weapons using@magical metallurgy.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
     textRight: Just be careful about your transformations@getting dispelled.
   - autoTurnLast: 0.01
     bg: bg_adv_20112.jpg
@@ -385,7 +385,7 @@ story:
     - cheek: 1
       face: mtn_ex_020.exp.json
       id: 402600
-    textRight: You gave La Pucelle a weapon too, Pernelle?!
+    textRight: You gave La Pucelle a weapon too, Perenelle?!
   - chara:
     - id: 402100
       motion: 201

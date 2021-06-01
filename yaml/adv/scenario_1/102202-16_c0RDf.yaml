@@ -103,7 +103,7 @@ story:
       visible: appear
     nameLeft: ""
     textBg: shout
-    textLeft: '[flashEffect:flashWhite2]∵ワァぁ―エエ＿ええ'
+    textLeft: '[flashEffect:flashWhite2]∵MMhm―AYE＿uhuh'
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -224,7 +224,7 @@ story:
     - id: 6012
       name: sprite_0
     nameLeft: ""
-    textLeft: ∵へ～＿うん
+    textLeft: ∵HUH～＿ya
     voiceFullStop: fullvoice/section_102202/vo_full_102202-16-17
   - chara:
     - cheek: 0
@@ -238,7 +238,7 @@ story:
     - id: 6012
       name: sprite_0
     textBg: shout
-    textLeft: '[surround:1015A06][flashEffect:flashWhite2]∵ハイィ―＿￣!?'
+    textLeft: '[surround:1015A06][flashEffect:flashWhite2]∵yisSS―＿￣?!'
     voiceFullStop: fullvoice/section_102202/vo_full_102202-16-19
   - autoTurnLast: 0.1
     chara:
@@ -324,7 +324,7 @@ story:
     - id: 6012
       name: sprite_0
     nameLeft: ""
-    textLeft: ∵ん～～＿ハィ￣!!
+    textLeft: ∵Mm～～＿hyep￣!!
     voiceFullStop: fullvoice/section_102202/vo_full_102202-16-26
   - chara:
     - cheek: 0
@@ -378,7 +378,7 @@ story:
       pos: 0
     nameLeft: ""
     textBg: shout
-    textLeft: '[chara:100400:effect_7001_attack02]∵エェ＿うん―!!'
+    textLeft: '[chara:100400:effect_7001_attack02]∵AYE＿ya―!!'
     voiceFullStop: fullvoice/section_102202/vo_full_102202-16-31
   - chara:
     - cheek: 0
@@ -561,7 +561,7 @@ story:
     enableSkipAutoTurn: 0
     nameLeft: ""
     textBg: shout
-    textLeft: '[surround:1026A02][name:sprite_0:effect_7002_damage01][bgEffect:shakeSmall]∵オォ＿ハイはい!?'
+    textLeft: '[surround:1026A02][name:sprite_0:effect_7002_damage01][bgEffect:shakeSmall]∵uhuh＿YEPyep?!'
     voiceFullStop: fullvoice/section_102202/vo_full_102202-16-49
   - autoTurnLast: 0.2
     chara:

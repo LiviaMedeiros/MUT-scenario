@@ -327,7 +327,7 @@ story:
       voiceFull: fullvoice/section_102101/vo_full_102101-8-28
       voiceFullStop: fullvoice/section_102101/vo_full_102101-8-27
     nameRight: Tsuruno
-    textRight: I can feel some strong magic, maybe that's@causing it.
+    textRight: I can feel some strong magic, maybe that's@why it won't come off.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

@@ -407,7 +407,7 @@ story:
       lipSynch: 0
       motion: 400
     nameRight: Momoko
-    textRight: '!?'
+    textRight: '[chara:111000:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

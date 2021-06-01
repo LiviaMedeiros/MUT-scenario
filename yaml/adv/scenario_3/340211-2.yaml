@@ -19,7 +19,7 @@ story:
     bgm: bgm03_story10
     chara:
     - id: 402101
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Melissa
     textLeft: Under attack?!
     turnChangeOut: fadeOut
@@ -91,7 +91,7 @@ story:
       id: 402101
       motion: 0
     nameLeft: ""
-    nameRight: Darc
+    nameRight: Tart
     textRight: What?!
     turnChangeOut: rollOutFast
   - chara:
@@ -134,7 +134,7 @@ story:
       id: 402101
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: What's that?
   - chara:
     - cheek: 0
@@ -177,7 +177,7 @@ story:
       id: 402101
       motion: 0
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: And now he wants help from the French?
   - chara:
     - cheek: 0
@@ -257,7 +257,7 @@ story:
       id: 402201
       motion: 0
     nameRight: Liz
-    textRight: I want to protect Darc. And besides...
+    textRight: I want to protect Tart. And besides...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -270,7 +270,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 402201
       motion: 100
-    textRight: Darc understands that better than anyone.
+    textRight: Tart understands that better than anyone.
   - chara:
     - eyeClose: 0
       id: 402201
@@ -293,7 +293,7 @@ story:
       id: 402101
       motion: 100
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Thank you very much!
   - chara:
     - cheek: 0

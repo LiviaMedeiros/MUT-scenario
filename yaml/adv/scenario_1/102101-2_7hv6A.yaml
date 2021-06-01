@@ -49,27 +49,26 @@ story:
     - id: 102001
       voiceFull: fullvoice/section_102101/vo_full_102101-2-3
     nameCenter: Kagome
-    textCenter: What Iroha Tamaki said that day is true, isn't it...
+    textCenter: What Iroha Tamaki said that day is true, isn't it...?
     turnChangeOut: fadeOut
   - chara:
     - id: 102001
       voiceFull: fullvoice/section_102101/vo_full_102101-2-4
       voiceFullStop: fullvoice/section_102101/vo_full_102101-2-3
-    textCenter: The likes of Witches and Familiars are dangerous@beings that hurt
-      people.
+    textCenter: Witches and Familiars are dangerous beings that@bring harm to people.
   - chara:
     - eyeClose: 1
       id: 102001
       voiceFull: fullvoice/section_102101/vo_full_102101-2-5
       voiceFullStop: fullvoice/section_102101/vo_full_102101-2-4
-    textCenter: And Magical Girls defeat these beings...
+    textCenter: And Magical Girls defeat them...
   - autoTurnLast: 0.1
     chara:
     - id: 102001
       voiceFullStop: fullvoice/section_102101/vo_full_102101-2-5
     nameNarration: ""
     narrationEffect: in
-  - narration: '"I learned this during my investigation as well."'
+  - narration: '"I learned this during my own investigation as well."'
     voiceFull: fullvoice/section_102101/vo_full_102101-2-6
   - chara:
     - cheek: 0
@@ -142,7 +141,7 @@ story:
       voiceFull: fullvoice/section_102101/vo_full_102101-2-17
       voiceFullStop: fullvoice/section_102101/vo_full_102101-2-16
     narrationEffect: out
-    textCenter: Then, what should I...
+    textCenter: Then, what should I...?
   - nameNarration: ""
     narration: '"We can only record."'
     narrationEffect: in
@@ -158,14 +157,14 @@ story:
     narrationEffect: out
     textCenter: Record...?
   - nameNarration: ""
-    narration: '"As some of the very few people who know of Magical Girls,@we can
-      make an effort to let the world know the truth,@and that should go a long way
+    narration: '"As a couple of the limited number@of people who know of Magical Girls,@we''re
+      able to do what we can to show the world the truth,@which should go a long way
       toward saving them."'
     narrationEffect: in
     voiceFull: fullvoice/section_102101/vo_full_102101-2-20
     voiceFullStop: fullvoice/section_102101/vo_full_102101-2-19
   - narration: '"I''m going to continue investigating,@and since you''re a girl around
-      that same age,@I''m sure you will be able to express their reality."'
+      that same age,@I''m sure you will be able to convey their reality."'
     voiceFull: fullvoice/section_102101/vo_full_102101-2-21
     voiceFullStop: fullvoice/section_102101/vo_full_102101-2-20
   - autoTurnLast: 1
@@ -215,7 +214,7 @@ story:
     - id: 102001
       voiceFull: fullvoice/section_102101/vo_full_102101-2-26
       voiceFullStop: fullvoice/section_102101/vo_full_102101-2-25
-    textLeft: Besides...talking with you has given me@more things to express.
+    textLeft: Besides...talking with you has given me@more things to convey.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -223,8 +222,8 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102101/vo_full_102101-2-27
       voiceFullStop: fullvoice/section_102101/vo_full_102101-2-26
-    textLeft: I had thought the price for getting your wish@granted was fighting against
-      Witches...
+    textLeft: I had thought the price for getting your wish@granted was having to
+      fight Witches...
   - chara:
     - id: 810000
       voiceFull: fullvoice/section_102101/vo_full_102101-2-28
@@ -258,7 +257,7 @@ story:
       lipSynch: 0
       voiceFull: fullvoice/section_102101/vo_full_102101-2-31
     nameCenter: Kagome
-    textCenter: '...........'
+    textCenter: '...'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -305,7 +304,7 @@ story:
       pos: 2
       voiceFull: fullvoice/section_102101/vo_full_102101-2-36
       voiceFullStop: fullvoice/section_102101/vo_full_102101-2-35
-    textRight: Fiiinally, class is over. What should we do after this?
+    textRight: Fiiinally, class is over.@What should we do after this?
   - chara:
     - eyeClose: 1
       id: 102001

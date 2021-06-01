@@ -114,7 +114,7 @@ story:
     textRight: Corbeau used the magic in this grimoire.
   - chara:
     - id: 100101
-    textRight: She imprisoned Darc in a Labyrinth, then@made her have nightmares?
+    textRight: She imprisoned Tart in a Labyrinth, then@made her have nightmares?
   - chara:
     - id: 100201
       motion: 100
@@ -132,7 +132,7 @@ story:
   - chara:
     - id: 100201
       motion: 301
-    textLeft: Which means Darc's hair was mixed into@these candles!
+    textLeft: Which means Tart's hair was mixed into@these candles!
   - chara:
     - cheek: 0
       face: mtn_ex_042.exp.json
@@ -140,7 +140,7 @@ story:
     textLeft: The candles' effects are just what you'd @think they'd be.
   - chara:
     - id: 100201
-    textLeft: Using them creates a way in and out of@Darc's dream.
+    textLeft: Using them creates a way in and out of@Tart's dream.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -217,7 +217,7 @@ story:
     textLeft: But she's is an unwelcome visitor.
   - chara:
     - id: 100201
-    textLeft: That's why she couldn't get near Darc as@easily as we could.
+    textLeft: That's why she couldn't get near Tart as@easily as we could.
   - chara:
     - id: 100101
       motion: 301
@@ -247,7 +247,7 @@ story:
       id: 100101
       motion: 0
     textRight: So the spell didn't matter. The candles were@to blame for us going
-      to Darc's dream.
+      to Tart's dream.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -295,7 +295,7 @@ story:
     turnEffect: blackFrame
   - chara:
     - id: 402200
-    textCenter: Remember Darc's little sister, Catherine.
+    textCenter: Remember Tart's little sister, Catherine.
   - chara:
     - id: 402200
     textCenter: Go to the church that shares her name and@offer your prayers.

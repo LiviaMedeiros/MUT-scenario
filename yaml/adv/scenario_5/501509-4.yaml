@@ -29,13 +29,13 @@ story:
     - id: 810000
     textLeft: You've correctly deciphered the gist of it.
   - nameNarration: Qube
-    narration: By using the magic in the grimoire, Corbeau@lured Darc into an endless
+    narration: By using the magic in the grimoire, Corbeau@lured Tart into an endless
       slumber.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
   - narration: Melissa and I were nearby, so we@got dragged into her dream.
   - narration: Corbeau used the red and blue candles@to enter the dream herself.
-  - narration: And then in order to drive Darc into despair,@she waged a war there.
+  - narration: And then in order to drive Tart into despair,@she waged a war there.
   - chara:
     - id: 100100
       motion: 100
@@ -60,7 +60,7 @@ story:
     textRight: If that's true for even you...
   - chara:
     - id: 810000
-    textLeft: Darc and Melissa would've never suspected@they're in a dream!
+    textLeft: Tart and Melissa would've never suspected@they're in a dream!
   - chara:
     - id: 810000
     textLeft: Witches don't bother to hide here. They@openly confront humans.
@@ -126,13 +126,13 @@ story:
       face: mtn_ex_010.exp.json
       id: 100200
       motion: 0
-    textRight: These events originally began and ended@during Darc's era.
+    textRight: These events originally began and ended@during Tart's era.
   - chara:
     - id: 100200
     textRight: But then hundreds of years passed, and@Corbeau's candles were found.
   - chara:
     - id: 100200
-    textRight: They ended up in our hands, and we@entered Darc's dream.
+    textRight: They ended up in our hands, and we@entered Tart's dream.
   - chara:
     - id: 100200
     textRight: The past changed, and so the future became@unstable.
@@ -186,7 +186,7 @@ story:
     textRight: Monsieur Angel.
   - chara:
     - id: 402301
-    textRight: Is there any way for us to save Darc?!
+    textRight: Is there any way for us to save Tart?!
   - chara:
     - id: 810000
     textLeft: Yes, that was in the book as well.

@@ -63,14 +63,14 @@ story:
   - chara:
     - id: 402200
       motion: 1
-    textRight: I stopped it in its tracks. Darc, use your@magic!
+    textRight: I stopped it in its tracks. Tart, use your@magic!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 402100
       motion: 400
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Huh?!
   - chara:
     - id: 402100
@@ -136,10 +136,10 @@ story:
       id: 402100
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Liz, where are you?
   - nameNarration: Liz
-    narration: Great work, Darc.
+    narration: Great work, Tart.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeIn: fadeIn
@@ -156,7 +156,7 @@ story:
       id: 402200
       motion: 1
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     narrationEffect: out
     textBg: shout
     textLeft: '[chara:402100:effect_emotion_surprise_0][se:7226_shock]Huh... Whoa!'
@@ -234,7 +234,7 @@ story:
       id: 402200
       motion: 0
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     se: 7205_magic_girl
     surround: 7003_wind
     textLeft: Oh?

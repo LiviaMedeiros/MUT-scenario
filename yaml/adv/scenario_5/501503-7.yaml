@@ -54,7 +54,7 @@ story:
     textLeft: We can't avoid it.
   - chara:
     - id: 100200
-    textLeft: We have to help Darc. We must fight.
+    textLeft: We have to help Tart. We must fight.
   - bgm: bgm03_story07
     chara:
     - cheek: 0
@@ -74,7 +74,7 @@ story:
       we got here.
   - chara:
     - id: 100100
-    textRight: I wasn't able to take Darc's or anyone's@feelings seriously.
+    textRight: I wasn't able to take Tart's or anyone's@feelings seriously.
   - bg: bg_adv_20073.jpg
     chara:
     - cheek: 0
@@ -82,7 +82,7 @@ story:
       id: 402100
       motion: 201
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: I'll handle her. Please get to safety!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -95,11 +95,11 @@ story:
       visible: appear
     turnChangeIn: fadeIn
     turnEffect: stop
-  - nameNarration: Darc
+  - nameNarration: Tart
     narration: I don't want such cruelty to@ever happen again, to anyone.
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: That is why I decided@to become a Magical Girl.
+  - narration: That is why I decided to become@a Magical Girl.
   - narration: And why I wished for the power@to bring light to all of France!
   - autoTurnLast: 0.01
     item:
@@ -120,7 +120,7 @@ story:
       pos: 0
     nameLeft: Yachiyo
     nameRight: Iroha
-    textRight: Darc and the others are fighting with@everything they have.
+    textRight: Tart and the others are fighting with@everything they have.
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 1

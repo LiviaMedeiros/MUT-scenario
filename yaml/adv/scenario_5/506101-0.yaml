@@ -64,7 +64,7 @@ story:
   - chara:
     - id: 101700
     textLeft: '[chara:101700:effect_emotion_joy_0][se:7222_happy]I just learned a
-      very interesting little@charm. It''s rather effective!'
+      very interesting little charm.@It''s rather effective!'
   - chara:
     - id: 100101
       motion: 200
@@ -144,7 +144,7 @@ story:
       then!'
   - chara:
     - id: 101700
-    textLeft: First off, prepare two candles - one red,@one blue.
+    textLeft: First off, prepare two candles — one red,@one blue.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

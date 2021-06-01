@@ -54,7 +54,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100101
-    textRight: 'Back when Darc was talking... '
+    textRight: 'Back when Tart was talking... '
   - chara:
     - id: 100101
     textRight: Something seemed to be bothering you.@What was it?
@@ -99,7 +99,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100201
       motion: 0
-    textLeft: Everything Darc told us can be confirmed on@a map.
+    textLeft: Everything Tart told us can be confirmed on@a map.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

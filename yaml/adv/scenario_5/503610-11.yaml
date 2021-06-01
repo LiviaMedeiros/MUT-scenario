@@ -14,7 +14,7 @@ story:
       id: 302901
       motion: 200
       pos: 2
-    nameNarration: "\uFEFFMitama"
+    nameNarration: Mitama
     narration: For some reason, Masara came here alone that day...
     narrationBg: bg_adv_11061.jpg
     narrationEffect: in
@@ -170,8 +170,8 @@ story:
       lipSynch: 0
       motion: 400
     textCenter: '[chara:101700:effect_emotion_surprise_0][se:7226_shock]—hm?!'
-  - nameNarration: ""
-    narration: '“1st Place: 5 kilograms of premium high quality rice”'
+  - nameNarration: “1st Place
+    narration: 5 kilograms of premium high quality rice”
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
   - bgm: bgm03_story16

@@ -183,7 +183,7 @@ story:
       id: 402101
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Iroha
     textRight: A rescue mission?
     turnChangeOut: whiteOut
@@ -240,7 +240,7 @@ story:
       id: 402101
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: I-is that so...
   - chara:
     - cheek: 0

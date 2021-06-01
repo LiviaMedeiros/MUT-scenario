@@ -51,7 +51,7 @@ story:
     textRight: A-anyway...
   - chara:
     - id: 100100
-    textRight: Is Darc going to be okay?
+    textRight: Is Tart going to be okay?
   - bgm: stop
     chara:
     - cheek: 0
@@ -71,7 +71,7 @@ story:
     textLeft: What was that?! I felt an incredible amount@of magic!
   - chara:
     - id: 100100
-    textRight: Me too, and it came from where Darc just@was!
+    textRight: Me too, and it came from where Tart just@was!
   - autoTurnLast: 0.5
     bgEffect: shakeLarge
     flashEffect: flashWhite2
@@ -109,7 +109,7 @@ story:
     turnChangeOutTime: 1.5
   - chara:
     - id: 402301
-    textLeft: La Lumière... Darc's light magic!
+    textLeft: La Lumière... Tart's light magic!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

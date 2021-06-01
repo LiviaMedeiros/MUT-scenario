@@ -53,7 +53,7 @@ story:
       voiceFullStop: fullvoice/section_102201/vo_full_102201-8-3
     textRight: This...isn't reality...?
   - nameLeft: ""
-    textLeft: ∵フフッ＿あははッ
+    textLeft: ∵HUHUH＿ahahaa.
     voiceFullStop: fullvoice/section_102201/vo_full_102201-8-4
   - chara:
     - cheek: 0
@@ -71,14 +71,14 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-8-7
       voiceFullStop: fullvoice/section_102201/vo_full_102201-8-6
     textRight: '...It''s not attacking.'
-  - textLeft: ∵ハァ～￣にひひッ＿
+  - textLeft: ∵HAA～￣niheehee＿
     voiceFullStop: fullvoice/section_102201/vo_full_102201-8-7
   - chara:
     - id: 100101
       motion: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-8-9
     textRight: Are you worried about the Bracelet@being taken off...?
-  - textLeft: ∵ヒッ＿ハハハッ―
+  - textLeft: ∵Hee＿HAHAHAA―
     voiceFullStop: fullvoice/section_102201/vo_full_102201-8-9
   - chara:
     - cheek: 0
@@ -87,7 +87,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-8-11
     textRight: We're not trying to destroy it, or hand it@over to anyone else...
-  - textLeft: ∵フフッ￣フ―フフッ
+  - textLeft: ∵HOOHOO￣HOO―HOOHOOO.
     voiceFullStop: fullvoice/section_102201/vo_full_102201-8-11
   - chara:
     - cheek: 0
@@ -158,7 +158,7 @@ story:
     turnChangeOut: fadeOut
     turnEffect: blackPromist
   - nameLeft: ""
-    textLeft: ∵アハ―ふふッ…
+    textLeft: ∵AHA―huhuu...
     voiceFullStop: fullvoice/section_102201/vo_full_102201-8-17
   - chara:
     - cheek: 0
@@ -167,7 +167,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-8-19
     textRight: It's not like I'm trying to give you@to someone else...
-  - textLeft: ∵ニ―ハヒヒ＿￣フフッ
+  - textLeft: ∵KIH―AHEEHEE＿￣HOOHOOH.
     voiceFullStop: fullvoice/section_102201/vo_full_102201-8-19
   - chara:
     - cheek: 0
@@ -181,7 +181,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-8-22
       voiceFullStop: fullvoice/section_102201/vo_full_102201-8-21
     textRight: Even if she takes it off, it's just so she@can examine it.
-  - textLeft: ∵くすっ―ハハ＿ヒヒッ
+  - textLeft: ∵Gwaha―HAHA＿HEEHEEE.
     voiceFullStop: fullvoice/section_102201/vo_full_102201-8-22
   - chara:
     - cheek: 0
@@ -189,7 +189,7 @@ story:
       id: 100101
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-8-24
-    textRight: I see, I'm the one who defeated you,@and so you entrusted your life
+    textRight: I see. I'm the one who defeated you,@and so you entrusted your life
       to me.
   - chara:
     - id: 100101
@@ -228,7 +228,7 @@ story:
       id: 100101
       motion: 401
       voiceFull: fullvoice/section_102201/vo_full_102201-8-27
-    textRight: Ha...
+    textRight: Ah...!
     turnChangeOut: fadeOut
   - bgm: bgm05_event07
     chara:

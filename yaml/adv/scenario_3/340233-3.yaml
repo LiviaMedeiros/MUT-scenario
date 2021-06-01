@@ -223,7 +223,7 @@ story:
   - chara:
     - cheek: 1
       id: 402301
-    textLeft: I am only a servant to Darc... [chara:402301:lipSynch_0][wait:0.5][chara:402301:cheek_1:face_mtn_ex_030.exp.json:motion_001][chara:402301:lipSynch_1]I
+    textLeft: I am only a servant to Tart... [chara:402301:lipSynch_0][wait:0.5][chara:402301:cheek_1:face_mtn_ex_030.exp.json:motion_001][chara:402301:lipSynch_1]I
       mean, to@La Pucelle!
   - chara:
     - cheek: 0

@@ -349,7 +349,7 @@ story:
     bgm: stop
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: Within Darc's dream...
+    narration: Within Tart's dream...
     narrationBg: ""
     narrationCoverOpacity: 50
     narrationEffect: in
@@ -383,9 +383,9 @@ story:
       id: 402100
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Liz
-    textRight: Darc, head to Orléans! You're looking for@the Cathedral of the Holy
+    textRight: Tart, head to Orléans! You're looking for@the Cathedral of the Holy
       Cross.
     turnChangeOut: fadeOut
   - chara:
@@ -399,7 +399,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Yachiyo
-    textLeft: Let's run, Iroha! We'll cover Darc!
+    textLeft: Let's run, Iroha! We'll cover Tart!
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -435,7 +435,7 @@ story:
       id: 402100
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Corbeau!
   - chara:
     - cheek: 0
@@ -455,7 +455,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Liz
-    textRight: We would've been perfectly happy if you@never showed back up.
+    textRight: We would've been perfectly happy if you'd@never shown your face again.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -535,7 +535,7 @@ story:
       lipSynch: 0
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: '...'
   - autoTurnLast: 0.2
     chara:

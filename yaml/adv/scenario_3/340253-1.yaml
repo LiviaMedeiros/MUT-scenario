@@ -11,7 +11,7 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
     turnEffect: sepiaFrame
-  - narration: Allied English Forces Camp
+  - narration: United English Forces Camp
   - autoTurnLast: 1
     bg: bg_adv_20121.jpg
     chara:

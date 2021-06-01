@@ -131,7 +131,7 @@ story:
       motion: 300
       pos: 1
     nameCenter: ""
-    nameLeft: ""
+    nameLeft: Lapin
     textCenter: '...?![flashEffect:flashRed2][bgEffect:shakeLarge][chara:831300:effect_shake][surround:4023A02]'
   - autoTurnLast: 0.1
     chara:
@@ -648,15 +648,15 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     surround: 7202_telepathy
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - chara:
-    - id: 831100
-    nameRight: Pernelle
+    - id: 402900
+    nameRight: Perenelle
     textRight: Elisa, we're now detecting another Fragment@of True History.
     turnChangeOut: fadeOut
   - chara:

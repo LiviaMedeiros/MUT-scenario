@@ -15,7 +15,7 @@ story:
       posX: 0
       posY: 0
     nameNarration: Iroha
-    narration: So the "Monsieur Angel" who@turned Darc into a Magical Girl...
+    narration: So the "Monsieur Angel" who@turned Tart into a Magical Girl...
     narrationBg: narration
     narrationEffect: in
     turnChangeIn: fadeIn
@@ -250,7 +250,7 @@ story:
   - chara:
     - id: 100100
       motion: 200
-    textRight: Then if we help Darc and defeat Corbeau...
+    textRight: Then if we help Tart and defeat Corbeau...
   - chara:
     - id: 100100
     textRight: Everything will go back to normal, right?
@@ -288,7 +288,7 @@ story:
     turnChangeIn: fadeIn
   - bg: bg_adv_narration.jpg
     nameNarration: Qube
-    narration: Darc is the only being in this era who @can stand a chance against
+    narration: Tart is the only being in this era who @can stand a chance against
       her.
     narrationBg: narration
     narrationEffect: in
@@ -308,7 +308,7 @@ story:
       motion: 200
       pos: 2
     narrationEffect: out
-    textLeft: Even for my kind, Darc is a shining beacon@of hope.
+    textLeft: Even for my kind, Tart is a shining beacon@of hope.
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - autoTurnLast: 2

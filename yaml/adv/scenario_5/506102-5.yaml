@@ -29,7 +29,7 @@ story:
       id: 402101
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Liz
     textRight: I'm glad we were able to get them home safe.
     turnChangeIn: fadeIn
@@ -89,7 +89,7 @@ story:
   - chara:
     - id: 402201
       motion: 300
-    textRight: Those little girls... They looked like Darc@and Catherine in their
+    textRight: Those little girls... They looked like Tart@and Catherine in their
       youth.
   - chara:
     - cheek: 0
@@ -114,7 +114,7 @@ story:
       id: 402101
       motion: 300
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: My little sister... She's no longer with us.
   - chara:
     - cheek: 0
@@ -152,7 +152,7 @@ story:
       id: 402201
       motion: 0
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Liz
     narrationEffect: out
     textLeft: Liz...
@@ -182,8 +182,8 @@ story:
       visible: appear
     turnChangeIn: fadeIn
     turnEffect: stop
-  - nameNarration: Darc
-    narration: ―Darc―@I lost my beloved little sister when@my hometown was invaded.
+  - nameNarration: Tart
+    narration: ―Tart―@I lost my beloved little sister when@my hometown was invaded.
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -191,7 +191,7 @@ story:
     narrationLineMargin: 15
     narrationLineSpace: 10
     turnChangeOut: fadeOut
-  - narration: ―Darc―@I don't want such cruelty to@ever happen again, to anyone.
+  - narration: ―Tart―@I don't want such cruelty to@ever happen again, to anyone.
   - autoTurnLast: 0.01
     item:
     - path: resource/scenario/img/51015_singleraid_tart/memoria_1172.jpg
@@ -210,7 +210,7 @@ story:
       id: 100100
       motion: 0
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Iroha
     textLeft: That is why I decided to become a Magical@Girl.
     turnChangeOut: fadeOut
@@ -252,7 +252,7 @@ story:
       id: 402101
       motion: 100
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     surround: stop
     textLeft: I swore to myself that day, in front of@Catherine's grave.
     turnEffect: stop
@@ -274,7 +274,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Yachiyo
-    textRight: So the story of Jeanne d'Arc, or Darc@rather, [chara:100200:lipSynch_0][wait:0.8][chara:100200:motion_201][chara:100200:lipSynch_1]and
+    textRight: So the story of Jeanne d'Arc, or Tart@rather, [chara:100200:lipSynch_0][wait:0.8][chara:100200:motion_201][chara:100200:lipSynch_1]and
       your group...
   - chara:
     - id: 100200
@@ -356,7 +356,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100200
       motion: 0
-    textLeft: I'll tell you later. For now, just listen@to what Darc has to say.
+    textLeft: I'll tell you later. For now, just listen@to what Tart has to say.
   - autoTurnLast: 0.2
     surround: stop
     textClear: 1
@@ -385,7 +385,7 @@ story:
       id: 402101
       motion: 100
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: It all happened while we were fighting to@free Orléans.
     turnEffect: stop
   - bg: bg_adv_20093.jpg
@@ -395,7 +395,7 @@ story:
       id: 402500
       motion: 200
       pos: 1
-    nameNarration: Darc
+    nameNarration: Tart
     narration: A sudden, vast wave of Familiars appeared,@commanded by Corbeau.
     narrationBg: narration
     narrationEffect: in
@@ -413,7 +413,7 @@ story:
       id: 402101
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Liz
     narrationEffect: out
     textRight: That was what turned the tide against us.
@@ -548,7 +548,7 @@ story:
       lipSynch: 0
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '...?[wait:0.8][chara:402101:lipSynch_1] What was that just now?'
   - chara:
     - cheek: 0

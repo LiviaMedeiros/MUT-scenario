@@ -19,9 +19,9 @@ story:
       id: 402100
       motion: 1
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     nameLeft: ""
-    nameRight: ""
+    nameRight: Iroha
     narrationEffect: out
     textBg: shout
     textCenter: Now is when we fight back!
@@ -83,7 +83,7 @@ story:
     - cheek: 0
       face: mtn_ex_014.exp.json
       id: 100200
-    textLeft: Darc is quite popular, I see.
+    textLeft: Tart is quite popular, I see.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -98,7 +98,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 402301
-    textLeft: But that is when Darc shines brightest!
+    textLeft: But that is when Tart shines brightest!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -117,10 +117,10 @@ story:
     textLeft: It reminds me of that day...
   - chara:
     - id: 402301
-    textLeft: The day I first saw Darc with my own eyes.
+    textLeft: The day I first saw Tart with my own eyes.
   - bg: bg_adv_11021.jpg
     nameNarration: Melissa
-    narration: Darc met with Prince Charles,@the successor to the French throne,@for
+    narration: Tart met with Prince Charles,@the successor to the French throne,@for
       the first time.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
@@ -129,7 +129,7 @@ story:
     turnEffect: blackFrame
   - narration: However, he wished to test if she was@as holy as she was said to be,
       so@he had another person sit on the throne.
-  - narration: Seeing this, Darc said...
+  - narration: Seeing this, Tart said...
   - bg: bg_adv_20121.jpg
     chara:
     - cheek: 0
@@ -137,7 +137,7 @@ story:
       id: 402101
       motion: 0
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     narrationEffect: out
     textCenter: This man...
   - chara:
@@ -209,7 +209,7 @@ story:
     nameLeft: Melissa
     nameRight: Iroha
     narrationEffect: out
-    textLeft: That was when Darc earned her name@La Pucelle, "the maiden."
+    textLeft: That was when Tart earned her name@La Pucelle, "the maiden."
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -228,7 +228,7 @@ story:
     textLeft: Yes... That day, when I saw her for the@first time, it was like a miracle.
   - chara:
     - id: 402301
-    textLeft: That is why I travel with Darc and aid her@as her servant.
+    textLeft: That is why I travel with Tart and aid her@as her servant.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -301,7 +301,7 @@ story:
   - chara:
     - id: 402201
       motion: 200
-    textRight: But Darc said once we reach them we will @rekindle the flames of hope
+    textRight: But Tart said once we reach them we will @rekindle the flames of hope
       and fight back!
   - chara:
     - id: 402201
@@ -311,7 +311,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 402201
       motion: 100
-    textRight: I believe it was you two who restored Darc's @faith.
+    textRight: I believe it was you two who restored Tart's @faith.
   - chara:
     - id: 402201
     textRight: So I owe you my gratitude.
@@ -331,7 +331,7 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 402201
-    textRight: I'll take my leave here and go to Darc.
+    textRight: I'll take my leave here and go to Tart.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -348,7 +348,7 @@ story:
       pos: 0
       soulGem: 0
     nameLeft: Melissa
-    textLeft: She always says that it's her job to ensure@Darc's safety.
+    textLeft: She always says that it's her job to ensure@Tart's safety.
   - chara:
     - cheek: 0
       face: mtn_ex_014.exp.json
@@ -369,7 +369,7 @@ story:
   - chara:
     - id: 100100
       motion: 400
-    textRight: Darc is standing at the front of the troops!
+    textRight: Tart is standing at the front of the troops!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -388,9 +388,9 @@ story:
       id: 402100
       motion: 0
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     nameLeft: ""
-    nameRight: ""
+    nameRight: Iroha
     textBg: shout
     textLeft: '[bgEffect:shakeLarge]La Pucelle!@La Pucelle!'
     turnChangeIn: rollInFast

@@ -18,7 +18,7 @@ story:
     - id: 6011
       name: sprite_0
     nameLeft: ""
-    textLeft: ∵ヒヒッ＿ふふっ―!!
+    textLeft: ∵HEHEH＿huhuu―!!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -46,7 +46,7 @@ story:
       id: 100400
       voiceFullStop: fullvoice/section_102101/vo_full_102101-6-3
     textBg: shout
-    textLeft: ∵フッ―ハハハッ!!
+    textLeft: ∵HOO―HAHAHAA!!
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -96,7 +96,7 @@ story:
       posX: -300
       posY: 0
       visible: appear
-    textLeft: '[flashEffect:flashWhiteSlow2]......'
+    textLeft: '[flashEffect:flashWhiteSlow2]...'
   - chara:
     - cheek: 0
       face: mtn_ex_052.exp.json
@@ -134,7 +134,7 @@ story:
   - chara:
     - id: 100300
       voiceFullStop: fullvoice/section_102101/vo_full_102101-6-12
-    textLeft: '[chara:100300:effect_7000_attack01]∵ハッ￣アハッ―フフフッ!!'
+    textLeft: '[chara:100300:effect_7000_attack01]∵HAH￣AHAH―HUHUHOO!!'
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
@@ -157,7 +157,7 @@ story:
     surround: 1015A06
     textClear: 1
     voiceFullStop: fullvoice/section_102101/vo_full_102101-6-15
-  - textLeft: ∵にひ＿イヒッ!?
+  - textLeft: ∵Keehee＿EEHEE?!
   - autoTurnLast: 0.1
     chara:
     - effect: fadeout

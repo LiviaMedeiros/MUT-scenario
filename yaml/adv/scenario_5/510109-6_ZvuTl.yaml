@@ -733,7 +733,7 @@ story:
       id: 402500
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 0
     - id: 810000
@@ -745,14 +745,14 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm01_battle02
     chara:
-    - id: 831100
-    nameLeft: Pernelle
+    - id: 402900
+    nameLeft: Perenelle
     narrationEffect: out
     textLeft: An exceptional one at that.
     turnChangeOut: fadeOut
   - chara:
     - effect: fadeout
-      id: 831100
+      id: 402900
     - effect: fadeout
       id: 810000
     - cheek: 0

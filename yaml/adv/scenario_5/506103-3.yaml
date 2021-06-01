@@ -36,7 +36,7 @@ story:
     textLeft: Well, this is a problem.
   - chara:
     - id: 100200
-    textLeft: I wanted to join up with Darc and the@others first.
+    textLeft: I wanted to join up with Tart and the@others first.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -93,7 +93,7 @@ story:
     turnChangeOut: rollOutFast
   - chara:
     - id: 100200
-    textLeft: Right. Melissa's father, according to what@we know from Darc.
+    textLeft: Right. Melissa's father, according to what@we know from Tart.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -104,7 +104,7 @@ story:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 100200
-    textLeft: The world beyond this Labyrinth must be@Darc's world.
+    textLeft: The world beyond this Labyrinth must be@Tart's world.
   - chara:
     - id: 100200
       motion: 201

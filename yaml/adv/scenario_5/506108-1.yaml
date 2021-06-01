@@ -46,7 +46,7 @@ story:
     textRight: You know...
   - chara:
     - id: 100101
-    textRight: We're always able to safely meet up with@Darc.
+    textRight: We're always able to safely meet up with@Tart.
   - chara:
     - id: 100101
     textRight: But I still have no idea how it works.
@@ -148,7 +148,7 @@ story:
       id: 402101
       motion: 100
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Yes... It's been a whole day now.
   - chara:
     - cheek: 0
@@ -170,7 +170,7 @@ story:
       id: 402101
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Really?!
   - chara:
     - cheek: 0
@@ -226,7 +226,7 @@ story:
   - chara:
     - id: 402101
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Yes! So I don't think there is any reason@to worry.
   - chara:
     - cheek: 0
@@ -273,7 +273,7 @@ story:
       id: 402101
       motion: 100
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Thank you!
   - chara:
     - cheek: 0

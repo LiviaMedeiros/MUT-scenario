@@ -51,7 +51,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402301
-    textRight: Darc is about to formally greet the@townspeople.
+    textRight: Tart is about to formally greet the@townspeople.
   - chara:
     - id: 402301
     textRight: She said she would like the two of you to@come with her!
@@ -79,7 +79,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402301
-    textRight: Darc will stand in the center, brandishing@her banner.
+    textRight: Tart will stand in the center, brandishing@her banner.
   - chara:
     - id: 402301
     textRight: You two need only be present at her side@and smile!
@@ -140,7 +140,7 @@ story:
       id: 402100
       motion: 1
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: Iroha, Yachiyo!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -166,7 +166,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: ""
-    nameRight: Darc
+    nameRight: Tart
     narrationEffect: out
     textLeft: We owe you so much! Please, take this!
     turnChangeIn: fadeIn
@@ -224,7 +224,7 @@ story:
     textRight: There's something more important.
   - chara:
     - id: 100100
-    textRight: Is the banner that Darc's holding...really@appropriate?!
+    textRight: Is the banner that Tart's holding...really@appropriate?!
   - autoTurnLast: 0.01
     item:
     - path: resource/scenario/img/51015_singleraid_tart/memoria_1174.jpg
@@ -262,7 +262,7 @@ story:
       soulGem: 0
     nameLeft: Liz
     nameRight: Melissa
-    textLeft: Darc embroidered this herself, didn’t she?
+    textLeft: Tart embroidered this herself, didn’t she?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -359,7 +359,7 @@ story:
     - id: 100200
       motion: 301
     nameLeft: Yachiyo
-    textLeft: Darc really is the light of hope.
+    textLeft: Tart really is the light of hope.
   - chara:
     - id: 100200
     textLeft: She even made a miracle like this happen.
@@ -369,7 +369,7 @@ story:
       id: 402100
       motion: 0
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Please no, don't be silly!
   - chara:
     - cheek: 0

@@ -40,7 +40,7 @@ story:
       pos: 0
     nameLeft: ???
     nameRight: ???
-    textRight: Phew. All cleaned up, Sis.
+    textRight: Phew. All cleaned up, Big Sis.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -324,7 +324,7 @@ story:
       visible: appear
     nameCenter: ""
     textBg: shout
-    textCenter: '[bgEffect:shakeLarge]∵ガァアアアアッ!!'
+    textCenter: '[bgEffect:shakeLarge]∵GRAaAAAA!!'
   - autoTurnLast: 0.2
     item:
     - path: resource/scenario/img/part2_chapter1/102203_kimochi_aquamarine.png
@@ -437,7 +437,7 @@ story:
       visible: appear
     nameCenter: ""
     textBg: shout
-    textCenter: ∵ウゥゥ！アァアアアッ!!
+    textCenter: ∵Oooh! AAaaaAAAa!!
   - autoTurnLast: 2
     bg: bg_adv_19064.jpg
     bgm: stop

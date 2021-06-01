@@ -18,7 +18,7 @@ story:
     - id: 402100
       motion: 201
     nameLeft: ""
-    nameRight: Darc
+    nameRight: Tart
     textRight: '[flashEffect:flashWhite2][bgEffect:shakeSmall][surround:4021A03]Take
       that!'
     turnChangeOut: fadeOut
@@ -70,7 +70,7 @@ story:
       pos: 0
     nameLeft: Liz
     se: 7205_magic_girl
-    textLeft: Well done, Darc.
+    textLeft: Well done, Tart.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -125,7 +125,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story06
     nameLeft: ""
-    nameRight: Darc
+    nameRight: Tart
     textLeft: The reason we're being attacked?
     turnChangeOut: fadeOut
   - chara:
@@ -164,7 +164,7 @@ story:
   - chara:
     - id: 402101
     nameLeft: Liz
-    nameRight: Darc
+    nameRight: Tart
     textRight: A giant creature that people can't see?[chara:402101:lipSynch_0][wait:0.8][chara:402101:cheek_0][chara:402101:face_mtn_ex_030.exp.json][chara:402101:lipSynch_1]@Liz...
     turnChangeOut: fadeOut
   - chara:

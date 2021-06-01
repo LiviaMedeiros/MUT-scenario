@@ -14,7 +14,7 @@ story:
       id: 402201
       motion: 0
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: I'm positive this is Domrémy!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -32,7 +32,7 @@ story:
     textLeft: But there's no denying that it is.
   - chara:
     - id: 810000
-    textLeft: That building is the church that Darc and@her younger sister, Catherine,
+    textLeft: That building is the church that Tart and@her younger sister, Catherine,
       attended.
   - chara:
     - id: 810000
@@ -47,7 +47,7 @@ story:
   - chara:
     - cheek: 0
       id: 402201
-    textRight: I did live here for three years with Darc@and Catherine.
+    textRight: I did live here for three years with Tart@and Catherine.
   - nameNarration: Liz
     narration: Catherine...
     narrationBg: bg_adv_narration.jpg
@@ -65,7 +65,7 @@ story:
       id: 402101
       motion: 0
       pos: 0
-    narration: Darc's younger sister.@She's no longer with us.
+    narration: Tart's younger sister.@She's no longer with us.
   - narration: She was a cute, energetic little girl...@We were unable to protect
       her.
   - chara:
@@ -107,7 +107,7 @@ story:
   - chara:
     - id: 402101
       motion: 100
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Yes... I noticed that, too.
   - chara:
     - id: 402101
@@ -148,7 +148,7 @@ story:
     turnChangeIn: rollInFast
   - chara:
     - id: 402101
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Here we are!
     turnChangeOut: rollOutFast
     turnChangeOutTime: 0.5
@@ -261,7 +261,7 @@ story:
       pos: 1
       soulGem: 0
     nameNarration: Liz
-    narration: This is around the time I first met Darc.
+    narration: This is around the time I first met Tart.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeIn: fadeIn
@@ -272,7 +272,7 @@ story:
     chara:
     - id: 402101
       lipSynch: 0
-    nameCenter: Darc
+    nameCenter: Tart
     narrationEffect: out
     textCenter: '...'
   - chara:
@@ -334,7 +334,7 @@ story:
       motion: 0
       pos: 2
       soulGem: 0
-    textLeft: How adorable.
+    textLeft: '...She’s very cute.'
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -343,13 +343,13 @@ story:
       id: 402101
       motion: 100
       soulGem: 0
-    nameRight: Darc
-    textRight: Yes!
+    nameRight: Tart
+    textRight: 'She is! '
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402101
-    textRight: She can be a bit crazy sometimes, but she's@my precious little sister.
+    textRight: She may be a bit of a tomboy, but@she's my dearest little sister.
   - nameNarration: Liz
     narration: I don't want to see any more!
     narrationBg: bg_adv_narration.jpg
@@ -357,7 +357,7 @@ story:
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: stop
-  - narration: Because those peaceful days@that I spent with Darc and Catherine...
+  - narration: Because those peaceful days@that I spent with Tart and Catherine...
   - bgm: stop
     narration: They came to a very abrupt end.
     narrationBg: black

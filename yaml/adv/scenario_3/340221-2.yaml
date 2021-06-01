@@ -27,7 +27,7 @@ story:
   - chara:
     - id: 402101
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Where are Melissa and the rest of the French@army?
   - chara:
     - id: 402201
@@ -64,7 +64,7 @@ story:
       id: 402101
       motion: 100
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Okay!
   - autoTurnLast: 0.5
     chara:
@@ -88,7 +88,7 @@ story:
   - chara:
     - id: 402101
       motion: 300
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: But we've yet to see anyone...
   - chara:
     - cheek: 0
@@ -199,7 +199,7 @@ story:
       lipSynch: 0
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '...?!'
   - chara:
     - id: 402101

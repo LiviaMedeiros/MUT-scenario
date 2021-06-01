@@ -12,7 +12,7 @@ story:
     turnChangeIn: fadeIn
   - bg: bg_adv_20231.jpg
     nameNarration: ""
-    narration: Darc had regained hope.
+    narration: Tart had regained hope.
     narrationEffect: in
     turnChangeOut: fadeOut
     turnEffect: sepiaFrame
@@ -55,7 +55,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Yachiyo
-    textLeft: Everything you did was to save Darc.
+    textLeft: Everything you did was to save Tart.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -136,7 +136,7 @@ story:
       id: 402101
       motion: 201
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Yes. We also don't know Corbeau's@whereabouts.
   - chara:
     - id: 402101
@@ -158,7 +158,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100200
-    textLeft: Once you ring the bell, Darc...
+    textLeft: Once you ring the bell, Tart...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -224,7 +224,7 @@ story:
       id: 402101
       motion: 0
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: I guess this will be farewell.
   - chara:
     - id: 402101
@@ -290,7 +290,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 402101
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: Your answer told me all I needed to know.
     turnChangeOut: fadeOut
   - chara:
@@ -311,7 +311,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Iroha
-    nameRight: Darc
+    nameRight: Tart
     textLeft: Yes!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -358,7 +358,7 @@ story:
       id: 402100
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Yes.
   - chara:
     - cheek: 0

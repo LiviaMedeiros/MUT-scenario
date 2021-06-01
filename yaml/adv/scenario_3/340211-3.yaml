@@ -13,7 +13,7 @@ story:
     bgm: bgm01_battle04
     chara:
     - id: 402100
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: That fortress is [chara:402100:lipSynch_0][wait:1.0][chara:402100:motion_201][chara:402100:lipSynch_1]the
       one under attack!
     turnChangeOut: fadeOut
@@ -59,7 +59,7 @@ story:
       id: 402200
       motion: 0
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Liz
     textRight: There are even more of them than I imagined!
   - chara:
@@ -94,7 +94,7 @@ story:
   - chara:
     - id: 402200
       motion: 100
-    textRight: Cut through the hordes, Darc. I'll cover@you from behind.
+    textRight: Cut through the hordes, Tart. I'll cover@you from behind.
   - chara:
     - id: 402100
       motion: 201
@@ -141,7 +141,7 @@ story:
       id: 402100
       motion: 0
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: Well, then...
   - chara:
     - id: 402100
@@ -186,7 +186,7 @@ story:
       pos: 2
     turnChangeIn: rollInFast
   - nameLeft: ""
-    nameRight: Darc
+    nameRight: Tart
     textBg: shout
     textLeft: БЯЯЯЯЯяЯЯЯ!!!!!
     turnChangeOut: rollOutFast

@@ -123,7 +123,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-18-14
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-13
     nameRight: ???
-    textRight: What's our next move though, Big Sis?
+    textRight: What's our next move though, Sis?
   - chara:
     - eyeClose: 1
       id: 102101
@@ -171,7 +171,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-18-20
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-19
     nameRight: ???
-    textRight: Eeh...fighting together with Sis?
+    textRight: Eeh...fighting together with Big Sis?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

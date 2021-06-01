@@ -96,7 +96,7 @@ story:
     - id: 111600
       lipSynch: 0
     nameLeft: Kanagi
-    textLeft: '.....Hu...'
+    textLeft: '.....[wait:1.0][chara:111600:cheek_0][chara:111600:face_mtn_ex_010.exp.json][chara:111600:lipSynch_1]Hu...'
   - chara:
     - cheek: 1
       eyeClose: 1
@@ -273,7 +273,7 @@ story:
     - id: 111600
       motion: 400
     nameLeft: Kanagi
-    textLeft: Well then...!!
+    textLeft: '[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:]Well then...!!'
   - autoTurnLast: 1
     bgEffect: shakeLarge
     bgm: stop

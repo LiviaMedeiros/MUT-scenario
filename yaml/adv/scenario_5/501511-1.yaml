@@ -26,7 +26,7 @@ story:
     textLeft: 'In short... '
   - chara:
     - id: 100200
-    textLeft: If we rescue Darc and let her know that@Liz is safe...
+    textLeft: If we rescue Tart and let her know that@Liz is safe...
   - chara:
     - id: 100200
       motion: 100
@@ -42,7 +42,7 @@ story:
       pos: 0
       soulGem: 0
     nameLeft: Melissa
-    textLeft: I know it's hard to believe that we are all@inside of Darc's dream.
+    textLeft: I know it's hard to believe that we are all@inside of Tart's dream.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -93,7 +93,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Yachiyo
-    textLeft: Do you know where Darc is being held?
+    textLeft: Do you know where Tart is being held?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -162,7 +162,7 @@ story:
     textRight: Everyone...
   - chara:
     - id: 402301
-    textRight: They're doing this all for Darc! I'm so@moved!
+    textRight: They're doing this all for Tart! I'm so@moved!
   - chara:
     - cheek: 0
       face: mtn_ex_014.exp.json

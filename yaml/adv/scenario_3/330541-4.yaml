@@ -236,7 +236,7 @@ story:
       pos: 2
     nameRight: Mitsune
     textBg: shout
-    textRight: I'm a herooooo!
+    textRight: '[chara:6103:effect_7001_attack02][surround:3054A01]I''m a herooooo!'
   - chara:
     - id: 6103
       name: sprite_0

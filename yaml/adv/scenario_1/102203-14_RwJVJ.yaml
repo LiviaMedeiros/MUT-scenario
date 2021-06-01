@@ -18,14 +18,14 @@ story:
     turnChangeIn: fadeIn
   - nameLeft: ""
     textBg: shout
-    textLeft: ∵ウゥ、グ、ヌァアアアッ!!
+    textLeft: ∵Urgh-GUH-nraAAAAAH!!
     turnChangeOut: fadeOut
   - chara:
     - id: 102400
       voiceFull: fullvoice/section_102203/vo_full_102203-14-2
     nameLeft: ???
     nameRight: ???
-    textRight: Your anger is just lukewarm compared to Big Sis.
+    textRight: Your anger is just lukewarm compared to Sis.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -91,7 +91,7 @@ story:
     nameLeft: ""
     nameRight: ???
     textBg: shout
-    textLeft: ∵ガァアアアッ!!
+    textLeft: GaaAAAa!!
   - chara:
     - id: 102400
       motion: 100

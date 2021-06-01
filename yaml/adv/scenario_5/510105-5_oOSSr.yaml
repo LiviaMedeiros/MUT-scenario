@@ -66,13 +66,13 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
-    nameRight: Pernelle
+    nameRight: Perenelle
     textRight: We should prepare ourselves for such a@possibility again.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: When a temporal distortion is fixed, a new@fragment could appear somewhere
       else.
   - autoTurnLast: 0.01

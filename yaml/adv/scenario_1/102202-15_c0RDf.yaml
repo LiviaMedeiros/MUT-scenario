@@ -165,7 +165,7 @@ story:
       posY: 0
       visible: appear
     nameCenter: ""
-    textCenter: ∵へ～￣ハイ＿ええ
+    textCenter: ∵Mm～￣YEP＿uhuh
   - autoTurnLast: 0.5
     item:
     - path: resource/scenario/img/part2_chapter1/102202_kimochi_ruby.png

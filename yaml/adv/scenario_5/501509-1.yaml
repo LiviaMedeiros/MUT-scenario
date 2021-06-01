@@ -83,7 +83,7 @@ story:
     textRight: Good idea.
   - chara:
     - id: 100101
-    textRight: Is there anything in Kamihama that isn't@in Darc's world?
+    textRight: Is there anything in Kamihama that isn't@in Tart's world?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -106,7 +106,7 @@ story:
     textLeft: It seems Qube and the others were dragged@into the dream without a choice.
   - chara:
     - id: 100201
-    textLeft: But we can enter Darc's dream of our own@volition.
+    textLeft: But we can enter Tart's dream of our own@volition.
   - chara:
     - id: 100201
       motion: 100
@@ -181,7 +181,7 @@ story:
     turnEffect: stop
   - chara:
     - id: 100101
-    textRight: Are they somehow connected to Darc?
+    textRight: Are they somehow connected to Tart?
   - chara:
     - id: 100201
       motion: 201

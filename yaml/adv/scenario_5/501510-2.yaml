@@ -123,7 +123,7 @@ story:
       posX: -50
       posY: 0
     nameLeft: Qube
-    textLeft: Hey, Pernelle. It's been a while!
+    textLeft: Hey, Perenelle. It's been a while!
   - chara:
     - id: 810000
     textLeft: Why aren't you showing yourself?
@@ -167,10 +167,10 @@ story:
       id: 100100
       motion: 0
     narrationEffect: out
-    textRight: Pernelle!
+    textRight: Perenelle!
   - chara:
     - id: 100100
-    textRight: We want to wake Darc up from this dream.
+    textRight: We want to wake Tart up from this dream.
   - chara:
     - id: 100100
       motion: 400
@@ -179,7 +179,7 @@ story:
     narration: According to the grimoire...
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
-  - narration: Before Darc was put into a magical sleep,@she heard a certain church
+  - narration: Before Tart was put into a magical sleep,@she heard a certain church
       bell ring out.
   - narration: For the maiden to awaken, she must ring@that same bell herself within
       the dream.
@@ -191,7 +191,7 @@ story:
     narrationEffect: out
     textRight: At the same church? Where is that?
   - nameNarration: Perenelle
-    narration: In the real world, Darc was within the@city of Orléans, fighting to
+    narration: In the real world, Tart was within the@city of Orléans, fighting to
       liberate it,@when she fell into a slumber.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
@@ -206,7 +206,7 @@ story:
       soulGem: 0
     nameLeft: Melissa
     narrationEffect: out
-    textLeft: Iroha, Yachiyo!
+    textLeft: Iroha! Yachiyo!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -217,7 +217,7 @@ story:
     textRight: Yes, that's all we needed.
   - chara:
     - id: 100200
-    textRight: If we free Darc and have her ring the bell...
+    textRight: If we free Tart and have her ring the bell...
   - chara:
     - id: 100200
       motion: 201
@@ -246,7 +246,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 100100
       motion: 301
-    textRight: We're stuck in an endless night because Darc@has fallen into despair.
+    textRight: We're stuck in an endless night because Tart@has fallen into despair.
   - chara:
     - id: 100100
     textRight: Even if she wakes up from her dream,@without Liz―

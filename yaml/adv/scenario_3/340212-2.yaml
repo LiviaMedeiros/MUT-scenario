@@ -18,7 +18,7 @@ story:
     bgm: stop
     chara:
     - id: 402101
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Liz
     surround: 7003_wind
     textLeft: Huh?
@@ -26,7 +26,7 @@ story:
   - chara:
     - id: 402201
       motion: 1
-    textRight: Is something wrong, Darc?
+    textRight: Is something wrong, Tart?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -61,7 +61,7 @@ story:
     turnChangeIn: rollInFast
   - chara:
     - id: 402101
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: ""
     textLeft: What?!
     turnChangeOut: rollOutFast
@@ -122,7 +122,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 402100
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Liz
     textLeft: We made it to the fortress...
     turnChangeOut: fadeOut

@@ -40,7 +40,7 @@ story:
       id: 402201
       motion: 1
     - id: 810000
-    textLeft: Is Darc still unconscious?
+    textLeft: Is Tart still unconscious?
   - chara:
     - id: 810000
     nameRight: Qube
@@ -58,7 +58,7 @@ story:
   - chara:
     - id: 402101
       lipSynch: 0
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: '...'
     turnChangeOut: rollOutFast
   - autoTurnLast: 1
@@ -89,7 +89,7 @@ story:
   - chara:
     - cheek: 0
       id: 402201
-    textLeft: From before I met Darc. From when you and I@were traveling together.
+    textLeft: From before I met Tart. From when you and I@were traveling together.
   - chara:
     - id: 810000
     textRight: I see.
@@ -130,7 +130,7 @@ story:
   - chara:
     - id: 810000
     textRight: It was your very existence that helped give@rise to the strongest Magical
-      Girl, Darc.
+      Girl, Tart.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -147,7 +147,7 @@ story:
     - id: 810000
     - id: 402201
     textRight: But if you contributed to the rise of the@extraordinary being that
-      is Darc...
+      is Tart...
   - chara:
     - id: 810000
     textRight: The other girls' sacrifices were not in vain.

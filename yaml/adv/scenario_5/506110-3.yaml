@@ -159,10 +159,10 @@ story:
     textLeft: Everything is clear now!
   - chara:
     - id: 810000
-    textLeft: Liz was the first to know that this was@Darc's dream.
+    textLeft: Liz was the first to know that this was@Tart's dream.
   - chara:
     - id: 810000
-    textLeft: She worked with Pernelle to try and save@her.
+    textLeft: She worked with Perenelle to try and save@her.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -262,13 +262,13 @@ story:
     textRight: So, in other words...
   - chara:
     - id: 100100
-    textRight: We had been heading toward Darc's light so@we'd keep going in the right
+    textRight: We had been heading toward Tart's light so@we'd keep going in the right
       direction.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100100
-    textRight: But then Darc, the one who was dreaming,@lost hope...
+    textRight: But then Tart, the one who was dreaming,@lost hope...
   - chara:
     - id: 100100
       motion: 0
@@ -280,7 +280,7 @@ story:
     textLeft: Exactly.
   - chara:
     - id: 100200
-    textLeft: So to help Liz, we should save Darc first.
+    textLeft: So to help Liz, we should save Tart first.
   - chara:
     - id: 100200
     textLeft: We need to let her know that Liz is alive.
@@ -297,7 +297,7 @@ story:
       posX: -50
       posY: 0
     nameLeft: Qube
-    textLeft: Does that sound like it could work,@Pernelle?
+    textLeft: Does that sound like it could work,@Perenelle?
   - nameNarration: Perenelle
     narration: Yes! Please save La Pucelle and Liz.
     narrationBg: bg_adv_narration.jpg
@@ -312,7 +312,7 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameNarration: Perenelle
-    narration: ―Pernelle―@If you see Darc, please give this to her.
+    narration: ―Perenelle―@If you see Tart, please give this to her.
     narrationAnchor: bottom
     narrationBg: narration
     narrationCoverOpacity: 110
@@ -321,8 +321,8 @@ story:
     narrationLineMargin: 35
     narrationLineSpace: 20
     turnChangeOut: fadeOut
-  - narration: ―Pernelle―@If she lifts this sword, the light of hope@that guides Liz
-      will shine even brighter.
+  - narration: ―Perenelle―@If she lifts this sword, the light of hope@that guides
+      Liz will shine even brighter.
   - autoTurnLast: 0.01
     item:
     - path: resource/scenario/img/51015_singleraid_tart/memoria_1170.jpg

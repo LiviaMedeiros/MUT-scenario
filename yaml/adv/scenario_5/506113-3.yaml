@@ -14,7 +14,7 @@ story:
       id: 402100
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Liz
     textRight: '[flashEffect:flashRed2][surround:4025A03][chara:402200:effect_shake][bgEffect:shakeLarge]Nngh!'
     turnChangeIn: fadeIn
@@ -35,7 +35,7 @@ story:
   - chara:
     - id: 402200
       motion: 0
-    textRight: Darc...
+    textRight: Tart...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -136,7 +136,7 @@ story:
     surround: 4025A07
     turnChangeIn: whiteIn
   - nameNarration: Melissa
-    narration: ―Melissa―@Darc...
+    narration: ―Melissa―@Tart...
     narrationAnchor: bottom
     narrationBg: narration
     narrationCoverOpacity: 110
@@ -145,8 +145,8 @@ story:
     narrationLineMargin: 35
     narrationLineSpace: 20
     turnChangeOut: whiteOut
-  - nameNarration: Darc
-    narration: ―Darc―@I'm glad you're safe...
+  - nameNarration: Tart
+    narration: ―Tart―@I'm glad you're safe...
   - autoTurnLast: 0.01
     item:
     - path: resource/scenario/img/51015_singleraid_tart/memoria_1175.jpg
@@ -163,10 +163,10 @@ story:
     turnEffect: sepiaFrame
   - narration: Hope had disappeared.
   - nameNarration: Melissa
-    narration: '"Darc!!!"'
+    narration: '"Tart!!!"'
     narrationBg: black
     turnEffect: stop
-  - narration: '"At this rate, both Darc and Father will..."'
+  - narration: '"At this rate, both Tart and Father will..."'
   - bg: bg_adv_20111.jpg
     chara:
     - cheek: 0
@@ -182,7 +182,7 @@ story:
     nameLeft: Corbeau
     nameRight: Liz
     narrationEffect: out
-    textRight: Darc...
+    textRight: Tart...
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -219,10 +219,10 @@ story:
       id: 402100
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Liz
     narrationEffect: out
-    textRight: Darc!
+    textRight: Tart!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: stop
@@ -250,7 +250,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Melissa
-    textRight: Because I believe that whatever path@Darc goes down...
+    textRight: Because I believe that whatever path@Tart goes down...
   - chara:
     - id: 402300
       motion: 400
@@ -261,7 +261,7 @@ story:
       id: 402100
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Melissa, Liz, there are more enemies!
   - chara:
     - cheek: 0

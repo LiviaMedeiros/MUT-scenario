@@ -133,7 +133,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     - cheek: 0
@@ -144,12 +144,12 @@ story:
     textRight: I'd thought it impossible for Familiars from@France to infiltrate the
       Order's stronghold.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: What could have set such an advanced trap as@that...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831100
+      id: 402900
     textRight: You did well to discover it, my lady.
   - chara:
     - cheek: 0
@@ -180,8 +180,8 @@ story:
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 831100
+      face: mtn_ex_041.exp.json
+      id: 402900
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
@@ -209,7 +209,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 402601
       motion: 200
-    textLeft: I've got it, Pernelle! I know the truth@behind what's going on.
+    textLeft: I've got it, Perenelle! I know the truth@behind what's going on.
   - autoTurnLast: 0.01
     bg: bg_adv_20101.jpg
     chara:
@@ -219,14 +219,14 @@ story:
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 831100
+      face: mtn_ex_041.exp.json
+      id: 402900
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
     turnEffect: stop
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: Ah ha... That's what you meant.
     turnChangeOut: fadeOut
   - chara:
@@ -275,7 +275,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 0
     nameLeft: Perenelle
@@ -283,7 +283,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
     textLeft: Could someone have lured them here all the@way from France?
   - chara:
     - cheek: 0
@@ -525,7 +525,7 @@ story:
     narrationCoverOpacity: 50
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: Orléans Outskirts - Fort Tourelles
+  - narration: Orléans Outskirts - Tourelles Fortress
   - autoTurnLast: 0.01
     bg: bg_adv_20111.jpg
     chara:
@@ -548,13 +548,13 @@ story:
     turnEffect: blackPromist
   - chara:
     - id: 402600
-    textCenter: That must be her...
+    textCenter: So she is La Pucelle.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 402600
       motion: 100
-    textCenter: '"La Pucelle"...isn''t it.'
+    textCenter: She's the maiden from the rumors we've@heard.
   - autoTurnFirst: 3.7
     bg: bg_adv_narration.jpg
     bgm: stop

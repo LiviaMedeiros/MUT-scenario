@@ -44,7 +44,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100101
-    textRight: Darc's wish came true.
+    textRight: Tart's wish came true.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -169,7 +169,7 @@ story:
       motion: 0
       pos: 0
     narrationEffect: out
-    textLeft: Darc must've remembered what happened@in the dream.
+    textLeft: Tart must've remembered what happened@in the dream.
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -194,7 +194,7 @@ story:
     turnEffect: blackFrame
   - chara:
     - id: 402100
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: Iroha
     textLeft: And I will never...
   - chara:
@@ -205,7 +205,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 100100
       motion: 301
-    textRight: I'll never forget you either, Darc!
+    textRight: I'll never forget you either, Tart!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -398,7 +398,7 @@ story:
     textRight: Um, so...
   - chara:
     - id: 100101
-    textRight: The spell we shared became widespread@in Darc's era.
+    textRight: The spell we shared became widespread@in Tart's era.
   - chara:
     - id: 100101
     textRight: And that's how Mitama learned of it, and@then she was the one to teach
@@ -555,7 +555,7 @@ story:
       visible: hide
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: FIN
+    narration: La Fin.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

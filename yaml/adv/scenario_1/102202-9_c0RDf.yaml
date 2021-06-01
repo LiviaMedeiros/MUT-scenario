@@ -160,7 +160,7 @@ story:
     - id: 100701
       voiceFull: fullvoice/section_102202/vo_full_102202-9-18
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-17
-    textRight: Sorry about that, Bis Sis.
+    textRight: Sorry about that, Big Sis.
   - chara:
     - id: 100101
       motion: 200

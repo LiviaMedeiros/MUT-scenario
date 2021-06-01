@@ -58,7 +58,7 @@ story:
       id: 402100
       motion: 0
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: All I really did was carry the banner.
   - chara:
     - cheek: 0
@@ -76,7 +76,7 @@ story:
       id: 801200
       motion: 0
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     nameRight: ""
     textRight: Hey, hey! Mademoiselle Pucelle!
   - chara:
@@ -161,7 +161,7 @@ story:
     textLeft: Even if what we're seeing now isn't@true...
   - chara:
     - id: 402200
-    textLeft: Darc herself is very, very real.
+    textLeft: Tart herself is very, very real.
   - bgm: stop
     chara:
     - cheek: 0
@@ -292,7 +292,7 @@ story:
     textRight: It's because of what you told us...
   - chara:
     - id: 100200
-    textRight: '...that we decided to join Darc''s fight.'
+    textRight: '...that we decided to join Tart''s fight.'
   - chara:
     - id: 100200
       motion: 100
@@ -356,7 +356,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402200
-    textLeft: You, more than anyone, were able to get@Darc back on her feet.
+    textLeft: You, more than anyone, were able to get@Tart back on her feet.
   - bg: bg_adv_20092.jpg
     chara:
     - cheek: 0
@@ -384,14 +384,14 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 402101
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: Your answer told me all I needed to know.
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 0
       id: 402101
       motion: 201
-    textCenter: It sounds as though the future has hope@indeed!
+    textCenter: It sounds as though there is hope for the@future indeed!
   - bg: bg_adv_20091.jpg
     chara:
     - cheek: 0
@@ -429,7 +429,7 @@ story:
     textLeft: If anything happens to me and you need@someone to help you...
   - chara:
     - id: 402200
-    textLeft: Remember Darc's little sister, Catherine.
+    textLeft: Remember Tart's little sister, Catherine.
   - chara:
     - id: 402200
     textLeft: Go to the church that shares her name and@offer your prayers.

@@ -31,7 +31,7 @@ story:
       id: 402100
       motion: 100
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: It's because we recaptured the fortress!
   - chara:
     - cheek: 0
@@ -73,7 +73,7 @@ story:
       id: 402100
       motion: 0
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Ah, yes, monsieur!
   - chara:
     - id: 830100
@@ -100,7 +100,7 @@ story:
       id: 402100
       motion: 100
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Gilles de Rais' speech is starting!
   - nameNarration: Gilles
     narration: Listen! Everyone!

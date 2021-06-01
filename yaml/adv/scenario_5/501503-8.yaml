@@ -15,7 +15,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Liz
-    nameRight: Darc
+    nameRight: Tart
     textRight: What?
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -89,7 +89,7 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 402201
-    textLeft: How about you, Darc?
+    textLeft: How about you, Tart?
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -97,7 +97,7 @@ story:
       id: 402101
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: I...
   - chara:
     - id: 402101
@@ -109,7 +109,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 402101
       motion: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Iroha, Yachiyo.
   - chara:
     - cheek: 0
@@ -307,14 +307,14 @@ story:
       motion: 100
       pos: 0
     nameLeft: Liz
-    textLeft: Darc!
+    textLeft: Tart!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 402101
       motion: 0
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Let us fight as one!
   - chara:
     - id: 402101

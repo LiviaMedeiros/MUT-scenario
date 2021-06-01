@@ -59,13 +59,13 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     nameLeft: Elisa
     textLeft: And here it is.
   - chara:
-    - id: 831100
+    - id: 402900
     nameRight: Perenelle
     textRight: Ah... The rumored phantom knights.
   - chara:

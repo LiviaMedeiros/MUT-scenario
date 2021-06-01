@@ -535,7 +535,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 0
     - id: 810000
@@ -546,8 +546,8 @@ story:
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - chara:
-    - id: 831100
-    nameLeft: Pernelle
+    - id: 402900
+    nameLeft: Perenelle
     textLeft: I think that could be...
     turnChangeOut: fadeOut
   - nameRight: Qube

@@ -266,7 +266,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-13-29
       voiceFullStop: fullvoice/section_102204/vo_full_102204-13-28
     nameLeft: Yozuru
-    textLeft: My name is [textRed:Yozuru Sasame.].
+    textLeft: My name is [textRed:Yozuru Sasame].
   - chara:
     - id: 104000
       voiceFull: fullvoice/section_102204/vo_full_102204-13-30

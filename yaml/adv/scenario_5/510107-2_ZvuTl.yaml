@@ -76,7 +76,7 @@ story:
       id: 101503
       motion: 200
     nameRight: Ui
-    textRight: You found it so fast! Pernelle was right.
+    textRight: You found it so fast! Perenelle was right.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

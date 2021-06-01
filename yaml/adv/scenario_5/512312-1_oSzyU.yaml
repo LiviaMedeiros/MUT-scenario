@@ -35,7 +35,7 @@ story:
       live2dName: live2d_1
     nameLeft: Tsubaki
     textBg: shout
-    textLeft: Haaah!!
+    textLeft: '[surround:4036A04]Haaah!!'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0

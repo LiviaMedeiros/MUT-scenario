@@ -79,7 +79,7 @@ story:
       id: 100401
       motion: 1
       pos: 2
-    nameLeft: Felicia?
+    nameLeft: Felicia
     nameRight: Sana
     textLeft: Huh? A dream about a war? The heck're@ya talkin' about?
     turnChangeIn: fadeIn
@@ -246,7 +246,7 @@ story:
     - id: 100201
     textLeft: Well...
   - nameNarration: Yachiyo
-    narration: The name people kept calling Darc,@"La Pucelle"...
+    narration: The name people kept calling Tart,@"La Pucelle"...
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
   - narration: That was a name given to Jeanne d'Arc,@savior of the French people.
@@ -431,7 +431,7 @@ story:
   - chara:
     - id: 100100
       motion: 200
-    textRight: I mean, Darc?
+    textRight: I mean, Tart?
   - chara:
     - id: 100200
       motion: 201

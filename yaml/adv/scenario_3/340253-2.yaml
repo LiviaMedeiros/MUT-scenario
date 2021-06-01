@@ -44,7 +44,7 @@ story:
       id: 402100
       motion: 200
     flashEffect: flashRed2
-    nameRight: Darc
+    nameRight: Tart
     surround: 4025A07
     textRight: Waaaaaagh!
   - autoTurnLast: 0.5
@@ -62,14 +62,14 @@ story:
       mouthOpen: 1
       pos: 2
     nameRight: Yachiyo
-    textRight: Darc!
+    textRight: Tart!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402100
       motion: 201
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: No need for concern! All she managed to do@was throw me back!
   - chara:
     - cheek: 0
@@ -103,7 +103,7 @@ story:
       lipSynch: 0
       motion: 0
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: '...?'
   - chara:
     - id: 402500
@@ -184,7 +184,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Liz
-    textLeft: Darc, you must return to the troops! They're@struggling against the
+    textLeft: Tart, you must return to the troops!@They're struggling against the
       Familiars.
   - chara:
     - id: 402200
@@ -249,7 +249,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 402200
-    textRight: You'll pay for what you did to Darc!
+    textRight: You'll pay for what you did to Tart!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

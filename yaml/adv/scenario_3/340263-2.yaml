@@ -32,7 +32,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     turnChangeIn: rollInFast
@@ -48,7 +48,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
     nameRight: Perenelle
     textRight: Yes, but...there are quite a few suspects.
   - chara:
@@ -85,7 +85,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
@@ -116,7 +116,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     narrationEffect: out
@@ -153,19 +153,19 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
   - chara:
-    - id: 831100
+    - id: 402900
     narrationEffect: out
     textRight: Yes, the phantom knights that attacked you.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
     textRight: Some say it's suspicious that she knew of@them beforehand.
   - chara:
     - id: 402601
@@ -215,7 +215,7 @@ story:
     - id: 402601
       motion: 200
     textCenter: For that I shall make use of this magical@weapon crafted by the alchemist
-      Pernelle.
+      Perenelle.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

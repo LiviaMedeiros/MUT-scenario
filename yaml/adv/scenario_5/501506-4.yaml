@@ -437,7 +437,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 100100
-    textCenter: I just remembered, where's Darc?!
+    textCenter: I just remembered, where's Tart?!
   - autoTurnLast: 0.2
     chara:
     - id: 100100
@@ -451,7 +451,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Iroha
-    nameRight: Darc
+    nameRight: Tart
     textRight: Iroha! Yachiyo!
   - chara:
     - id: 402101
@@ -465,7 +465,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100100
       motion: 400
-    textLeft: '[chara:100100:effect_emotion_surprise_0][se:7226_shock]Darc?!'
+    textLeft: '[chara:100100:effect_emotion_surprise_0][se:7226_shock]Tart?!'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -522,7 +522,7 @@ story:
       id: 402101
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Mademoiselle Irohaaa... *Snore*
   - chara:
     - id: 810000

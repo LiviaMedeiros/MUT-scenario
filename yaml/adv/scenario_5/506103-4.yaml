@@ -110,7 +110,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100200
-    textLeft: Perhaps you could come with us to search@for Darc?
+    textLeft: Perhaps you could come with us to search@for Tart?
   - chara:
     - id: 830000
     textRight: I'm afraid I cannot. My soldiers are waiting@for me!
@@ -178,7 +178,7 @@ story:
     textLeft: Ah, speaking of which.
   - chara:
     - id: 100200
-    textLeft: The first time we came here, and the time@after that, we met Darc right
+    textLeft: The first time we came here, and the time@after that, we met Tart right
       away.
   - chara:
     - cheek: 0
@@ -186,7 +186,7 @@ story:
       id: 100200
       lipSynch: 0
       motion: 300
-    nameCenter: Yachiyo
+    nameCenter: ""
     textLeft: (Hmmm.)
     turnEffect: thinking
   - chara:

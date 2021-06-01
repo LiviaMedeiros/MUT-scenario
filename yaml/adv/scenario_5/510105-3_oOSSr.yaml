@@ -60,15 +60,15 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     surround: 7202_telepathy
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - chara:
-    - id: 831100
-    nameRight: Pernelle
+    - id: 402900
+    nameRight: Perenelle
     textRight: That fragment should be right in front of@you.
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01

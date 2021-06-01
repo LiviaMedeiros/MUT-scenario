@@ -371,7 +371,7 @@ story:
       pos: 0
     nameLeft: ???
     nameRight: ???
-    textRight: Looks like we reeled in more than@we were expecting, Sis...
+    textRight: Looks like we reeled in more than@we were expecting, Big Sis...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

@@ -246,34 +246,34 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     - eyeClose: 0
       id: 402601
       motion: 1
     nameLeft: Elisa
-    textLeft: Pernelle.
+    textLeft: Perenelle.
   - chara:
-    - id: 831100
+    - id: 402900
     nameRight: Perenelle
     textRight: Yes, Lady Elisa?
   - chara:
     - id: 402601
     textLeft: I have called on you to join me on my@mission.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: Yes, my lady.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: Phantom knights...
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: As an investigator of the unknown, the@rumors captured my interest.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 831100
+      id: 402900
     textRight: I am grateful to accompany you.
   - chara:
     - eyeClose: 1
@@ -294,7 +294,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     - cheek: 0
@@ -343,7 +343,7 @@ story:
     textLeft: If you utter one more word without my@permission...
   - chara:
     - id: 402601
-    textLeft: I shall use one of Pernelle's special@firearms to roast you without
+    textLeft: I shall use one of Perenelle's special@firearms to roast you without
       mercy.
   - chara:
     - id: 810000
@@ -362,13 +362,13 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     nameRight: Perenelle
     textRight: Lady Elisa.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: Did you always show such animosity toward@Qube?
   - chara:
     - cheek: 0
@@ -395,7 +395,7 @@ story:
     - effect: fadeout
       id: 402601
     - effect: fadeout
-      id: 831100
+      id: 402900
     textClear: 1
   - bgm: bgm01_anime16
     chara:

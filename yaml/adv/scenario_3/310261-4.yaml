@@ -391,7 +391,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102601
       motion: 400
-    textRight: Huh?!
+    textRight: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]Huh?!'
   - bgm: bgm03_story02
     chara:
     - id: 102501
