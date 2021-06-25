@@ -51,7 +51,7 @@ story:
     textCenter: (.........Here it is!)
   - bgm: bgm01_anime03
     narration: 'Dragon Knight Squad Draranger@Episode #34 - The Snake Man Strikes
-      Back@Dragoon Green''s line about trying to overcome his fear of snakes:'
+      Back@Dragoon Green''s line about trying to overcome@his fear of snakes:'
     narrationBg: black
     narrationEffect: in
     narrationHAlignment: left
