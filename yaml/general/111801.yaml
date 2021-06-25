@@ -349,18 +349,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1118_01_24
-      textHome: |-
-        Tsukasa is shopping,
-        so for now I am by myself.
+      textHome: Tsukasa is shopping,@so for now I am by myself.
   - autoTurnFirst: 3.4
     chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 111801
       motion: 0
-      textHome: |-
-        Ocean and beach goods are cheap here,
-        so she ran right over to buy her fill.
+      textHome: Ocean and beach goods are cheap here,@so she ran right over to buy
+        her fill.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -386,10 +383,8 @@ story:
     chara:
     - id: 111801
       motion: 1
-      textHome: |-
-        The sea is so quiet this early.
-        All you can hear is the crashing
-        of the waves...
+      textHome: The sea is so quiet this early.@All you can hear is the crashing@of
+        the waves...
   - autoTurnFirst: 6
     chara:
     - id: 111801
@@ -477,9 +472,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1118_01_27
-      textHome: |-
-        I feel like I should be hard at work right now.
-        Of course, I cannot train here...
+      textHome: I feel like I should be hard at work right now.@Of course, I cannot
+        train here...
   - autoTurnFirst: 1.8
     chara:
     - cheek: 0
@@ -490,9 +484,7 @@ story:
     chara:
     - id: 111801
       motion: 1
-      textHome: |-
-        One must do all things properly,
-        even relaxation!
+      textHome: One must do all things properly,@even relaxation!
   - chara:
     - id: 111801
       textHomeStatus: Clear
@@ -507,9 +499,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1118_01_28
-      textHome: |-
-        I knew we'd see each other today, too,
-        but talking with Tsukasa is just so fun...
+      textHome: I knew we'd see each other today, too,@but talking with Tsukasa is
+        just so fun...
   - autoTurnFirst: 2.9
     chara:
     - cheek: 0
@@ -541,9 +532,8 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 111801
-      textHome: |-
-        But I do know a little, as befitting my position
-        as a daughter of a Mizuna family...
+      textHome: But I do know a little, as befitting my position@as a daughter of
+        a Mizuna family...
   - autoTurnFirst: 5
     chara:
     - id: 111801
@@ -608,9 +598,7 @@ story:
     chara:
     - id: 111801
       motion: 0
-      textHome: |-
-        Even if I have heard that Endless Mirrors
-        is quite cool inside...
+      textHome: Even if I have heard that Endless Mirrors@is quite cool inside...
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -660,7 +648,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1118_01_33
-      textHome: "Are you making good progress with\nyour summer assignments, Tsukasa? "
+      textHome: 'Are you making good progress with@your summer assignments, Tsukasa? '
   - autoTurnFirst: 2.1
     chara:
     - id: 111801
@@ -671,9 +659,7 @@ story:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 111801
-      textHome: |-
-        Sorry, I know I tend to worry
-        about you too much.
+      textHome: Sorry, I know I tend to worry@about you too much.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -693,9 +679,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1118_01_34
-      textHome: |-
-        I'm fine with ghost stories, but if someone
-        is telling them in person I get so scared...
+      textHome: I'm fine with ghost stories, but if someone@is telling them in person
+        I get so scared...
   - autoTurnFirst: 4.4
     chara:
     - cheek: 0
@@ -723,16 +708,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1118_01_35
-      textHome: |-
-        My koto club's competition is
-        a prized summer memory.
+      textHome: My koto club's competition is@a prized summer memory.
   - autoTurnFirst: 7.8
     chara:
     - id: 111801
       motion: 100
-      textHome: |-
-        Ordinarily we'd be training hard to win,
-        but today is a day to take it easy.
+      textHome: Ordinarily we'd be training hard to win,@but today is a day to take
+        it easy.
   - autoTurnFirst: 4
     chara:
     - id: 111801
@@ -751,10 +733,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1118_01_36
-      textHome: |-
-        *Sigh*
-        Breaking away from my usual hectic life,
-        making time to relax... Hm?!
+      textHome: '*Sigh*@Breaking away from my usual hectic life,@making time to relax...
+        Hm?!'
   - autoTurnFirst: 2.2
     chara:
     - cheek: 1
@@ -808,9 +788,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1118_01_37
-      textHome: |-
-        I unwittingly told the school nurse that
-        I was going to the beach with my sister.
+      textHome: I unwittingly told the school nurse that@I was going to the beach
+        with my sister.
   - autoTurnFirst: 2.4
     chara:
     - id: 111801
@@ -835,9 +814,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1118_01_38
-      textHome: |-
-        That couple standing on the beach
-        seems rather close, don't they?
+      textHome: That couple standing on the beach@seems rather close, don't they?
   - autoTurnFirst: 4.6
     chara:
     - cheek: 0
@@ -883,18 +860,14 @@ story:
       face: mtn_ex_011.exp.json
       id: 111801
       motion: 100
-      textHome: |-
-        Goodness, Mifuyu looked
-        so great in her swimsuit!
+      textHome: Goodness, Mifuyu looked@so great in her swimsuit!
   - autoTurnFirst: 6
     chara:
     - cheek: 1
       face: mtn_ex_040.exp.json
       id: 111801
       motion: 1
-      textHome: |-
-        I wonder if I'll look as mature
-        as her next year?
+      textHome: I wonder if I'll look as mature@as her next year?
   - chara:
     - id: 111801
       textHomeStatus: Clear
@@ -916,9 +889,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 111801
       motion: 0
-      textHome: |-
-        I slept by Tsukasa's side and when I woke,
-        I noticed she sleeps in the same pose I do!
+      textHome: I slept by Tsukasa's side and when I woke,@I noticed she sleeps in
+        the same pose I do!
   - autoTurnFirst: 3
     chara:
     - cheek: 2

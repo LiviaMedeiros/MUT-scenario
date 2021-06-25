@@ -9,9 +9,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_01
-      textHome: |-
-        I sensed something strange when
-        I first arrived in Kamihama.
+      textHome: I sensed something strange when@I first arrived in Kamihama.
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -29,10 +27,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 200500
       motion: 0
-      textHome: |
-        It seemed no different than where I live,
-        Mitakihara, but the constant charge of
-        magic in the air was completely different.
+      textHome: It seemed no different than where I live,@Mitakihara, but the constant
+        charge of@magic in the air was completely different.@
   - autoTurnFirst: 6
     chara:
     - id: 200500
@@ -43,9 +39,7 @@ story:
       face: mtn_ex_040.exp.json
       id: 200500
       motion: 300
-      textHome: |-
-        That was the only time I ever felt
-        anything like that...
+      textHome: That was the only time I ever felt@anything like that...
   - autoTurnFirst: 5
     chara:
     - cheek: -1
@@ -83,9 +77,7 @@ story:
     chara:
     - id: 200500
       motion: 100
-      textHome: |-
-        I'm always so delighted to take a sip
-        after finishing a battle.
+      textHome: I'm always so delighted to take a sip@after finishing a battle.
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -106,9 +98,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_19
-      textHome: |-
-        I feel like I just overcame a hurdle.
-        But I can go even further than this!
+      textHome: I feel like I just overcame a hurdle.@But I can go even further than
+        this!
   - autoTurnFirst: 0.5
     chara:
     - cheek: 2
@@ -135,9 +126,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_20
-      textHome: |-
-        I see it now...
-        The scope of my heart has grown more vast...
+      textHome: I see it now...@The scope of my heart has grown more vast...
   - autoTurnFirst: 6
     chara:
     - cheek: 1
@@ -159,10 +148,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_21
-      textHome: |-
-        I didn't have the luxury of wishing for
-        anything other than my own life back
-        when I became a Magical Girl.
+      textHome: I didn't have the luxury of wishing for@anything other than my own
+        life back@when I became a Magical Girl.
   - autoTurnFirst: 5
     chara:
     - cheek: -1
@@ -175,9 +162,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200500
       motion: 0
-      textHome: |-
-        If I had another chance,
-        I wonder what I would've wished for?
+      textHome: If I had another chance,@I wonder what I would've wished for?
   - autoTurnFirst: 4
     chara:
     - id: 200500
@@ -209,9 +194,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 200500
       motion: 200
-      textHome: |2-
-         I couldn't open up to anyone as a
-        Magical Girl about my worries, my fears...
+      textHome: ' I couldn''t open up to anyone as a@Magical Girl about my worries,
+        my fears...'
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -347,9 +331,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_25
-      textHome: |-
-        I think the best teas to have in the morning
-        are English Breakfast and Nilgiri.
+      textHome: I think the best teas to have in the morning@are English Breakfast
+        and Nilgiri.
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -389,16 +372,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_26
-      textHome: |-
-        It's nice to eat lunch outside
-        when the weather is pleasant.
+      textHome: It's nice to eat lunch outside@when the weather is pleasant.
   - autoTurnFirst: 5
     chara:
     - id: 200500
       motion: 100
-      textHome: |-
-        Sitting on a bench
-        while enjoying the breeze...
+      textHome: Sitting on a bench@while enjoying the breeze...
   - autoTurnFirst: 0.5
     chara:
     - cheek: 2
@@ -408,9 +387,7 @@ story:
     chara:
     - id: 200500
       motion: 200
-      textHome: |-
-        I wonder what kind of tea would
-        best fit the atmosphere…
+      textHome: I wonder what kind of tea would@best fit the atmosphere…
   - chara:
     - id: 200500
       textHomeStatus: Clear
@@ -439,9 +416,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200500
       motion: 0
-      textHome: |-
-        But sipping some tea while watching
-        the sunset is surprisingly nice.
+      textHome: But sipping some tea while watching@the sunset is surprisingly nice.
   - autoTurnFirst: 4
     chara:
     - cheek: 2
@@ -489,17 +464,15 @@ story:
     chara:
     - id: 200500
       motion: 100
-      textHome: |-
-        Time really flies when you're
-        chatting with friends.
+      textHome: Time really flies when you're@chatting with friends.
   - autoTurnFirst: 2
     chara:
     - cheek: -1
       face: mtn_ex_040.exp.json
       id: 200500
       motion: 200
-      textHome: "Staying up late is bad for your beauty \nand health, so let's go
-        to sleep soon."
+      textHome: Staying up late is bad for your beauty @and health, so let's go to
+        sleep soon.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -520,10 +493,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_29
-      textHome: |-
-        When you live alone, it's easy to waste
-        a whole day doing nothing at all...
-        You need to be careful.
+      textHome: When you live alone, it's easy to waste@a whole day doing nothing
+        at all...@You need to be careful.
   - autoTurnFirst: 3
     chara:
     - cheek: -1
@@ -539,9 +510,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 200500
       motion: 200
-      textHome: |-
-        It's important to make the
-        most of one's time, after all.
+      textHome: It's important to make the@most of one's time, after all.
   - chara:
     - id: 200500
       textHomeStatus: Clear
@@ -557,8 +526,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_30
-      textHome: "There are so many things I don't know \nabout Magical Girls... About
-        myself."
+      textHome: There are so many things I don't know @about Magical Girls... About
+        myself.
   - autoTurnFirst: 1
     chara:
     - cheek: -1
@@ -602,9 +571,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2005_00_31
-      textHome: |-
-        Yeah, that's not a bad idea.
-         I'll be able to try out some new strategies.
+      textHome: Yeah, that's not a bad idea.@ I'll be able to try out some new strategies.
   - autoTurnFirst: 2.7
     chara:
     - cheek: -1
@@ -664,18 +631,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_33
-      textHome: |-
-        You can learn new magic
-        through training long hours.
+      textHome: You can learn new magic@through training long hours.
   - autoTurnFirst: 4.3
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 200500
       motion: 200
-      textHome: |-
-        I've learned quite a bit of new magic
-        that way myself.
+      textHome: I've learned quite a bit of new magic@that way myself.
   - autoTurnFirst: 6
     chara:
     - cheek: -1
@@ -750,7 +713,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 200500
       motion: 400
-      textHome: "Oh that reminds me, I need to buy \nsome more soon."
+      textHome: Oh that reminds me, I need to buy @some more soon.
   - chara:
     - id: 200500
       textHomeStatus: Clear
@@ -766,10 +729,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_36
-      textHome: |-
-        Even if you're weak,
-        when many come together their
-        combined might can be truly great.
+      textHome: Even if you're weak,@when many come together their@combined might
+        can be truly great.
   - autoTurnFirst: 2.2
     chara:
     - id: 200500
@@ -801,9 +762,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_37
-      textHome: |-
-        Yes, I buy the sweets I have with
-        my tea at my favorite cake shop.
+      textHome: Yes, I buy the sweets I have with@my tea at my favorite cake shop.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -861,9 +820,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_38
-      textHome: |-
-        Obviously I like the taste of tea,
-        but I also enjoy the smell of it.
+      textHome: Obviously I like the taste of tea,@but I also enjoy the smell of it.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -873,9 +830,7 @@ story:
     chara:
     - id: 200500
       motion: 100
-      textHome: |-
-        Don't you think Earl Grey tea
-        has a relaxing aroma?
+      textHome: Don't you think Earl Grey tea@has a relaxing aroma?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 2
@@ -908,9 +863,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200500
       motion: 200
-      textHome: |-
-        I clear my thoughts, close my eyes,
-        and lean back in the water.
+      textHome: I clear my thoughts, close my eyes,@and lean back in the water.
   - autoTurnFirst: 2
     chara:
     - cheek: 2
@@ -938,9 +891,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_40
-      textHome: |-
-        Each Magical Girl has her own outfit,
-        but I particularly like mine.
+      textHome: Each Magical Girl has her own outfit,@but I particularly like mine.
   - autoTurnFirst: 2.2
     chara:
     - cheek: 1
@@ -958,9 +909,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200500
       motion: 200
-      textHome: |-
-        The colors are somewhat subdued,
-        so it feels perfect for me.
+      textHome: The colors are somewhat subdued,@so it feels perfect for me.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 2
@@ -981,9 +930,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_41
-      textHome: |-
-        I'm thinking of calling the five of us from
-        Mitakihara the "Puella Magi Holy Quintet"!
+      textHome: I'm thinking of calling the five of us from@Mitakihara the "Puella
+        Magi Holy Quintet"!
   - autoTurnFirst: 4
     chara:
     - id: 200500
@@ -1222,17 +1170,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_02
-      textHome: |-
-        My name is Mami Tomoe.
-        I go to school in Mitakihara.
+      textHome: My name is Mami Tomoe.@I go to school in Mitakihara.
   - autoTurnFirst: 4
     chara:
     - cheek: -1
       id: 200500
       motion: 1
-      textHome: |2
-         I'm also a Magical Girl who
-        made a contract with Kyubey.
+      textHome: ' I''m also a Magical Girl who@made a contract with Kyubey.@'
   - autoTurnFirst: 1.5
     chara:
     - cheek: -1
@@ -1262,9 +1206,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_13
-      textHome: |-
-        That feels wonderful...
-        I can tell my magic is getting stronger.
+      textHome: That feels wonderful...@I can tell my magic is getting stronger.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -1286,9 +1228,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_14
-      textHome: |-
-        My body feels so light...
-        Yes, there's no doubt at all!
+      textHome: My body feels so light...@Yes, there's no doubt at all!
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -1317,9 +1257,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_15
-      textHome: |-
-        Can my magic improve beyond even
-        this stage, I wonder?
+      textHome: Can my magic improve beyond even@this stage, I wonder?
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -1342,17 +1280,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_16
-      textHome: |-
-        The wish I made to become a Magical Girl
-        allowed me to cheat death.
+      textHome: The wish I made to become a Magical Girl@allowed me to cheat death.
   - autoTurnFirst: 1
     chara:
     - cheek: -1
       face: mtn_ex_020.exp.json
       id: 200500
-      textHome: |-
-        It's that very wish that forms
-        the basis of the magic I use.
+      textHome: It's that very wish that forms@the basis of the magic I use.
   - autoTurnFirst: 6
     chara:
     - cheek: 1
@@ -1374,10 +1308,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_00_17
-      textHome: |-
-        I have become adept at handling many
-        different kinds of magic with various effects,
-        but naturally I still have much to learn.
+      textHome: I have become adept at handling many@different kinds of magic with
+        various effects,@but naturally I still have much to learn.
   - autoTurnFirst: 3.3
     chara:
     - cheek: -1

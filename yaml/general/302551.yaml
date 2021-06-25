@@ -222,9 +222,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 302500
       motion: 400
-      textHome: |-
-        Er, I mean, it's not that I dislike
-        summer or anything...
+      textHome: Er, I mean, it's not that I dislike@summer or anything...
   - autoTurnFirst: 4
     chara:
     - id: 302500
@@ -285,9 +283,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3025_51_26
-      textHome: |-
-        I thought it was normal to write in
-        your diary at the end of the day...
+      textHome: I thought it was normal to write in@your diary at the end of the day...
   - autoTurnFirst: 5.5
     chara:
     - id: 302500
@@ -297,9 +293,7 @@ story:
     chara:
     - id: 302500
       motion: 1
-      textHome: |-
-        Writing then is different from
-        writing at night...yeah.
+      textHome: Writing then is different from@writing at night...yeah.
   - chara:
     - id: 302551
       textHomeStatus: Clear
@@ -318,16 +312,12 @@ story:
     chara:
     - id: 302500
       motion: 200
-      textHome: |-
-        The other day, the sky was lit
-        in a burning orange...
+      textHome: The other day, the sky was lit@in a burning orange...
   - autoTurnFirst: 10
     chara:
     - id: 302500
       motion: 1
-      textHome: |-
-        I bought a pencil that color and
-        drew in my diary with it...
+      textHome: I bought a pencil that color and@drew in my diary with it...
   - chara:
     - id: 302551
       textHomeStatus: Clear
@@ -380,9 +370,7 @@ story:
     chara:
     - id: 302500
       motion: 0
-      textHome: |-
-        I watch them quietly, both the big ones
-        and the little sparklers.
+      textHome: I watch them quietly, both the big ones@and the little sparklers.
   - autoTurnFirst: 7
     chara:
     - id: 302500
@@ -469,18 +457,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3025_51_31
-      textHome: |-
-        The Mirror Witch's Labyrinth is
-        strangely cool even in the summer.
+      textHome: The Mirror Witch's Labyrinth is@strangely cool even in the summer.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 302500
       motion: 200
-      textHome: |-
-        But I get so nervous about being in
-        the way that I still sweat anyway...
+      textHome: But I get so nervous about being in@the way that I still sweat anyway...
   - autoTurnFirst: 4.5
     chara:
     - id: 302500
@@ -533,10 +517,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 302500
       motion: 1
-      textHome: |-
-        Right. Out of the ones Rika picked out
-        for me…it seemed like one I might wear
-        ...so I bought it.
+      textHome: Right. Out of the ones Rika picked out@for me…it seemed like one I
+        might wear@...so I bought it.
   - autoTurnFirst: 3.5
     chara:
     - id: 302500
@@ -586,7 +568,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3025_51_35
-      textHome: "I really liked the summer break homework\nin grade school... "
+      textHome: 'I really liked the summer break homework@in grade school... '
   - autoTurnFirst: 5.5
     chara:
     - id: 302500
@@ -595,9 +577,7 @@ story:
     chara:
     - id: 302500
       motion: 1
-      textHome: |-
-        I'd draw picture diaries,
-        then write in my own diary...
+      textHome: I'd draw picture diaries,@then write in my own diary...
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -637,9 +617,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 302500
       motion: 200
-      textHome: |-
-        The light catches different parts
-        when you change angles...
+      textHome: The light catches different parts@when you change angles...
   - autoTurnFirst: 5.5
     chara:
     - id: 302500
@@ -658,9 +636,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3025_51_37
-      textHome: |-
-        I used to hate school,
-        so summer break was a relief...
+      textHome: I used to hate school,@so summer break was a relief...
   - autoTurnFirst: 3.8
     chara:
     - eyeClose: 1
@@ -669,9 +645,8 @@ story:
     chara:
     - eyeClose: 0
       id: 302500
-      textHome: |-
-        But now, I like summer break because
-        I can see my friends as much as I like.
+      textHome: But now, I like summer break because@I can see my friends as much
+        as I like.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -718,17 +693,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3025_51_38
-      textHome: |-
-        I want to try putting all kinds of experiences
-        into words, like an essayist...
+      textHome: I want to try putting all kinds of experiences@into words, like an
+        essayist...
   - autoTurnFirst: 1.5
     chara:
     - id: 302500
       motion: 0
-      textHome: |2-
-         So I want to do something this summer
-        that I won't ever be able to do again...
-        yeah...
+      textHome: ' So I want to do something this summer@that I won''t ever be able
+        to do again...@yeah...'
   - autoTurnFirst: 7
     chara:
     - id: 302500
@@ -758,9 +730,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 302500
       motion: 0
-      textHome: |-
-        Back when I wanted to die,
-        I never really enjoyed anything like this...
+      textHome: Back when I wanted to die,@I never really enjoyed anything like this...
   - autoTurnFirst: 5
     chara:
     - id: 302500
@@ -778,9 +748,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3025_51_40
-      textHome: |-
-        I want to get a lot more
-        colored pencils, mhm.
+      textHome: I want to get a lot more@colored pencils, mhm.
   - autoTurnFirst: 5
     chara:
     - id: 302500
@@ -799,9 +767,8 @@ story:
       eyeClose: 0
       id: 302500
       motion: 1
-      textHome: |-
-        I want to record those memories with
-        the same colors I experienced them in.
+      textHome: I want to record those memories with@the same colors I experienced
+        them in.
   - chara:
     - id: 302551
       textHomeStatus: Clear
@@ -827,9 +794,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 302500
       motion: 0
-      textHome: |-
-        D-did I wear it inside-out...?
-        No, there's no way!
+      textHome: D-did I wear it inside-out...?@No, there's no way!
   - autoTurnFirst: 7
     chara:
     - cheek: 1

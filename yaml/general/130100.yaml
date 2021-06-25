@@ -11,9 +11,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1301_00_01
-      textHome: |-
-        I get a little self conscious when it's just
-        the two of us fighting.
+      textHome: I get a little self conscious when it's just@the two of us fighting.
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_010.exp.json
@@ -33,9 +31,7 @@ story:
     chara:
     - id: 130102
       lipSynch: 0
-      textHome: |-
-        It reminds me of the old days,
-        it's been so long since then.
+      textHome: It reminds me of the old days,@it's been so long since then.
     - id: 130100
       lipSynch: 1
       motion: 200
@@ -62,9 +58,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 130102
       motion: 201
-      textHome: |-
-        Yes. How about an investigation,
-        just like we used to?
+      textHome: Yes. How about an investigation,@just like we used to?
   - autoTurnFirst: 0.8
     chara:
     - id: 130102
@@ -86,9 +80,7 @@ story:
       face: mtn_ex_021.exp.json
       id: 130100
       motion: 100
-      textHome: |-
-        I'll show you how much
-        I've learned since then!
+      textHome: I'll show you how much@I've learned since then!
   - chara:
     - id: 130100
       textHomeStatus: Clear
@@ -103,10 +95,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1301_00_17
-      textHome: |-
-        Iroha seems to be preoccupied during
-        battle.I have to let her know there's
-        no reason to be scared.
+      textHome: Iroha seems to be preoccupied during@battle.I have to let her know
+        there's@no reason to be scared.
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_030.exp.json
@@ -169,9 +159,7 @@ story:
     chara:
     - id: 130102
       motion: 0
-      textHome: |2-
-         I'm the one who should be
-        thanking you, Yachiyo!
+      textHome: ' I''m the one who should be@thanking you, Yachiyo!'
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 130100
@@ -190,9 +178,7 @@ story:
       motion: 201
       pos: 1
       voice: vo_char_1301_00_19
-      textHome: |-
-        Not bad. Let's keep this going and
-        get rid of all those impurities!
+      textHome: Not bad. Let's keep this going and@get rid of all those impurities!
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_021.exp.json
@@ -266,9 +252,7 @@ story:
       id: 130102
       lipSynch: 0
       motion: 0
-      textHome: |-
-        Don't worry, I'm here to protect
-        you until the very end.
+      textHome: Don't worry, I'm here to protect@you until the very end.
     - id: 130100
       lipSynch: 1
       motion: 200
@@ -293,9 +277,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1301_00_22
-      textHome: |-
-        The power that once saved us,
-        flows within us again.
+      textHome: The power that once saved us,@flows within us again.
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_010.exp.json
@@ -317,9 +299,7 @@ story:
     - id: 130102
       lipSynch: 1
       motion: 100
-      textHome: |-
-        If we work together,
-        I'm sure we can even fly.
+      textHome: If we work together,@I'm sure we can even fly.
     - eyeClose: 0
       id: 130100
       lipSynch: 0
@@ -414,7 +394,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1301_00_24
-      textHome: "Oh, I was about to go out\nwith Yachiyo just now. "
+      textHome: 'Oh, I was about to go out@with Yachiyo just now. '
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_010.exp.json
@@ -436,8 +416,8 @@ story:
       id: 130102
       lipSynch: 1
       motion: 200
-      textHome: "Hurry, Iroha!\nToday is ten-times-the-points day,\r\nthe supermarket
-        is going to be a battlefield!"
+      textHome: Hurry, Iroha!@Today is ten-times-the-points day,@the supermarket is
+        going to be a battlefield!
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 130100
@@ -508,9 +488,7 @@ story:
       id: 130100
       lipSynch: 1
       motion: 100
-      textHome: |-
-        I'll make something that'll give
-        you some energy!
+      textHome: I'll make something that'll give@you some energy!
   - chara:
     - id: 130100
       textHomeStatus: Clear
@@ -525,9 +503,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1301_00_26
-      textHome: |-
-        Eating out for lunch like this
-        seems kinda unfair...
+      textHome: Eating out for lunch like this@seems kinda unfair...
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_030.exp.json
@@ -553,9 +529,7 @@ story:
     chara:
     - id: 130102
       motion: 200
-      textHome: |-
-        Let's buy something for Felicia
-        and Sana, too.
+      textHome: Let's buy something for Felicia@and Sana, too.
   - chara:
     - id: 130100
       textHomeStatus: Clear
@@ -570,9 +544,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1301_00_02
-      textHome: |-
-        We were just about to go hunt
-        some Witches.
+      textHome: We were just about to go hunt@some Witches.
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_010.exp.json
@@ -697,9 +669,7 @@ story:
       face: mtn_ex_021.exp.json
       id: 130100
       motion: 1
-      textHome: |-
-        I'll carry her to her room before
-        she catches a cold...
+      textHome: I'll carry her to her room before@she catches a cold...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -721,9 +691,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1301_00_29
-      textHome: |-
-        If the dot here is where we are now,
-        we turn left here, right?
+      textHome: If the dot here is where we are now,@we turn left here, right?
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_050.exp.json
@@ -737,10 +705,8 @@ story:
     - id: 130102
       lipSynch: 1
       motion: 200
-      textHome: |-
-        Really, why does it look like the opposite
-        direction to you? You're really not good
-        at using your smartphone.
+      textHome: Really, why does it look like the opposite@direction to you? You're
+        really not good@at using your smartphone.
     - id: 130100
       lipSynch: 0
   - autoTurnFirst: 4
@@ -792,9 +758,7 @@ story:
     chara:
     - id: 130102
       motion: 201
-      textHome: |-
-        Oh, and Iroha, don't forget our groceries
-        in the Labyrinth!
+      textHome: Oh, and Iroha, don't forget our groceries@in the Labyrinth!
     - id: 130100
       motion: 0
   - chara:
@@ -811,9 +775,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1301_00_31
-      textHome: |-
-        Do you think food could also be
-        copied in Endless Mirrors?
+      textHome: Do you think food could also be@copied in Endless Mirrors?
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_050.exp.json
@@ -896,9 +858,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1301_00_33
-      textHome: |-
-        That store's tea has recently
-        become very popular.
+      textHome: That store's tea has recently@become very popular.
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_050.exp.json
@@ -939,10 +899,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1301_00_34
-      textHome: |-
-        You surprised me when you started
-        running towards that shrine.
-        Did you make a wish?
+      textHome: You surprised me when you started@running towards that shrine.@Did
+        you make a wish?
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_010.exp.json
@@ -955,9 +913,7 @@ story:
     chara:
     - id: 130102
       lipSynch: 0
-      textHome: |-
-        Yes, I wished for this happiness
-        to last forever.
+      textHome: Yes, I wished for this happiness@to last forever.
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 130100
@@ -995,9 +951,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1301_00_35
-      textHome: |-
-        It's really quiet at home with
-        just the two of us here.
+      textHome: It's really quiet at home with@just the two of us here.
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_050.exp.json
@@ -1010,9 +964,7 @@ story:
     chara:
     - id: 130102
       lipSynch: 1
-      textHome: |-
-        Probably because the TV
-        and radio aren't on.
+      textHome: Probably because the TV@and radio aren't on.
     - id: 130100
       lipSynch: 0
   - autoTurnFirst: 1.8
@@ -1051,9 +1003,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1301_00_36
-      textHome: |-
-        So Ui has no trouble using her smartphone
-        and computer?
+      textHome: So Ui has no trouble using her smartphone@and computer?
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_010.exp.json
@@ -1066,9 +1016,7 @@ story:
     chara:
     - id: 130102
       lipSynch: 0
-      textHome: |-
-        Well, Touka is an expert so I guess
-        she learned about them from her...
+      textHome: Well, Touka is an expert so I guess@she learned about them from her...
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 130100
@@ -1157,9 +1105,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 130102
-      textHome: |-
-        Maybe they'd be more successful
-        selling tea?
+      textHome: Maybe they'd be more successful@selling tea?
   - chara:
     - id: 130100
       textHomeStatus: Clear
@@ -1220,7 +1166,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 130100
       motion: 401
-      textHome: "A zero?! \nBut she was studying with Tsuruno!"
+      textHome: A zero?! @But she was studying with Tsuruno!
   - autoTurnFirst: 3
     chara:
     - id: 130100
@@ -1240,9 +1186,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1301_00_39
-      textHome: |-
-        We got this package today.
-        Do you know who it's for?
+      textHome: We got this package today.@Do you know who it's for?
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_010.exp.json
@@ -1267,9 +1211,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 130100
       motion: 200
-      textHome: |-
-        She's been doing most of her shopping
-        online recently.
+      textHome: She's been doing most of her shopping@online recently.
   - chara:
     - id: 130100
       textHomeStatus: Clear
@@ -1307,9 +1249,7 @@ story:
     chara:
     - id: 130102
       lipSynch: 0
-      textHome: |-
-        Yachiyo, have you ever thought of
-        going out with someone?
+      textHome: Yachiyo, have you ever thought of@going out with someone?
     - id: 130100
       lipSynch: 1
       motion: 200
@@ -1329,9 +1269,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 130102
       motion: 300
-      textHome: |-
-        I'm too busy to even think about
-        something like that.
+      textHome: I'm too busy to even think about@something like that.
   - chara:
     - id: 130100
       textHomeStatus: Clear
@@ -1346,9 +1284,7 @@ story:
       motion: 301
       pos: 1
       voice: vo_char_1301_00_41
-      textHome: |-
-        When I was fighting alone,
-        I was always so stressed out.
+      textHome: When I was fighting alone,@I was always so stressed out.
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_030.exp.json
@@ -1409,9 +1345,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1301_00_42
-      textHome: |-
-        As we are now, no curse
-        or impurity can stop us!
+      textHome: As we are now, no curse@or impurity can stop us!
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_021.exp.json
@@ -1644,9 +1578,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1301_00_14
-      textHome: |-
-        This is our moment...
-        Time to combine our magic!
+      textHome: This is our moment...@Time to combine our magic!
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_021.exp.json
@@ -1702,9 +1634,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1301_00_16
-      textHome: |-
-        I wonder if our teamwork could be
-        further improved...
+      textHome: I wonder if our teamwork could be@further improved...
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_030.exp.json
@@ -1717,9 +1647,8 @@ story:
     chara:
     - id: 130100
       motion: 0
-      textHome: |-
-        I feel like it's always Yachiyo helping me,
-        and not the other way around..
+      textHome: I feel like it's always Yachiyo helping me,@and not the other way
+        around..
   - chara:
     - id: 130100
       textHomeStatus: Clear

@@ -18,10 +18,8 @@ story:
     chara:
     - id: 101100
       motion: 1
-      textHome: |-
-        I love animals and, er...plants and nature.
-        I look after the pets at school, and,
-        um, I help the vegetables grow...
+      textHome: I love animals and, er...plants and nature.@I look after the pets
+        at school, and,@um, I help the vegetables grow...
   - autoTurnFirst: 2.4
     chara:
     - id: 101100
@@ -84,16 +82,13 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1011_00_18
-      textHome: |-
-        I thought...it was fine to just run away
-        from everything that I wasn't good at...
+      textHome: I thought...it was fine to just run away@from everything that I wasn't
+        good at...
   - autoTurnFirst: 2.8
     chara:
     - id: 101100
       motion: 1
-      textHome: |-
-        I didn't know how good it felt to
-        overcome my problems!
+      textHome: I didn't know how good it felt to@overcome my problems!
   - autoTurnFirst: 1.2
     chara:
     - cheek: 1
@@ -159,9 +154,7 @@ story:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 101100
-      textHome: |-
-        A-and I don't mean I've been daydreaming,
-        okay?
+      textHome: A-and I don't mean I've been daydreaming,@okay?
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -216,9 +209,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 101100
       motion: 1
-      textHome: |-
-        It'd be nice to be tough enough that
-        Rena and Momoko could rely on me...
+      textHome: It'd be nice to be tough enough that@Rena and Momoko could rely on
+        me...
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -239,10 +231,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1011_00_22
-      textHome: |-
-        Being in a team with Momoko and Rena
-        is probably the only thing I'm proud of
-        about myself...
+      textHome: Being in a team with Momoko and Rena@is probably the only thing I'm
+        proud of@about myself...
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -261,9 +251,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101100
-      textHome: |-
-        But when I remember I'm part of the team,
-        it eases my nerves.
+      textHome: But when I remember I'm part of the team,@it eases my nerves.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -343,9 +331,7 @@ story:
     - cheek: 2
       face: mtn_ex_031.exp.json
       id: 101100
-      textHome: |-
-        Um... I-I wanted to say hi to you
-        without clamming up like this, but...
+      textHome: Um... I-I wanted to say hi to you@without clamming up like this, but...
   - autoTurnFirst: 4.9
     chara:
     - cheek: 1
@@ -387,9 +373,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101100
       motion: 1
-      textHome: |-
-        It's almost time to feed Pero.
-        Let me defrost Pero's food...
+      textHome: It's almost time to feed Pero.@Let me defrost Pero's food...
   - autoTurnFirst: 1.6
     chara:
     - id: 101100
@@ -413,9 +397,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1011_00_26
-      textHome: |-
-        Pero's scales are so cool to the touch.
-        It's really nice!
+      textHome: Pero's scales are so cool to the touch.@It's really nice!
   - autoTurnFirst: 2.6
     chara:
     - cheek: 0
@@ -456,9 +438,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1011_00_27
-      textHome: |-
-        I stopped by the market on my way home
-        and picked up some vegetable seeds.
+      textHome: I stopped by the market on my way home@and picked up some vegetable
+        seeds.
   - autoTurnFirst: 1.7
     chara:
     - id: 101100
@@ -549,9 +530,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1011_00_29
-      textHome: |-
-        I have to clean out the animal hutch in the
-        morning. That's why I always go to bed early.
+      textHome: I have to clean out the animal hutch in the@morning. That's why I
+        always go to bed early.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -643,9 +623,8 @@ story:
       face: mtn_ex_031.exp.json
       id: 101100
       motion: 0
-      textHome: |-
-        I...I know it's weird for a Magical Girl like me
-        to say something like that...
+      textHome: I...I know it's weird for a Magical Girl like me@to say something
+        like that...
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -711,9 +690,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 101100
       motion: 0
-      textHome: |-
-        I used tons of money trying to
-        get the prize, but I left with nothing...
+      textHome: I used tons of money trying to@get the prize, but I left with nothing...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -735,18 +712,16 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1011_00_34
-      textHome: |-
-        I heard that a traveling reptile zoo will
-        be stopping by near school this weekend!
+      textHome: I heard that a traveling reptile zoo will@be stopping by near school
+        this weekend!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101100
       motion: 1
-      textHome: |-
-        I've heard of regular traveling zoos, but
-        one specializing in reptiles is pretty rare!
+      textHome: I've heard of regular traveling zoos, but@one specializing in reptiles
+        is pretty rare!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -779,16 +754,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1011_00_35
-      textHome: |-
-        One day, I'd like to be able to make a
-        dinner using only vegetables I grew myself!
+      textHome: One day, I'd like to be able to make a@dinner using only vegetables
+        I grew myself!
   - autoTurnFirst: 2.3
     chara:
     - id: 101100
       motion: 0
-      textHome: |-
-        Things you grow yourself
-        always taste so much better!
+      textHome: Things you grow yourself@always taste so much better!
   - autoTurnFirst: 0.7
     chara:
     - id: 101100
@@ -813,9 +785,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1011_00_36
-      textHome: |-
-        Because of my wish, they stopped building
-        that new apartment in front of my house.
+      textHome: Because of my wish, they stopped building@that new apartment in front
+        of my house.
   - autoTurnFirst: 3
     chara:
     - cheek: -1
@@ -828,9 +799,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101100
-      textHome: |-
-        but I love how our house is always
-        bathed in sunlight…
+      textHome: but I love how our house is always@bathed in sunlight…
   - chara:
     - id: 101100
       textHomeStatus: Clear
@@ -852,9 +821,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101100
-      textHome: |-
-        I thought it might be fun to
-        have some together!
+      textHome: I thought it might be fun to@have some together!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -909,9 +876,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1011_00_38
-      textHome: |-
-        Momoko said that people always tell her not
-        to butt into other people's business...
+      textHome: Momoko said that people always tell her not@to butt into other people's
+        business...
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -964,7 +930,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101100
       motion: 0
-      textHome: "Blossom is the flower shop where \nKonomi works, remember?"
+      textHome: Blossom is the flower shop where @Konomi works, remember?
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -1038,9 +1004,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1011_00_41
-      textHome: |-
-        I invited Rena and Momoko to the
-        reptile zoo, but they both said no...
+      textHome: I invited Rena and Momoko to the@reptile zoo, but they both said no...
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -1057,7 +1021,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101100
-      textHome: "Am I the only one who wants to \ngo to the reptile zoo?"
+      textHome: Am I the only one who wants to @go to the reptile zoo?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -1339,9 +1303,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1011_00_13
-      textHome: |-
-        E-even little girls like me...
-        can get a bit stronger, can't they?
+      textHome: E-even little girls like me...@can get a bit stronger, can't they?
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1368,9 +1330,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1011_00_14
-      textHome: |-
-        I...I think I'm getting some of that
-        fighting spirit!
+      textHome: I...I think I'm getting some of that@fighting spirit!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -1438,9 +1398,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1011_00_16
-      textHome: |-
-        It's really, REALLY hard to be a
-        Magical Girl...
+      textHome: It's really, REALLY hard to be a@Magical Girl...
   - autoTurnFirst: 4.5
     chara:
     - cheek: 1
@@ -1453,10 +1411,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 101100
       motion: 100
-      textHome: |-
-        But...if I work and work at it, and keep
-        working really hard... maybe I'll improve,
-        just a little?
+      textHome: But...if I work and work at it, and keep@working really hard... maybe
+        I'll improve,@just a little?
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -1478,28 +1434,22 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1011_00_17
-      textHome: |-
-        What does being a Magical Girl
-        mean to me?
+      textHome: What does being a Magical Girl@mean to me?
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 101100
       motion: 0
-      textHome: |2-
-         I guess... It's the trials I've been
-        running from 'til now.
+      textHome: ' I guess... It''s the trials I''ve been@running from ''til now.'
   - autoTurnFirst: 6
     chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 101100
       motion: 1
-      textHome: |-
-        Trials where you always face up to things,
-        even the stuff that's difficult,
-        so you can grow...
+      textHome: Trials where you always face up to things,@even the stuff that's difficult,@so
+        you can grow...
   - chara:
     - id: 101100
       textHomeStatus: Clear

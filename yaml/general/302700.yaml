@@ -9,18 +9,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3027_00_01
-      textHome: |-
-        My parents died when I was still young.
-        It was a car accident during a trip...
-        I was left all on my own.
+      textHome: My parents died when I was still young.@It was a car accident during
+        a trip...@I was left all on my own.
   - autoTurnFirst: 4.5
     chara:
     - id: 302700
       motion: 200
-      textHome: |2-
-         My relatives passed me around,
-        and eventually I ended up in an
-        orphanage called the Azalea House...
+      textHome: ' My relatives passed me around,@and eventually I ended up in an@orphanage
+        called the Azalea House...'
   - autoTurnFirst: 5.5
     chara:
     - cheek: 0
@@ -54,9 +50,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3027_00_18
-      textHome: |-
-        As soon as I find a weakness in my
-        opponent, I won't leave it alone.
+      textHome: As soon as I find a weakness in my@opponent, I won't leave it alone.
   - autoTurnFirst: 4
     chara:
     - id: 302700
@@ -140,10 +134,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3027_00_21
-      textHome: |-
-        Ever since my parents died and I became
-        an orphan, I started paying really close
-        attention to how people around me act.
+      textHome: Ever since my parents died and I became@an orphan, I started paying
+        really close@attention to how people around me act.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -169,18 +161,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3027_00_22
-      textHome: |-
-        I say I pay close attention to people,
-        but if you're literally staring at them
-        all the time they'll get defensive.
+      textHome: I say I pay close attention to people,@but if you're literally staring
+        at them@all the time they'll get defensive.
   - autoTurnFirst: 3
     chara:
     - id: 302700
       motion: 200
-      textHome: |-
-        That's why you have to pick up the details
-        and arrange it into the full picture
-        in just two blinks of the eye.
+      textHome: That's why you have to pick up the details@and arrange it into the
+        full picture@in just two blinks of the eye.
   - autoTurnFirst: 7.5
     chara:
     - id: 302700
@@ -279,10 +267,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3027_00_25
-      textHome: |-
-        Mmph... Oh...good morning...
-        Nah, on second thought,
-        I'm going back to sleep...
+      textHome: Mmph... Oh...good morning...@Nah, on second thought,@I'm going back
+        to sleep...
   - autoTurnFirst: 5
     chara:
     - id: 302700
@@ -308,10 +294,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3027_00_26
-      textHome: |-
-        I'm not totally awake at this time of day.
-        I wonder if eating something
-        spicy would wake me up.
+      textHome: I'm not totally awake at this time of day.@I wonder if eating something@spicy
+        would wake me up.
   - autoTurnFirst: 3
     chara:
     - id: 302700
@@ -339,9 +323,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3027_00_27
-      textHome: |-
-        All right, I might go for
-        a stroll around town...
+      textHome: All right, I might go for@a stroll around town...
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -358,9 +340,7 @@ story:
     chara:
     - id: 302700
       motion: 1
-      textHome: |-
-        It's my Magical Girl patrol...and
-        maybe just a little bit of fun!
+      textHome: It's my Magical Girl patrol...and@maybe just a little bit of fun!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -405,9 +385,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3027_00_28
-      textHome: |-
-        Hm... I don't think I'll be getting
-        my homework done today.
+      textHome: Hm... I don't think I'll be getting@my homework done today.
   - autoTurnFirst: 3.5
     chara:
     - id: 302700
@@ -425,9 +403,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 302700
       motion: 0
-      textHome: |-
-        What? Of course, I'll be fine!
-        I'm telling you, I can wake up, no problem!
+      textHome: What? Of course, I'll be fine!@I'm telling you, I can wake up, no
+        problem!
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -449,9 +426,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3027_00_29
-      textHome: |-
-        I can never tell whether
-        time is going slow or fast.
+      textHome: I can never tell whether@time is going slow or fast.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -465,9 +440,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 302700
       motion: 1
-      textHome: |-
-        Maybe it depends on how you're
-        feeling and what's happening.
+      textHome: Maybe it depends on how you're@feeling and what's happening.
   - chara:
     - id: 302700
       textHomeStatus: Clear
@@ -483,9 +456,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3027_00_30
-      textHome: |-
-        There's only so much you
-        can do by yourself.
+      textHome: There's only so much you@can do by yourself.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -497,9 +468,8 @@ story:
     chara:
     - id: 302700
       motion: 1
-      textHome: |-
-        There's no point overdoing something
-        when it's not your job, after all.
+      textHome: There's no point overdoing something@when it's not your job, after
+        all.
   - chara:
     - id: 302700
       textHomeStatus: Clear
@@ -574,9 +544,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3027_00_33
-      textHome: |-
-        Sometimes you can tell what
-        another person is feeling, right?
+      textHome: Sometimes you can tell what@another person is feeling, right?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -589,9 +557,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 302700
       motion: 1
-      textHome: |-
-        I mean, you can't tell exactly.
-        But you do get the gist of it.
+      textHome: I mean, you can't tell exactly.@But you do get the gist of it.
   - chara:
     - id: 302700
       textHomeStatus: Clear
@@ -607,9 +573,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3027_00_34
-      textHome: |-
-        When the weather's nice, I like to sit on
-        the river bank and completely zone out.
+      textHome: When the weather's nice, I like to sit on@the river bank and completely
+        zone out.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -643,10 +608,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3027_00_35
-      textHome: |-
-        I don't usually go out of my way for
-        good food, but I don't mind waiting
-        in long lines at stores.
+      textHome: I don't usually go out of my way for@good food, but I don't mind waiting@in
+        long lines at stores.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -659,9 +622,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 302700
       motion: 1
-      textHome: |-
-        I mean, I get excited just thinking
-        about what tasty stuff they have!
+      textHome: I mean, I get excited just thinking@about what tasty stuff they have!
   - chara:
     - id: 302700
       textHomeStatus: Clear
@@ -677,16 +638,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3027_00_36
-      textHome: |-
-        There are things in life that you just
-        can't do anything about, right?
+      textHome: There are things in life that you just@can't do anything about, right?
   - autoTurnFirst: 5
     chara:
     - id: 302700
       motion: 1
-      textHome: |-
-        This is gonna sound obvious, but no reason
-        to sweat it if you can't make any difference.
+      textHome: This is gonna sound obvious, but no reason@to sweat it if you can't
+        make any difference.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -708,9 +666,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3027_00_37
-      textHome: |-
-        I wonder how many Magical Girls
-        there are in this town.
+      textHome: I wonder how many Magical Girls@there are in this town.
   - autoTurnFirst: 7.5
     chara:
     - cheek: 0
@@ -766,10 +722,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 302700
       motion: 1
-      textHome: |-
-        You think you always know which side
-        you're looking at, but sometimes it's
-        the opposite.
+      textHome: You think you always know which side@you're looking at, but sometimes
+        it's@the opposite.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -792,9 +746,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3027_00_39
-      textHome: |-
-        I might take a walk around
-        Kamihama when I have time.
+      textHome: I might take a walk around@Kamihama when I have time.
   - autoTurnFirst: 3.3
     chara:
     - id: 302700
@@ -822,9 +774,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3027_00_40
-      textHome: |-
-        To me, surviving in this world with Konoha
-        and Ayame is the most important thing.
+      textHome: To me, surviving in this world with Konoha@and Ayame is the most important
+        thing.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1099,9 +1050,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 302700
       motion: 300
-      textHome: |-
-        Uh...ah, right, would you like to
-        get something to drink?
+      textHome: Uh...ah, right, would you like to@get something to drink?
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
@@ -1212,16 +1161,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3027_00_16
-      textHome: |-
-        When I'm negotiating with someone
-        and they're the stubborn type,
+      textHome: When I'm negotiating with someone@and they're the stubborn type,
   - autoTurnFirst: 4.5
     chara:
     - id: 302700
       motion: 200
-      textHome: |-
-        I try to make some kind of opening
-        in the conversation...
+      textHome: I try to make some kind of opening@in the conversation...
   - autoTurnFirst: 5
     chara:
     - id: 302700
@@ -1242,10 +1187,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3027_00_17
-      textHome: |-
-        Once I see a good opening in a negotiation,
-        I always come in with a really high-stakes
-        request.
+      textHome: Once I see a good opening in a negotiation,@I always come in with
+        a really high-stakes@request.
   - autoTurnFirst: 3
     chara:
     - id: 302700

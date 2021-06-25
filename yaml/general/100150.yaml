@@ -224,10 +224,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1001_50_24
-      textHome: |-
-        Brrr, the wind is so cold today...
-        I suppose that could mean we're
-        going to have a white Christmas.
+      textHome: Brrr, the wind is so cold today...@I suppose that could mean we're@going
+        to have a white Christmas.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -252,10 +250,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1001_50_25
-      textHome: |-
-        Good morning. It's been so cold lately,
-        it's a real challenge to leave my warm
-        bunny pillow in the morning...
+      textHome: Good morning. It's been so cold lately,@it's a real challenge to leave
+        my warm@bunny pillow in the morning...
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -268,9 +264,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100100
       motion: 100
-      textHome: |-
-        But today's Christmas Eve,
-        that's why I'm up bright and early!
+      textHome: But today's Christmas Eve,@that's why I'm up bright and early!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -288,9 +282,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1001_50_26
-      textHome: |-
-        It's a little crazy right now because we're
-        having a party with everyone later today!
+      textHome: It's a little crazy right now because we're@having a party with everyone
+        later today!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -303,9 +296,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100100
       motion: 200
-      textHome: |-
-        I wonder how much Yachiyo plans
-        to make for the party...
+      textHome: I wonder how much Yachiyo plans@to make for the party...
   - chara:
     - id: 100150
       textHomeStatus: Clear
@@ -318,16 +309,12 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1001_50_27
-      textHome: |-
-        When you're done shopping,
-        would you like to walk home together?
+      textHome: When you're done shopping,@would you like to walk home together?
   - autoTurnFirst: 2.3
     chara:
     - id: 100100
       motion: 100
-      textHome: |-
-        I heard the Christmas lights hung up
-        all over town are really pretty...
+      textHome: I heard the Christmas lights hung up@all over town are really pretty...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -368,16 +355,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1001_50_28
-      textHome: |-
-        Today was really fun, but we still have to
-        try and get enough rest.
+      textHome: Today was really fun, but we still have to@try and get enough rest.
   - autoTurnFirst: 3.3
     chara:
     - id: 100100
       motion: 200
-      textHome: |-
-        You know what happens if you don't sleep...
-        Santa won't visit.
+      textHome: You know what happens if you don't sleep...@Santa won't visit.
   - autoTurnFirst: 1.7
     chara:
     - cheek: 0
@@ -395,18 +378,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1001_50_29
-      textHome: |-
-        It's winter vacation right now,
-        so everyone's gathered in this house...
+      textHome: It's winter vacation right now,@so everyone's gathered in this house...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 100100
       motion: 200
-      textHome: |-
-        When everyone's together like this,
-        it makes our home feel warmer.
+      textHome: When everyone's together like this,@it makes our home feel warmer.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -424,10 +403,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1001_50_30
-      textHome: |-
-        Adults and children alike look forward
-        to this day all year!
-        I won't let some Witch ruin it for them!
+      textHome: Adults and children alike look forward@to this day all year!@I won't
+        let some Witch ruin it for them!
   - autoTurnFirst: 1
     chara:
     - id: 100100
@@ -449,9 +426,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1001_50_31
-      textHome: |-
-        Yachiyo said that if you get too carried away,
-        a Witch might lead you astray...
+      textHome: Yachiyo said that if you get too carried away,@a Witch might lead
+        you astray...
   - autoTurnFirst: 4
     chara:
     - id: 100100
@@ -492,17 +468,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1001_50_33
-      textHome: |-
-        For some reason, I feel like Christmas
-        this year is going to be the best one yet.
+      textHome: For some reason, I feel like Christmas@this year is going to be the
+        best one yet.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
       id: 100100
       motion: 200
-      textHome: |-
-        Maybe because Yachiyo and the others
-        are here with me...
+      textHome: Maybe because Yachiyo and the others@are here with me...
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -520,10 +493,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1001_50_34
-      textHome: |-
-        I remember when I was little, and my breath
-        came out white in the cold... I got so shocked
-        because I thought I was breathing smoke!
+      textHome: I remember when I was little, and my breath@came out white in the
+        cold... I got so shocked@because I thought I was breathing smoke!
   - autoTurnFirst: 4
     chara:
     - id: 100100
@@ -541,18 +512,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1001_50_35
-      textHome: |-
-        I've only ever celebrated Christmas with
-        Ui at the hospital.
+      textHome: I've only ever celebrated Christmas with@Ui at the hospital.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100100
       motion: 301
-      textHome: |-
-        I hope we can celebrate it together
-        again soon...
+      textHome: I hope we can celebrate it together@again soon...
   - chara:
     - id: 100150
       textHomeStatus: Clear
@@ -565,9 +532,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1001_50_36
-      textHome: |-
-        Now that we're the ones playing Santa,
-        does that mean we aren't kids anymore?
+      textHome: Now that we're the ones playing Santa,@does that mean we aren't kids
+        anymore?
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -580,9 +546,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100100
       motion: 200
-      textHome: |-
-        Maybe I'm just getting ahead of myself?
-        *Giggle*
+      textHome: Maybe I'm just getting ahead of myself?@*Giggle*
   - autoTurnFirst: 2
     chara:
     - cheek: 2
@@ -600,9 +564,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1001_50_37
-      textHome: |-
-        The colder it gets, the more of a pain
-        it is to leave the house...
+      textHome: The colder it gets, the more of a pain@it is to leave the house...
   - autoTurnFirst: 3
     chara:
     - id: 100100
@@ -613,10 +575,8 @@ story:
       face: mtn_ex_021.exp.json
       id: 100100
       motion: 0
-      textHome: |-
-        No wonder Felicia spends so much time—
-        Wait, Felicia?
-        You haven't touched your homework?!
+      textHome: No wonder Felicia spends so much time—@Wait, Felicia?@You haven't
+        touched your homework?!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -654,8 +614,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1001_50_38
-      textHome: "Back when Yachiyo's place was a boarding\nhouse, they used to always
-        have parties. "
+      textHome: 'Back when Yachiyo''s place was a boarding@house, they used to always
+        have parties. '
   - autoTurnFirst: 2.5
     chara:
     - id: 100100
@@ -679,18 +639,15 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1001_50_39
-      textHome: |-
-        Come to think of it, Sana's put more effort
-        into hanging decorations than anyone else...
+      textHome: Come to think of it, Sana's put more effort@into hanging decorations
+        than anyone else...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100100
       motion: 100
-      textHome: |-
-        She even hung up the ones
-        Felicia was supposed to do.
+      textHome: She even hung up the ones@Felicia was supposed to do.
   - chara:
     - id: 100150
       textHomeStatus: Clear
@@ -703,18 +660,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1001_50_40
-      textHome: |-
-        Couples treat Christmas Day as a
-        really romantic day in Japan...
+      textHome: Couples treat Christmas Day as a@really romantic day in Japan...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 100100
       motion: 0
-      textHome: |-
-        I see it in movies and on TV.
-        I still don't quite understand it...
+      textHome: I see it in movies and on TV.@I still don't quite understand it...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -738,9 +691,7 @@ story:
     chara:
     - id: 100100
       motion: 200
-      textHome: |-
-        I'm not used to wearing things like this,
-        it's kind of embarrassing...
+      textHome: I'm not used to wearing things like this,@it's kind of embarrassing...
   - autoTurnFirst: 3
     chara:
     - id: 100100

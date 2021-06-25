@@ -9,9 +9,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2006_00_01
-      textHome: |-
-        Huh? You want me to play nice
-        in your little Magical Girl gang?
+      textHome: Huh? You want me to play nice@in your little Magical Girl gang?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -25,19 +23,15 @@ story:
       face: mtn_ex_000.exp.json
       id: 200600
       motion: 1
-      textHome: |-
-        I made my mind up to only use my magic
-        for myself, no matter what.
+      textHome: I made my mind up to only use my magic@for myself, no matter what.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200600
       motion: 0
-      textHome: |-
-        If we meet on the battlefield,
-        we'll see who's the best hunter...
-        Winner takes all.
+      textHome: If we meet on the battlefield,@we'll see who's the best hunter...@Winner
+        takes all.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -62,17 +56,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2006_00_18
-      textHome: |-
-        Yo, I noticed somethin'.
-        You gain mastery by memorizin'
-        the music to a song,
+      textHome: Yo, I noticed somethin'.@You gain mastery by memorizin'@the music
+        to a song,
   - autoTurnFirst: 3
     chara:
     - id: 200600
       motion: 1
-      textHome: |-
-        so surprise, this even helps ya
-        train your brain.
+      textHome: so surprise, this even helps ya@train your brain.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -101,9 +91,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_00_19
-      textHome: |
-        Yep, feelin' great right now.
-        Gettin' some real results here!
+      textHome: Yep, feelin' great right now.@Gettin' some real results here!@
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -134,9 +122,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 200600
       motion: 100
-      textHome: |-
-        Maybe I'll go on a little rampage
-        real quick now!
+      textHome: Maybe I'll go on a little rampage@real quick now!
   - chara:
     - id: 200600
       textHomeStatus: Clear
@@ -155,9 +141,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2006_00_21
-      textHome: |-
-        Nothin' gets on my nerves like seein'
-        some girl make a stupid wish like I did.
+      textHome: Nothin' gets on my nerves like seein'@some girl make a stupid wish
+        like I did.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -170,9 +155,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 200600
       motion: 300
-      textHome: |-
-        But...I did do the same,
-        so I can't just leave them alone.
+      textHome: But...I did do the same,@so I can't just leave them alone.
   - chara:
     - id: 200600
       textHomeStatus: Clear
@@ -191,19 +174,15 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2006_00_22
-      textHome: |-
-        I already made my wish,
-        so there's no helpin' it.
+      textHome: I already made my wish,@so there's no helpin' it.
   - autoTurnFirst: 7
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 200600
       motion: 1
-      textHome: |-
-        That's why I think it'd be nice if there was
-        a happy ending waitin' for the Magical Girls
-        who made wishes for other people too...
+      textHome: That's why I think it'd be nice if there was@a happy ending waitin'
+        for the Magical Girls@who made wishes for other people too...
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -268,8 +247,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2006_00_24
-      textHome: "Ugh, what took you so long?\nI almost died of boredom waitin'.\r\nLet's
-        get goin' already!"
+      textHome: Ugh, what took you so long?@I almost died of boredom waitin'.@Let's
+        get goin' already!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -312,10 +291,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2006_00_25
-      textHome: |-
-        So tired...
-        How're you so awake this
-        early in the mornin'?
+      textHome: So tired...@How're you so awake this@early in the mornin'?
   - autoTurnFirst: 0.5
     chara:
     - cheek: 0
@@ -384,7 +360,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200600
-      textHome: "I could always go with\r\nsome Korean barbecue... "
+      textHome: 'I could always go with@some Korean barbecue... '
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -477,8 +453,7 @@ story:
     chara:
     - id: 200600
       motion: 1
-      textHome: "It really brings it home that we're\r\nall alone in this world, ya
-        know?"
+      textHome: It really brings it home that we're@all alone in this world, ya know?
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -504,10 +479,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_00_29
-      textHome: |-
-        I'm always ready to fight.
-        So, no matter what happens,
-        I'm sure I'll be all right...
+      textHome: I'm always ready to fight.@So, no matter what happens,@I'm sure I'll
+        be all right...
   - autoTurnFirst: 4
     chara:
     - id: 200600
@@ -531,17 +504,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_00_30
-      textHome: |-
-        All right, while you're snoozin'
-        over there I'mma head out.
+      textHome: All right, while you're snoozin'@over there I'mma head out.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200600
       motion: 0
-      textHome: "There are only so many Witches out there.\r\nIt's first come, first
-        serve, after all!"
+      textHome: There are only so many Witches out there.@It's first come, first serve,
+        after all!
   - autoTurnFirst: 3
     chara:
     - id: 200600
@@ -564,15 +535,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_00_31
-      textHome: "Huh? You wanna fight me? \nSounds like fun!"
+      textHome: Huh? You wanna fight me? @Sounds like fun!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200600
       motion: 100
-      textHome: "Let's do it! You better not hold back.\r\nCome at me with all you've
-        got!"
+      textHome: Let's do it! You better not hold back.@Come at me with all you've
+        got!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -632,7 +603,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2006_00_33
-      textHome: "It's tough bein' a Magical Girl\nand keepin' up with school. "
+      textHome: 'It''s tough bein'' a Magical Girl@and keepin'' up with school. '
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -646,9 +617,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 200600
       motion: 300
-      textHome: |-
-        Everyone else my age is always
-        doin' tons of excitin' stuff.
+      textHome: Everyone else my age is always@doin' tons of excitin' stuff.
   - chara:
     - id: 200600
       textHomeStatus: Clear
@@ -674,9 +643,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 200600
       motion: 0
-      textHome: |-
-        But most people just forget that,
-        takin' everythin' they have for granted.
+      textHome: But most people just forget that,@takin' everythin' they have for
+        granted.
   - autoTurnFirst: 3.5
     chara:
     - id: 200600
@@ -699,17 +667,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_00_35
-      textHome: |-
-        Fightin' is a battle of the brains.
-        Ya gotta have a strategy...
+      textHome: Fightin' is a battle of the brains.@Ya gotta have a strategy...
   - autoTurnFirst: 5.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200600
       motion: 100
-      textHome: "That's why I always eat lots of sweets, \nya know, 'cause sugar revs
-        my brain up."
+      textHome: That's why I always eat lots of sweets, @ya know, 'cause sugar revs
+        my brain up.
   - chara:
     - id: 200600
       textHomeStatus: Clear
@@ -728,16 +694,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_00_36
-      textHome: |-
-        Instead of just watchin' me play,
-        you should try one of these dance games.
+      textHome: Instead of just watchin' me play,@you should try one of these dance
+        games.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 200600
       motion: 0
-      textHome: "Heh, it'd be fun to see\r\nyou strugglin' to keep up."
+      textHome: Heh, it'd be fun to see@you strugglin' to keep up.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -762,19 +727,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2006_00_37
-      textHome: |-
-        Those fancy cakes from bakeries...
-        We didn't get to eat those too often,
-        even when my dad was still alive.
+      textHome: Those fancy cakes from bakeries...@We didn't get to eat those too
+        often,@even when my dad was still alive.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 200600
       motion: 300
-      textHome: |-
-        Even still, they bring back
-        plenty of memories.
+      textHome: Even still, they bring back@plenty of memories.
   - chara:
     - id: 200600
       textHomeStatus: Clear
@@ -824,10 +785,7 @@ story:
       face: mtn_ex_051.exp.json
       id: 200600
       motion: 1
-      textHome: |-
-        Oh, that's right.
-        Sayaka mentioned a good
-        ramen place near the station.
+      textHome: Oh, that's right.@Sayaka mentioned a good@ramen place near the station.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -858,9 +816,7 @@ story:
     chara:
     - id: 200600
       motion: 100
-      textHome: |-
-        but she's got the guts to
-        do what's necessary.
+      textHome: but she's got the guts to@do what's necessary.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -886,9 +842,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_00_40
-      textHome: |-
-        If I don't watch out for Sayaka,
-        she'll get into trouble for sure.
+      textHome: If I don't watch out for Sayaka,@she'll get into trouble for sure.
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -926,8 +880,8 @@ story:
       face: mtn_ex_051.exp.json
       id: 200600
       motion: 400
-      textHome: "I ain't gonna spoil ya and say, \n\"All right, I'll stay with you.\"\nPick
-        yourself up!"
+      textHome: I ain't gonna spoil ya and say, @"All right, I'll stay with you."@Pick
+        yourself up!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -1177,17 +1131,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 200600
       motion: 100
-      textHome: |-
-        If you wanna fight alongside me, you better
-        be willin' to reward me with dinner...
+      textHome: If you wanna fight alongside me, you better@be willin' to reward me
+        with dinner...
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0
       id: 200600
       motion: 300
-      textHome: |-
-        Heh, I'm kiddin'.
-        Lunch'll do just fine!
+      textHome: Heh, I'm kiddin'.@Lunch'll do just fine!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1235,9 +1186,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_00_14
-      textHome: |-
-        Yeah! I guess from here on out it's
-        how to take the next step, right?
+      textHome: Yeah! I guess from here on out it's@how to take the next step, right?
   - autoTurnFirst: 4
     chara:
     - id: 200600
@@ -1298,9 +1247,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200600
       motion: 200
-      textHome: |-
-        So I gotta clear the toughest difficulty
-        with all perfects, ya know?
+      textHome: So I gotta clear the toughest difficulty@with all perfects, ya know?
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -1332,16 +1279,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_00_17
-      textHome: |-
-        I have to chase one note
-        after the next as they appear.
+      textHome: I have to chase one note@after the next as they appear.
   - autoTurnFirst: 3
     chara:
     - id: 200600
       motion: 200
-      textHome: |-
-        It loosens up my visual reflexes,
-        so it kinda helps me out during battles...
+      textHome: It loosens up my visual reflexes,@so it kinda helps me out during
+        battles...
   - autoTurnFirst: 4
     chara:
     - id: 200600

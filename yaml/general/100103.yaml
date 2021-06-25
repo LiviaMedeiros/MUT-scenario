@@ -245,9 +245,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1001_03_24
-      textHome: |-
-        Yesterday was hot too.
-        Are you all right?
+      textHome: Yesterday was hot too.@Are you all right?
   - autoTurnFirst: 1.5
     chara:
     - id: 100100
@@ -269,9 +267,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100100
       motion: 401
-      textHome: |-
-        Oh geeze...
-        I'm starting to sound like a mother.
+      textHome: Oh geeze...@I'm starting to sound like a mother.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -305,10 +301,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100100
       motion: 200
-      textHome: |-
-        When I was in elementary school,
-        I used to love walking to the park
-        for my morning exercises.
+      textHome: When I was in elementary school,@I used to love walking to the park@for
+        my morning exercises.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 2
@@ -330,9 +324,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1001_03_26
-      textHome: |-
-        It gets so hot at this time of day...
-        Are you hungry?
+      textHome: It gets so hot at this time of day...@Are you hungry?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -344,9 +336,7 @@ story:
     chara:
     - id: 100100
       motion: 200
-      textHome: |-
-        Let's eat something refreshing for lunch...
-        Maybe some chilled noodles?
+      textHome: Let's eat something refreshing for lunch...@Maybe some chilled noodles?
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -368,7 +358,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1001_03_27
-      textHome: "It gets a little cooler after sunset, \nbut it's still pretty hot."
+      textHome: It gets a little cooler after sunset, @but it's still pretty hot.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -380,9 +370,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100100
       motion: 401
-      textHome: |-
-        Oh! Can we stop by the supermarket?
-        I need to buy some ice cream.
+      textHome: Oh! Can we stop by the supermarket?@I need to buy some ice cream.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 1
@@ -430,18 +418,14 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1001_03_28
-      textHome: |-
-        It's still so hot... But it's not good
-        to sleep with the AC on...
+      textHome: It's still so hot... But it's not good@to sleep with the AC on...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100100
       motion: 0
-      textHome: |-
-        Oh... Didn't Yachiyo say there
-        were some ice pillows?
+      textHome: Oh... Didn't Yachiyo say there@were some ice pillows?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -520,9 +504,7 @@ story:
     chara:
     - id: 100100
       motion: 300
-      textHome: |-
-        so I really need to be sure to remember
-        to put some on.
+      textHome: so I really need to be sure to remember@to put some on.
   - chara:
     - id: 100103
       textHomeStatus: Clear
@@ -538,9 +520,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1001_03_31
-      textHome: |-
-        Tsuruno's been going to the Mirror Witch's
-        Mansion almost every day this summer.
+      textHome: Tsuruno's been going to the Mirror Witch's@Mansion almost every day
+        this summer.
   - autoTurnFirst: 4.5
     chara:
     - id: 100100
@@ -558,9 +539,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100100
       motion: 100
-      textHome: |-
-        Yachiyo complimented her for finding
-        an economical pastime.
+      textHome: Yachiyo complimented her for finding@an economical pastime.
   - chara:
     - id: 100103
       textHomeStatus: Clear
@@ -645,9 +624,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100100
       motion: 200
-      textHome: |-
-        Looks like we need to
-        watch out for colds in the summer, too.
+      textHome: Looks like we need to@watch out for colds in the summer, too.
   - chara:
     - id: 100103
       textHomeStatus: Clear
@@ -670,9 +647,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100100
       motion: 301
-      textHome: |-
-        It's the first time I've worn
-        something like this...
+      textHome: It's the first time I've worn@something like this...
   - autoTurnFirst: 4
     chara:
     - cheek: 2
@@ -695,9 +670,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1001_03_35
-      textHome: |-
-        Wearing a cute swimsuit makes
-        you want to go to the beach.
+      textHome: Wearing a cute swimsuit makes@you want to go to the beach.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -744,8 +717,8 @@ story:
     chara:
     - id: 100100
       motion: 1
-      textHome: "I was thinking about looking up how \nmuch salt and sugar is in various
-        foods..."
+      textHome: I was thinking about looking up how @much salt and sugar is in various
+        foods...
   - autoTurnFirst: 5
     chara:
     - id: 100100
@@ -771,9 +744,7 @@ story:
     chara:
     - id: 100100
       motion: 301
-      textHome: |-
-        Erm...
-        I can't figure out one of the math problems...
+      textHome: Erm...@I can't figure out one of the math problems...
   - autoTurnFirst: 5
     chara:
     - id: 100100
@@ -819,9 +790,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1001_03_38
-      textHome: |-
-        We're all planning to go to the beach
-        one of these days.
+      textHome: We're all planning to go to the beach@one of these days.
   - autoTurnFirst: 5.5
     chara:
     - cheek: 0
@@ -849,9 +818,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1001_03_39
-      textHome: |-
-        Photos of Yachiyo in her swimsuit were
-        in the latest edition of that magazine.
+      textHome: Photos of Yachiyo in her swimsuit were@in the latest edition of that
+        magazine.
   - autoTurnFirst: 2
     chara:
     - id: 100100
@@ -882,16 +850,15 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1001_03_40
-      textHome: |-
-        Do you have the swim tube? Oh...
-        Don't forget your beach sandals, either.
+      textHome: Do you have the swim tube? Oh...@Don't forget your beach sandals,
+        either.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 100100
       motion: 400
-      textHome: "What else? \nWell, we'll need a plastic sheet to sit on, too."
+      textHome: What else? @Well, we'll need a plastic sheet to sit on, too.
   - autoTurnFirst: 0.5
     chara:
     - cheek: 1
@@ -905,9 +872,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100100
       motion: 100
-      textHome: |-
-        I'm looking forward to going to the
-        beach with you.
+      textHome: I'm looking forward to going to the@beach with you.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -942,9 +907,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100100
       motion: 200
-      textHome: |-
-        Next time, maybe I'll get a cold can of juice
-        and surprise you back!
+      textHome: Next time, maybe I'll get a cold can of juice@and surprise you back!
   - autoTurnFirst: 4
     chara:
     - cheek: 2

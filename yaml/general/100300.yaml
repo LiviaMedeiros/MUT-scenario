@@ -9,26 +9,22 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_00_01
-      textHome: |-
-        Our Chinese restaurant hasn't been
-        too well since Dad took it over.
+      textHome: Our Chinese restaurant hasn't been@too well since Dad took it over.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100300
       motion: 300
-      textHome: "But that hasn't stopped my mom and\ngrandma from spending money,
-        though... "
+      textHome: 'But that hasn''t stopped my mom and@grandma from spending money,
+        though... '
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100300
       motion: 200
-      textHome: |-
-        You see, that's where I,
-        Tsuruno Yui, come in!
+      textHome: You see, that's where I,@Tsuruno Yui, come in!
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -46,9 +42,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 0
-      textHome: |-
-        I'm gonna become the mightiest
-        and help out the business myself!
+      textHome: I'm gonna become the mightiest@and help out the business myself!
   - autoTurnFirst: 4
     chara:
     - cheek: 2
@@ -76,9 +70,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 100300
-      textHome: |-
-        That was 24 hours straight
-        standing on one leg!
+      textHome: That was 24 hours straight@standing on one leg!
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -159,9 +151,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_00_21
-      textHome: |-
-        Listen! I made a stray cat roll on the ground
-        and show me its belly just by staring at it!
+      textHome: Listen! I made a stray cat roll on the ground@and show me its belly
+        just by staring at it!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -197,9 +188,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 100
-      textHome: |-
-        I just went to the zoo and made
-        a lion sit down on command!
+      textHome: I just went to the zoo and made@a lion sit down on command!
   - autoTurnFirst: 2
     chara:
     - cheek: 2
@@ -211,9 +200,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 0
-      textHome: |-
-        All I did was stand in front of the cage
-        and say "Sit!" inside my head!
+      textHome: All I did was stand in front of the cage@and say "Sit!" inside my
+        head!
   - autoTurnFirst: 1
     chara:
     - id: 100300
@@ -284,9 +272,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 101
-      textHome: |-
-        All right, let's do this! Now repeat after me!
-        One, two, three...
+      textHome: All right, let's do this! Now repeat after me!@One, two, three...
   - autoTurnFirst: 2.7
     chara:
     - cheek: 2
@@ -367,7 +353,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100300
       motion: 0
-      textHome: "And by food I mean rice, good ol' \nfashioned white rice. "
+      textHome: 'And by food I mean rice, good ol'' @fashioned white rice. '
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -395,17 +381,15 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1003_00_27
-      textHome: |-
-        Oh no, no, no! I've gotta
-        go help out at the restaurant!
+      textHome: Oh no, no, no! I've gotta@go help out at the restaurant!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 100300
       motion: 0
-      textHome: "Profits are still falling. Like present participle\nfalling! So I
-        need to keep at it every day! "
+      textHome: 'Profits are still falling. Like present participle@falling! So I
+        need to keep at it every day! '
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -448,9 +432,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_00_28
-      textHome: |-
-        I do this thing before going to bed each night.
-        They're called declarations!
+      textHome: I do this thing before going to bed each night.@They're called declarations!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -468,9 +450,7 @@ story:
       face: mtn_ex_021.exp.json
       id: 100300
       motion: 201
-      textHome: |-
-        I'm gonna get mightier...
-        I'm gonna get mightier...
+      textHome: I'm gonna get mightier...@I'm gonna get mightier...
   - autoTurnFirst: 9
     chara:
     - cheek: 2
@@ -507,9 +487,8 @@ story:
       face: mtn_ex_040.exp.json
       id: 100300
       motion: 0
-      textHome: |-
-        You've gotta make sure you're getting the
-        most out of every second of your training!
+      textHome: You've gotta make sure you're getting the@most out of every second
+        of your training!
   - chara:
     - id: 100300
       textHomeStatus: Clear
@@ -525,10 +504,8 @@ story:
       motion: 201
       pos: 1
       voice: vo_char_1003_00_30
-      textHome: |-
-        The fate of the Yui Family basically rests on
-        my shoulders, so that means I need to get
-        stronger so I can help out even more!
+      textHome: The fate of the Yui Family basically rests on@my shoulders, so that
+        means I need to get@stronger so I can help out even more!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -557,9 +534,7 @@ story:
       motion: 101
       pos: 1
       voice: vo_char_1003_00_31
-      textHome: |-
-        Yeahhh! THIS!
-        This is what I wanna do!
+      textHome: Yeahhh! THIS!@This is what I wanna do!
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -635,9 +610,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 0
-      textHome: |-
-        Raise your arms...then punch the sky!
-        Punch! Punch! 100 reps!
+      textHome: Raise your arms...then punch the sky!@Punch! Punch! 100 reps!
   - autoTurnFirst: 7
     chara:
     - id: 100300
@@ -657,9 +630,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_00_34
-      textHome: |-
-        I have my own special trick for fights.
-        Here, I'll teach you.
+      textHome: I have my own special trick for fights.@Here, I'll teach you.
   - autoTurnFirst: 2
     chara:
     - id: 100300
@@ -670,9 +641,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 100300
       motion: 0
-      textHome: |-
-        First, look into your foe's
-        eyes. Don't look away...
+      textHome: First, look into your foe's@eyes. Don't look away...
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -709,9 +678,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 100300
       motion: 300
-      textHome: |-
-        …Or I wish I could say that, but sometimes
-        it shrinks into a tiny flicker.
+      textHome: …Or I wish I could say that, but sometimes@it shrinks into a tiny
+        flicker.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -732,9 +700,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_00_36
-      textHome: |-
-        I like the phrase,
-        "You never know 'til you try!"
+      textHome: I like the phrase,@"You never know 'til you try!"
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -745,9 +711,7 @@ story:
     chara:
     - cheek: 0
       id: 100300
-      textHome: |-
-        It's okay to wing it! If you don't act,
-        nothing will happen at all!
+      textHome: It's okay to wing it! If you don't act,@nothing will happen at all!
   - autoTurnFirst: 5
     chara:
     - id: 100300
@@ -823,9 +787,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_00_38
-      textHome: |-
-        After fighting with Momoko,
-        I think of her as a tiger.
+      textHome: After fighting with Momoko,@I think of her as a tiger.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -873,9 +835,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_00_39
-      textHome: |-
-        Believe me, I know.
-        When I get into something,
+      textHome: Believe me, I know.@When I get into something,
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -912,9 +872,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_00_40
-      textHome: |-
-        You can tell that Akira-sensei and
-        Meiyui-sensei are strong at first glance.
+      textHome: You can tell that Akira-sensei and@Meiyui-sensei are strong at first
+        glance.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -934,9 +893,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 100300
       motion: 100
-      textHome: |-
-        I hope one day I'll get the chance
-        to learn from them.
+      textHome: I hope one day I'll get the chance@to learn from them.
   - chara:
     - id: 100300
       textHomeStatus: Clear
@@ -952,9 +909,8 @@ story:
       motion: 201
       pos: 1
       voice: vo_char_1003_00_41
-      textHome: |-
-        Hiiiyah, hiyah, hiyah, hiyah, hiyah, hiyah
-        hiyah, hiyah, hiyah, hiyah, hiyah, hiiiYAH!
+      textHome: Hiiiyah, hiyah, hiyah, hiyah, hiyah, hiyah@hiyah, hiyah, hiyah, hiyah,
+        hiyah, hiiiYAH!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -1041,9 +997,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1003_00_46
-      textHome: |-
-        Ya gotta admit it!
-        Right now I am the mightiest!
+      textHome: Ya gotta admit it!@Right now I am the mightiest!
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -1169,9 +1123,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1003_00_02
-      textHome: |-
-        I'm gonna become the
-        Mightiest Magical Girl!
+      textHome: I'm gonna become the@Mightiest Magical Girl!
   - autoTurnFirst: 1.8
     chara:
     - id: 100300
@@ -1217,9 +1169,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1003_00_13
-      textHome: |-
-        Huh?
-        Looks like I've gotten even stronger!
+      textHome: Huh?@Looks like I've gotten even stronger!
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -1240,9 +1190,7 @@ story:
       motion: 101
       pos: 1
       voice: vo_char_1003_00_14
-      textHome: |-
-        Ya gotta admit, I'm getting closer...
-        Feels good!
+      textHome: Ya gotta admit, I'm getting closer...@Feels good!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 2
@@ -1263,9 +1211,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_00_15
-      textHome: |-
-        Woohoo, feels great!
-        Now this is what I call mighty!
+      textHome: Woohoo, feels great!@Now this is what I call mighty!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -1299,10 +1245,8 @@ story:
     chara:
     - id: 100300
       motion: 0
-      textHome: |-
-        I may have become physically stronger
-        since I became a Magical Girl,
-        but training is always a must!
+      textHome: I may have become physically stronger@since I became a Magical Girl,@but
+        training is always a must!
   - autoTurnFirst: 4
     chara:
     - cheek: 2
@@ -1331,9 +1275,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 101
-      textHome: |-
-        I just did 60 pull-ups in a minute!
-        That's one every second!
+      textHome: I just did 60 pull-ups in a minute!@That's one every second!
   - autoTurnFirst: 5
     chara:
     - cheek: 1

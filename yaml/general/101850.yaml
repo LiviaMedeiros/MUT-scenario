@@ -189,10 +189,8 @@ story:
     chara:
     - id: 101800
       motion: 1
-      textHome: |-
-        A spell of happiness for the day shall
-        be cast upon those fortunate enough
-        to meet Miss Santa.
+      textHome: A spell of happiness for the day shall@be cast upon those fortunate
+        enough@to meet Miss Santa.
   - autoTurnFirst: 7
     chara:
     - id: 101800
@@ -209,10 +207,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1018_50_25
-      textHome: |-
-        Good morning.
-        The air is still quite chilly outside and
-        yet I must rise at this early hour.
+      textHome: Good morning.@The air is still quite chilly outside and@yet I must
+        rise at this early hour.
   - autoTurnFirst: 3.5
     chara:
     - id: 101800
@@ -221,9 +217,7 @@ story:
     chara:
     - id: 101800
       motion: 100
-      textHome: |-
-        Miss Santa must be a good role model
-        for the children.
+      textHome: Miss Santa must be a good role model@for the children.
   - chara:
     - id: 101850
       textHomeStatus: Clear
@@ -236,17 +230,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1018_50_26
-      textHome: "Word of a restaurant that prepares\nChristmas-themed Chinese dishes\nupon
-        request has reached my ears... "
+      textHome: 'Word of a restaurant that prepares@Christmas-themed Chinese dishes@upon
+        request has reached my ears... '
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101800
       motion: 0
-      textHome: |-
-        Just what could they be?
-        My interest has been piqued...
+      textHome: Just what could they be?@My interest has been piqued...
   - autoTurnFirst: 3.5
     chara:
     - id: 101800
@@ -270,10 +262,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 101800
       motion: 300
-      textHome: |-
-        She's quite busy and has been late
-        in the past. However, I haven't the
-        slightest doubt that she will come.
+      textHome: She's quite busy and has been late@in the past. However, I haven't
+        the@slightest doubt that she will come.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -308,9 +298,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1018_50_28
-      textHome: |-
-        I have but one wish for Santa before
-        I turn in for the night...
+      textHome: I have but one wish for Santa before@I turn in for the night...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -334,16 +322,12 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1018_50_29
-      textHome: |-
-        I have revered this outfit since
-        I was quite little.
+      textHome: I have revered this outfit since@I was quite little.
   - autoTurnFirst: 7
     chara:
     - id: 101800
       motion: 1
-      textHome: |-
-        I mean, Miss Santa can cast magic
-        that brings happiness to all children!
+      textHome: I mean, Miss Santa can cast magic@that brings happiness to all children!
   - autoTurnFirst: 4
     chara:
     - id: 101800
@@ -360,16 +344,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_50_30
-      textHome: |-
-        The time has come for Tsukasa and me
-        to depart to eliminate Witches.
+      textHome: The time has come for Tsukasa and me@to depart to eliminate Witches.
   - autoTurnFirst: 3.5
     chara:
     - id: 101800
       motion: 1
-      textHome: |-
-        Miss Santa shall cast her magic to dispose
-        of this threat and protect the children!
+      textHome: Miss Santa shall cast her magic to dispose@of this threat and protect
+        the children!
   - autoTurnFirst: 5
     chara:
     - id: 101800
@@ -398,10 +379,8 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101800
-      textHome: |-
-        my apologies,
-        Miss Alina dressed in a Christmas outfit
-        within the Mirrors Labyrinth...
+      textHome: my apologies,@Miss Alina dressed in a Christmas outfit@within the
+        Mirrors Labyrinth...
   - autoTurnFirst: 4
     chara:
     - id: 101800
@@ -446,9 +425,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_50_33
-      textHome: |-
-        Miss Santa came to my rescue
-        when I had become lost many years ago...
+      textHome: Miss Santa came to my rescue@when I had become lost many years ago...
   - autoTurnFirst: 4.8
     chara:
     - cheek: 0
@@ -461,9 +438,7 @@ story:
       face: mtn_ex_040.exp.json
       id: 101800
       motion: 1
-      textHome: |-
-        The only explanation I could fathom
-        was that she had used magic.
+      textHome: The only explanation I could fathom@was that she had used magic.
   - chara:
     - id: 101850
       textHomeStatus: Clear
@@ -476,9 +451,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_50_34
-      textHome: |-
-        I prepared this outfit specifically to attend
-        a Christmas party with Tsukasa.
+      textHome: I prepared this outfit specifically to attend@a Christmas party with
+        Tsukasa.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -497,17 +471,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1018_50_35
-      textHome: |-
-        One of Sankyoya's signature
-        Christmas sweets, chilled matcha cake,
-        is to be made available soon...
+      textHome: One of Sankyoya's signature@Christmas sweets, chilled matcha cake,@is
+        to be made available soon...
   - autoTurnFirst: 6
     chara:
     - id: 101800
       motion: 100
-      textHome: |-
-        How wonderful it would be
-        to have one with Tsukasa.
+      textHome: How wonderful it would be@to have one with Tsukasa.
   - chara:
     - id: 101850
       textHomeStatus: Clear
@@ -520,18 +490,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_50_36
-      textHome: |-
-        There are those even among Magical Girls
-        who cannot feel holiday cheer...
+      textHome: There are those even among Magical Girls@who cannot feel holiday cheer...
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101800
       motion: 1
-      textHome: |-
-        As Miss Santa, I would love to bestow them
-        with happiness.
+      textHome: As Miss Santa, I would love to bestow them@with happiness.
   - autoTurnFirst: 4
     chara:
     - id: 101800
@@ -548,18 +514,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1018_50_37
-      textHome: |-
-        My family is well aware that I shall be
-        attending a Christmas party,
+      textHome: My family is well aware that I shall be@attending a Christmas party,
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101800
       motion: 0
-      textHome: |-
-        but I have naturally kept my intent
-        to see Tsukasa a secret from them.
+      textHome: but I have naturally kept my intent@to see Tsukasa a secret from them.
   - autoTurnFirst: 3
     chara:
     - id: 101800
@@ -588,9 +550,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1018_50_38
-      textHome: |-
-        My favorite accessory is
-        this ribbon with bells.
+      textHome: My favorite accessory is@this ribbon with bells.
   - autoTurnFirst: 5
     chara:
     - id: 101800
@@ -612,10 +572,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1018_50_39
-      textHome: |-
-        While I don't consider myself lacking
-        in friends, the only one with whom
-        I exchange presents is Tsukasa...
+      textHome: While I don't consider myself lacking@in friends, the only one with
+        whom@I exchange presents is Tsukasa...
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -650,8 +608,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_50_40
-      textHome: "I've only just realized that,\nwith a change in color scheme, \nthe
-        fur adorning Mifuyu's Magical Girl form"
+      textHome: I've only just realized that,@with a change in color scheme, @the
+        fur adorning Mifuyu's Magical Girl form
   - autoTurnFirst: 10
     chara:
     - cheek: 0
@@ -686,9 +644,7 @@ story:
       face: mtn_ex_040.exp.json
       id: 101800
       motion: 1
-      textHome: |-
-        ...Being told that so formally
-        is slightly embarrassing...
+      textHome: '...Being told that so formally@is slightly embarrassing...'
   - autoTurnFirst: 5
     chara:
     - cheek: 1

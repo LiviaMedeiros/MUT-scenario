@@ -17,10 +17,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 111700
       motion: 1
-      textHome: |-
-        I'm Mitama Yakumo, your Coordinator,
-        and it's said I look even cuter and
-        more mature when I wear a kimono.
+      textHome: I'm Mitama Yakumo, your Coordinator,@and it's said I look even cuter
+        and@more mature when I wear a kimono.
   - autoTurnFirst: 2.7
     chara:
     - cheek: 1
@@ -32,9 +30,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 111700
       motion: 300
-      textHome: |-
-        I'll be Coordinating again this year,
-        so I hope to see you!
+      textHome: I'll be Coordinating again this year,@so I hope to see you!
   - autoTurnFirst: 2.2
     chara:
     - cheek: 1
@@ -46,9 +42,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 111700
       motion: 100
-      textHome: |-
-        Don't forget to bring along some
-        Grief Seeds when you visit, 'kay?
+      textHome: Don't forget to bring along some@Grief Seeds when you visit, 'kay?
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -67,10 +61,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1117_00_17
-      textHome: |-
-        This fluffy fur collar is from a white fox
-        caught in the Hokuyo Ward mountains.
-        They made the fur out of its pelt.
+      textHome: This fluffy fur collar is from a white fox@caught in the Hokuyo Ward
+        mountains.@They made the fur out of its pelt.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -105,10 +97,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1117_00_18
-      textHome: |-
-        I've been asked by plenty of people
-        around town if I'd try modeling,
-        because I look so fetching in a kimono♪
+      textHome: I've been asked by plenty of people@around town if I'd try modeling,@because
+        I look so fetching in a kimono♪
   - autoTurnFirst: 3
     chara:
     - id: 111700
@@ -143,9 +133,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1117_00_19
-      textHome: |-
-        This power! It must be because
-        I prayed at the shrine!
+      textHome: This power! It must be because@I prayed at the shrine!
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -164,9 +152,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1117_00_20
-      textHome: |-
-        I feel refreshed and ready. Could it be
-        because a new year has dawned?
+      textHome: I feel refreshed and ready. Could it be@because a new year has dawned?
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -185,9 +171,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1117_00_21
-      textHome: |-
-        I got a glimpse of everyone's fun memories
-        from New Year's while enhancing them.
+      textHome: I got a glimpse of everyone's fun memories@from New Year's while enhancing
+        them.
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -196,9 +181,7 @@ story:
     chara:
     - eyeClose: 0
       id: 111700
-      textHome: |-
-        Knowing they had such a wonderful year
-        makes me a little jealous.
+      textHome: Knowing they had such a wonderful year@makes me a little jealous.
   - autoTurnFirst: 2.5
     chara:
     - id: 111700
@@ -221,16 +204,12 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1117_00_22
-      textHome: |-
-        It's amazing how many different
-        New Year's wishes everyone had.
+      textHome: It's amazing how many different@New Year's wishes everyone had.
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1
       id: 111700
-      textHome: |-
-        Some wanted good health or book smarts,
-        some a little romance...♪
+      textHome: Some wanted good health or book smarts,@some a little romance...♪
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -254,9 +233,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 111700
-      textHome: |-
-        When it comes to New Year's wishes,
-        I can just tell
+      textHome: When it comes to New Year's wishes,@I can just tell
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -363,9 +340,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 111700
       motion: 1
-      textHome: |-
-        Your Coordinator has prepared
-        a special soup just for you.
+      textHome: Your Coordinator has prepared@a special soup just for you.
   - autoTurnFirst: 6
     chara:
     - id: 111700
@@ -389,9 +364,7 @@ story:
     chara:
     - eyeClose: 0
       id: 111700
-      textHome: |-
-        Let's peruse the food stalls on our
-        way to the shrine, okay?
+      textHome: Let's peruse the food stalls on our@way to the shrine, okay?
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -403,9 +376,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 111700
       motion: 1
-      textHome: |-
-        Whenever you're not sure if you should eat
-        or not...it's perfectly all right to just dig in♪
+      textHome: Whenever you're not sure if you should eat@or not...it's perfectly
+        all right to just dig in♪
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -444,9 +416,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 111700
       motion: 1
-      textHome: |-
-        It's my Coordinator's special homemade
-        New Year's meal! Don't be shy, eat up♪
+      textHome: It's my Coordinator's special homemade@New Year's meal! Don't be shy,
+        eat up♪
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -465,10 +436,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1117_00_27
-      textHome: |-
-        Normally there'd be a flood of customers
-        at this hour, but, since it's New Year's,
-        there isn't a soul in sight.
+      textHome: Normally there'd be a flood of customers@at this hour, but, since
+        it's New Year's,@there isn't a soul in sight.
   - autoTurnFirst: 4.8
     chara:
     - cheek: 0
@@ -505,9 +474,7 @@ story:
     chara:
     - eyeClose: 0
       id: 111700
-      textHome: |-
-        If there's one thing I CANNOT
-        stand, it's the cold.
+      textHome: If there's one thing I CANNOT@stand, it's the cold.
   - autoTurnFirst: 3
     chara:
     - id: 111700
@@ -518,10 +485,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 111700
       motion: 0
-      textHome: |-
-        A piping hot bath and a steaming
-        bowl of soup to warm the body
-        are a must on days like today!
+      textHome: A piping hot bath and a steaming@bowl of soup to warm the body@are
+        a must on days like today!
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -547,25 +512,19 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 111700
-      textHome: |-
-        These past few days
-        have been exceedingly profitable!
+      textHome: These past few days@have been exceedingly profitable!
   - autoTurnFirst: 4
     chara:
     - id: 111700
       motion: 1
-      textHome: |-
-        I'm so glad I kept the shop open through
-        New Year's.
+      textHome: I'm so glad I kept the shop open through@New Year's.
   - autoTurnFirst: 8
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 111700
       motion: 200
-      textHome: |-
-        The Coordinator's Operation:
-        New Year's Bonus was a success!
+      textHome: The Coordinator's Operation:@New Year's Bonus was a success!
   - chara:
     - id: 111700
       textHomeStatus: Clear
@@ -579,16 +538,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1117_00_30
-      textHome: |-
-        If you're on your way to fight Witches,
-        stop by the Coordinator's shop first.
+      textHome: If you're on your way to fight Witches,@stop by the Coordinator's
+        shop first.
   - autoTurnFirst: 5
     chara:
     - id: 111700
       motion: 300
-      textHome: |-
-        If you have enough to pay, I may be able
-        to make special enhancements for you.
+      textHome: If you have enough to pay, I may be able@to make special enhancements
+        for you.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -621,9 +578,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 111700
       motion: 300
-      textHome: |-
-        Not to worry, I'll just be waiting
-        at the entrance♪
+      textHome: Not to worry, I'll just be waiting@at the entrance♪
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -670,16 +625,13 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1117_00_33
-      textHome: |-
-        I wished for sooo much during my visit
-        to the shrine on New Year's Day.
+      textHome: I wished for sooo much during my visit@to the shrine on New Year's
+        Day.
   - autoTurnFirst: 4
     chara:
     - id: 111700
       motion: 1
-      textHome: |-
-        Never-ending customers, bustling business,
-        living in luxury...
+      textHome: Never-ending customers, bustling business,@living in luxury...
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -711,9 +663,7 @@ story:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 111700
-      textHome: |-
-        What? Me?
-        Not to worry, I always do fine on tests.
+      textHome: What? Me?@Not to worry, I always do fine on tests.
   - autoTurnFirst: 7.2
     chara:
     - cheek: 0
@@ -740,9 +690,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1117_00_35
-      textHome: |-
-        Oh, it's New Year's, so why not invite
-        everyone to the shop and make mochi?
+      textHome: Oh, it's New Year's, so why not invite@everyone to the shop and make
+        mochi?
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -759,9 +708,7 @@ story:
     - cheek: 1
       id: 111700
       motion: 300
-      textHome: |-
-        Ahhh, soft mochi right off the
-        mallet...I can hardly wait♪
+      textHome: Ahhh, soft mochi right off the@mallet...I can hardly wait♪
   - chara:
     - id: 111700
       textHomeStatus: Clear
@@ -825,18 +772,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1117_00_37
-      textHome: |-
-        I've always visited the local shrine
-        with my family on New Year's Day.
+      textHome: I've always visited the local shrine@with my family on New Year's
+        Day.
   - autoTurnFirst: 6
     chara:
     - eyeClose: 1
       id: 111700
       motion: 1
-      textHome: |-
-        It's small, but the deity enshrined there has
-        protected households for generations so the
-        whole neighborhood comes to pay respects.
+      textHome: It's small, but the deity enshrined there has@protected households
+        for generations so the@whole neighborhood comes to pay respects.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -860,19 +804,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1117_00_38
-      textHome: |-
-        Weren't Iroha and the girls sooo
-        cute in their kimonos?
+      textHome: Weren't Iroha and the girls sooo@cute in their kimonos?
   - autoTurnFirst: 2.4
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 111700
       motion: 0
-      textHome: |-
-        The three of them looked so much like dolls
-        that I had half a mind to take them home
-        with me!
+      textHome: The three of them looked so much like dolls@that I had half a mind
+        to take them home@with me!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -897,18 +837,16 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1117_00_39
-      textHome: |-
-        Many Magical Girls pitched in to help me
-        decorate my shop for New Year's.
+      textHome: Many Magical Girls pitched in to help me@decorate my shop for New
+        Year's.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 111700
       motion: 100
-      textHome: |-
-        Kanagi was particularly helpful,
-        so I must be sure to thank her next time.
+      textHome: Kanagi was particularly helpful,@so I must be sure to thank her next
+        time.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -939,9 +877,7 @@ story:
     chara:
     - id: 111700
       motion: 0
-      textHome: |-
-        Heehee... Wonderful!
-        We can cook it all up at once♪
+      textHome: Heehee... Wonderful!@We can cook it all up at once♪
   - autoTurnFirst: 6
     chara:
     - id: 111700
@@ -959,9 +895,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1117_00_41
-      textHome: |-
-        What...I don't remember my usual
-        outfit being this tight...
+      textHome: What...I don't remember my usual@outfit being this tight...
   - autoTurnFirst: 1.6
     chara:
     - cheek: 0
@@ -974,10 +908,8 @@ story:
       face: mtn_ex_051.exp.json
       id: 111700
       motion: 100
-      textHome: |-
-        No! That's not it!
-        I may have overeaten during New Year's,
-        but... I've maintained my figure!
+      textHome: No! That's not it!@I may have overeaten during New Year's,@but...
+        I've maintained my figure!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -1003,9 +935,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1117_00_42
-      textHome: |-
-        The new year just started and we're
-        busy already♪
+      textHome: The new year just started and we're@busy already♪
   - chara:
     - id: 111700
       textHomeStatus: Clear
@@ -1047,9 +977,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1117_00_45
-      textHome: |-
-        Let's see what your fortune is...
-        Oh no, "Terrible Luck".
+      textHome: Let's see what your fortune is...@Oh no, "Terrible Luck".
   - chara:
     - id: 111700
       textHomeStatus: Clear
@@ -1063,9 +991,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1117_00_46
-      textHome: |-
-        What an auspicious way to start
-        the new year♪
+      textHome: What an auspicious way to start@the new year♪
   - chara:
     - id: 111700
       textHomeStatus: Clear
@@ -1165,10 +1091,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1117_00_13
-      textHome: |-
-        This year is going to be very different for
-        your Coordinator. My sales and wealth
-        are going to skyrocket, just wait♪
+      textHome: This year is going to be very different for@your Coordinator. My sales
+        and wealth@are going to skyrocket, just wait♪
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1188,7 +1112,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1117_00_14
-      textHome: "How lucky you are! \nYou get to see me for New Year's like this♪"
+      textHome: How lucky you are! @You get to see me for New Year's like this♪
   - autoTurnFirst: 5
     chara:
     - id: 111700
@@ -1206,9 +1130,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1117_00_15
-      textHome: |-
-        So you want to know your Coordinator's
-        secrets that badly, hm?
+      textHome: So you want to know your Coordinator's@secrets that badly, hm?
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -1229,10 +1151,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1117_00_16
-      textHome: |-
-        I was just coming home from shopping
-        when I saw a man. He looked tired and
-        thirsty, so I gave him a tangerine.
+      textHome: I was just coming home from shopping@when I saw a man. He looked tired
+        and@thirsty, so I gave him a tangerine.
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0

@@ -10,9 +10,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3009_00_01
-      textHome: |-
-        I'm Manaka Kurumi, only daughter of
-        the owner of the restaurant Walnut's!
+      textHome: I'm Manaka Kurumi, only daughter of@the owner of the restaurant Walnut's!
   - autoTurnFirst: 1.9
     chara:
     - id: 300900
@@ -21,10 +19,8 @@ story:
     chara:
     - id: 300900
       motion: 1
-      textHome: |-
-        My deal is cooking, of course!
-        My skills were honed by the owner
-        of Walnut's, so duh...
+      textHome: My deal is cooking, of course!@My skills were honed by the owner@of
+        Walnut's, so duh...
   - autoTurnFirst: 3.2
     chara:
     - id: 300900
@@ -34,9 +30,7 @@ story:
     chara:
     - id: 300900
       motion: 1
-      textHome: |-
-        Our specialty is our fluffy,
-        bouncy rice omelet!
+      textHome: Our specialty is our fluffy,@bouncy rice omelet!
   - autoTurnFirst: 2.2
     chara:
     - cheek: 1
@@ -68,10 +62,8 @@ story:
     chara:
     - id: 300900
       motion: 1
-      textHome: |-
-        Super Magical Girl powers and
-        incredible cooking!
-        Hey, how's that for a tagline?
+      textHome: Super Magical Girl powers and@incredible cooking!@Hey, how's that
+        for a tagline?
   - autoTurnFirst: 3.8
     chara:
     - cheek: 0
@@ -103,9 +95,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3009_00_19
-      textHome: |-
-        The customers will be heartbroken
-        if I don't offer second helpings!
+      textHome: The customers will be heartbroken@if I don't offer second helpings!
   - autoTurnFirst: 2
     chara:
     - id: 300900
@@ -131,9 +121,7 @@ story:
     chara:
     - id: 300900
       motion: 0
-      textHome: |-
-        This one's gonna make our
-        specialty menu, count on it!
+      textHome: This one's gonna make our@specialty menu, count on it!
   - autoTurnFirst: 1.2
     chara:
     - id: 300900
@@ -154,16 +142,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3009_00_21
-      textHome: |-
-        I won't give up on drawing more
-        crowds to our restaurant!
+      textHome: I won't give up on drawing more@crowds to our restaurant!
   - autoTurnFirst: 4.8
     chara:
     - id: 300900
       motion: 1
-      textHome: |-
-        So long as you have faith and know what
-        you cook for, your dream will come true!
+      textHome: So long as you have faith and know what@you cook for, your dream will
+        come true!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -188,9 +173,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3009_00_22
-      textHome: |-
-        I'm gonna work as hard as
-        I can to fulfill my Magical Girl duties!
+      textHome: I'm gonna work as hard as@I can to fulfill my Magical Girl duties!
   - autoTurnFirst: 1.6
     chara:
     - id: 300900
@@ -201,9 +184,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 300900
       motion: 1
-      textHome: |-
-        Imagine if someone were to die
-        without ever tasting a dish from Walnut's?
+      textHome: Imagine if someone were to die@without ever tasting a dish from Walnut's?
   - autoTurnFirst: 3.4
     chara:
     - cheek: 0
@@ -274,10 +255,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3009_00_24
-      textHome: |-
-        Welcome!
-        I was waiting for you to come to
-         my restaurant for a while!
+      textHome: Welcome!@I was waiting for you to come to@ my restaurant for a while!
   - autoTurnFirst: 3.9
     chara:
     - id: 300900
@@ -304,9 +282,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3009_00_25
-      textHome: |-
-        Breakfast is ready!
-        What would you like to drink?
+      textHome: Breakfast is ready!@What would you like to drink?
   - autoTurnFirst: 3
     chara:
     - id: 300900
@@ -341,9 +317,7 @@ story:
     chara:
     - id: 300900
       motion: 1
-      textHome: |-
-        Would you care to join
-        myself and Sana for lunch?
+      textHome: Would you care to join@myself and Sana for lunch?
   - chara:
     - id: 300900
       textHomeStatus: Clear
@@ -360,17 +334,12 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3009_00_27
-      textHome: |-
-        What do you think?
-        It's an original Walnut's rice omelet!
+      textHome: What do you think?@It's an original Walnut's rice omelet!
   - autoTurnFirst: 2.7
     chara:
     - id: 300900
       motion: 1
-      textHome: |-
-        It's so good...
-        You can't help but smile
-        when you eat it, huh?
+      textHome: It's so good...@You can't help but smile@when you eat it, huh?
   - autoTurnFirst: 1.3
     chara:
     - id: 300900
@@ -415,9 +384,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3009_00_28
-      textHome: |-
-        Are you hungry?
-        Is that why you can't sleep? Okay...
+      textHome: Are you hungry?@Is that why you can't sleep? Okay...
   - autoTurnFirst: 2
     chara:
     - id: 300900
@@ -453,16 +420,12 @@ story:
     chara:
     - id: 300900
       motion: 300
-      textHome: |-
-        Yeah, that makes sense...
-        Next, chapter two...
+      textHome: Yeah, that makes sense...@Next, chapter two...
   - autoTurnFirst: 3.6
     chara:
     - id: 300900
       motion: 1
-      textHome: |-
-        Chapter two's about basic manners when
-        eating Japanese food.
+      textHome: Chapter two's about basic manners when@eating Japanese food.
   - chara:
     - id: 300900
       textHomeStatus: Clear
@@ -484,9 +447,7 @@ story:
     chara:
     - id: 300900
       motion: 1
-      textHome: |-
-        While we're waiting, shall we take
-        care of our Magical Girl duties?
+      textHome: While we're waiting, shall we take@care of our Magical Girl duties?
   - autoTurnFirst: 1.6
     chara:
     - id: 300900
@@ -507,9 +468,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3009_00_31
-      textHome: |-
-        I can't do anything that would reflect
-        badly on the reputation of Walnut's.
+      textHome: I can't do anything that would reflect@badly on the reputation of
+        Walnut's.
   - autoTurnFirst: 2.4
     chara:
     - cheek: 1
@@ -573,9 +533,8 @@ story:
     chara:
     - cheek: 0
       id: 300900
-      textHome: |-
-        He is the owner and head chef of Walnut's,
-        and he taught me all I know!
+      textHome: He is the owner and head chef of Walnut's,@and he taught me all I
+        know!
   - autoTurnFirst: 3.1
     chara:
     - id: 300900
@@ -600,9 +559,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3009_00_34
-      textHome: |-
-        I just wanted a chance to show people
-        how good our restaurant's food was.
+      textHome: I just wanted a chance to show people@how good our restaurant's food
+        was.
   - autoTurnFirst: 2.2
     chara:
     - id: 300900
@@ -613,9 +571,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 300900
       motion: 1
-      textHome: |-
-        I know that it was as successful as it has
-        been so far because the food is so good!
+      textHome: I know that it was as successful as it has@been so far because the
+        food is so good!
   - autoTurnFirst: 2.5
     chara:
     - id: 300900
@@ -636,9 +593,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3009_00_35
-      textHome: |-
-        If you need a bite to eat,
-        please come to Walnut's!
+      textHome: If you need a bite to eat,@please come to Walnut's!
   - autoTurnFirst: 3.2
     chara:
     - id: 300900
@@ -682,9 +637,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 300900
       motion: 200
-      textHome: |-
-        That means the flavor is
-        very deep and refined.
+      textHome: That means the flavor is@very deep and refined.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -722,10 +675,8 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3009_00_37
-      textHome: |-
-        I'm terribly sorry...
-        You came to buy a Manaka
-        Special Bento Box, right?
+      textHome: I'm terribly sorry...@You came to buy a Manaka@Special Bento Box,
+        right?
   - autoTurnFirst: 2.4
     chara:
     - id: 300900
@@ -786,15 +737,13 @@ story:
     chara:
     - id: 300900
       motion: 1
-      textHome: "I added a touch of mandarin \norange to the sauce."
+      textHome: I added a touch of mandarin @orange to the sauce.
   - autoTurnFirst: 1.6
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300900
-      textHome: |-
-        I would like to hear what
-        you think of the flavor.
+      textHome: I would like to hear what@you think of the flavor.
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0
@@ -817,9 +766,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3009_00_39
-      textHome: |-
-        Whenever I see Sana happily
-        eating the food I made her,
+      textHome: Whenever I see Sana happily@eating the food I made her,
   - autoTurnFirst: 2.2
     chara:
     - id: 300900
@@ -828,9 +775,7 @@ story:
     chara:
     - id: 300900
       motion: 100
-      textHome: |-
-        it makes me want to cook
-        for her again and again.
+      textHome: it makes me want to cook@for her again and again.
   - autoTurnFirst: 1.8
     chara:
     - id: 300900
@@ -851,22 +796,18 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3009_00_40
-      textHome: |-
-        No matter how many times
-        you request it,
+      textHome: No matter how many times@you request it,
   - autoTurnFirst: 3
     chara:
     - id: 300900
       motion: 200
-      textHome: |-
-        I'm afraid I can't serve the
-        extra large rice omelet.
+      textHome: I'm afraid I can't serve the@extra large rice omelet.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300900
-      textHome: "That's a special dish that I \nonly make for Ami-senpai."
+      textHome: That's a special dish that I @only make for Ami-senpai.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -893,14 +834,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3009_00_41
-      textHome: "In the future... Even if Walnut's is \nalways booked up with reservations,"
+      textHome: In the future... Even if Walnut's is @always booked up with reservations,
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 300900
       motion: 200
-      textHome: "I'll always make sure there \nis a special table for you."
+      textHome: I'll always make sure there @is a special table for you.
   - autoTurnFirst: 1.3
     chara:
     - cheek: 0
@@ -941,9 +882,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3009_00_43
-      textHome: |-
-        It was obvious that this
-        would be the outcome!
+      textHome: It was obvious that this@would be the outcome!
   - chara:
     - id: 300900
       textHomeStatus: Clear
@@ -960,9 +899,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3009_00_44
-      textHome: |-
-        I'm gonna have a great meal
-        after this!
+      textHome: I'm gonna have a great meal@after this!
   - chara:
     - id: 300900
       textHomeStatus: Clear
@@ -979,9 +916,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3009_00_45
-      textHome: |-
-        How do you feel about
-        a celebratory dessert?
+      textHome: How do you feel about@a celebratory dessert?
   - autoTurnFirst: 1.5
     chara:
     - id: 300900
@@ -1135,18 +1070,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3009_00_02
-      textHome: |-
-        I'm Manaka Kurumi from
-        the restaurant Walnut's!
+      textHome: I'm Manaka Kurumi from@the restaurant Walnut's!
   - autoTurnFirst: 4.2
     chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 300900
       motion: 1
-      textHome: |-
-        You should feel honored to be in the
-        presence of a future 3-star chef!
+      textHome: You should feel honored to be in the@presence of a future 3-star chef!
   - autoTurnFirst: 3.3
     chara:
     - cheek: 0
@@ -1170,9 +1101,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3009_00_13
-      textHome: |-
-        Mmm! I just hit upon a whole
-        new way to spice things up!
+      textHome: Mmm! I just hit upon a whole@new way to spice things up!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -1199,9 +1128,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3009_00_14
-      textHome: |-
-        It's only natural that I could do that.
-        I'm the future owner of a great restaurant!
+      textHome: It's only natural that I could do that.@I'm the future owner of a
+        great restaurant!
   - autoTurnFirst: 1.2
     chara:
     - id: 300900
@@ -1222,9 +1150,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3009_00_15
-      textHome: |-
-        This...! This could revolutionize
-        Western cuisine as we know it!
+      textHome: This...! This could revolutionize@Western cuisine as we know it!
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -1255,16 +1181,12 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3009_00_16
-      textHome: |-
-        Sweet! I'm a Magical Girl
-        AND a top-rate chef...
+      textHome: Sweet! I'm a Magical Girl@AND a top-rate chef...
   - autoTurnFirst: 1.4
     chara:
     - id: 300900
       motion: 1
-      textHome: |-
-        I may have two roles, but I WILL
-        carry out all my duties splendidly!
+      textHome: I may have two roles, but I WILL@carry out all my duties splendidly!
   - autoTurnFirst: 1.1
     chara:
     - cheek: 1
@@ -1277,9 +1199,7 @@ story:
     chara:
     - id: 300900
       motion: 200
-      textHome: |-
-        Keeping busy keeps you
-        in business, ya know!
+      textHome: Keeping busy keeps you@in business, ya know!
   - chara:
     - id: 300900
       textHomeStatus: Clear
@@ -1303,9 +1223,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300900
       motion: 1
-      textHome: |-
-        Maybe I should aim for those
-        three stars as a Magical Girl too!
+      textHome: Maybe I should aim for those@three stars as a Magical Girl too!
   - autoTurnFirst: 2
     chara:
     - id: 300900

@@ -249,9 +249,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100300
-      textHome: |-
-        I tried to mix our menu into
-        my New Year's tidings!
+      textHome: I tried to mix our menu into@my New Year's tidings!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -278,10 +276,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 1
-      textHome: |-
-        So cold this early... It's nice to warm up
-        with some ramen soup, but we should
-        jump rope for a REAL warm up!
+      textHome: So cold this early... It's nice to warm up@with some ramen soup, but
+        we should@jump rope for a REAL warm up!
   - autoTurnFirst: 3
     chara:
     - id: 100300
@@ -314,9 +310,7 @@ story:
     chara:
     - id: 100300
       motion: 200
-      textHome: |-
-        That's why I'm gonna buy some
-        okonomiyaki at the restaurant next door!
+      textHome: That's why I'm gonna buy some@okonomiyaki at the restaurant next door!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -361,17 +355,13 @@ story:
     chara:
     - id: 100300
       motion: 0
-      textHome: |-
-        Well, playing outside is done,
-        time to put away the equipment!
+      textHome: Well, playing outside is done,@time to put away the equipment!
   - autoTurnFirst: 1.7
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100300
-      textHome: |-
-        And then...over to Mikazuki Villa
-        for MORE fun!
+      textHome: And then...over to Mikazuki Villa@for MORE fun!
   - autoTurnFirst: 2.3
     chara:
     - id: 100300
@@ -417,9 +407,7 @@ story:
     chara:
     - id: 100300
       motion: 100
-      textHome: |-
-        The one you wake up from on
-        New Year's Day? Or the day after?
+      textHome: The one you wake up from on@New Year's Day? Or the day after?
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -427,9 +415,7 @@ story:
       face: mtn_ex_040.exp.json
       id: 100300
       motion: 0
-      textHome: |-
-        Well... I slept so hard I don't remember,
-        anyway. Ha ha...
+      textHome: Well... I slept so hard I don't remember,@anyway. Ha ha...
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -473,10 +459,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 1
-      textHome: |-
-        Winter break homework stands as much
-        chance against mighty ol' me as a
-        stick of dried squid! Ha ha ha!
+      textHome: Winter break homework stands as much@chance against mighty ol' me
+        as a@stick of dried squid! Ha ha ha!
   - autoTurnFirst: 3
     chara:
     - id: 100300
@@ -500,17 +484,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1003_52_30
-      textHome: |-
-        I, the Mightiest Tsuruno Yui, will
-        NEVER let you get away with
-        threatening Kamihama's peace!
+      textHome: I, the Mightiest Tsuruno Yui, will@NEVER let you get away with@threatening
+        Kamihama's peace!
   - autoTurnFirst: 4.3
     chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 100300
       motion: 201
-      textHome: "Especially not during\nNew Year's celebrations! "
+      textHome: 'Especially not during@New Year''s celebrations! '
   - autoTurnFirst: 4
     chara:
     - id: 100300
@@ -529,10 +511,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1003_52_31
-      textHome: |-
-        Do you think the copies over in
-        Endless Mirrors have vacation
-        during New Year's too?!
+      textHome: Do you think the copies over in@Endless Mirrors have vacation@during
+        New Year's too?!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -587,7 +567,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1003_52_33
-      textHome: "I can't wait to try my \n\"New Year's Chinese Rice Cake\"!"
+      textHome: I can't wait to try my @"New Year's Chinese Rice Cake"!
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
@@ -601,9 +581,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 1
-      textHome: |-
-        I made it for the first time this year,
-        so haven't tried any of it...
+      textHome: I made it for the first time this year,@so haven't tried any of it...
   - autoTurnFirst: 2.8
     chara:
     - cheek: 1
@@ -631,18 +609,14 @@ story:
       motion: 101
       pos: 1
       voice: vo_char_1003_52_34
-      textHome: |-
-        I hope my New Year's Chinese
-        spread will grant my wish...
+      textHome: I hope my New Year's Chinese@spread will grant my wish...
   - autoTurnFirst: 5.1
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 1
-      textHome: |-
-        "I hope this year glistens like the oil
-        we simmer fried rice in"!
+      textHome: '"I hope this year glistens like the oil@we simmer fried rice in"!'
   - autoTurnFirst: 1.9
     chara:
     - eyeClose: 1
@@ -666,9 +640,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1003_52_35
-      textHome: |-
-        Phew... I've been hard at work since
-        the New Year started!
+      textHome: Phew... I've been hard at work since@the New Year started!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -681,9 +653,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 0
-      textHome: |-
-        I've been teaching Sana and Felicia
-        how to spin tops, Tsuruno-style!
+      textHome: I've been teaching Sana and Felicia@how to spin tops, Tsuruno-style!
   - autoTurnFirst: 4.2
     chara:
     - id: 100300
@@ -707,18 +677,15 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1003_52_36
-      textHome: |-
-        You can do Tsuruno Exercises
-        even with a long-sleeved kimono!
+      textHome: You can do Tsuruno Exercises@even with a long-sleeved kimono!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 100300
       motion: 400
-      textHome: |-
-        Twiiist your body to the right! Twist! Twist!
-        Now to the left! Stretch those hips!
+      textHome: Twiiist your body to the right! Twist! Twist!@Now to the left! Stretch
+        those hips!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -809,16 +776,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1003_52_38
-      textHome: |-
-        I got a picture taken with Iroha
-        and Master in their kimonos!
+      textHome: I got a picture taken with Iroha@and Master in their kimonos!
   - autoTurnFirst: 3.7
     chara:
     - id: 100300
       motion: 200
-      textHome: |-
-        Master looks so grown up...
-        we look like we could all be sisters, here!
+      textHome: Master looks so grown up...@we look like we could all be sisters,
+        here!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -838,9 +802,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1003_52_39
-      textHome: |-
-        Aaah, so warm... Nothing beats a
-        nice heated table in the winter.
+      textHome: Aaah, so warm... Nothing beats a@nice heated table in the winter.
   - autoTurnFirst: 4.3
     chara:
     - cheek: 1
@@ -853,9 +815,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100300
       motion: 400
-      textHome: |-
-        Though you gotta train,
-        even while you relax!
+      textHome: Though you gotta train,@even while you relax!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -865,9 +825,7 @@ story:
     chara:
     - id: 100300
       motion: 101
-      textHome: |-
-        That's why I've been working
-        on my grip strength!
+      textHome: That's why I've been working@on my grip strength!
   - chara:
     - id: 100352
       textHomeStatus: Clear
@@ -905,9 +863,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 1
-      textHome: |-
-        I never thought you'd give me
-        a compliment, I'm so embarrassed now!
+      textHome: I never thought you'd give me@a compliment, I'm so embarrassed now!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -935,9 +891,7 @@ story:
     chara:
     - eyeClose: 0
       id: 100300
-      textHome: |-
-        Hm? Oh, this?
-        I'm practicing some New Year's music!
+      textHome: Hm? Oh, this?@I'm practicing some New Year's music!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -953,9 +907,7 @@ story:
     chara:
     - id: 100300
       motion: 1
-      textHome: |-
-        I don't have any traditional instruments,
-        so I'm just doing it a cappella!
+      textHome: I don't have any traditional instruments,@so I'm just doing it a cappella!
   - autoTurnFirst: 3
     chara:
     - cheek: 0

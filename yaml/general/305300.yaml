@@ -21,10 +21,8 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 305300
-      textHome: |-
-        I'm a Magical Girl, but I'm actually
-        a bit older than most of the others.
-        I normally work at a maid cafe, but...
+      textHome: I'm a Magical Girl, but I'm actually@a bit older than most of the
+        others.@I normally work at a maid cafe, but...
   - autoTurnFirst: 5.5
     chara:
     - cheek: 0
@@ -37,9 +35,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 305300
       motion: 400
-      textHome: |-
-        Wait, never mind! I-I mean
-        I'm the suuuper adorable head maid!
+      textHome: Wait, never mind! I-I mean@I'm the suuuper adorable head maid!
   - autoTurnFirst: 1.2
     chara:
     - cheek: 1
@@ -77,10 +73,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3053_00_17
-      textHome: |-
-        Every time someone calls me
-        old-fashioned, I know they're
-        reeeally saying that they love me!
+      textHome: Every time someone calls me@old-fashioned, I know they're@reeeally
+        saying that they love me!
   - autoTurnFirst: 2.3
     chara:
     - eyeClose: 1
@@ -147,9 +141,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3053_00_19
-      textHome: |-
-        I'm sooo super full of love
-        that it's overflowing!
+      textHome: I'm sooo super full of love@that it's overflowing!
   - autoTurnFirst: 4
     chara:
     - cheek: 2
@@ -169,9 +161,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3053_00_20
-      textHome: |-
-        I have to survive,
-        or I'll end up killing her, too...
+      textHome: I have to survive,@or I'll end up killing her, too...
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -193,9 +183,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3053_00_21
-      textHome: |-
-        It's not easy to balance my personal life
-        and being a Magical Girl.
+      textHome: It's not easy to balance my personal life@and being a Magical Girl.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -208,10 +196,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 305300
       motion: 100
-      textHome: |-
-        But I'm a professional,
-        so I won't ever stop smiling.
-        I'm Ikumi, the Head Maid!
+      textHome: But I'm a professional,@so I won't ever stop smiling.@I'm Ikumi, the
+        Head Maid!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -230,9 +216,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3053_00_22
-      textHome: |-
-        There's no escaping the fate of
-        Magical Girls by yourself.
+      textHome: There's no escaping the fate of@Magical Girls by yourself.
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -245,9 +229,7 @@ story:
     chara:
     - id: 305300
       motion: 0
-      textHome: |-
-        That's why I chose to follow
-        someone else's plans.
+      textHome: That's why I chose to follow@someone else's plans.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -311,9 +293,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 305300
-      textHome: |-
-        I'm super happy you've
-        come to see me again today!
+      textHome: I'm super happy you've@come to see me again today!
   - autoTurnFirst: 2.8
     chara:
     - cheek: 1
@@ -325,9 +305,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 305300
-      textHome: |-
-        Please, sit back and relax
-        as long as you like!
+      textHome: Please, sit back and relax@as long as you like!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -347,9 +325,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3053_00_25
-      textHome: |-
-        If I leave from here to the station, ugh...
-        I might not make it to my dance class...
+      textHome: If I leave from here to the station, ugh...@I might not make it to
+        my dance class...
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -365,9 +342,7 @@ story:
       id: 305300
       motion: 300
       tear: 1
-      textHome: |-
-        Aww, I'm super-duper sad that
-        I'm gonna be late, I might cry...!
+      textHome: Aww, I'm super-duper sad that@I'm gonna be late, I might cry...!
   - autoTurnFirst: 1.5
     chara:
     - id: 305300
@@ -407,10 +382,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 305300
       motion: 0
-      textHome: |-
-        All done!
-        Heeere you go, it's my specially made,
-        super-delicious lunch plate!
+      textHome: All done!@Heeere you go, it's my specially made,@super-delicious lunch
+        plate!
   - autoTurnFirst: 1.8
     chara:
     - cheek: 1
@@ -456,10 +429,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 305300
       motion: 300
-      textHome: |-
-        After you see me today,
-        you won't be able to think about
-        anyone else, so get ready!
+      textHome: After you see me today,@you won't be able to think about@anyone else,
+        so get ready!
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -485,9 +456,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3053_00_27
-      textHome: |-
-        Attention please, masters and young misses
-        coming home from school or work!
+      textHome: Attention please, masters and young misses@coming home from school
+        or work!
   - autoTurnFirst: 3
     chara:
     - id: 305300
@@ -497,9 +467,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 305300
-      textHome: |-
-        My super adorable heart-warming
-        live show is about to begin!
+      textHome: My super adorable heart-warming@live show is about to begin!
   - autoTurnFirst: 2.5
     chara:
     - id: 305300
@@ -523,10 +491,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3053_00_28
-      textHome: |-
-        Aww...
-        My predecessor used to help me
-        close up shop, but now I do it all alone...
+      textHome: Aww...@My predecessor used to help me@close up shop, but now I do
+        it all alone...
   - autoTurnFirst: 2.2
     chara:
     - cheek: 0
@@ -608,10 +574,7 @@ story:
       pos: 1
       tear: 1
       voice: vo_char_3053_00_30
-      textHome: |-
-        Waaaaaah!
-        There's a Witch nearby.
-        I'm so scared!
+      textHome: Waaaaaah!@There's a Witch nearby.@I'm so scared!
   - autoTurnFirst: 2
     chara:
     - id: 305300
@@ -656,10 +619,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3053_00_31
-      textHome: |-
-        If Endless Mirrors made a bunch of
-        copies of me, then it'd be super cute
-        with all this pink hair around!
+      textHome: If Endless Mirrors made a bunch of@copies of me, then it'd be super
+        cute@with all this pink hair around!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -721,10 +682,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3053_00_33
-      textHome: |-
-        I'm a maid right now, but one day
-        I'm gonna be a super-charming,
-        ultra-adorable, totally successful idol!
+      textHome: I'm a maid right now, but one day@I'm gonna be a super-charming,@ultra-adorable,
+        totally successful idol!
   - autoTurnFirst: 1.2
     chara:
     - id: 305300
@@ -767,9 +726,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 305300
       motion: 200
-      textHome: |-
-        My trademark is being
-        cheerful and full of energy!
+      textHome: My trademark is being@cheerful and full of energy!
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -789,9 +746,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3053_00_35
-      textHome: |-
-        I really looove the color pink,
-        and extra frilly clothes!
+      textHome: I really looove the color pink,@and extra frilly clothes!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -801,9 +756,7 @@ story:
     chara:
     - id: 305300
       motion: 1
-      textHome: |-
-        They're just so cute and soft,
-        they make me feel happy.
+      textHome: They're just so cute and soft,@they make me feel happy.
   - autoTurnFirst: 5
     chara:
     - id: 305300
@@ -821,19 +774,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3053_00_36
-      textHome: |-
-        Oh wooow, this outfit is
-        super-duper adorable!
+      textHome: Oh wooow, this outfit is@super-duper adorable!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 305300
       motion: 0
-      textHome: |-
-        I bet our fans would LOVE it
-        if I shared the new menu wearing
-        this outfit on social media!
+      textHome: I bet our fans would LOVE it@if I shared the new menu wearing@this
+        outfit on social media!
   - autoTurnFirst: 3.5
     chara:
     - id: 305300
@@ -874,9 +823,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3053_00_37
-      textHome: |-
-        Hey, which maid called me
-        old-fashioned just now?!
+      textHome: Hey, which maid called me@old-fashioned just now?!
   - autoTurnFirst: 3.2
     chara:
     - id: 305300
@@ -909,9 +856,7 @@ story:
     chara:
     - id: 305300
       motion: 1
-      textHome: |-
-        But before I knew it, I started
-        liking super cute things waaay more!
+      textHome: But before I knew it, I started@liking super cute things waaay more!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -937,10 +882,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 305300
       motion: 400
-      textHome: |-
-        My best friend's volleyball game
-        is gonna be streaming later today.
-        I don't wanna miss it.
+      textHome: My best friend's volleyball game@is gonna be streaming later today.@I
+        don't wanna miss it.
   - autoTurnFirst: 4.6
     chara:
     - cheek: 0
@@ -965,9 +908,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3053_00_40
-      textHome: |-
-        I'm devoted to Mifuyu and
-        the liberation movement...
+      textHome: I'm devoted to Mifuyu and@the liberation movement...
   - autoTurnFirst: 2.4
     chara:
     - eyeClose: 1
@@ -984,9 +925,7 @@ story:
     chara:
     - eyeClose: 0
       id: 305300
-      textHome: |-
-        I'm doing it for the dream
-        I share with my friend.
+      textHome: I'm doing it for the dream@I share with my friend.
   - chara:
     - id: 305300
       textHomeStatus: Clear
@@ -1000,9 +939,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3053_00_41
-      textHome: |-
-        Reeeady?
-        Look...over...there!
+      textHome: Reeeady?@Look...over...there!
   - autoTurnFirst: 1.2
     chara:
     - id: 305300
@@ -1018,9 +955,7 @@ story:
     chara:
     - id: 305300
       motion: 300
-      textHome: |-
-        You get an extra-special photo op with me.
-        Please treasure it always!
+      textHome: You get an extra-special photo op with me.@Please treasure it always!
   - autoTurnFirst: 6
     chara:
     - cheek: 1
@@ -1074,9 +1009,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3053_00_44
-      textHome: |-
-        I've gotta get back to the cafe,
-        my show's about to start!
+      textHome: I've gotta get back to the cafe,@my show's about to start!
   - chara:
     - id: 305300
       textHomeStatus: Clear
@@ -1090,9 +1023,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3053_00_45
-      textHome: |-
-        I won't die...
-        Not until your dream comes true...
+      textHome: I won't die...@Not until your dream comes true...
   - chara:
     - id: 305300
       textHomeStatus: Clear
@@ -1106,9 +1037,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3053_00_46
-      textHome: |-
-        My warmth and extra-special love
-        will never fade away!
+      textHome: My warmth and extra-special love@will never fade away!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -1230,9 +1159,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3053_00_14
-      textHome: |-
-        Thanks sooo much for your support!
-        I'm gonna blow you a kiss, so catch it!
+      textHome: Thanks sooo much for your support!@I'm gonna blow you a kiss, so catch
+        it!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -1283,9 +1211,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3053_00_16
-      textHome: |-
-        People say I've got an old-fashioned,
-        cutesy act, but this is the real me!
+      textHome: People say I've got an old-fashioned,@cutesy act, but this is the
+        real me!
   - autoTurnFirst: 1.8
     chara:
     - cheek: 1
@@ -1298,9 +1225,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 305300
       motion: 1
-      textHome: |-
-        Besides, no one else acts like this now,
-        so I'm like a niche character!
+      textHome: Besides, no one else acts like this now,@so I'm like a niche character!
   - autoTurnFirst: 4
     chara:
     - cheek: 1

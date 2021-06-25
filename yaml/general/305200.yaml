@@ -16,10 +16,8 @@ story:
     chara:
     - id: 305200
       motion: 400
-      textHome: |-
-        “Ohatsu ni omeni kakarimasune,
-        Ashley desu. Watashi wa daisukina
-        Nihon ni ryugaku shitemasu!
+      textHome: “Ohatsu ni omeni kakarimasune,@Ashley desu. Watashi wa daisukina@Nihon
+        ni ryugaku shitemasu!
   - autoTurnFirst: 1.1
     chara:
     - cheek: 1
@@ -43,9 +41,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 305200
       motion: 100
-      textHome: |-
-        Kawaii ni kakomarete
-        mainiti tanoshii desuyo"
+      textHome: Kawaii ni kakomarete@mainiti tanoshii desuyo"
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
@@ -61,10 +57,8 @@ story:
     chara:
     - id: 305200
       motion: 400
-      textHome: |-
-        It means, "Nice to meet ya, I'm Ashley!
-        I'm here studying abroad in
-        my favorite place, Japan.
+      textHome: It means, "Nice to meet ya, I'm Ashley!@I'm here studying abroad in@my
+        favorite place, Japan.
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -85,9 +79,7 @@ story:
     chara:
     - id: 305200
       motion: 300
-      textHome: |-
-        Being surrounded by all this kawaii stuff
-        is just too much fun!"
+      textHome: Being surrounded by all this kawaii stuff@is just too much fun!"
   - autoTurnFirst: 2.3
     chara:
     - cheek: 2
@@ -115,9 +107,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 305200
       motion: 0
-      textHome: |-
-        It's got such nice light colors,
-        it's so...kawaii!
+      textHome: It's got such nice light colors,@it's so...kawaii!
   - autoTurnFirst: 2.8
     chara:
     - eyeClose: 1
@@ -127,9 +117,8 @@ story:
     chara:
     - eyeClose: 0
       id: 305200
-      textHome: |-
-        Add a little strawberry jam on top,
-        and...it transforms into a gurokawa cake!
+      textHome: Add a little strawberry jam on top,@and...it transforms into a gurokawa
+        cake!
   - autoTurnFirst: 4
     chara:
     - id: 305200
@@ -151,10 +140,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 305200
       motion: 1
-      textHome: |-
-        That means grotesque and kawaii!
-        You get two amazing flavors
-        in one tiny piece!
+      textHome: That means grotesque and kawaii!@You get two amazing flavors@in one
+        tiny piece!
   - autoTurnFirst: 3
     chara:
     - id: 305200
@@ -178,10 +165,8 @@ story:
     chara:
     - id: 305200
       motion: 1
-      textHome: |-
-        Did you know Sei Shonagon used the word
-        "okashi" instead of "kawaii",
-        like a thousand years ago?
+      textHome: Did you know Sei Shonagon used the word@"okashi" instead of "kawaii",@like
+        a thousand years ago?
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -190,9 +175,7 @@ story:
     chara:
     - eyeClose: 0
       id: 305200
-      textHome: |-
-        Today it would translate to
-        something like..."super kawaii"!
+      textHome: Today it would translate to@something like..."super kawaii"!
   - autoTurnFirst: 3
     chara:
     - id: 305200
@@ -218,9 +201,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_3052_00_19
-      textHome: |-
-        Yay! Now I'm even more kawaii!
-        I couldn't be happier!
+      textHome: Yay! Now I'm even more kawaii!@I couldn't be happier!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -260,9 +241,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_3052_00_21
-      textHome: |-
-        I'm so happy I was able to
-        become a Magical Girl!
+      textHome: I'm so happy I was able to@become a Magical Girl!
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
@@ -273,17 +252,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 305200
       motion: 400
-      textHome: |-
-        I learned a ton from watching anime,
-        ya know!
+      textHome: I learned a ton from watching anime,@ya know!
   - autoTurnFirst: 3.2
     chara:
     - eyeClose: 1
       id: 305200
       motion: 1
-      textHome: |-
-        Come to think of it, I think it's time
-        I came up with my signature pose.
+      textHome: Come to think of it, I think it's time@I came up with my signature
+        pose.
   - autoTurnFirst: 4
     chara:
     - eyeClose: 0
@@ -307,25 +283,20 @@ story:
     chara:
     - id: 305200
       motion: 1
-      textHome: |-
-        All the other girls are so kind,
-        they give me a hand a lot!
+      textHome: All the other girls are so kind,@they give me a hand a lot!
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_011.exp.json
       id: 305200
-      textHome: |-
-        I hope one day, I can be
-        just as helpful as them!
+      textHome: I hope one day, I can be@just as helpful as them!
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
       id: 305200
-      textHome: |-
-        I can't take their help for granted.
-        I gotta keep training and getting stronger!
+      textHome: I can't take their help for granted.@I gotta keep training and getting
+        stronger!
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
@@ -353,9 +324,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_3052_00_23
-      textHome: |-
-        It was hard for me to learn that a
-        Magical Girl is not just about being kawaii...
+      textHome: It was hard for me to learn that a@Magical Girl is not just about
+        being kawaii...
   - autoTurnFirst: 2.6
     chara:
     - eyeClose: 1
@@ -374,9 +344,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 305200
-      textHome: |-
-        I'm going to use my powers to protect
-        my friends and all things kawaii!
+      textHome: I'm going to use my powers to protect@my friends and all things kawaii!
   - autoTurnFirst: 2
     chara:
     - id: 305200
@@ -425,9 +393,7 @@ story:
     chara:
     - eyeClose: 0
       id: 305200
-      textHome: |-
-        Oh, right...
-        They're all a bit far from Kamihama.
+      textHome: Oh, right...@They're all a bit far from Kamihama.
   - autoTurnFirst: 1.6
     chara:
     - cheek: 0
@@ -469,18 +435,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 305200
       motion: 1
-      textHome: |-
-        Like they say,
-        the early bird catches the worm!
+      textHome: Like they say,@the early bird catches the worm!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 305200
       motion: 200
-      textHome: |-
-        Look, Kumanosuke looks
-        super happy right now.
+      textHome: Look, Kumanosuke looks@super happy right now.
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -508,9 +470,7 @@ story:
     chara:
     - id: 305200
       motion: 400
-      textHome: |-
-        Why do Japanese bentos have
-        pickled plums in them?
+      textHome: Why do Japanese bentos have@pickled plums in them?
   - autoTurnFirst: 3.5
     chara:
     - id: 305200
@@ -553,8 +513,8 @@ story:
     chara:
     - eyeClose: 0
       id: 305200
-      textHome: "I'm here, streaming from my favorite\nplace in the whole world, Japan,\nwhere
-        I'm on a study abroad! "
+      textHome: 'I''m here, streaming from my favorite@place in the whole world, Japan,@where
+        I''m on a study abroad! '
   - autoTurnFirst: 3.5
     chara:
     - id: 305200
@@ -602,9 +562,7 @@ story:
     chara:
     - id: 305200
       motion: 0
-      textHome: |-
-        I can cook, but I also like the food
-        Riko's family makes too!
+      textHome: I can cook, but I also like the food@Riko's family makes too!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -626,9 +584,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_3052_00_28
-      textHome: |-
-        I think I'm gonna use my free time
-        to make some new clothes.
+      textHome: I think I'm gonna use my free time@to make some new clothes.
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
@@ -644,10 +600,8 @@ story:
     chara:
     - id: 305200
       motion: 300
-      textHome: |-
-        Maybe I'll add some bandages,
-        fake blood, and scars to give it that
-        extra gurokawa feeling I'm so into!
+      textHome: Maybe I'll add some bandages,@fake blood, and scars to give it that@extra
+        gurokawa feeling I'm so into!
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -683,16 +637,12 @@ story:
       face: mtn_ex_011.exp.json
       id: 305200
       motion: 1
-      textHome: |-
-        I had parties like this at my house
-        all the time.
+      textHome: I had parties like this at my house@all the time.
   - autoTurnFirst: 4
     chara:
     - id: 305200
       motion: 400
-      textHome: |-
-        I would love to have a get-together
-        with you guys too!
+      textHome: I would love to have a get-together@with you guys too!
   - chara:
     - id: 305200
       textHomeStatus: Clear
@@ -712,14 +662,12 @@ story:
     chara:
     - eyeClose: 0
       id: 305200
-      textHome: |-
-        Well, I do love gurokawa,
-        but I also like the way Witches look too...
+      textHome: Well, I do love gurokawa,@but I also like the way Witches look too...
   - autoTurnFirst: 3.4
     chara:
     - id: 305200
       motion: 0
-      textHome: "But making people around you suffer...\nthat's not acceptable! "
+      textHome: 'But making people around you suffer...@that''s not acceptable! '
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0
@@ -745,19 +693,15 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_3052_00_31
-      textHome: |-
-        I heard they make a copy of you
-        if you go to Mirrors.
+      textHome: I heard they make a copy of you@if you go to Mirrors.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 305200
       motion: 400
-      textHome: |-
-        Does that mean if I bring a bunch of
-        kawaii things in there, the whole place
-        will get covered in kawaii?!
+      textHome: Does that mean if I bring a bunch of@kawaii things in there, the whole
+        place@will get covered in kawaii?!
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -812,16 +756,12 @@ story:
     chara:
     - id: 305200
       motion: 1
-      textHome: |-
-        That's the first English sentence
-        you learn in Japan!
+      textHome: That's the first English sentence@you learn in Japan!
   - autoTurnFirst: 2
     chara:
     - id: 305200
       motion: 0
-      textHome: |-
-        The first Japanese word I learned was
-        "kawaii"!
+      textHome: The first Japanese word I learned was@"kawaii"!
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -843,9 +783,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_3052_00_34
-      textHome: |-
-        I upload videos online to introduce
-        Japanese culture to the people back home!
+      textHome: I upload videos online to introduce@Japanese culture to the people
+        back home!
   - autoTurnFirst: 1.7
     chara:
     - cheek: 0
@@ -870,9 +809,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 305200
       motion: 200
-      textHome: |-
-        I'm looking to get more people
-        into the same stuff I am!
+      textHome: I'm looking to get more people@into the same stuff I am!
   - chara:
     - id: 305200
       textHomeStatus: Clear
@@ -892,9 +829,7 @@ story:
     chara:
     - id: 305200
       motion: 300
-      textHome: |-
-        Where am I gonna put my
-        gothic lolita dresses?
+      textHome: Where am I gonna put my@gothic lolita dresses?
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1
@@ -926,9 +861,7 @@ story:
     chara:
     - eyeClose: 0
       id: 305200
-      textHome: |-
-        Her concert starts soon,
-        I'm gonna go have her cut me down!
+      textHome: Her concert starts soon,@I'm gonna go have her cut me down!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -975,9 +908,7 @@ story:
     chara:
     - eyeClose: 0
       id: 305200
-      textHome: |-
-        They're gonna be similar to mine,
-        just a different color.
+      textHome: They're gonna be similar to mine,@just a different color.
   - autoTurnFirst: 3.8
     chara:
     - cheek: 1
@@ -1006,10 +937,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_3052_00_38
-      textHome: |-
-        If you want to learn the true essence of
-        kawaii-do, you should learn the language
-        it comes from!
+      textHome: If you want to learn the true essence of@kawaii-do, you should learn
+        the language@it comes from!
   - autoTurnFirst: 2.3
     chara:
     - id: 305200
@@ -1021,9 +950,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 305200
       motion: 400
-      textHome: |-
-        I learned Japanese so fast
-        thanks to my love for it!
+      textHome: I learned Japanese so fast@thanks to my love for it!
   - chara:
     - id: 305200
       textHomeStatus: Clear
@@ -1043,10 +970,8 @@ story:
     chara:
     - eyeClose: 0
       id: 305200
-      textHome: |-
-        She watches all the videos I upload and
-        told me she wants that kawaii doll
-        I was showing off the other day!
+      textHome: She watches all the videos I upload and@told me she wants that kawaii
+        doll@I was showing off the other day!
   - autoTurnFirst: 3
     chara:
     - id: 305200
@@ -1069,18 +994,14 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_3052_00_40
-      textHome: |-
-        Kumanosuke is my dear friend
-        that Daddy gave me...
+      textHome: Kumanosuke is my dear friend@that Daddy gave me...
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1
       id: 305200
       motion: 300
       tear: 1
-      textHome: |-
-        His words and Kumanosuke are
-        my most precious treasures.
+      textHome: His words and Kumanosuke are@my most precious treasures.
   - chara:
     - id: 305200
       textHomeStatus: Clear
@@ -1095,10 +1016,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_3052_00_41
-      textHome: |-
-        Back in the day,
-        "The moon is beautiful, isn't it?"
-        used to mean "I love you" in Japan.
+      textHome: Back in the day,@"The moon is beautiful, isn't it?"@used to mean "I
+        love you" in Japan.
   - autoTurnFirst: 1.8
     chara:
     - eyeClose: 1
@@ -1117,9 +1036,7 @@ story:
     chara:
     - id: 305200
       motion: 1
-      textHome: |-
-        That's what ya call the marvelous and
-        ancient depth of Japanese culture!
+      textHome: That's what ya call the marvelous and@ancient depth of Japanese culture!
   - autoTurnFirst: 6
     chara:
     - cheek: 2
@@ -1177,7 +1094,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_3052_00_44
-      textHome: "Now that was kawaii! \nTIme for my signature pose!"
+      textHome: Now that was kawaii! @TIme for my signature pose!
   - chara:
     - id: 305200
       textHomeStatus: Clear
@@ -1262,9 +1179,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_3052_00_13
-      textHome: |-
-        I feel more powerful than ever!
-        I need to keep this up!
+      textHome: I feel more powerful than ever!@I need to keep this up!
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
@@ -1359,9 +1274,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 305200
       motion: 400
-      textHome: |-
-        There's a lot more to
-        being kawaii than being cute!
+      textHome: There's a lot more to@being kawaii than being cute!
   - autoTurnFirst: 6
     chara:
     - id: 305200

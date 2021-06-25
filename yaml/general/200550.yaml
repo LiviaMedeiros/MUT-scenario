@@ -292,18 +292,14 @@ story:
       face: mtn_ex_040.exp.json
       id: 200550
       motion: 200
-      textHome: |-
-        It's dangerous to go into the ocean
-        when fatigued.
+      textHome: It's dangerous to go into the ocean@when fatigued.
   - autoTurnFirst: 4.8
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200550
       motion: 300
-      textHome: |-
-        I understand if the excitement
-        made it hard to sleep though.
+      textHome: I understand if the excitement@made it hard to sleep though.
   - chara:
     - id: 200550
       textHomeStatus: Clear
@@ -317,10 +313,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2005_50_26
-      textHome: |-
-        I bought a watermelon.
-        After lunch we can rest a bit,
-        then we can play split the watermelon.
+      textHome: I bought a watermelon.@After lunch we can rest a bit,@then we can
+        play split the watermelon.
   - autoTurnFirst: 4.5
     chara:
     - id: 200550
@@ -344,9 +338,8 @@ story:
     chara:
     - id: 200550
       motion: 0
-      textHome: |-
-        It looks beautiful sinking into the horizon,
-        but somehow it makes me melancholy.
+      textHome: It looks beautiful sinking into the horizon,@but somehow it makes
+        me melancholy.
   - autoTurnFirst: 6
     chara:
     - id: 200550
@@ -384,10 +377,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_2005_50_28
-      textHome: |-
-        You can't have a summer night without
-        fireworks! Yes, fireworks!
-        Not a Test of Courage!
+      textHome: You can't have a summer night without@fireworks! Yes, fireworks!@Not
+        a Test of Courage!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -400,9 +391,7 @@ story:
       face: mtn_ex_040.exp.json
       id: 200550
       motion: 1
-      textHome: |-
-        I'm not afraid, just...
-        who knows what can happen in the dark?
+      textHome: I'm not afraid, just...@who knows what can happen in the dark?
   - autoTurnFirst: 5.5
     chara:
     - id: 200550
@@ -429,10 +418,8 @@ story:
     chara:
     - eyeClose: 0
       id: 200550
-      textHome: |-
-        Don't you think it's nice to sit in the shade
-        and listen to the wind after you've
-        tired yourself out playing?
+      textHome: Don't you think it's nice to sit in the shade@and listen to the wind
+        after you've@tired yourself out playing?
   - autoTurnFirst: 4
     chara:
     - id: 200550
@@ -462,9 +449,7 @@ story:
       face: mtn_ex_040.exp.json
       id: 200550
       motion: 200
-      textHome: |-
-        We can't frolic about all the time
-        just because it's summer.
+      textHome: We can't frolic about all the time@just because it's summer.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -500,9 +485,7 @@ story:
     chara:
     - id: 200550
       motion: 200
-      textHome: |-
-        We can't make ourselves
-        look bad against them.
+      textHome: We can't make ourselves@look bad against them.
   - chara:
     - id: 200550
       textHomeStatus: Clear
@@ -543,18 +526,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2005_50_33
-      textHome: |-
-        I've never made a big sandcastle
-        like this before.
+      textHome: I've never made a big sandcastle@like this before.
   - autoTurnFirst: 4.4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200550
       motion: 200
-      textHome: |-
-        Of course, I owe it all to
-        Homura's patience and help.
+      textHome: Of course, I owe it all to@Homura's patience and help.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -574,18 +553,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_50_34
-      textHome: |-
-        Oh yes, how is your
-        summer homework going?
+      textHome: Oh yes, how is your@summer homework going?
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 200550
       motion: 100
-      textHome: |-
-        You can't skip schoolwork just because
-        there's so many fun activities waiting for you.
+      textHome: You can't skip schoolwork just because@there's so many fun activities
+        waiting for you.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -641,16 +617,13 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200550
-      textHome: |-
-        I was tempted by the lemon but decided
-        to go with the tea flavor for my shaved ice.
+      textHome: I was tempted by the lemon but decided@to go with the tea flavor for
+        my shaved ice.
   - autoTurnFirst: 4
     chara:
     - id: 200550
       motion: 0
-      textHome: |-
-        I don't see tea flavored shaved ice
-        very often...
+      textHome: I don't see tea flavored shaved ice@very often...
   - autoTurnFirst: 1
     chara:
     - eyeClose: 1
@@ -686,10 +659,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 200550
       motion: 0
-      textHome: |-
-        There's many standards for picking a good
-        swimsuit, but I believe you should just pick
-        the one you like the most.
+      textHome: There's many standards for picking a good@swimsuit, but I believe
+        you should just pick@the one you like the most.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -733,19 +704,15 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_2005_50_38
-      textHome: |-
-        Doesn't Homura look wonderful
-        in her swimsuit?
+      textHome: Doesn't Homura look wonderful@in her swimsuit?
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 200550
       motion: 300
-      textHome: |-
-        She worried the bikini she picked
-        was a bit too showy,
-        but I think she should be more confident.
+      textHome: She worried the bikini she picked@was a bit too showy,@but I think
+        she should be more confident.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -765,9 +732,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2005_50_39
-      textHome: |-
-        Madoka's swimsuit is so nice.
-        It's mature, with a hint of cuteness.
+      textHome: Madoka's swimsuit is so nice.@It's mature, with a hint of cuteness.
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -779,9 +744,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200550
       motion: 200
-      textHome: |-
-        It suits her perfectly, so whoever chose
-        it must know her very well.
+      textHome: It suits her perfectly, so whoever chose@it must know her very well.
   - chara:
     - id: 200550
       textHomeStatus: Clear
@@ -795,10 +758,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2005_50_40
-      textHome: |-
-        I never imagined since becoming a
-        Magical Girl  that I'd have such carefree
-        fun with my friends. Not even once.
+      textHome: I never imagined since becoming a@Magical Girl  that I'd have such
+        carefree@fun with my friends. Not even once.
   - autoTurnFirst: 4.7
     chara:
     - eyeClose: 1
@@ -846,10 +807,8 @@ story:
       face: mtn_ex_040.exp.json
       id: 200550
       motion: 0
-      textHome: |-
-        I was remembering a time before I became
-        a Magical Girl...when I went to the beach
-        with my parents.
+      textHome: I was remembering a time before I became@a Magical Girl...when I went
+        to the beach@with my parents.
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1

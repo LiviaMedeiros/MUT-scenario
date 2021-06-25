@@ -9,10 +9,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3008_00_01
-      textHome: |-
-        I must've been about six years old when
-        the lady living next door lost her wallet,
-        and I remember helping her look for it.
+      textHome: I must've been about six years old when@the lady living next door
+        lost her wallet,@and I remember helping her look for it.
   - autoTurnFirst: 2.6
     chara:
     - id: 300800
@@ -21,22 +19,21 @@ story:
     chara:
     - id: 300800
       motion: 100
-      textHome: |-
-        I got involved with the neighborhood
-        association and volunteering after that...
+      textHome: I got involved with the neighborhood@association and volunteering
+        after that...
   - autoTurnFirst: 4.2
     chara:
     - id: 300800
       motion: 200
-      textHome: "People were calling me the \"go-to helper\"\nor \"troubleshooter\"
-        before I knew it. "
+      textHome: 'People were calling me the "go-to helper"@or "troubleshooter" before
+        I knew it. '
   - autoTurnFirst: 1.8
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300800
       motion: 0
-      textHome: "Each day is a real challenge,\r\nbut I can't just turn people down."
+      textHome: Each day is a real challenge,@but I can't just turn people down.
   - autoTurnFirst: 1.9
     chara:
     - id: 300800
@@ -63,9 +60,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3008_00_18
-      textHome: |-
-        I actually want to draw
-        my own comics someday.
+      textHome: I actually want to draw@my own comics someday.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -99,9 +94,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300800
-      textHome: |-
-        The lovestruck iron-fisted artist,
-        that'll be me!
+      textHome: The lovestruck iron-fisted artist,@that'll be me!
   - autoTurnFirst: 1.8
     chara:
     - cheek: 0
@@ -169,9 +162,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3008_00_20
-      textHome: |-
-        Yeah... If I keep this up maybe I can
-        cut down on wasted movements!
+      textHome: Yeah... If I keep this up maybe I can@cut down on wasted movements!
   - autoTurnFirst: 1.1
     chara:
     - cheek: 0
@@ -204,7 +195,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3008_00_21
-      textHome: "Read the enemy and evade\nat the last second! "
+      textHome: 'Read the enemy and evade@at the last second! '
   - autoTurnFirst: 2.6
     chara:
     - id: 300800
@@ -250,10 +241,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3008_00_22
-      textHome: |-
-        I've become able to somewhat read
-        my opponent's next moves by watching
-        the subtleties in their actions.
+      textHome: I've become able to somewhat read@my opponent's next moves by watching@the
+        subtleties in their actions.
   - autoTurnFirst: 2.3
     chara:
     - id: 300800
@@ -427,9 +416,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300800
-      textHome: |-
-        Wanna join me?
-        Let's do it together.
+      textHome: Wanna join me?@Let's do it together.
   - autoTurnFirst: 0.5
     chara:
     - cheek: 0
@@ -443,9 +430,7 @@ story:
     chara:
     - id: 300800
       motion: 0
-      textHome: |-
-        It feels great to exercise
-        first thing in the morning!
+      textHome: It feels great to exercise@first thing in the morning!
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -550,8 +535,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 300800
       motion: 0
-      textHome: "A legendary swordsman once said...\nIt takes 1,000 days of training
-        to learn the \nbasics and 10,000 days to refine your skills."
+      textHome: A legendary swordsman once said...@It takes 1,000 days of training
+        to learn the @basics and 10,000 days to refine your skills.
   - autoTurnFirst: 3.7
     chara:
     - id: 300800
@@ -639,9 +624,7 @@ story:
     - id: 300800
       motion: 300
       tear: 1
-      textHome: |-
-        I've got no idea what the answer is!
-        This is gonna take me forever!
+      textHome: I've got no idea what the answer is!@This is gonna take me forever!
   - autoTurnFirst: 2.2
     chara:
     - id: 300800
@@ -664,8 +647,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3008_00_29
-      textHome: "As well as physical training, it's also \nimportant to visualize
-        your strategies."
+      textHome: As well as physical training, it's also @important to visualize your
+        strategies.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -677,9 +660,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 300800
       motion: 0
-      textHome: |-
-        Whenever I have a free moment,
-        in my mind I'm always like...
+      textHome: Whenever I have a free moment,@in my mind I'm always like...
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -732,9 +713,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3008_00_30
-      textHome: |-
-        I always follow through when I accept a job.
-        I never even think about running away...
+      textHome: I always follow through when I accept a job.@I never even think about
+        running away...
   - autoTurnFirst: 3.5
     chara:
     - id: 300800
@@ -778,9 +758,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3008_00_31
-      textHome: |-
-        All battles must be taken seriously.
-        To not do so is disrespectful to your enemy.
+      textHome: All battles must be taken seriously.@To not do so is disrespectful
+        to your enemy.
   - autoTurnFirst: 1.5
     chara:
     - id: 300800
@@ -796,9 +775,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300800
       motion: 0
-      textHome: |-
-        I won't hold back!
-        I'm gonna give it my all!
+      textHome: I won't hold back!@I'm gonna give it my all!
   - autoTurnFirst: 0.5
     chara:
     - cheek: 1
@@ -877,9 +854,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3008_00_33
-      textHome: |-
-        My favorite attack has got to
-        be the roundhouse kick.
+      textHome: My favorite attack has got to@be the roundhouse kick.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -897,9 +872,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300800
       motion: 200
-      textHome: |-
-        It feels so great when you
-        manage to land one of those!
+      textHome: It feels so great when you@manage to land one of those!
   - autoTurnFirst: 2.4
     chara:
     - cheek: 1
@@ -929,9 +902,8 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300800
-      textHome: |-
-        But I know I'd regret it if I ran away, and
-        that's what gives me the drive to keep going.
+      textHome: But I know I'd regret it if I ran away, and@that's what gives me the
+        drive to keep going.
   - autoTurnFirst: 0.6
     chara:
     - cheek: 0
@@ -967,9 +939,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3008_00_35
-      textHome: |-
-        It's always ideal to win with a
-        single deadly blow!
+      textHome: It's always ideal to win with a@single deadly blow!
   - autoTurnFirst: 2.2
     chara:
     - id: 300800
@@ -980,9 +950,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 300800
       motion: 0
-      textHome: |-
-        It's not easy to do, but it's what every karate
-        pupil aspires to.
+      textHome: It's not easy to do, but it's what every karate@pupil aspires to.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -1012,9 +980,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3008_00_36
-      textHome: |-
-        It's nice to see a smile
-        when you fix a problem.
+      textHome: It's nice to see a smile@when you fix a problem.
   - autoTurnFirst: 2.4
     chara:
     - cheek: 1
@@ -1027,9 +993,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300800
       motion: 0
-      textHome: |-
-        When I see someone get happy,
-        and that makes me happy too.
+      textHome: When I see someone get happy,@and that makes me happy too.
   - autoTurnFirst: 0.7
     chara:
     - cheek: 1
@@ -1057,9 +1021,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3008_00_37
-      textHome: |-
-        I've become physically stronger
-        since I became a Magical Girl,
+      textHome: I've become physically stronger@since I became a Magical Girl,
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
@@ -1071,9 +1033,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 300800
       motion: 1
-      textHome: |-
-        so I hold back a bit when
-        I'm sparring in karate.
+      textHome: so I hold back a bit when@I'm sparring in karate.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1129,9 +1089,7 @@ story:
     chara:
     - id: 300800
       motion: 0
-      textHome: |-
-        But they've given me a ton of
-        experience and taught me a lot.
+      textHome: But they've given me a ton of@experience and taught me a lot.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -1160,10 +1118,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3008_00_39
-      textHome: |-
-        Whenever I fight, I focus solely on
-        the enemy in front of me and
-        forget about everything else.
+      textHome: Whenever I fight, I focus solely on@the enemy in front of me and@forget
+        about everything else.
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -1263,9 +1219,7 @@ story:
     chara:
     - id: 300800
       motion: 1
-      textHome: |-
-        Even my parents can't say
-        anything about that!
+      textHome: Even my parents can't say@anything about that!
   - autoTurnFirst: 1.3
     chara:
     - cheek: 0
@@ -1643,9 +1597,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3008_00_15
-      textHome: |-
-        So... This is like moving up
-        a belt rank, right?
+      textHome: So... This is like moving up@a belt rank, right?
   - autoTurnFirst: 3.5
     chara:
     - id: 300800
@@ -1688,10 +1640,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 300800
       motion: 0
-      textHome: |-
-        I guess they're kind of like a world
-        I could never be a part of even if I tried,
-        or maybe something I really long for...
+      textHome: I guess they're kind of like a world@I could never be a part of even
+        if I tried,@or maybe something I really long for...
   - autoTurnFirst: 4
     chara:
     - id: 300800
@@ -1720,10 +1670,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3008_00_17
-      textHome: |-
-        I like to save up my allowance and buy
-        lots of cute little things...
-        without telling my parents.
+      textHome: I like to save up my allowance and buy@lots of cute little things...@without
+        telling my parents.
   - autoTurnFirst: 4
     chara:
     - id: 300800
@@ -1732,7 +1680,7 @@ story:
     chara:
     - id: 300800
       motion: 1
-      textHome: "Sometimes, I secretly peek at my collection\nand just smile... "
+      textHome: 'Sometimes, I secretly peek at my collection@and just smile... '
   - autoTurnFirst: 2.2
     chara:
     - cheek: 1
@@ -1743,9 +1691,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300800
-      textHome: |-
-        Hey! Don't back away
-        from me like that!
+      textHome: Hey! Don't back away@from me like that!
   - autoTurnFirst: 1.7
     chara:
     - cheek: 2

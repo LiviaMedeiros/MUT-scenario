@@ -10,35 +10,28 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1006_00_01
-      textHome: |-
-        I'm Mifuyu Azusa.
-        I used to be on Yachan's team,
+      textHome: I'm Mifuyu Azusa.@I used to be on Yachan's team,
   - autoTurnFirst: 6.1
     chara:
     - id: 100600
       motion: 100
-      textHome: |-
-        but now I'm working with others while I live
-        on my own for personal reasons.
+      textHome: but now I'm working with others while I live@on my own for personal
+        reasons.
   - autoTurnFirst: 7.9
     chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 100600
       motion: 300
-      textHome: |-
-        People say I'm sisterly and like to
-        take care of others, but I'm actually
-        terrible at household chores.
+      textHome: People say I'm sisterly and like to@take care of others, but I'm actually@terrible
+        at household chores.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100600
       motion: 200
-      textHome: |-
-        I do like it when people take care of me,
-        though! *Giggle*
+      textHome: I do like it when people take care of me,@though! *Giggle*
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -57,17 +50,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1006_00_18
-      textHome: |-
-        The Wings of the Magius went as far as
-         asking me to live away from my family
+      textHome: The Wings of the Magius went as far as@ asking me to live away from
+        my family
   - autoTurnFirst: 7.5
     chara:
     - id: 100600
       motion: 100
-      textHome: |-
-        because I've been a Magical Girl for
-        7 years, so my word is convincing
-        to less experienced girls.
+      textHome: because I've been a Magical Girl for@7 years, so my word is convincing@to
+        less experienced girls.
   - chara:
     - id: 100600
       textHomeStatus: Clear
@@ -81,9 +71,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1006_00_19
-      textHome: |-
-        This has given me a new,
-        fleeting glimpse of happiness.
+      textHome: This has given me a new,@fleeting glimpse of happiness.
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1
@@ -102,9 +90,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1006_00_20
-      textHome: |-
-        Maybe now I can believe in my own powers
-        a bit more, instead of being pessimistic.
+      textHome: Maybe now I can believe in my own powers@a bit more, instead of being
+        pessimistic.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -123,10 +110,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1006_00_21
-      textHome: |-
-        I am weaker than I used to be, but I'm still
-        much stronger than the Black Feathers,
-        so I must protect them.
+      textHome: I am weaker than I used to be, but I'm still@much stronger than the
+        Black Feathers,@so I must protect them.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -146,9 +131,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1006_00_22
-      textHome: |-
-        I will not be cowed.
-        I will not be crushed by my own burdens.
+      textHome: I will not be cowed.@I will not be crushed by my own burdens.
   - autoTurnFirst: 1
     chara:
     - eyeClose: 1
@@ -167,10 +150,8 @@ story:
     chara:
     - id: 100600
       motion: 300
-      textHome: |-
-        I've made up my mind...
-        I've gotten Yachan and the Feathers
-        involved, so I WILL save them.
+      textHome: I've made up my mind...@I've gotten Yachan and the Feathers@involved,
+        so I WILL save them.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -181,9 +162,7 @@ story:
     chara:
     - id: 100600
       motion: 1
-      textHome: |-
-        I am prepared to do anything to
-        make that happen.
+      textHome: I am prepared to do anything to@make that happen.
   - chara:
     - id: 100600
       textHomeStatus: Clear
@@ -234,16 +213,12 @@ story:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 100600
-      textHome: |-
-        You probably shouldn't stop by here
-        so often...
+      textHome: You probably shouldn't stop by here@so often...
   - autoTurnFirst: 3
     chara:
     - id: 100600
       motion: 1
-      textHome: |-
-        But oh well,
-        we can at least have some tea together.
+      textHome: But oh well,@we can at least have some tea together.
   - autoTurnFirst: 4.4
     chara:
     - cheek: 0
@@ -273,9 +248,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 100600
       motion: 0
-      textHome: |-
-        Who's going to come make sure
-        I wake back up?
+      textHome: Who's going to come make sure@I wake back up?
   - autoTurnFirst: 4.8
     chara:
     - cheek: 0
@@ -297,14 +270,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1006_00_26
-      textHome: |-
-        It's part of my routine to exercise a little
-        after eating lunch.
+      textHome: It's part of my routine to exercise a little@after eating lunch.
   - autoTurnFirst: 4.9
     chara:
     - id: 100600
       motion: 200
-      textHome: "I may not look the type,\nbut I'll have you know I do play sports! "
+      textHome: 'I may not look the type,@but I''ll have you know I do play sports! '
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -324,19 +295,15 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1006_00_27
-      textHome: |-
-        There, I'm finished with my
-        Magius business for the day.
+      textHome: There, I'm finished with my@Magius business for the day.
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100600
       motion: 100
-      textHome: |-
-        Now I'll go grab dinner from the
-        convenience store and check in on
-        some of the Black Feathers.
+      textHome: Now I'll go grab dinner from the@convenience store and check in on@some
+        of the Black Feathers.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -373,10 +340,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1006_00_28
-      textHome: |-
-        Japanese rooms tend to be overly bright,
-        that's why people say it's better to just
-        use natural light before sleeping.
+      textHome: Japanese rooms tend to be overly bright,@that's why people say it's
+        better to just@use natural light before sleeping.
   - autoTurnFirst: 6.2
     chara:
     - id: 100600
@@ -395,19 +360,16 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1006_00_29
-      textHome: |-
-        I'm the eldest here, so I like to look into
-        the inner workings of our organization
-        when I have the time.
+      textHome: I'm the eldest here, so I like to look into@the inner workings of
+        our organization@when I have the time.
   - autoTurnFirst: 6.3
     chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 100600
       motion: 300
-      textHome: |-
-        Some of the White Feathers were actually
-        dissatisfied with the Magius recently...
+      textHome: Some of the White Feathers were actually@dissatisfied with the Magius
+        recently...
   - chara:
     - id: 100600
       textHomeStatus: Clear
@@ -421,17 +383,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1006_00_30
-      textHome: |-
-        Hunting Grief Seeds is something we all do,
-        both normal Magical Girls and
-        those seeking freedom.
+      textHome: Hunting Grief Seeds is something we all do,@both normal Magical Girls
+        and@those seeking freedom.
   - autoTurnFirst: 3
     chara:
     - id: 100600
       motion: 400
-      textHome: |-
-        We should go out hunting for
-        some together soon.
+      textHome: We should go out hunting for@some together soon.
   - chara:
     - id: 100600
       textHomeStatus: Clear
@@ -445,9 +403,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1006_00_31
-      textHome: |-
-        I know that they're only copies, but I always
-        hesitate when fighting against people I know.
+      textHome: I know that they're only copies, but I always@hesitate when fighting
+        against people I know.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -493,10 +450,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1006_00_33
-      textHome: |-
-        When you buy new clothes,
-        doesn't it make you anxious for a day off
-        so you can go out wearing them?
+      textHome: When you buy new clothes,@doesn't it make you anxious for a day off@so
+        you can go out wearing them?
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -508,9 +463,8 @@ story:
       face: mtn_ex_040.exp.json
       id: 100600
       motion: 400
-      textHome: |-
-        Though I like wearing my new clothes
-        indoors because I hate getting them dirty.
+      textHome: Though I like wearing my new clothes@indoors because I hate getting
+        them dirty.
   - autoTurnFirst: 4
     chara:
     - id: 100600
@@ -533,17 +487,13 @@ story:
     chara:
     - id: 100600
       motion: 100
-      textHome: |-
-        I'm reading "Five Women Who Loved Love"
-        by Ihara Saikaku right now...
+      textHome: I'm reading "Five Women Who Loved Love"@by Ihara Saikaku right now...
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100600
-      textHome: |-
-        I was really craving a
-        historical romance novel.
+      textHome: I was really craving a@historical romance novel.
   - chara:
     - id: 100600
       textHomeStatus: Clear
@@ -557,9 +507,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1006_00_35
-      textHome: |-
-        My family runs a kimono store in Mizuna...
-        They were quite strict with me.
+      textHome: My family runs a kimono store in Mizuna...@They were quite strict
+        with me.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -584,9 +533,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1006_00_36
-      textHome: |-
-        The longer I live alone,
-        the more impressive I think Yachan is.
+      textHome: The longer I live alone,@the more impressive I think Yachan is.
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -598,10 +545,8 @@ story:
       face: mtn_ex_040.exp.json
       id: 100600
       motion: 300
-      textHome: |-
-        Cleaning such a huge house
-        every single day...
-        I'd give up after 30 minutes.
+      textHome: Cleaning such a huge house@every single day...@I'd give up after 30
+        minutes.
   - chara:
     - id: 100600
       textHomeStatus: Clear
@@ -615,19 +560,15 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1006_00_37
-      textHome: |-
-        I used to be the girl who spoiled everyone
-        at Mikazuki Villa.
+      textHome: I used to be the girl who spoiled everyone@at Mikazuki Villa.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 100600
       motion: 0
-      textHome: |-
-        Yachan used to tell me,
-        "I'm jealous of you, because I'm the one
-        who has to scold everyone."
+      textHome: Yachan used to tell me,@"I'm jealous of you, because I'm the one@who
+        has to scold everyone."
   - autoTurnFirst: 3.1
     chara:
     - cheek: 0
@@ -683,9 +624,7 @@ story:
     chara:
     - id: 100600
       motion: 100
-      textHome: |-
-        She was so kind to everyone,
-        Kanae really loved her...
+      textHome: She was so kind to everyone,@Kanae really loved her...
   - autoTurnFirst: 3.5
     chara:
     - eyeClose: 1
@@ -703,10 +642,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1006_00_39
-      textHome: |-
-        I've never noticed until recently but
-        Mel's fortune-telling might have been
-        the whole reason I grew feelings for him...
+      textHome: I've never noticed until recently but@Mel's fortune-telling might
+        have been@the whole reason I grew feelings for him...
   - autoTurnFirst: 3
     chara:
     - id: 100600
@@ -728,10 +665,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1006_00_40
-      textHome: |-
-        If we manage to free ourselves,
-        I'll have saved so many people's souls...
-        Mine, Yachan's, the Black Feathers'.
+      textHome: If we manage to free ourselves,@I'll have saved so many people's souls...@Mine,
+        Yachan's, the Black Feathers'.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -778,9 +713,8 @@ story:
     chara:
     - id: 100600
       motion: 100
-      textHome: |-
-        I know I might not look it, but I take more
-        pride in my appearance than most!
+      textHome: I know I might not look it, but I take more@pride in my appearance
+        than most!
   - chara:
     - id: 100600
       textHomeStatus: Clear
@@ -822,9 +756,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1006_00_44
-      textHome: |-
-        I could've pushed myself harder
-        back in the day.
+      textHome: I could've pushed myself harder@back in the day.
   - chara:
     - id: 100600
       textHomeStatus: Clear
@@ -838,9 +770,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1006_00_45
-      textHome: |-
-        I hope I'm not deceiving myself
-        with this victory.
+      textHome: I hope I'm not deceiving myself@with this victory.
   - chara:
     - id: 100600
       textHomeStatus: Clear
@@ -944,18 +874,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1006_00_02
-      textHome: |-
-        I'm a Magical Girl, but my magic is
-        getting much weaker.
+      textHome: I'm a Magical Girl, but my magic is@getting much weaker.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100600
       motion: 300
-      textHome: |-
-        Are you sure you want my help?
-        If so, then I'd be glad to.
+      textHome: Are you sure you want my help?@If so, then I'd be glad to.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -976,9 +902,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1006_00_13
-      textHome: |-
-        I feel like my power is back to
-        what it used to be.
+      textHome: I feel like my power is back to@what it used to be.
   - autoTurnFirst: 5.3
     chara:
     - cheek: 0
@@ -997,9 +921,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1006_00_14
-      textHome: |-
-        It's important to work hard every day
-        so that I don't get weaker.
+      textHome: It's important to work hard every day@so that I don't get weaker.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -1018,9 +940,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1006_00_15
-      textHome: |-
-        You're working so hard.
-        I feel bad just sitting here and watching.
+      textHome: You're working so hard.@I feel bad just sitting here and watching.
   - chara:
     - id: 100600
       textHomeStatus: Clear
@@ -1034,18 +954,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1006_00_16
-      textHome: |-
-        I'm aiming to become a pharmacist
-        while I live on my own.
+      textHome: I'm aiming to become a pharmacist@while I live on my own.
   - autoTurnFirst: 3.8
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100600
       motion: 100
-      textHome: |-
-        It's a little unusual, but that was
-        the condition of my scholarship.
+      textHome: It's a little unusual, but that was@the condition of my scholarship.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1064,19 +980,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1006_00_17
-      textHome: |-
-        The scholarship I'm receiving is actually
-        from a program created by one of the
-        Wings of the Magius.
+      textHome: The scholarship I'm receiving is actually@from a program created by
+        one of the@Wings of the Magius.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 100600
       motion: 300
-      textHome: |-
-        I do have to take my studies to be a
-        pharmacist seriously, though.
+      textHome: I do have to take my studies to be a@pharmacist seriously, though.
   - chara:
     - id: 100600
       textHomeStatus: Clear

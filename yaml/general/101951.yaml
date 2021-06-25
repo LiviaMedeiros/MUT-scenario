@@ -192,10 +192,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 101900
       motion: 1
-      textHome: |-
-        Even us here at the Amane Bamboo
-        Studio decorated our own tree,
-        one made of bamboo!
+      textHome: Even us here at the Amane Bamboo@Studio decorated our own tree,@one
+        made of bamboo!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -219,8 +217,8 @@ story:
     chara:
     - id: 101900
       motion: 1
-      textHome: "I have to prepare breakfast no matter what\nday it is! That's why
-        I'm wide awake and\nsmiling at sunrise during the holidays, too. "
+      textHome: 'I have to prepare breakfast no matter what@day it is! That''s why
+        I''m wide awake and@smiling at sunrise during the holidays, too. '
   - autoTurnFirst: 3
     chara:
     - id: 101900
@@ -249,9 +247,7 @@ story:
     chara:
     - id: 101900
       motion: 1
-      textHome: |-
-        Look, I cut the cucumber into
-        little Christmas trees!
+      textHome: Look, I cut the cucumber into@little Christmas trees!
   - autoTurnFirst: 3
     chara:
     - id: 101900
@@ -274,10 +270,8 @@ story:
     chara:
     - id: 101900
       motion: 0
-      textHome: |-
-        Nothing good will happen if any of the
-        apprentices see me, so I've gotta
-        quietly sneak out of here...
+      textHome: Nothing good will happen if any of the@apprentices see me, so I've
+        gotta@quietly sneak out of here...
   - autoTurnFirst: 2
     chara:
     - id: 101900
@@ -308,8 +302,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1019_51_28
-      textHome: "If everyone is going to ask Santa for a wish,\nI might as well make
-        one, too... "
+      textHome: 'If everyone is going to ask Santa for a wish,@I might as well make
+        one, too... '
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -338,18 +332,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 101900
       motion: 1
-      textHome: |-
-        Tsukuyo and I will wear
-        matching Santa outfits.
+      textHome: Tsukuyo and I will wear@matching Santa outfits.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101900
       motion: 0
-      textHome: |-
-        Going to the party with her is
-        going to be so much fun!
+      textHome: Going to the party with her is@going to be so much fun!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -368,25 +358,21 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1019_51_30
-      textHome: "Come on, those Witches won't \ntake themselves out!"
+      textHome: Come on, those Witches won't @take themselves out!
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101900
       motion: 0
-      textHome: |-
-        Huh? You're wondering why
-        I'm dressed up like Santa?
+      textHome: Huh? You're wondering why@I'm dressed up like Santa?
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101900
       motion: 100
-      textHome: |-
-        Don't worry,
-        I'll change before the fighting starts!
+      textHome: Don't worry,@I'll change before the fighting starts!
   - chara:
     - id: 101951
       textHomeStatus: Clear
@@ -400,19 +386,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1019_51_31
-      textHome: |-
-        So, copies in Christmas outfits are
-        showing up in Mirrors, too?
+      textHome: So, copies in Christmas outfits are@showing up in Mirrors, too?
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101900
       motion: 0
-      textHome: |-
-        Well, some are in swimsuits and
-        Halloween costumes, so it's
-        hard to tell what season it is.
+      textHome: Well, some are in swimsuits and@Halloween costumes, so it's@hard to
+        tell what season it is.
   - autoTurnFirst: 2
     chara:
     - id: 101900
@@ -447,9 +429,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1019_51_33
-      textHome: |-
-        Oh? My outfit?
-        Of course, I made it myself.
+      textHome: Oh? My outfit?@Of course, I made it myself.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -462,9 +442,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 101900
       motion: 1
-      textHome: |-
-        I wanted mine to look just like Tsukuyo's,
-        so I thought up all sorts of things.
+      textHome: I wanted mine to look just like Tsukuyo's,@so I thought up all sorts
+        of things.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -501,10 +480,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 101900
       motion: 1
-      textHome: |-
-        There's not really a chance to eat it
-        the rest of the year, so I always end up
-        going back for more.
+      textHome: There's not really a chance to eat it@the rest of the year, so I always
+        end up@going back for more.
   - chara:
     - id: 101951
       textHomeStatus: Clear
@@ -518,10 +495,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1019_51_35
-      textHome: |-
-        There's a butcher in town I like to go to,
-        and on the way there I saw a girl I knew...
-        selling cake wearing a Santa costume.
+      textHome: There's a butcher in town I like to go to,@and on the way there I
+        saw a girl I knew...@selling cake wearing a Santa costume.
   - autoTurnFirst: 3
     chara:
     - id: 101900
@@ -546,16 +521,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1019_51_36
-      textHome: |-
-        Doesn't the green plaid and white fur
-        look like a snow-covered Christmas tree?
+      textHome: Doesn't the green plaid and white fur@look like a snow-covered Christmas
+        tree?
   - autoTurnFirst: 2
     chara:
     - id: 101900
       motion: 0
-      textHome: |-
-        But it's the snowmen on the belt
-        that are just so cute!
+      textHome: But it's the snowmen on the belt@that are just so cute!
   - autoTurnFirst: 3
     chara:
     - id: 101900
@@ -580,7 +552,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 101900
       motion: 200
-      textHome: "Don't worry,\nI've got heating pads all over my body. "
+      textHome: 'Don''t worry,@I''ve got heating pads all over my body. '
   - autoTurnFirst: 3.5
     chara:
     - id: 101900
@@ -616,10 +588,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1019_51_38
-      textHome: |-
-        One of my friends showed me a fanzine
-        drawn by this girl called "Maiden of Mortality,
-        Christmas Death Caribou".
+      textHome: One of my friends showed me a fanzine@drawn by this girl called "Maiden
+        of Mortality,@Christmas Death Caribou".
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -652,9 +622,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 101900
       motion: 1
-      textHome: |-
-        She's goes to Tsukuyo's school, but it almost
-        seems like she's looking after me too.
+      textHome: She's goes to Tsukuyo's school, but it almost@seems like she's looking
+        after me too.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -673,16 +642,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1019_51_40
-      textHome: |-
-        I won't be running into Kanagi at the party,
-        will I?
+      textHome: I won't be running into Kanagi at the party,@will I?
   - autoTurnFirst: 3
     chara:
     - id: 101900
       motion: 0
-      textHome: |-
-        She helped me out in the past, but
-        seeing her now would be a little awkward...
+      textHome: She helped me out in the past, but@seeing her now would be a little
+        awkward...
   - autoTurnFirst: 3
     chara:
     - id: 101900

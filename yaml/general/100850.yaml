@@ -259,7 +259,7 @@ story:
       face: mtn_ex_021.exp.json
       id: 100800
       motion: 1
-      textHome: "Who opened the window\r\nthis early anyway?!"
+      textHome: Who opened the window@this early anyway?!
   - chara:
     - id: 100850
       textHomeStatus: Clear
@@ -278,9 +278,7 @@ story:
     chara:
     - id: 100800
       motion: 300
-      textHome: |-
-        Someone needs to create
-        an air conditioner for the earth.
+      textHome: Someone needs to create@an air conditioner for the earth.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -356,16 +354,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1008_50_28
-      textHome: |-
-        Summer is so full of life,
-        all 24 hours of every day.
+      textHome: Summer is so full of life,@all 24 hours of every day.
   - autoTurnFirst: 2.5
     chara:
     - id: 100800
       motion: 1
-      textHome: |-
-        The sky is overflowing with stars, it's hot,
-        and the insects are constantly singing.
+      textHome: The sky is overflowing with stars, it's hot,@and the insects are constantly
+        singing.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -432,9 +427,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1008_50_30
-      textHome: |-
-        Not only is my mood merda,
-        this Witch's timing is the same.
+      textHome: Not only is my mood merda,@this Witch's timing is the same.
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
@@ -477,9 +470,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1008_50_31
-      textHome: |-
-        You know, Endless Mirrors
-        may be similar to the sea.
+      textHome: You know, Endless Mirrors@may be similar to the sea.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -487,9 +478,8 @@ story:
       face: mtn_ex_013.exp.json
       id: 100800
       motion: 200
-      textHome: |-
-        It's deep, full of mysteries, a place where
-        Familiars are both born and killed.
+      textHome: It's deep, full of mysteries, a place where@Familiars are both born
+        and killed.
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -541,19 +531,15 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1008_50_33
-      textHome: |-
-        Huh? I was tired so I decided to
-        wind down with a bit of reading.
+      textHome: Huh? I was tired so I decided to@wind down with a bit of reading.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 100800
       motion: 0
-      textHome: |-
-        If I don't read this draft before
-        vacation's over, the idiota will get
-        even more annoying.
+      textHome: If I don't read this draft before@vacation's over, the idiota will
+        get@even more annoying.
   - autoTurnFirst: 3.5
     chara:
     - id: 100800
@@ -588,10 +574,8 @@ story:
     chara:
     - id: 100800
       motion: 0
-      textHome: |-
-        Everyone in their swimsuits,
-        showing off their perfect bodies...
-        A good chance to hunt for new specimens.
+      textHome: Everyone in their swimsuits,@showing off their perfect bodies...@A
+        good chance to hunt for new specimens.
   - autoTurnFirst: 3
     chara:
     - id: 100800
@@ -660,8 +644,7 @@ story:
     chara:
     - eyeClose: 1
       id: 100800
-      textHome: "If you really want to see me make one,\r\nI guess I could create
-        something..."
+      textHome: If you really want to see me make one,@I guess I could create something...
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -738,25 +721,19 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1008_50_38
-      textHome: |-
-        Stai zitto!
-        I'm trying to work here.
+      textHome: Stai zitto!@I'm trying to work here.
   - autoTurnFirst: 5
     chara:
     - id: 100800
       motion: 300
-      textHome: |-
-        I have the most perfect idea...
-        I need to get it down.
+      textHome: I have the most perfect idea...@I need to get it down.
   - autoTurnFirst: 4
     chara:
     - cheek: 2
       face: mtn_ex_013.exp.json
       id: 100800
       motion: 200
-      textHome: |-
-        I'm even using my sweat
-        to blend the paints.
+      textHome: I'm even using my sweat@to blend the paints.
   - chara:
     - id: 100850
       textHomeStatus: Clear
@@ -775,9 +752,7 @@ story:
     chara:
     - id: 100800
       motion: 200
-      textHome: |-
-        That idiota is really going to give it
-        to me if I don't get her something.
+      textHome: That idiota is really going to give it@to me if I don't get her something.
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -808,17 +783,15 @@ story:
       face: mtn_ex_000.exp.json
       id: 100800
       motion: 0
-      textHome: "Just coming to the beach with\r\nanother person is so fresh."
+      textHome: Just coming to the beach with@another person is so fresh.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100800
       motion: 100
-      textHome: |-
-        I usually don't think much of people,
-        especially the ones I have
-        no relationship with.
+      textHome: I usually don't think much of people,@especially the ones I have@no
+        relationship with.
   - chara:
     - id: 100850
       textHomeStatus: Clear

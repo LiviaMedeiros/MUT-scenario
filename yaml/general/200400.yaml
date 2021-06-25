@@ -10,9 +10,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2004_00_01
-      textHome: |-
-        I came chasing after Mami, and now here
-        I am striking out in Kamihama at last...
+      textHome: I came chasing after Mami, and now here@I am striking out in Kamihama
+        at last...
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -25,9 +24,7 @@ story:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 200400
-      textHome: |-
-        I ran into a bunch of Witches and
-        Familiars back there, and then...
+      textHome: I ran into a bunch of Witches and@Familiars back there, and then...
   - autoTurnFirst: 4.5
     chara:
     - id: 200400
@@ -38,18 +35,14 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 200400
-      textHome: |-
-        That thing's way wilder than anything
-        I could've imagined!
+      textHome: That thing's way wilder than anything@I could've imagined!
   - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200400
       motion: 100
-      textHome: |-
-        Though it's nothing Mami
-        can't keep up with...
+      textHome: Though it's nothing Mami@can't keep up with...
   - chara:
     - id: 200400
       textHomeStatus: Clear
@@ -69,19 +62,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2004_00_18
-      textHome: |-
-        I'm not the same Sayaka I used to be.
-        Now I'm a whole new person...
-        One I never could've become on my own!
+      textHome: I'm not the same Sayaka I used to be.@Now I'm a whole new person...@One
+        I never could've become on my own!
   - autoTurnFirst: 1.8
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200400
       motion: 0
-      textHome: |-
-        Now it's time to put the new me to
-        the test and cut loose!
+      textHome: Now it's time to put the new me to@the test and cut loose!
   - autoTurnFirst: 3.5
     chara:
     - id: 200400
@@ -112,9 +101,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 200400
       motion: 100
-      textHome: |-
-        Right now I'm soaring,
-        flying above the clouds!
+      textHome: Right now I'm soaring,@flying above the clouds!
   - chara:
     - id: 200400
       textHomeStatus: Clear
@@ -134,9 +121,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2004_00_20
-      textHome: |-
-        Y'know, I think I'm seeing the world
-        in a new light now.
+      textHome: Y'know, I think I'm seeing the world@in a new light now.
   - chara:
     - id: 200400
       textHomeStatus: Clear
@@ -161,9 +146,8 @@ story:
     chara:
     - id: 200400
       motion: 1
-      textHome: |-
-        I kinda feel like I can beat opponents
-        I wouldn't stand a chance against before!
+      textHome: I kinda feel like I can beat opponents@I wouldn't stand a chance against
+        before!
   - chara:
     - id: 200400
       textHomeStatus: Clear
@@ -183,9 +167,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2004_00_22
-      textHome: |-
-        My wish was to heal my
-        childhood friend's injury.
+      textHome: My wish was to heal my@childhood friend's injury.
   - autoTurnFirst: 2
     chara:
     - eyeClose: 1
@@ -196,17 +178,14 @@ story:
     - eyeClose: 0
       id: 200400
       motion: 0
-      textHome: |-
-        What I really wanted was the power to
-        help all of the people precious to me.
+      textHome: What I really wanted was the power to@help all of the people precious
+        to me.
   - autoTurnFirst: 6
     chara:
     - id: 200400
       motion: 1
-      textHome: |-
-        So I don't have a single regret about
-        becoming a Magical Girl. I don't think
-        it would be right to regret it.
+      textHome: So I don't have a single regret about@becoming a Magical Girl. I don't
+        think@it would be right to regret it.
   - chara:
     - id: 200400
       textHomeStatus: Clear
@@ -255,17 +234,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_2004_00_24
-      textHome: |-
-        All right, let's face the day
-        with everything we got!
+      textHome: All right, let's face the day@with everything we got!
   - autoTurnFirst: 7
     chara:
     - id: 200400
       motion: 1
-      textHome: |-
-        Each day is full of challenges,
-        but you won't fix 'em by sitting
-        around and worrying about them!
+      textHome: Each day is full of challenges,@but you won't fix 'em by sitting@around
+        and worrying about them!
   - chara:
     - id: 200400
       textHomeStatus: Clear
@@ -292,9 +267,7 @@ story:
       face: mtn_ex_040.exp.json
       id: 200400
       motion: 100
-      textHome: |-
-        My alarm clock didn't go off,
-        so I almost overslept,
+      textHome: My alarm clock didn't go off,@so I almost overslept,
   - autoTurnFirst: 3
     chara:
     - id: 200400
@@ -319,22 +292,20 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2004_00_26
-      textHome: "Whoohoo, lunch time!\nC'mon, let's go go go! "
+      textHome: 'Whoohoo, lunch time!@C''mon, let''s go go go! '
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 200400
       motion: 0
-      textHome: "What, you don't think it's\nworth going crazy over? "
+      textHome: 'What, you don''t think it''s@worth going crazy over? '
   - autoTurnFirst: 1
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200400
-      textHome: |-
-        Of course it is!
-        I'm a growing girl, aren't I!
+      textHome: Of course it is!@I'm a growing girl, aren't I!
   - autoTurnFirst: 5
     chara:
     - id: 200400
@@ -369,9 +340,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200400
-      textHome: |-
-        That's what it takes to be an ally of justice,
-        just like Mami said!
+      textHome: That's what it takes to be an ally of justice,@just like Mami said!
   - autoTurnFirst: 3
     chara:
     - id: 200400
@@ -425,7 +394,7 @@ story:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 200400
-      textHome: "I finally finished my homework\nand now I gotta hit the hay! "
+      textHome: 'I finally finished my homework@and now I gotta hit the hay! '
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -453,17 +422,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2004_00_29
-      textHome: |-
-        I don't think people take me for someone
-        who listens to classical music.
+      textHome: I don't think people take me for someone@who listens to classical
+        music.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200400
-      textHome: |-
-        When I know the name of some
-        famous piece, everyone just flips out...
+      textHome: When I know the name of some@famous piece, everyone just flips out...
   - autoTurnFirst: 4
     chara:
     - id: 200400
@@ -494,9 +460,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200400
       motion: 1
-      textHome: |-
-        We're all ready for some Witch patrolling!
-        No slacking off!
+      textHome: We're all ready for some Witch patrolling!@No slacking off!
   - autoTurnFirst: 3
     chara:
     - id: 200400
@@ -521,16 +485,12 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2004_00_31
-      textHome: |-
-        I wished for powers to protect
-        the people I love.
+      textHome: I wished for powers to protect@the people I love.
   - autoTurnFirst: 5
     chara:
     - id: 200400
       motion: 1
-      textHome: |-
-        If someone shows up that's worse
-        than a Witch, I'll fight them.
+      textHome: If someone shows up that's worse@than a Witch, I'll fight them.
   - autoTurnFirst: 5
     chara:
     - id: 200400
@@ -617,10 +577,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2004_00_34
-      textHome: |-
-        My friend Hitomi is busy every day
-        taking piano lessons, Japanese dance,
-        stuff like that.
+      textHome: My friend Hitomi is busy every day@taking piano lessons, Japanese
+        dance,@stuff like that.
   - autoTurnFirst: 5
     chara:
     - id: 200400
@@ -645,16 +603,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2004_00_35
-      textHome: |-
-        I only started checking out
-        CD shops 'cause of my friend.
+      textHome: I only started checking out@CD shops 'cause of my friend.
   - autoTurnFirst: 6
     chara:
     - id: 200400
       motion: 100
-      textHome: |-
-        For some reason I've gotten real
-        good at spotting super rare stuff!
+      textHome: For some reason I've gotten real@good at spotting super rare stuff!
   - chara:
     - id: 200400
       textHomeStatus: Clear
@@ -674,19 +628,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2004_00_36
-      textHome: |-
-        The thing that shocked me most
-        about becoming a Magical Girl
-        was being able to use telepathy!
+      textHome: The thing that shocked me most@about becoming a Magical Girl@was being
+        able to use telepathy!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 200400
       motion: 100
-      textHome: |-
-        I have no idea how it works,
-        but it's super handy!
+      textHome: I have no idea how it works,@but it's super handy!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -711,8 +661,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2004_00_37
-      textHome: "Oh, Madoka...\r\nPutting her hair up in ribbons,\r\ngetting attention
-        from all the boys!"
+      textHome: Oh, Madoka...@Putting her hair up in ribbons,@getting attention from
+        all the boys!
   - autoTurnFirst: 1.8
     chara:
     - id: 200400
@@ -770,9 +720,7 @@ story:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 200400
-      textHome: |-
-        She's got glasses, braids,
-        AND can't stop tripping over thin air.
+      textHome: She's got glasses, braids,@AND can't stop tripping over thin air.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -783,9 +731,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 200400
-      textHome: |-
-        Is she TRYING to be a fan favorite?!
-        Is that it?!
+      textHome: Is she TRYING to be a fan favorite?!@Is that it?!
   - autoTurnFirst: 3
     chara:
     - id: 200400
@@ -809,7 +755,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2004_00_39
-      textHome: "We're so lucky to have a great senpai\nlike Mami at our school. "
+      textHome: 'We''re so lucky to have a great senpai@like Mami at our school. '
   - autoTurnFirst: 1.7
     chara:
     - id: 200400
@@ -844,10 +790,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2004_00_40
-      textHome: |-
-        You know Kyoko?
-        She always yelling, "It's too bitter!"
-        when she tries the tea Mami makes...
+      textHome: You know Kyoko?@She always yelling, "It's too bitter!"@when she tries
+        the tea Mami makes...
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -885,10 +829,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2004_00_41
-      textHome: |-
-        I used my one shot at a miracle for him...
-        I'm not gonna downplay the feelings
-        I had when I did it.
+      textHome: I used my one shot at a miracle for him...@I'm not gonna downplay
+        the feelings@I had when I did it.
   - autoTurnFirst: 3
     chara:
     - id: 200400
@@ -902,9 +844,7 @@ story:
     chara:
     - id: 200400
       motion: 0
-      textHome: |-
-        I don't regret my choice,
-        and I never will. No way.
+      textHome: I don't regret my choice,@and I never will. No way.
   - chara:
     - id: 200400
       textHomeStatus: Clear
@@ -1004,9 +944,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2004_00_46
-      textHome: |-
-        I almost dozed off from
-        sheer boredom there!
+      textHome: I almost dozed off from@sheer boredom there!
   - chara:
     - id: 200400
       textHomeStatus: Clear
@@ -1136,9 +1074,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200400
       motion: 0
-      textHome: |-
-        The Magical Girl of Justice,
-        Sayaka Miki has arrived!
+      textHome: The Magical Girl of Justice,@Sayaka Miki has arrived!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1156,9 +1092,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200400
       motion: 0
-      textHome: |-
-        Don't worry about anything!
-        You can count on me! I know, cliche, right?
+      textHome: Don't worry about anything!@You can count on me! I know, cliche, right?
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0
@@ -1184,9 +1118,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_2004_00_13
-      textHome: |-
-        Whoa! I'm brimming all over with
-        this cool magical feeling!
+      textHome: Whoa! I'm brimming all over with@this cool magical feeling!
   - chara:
     - id: 200400
       textHomeStatus: Clear
@@ -1268,9 +1200,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2004_00_16
-      textHome: |-
-        I've earned enough experience to stand
-        tall as a pretty decent Magical Girl, I think!
+      textHome: I've earned enough experience to stand@tall as a pretty decent Magical
+        Girl, I think!
   - autoTurnFirst: 4.3
     chara:
     - cheek: 0
@@ -1302,9 +1233,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2004_00_17
-      textHome: |-
-        I don't really have any
-        special potential or skills...
+      textHome: I don't really have any@special potential or skills...
   - autoTurnFirst: 5
     chara:
     - id: 200400
@@ -1315,9 +1244,7 @@ story:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 200400
-      textHome: |-
-        Am I allowed to be proud of that?
-        I think so, right?
+      textHome: Am I allowed to be proud of that?@I think so, right?
   - chara:
     - id: 200400
       textHomeStatus: Clear

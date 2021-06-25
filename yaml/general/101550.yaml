@@ -287,18 +287,14 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_50_24
-      textHome: |-
-        Phew, I just made it...
-        I'm glad I wasn't late!
+      textHome: Phew, I just made it...@I'm glad I wasn't late!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101500
       motion: 0
-      textHome: |-
-        Sis and the others are up ahead,
-        let's catch up to them.
+      textHome: Sis and the others are up ahead,@let's catch up to them.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -335,10 +331,8 @@ story:
     chara:
     - id: 101500
       motion: 1
-      textHome: |-
-        I woke up early and went by the water...
-        There was this fisherman who caught it,
-        and he shared it with me!
+      textHome: I woke up early and went by the water...@There was this fisherman
+        who caught it,@and he shared it with me!
   - chara:
     - id: 101550
       textHomeStatus: Clear
@@ -360,9 +354,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101500
       motion: 0
-      textHome: |-
-        Today's lunch is the Tamaki Sisters
-        Special Bento!
+      textHome: Today's lunch is the Tamaki Sisters@Special Bento!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -375,10 +367,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 101500
       motion: 1
-      textHome: |-
-        Check it out! Pickled plum lotus root...
-        We picked foods that wouldn't
-        go bad in the heat!
+      textHome: Check it out! Pickled plum lotus root...@We picked foods that wouldn't@go
+        bad in the heat!
   - chara:
     - id: 101550
       textHomeStatus: Clear
@@ -426,10 +416,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_50_27
-      textHome: |-
-        It's strange... A summer ocean sunset is
-        beautiful but kinda scary. I don't know,
-        it's almost too beautiful, too spectacular...
+      textHome: It's strange... A summer ocean sunset is@beautiful but kinda scary.
+        I don't know,@it's almost too beautiful, too spectacular...
   - autoTurnFirst: 9
     chara:
     - id: 101500
@@ -453,7 +441,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_50_28
-      textHome: "The waves, the bugs, the wind,\nand all the sandals... "
+      textHome: 'The waves, the bugs, the wind,@and all the sandals... '
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -462,9 +450,7 @@ story:
     chara:
     - id: 101500
       motion: 100
-      textHome: |-
-        When these sounds of the summer
-        come together it almost makes a song.
+      textHome: When these sounds of the summer@come together it almost makes a song.
   - autoTurnFirst: 2.5
     chara:
     - eyeClose: 1
@@ -485,18 +471,14 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_50_29
-      textHome: |-
-        Swimming in the ocean is only one of
-        the things I want to do this summer!
+      textHome: Swimming in the ocean is only one of@the things I want to do this
+        summer!
   - autoTurnFirst: 2
     chara:
     - id: 101500
       motion: 200
-      textHome: |-
-        I want to go to the pool, go hiking,
-        see some fireworks, there's even
-        a summer choir I'd like to see too!
-        I could go on and on...
+      textHome: I want to go to the pool, go hiking,@see some fireworks, there's even@a
+        summer choir I'd like to see too!@I could go on and on...
   - autoTurnFirst: 1.5
     chara:
     - id: 101500
@@ -538,9 +520,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 101500
       motion: 300
-      textHome: |-
-        I can't let it ruin everyone's
-        summer vacation...
+      textHome: I can't let it ruin everyone's@summer vacation...
   - autoTurnFirst: 2.5
     chara:
     - id: 101500
@@ -560,18 +540,15 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_50_31
-      textHome: |-
-        Apparently you can find Magical Girls in
-        swimsuits in Endless Mirrors sometimes.
+      textHome: Apparently you can find Magical Girls in@swimsuits in Endless Mirrors
+        sometimes.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101500
       motion: 300
-      textHome: |-
-        I'm curious who's in there,
-        but I'd feel bad if I went looking...
+      textHome: I'm curious who's in there,@but I'd feel bad if I went looking...
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -619,9 +596,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_50_33
-      textHome: |-
-        Phew, how about a little break
-        with some tea?
+      textHome: Phew, how about a little break@with some tea?
   - autoTurnFirst: 4
     chara:
     - eyeClose: 0
@@ -632,9 +607,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101500
       motion: 0
-      textHome: |-
-        A tall glass with tons of ice,
-        it's going to be great!
+      textHome: A tall glass with tons of ice,@it's going to be great!
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -655,9 +628,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_50_34
-      textHome: |-
-        I know the universe is neverending,
-        but the ocean almost feels like it is too...
+      textHome: I know the universe is neverending,@but the ocean almost feels like
+        it is too...
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -698,9 +670,7 @@ story:
     chara:
     - id: 101500
       motion: 100
-      textHome: |-
-        I'm thinking about finding some more
-        to make something like an accessory!
+      textHome: I'm thinking about finding some more@to make something like an accessory!
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -780,18 +750,14 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101500
-      textHome: |-
-        Me and others ate nagashi
-        somen the other day!
+      textHome: Me and others ate nagashi@somen the other day!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_041.exp.json
       id: 101500
       motion: 0
-      textHome: |-
-        Those noodles going down that bamboo
-        slide are so difficult to catch!
+      textHome: Those noodles going down that bamboo@slide are so difficult to catch!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -818,10 +784,8 @@ story:
     chara:
     - eyeClose: 0
       id: 101500
-      textHome: |-
-        I know it may make me weird,
-        but the smell of citronella candles
-        just kinda puts me at ease.
+      textHome: I know it may make me weird,@but the smell of citronella candles@just
+        kinda puts me at ease.
   - autoTurnFirst: 1.5
     chara:
     - id: 101500
@@ -877,9 +841,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_50_40
-      textHome: |-
-        Look, this is a photo we all took at
-        the beach to remember the occasion.
+      textHome: Look, this is a photo we all took at@the beach to remember the occasion.
   - autoTurnFirst: 3.5
     chara:
     - id: 101500
@@ -888,9 +850,7 @@ story:
     chara:
     - id: 101500
       motion: 100
-      textHome: |-
-        You can really see how slender
-        and beautiful Yachiyo really is!
+      textHome: You can really see how slender@and beautiful Yachiyo really is!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -921,19 +881,15 @@ story:
       face: mtn_ex_010.exp.json
       id: 101500
       motion: 0
-      textHome: |-
-        It was so nice getting all the sand off
-        in the shower.
+      textHome: It was so nice getting all the sand off@in the shower.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_041.exp.json
       id: 101500
       motion: 0
-      textHome: |-
-        After I go into the ocean,
-        my hair feels all weird,
-        like it's not even mine.
+      textHome: After I go into the ocean,@my hair feels all weird,@like it's not
+        even mine.
   - autoTurnFirst: 4
     chara:
     - id: 101500

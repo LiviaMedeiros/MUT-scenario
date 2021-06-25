@@ -40,9 +40,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 300300
       motion: 1
-      textHome: |-
-        Coming into someone's castle,
-        eavesdropping on their ramblings?!
+      textHome: Coming into someone's castle,@eavesdropping on their ramblings?!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -61,17 +59,13 @@ story:
       face: mtn_ex_050.exp.json
       id: 300300
       motion: 0
-      textHome: |-
-        I happen to be the club leader,
-        Hinano Miyako.
+      textHome: I happen to be the club leader,@Hinano Miyako.
   - autoTurnFirst: 0.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300300
-      textHome: |-
-        Huh? The Chemistry Club!
-        This is our lab.
+      textHome: Huh? The Chemistry Club!@This is our lab.
   - autoTurnFirst: 2.2
     chara:
     - id: 300300
@@ -102,9 +96,7 @@ story:
     chara:
     - id: 300300
       motion: 400
-      textHome: |-
-        There's always, always a way to clear
-        any hurdle, no matter how high.
+      textHome: There's always, always a way to clear@any hurdle, no matter how high.
   - autoTurnFirst: 2.9
     chara:
     - cheek: 0
@@ -117,8 +109,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 300300
       motion: 300
-      textHome: "Only the ones who put their backs\r\ninto it get to see the view
-        from the top."
+      textHome: Only the ones who put their backs@into it get to see the view from
+        the top.
   - autoTurnFirst: 1.6
     chara:
     - cheek: 1
@@ -143,9 +135,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3003_00_19
-      textHome: |-
-        With chemistry and humanity...
-        the sky's the limit!
+      textHome: With chemistry and humanity...@the sky's the limit!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -176,9 +166,7 @@ story:
     chara:
     - id: 300300
       motion: 0
-      textHome: |-
-        I can be one of those sexy scientists
-        in a white lab coat now?!
+      textHome: I can be one of those sexy scientists@in a white lab coat now?!
   - autoTurnFirst: 3.5
     chara:
     - id: 300300
@@ -198,9 +186,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3003_00_21
-      textHome: |-
-        Me questioning myself will
-        only make everyone worry.
+      textHome: Me questioning myself will@only make everyone worry.
   - autoTurnFirst: 0.5
     chara:
     - cheek: 0
@@ -216,9 +202,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 300300
       motion: 0
-      textHome: |-
-        So, I've always got to be
-        the cool-headed veteran.
+      textHome: So, I've always got to be@the cool-headed veteran.
   - autoTurnFirst: 3.8
     chara:
     - id: 300300
@@ -238,9 +222,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3003_00_22
-      textHome: |-
-        Of course I want to go big!
-        To be the great Hinano!
+      textHome: Of course I want to go big!@To be the great Hinano!
   - autoTurnFirst: 3.4
     chara:
     - id: 300300
@@ -249,17 +231,13 @@ story:
     chara:
     - id: 300300
       motion: 0
-      textHome: |-
-        But it's not because
-        I want respect and admiration.
+      textHome: But it's not because@I want respect and admiration.
   - autoTurnFirst: 2
     chara:
     - id: 300300
       motion: 300
-      textHome: |2-
-         I want to be the one my juniors
-        can come to with anything, the "big"
-        veteran who sees them through it.
+      textHome: ' I want to be the one my juniors@can come to with anything, the "big"@veteran
+        who sees them through it.'
   - autoTurnFirst: 1.9
     chara:
     - cheek: 0
@@ -335,9 +313,7 @@ story:
     chara:
     - id: 300300
       motion: 0
-      textHome: |-
-        As soon as you're ready,
-        hurry and set everything up!
+      textHome: As soon as you're ready,@hurry and set everything up!
   - autoTurnFirst: 2.4
     chara:
     - id: 300300
@@ -452,9 +428,7 @@ story:
     chara:
     - id: 300300
       motion: 1
-      textHome: |-
-        I call it the Castle...and I call
-        the library the Villa!
+      textHome: I call it the Castle...and I call@the library the Villa!
   - chara:
     - id: 300300
       textHomeStatus: Clear
@@ -489,8 +463,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3003_00_28
-      textHome: "Oh no! I was busy thinking about what to \ndo for the next event,
-        and now it's so late!"
+      textHome: Oh no! I was busy thinking about what to @do for the next event, and
+        now it's so late!
   - autoTurnFirst: 1.8
     chara:
     - cheek: 1
@@ -507,9 +481,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 300300
       motion: 300
-      textHome: |-
-        I need to go to bed...
-        Sleeping helps you grow taller!
+      textHome: I need to go to bed...@Sleeping helps you grow taller!
   - chara:
     - id: 300300
       textHomeStatus: Clear
@@ -525,9 +497,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3003_00_29
-      textHome: |-
-        Some day it will be possible to get taller
-        using chemistry, not physics!
+      textHome: Some day it will be possible to get taller@using chemistry, not physics!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -545,9 +515,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 300300
       motion: 0
-      textHome: |-
-        One day, chemistry will progress
-        to that point!
+      textHome: One day, chemistry will progress@to that point!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -579,7 +547,7 @@ story:
     chara:
     - id: 300300
       motion: 0
-      textHome: "If you don't hurry up, the sun's gonna \nset before we even get going."
+      textHome: If you don't hurry up, the sun's gonna @set before we even get going.
   - chara:
     - id: 300300
       textHomeStatus: Clear
@@ -614,7 +582,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300300
       motion: 300
-      textHome: "All right, time to do an experiment and \nprove my hypothesis!"
+      textHome: All right, time to do an experiment and @prove my hypothesis!
   - autoTurnFirst: 0.5
     chara:
     - cheek: 0
@@ -674,10 +642,8 @@ story:
     chara:
     - id: 300300
       motion: 1
-      textHome: |-
-        In fact...the very reason why I
-        became a Magical Girl is because
-        I was doing some dangerous stuff.
+      textHome: In fact...the very reason why I@became a Magical Girl is because@I
+        was doing some dangerous stuff.
   - autoTurnFirst: 3
     chara:
     - id: 300300
@@ -709,7 +675,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 300300
       motion: 0
-      textHome: "I could easily talk for five hours about \nglass's incredible properties!"
+      textHome: I could easily talk for five hours about @glass's incredible properties!
   - autoTurnFirst: 0.8
     chara:
     - cheek: 1
@@ -741,9 +707,7 @@ story:
     chara:
     - id: 300300
       motion: 0
-      textHome: |-
-        Don't look down on me! That sort of
-        arrogance really pisses me off!
+      textHome: Don't look down on me! That sort of@arrogance really pisses me off!
   - autoTurnFirst: 2.1
     chara:
     - id: 300300
@@ -769,10 +733,8 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 300300
-      textHome: |-
-        It allows me to draw accurate diagrams,
-        an important skill every scientist
-        should have.
+      textHome: It allows me to draw accurate diagrams,@an important skill every scientist@should
+        have.
   - autoTurnFirst: 4
     chara:
     - id: 300300
@@ -792,9 +754,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3003_00_37
-      textHome: |-
-        In chemistry, interesting things
-        are often dangerous as well.
+      textHome: In chemistry, interesting things@are often dangerous as well.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -808,7 +768,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 300300
       motion: 1
-      textHome: "A little carelessness can lead to \nsomething terrible happening."
+      textHome: A little carelessness can lead to @something terrible happening.
   - chara:
     - id: 300300
       textHomeStatus: Clear
@@ -850,9 +810,7 @@ story:
     chara:
     - id: 300300
       motion: 300
-      textHome: |-
-        but I could never deal with
-        another student like Emiri.
+      textHome: but I could never deal with@another student like Emiri.
   - autoTurnFirst: 1.5
     chara:
     - id: 300300
@@ -883,8 +841,8 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 300300
-      textHome: "But now that I think of it, I've grown \nstrong enough to protect
-        my classmates."
+      textHome: But now that I think of it, I've grown @strong enough to protect my
+        classmates.
   - autoTurnFirst: 3
     chara:
     - id: 300300
@@ -908,18 +866,14 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3003_00_40
-      textHome: |-
-        I like to gather my information
-        without using any digital sources.
+      textHome: I like to gather my information@without using any digital sources.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 300300
       motion: 0
-      textHome: |-
-        I mean, it's true, I'm not good
-        at using computers…
+      textHome: I mean, it's true, I'm not good@at using computers…
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -931,9 +885,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 300300
       motion: 1
-      textHome: |-
-        But having books that you love is way
-        more convenient than using a computer.
+      textHome: But having books that you love is way@more convenient than using a
+        computer.
   - chara:
     - id: 300300
       textHomeStatus: Clear
@@ -959,9 +912,8 @@ story:
     chara:
     - id: 300300
       motion: 300
-      textHome: |-
-        I wouldn't say she's dangerous,
-        but you never know what she might do.
+      textHome: I wouldn't say she's dangerous,@but you never know what she might
+        do.
   - autoTurnFirst: 3
     chara:
     - id: 300300
@@ -1176,9 +1128,8 @@ story:
     - cheek: 0
       id: 300300
       motion: 1
-      textHome: |2-
-         I may not look it... Meh, whatever!
-        I'm a veteran Magical Girl, as you can see.
+      textHome: ' I may not look it... Meh, whatever!@I''m a veteran Magical Girl,
+        as you can see.'
   - autoTurnFirst: 4.3
     chara:
     - cheek: 0
@@ -1201,9 +1152,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3003_00_13
-      textHome: |-
-        N-not bad! I kind of feel like
-        I've grown a bit taller, too!
+      textHome: N-not bad! I kind of feel like@I've grown a bit taller, too!
   - autoTurnFirst: 2.3
     chara:
     - cheek: 2
@@ -1224,9 +1173,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3003_00_14
-      textHome: |-
-        Results are so much sweeter when
-        they're the fruits of your honest work.
+      textHome: Results are so much sweeter when@they're the fruits of your honest
+        work.
   - autoTurnFirst: 3
     chara:
     - id: 300300
@@ -1255,9 +1203,7 @@ story:
     chara:
     - face: mtn_ex_010.exp.json
       id: 300300
-      textHome: |-
-        ...Hehe.
-        I'm about to come up with a new idea!
+      textHome: '...Hehe.@I''m about to come up with a new idea!'
   - autoTurnFirst: 2.1
     chara:
     - id: 300300
@@ -1286,9 +1232,8 @@ story:
     chara:
     - id: 300300
       motion: 300
-      textHome: |2-
-         I've gotta get even bigger to keep
-        my dear friends out of harm's way.
+      textHome: ' I''ve gotta get even bigger to keep@my dear friends out of harm''s
+        way.'
   - autoTurnFirst: 1.3
     chara:
     - cheek: 0
@@ -1314,10 +1259,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3003_00_17
-      textHome: |-
-        Yes, you'll never find a successful
-        person throughout history
-        who never put in the effort.
+      textHome: Yes, you'll never find a successful@person throughout history@who
+        never put in the effort.
   - autoTurnFirst: 3
     chara:
     - id: 300300
@@ -1326,9 +1269,8 @@ story:
     chara:
     - id: 300300
       motion: 1
-      textHome: |-
-        If I've got even a 1% chance of success,
-        I'd happily work my tail off to make it happen.
+      textHome: If I've got even a 1% chance of success,@I'd happily work my tail
+        off to make it happen.
   - autoTurnFirst: 2.5
     chara:
     - id: 300300

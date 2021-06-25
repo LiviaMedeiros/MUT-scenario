@@ -244,18 +244,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1016_51_25
-      textHome: |-
-        Sorry for bothering you this early, but
-        would you mind gutting this one for me?
+      textHome: Sorry for bothering you this early, but@would you mind gutting this
+        one for me?
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101600
       motion: 100
-      textHome: |-
-        I caught it this morning, I just know
-        it's going to be good.
+      textHome: I caught it this morning, I just know@it's going to be good.
   - chara:
     - id: 101651
       textHomeStatus: Clear
@@ -274,8 +271,8 @@ story:
     chara:
     - eyeClose: 0
       id: 101600
-      textHome: "I would've thought everything at these\nbeachfront restaurants would
-        be expensive,\nbut surprisingly they're not. "
+      textHome: 'I would''ve thought everything at these@beachfront restaurants would
+        be expensive,@but surprisingly they''re not. '
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -292,9 +289,7 @@ story:
     chara:
     - id: 101600
       motion: 200
-      textHome: |-
-        It's all still a little too expensive
-        for me, though.
+      textHome: It's all still a little too expensive@for me, though.
   - chara:
     - id: 101651
       textHomeStatus: Clear
@@ -308,9 +303,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1016_51_27
-      textHome: |-
-        A summer sunset is like a window
-        into your past...
+      textHome: A summer sunset is like a window@into your past...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -318,16 +311,12 @@ story:
       face: mtn_ex_030.exp.json
       id: 101600
       motion: 300
-      textHome: |-
-        It reminds me of that lonely side of Mitama
-        she once showed me.
+      textHome: It reminds me of that lonely side of Mitama@she once showed me.
   - autoTurnFirst: 6
     chara:
     - eyeClose: 0
       id: 101600
-      textHome: |-
-        That night... It must've been
-        during the summer.
+      textHome: That night... It must've been@during the summer.
   - chara:
     - id: 101651
       textHomeStatus: Clear
@@ -359,17 +348,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1016_51_28
-      textHome: "This is the time when I'm usually heading\nback home after my part-time
-        job. "
+      textHome: 'This is the time when I''m usually heading@back home after my part-time
+        job. '
   - autoTurnFirst: 2.5
     chara:
     - eyeClose: 1
       id: 101600
       motion: 200
-      textHome: |-
-        When I feel the nice evening breeze,
-        I almost feel guilty for enjoying it.
-        It's strange.
+      textHome: When I feel the nice evening breeze,@I almost feel guilty for enjoying
+        it.@It's strange.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -398,17 +385,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1016_51_29
-      textHome: |-
-        We need to stretch before
-        we go into the ocean.
+      textHome: We need to stretch before@we go into the ocean.
   - autoTurnFirst: 7
     chara:
     - id: 101600
       motion: 0
-      textHome: |-
-        Prepare your open stance...
-         Get ready to grab your target...
-        1, 2, 3, GO!
+      textHome: Prepare your open stance...@ Get ready to grab your target...@1, 2,
+        3, GO!
   - autoTurnFirst: 1
     chara:
     - id: 101600
@@ -435,9 +418,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1016_51_30
-      textHome: |-
-        It'd be nice if they'd relax
-        while we're on vacation...
+      textHome: It'd be nice if they'd relax@while we're on vacation...
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -446,9 +427,8 @@ story:
     chara:
     - id: 101600
       motion: 1
-      textHome: |-
-        Well, now that I've sensed the Witch,
-        I have no choice but to take care of it.
+      textHome: Well, now that I've sensed the Witch,@I have no choice but to take
+        care of it.
   - autoTurnFirst: 1
     chara:
     - id: 101600
@@ -471,17 +451,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1016_51_31
-      textHome: "It's quite possible that swimsuits might\nactually be good for physical
-        performance... "
+      textHome: 'It''s quite possible that swimsuits might@actually be good for physical
+        performance... '
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101600
       motion: 1
-      textHome: |-
-        Maybe I'll test out my theory
-        out in Endless Mirrors.
+      textHome: Maybe I'll test out my theory@out in Endless Mirrors.
   - chara:
     - id: 101651
       textHomeStatus: Clear
@@ -525,9 +503,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 101600
       motion: 300
-      textHome: |-
-        By saying it you can apparently make
-        someone's food taste better.
+      textHome: By saying it you can apparently make@someone's food taste better.
   - autoTurnFirst: 4
     chara:
     - id: 101600
@@ -551,9 +527,7 @@ story:
     chara:
     - id: 101600
       motion: 300
-      textHome: |-
-        It would've made sense if swim class
-        was first period.
+      textHome: It would've made sense if swim class@was first period.
   - autoTurnFirst: 2.5
     chara:
     - id: 101600
@@ -564,9 +538,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 101600
       motion: 100
-      textHome: |-
-        Wearing your swimsuit under your clothes
-        to school. Is that weird?
+      textHome: Wearing your swimsuit under your clothes@to school. Is that weird?
   - chara:
     - id: 101651
       textHomeStatus: Clear
@@ -585,10 +557,8 @@ story:
     chara:
     - id: 101600
       motion: 1
-      textHome: |-
-        When you start to feel hot, nothing feels
-        better than a cold water bottle on your neck,
-        legs, or under your armpit.
+      textHome: When you start to feel hot, nothing feels@better than a cold water
+        bottle on your neck,@legs, or under your armpit.
   - autoTurnFirst: 3
     chara:
     - id: 101600
@@ -607,9 +577,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1016_51_36
-      textHome: |-
-        Fisherman, ship workers, basically anyone
-        who works on the ocean... They're so cool.
+      textHome: Fisherman, ship workers, basically anyone@who works on the ocean...
+        They're so cool.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -619,16 +588,12 @@ story:
     chara:
     - id: 101600
       motion: 0
-      textHome: |-
-        You can't forget about the people who work
-        on the beach either.
+      textHome: You can't forget about the people who work@on the beach either.
   - autoTurnFirst: 2
     chara:
     - id: 101600
       motion: 100
-      textHome: |-
-        All that blood, sweat, and tears...
-        It's beautiful.
+      textHome: All that blood, sweat, and tears...@It's beautiful.
   - autoTurnFirst: 2
     chara:
     - eyeClose: 1
@@ -664,9 +629,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 101600
       motion: 1
-      textHome: |-
-        Although she did mess around with me
-        a bunch, she got the job done well.
+      textHome: Although she did mess around with me@a bunch, she got the job done
+        well.
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -702,25 +666,19 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1016_51_38
-      textHome: |-
-        I have an idea... What do you think about
-        an ocean maid cafe?
+      textHome: I have an idea... What do you think about@an ocean maid cafe?
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 101600
       motion: 1
-      textHome: |-
-        It may be a good way to pair work
-        with a vacation.
+      textHome: It may be a good way to pair work@with a vacation.
   - autoTurnFirst: 4
     chara:
     - id: 101600
       motion: 300
-      textHome: |-
-        I should probably run it by the more
-        senior maids first...
+      textHome: I should probably run it by the more@senior maids first...
   - chara:
     - id: 101651
       textHomeStatus: Clear
@@ -747,10 +705,8 @@ story:
     chara:
     - eyeClose: 0
       id: 101600
-      textHome: |-
-        This is how my father taught me
-        to swim when he took us to
-        the beach when I was young.
+      textHome: This is how my father taught me@to swim when he took us to@the beach
+        when I was young.
   - autoTurnFirst: 6.5
     chara:
     - id: 101600
@@ -780,9 +736,7 @@ story:
     chara:
     - id: 101600
       motion: 200
-      textHome: |-
-        I'm going to spend my time here
-        honing my survival skills.
+      textHome: I'm going to spend my time here@honing my survival skills.
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -800,10 +754,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1016_51_41
-      textHome: |-
-        You can find couples on the beach getting
-        close without worrying about
-        the people around them.
+      textHome: You can find couples on the beach getting@close without worrying about@the
+        people around them.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -813,10 +765,8 @@ story:
     chara:
     - id: 101600
       motion: 300
-      textHome: |-
-        It weird, when you really think about it,
-        Yachiyo, Mifuyu, and I could get
-        married at our age if we wanted to.
+      textHome: It weird, when you really think about it,@Yachiyo, Mifuyu, and I could
+        get@married at our age if we wanted to.
   - chara:
     - id: 101651
       textHomeStatus: Clear

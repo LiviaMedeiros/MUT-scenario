@@ -15,10 +15,8 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300700
-      textHome: |-
-        My parents run a cafe...which sounds cool,
-        but it's one of those really old ones
-        that don't serve anything fancy.
+      textHome: My parents run a cafe...which sounds cool,@but it's one of those really
+        old ones@that don't serve anything fancy.
   - autoTurnFirst: 1.7
     chara:
     - cheek: 0
@@ -47,9 +45,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300700
-      textHome: |-
-        Um, this ended up more of an introduction
-        for our cafe than me.
+      textHome: Um, this ended up more of an introduction@for our cafe than me.
   - autoTurnFirst: 4.8
     chara:
     - id: 300700
@@ -60,9 +56,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 300700
       motion: 300
-      textHome: |-
-        Sorry, I really don't have
-        a lot of hobbies or anything...
+      textHome: Sorry, I really don't have@a lot of hobbies or anything...
   - chara:
     - id: 300700
       textHomeStatus: Clear
@@ -78,9 +72,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3007_00_18
-      textHome: |-
-        No matter the path you choose, feelings
-        for those close to you will never change.
+      textHome: No matter the path you choose, feelings@for those close to you will
+        never change.
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
@@ -93,9 +86,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 300700
       motion: 100
-      textHome: |-
-        Knowing that, I can almost imagine
-        who I will become.
+      textHome: Knowing that, I can almost imagine@who I will become.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -117,9 +108,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3007_00_19
-      textHome: |-
-        Yes, I feel the power...
-        Far-off places now seem within reach.
+      textHome: Yes, I feel the power...@Far-off places now seem within reach.
   - autoTurnFirst: 0.5
     chara:
     - cheek: 0
@@ -144,10 +133,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3007_00_20
-      textHome: |-
-        I wonder if everyone can find the place
-        they belong in the heart of
-        their special someone...
+      textHome: I wonder if everyone can find the place@they belong in the heart of@their
+        special someone...
   - autoTurnFirst: 2.5
     chara:
     - id: 300700
@@ -167,9 +154,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3007_00_21
-      textHome: |-
-        Someday, it would be nice if someone finds
-        the place they belong in my own heart.
+      textHome: Someday, it would be nice if someone finds@the place they belong in
+        my own heart.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -189,9 +175,7 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 300700
-      textHome: |-
-        I suppose you might call that thinking
-        a dream for the future, too.
+      textHome: I suppose you might call that thinking@a dream for the future, too.
   - autoTurnFirst: 3
     chara:
     - id: 300700
@@ -211,30 +195,24 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3007_00_22
-      textHome: |-
-        Am I allowed to think that...
-        I belong right here?
+      textHome: Am I allowed to think that...@I belong right here?
   - autoTurnFirst: 5.2
     chara:
     - id: 300700
       motion: 300
-      textHome: |-
-        I'm still too uncertain to say for sure...
-        But, I want to be here.
+      textHome: I'm still too uncertain to say for sure...@But, I want to be here.
   - autoTurnFirst: 2.8
     chara:
     - id: 300700
       motion: 200
-      textHome: "Because I think that as long as\r\nI'm beside someone dear to me,"
+      textHome: Because I think that as long as@I'm beside someone dear to me,
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300700
       motion: 0
-      textHome: |-
-        I'll be able to put one foot
-        firmly in front of the other.
+      textHome: I'll be able to put one foot@firmly in front of the other.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -330,9 +308,8 @@ story:
     chara:
     - id: 300700
       motion: 300
-      textHome: |-
-        There aren't many customers right now,
-        so you can stay as long as you like.
+      textHome: There aren't many customers right now,@so you can stay as long as
+        you like.
   - chara:
     - id: 300700
       textHomeStatus: Clear
@@ -391,9 +368,7 @@ story:
     chara:
     - id: 300700
       motion: 300
-      textHome: |-
-        There's spaghetti and sandwiches
-        on the menu...
+      textHome: There's spaghetti and sandwiches@on the menu...
   - chara:
     - id: 300700
       textHomeStatus: Clear
@@ -511,9 +486,7 @@ story:
     chara:
     - id: 300700
       motion: 100
-      textHome: |-
-        but it's a traditional coffee shop
-        and somewhere you can relax...
+      textHome: but it's a traditional coffee shop@and somewhere you can relax...
   - autoTurnFirst: 2
     chara:
     - id: 300700
@@ -560,17 +533,13 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3007_00_31
-      textHome: |-
-        Fights can be dangerous
-        and that is certainly scary,
+      textHome: Fights can be dangerous@and that is certainly scary,
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300700
-      textHome: |-
-        but you can't run away if you
-        want to achieve your dreams.
+      textHome: but you can't run away if you@want to achieve your dreams.
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0
@@ -647,9 +616,7 @@ story:
     chara:
     - id: 300700
       motion: 300
-      textHome: |-
-        I was thinking about putting
-        it as a new dish on the menu.
+      textHome: I was thinking about putting@it as a new dish on the menu.
   - autoTurnFirst: 2
     chara:
     - id: 300700
@@ -727,8 +694,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3007_00_36
-      textHome: "Milkshakes are a staple on a coffee \nshop menu, but I don't really
-        like them..."
+      textHome: Milkshakes are a staple on a coffee @shop menu, but I don't really
+        like them...
   - autoTurnFirst: 3.4
     chara:
     - id: 300700
@@ -737,9 +704,8 @@ story:
     chara:
     - id: 300700
       motion: 100
-      textHome: |-
-        I just can't really stomach the idea of
-        drinking something with raw eggs in it...
+      textHome: I just can't really stomach the idea of@drinking something with raw
+        eggs in it...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -815,9 +781,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3007_00_38
-      textHome: |-
-        Sometimes you argue with close friends
-        precisely because they're your close friends...
+      textHome: Sometimes you argue with close friends@precisely because they're your
+        close friends...
   - autoTurnFirst: 1
     chara:
     - id: 300700
@@ -827,9 +792,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300700
-      textHome: |-
-        That's what I think when
-        I see Tsuruno and Felicia...
+      textHome: That's what I think when@I see Tsuruno and Felicia...
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -860,9 +823,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3007_00_39
-      textHome: |-
-        By spending a lot of time together
-        you form a bond.
+      textHome: By spending a lot of time together@you form a bond.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -900,16 +861,12 @@ story:
     chara:
     - id: 300700
       motion: 100
-      textHome: |-
-        We all bear the same fate. When I
-        think about what she said, I wonder...
+      textHome: We all bear the same fate. When I@think about what she said, I wonder...
   - autoTurnFirst: 2
     chara:
     - id: 300700
       motion: 300
-      textHome: |-
-        Could I have talked to Yachiyo
-        more about it?
+      textHome: Could I have talked to Yachiyo@more about it?
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -947,9 +904,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 300700
       motion: 300
-      textHome: |-
-        Maybe if I'd wished for something else
-        I could have saved him...
+      textHome: Maybe if I'd wished for something else@I could have saved him...
   - chara:
     - id: 300700
       textHomeStatus: Clear
@@ -1168,9 +1123,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 300700
       motion: 401
-      textHome: |-
-        I'm not very good at expressing myself.
-        Don't worry, it's nothing personal.
+      textHome: I'm not very good at expressing myself.@Don't worry, it's nothing
+        personal.
   - chara:
     - id: 300700
       textHomeStatus: Clear
@@ -1186,10 +1140,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3007_00_13
-      textHome: |-
-        I need to get stronger...
-        so I can find my way to the place
-        I'm searching for.
+      textHome: I need to get stronger...@so I can find my way to the place@I'm searching
+        for.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1214,10 +1166,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3007_00_14
-      textHome: |-
-        I can travel anywhere without fear.
-        Because I have somewhere
-        to come home to...
+      textHome: I can travel anywhere without fear.@Because I have somewhere@to come
+        home to...
   - autoTurnFirst: 1.5
     chara:
     - id: 300700
@@ -1258,9 +1208,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3007_00_16
-      textHome: |-
-        I must find my future self
-        as quickly as possible.
+      textHome: I must find my future self@as quickly as possible.
   - autoTurnFirst: 4.1
     chara:
     - cheek: 0
@@ -1273,9 +1221,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 300700
       motion: 0
-      textHome: |-
-        For every moment I spend adrift,
-        my future self remains lost.
+      textHome: For every moment I spend adrift,@my future self remains lost.
   - autoTurnFirst: 3
     chara:
     - id: 300700
@@ -1295,16 +1241,13 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3007_00_17
-      textHome: |-
-        I wonder if, even without being
-        passionate about any one thing,
+      textHome: I wonder if, even without being@passionate about any one thing,
   - autoTurnFirst: 4.3
     chara:
     - id: 300700
       motion: 100
-      textHome: |-
-        my feelings for someone dear can also
-        serve as a road sign to the future.
+      textHome: my feelings for someone dear can also@serve as a road sign to the
+        future.
   - chara:
     - id: 300700
       textHomeStatus: Clear

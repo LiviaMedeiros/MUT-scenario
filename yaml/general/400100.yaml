@@ -20,9 +20,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 400100
-      textHome: |-
-        Amongst other Magical Girls, I am known
-        as the "White Magical Girl"...
+      textHome: Amongst other Magical Girls, I am known@as the "White Magical Girl"...
   - autoTurnFirst: 2.3
     chara:
     - id: 400100
@@ -36,9 +34,7 @@ story:
     chara:
     - id: 400100
       motion: 0
-      textHome: |-
-        I'm sure if you knew the truth,
-        you would agree with my cause as well.
+      textHome: I'm sure if you knew the truth,@you would agree with my cause as well.
   - autoTurnFirst: 4.5
     chara:
     - id: 400100
@@ -47,9 +43,7 @@ story:
     chara:
     - id: 400100
       motion: 1
-      textHome: |-
-        Why don't we chat a while and
-        enjoy a cup of tea?
+      textHome: Why don't we chat a while and@enjoy a cup of tea?
   - autoTurnFirst: 1.6
     chara:
     - cheek: 0
@@ -70,9 +64,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4001_00_18
-      textHome: |-
-        You have no hope of matching me
-        while you refuse to give in to despair.
+      textHome: You have no hope of matching me@while you refuse to give in to despair.
   - autoTurnFirst: 3
     chara:
     - id: 400100
@@ -81,10 +73,8 @@ story:
     chara:
     - id: 400100
       motion: 0
-      textHome: |-
-        Give up, Homura Akemi.
-        I am not like you...
-        always fleeing down different paths.
+      textHome: Give up, Homura Akemi.@I am not like you...@always fleeing down different
+        paths.
   - autoTurnFirst: 3
     chara:
     - id: 400100
@@ -127,9 +117,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4001_00_20
-      textHome: |-
-        When the road ahead is dark,
-        I shall light the way.
+      textHome: When the road ahead is dark,@I shall light the way.
   - autoTurnFirst: 2.5
     chara:
     - id: 400100
@@ -150,19 +138,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4001_00_21
-      textHome: |-
-        I will use this strength for the
-        challenges I know lie ahead...
+      textHome: I will use this strength for the@challenges I know lie ahead...
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 400100
       motion: 0
-      textHome: |-
-        The reason I became a Magical Girl
-        in the first place was to learn the reason
-        why I exist, after all.
+      textHome: The reason I became a Magical Girl@in the first place was to learn
+        the reason@why I exist, after all.
   - autoTurnFirst: 2
     chara:
     - id: 400100
@@ -193,16 +177,12 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 400100
-      textHome: |-
-        He never managed it, but Kirika
-        and I will succeed where he failed.
+      textHome: He never managed it, but Kirika@and I will succeed where he failed.
   - autoTurnFirst: 4
     chara:
     - id: 400100
       motion: 300
-      textHome: |-
-        May the path we tread be blessed...
-        Please watch over us as we go.
+      textHome: May the path we tread be blessed...@Please watch over us as we go.
   - autoTurnFirst: 2
     chara:
     - id: 400100
@@ -280,9 +260,7 @@ story:
     chara:
     - id: 400100
       motion: 300
-      textHome: |-
-        If she was here, she'd get mad at me
-        for talking to you all the time.
+      textHome: If she was here, she'd get mad at me@for talking to you all the time.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -304,9 +282,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4001_00_25
-      textHome: |-
-        It happened again...
-        I had another nightmare last night...
+      textHome: It happened again...@I had another nightmare last night...
   - autoTurnFirst: 3.5
     chara:
     - id: 400100
@@ -316,9 +292,7 @@ story:
     chara:
     - id: 400100
       motion: 200
-      textHome: |-
-        It was about a poor girl
-        who'd lost her reason to live.
+      textHome: It was about a poor girl@who'd lost her reason to live.
   - chara:
     - id: 400100
       textHomeStatus: Clear
@@ -345,7 +319,7 @@ story:
     chara:
     - id: 400100
       motion: 0
-      textHome: "She's going to burst in saying \nhow hungry she is."
+      textHome: She's going to burst in saying @how hungry she is.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -362,7 +336,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 400100
       motion: 200
-      textHome: "She may be a bit childish, \nbut she isn't a bad girl."
+      textHome: She may be a bit childish, @but she isn't a bad girl.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -449,9 +423,7 @@ story:
     chara:
     - id: 400100
       motion: 0
-      textHome: |-
-        If you're going out, you
-        should take your umbrella.
+      textHome: If you're going out, you@should take your umbrella.
   - autoTurnFirst: 2
     chara:
     - id: 400100
@@ -521,7 +493,7 @@ story:
     chara:
     - id: 400100
       motion: 300
-      textHome: "It has been decided.\nThe end is coming... "
+      textHome: 'It has been decided.@The end is coming... '
   - autoTurnFirst: 2.5
     chara:
     - id: 400100
@@ -609,7 +581,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 400100
       motion: 300
-      textHome: "Well, it's my first time successfully \nbaking a sponge cake..."
+      textHome: Well, it's my first time successfully @baking a sponge cake...
   - autoTurnFirst: 1.6
     chara:
     - cheek: 1
@@ -647,7 +619,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4001_00_34
-      textHome: "Aah... \nI wasn't paying attention and burned myself."
+      textHome: Aah... @I wasn't paying attention and burned myself.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -657,9 +629,7 @@ story:
     chara:
     - id: 400100
       motion: 200
-      textHome: |2-
-         I guess you can't think about
-        other things while you cook.
+      textHome: ' I guess you can''t think about@other things while you cook.'
   - autoTurnFirst: 1.7
     chara:
     - id: 400100
@@ -718,9 +688,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4001_00_36
-      textHome: |-
-        Kids should act like kids.
-        They shouldn't behave all the time.
+      textHome: Kids should act like kids.@They shouldn't behave all the time.
   - autoTurnFirst: 3.5
     chara:
     - id: 400100
@@ -759,9 +727,7 @@ story:
     chara:
     - id: 400100
       motion: 300
-      textHome: |-
-        That creature is the source
-        of all our troubles.
+      textHome: That creature is the source@of all our troubles.
   - chara:
     - id: 400100
       textHomeStatus: Clear
@@ -796,16 +762,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4001_00_38
-      textHome: |-
-        I thought I managed to rid myself of all
-        my trivial emotions...
+      textHome: I thought I managed to rid myself of all@my trivial emotions...
   - autoTurnFirst: 5.5
     chara:
     - id: 400100
       motion: 300
-      textHome: |-
-        But if something happened to her...
-        I don't think I could bear it.
+      textHome: But if something happened to her...@I don't think I could bear it.
   - chara:
     - id: 400100
       textHomeStatus: Clear
@@ -858,9 +820,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4001_00_40
-      textHome: |-
-        Kirika says that I'm the only person who's
-        important to her.
+      textHome: Kirika says that I'm the only person who's@important to her.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -893,9 +853,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4001_00_41
-      textHome: |-
-        It's too late...
-        I've come too far to turn back now...
+      textHome: It's too late...@I've come too far to turn back now...
   - autoTurnFirst: 2.5
     chara:
     - id: 400100
@@ -1109,17 +1067,13 @@ story:
       face: mtn_ex_020.exp.json
       id: 400100
       motion: 1
-      textHome: |-
-        I will tell you the truth behind
-        Magical Girls...
+      textHome: I will tell you the truth behind@Magical Girls...
   - autoTurnFirst: 6.3
     chara:
     - cheek: 0
       id: 400100
       motion: 300
-      textHome: |-
-        I presume you have the mental fortitude
-        to handle it?
+      textHome: I presume you have the mental fortitude@to handle it?
   - chara:
     - id: 400100
       textHomeStatus: Clear
@@ -1161,9 +1115,7 @@ story:
     chara:
     - id: 400100
       motion: 1
-      textHome: |-
-        Now let us proceed...
-        with this power in hand.
+      textHome: Now let us proceed...@with this power in hand.
   - autoTurnFirst: 2.5
     chara:
     - id: 400100
@@ -1192,9 +1144,7 @@ story:
     chara:
     - id: 400100
       motion: 0
-      textHome: |-
-        That's why it has to be dealt
-        with before it is born.
+      textHome: That's why it has to be dealt@with before it is born.
   - autoTurnFirst: 2.5
     chara:
     - id: 400100
@@ -1219,9 +1169,8 @@ story:
     chara:
     - id: 400100
       motion: 0
-      textHome: |-
-        Would you try to stop me, even as
-        I stand on the brink of the world's end?
+      textHome: Would you try to stop me, even as@I stand on the brink of the world's
+        end?
   - autoTurnFirst: 4.5
     chara:
     - id: 400100
@@ -1251,10 +1200,8 @@ story:
     chara:
     - id: 400100
       motion: 300
-      textHome: |-
-        One day, you will learn the hard way
-        how foolish it is to continue protecting
-        Madoka Kaname.
+      textHome: One day, you will learn the hard way@how foolish it is to continue
+        protecting@Madoka Kaname.
   - autoTurnFirst: 2.5
     chara:
     - id: 400100

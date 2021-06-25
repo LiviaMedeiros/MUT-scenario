@@ -223,9 +223,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101200
       motion: 0
-      textHome: |-
-        In other words, summer is a perfect season
-        for Magical Karin!
+      textHome: In other words, summer is a perfect season@for Magical Karin!
   - autoTurnFirst: 4
     chara:
     - eyeClose: 0
@@ -260,9 +258,7 @@ story:
     chara:
     - id: 101200
       motion: 300
-      textHome: |-
-        I'm always so sleepy when I wake up
-        for school, though...
+      textHome: I'm always so sleepy when I wake up@for school, though...
   - autoTurnFirst: 3
     chara:
     - id: 101200
@@ -281,10 +277,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1012_50_26
-      textHome: |-
-        I figured I wouldn't have that much time to
-        eat lunch since I wanted to play all day,
-        so I wanted to get a banana for lunch.
+      textHome: I figured I wouldn't have that much time to@eat lunch since I wanted
+        to play all day,@so I wanted to get a banana for lunch.
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
@@ -296,9 +290,7 @@ story:
     - cheek: 1
       face: mtn_ex_040.exp.json
       id: 101200
-      textHome: |-
-        Everyone laughed at me when
-        I bought a mango stick instead...
+      textHome: Everyone laughed at me when@I bought a mango stick instead...
   - chara:
     - id: 101250
       textHomeStatus: Clear
@@ -312,10 +304,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1012_50_27
-      textHome: |-
-        The ocean sunset...
-        Everyone says it's so special,
-        but to me, a sunset's a sunset.
+      textHome: The ocean sunset...@Everyone says it's so special,@but to me, a sunset's
+        a sunset.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -328,9 +318,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 101200
       motion: 200
-      textHome: |-
-        All I really care about is the fish
-        that come out at night!
+      textHome: All I really care about is the fish@that come out at night!
   - chara:
     - id: 101250
       textHomeStatus: Clear
@@ -374,8 +362,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 101200
       motion: 0
-      textHome: "Look at all the stars!\nI think I can connect them and\r\nmake a
-        really great picture!"
+      textHome: Look at all the stars!@I think I can connect them and@make a really
+        great picture!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -407,16 +395,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1012_50_29
-      textHome: |-
-        When I'm having fun,
-        I don't care how much I sweat!
+      textHome: When I'm having fun,@I don't care how much I sweat!
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
       id: 101200
-      textHome: |-
-        It's when I'm trying to get somewhere
-        that I hate it...
+      textHome: It's when I'm trying to get somewhere@that I hate it...
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -429,9 +413,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101200
       motion: 200
-      textHome: |-
-        I just can't wait to get somewhere cool
-        with a nice manga!
+      textHome: I just can't wait to get somewhere cool@with a nice manga!
   - chara:
     - id: 101250
       textHomeStatus: Clear
@@ -445,9 +427,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1012_50_30
-      textHome: |-
-        Why does a Witch always have to
-        ruin a fun day?!
+      textHome: Why does a Witch always have to@ruin a fun day?!
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -460,9 +440,8 @@ story:
     chara:
     - id: 101200
       motion: 1
-      textHome: |-
-        Let a fire stronger than the flames of
-        this purgatory burn you all to a crisp!
+      textHome: Let a fire stronger than the flames of@this purgatory burn you all
+        to a crisp!
   - autoTurnFirst: 4.2
     chara:
     - id: 101200
@@ -480,18 +459,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1012_50_31
-      textHome: |-
-        Going to Endless Mirrors might be
-        a good way to escape the heat!
+      textHome: Going to Endless Mirrors might be@a good way to escape the heat!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101200
       motion: 0
-      textHome: |-
-        I'm sure it's cool in there,
-        especially in my swimsuit!
+      textHome: I'm sure it's cool in there,@especially in my swimsuit!
   - autoTurnFirst: 4
     chara:
     - id: 101200
@@ -539,18 +514,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 101200
       motion: 1
-      textHome: |-
-        I figured some really fun things were
-        going to happen at the beach,
+      textHome: I figured some really fun things were@going to happen at the beach,
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101200
       motion: 100
-      textHome: |-
-        so I brought my art supplies
-        to draw a manga about it!
+      textHome: so I brought my art supplies@to draw a manga about it!
   - chara:
     - id: 101250
       textHomeStatus: Clear
@@ -564,8 +535,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1012_50_34
-      textHome: "There's even a Phantom Thief Magical Kirin\nthat took place at the
-        beach! "
+      textHome: 'There''s even a Phantom Thief Magical Kirin@that took place at the
+        beach! '
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -577,9 +548,7 @@ story:
     chara:
     - id: 101200
       motion: 400
-      textHome: |-
-        It makes complete sense I can't hold
-        in my excitement!
+      textHome: It makes complete sense I can't hold@in my excitement!
   - chara:
     - id: 101250
       textHomeStatus: Clear
@@ -593,9 +562,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1012_50_35
-      textHome: |-
-        Why do mosquitoes seem to
-        head straight for the ears?
+      textHome: Why do mosquitoes seem to@head straight for the ears?
   - autoTurnFirst: 4.5
     chara:
     - id: 101200
@@ -606,9 +573,7 @@ story:
     - eyeClose: 1
       id: 101200
       motion: 100
-      textHome: |-
-        Plus, whenever I try to take care of
-        them Mom just gets so angry...
+      textHome: Plus, whenever I try to take care of@them Mom just gets so angry...
   - chara:
     - id: 101250
       textHomeStatus: Clear
@@ -628,17 +593,13 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 101200
-      textHome: |-
-        This is where I'm going to
-        set my next manga!
+      textHome: This is where I'm going to@set my next manga!
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
       id: 101200
       motion: 1
-      textHome: |-
-        A manga about a fisherman
-        catching a mermaid...
+      textHome: A manga about a fisherman@catching a mermaid...
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -647,10 +608,8 @@ story:
     chara:
     - id: 101200
       motion: 100
-      textHome: |-
-        He falls in love with her and has a fishing
-        competition with Barron Giant Squid
-        for her hand in marriage!
+      textHome: He falls in love with her and has a fishing@competition with Barron
+        Giant Squid@for her hand in marriage!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -727,17 +686,13 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1012_50_38
-      textHome: |-
-        Sometimes I have no idea
-        what Alina-senpai is thinking...
+      textHome: Sometimes I have no idea@what Alina-senpai is thinking...
   - autoTurnFirst: 4
     chara:
     - id: 101200
       motion: 0
-      textHome: |-
-        Like the other day, she tried on
-        all those swimsuits but in the end
-        just wound up making one!
+      textHome: Like the other day, she tried on@all those swimsuits but in the end@just
+        wound up making one!
   - autoTurnFirst: 3
     chara:
     - id: 101200
@@ -755,9 +710,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1012_50_39
-      textHome: |-
-        In something that's frilly,
-        just like a maid's uniform...
+      textHome: In something that's frilly,@just like a maid's uniform...
   - autoTurnFirst: 2
     chara:
     - eyeClose: 1
@@ -773,7 +726,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101200
       motion: 0
-      textHome: "Even in her school swimsuit,\r\nNagitan looks good in everything!"
+      textHome: Even in her school swimsuit,@Nagitan looks good in everything!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -793,10 +746,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1012_50_40
-      textHome: |-
-        Ugh, all I wanted was to rent a float...
-        When I went to get one, they only
-        charged me the kid's price!
+      textHome: Ugh, all I wanted was to rent a float...@When I went to get one, they
+        only@charged me the kid's price!
   - autoTurnFirst: 4
     chara:
     - id: 101200
@@ -830,9 +781,7 @@ story:
     chara:
     - id: 101200
       motion: 200
-      textHome: |-
-        I was hoping it be the perfect
-        Magical Karin summer outfit.
+      textHome: I was hoping it be the perfect@Magical Karin summer outfit.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -844,9 +793,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101200
       motion: 300
-      textHome: |-
-        I wouldn't mind a compliment, though...
-        Even if you didn't mean it.
+      textHome: I wouldn't mind a compliment, though...@Even if you didn't mean it.
   - chara:
     - id: 101250
       textHomeStatus: Clear

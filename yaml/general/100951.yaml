@@ -265,9 +265,7 @@ story:
     chara:
     - id: 100900
       motion: 100
-      textHome: |-
-        Listen, there's something I want
-        you to do for me.
+      textHome: Listen, there's something I want@you to do for me.
   - autoTurnFirst: 3.5
     chara:
     - id: 100900
@@ -279,9 +277,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100900
       motion: 400
-      textHome: |-
-        No, I'm not treating you like a gopher!
-        I'll go too, duh!
+      textHome: No, I'm not treating you like a gopher!@I'll go too, duh!
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -301,9 +297,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1009_51_25
-      textHome: |-
-        Changed already? Wow, talk about eager.
-        Oh, you couldn't wait to get to the beach...?
+      textHome: Changed already? Wow, talk about eager.@Oh, you couldn't wait to get
+        to the beach...?
   - autoTurnFirst: 6
     chara:
     - cheek: 1
@@ -340,9 +335,7 @@ story:
     chara:
     - id: 100900
       motion: 200
-      textHome: |-
-        Go buy me an ice cream.
-        Or some shaved ice.
+      textHome: Go buy me an ice cream.@Or some shaved ice.
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -379,9 +372,7 @@ story:
       eyeClose: 0
       face: mtn_ex_050.exp.json
       id: 100900
-      textHome: |-
-        I'm craving...watermelon!
-        Fetch me some watermelon!
+      textHome: I'm craving...watermelon!@Fetch me some watermelon!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -394,9 +385,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100900
       motion: 100
-      textHome: |-
-        You can take one of the ones
-        growing in Kaede's vegetable patch.
+      textHome: You can take one of the ones@growing in Kaede's vegetable patch.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -490,10 +479,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100900
       motion: 1
-      textHome: |-
-        Crank the AC to max, then eat
-        ice cream in the cold, mumbling
-        "I'm freezing!" the whole time.
+      textHome: Crank the AC to max, then eat@ice cream in the cold, mumbling@"I'm
+        freezing!" the whole time.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -524,16 +511,13 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1009_51_30
-      textHome: |-
-        Make sure to coat yourself in sunscreen
-        before going outside.
+      textHome: Make sure to coat yourself in sunscreen@before going outside.
   - autoTurnFirst: 2.5
     chara:
     - id: 100900
       motion: 0
-      textHome: |-
-        I'm not gonna take pity on you moaning
-        about a sunburn afterwards, got it?
+      textHome: I'm not gonna take pity on you moaning@about a sunburn afterwards,
+        got it?
   - autoTurnFirst: 3
     chara:
     - id: 100900
@@ -551,10 +535,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1009_51_31
-      textHome: |-
-        If Mirrors takes a copy of me dressed
-        like this...there'll be more versions of me
-        in a swimsuit in there...
+      textHome: If Mirrors takes a copy of me dressed@like this...there'll be more
+        versions of me@in a swimsuit in there...
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -601,9 +583,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1009_51_33
-      textHome: |-
-        Summer means those cute little ceramic pigs
-        that burn anti-mosquito incense!
+      textHome: Summer means those cute little ceramic pigs@that burn anti-mosquito
+        incense!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -616,9 +597,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100900
       motion: 1
-      textHome: |-
-        Their faces are so round...
-        you can't help but like them...
+      textHome: Their faces are so round...@you can't help but like them...
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -645,10 +624,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1009_51_34
-      textHome: |-
-        Just one sparkler by itself is just a
-        tiny fireball. Gather a bunch, though,
-        and it becomes an inferno...
+      textHome: Just one sparkler by itself is just a@tiny fireball. Gather a bunch,
+        though,@and it becomes an inferno...
   - autoTurnFirst: 1
     chara:
     - id: 100900
@@ -680,9 +657,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100900
       motion: 1
-      textHome: |-
-        My workbook, and then self-study...
-        It's suuuch a hassle!
+      textHome: My workbook, and then self-study...@It's suuuch a hassle!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -713,10 +688,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1009_51_36
-      textHome: |-
-        When my siblings and I played with
-        water guns as kids, I tripped on a bucket
-        we used for reloading.
+      textHome: When my siblings and I played with@water guns as kids, I tripped on
+        a bucket@we used for reloading.
   - autoTurnFirst: 5
     chara:
     - id: 100900
@@ -745,9 +718,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1009_51_37
-      textHome: |-
-        Kaede, Momoko, and I were talking
-        when we went to buy swimsuits...
+      textHome: Kaede, Momoko, and I were talking@when we went to buy swimsuits...
   - autoTurnFirst: 4
     chara:
     - id: 100900
@@ -801,9 +772,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 100900
       motion: 1
-      textHome: |-
-        I never thought I'd be buying a cute swimsuit
-        for going to the beach with friends...
+      textHome: I never thought I'd be buying a cute swimsuit@for going to the beach
+        with friends...
   - autoTurnFirst: 5
     chara:
     - id: 100900
@@ -839,10 +809,8 @@ story:
     chara:
     - id: 100900
       motion: 1
-      textHome: |-
-        I'm gonna book us bus tickets,
-        a place to stay, and get my favorite
-        member's merch ready!
+      textHome: I'm gonna book us bus tickets,@a place to stay, and get my favorite@member's
+        merch ready!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -875,9 +843,7 @@ story:
       face: mtn_ex_060.exp.json
       id: 100900
       motion: 0
-      textHome: |-
-        Augh, I wanna see
-        Sayu-Sayu in her swimsuit...
+      textHome: Augh, I wanna see@Sayu-Sayu in her swimsuit...
   - autoTurnFirst: 3.7
     chara:
     - cheek: 1
@@ -888,9 +854,7 @@ story:
     - cheek: 2
       id: 100900
       motion: 100
-      textHome: |-
-        It's embarrassing to show her mine,
-        though...
+      textHome: It's embarrassing to show her mine,@though...
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -923,9 +887,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100900
       motion: 1
-      textHome: |-
-        Three days of Links live performances
-        packed into one amazing disc!
+      textHome: Three days of Links live performances@packed into one amazing disc!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0

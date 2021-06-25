@@ -10,9 +10,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4053_00_01
-      textHome: |-
-        My name is Hayate Yagami,
-        I work as a mage!
+      textHome: My name is Hayate Yagami,@I work as a mage!
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -23,9 +21,7 @@ story:
     chara:
     - id: 405300
       motion: 300
-      textHome: |2-
-         I'm good at all types of magic
-        ...and cooking!
+      textHome: ' I''m good at all types of magic@...and cooking!'
   - autoTurnFirst: 2
     chara:
     - id: 405300
@@ -63,9 +59,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 405300
       motion: 100
-      textHome: |-
-        Now I can support everyone
-        like never before!
+      textHome: Now I can support everyone@like never before!
   - chara:
     - id: 405300
       textHomeStatus: Clear
@@ -88,9 +82,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 405300
-      textHome: |2-
-         Rather than single out a target, leave it to
-        me to take out a broad area with a bang!
+      textHome: ' Rather than single out a target, leave it to@me to take out a broad
+        area with a bang!'
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -109,9 +102,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 405300
       motion: 0
-      textHome: |-
-        For anything else...
-        I will fuse and do my best!
+      textHome: For anything else...@I will fuse and do my best!
   - autoTurnFirst: 3
     chara:
     - id: 405300
@@ -138,9 +129,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 405300
-      textHome: |-
-        Tuning for the Tome of the Night Sky
-        is complete!
+      textHome: Tuning for the Tome of the Night Sky@is complete!
   - autoTurnFirst: 1.5
     chara:
     - id: 405300
@@ -183,9 +172,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4053_00_21
-      textHome: |-
-        I treasure the Tome of the Night Sky
-        more than anything.
+      textHome: I treasure the Tome of the Night Sky@more than anything.
   - autoTurnFirst: 1.8
     chara:
     - cheek: 0
@@ -197,9 +184,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 405300
       motion: 100
-      textHome: |-
-        I will do what I can to be
-        a more worthy master!
+      textHome: I will do what I can to be@a more worthy master!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -221,9 +206,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4053_00_22
-      textHome: |-
-        Their paths may be slightly different,
-        but everyone who fights is the same.
+      textHome: Their paths may be slightly different,@but everyone who fights is
+        the same.
   - autoTurnFirst: 4
     chara:
     - id: 405300
@@ -234,16 +218,12 @@ story:
       face: mtn_ex_030.exp.json
       id: 405300
       motion: 300
-      textHome: |-
-        They all want to live happily without
-        hurting anyone...
+      textHome: They all want to live happily without@hurting anyone...
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
       id: 405300
-      textHome: |-
-        Reinforce gave me my power so
-        I could make that tomorrow a reality.
+      textHome: Reinforce gave me my power so@I could make that tomorrow a reality.
   - autoTurnFirst: 4.4
     chara:
     - cheek: 0
@@ -305,9 +285,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4053_00_24
-      textHome: |-
-        Looks like we ran into each other
-        again today! So, how are you?
+      textHome: Looks like we ran into each other@again today! So, how are you?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -357,7 +335,7 @@ story:
     chara:
     - id: 405300
       motion: 300
-      textHome: "I made some lunch. \nYou're welcome to join me if you like!"
+      textHome: I made some lunch. @You're welcome to join me if you like!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -387,9 +365,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 405300
       motion: 1
-      textHome: |-
-        I work for the Time Space
-        Administration Bureau.
+      textHome: I work for the Time Space@Administration Bureau.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -419,9 +395,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 405300
-      textHome: |-
-        Work is important,
-        but don't forget about dinner.
+      textHome: Work is important,@but don't forget about dinner.
   - autoTurnFirst: 2.5
     chara:
     - id: 405300
@@ -447,9 +421,7 @@ story:
     chara:
     - id: 405300
       motion: 300
-      textHome: |-
-        If you're sleepy,
-        make sure to get to bed, all right?
+      textHome: If you're sleepy,@make sure to get to bed, all right?
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -484,9 +456,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 405300
       motion: 100
-      textHome: |-
-        If you're free, I'd be happy to
-        spend some time with you.
+      textHome: If you're free, I'd be happy to@spend some time with you.
   - chara:
     - id: 405300
       textHomeStatus: Clear
@@ -536,9 +506,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 405300
-      textHome: |-
-        I'd like to practice that formation
-        we just learned.
+      textHome: I'd like to practice that formation@we just learned.
   - autoTurnFirst: 2.5
     chara:
     - id: 405300
@@ -610,10 +578,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4053_00_34
-      textHome: |-
-        This outfit?
-        It's called Knight Armor,
-        something I wear into battle.
+      textHome: This outfit?@It's called Knight Armor,@something I wear into battle.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -643,16 +608,13 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4053_00_35
-      textHome: |-
-        I wield Belkan magic,
-        an older style with very few users.
+      textHome: I wield Belkan magic,@an older style with very few users.
   - autoTurnFirst: 1.5
     chara:
     - id: 405300
       motion: 0
-      textHome: |-
-        I have Rein and the Tome of the Night Sky
-        to thank for being able to use it so well.
+      textHome: I have Rein and the Tome of the Night Sky@to thank for being able
+        to use it so well.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -676,9 +638,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4053_00_36
-      textHome: |-
-        Nanoha and Fate saved my life,
-        they are my precious friends.
+      textHome: Nanoha and Fate saved my life,@they are my precious friends.
   - autoTurnFirst: 2.2
     chara:
     - cheek: 0
@@ -694,9 +654,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 405300
       motion: 1
-      textHome: |-
-        We're all the same age,
-        but I'm the shortest...
+      textHome: We're all the same age,@but I'm the shortest...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -766,9 +724,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4053_00_38
-      textHome: |-
-        My Devices are the Tome of the Night Sky
-        and Schwertkreuz. I treasure them both.
+      textHome: My Devices are the Tome of the Night Sky@and Schwertkreuz. I treasure
+        them both.
   - autoTurnFirst: 3.5
     chara:
     - id: 405300
@@ -783,10 +740,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 405300
-      textHome: |-
-        With them at my side, I'll do everything
-        I can to assist everyone as a
-        Magical Girl again today.
+      textHome: With them at my side, I'll do everything@I can to assist everyone
+        as a@Magical Girl again today.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -814,16 +769,12 @@ story:
     chara:
     - eyeClose: 1
       id: 405300
-      textHome: |-
-        That's why I can't ignore those
-        suffering the same plight.
+      textHome: That's why I can't ignore those@suffering the same plight.
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
       id: 405300
-      textHome: |-
-        This may be asking too much,
-        but would you give me a hand?
+      textHome: This may be asking too much,@but would you give me a hand?
   - autoTurnFirst: 2.2
     chara:
     - id: 405300
@@ -848,9 +799,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4053_00_40
-      textHome: |-
-        The one who has always watched
-        over me, my precious savior.
+      textHome: The one who has always watched@over me, my precious savior.
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -860,9 +809,7 @@ story:
     - eyeClose: 0
       id: 405300
       motion: 0
-      textHome: |-
-        Her name and essence
-        now belong to Reinforce Zwei.
+      textHome: Her name and essence@now belong to Reinforce Zwei.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -886,9 +833,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4053_00_41
-      textHome: |-
-        I couldn't walk when I was young,
-        so I was often carried.
+      textHome: I couldn't walk when I was young,@so I was often carried.
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
@@ -1120,9 +1065,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_4053_00_13
-      textHome: |-
-        Has my practice paid off?
-        Wonderful!
+      textHome: Has my practice paid off?@Wonderful!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1145,10 +1088,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4053_00_14
-      textHome: |-
-        Perhaps now I can be a bit more
-        proud to be the Mistress of the
-        Tome of the Night Sky.
+      textHome: Perhaps now I can be a bit more@proud to be the Mistress of the@Tome
+        of the Night Sky.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1171,9 +1112,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4053_00_15
-      textHome: |-
-        All paths begin with a single step.
-        Slow down and take the first one with me.
+      textHome: All paths begin with a single step.@Slow down and take the first one
+        with me.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1195,9 +1135,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4053_00_16
-      textHome: |-
-        I have tremendous magical power,
-        but struggle with precision and dexterity.
+      textHome: I have tremendous magical power,@but struggle with precision and dexterity.
   - autoTurnFirst: 4.5
     chara:
     - id: 405300

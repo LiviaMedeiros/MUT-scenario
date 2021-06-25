@@ -232,9 +232,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 0
-      textHome: |-
-        Gonna feel that summer electricity
-        all over my body!
+      textHome: Gonna feel that summer electricity@all over my body!
   - autoTurnFirst: 2.5
     chara:
     - id: 100500
@@ -295,9 +293,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 100500
       motion: 100
-      textHome: |-
-        Lunch today is "Ultra Super Boomalicious
-        Niagara Fallin' Noodles"!
+      textHome: Lunch today is "Ultra Super Boomalicious@Niagara Fallin' Noodles"!
   - autoTurnFirst: 3
     chara:
     - id: 100500
@@ -316,9 +312,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1005_50_27
-      textHome: |-
-        Summer rules 'cause daytime lasts forever!
-        You can play outside for aaages!
+      textHome: Summer rules 'cause daytime lasts forever!@You can play outside for
+        aaages!
   - autoTurnFirst: 4.2
     chara:
     - cheek: 0
@@ -372,9 +367,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 100500
       motion: 100
-      textHome: |-
-        We don't gotta tell scary stories
-        just 'cause it's a summer night...
+      textHome: We don't gotta tell scary stories@just 'cause it's a summer night...
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -402,10 +395,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_50_29
-      textHome: |-
-        It's awesome, feelin' the bright sun outside...
-        like, this is really SUMMER!
-        Ya know?
+      textHome: It's awesome, feelin' the bright sun outside...@like, this is really
+        SUMMER!@Ya know?
   - autoTurnFirst: 1.8
     chara:
     - cheek: 0
@@ -437,9 +428,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_50_30
-      textHome: |-
-        Don'tcha think summer's the perfect time
-        to go out adventurin' or explorin'?
+      textHome: Don'tcha think summer's the perfect time@to go out adventurin' or
+        explorin'?
   - autoTurnFirst: 1
     chara:
     - id: 100500
@@ -471,9 +461,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_50_31
-      textHome: |-
-        U-uhh, this place is just like it always is,
-        r-right?
+      textHome: U-uhh, this place is just like it always is,@r-right?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -485,10 +473,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 100500
       motion: 400
-      textHome: |-
-        It's not like just 'cause it's summer I feel like
-        this place is s-s-spooky and full of ghosts,
-        got it?!
+      textHome: It's not like just 'cause it's summer I feel like@this place is s-s-spooky
+        and full of ghosts,@got it?!
   - autoTurnFirst: 3.5
     chara:
     - id: 100500
@@ -541,9 +527,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100500
-      textHome: |-
-        Put down one of the ones that
-        explodes like a volcano!
+      textHome: Put down one of the ones that@explodes like a volcano!
   - autoTurnFirst: 2.5
     chara:
     - id: 100500
@@ -552,9 +536,7 @@ story:
     chara:
     - id: 100500
       motion: 100
-      textHome: |-
-        Wouldn't it be awesome if you lined up
-        10 and set 'em all off at once?!
+      textHome: Wouldn't it be awesome if you lined up@10 and set 'em all off at once?!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -585,18 +567,14 @@ story:
       face: mtn_ex_030.exp.json
       id: 100500
       motion: 300
-      textHome: |-
-        Four seconds?
-        I can't make it in three yet...
+      textHome: Four seconds?@I can't make it in three yet...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100500
       motion: 0
-      textHome: |-
-        Ugh, I'll never beat Ayame in a
-        watermelon-eating contest like this!
+      textHome: Ugh, I'll never beat Ayame in a@watermelon-eating contest like this!
   - autoTurnFirst: 3
     chara:
     - id: 100500
@@ -621,18 +599,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 100
-      textHome: |-
-        A big glug of water really
-        hits the spot in this heat!
+      textHome: A big glug of water really@hits the spot in this heat!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 100500
       motion: 300
-      textHome: |-
-        Mmm... One cup's not enough!
-        Yo, mister! Gimme another glass!
+      textHome: Mmm... One cup's not enough!@Yo, mister! Gimme another glass!
   - autoTurnFirst: 4.5
     chara:
     - cheek: 1
@@ -726,9 +700,7 @@ story:
       eyeClose: 1
       face: mtn_ex_021.exp.json
       id: 100500
-      textHome: |-
-        This is annoying! I'm just gonna
-        whack whatever's in fronta me!
+      textHome: This is annoying! I'm just gonna@whack whatever's in fronta me!
   - chara:
     - id: 100550
       textHomeStatus: Clear
@@ -764,9 +736,7 @@ story:
     chara:
     - id: 100500
       motion: 0
-      textHome: |-
-        Ayame's buggin' me again,
-        looking for a fight...
+      textHome: Ayame's buggin' me again,@looking for a fight...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -804,9 +774,7 @@ story:
     chara:
     - eyeClose: 1
       id: 100500
-      textHome: |-
-        And then I get tired and
-        take an afternoon nap...
+      textHome: And then I get tired and@take an afternoon nap...
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -828,16 +796,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1005_50_40
-      textHome: |-
-        I used to always go to those radio exercise
-        gatherings during summer vacation.
+      textHome: I used to always go to those radio exercise@gatherings during summer
+        vacation.
   - autoTurnFirst: 3.7
     chara:
     - id: 100500
       motion: 0
-      textHome: |-
-        And I was there an hour before it started,
-        so I'd run around and get really warmed up!
+      textHome: And I was there an hour before it started,@so I'd run around and get
+        really warmed up!
   - autoTurnFirst: 3.3
     chara:
     - cheek: 0
@@ -871,9 +837,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 100500
       motion: 100
-      textHome: |-
-        So I wanna see someone hold a
-        hundred at once!
+      textHome: So I wanna see someone hold a@hundred at once!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0

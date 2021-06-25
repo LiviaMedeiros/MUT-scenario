@@ -15,26 +15,20 @@ story:
     chara:
     - id: 403300
       motion: 0
-      textHome: |2-
-         I can't focus on class today,
-        I just gotta MOVE, you know!
+      textHome: ' I can''t focus on class today,@I just gotta MOVE, you know!'
   - autoTurnFirst: 5.8
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 403300
       motion: 1
-      textHome: |-
-        All I'm doing in class is listening to the
-        teacher talk, but my shoulders lock up
-        and I get all drowsy...
+      textHome: All I'm doing in class is listening to the@teacher talk, but my shoulders
+        lock up@and I get all drowsy...
   - autoTurnFirst: 1.7
     chara:
     - id: 403300
       motion: 100
-      textHome: |-
-        I can barely keep awake!
-        And I can't study at all, either.
+      textHome: I can barely keep awake!@And I can't study at all, either.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -70,9 +64,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4033_00_18
-      textHome: |-
-        Chisato freaks out so much at
-        those zombie shootin' games!
+      textHome: Chisato freaks out so much at@those zombie shootin' games!
   - autoTurnFirst: 2.9
     chara:
     - cheek: 0
@@ -84,9 +76,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 403300
       motion: 100
-      textHome: |-
-        She looks tough, but she's a total fraidy-cat!
-        It's obvious!
+      textHome: She looks tough, but she's a total fraidy-cat!@It's obvious!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -169,9 +159,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4033_00_21
-      textHome: |-
-        The strength I wished for when I became
-        a Magical Girl didn't cure my loneliness.
+      textHome: The strength I wished for when I became@a Magical Girl didn't cure
+        my loneliness.
   - autoTurnFirst: 2.6
     chara:
     - cheek: 0
@@ -182,9 +171,7 @@ story:
     chara:
     - eyeClose: 0
       id: 403300
-      textHome: |-
-        I was finally able to change when
-        I met Chisato and the others...
+      textHome: I was finally able to change when@I met Chisato and the others...
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -213,17 +200,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4033_00_22
-      textHome: |-
-        I wanna pay everyone back for
-        being my friends...
+      textHome: I wanna pay everyone back for@being my friends...
   - autoTurnFirst: 2.6
     chara:
     - id: 403300
       motion: 100
-      textHome: |-
-        I'm not great at thinking,
-        so it might take some time to come up with
-        something to do for 'em.
+      textHome: I'm not great at thinking,@so it might take some time to come up with@something
+        to do for 'em.
   - autoTurnFirst: 4.4
     chara:
     - cheek: 0
@@ -241,9 +224,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 403300
-      textHome: |-
-        It's gotta be something
-        I can do with my strength...
+      textHome: It's gotta be something@I can do with my strength...
   - chara:
     - id: 403300
       textHomeStatus: Clear
@@ -302,19 +283,15 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_4033_00_24
-      textHome: |-
-        How can you be THIS late?!
-        Seriously, were you walking around
-        with your head in the clouds?!
+      textHome: How can you be THIS late?!@Seriously, were you walking around@with
+        your head in the clouds?!
   - autoTurnFirst: 1.8
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 403300
       motion: 1
-      textHome: |-
-        Okay, fine. Since you're here...
-        Help me with my homework, okay?
+      textHome: Okay, fine. Since you're here...@Help me with my homework, okay?
   - autoTurnFirst: 2.4
     chara:
     - cheek: 0
@@ -355,9 +332,7 @@ story:
     chara:
     - id: 403300
       motion: 1
-      textHome: |-
-        Nah, couldn't be...
-        I mean, I just went to bed...
+      textHome: Nah, couldn't be...@I mean, I just went to bed...
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1
@@ -391,19 +366,15 @@ story:
       face: mtn_ex_020.exp.json
       id: 403300
       motion: 200
-      textHome: |-
-        You know what, I'm done.
-        I can't focus on class right now.
+      textHome: You know what, I'm done.@I can't focus on class right now.
   - autoTurnFirst: 2.3
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 403300
       motion: 1
-      textHome: |-
-        I'm ditching and going to the
-        convenience store.
-        Nooow, what's for lunch?♪
+      textHome: I'm ditching and going to the@convenience store.@Nooow, what's for
+        lunch?♪
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -436,10 +407,8 @@ story:
     - eyeClose: 0
       id: 403300
       motion: 0
-      textHome: |-
-        All I did was miss class and one little
-        test, so why do I gotta go to these
-        make-up lectures, huh?
+      textHome: All I did was miss class and one little@test, so why do I gotta go
+        to these@make-up lectures, huh?
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -491,9 +460,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 403300
-      textHome: |-
-        I'm reading the whole series straight
-        through!
+      textHome: I'm reading the whole series straight@through!
   - autoTurnFirst: 2.6
     chara:
     - cheek: 0
@@ -506,9 +473,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 403300
       motion: 1
-      textHome: |-
-        There's 150 volumes, but one night's
-        more than enough! No sweat!
+      textHome: There's 150 volumes, but one night's@more than enough! No sweat!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -542,18 +507,14 @@ story:
       face: mtn_ex_020.exp.json
       id: 403300
       motion: 200
-      textHome: |-
-        Wh-who...Who had the NERVE to
-        steal my pudding?!
+      textHome: Wh-who...Who had the NERVE to@steal my pudding?!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 403300
       motion: 1
-      textHome: |-
-        Wait, I kinda think I ate
-        mom and dad's pudding...
+      textHome: Wait, I kinda think I ate@mom and dad's pudding...
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
@@ -575,9 +536,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4033_00_30
-      textHome: |-
-        Well, how 'bout joining me for a
-        quick round?
+      textHome: Well, how 'bout joining me for a@quick round?
   - autoTurnFirst: 3.4
     chara:
     - cheek: 0
@@ -590,9 +549,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 403300
       motion: 200
-      textHome: |-
-        Don't worry, I'll squash any enemies
-        that pop up!
+      textHome: Don't worry, I'll squash any enemies@that pop up!
   - chara:
     - id: 403300
       textHomeStatus: Clear
@@ -685,9 +642,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 403300
-      textHome: |-
-        Inviting Matsuri to go into town
-        might be fun!
+      textHome: Inviting Matsuri to go into town@might be fun!
   - chara:
     - id: 403300
       textHomeStatus: Clear
@@ -704,10 +659,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4033_00_34
-      textHome: |-
-        I almost got sent home by the police
-        'cause I stayed at the arcade
-        so late last night.
+      textHome: I almost got sent home by the police@'cause I stayed at the arcade@so
+        late last night.
   - autoTurnFirst: 3.4
     chara:
     - cheek: 0
@@ -738,9 +691,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4033_00_35
-      textHome: |-
-        Using my finishing move takes a lot
-        out of me, but...
+      textHome: Using my finishing move takes a lot@out of me, but...
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -776,9 +727,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 403300
       motion: 0
-      textHome: |-
-        Charge up while the enemy is off-balance
-        and land a finishing move! K.O.!
+      textHome: Charge up while the enemy is off-balance@and land a finishing move!
+        K.O.!
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
@@ -837,9 +787,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 403300
       motion: 1
-      textHome: |-
-        I bet you can hardly imagine me like
-        that now.
+      textHome: I bet you can hardly imagine me like@that now.
   - chara:
     - id: 403300
       textHomeStatus: Clear
@@ -882,9 +830,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4033_00_38
-      textHome: |-
-        Becoming a Magical Girl made me
-        stronger, and I sure showed 'em all!
+      textHome: Becoming a Magical Girl made me@stronger, and I sure showed 'em all!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -920,9 +866,7 @@ story:
       eyeClose: 1
       id: 403300
       motion: 300
-      textHome: |-
-        I sure am glad I took her hand when
-        she reached out...
+      textHome: I sure am glad I took her hand when@she reached out...
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -934,9 +878,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 403300
       motion: 0
-      textHome: |-
-        I sure am glad I took her hand when
-        she reached out...
+      textHome: I sure am glad I took her hand when@she reached out...
   - chara:
     - id: 403300
       textHomeStatus: Clear
@@ -953,10 +895,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4033_00_40
-      textHome: |-
-        When the four of us get in a groove during
-        battle, I know I'm not alone anymore.
-        It's so reassuring...
+      textHome: When the four of us get in a groove during@battle, I know I'm not
+        alone anymore.@It's so reassuring...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -969,9 +909,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 403300
       motion: 1
-      textHome: |-
-        I want to protect the place I belong.
-        I want to protect my three important friends.
+      textHome: I want to protect the place I belong.@I want to protect my three important
+        friends.
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
@@ -993,9 +932,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4033_00_41
-      textHome: |-
-        Had to tear myself outta bed this morning
-        'cause the patrol ran late last night...
+      textHome: Had to tear myself outta bed this morning@'cause the patrol ran late
+        last night...
   - autoTurnFirst: 2.7
     chara:
     - eyeClose: 1
@@ -1011,9 +949,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 403300
       motion: 1
-      textHome: |-
-        Well, I have to tear myself outta bed
-        every morning anyway, so whatever!
+      textHome: Well, I have to tear myself outta bed@every morning anyway, so whatever!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1091,9 +1027,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4033_00_45
-      textHome: |-
-        These punks are too weak
-        to be starting fights!
+      textHome: These punks are too weak@to be starting fights!
   - chara:
     - id: 403300
       textHomeStatus: Clear
@@ -1223,10 +1157,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4033_00_02
-      textHome: |-
-        I'm Arisa Narumi!
-        I'm pretty famous at school
-        ...as a delinquent.
+      textHome: I'm Arisa Narumi!@I'm pretty famous at school@...as a delinquent.
   - autoTurnFirst: 2.6
     chara:
     - cheek: 0
@@ -1239,9 +1170,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 403300
       motion: 400
-      textHome: |-
-        Oh, but...I don't actually do anything BAD,
-        you know? Don't freak out!
+      textHome: Oh, but...I don't actually do anything BAD,@you know? Don't freak
+        out!
   - autoTurnFirst: 3.3
     chara:
     - cheek: 0
@@ -1352,9 +1282,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4033_00_16
-      textHome: |-
-        I can't study to save my life,
-        but I'm great at video games!
+      textHome: I can't study to save my life,@but I'm great at video games!
   - autoTurnFirst: 2.2
     chara:
     - cheek: 0
@@ -1366,9 +1294,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 403300
       motion: 200
-      textHome: |2-
-         I just got done givin' some clown
-        a beatdown in a fighting game!
+      textHome: ' I just got done givin'' some clown@a beatdown in a fighting game!'
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -1390,9 +1316,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4033_00_17
-      textHome: |-
-        Looks like that chump I trashed
-        at the arcade has been practicing.
+      textHome: Looks like that chump I trashed@at the arcade has been practicing.
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0

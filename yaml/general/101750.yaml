@@ -225,27 +225,21 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1017_50_24
-      textHome: |-
-        You surprised me when you
-        invited me here.
+      textHome: You surprised me when you@invited me here.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 200
-      textHome: |-
-        What, did you want to see your
-        Coordinator in her swimsuit?
+      textHome: What, did you want to see your@Coordinator in her swimsuit?
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101700
       motion: 100
-      textHome: |-
-        You should've just said that
-        in the first place.
+      textHome: You should've just said that@in the first place.
   - chara:
     - id: 101750
       textHomeStatus: Clear
@@ -271,10 +265,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 101700
       motion: 0
-      textHome: |-
-        Especially the food at the place we're staying,
-        I'm pretty sure everything they have
-        would make my mouth water.
+      textHome: Especially the food at the place we're staying,@I'm pretty sure everything
+        they have@would make my mouth water.
   - autoTurnFirst: 4.5
     chara:
     - id: 101700
@@ -298,9 +290,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101700
-      textHome: |-
-        Whoever can eat the most
-        within the allotted time wins!
+      textHome: Whoever can eat the most@within the allotted time wins!
   - autoTurnFirst: 5.5
     chara:
     - cheek: 0
@@ -312,9 +302,7 @@ story:
     chara:
     - id: 101700
       motion: 200
-      textHome: |-
-        Be careful... You may even get the spicy
-        strawberry flavor♪
+      textHome: Be careful... You may even get the spicy@strawberry flavor♪
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -333,15 +321,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1017_50_27
-      textHome: "This whole setting, doesn't it feel\nlike we're in a drama? "
+      textHome: 'This whole setting, doesn''t it feel@like we''re in a drama? '
   - autoTurnFirst: 4
     chara:
     - id: 101700
       motion: 0
-      textHome: |-
-        With the sunset in the background,
-        saying goodbye to our loved
-        one as they move on.
+      textHome: With the sunset in the background,@saying goodbye to our loved@one
+        as they move on.
   - autoTurnFirst: 1
     chara:
     - id: 101700
@@ -386,15 +372,15 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101700
-      textHome: "Kagiyaaa! \r\n*Giggle*"
+      textHome: Kagiyaaa! @*Giggle*
   - autoTurnFirst: 5.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 1
-      textHome: "These words Japanese people use while \r\nenjoying fireworks were
-        actually once \r\nthe names of real shops that sold them."
+      textHome: These words Japanese people use while @enjoying fireworks were actually
+        once @the names of real shops that sold them.
   - autoTurnFirst: 4.5
     chara:
     - id: 101700
@@ -437,9 +423,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 200
-      textHome: |-
-        Reading under this umbrella,
-        I was just so comfortable.
+      textHome: Reading under this umbrella,@I was just so comfortable.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -482,9 +466,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101700
-      textHome: |-
-        You will be taken out...
-        by some other Magical Girl!
+      textHome: You will be taken out...@by some other Magical Girl!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -504,10 +486,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1017_50_31
-      textHome: |-
-        Question time!
-        Who do you think you can see
-        in a swimsuit in Endless Mirrors?
+      textHome: Question time!@Who do you think you can see@in a swimsuit in Endless
+        Mirrors?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -524,9 +504,7 @@ story:
     chara:
     - id: 101700
       motion: 100
-      textHome: |-
-        Well, you're going to have to
-        go to see for yourself.
+      textHome: Well, you're going to have to@go to see for yourself.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -564,10 +542,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1017_50_33
-      textHome: |-
-        When you're having trouble sleeping
-        because of all of those pesky mosquitoes...
-        Try this!
+      textHome: When you're having trouble sleeping@because of all of those pesky
+        mosquitoes...@Try this!
   - autoTurnFirst: 5.3
     chara:
     - cheek: 0
@@ -592,9 +568,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 101700
       motion: 200
-      textHome: |-
-        All you have to do is swing it and
-        watch those mosquitoes fall!
+      textHome: All you have to do is swing it and@watch those mosquitoes fall!
   - chara:
     - id: 101750
       textHomeStatus: Clear
@@ -615,17 +589,15 @@ story:
       face: mtn_ex_011.exp.json
       id: 101700
       motion: 200
-      textHome: |-
-        Leave it to the Beachside Eagle Eye,
-        Mitama Yakumo!
+      textHome: Leave it to the Beachside Eagle Eye,@Mitama Yakumo!
   - autoTurnFirst: 5.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 1
-      textHome: "Be careful, though...\r\nIf you let your guard down, I might catch\nyou
-        in an embarrassing pose♪"
+      textHome: Be careful, though...@If you let your guard down, I might catch@you
+        in an embarrassing pose♪
   - chara:
     - id: 101750
       textHomeStatus: Clear
@@ -688,9 +660,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 200
-      textHome: |-
-        All these wonderful dishes utilizing fresh
-        seafood, I want to try them all.
+      textHome: All these wonderful dishes utilizing fresh@seafood, I want to try
+        them all.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -726,10 +697,8 @@ story:
     chara:
     - id: 101700
       motion: 1
-      textHome: |-
-        I have to make up for all the time I took
-        off during the week. I want to get
-        it over with during summer vacation.
+      textHome: I have to make up for all the time I took@off during the week. I want
+        to get@it over with during summer vacation.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -737,7 +706,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 200
-      textHome: "Plus, it'll be pretty empty...\r\nGood idea, don't you think?"
+      textHome: Plus, it'll be pretty empty...@Good idea, don't you think?
   - autoTurnFirst: 3
     chara:
     - eyeClose: 0
@@ -768,9 +737,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1017_50_38
-      textHome: |-
-        Swimming lessons?
-        Of course I'll just be watching.
+      textHome: Swimming lessons?@Of course I'll just be watching.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -783,9 +750,7 @@ story:
       eyeClose: 1
       face: mtn_ex_030.exp.json
       id: 101700
-      textHome: |-
-        I have absolutely no good memories
-        of these kinds of classes...
+      textHome: I have absolutely no good memories@of these kinds of classes...
   - chara:
     - id: 101750
       textHomeStatus: Clear
@@ -799,7 +764,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1017_50_39
-      textHome: "What, does this swimsuit look\nlike it'll be too tight? "
+      textHome: 'What, does this swimsuit look@like it''ll be too tight? '
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -854,8 +819,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1017_50_40
-      textHome: "Did you know if you take a picture with\nyour back facing the camera
-        you can\nactually get some pretty sexy results? "
+      textHome: 'Did you know if you take a picture with@your back facing the camera
+        you can@actually get some pretty sexy results? '
   - autoTurnFirst: 5.4
     chara:
     - cheek: 0
@@ -901,16 +866,12 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101700
-      textHome: |-
-        You've shown me your back,
-        you're out of luck.
+      textHome: You've shown me your back,@you're out of luck.
   - autoTurnFirst: 4
     chara:
     - id: 101700
       motion: 1
-      textHome: |-
-        Now you're going to have to let me put
-        this suntan lotion on you♪
+      textHome: Now you're going to have to let me put@this suntan lotion on you♪
   - autoTurnFirst: 2
     chara:
     - cheek: 0

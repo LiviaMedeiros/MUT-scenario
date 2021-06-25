@@ -17,19 +17,15 @@ story:
       face: mtn_ex_010.exp.json
       id: 401300
       motion: 0
-      textHome: |-
-        So, I didn't wish to win games or
-        anything like that.
+      textHome: So, I didn't wish to win games or@anything like that.
   - autoTurnFirst: 8
     chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 401300
       motion: 1
-      textHome: |-
-        Besides, cheating to win is just plain boring.
-        Hours and hours of practice is what make
-        the difference on the field...
+      textHome: Besides, cheating to win is just plain boring.@Hours and hours of
+        practice is what make@the difference on the field...
   - autoTurnFirst: 3.6
     chara:
     - cheek: 0
@@ -40,9 +36,7 @@ story:
     chara:
     - id: 401300
       motion: 100
-      textHome: |-
-        Today, tomorrow, whenever,
-        I'll be practicing full blast!
+      textHome: Today, tomorrow, whenever,@I'll be practicing full blast!
   - chara:
     - id: 401300
       textHomeStatus: Clear
@@ -63,17 +57,13 @@ story:
     chara:
     - id: 401300
       motion: 0
-      textHome: |-
-        At the end of the day,
-        being decisive is key.
+      textHome: At the end of the day,@being decisive is key.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401300
-      textHome: |-
-        You could say the same thing
-        about fighting Witches.
+      textHome: You could say the same thing@about fighting Witches.
   - chara:
     - id: 401300
       textHomeStatus: Clear
@@ -111,9 +101,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4013_00_20
-      textHome: |-
-        Now I can get two, even three,
-        steps ahead of my opponents...
+      textHome: Now I can get two, even three,@steps ahead of my opponents...
   - autoTurnFirst: 1.8
     chara:
     - eyeClose: 1
@@ -143,9 +131,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4013_00_21
-      textHome: |-
-        Ever get hit in the mouth right after kick-off
-        and they score on you right away?
+      textHome: Ever get hit in the mouth right after kick-off@and they score on you
+        right away?
   - autoTurnFirst: 4.2
     chara:
     - cheek: 0
@@ -157,9 +144,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 401300
       motion: 200
-      textHome: |-
-        It happens, so that's why you've gotta
-        be locked in from the get-go!
+      textHome: It happens, so that's why you've gotta@be locked in from the get-go!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -180,18 +165,16 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4013_00_22
-      textHome: |-
-        You play two 45-minute halves in soccer.
-        That's a full 90 minutes of staying focused.
+      textHome: You play two 45-minute halves in soccer.@That's a full 90 minutes
+        of staying focused.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401300
       motion: 1
-      textHome: |-
-        It's not easy, so being relaxed before the
-        match and during time-outs is real important.
+      textHome: It's not easy, so being relaxed before the@match and during time-outs
+        is real important.
   - autoTurnFirst: 6.5
     chara:
     - cheek: 0
@@ -270,8 +253,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 401300
       motion: 1
-      textHome: "I forgot to tell you what we're doing. \nWill you count how many
-        reps I can do?\nPlease!"
+      textHome: I forgot to tell you what we're doing. @Will you count how many reps
+        I can do?@Please!
   - chara:
     - id: 401300
       textHomeStatus: Clear
@@ -332,16 +315,13 @@ story:
     chara:
     - eyeClose: 1
       id: 401300
-      textHome: |-
-        I always get so sleepy around this time!
-         Really, really sleepy...
+      textHome: I always get so sleepy around this time!@ Really, really sleepy...
   - autoTurnFirst: 5.5
     chara:
     - id: 401300
       motion: 1
-      textHome: |-
-        Between being worn out from practice and
-        full from breakfast, all I wanna do is sleep...
+      textHome: Between being worn out from practice and@full from breakfast, all
+        I wanna do is sleep...
   - autoTurnFirst: 3.5
     chara:
     - eyeClose: 0
@@ -368,10 +348,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 401300
       motion: 0
-      textHome: |-
-        But I also have to hunt those Witches too...
-        In any case, this is always a busy
-        time of the day for me...
+      textHome: But I also have to hunt those Witches too...@In any case, this is
+        always a busy@time of the day for me...
   - autoTurnFirst: 7
     chara:
     - cheek: 0
@@ -420,7 +398,7 @@ story:
       eyeClose: 0
       face: mtn_ex_012.exp.json
       id: 401300
-      textHome: "I poured all my energy into soccer and\nmy Magical Girl work today. "
+      textHome: 'I poured all my energy into soccer and@my Magical Girl work today. '
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -443,16 +421,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4013_00_29
-      textHome: "The magic of soccer is that it can be\nplayed as long as you have
-        a ball. "
+      textHome: 'The magic of soccer is that it can be@played as long as you have
+        a ball. '
   - autoTurnFirst: 4
     chara:
     - id: 401300
       motion: 0
-      textHome: |-
-        It's like this amazing universal language
-        that lets you make friends with people all
-        across the world!
+      textHome: It's like this amazing universal language@that lets you make friends
+        with people all@across the world!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -474,9 +450,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4013_00_30
-      textHome: |-
-        The playing field stretches out endlessly
-        ahead of me,
+      textHome: The playing field stretches out endlessly@ahead of me,
   - autoTurnFirst: 3.2
     chara:
     - id: 401300
@@ -509,15 +483,13 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4013_00_31
-      textHome: "You're constantly going \"1-v-1\" \nwhen playing soccer..."
+      textHome: You're constantly going "1-v-1" @when playing soccer...
   - autoTurnFirst: 3.5
     chara:
     - id: 401300
       motion: 0
-      textHome: |-
-        You have to use your own power to break
-        through, or else you won't be able to get
-        down the field.
+      textHome: You have to use your own power to break@through, or else you won't
+        be able to get@down the field.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -565,9 +537,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4013_00_33
-      textHome: |-
-        She normally never does, but whenever
-        Umika gets writer's block, she starts cooking.
+      textHome: She normally never does, but whenever@Umika gets writer's block, she
+        starts cooking.
   - autoTurnFirst: 2
     chara:
     - id: 401300
@@ -592,8 +563,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4013_00_34
-      textHome: "If I make it onto the national team,\nI'll get to compete with people
-        all over\nthe world, right? "
+      textHome: 'If I make it onto the national team,@I''ll get to compete with people
+        all over@the world, right? '
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -605,9 +576,7 @@ story:
     - cheek: 1
       eyeClose: 1
       id: 401300
-      textHome: |-
-        Ooohhh,
-        just thinking about it gets me pumped up!
+      textHome: Ooohhh,@just thinking about it gets me pumped up!
     autoTurnFirst: 1
   - autoTurnLast: 0.1
     chara:
@@ -634,19 +603,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4013_00_35
-      textHome: |-
-        I can't change my soccer cleats that easily.
-        My uniform is just clothes,
+      textHome: I can't change my soccer cleats that easily.@My uniform is just clothes,
   - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401300
       motion: 0
-      textHome: |-
-        but my cleats are a tool.
-         If I've gotten used to a pair,
-        I make sure to take good care of them.
+      textHome: but my cleats are a tool.@ If I've gotten used to a pair,@I make sure
+        to take good care of them.
   - chara:
     - id: 401300
       textHomeStatus: Clear
@@ -667,9 +632,8 @@ story:
     chara:
     - eyeClose: 1
       id: 401300
-      textHome: |-
-        But us Magical Girls were given the power
-        to dispell curses and rescue everyone.
+      textHome: But us Magical Girls were given the power@to dispell curses and rescue
+        everyone.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -696,9 +660,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4013_00_37
-      textHome: |-
-        When fighting Witches, I usually keep them
-        in one spot while Umika attacks them.
+      textHome: When fighting Witches, I usually keep them@in one spot while Umika
+        attacks them.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -742,16 +705,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4013_00_38
-      textHome: |-
-        I'm confident when it comes to
-        my power and speed.
+      textHome: I'm confident when it comes to@my power and speed.
   - autoTurnFirst: 3.5
     chara:
     - id: 401300
       motion: 0
-      textHome: |-
-        When I fight I like to get right up
-        on my opponent!
+      textHome: When I fight I like to get right up@on my opponent!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -780,16 +739,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4013_00_39
-      textHome: |-
-        When it comes to having the most broad
-        range of skills, Umika definitely wins.
+      textHome: When it comes to having the most broad@range of skills, Umika definitely
+        wins.
   - autoTurnFirst: 3.8
     chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 401300
       motion: 0
-      textHome: "She uses my strengths to her advantage\nwhen we fight together. "
+      textHome: 'She uses my strengths to her advantage@when we fight together. '
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -1060,9 +1018,8 @@ story:
     - cheek: 0
       id: 401300
       motion: 1
-      textHome: |-
-        I play soccer, and being the star player on
-        the national team is my ultimate dream.
+      textHome: I play soccer, and being the star player on@the national team is my
+        ultimate dream.
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -1074,9 +1031,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 401300
       motion: 100
-      textHome: |-
-        Send a good pass my way on the field,
-        okay?
+      textHome: Send a good pass my way on the field,@okay?
   - chara:
     - id: 401300
       textHomeStatus: Clear
@@ -1162,9 +1117,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4013_00_16
-      textHome: |-
-        The basics of soccer all come down
-        to stopping and kicking.
+      textHome: The basics of soccer all come down@to stopping and kicking.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1176,9 +1129,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401300
-      textHome: |2-
-         Explaining will take forever,
-        so let's just play sometime!
+      textHome: ' Explaining will take forever,@so let''s just play sometime!'
   - autoTurnFirst: 3
     chara:
     - id: 401300
@@ -1198,17 +1149,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4013_00_17
-      textHome: |-
-        In the middle of a match, there's no time
-        to think about your next move.
+      textHome: In the middle of a match, there's no time@to think about your next
+        move.
   - autoTurnFirst: 4.4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401300
-      textHome: |-
-        You've gotta feel it. That's why we practice
-        the same thing over and over.
+      textHome: You've gotta feel it. That's why we practice@the same thing over and
+        over.
   - autoTurnFirst: 3
     chara:
     - cheek: 0

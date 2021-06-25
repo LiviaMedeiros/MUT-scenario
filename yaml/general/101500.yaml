@@ -24,18 +24,15 @@ story:
       face: mtn_ex_030.exp.json
       id: 101500
       motion: 300
-      textHome: |-
-        I spent a long time in the hospital,
-        so there's a lot I don't know.
+      textHome: I spent a long time in the hospital,@so there's a lot I don't know.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
       face: mtn_ex_041.exp.json
       id: 101500
       motion: 0
-      textHome: |-
-        I might not get how a lot of things work,
-        but I'd be happy to become friends.
+      textHome: I might not get how a lot of things work,@but I'd be happy to become
+        friends.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -74,9 +71,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_17
-      textHome: |-
-        I may have put on a brave face, but I used
-        to cry a lot when I was in the hospital...
+      textHome: I may have put on a brave face, but I used@to cry a lot when I was
+        in the hospital...
   - autoTurnFirst: 1.8
     chara:
     - cheek: 1
@@ -118,9 +114,7 @@ story:
     chara:
     - id: 101500
       motion: 100
-      textHome: |-
-        I think Iroha goes through some hard
-        things at school.
+      textHome: I think Iroha goes through some hard@things at school.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -169,8 +163,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_20
-      textHome: "With all these Magical Girls around,\r\nI have to get used to things
-        on the outside!"
+      textHome: With all these Magical Girls around,@I have to get used to things
+        on the outside!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -221,9 +215,7 @@ story:
     chara:
     - id: 101500
       motion: 300
-      textHome: |-
-        All sorts of things can come
-        crashing at you in a city.
+      textHome: All sorts of things can come@crashing at you in a city.
   - chara:
     - id: 101500
       textHomeStatus: Clear
@@ -248,17 +240,14 @@ story:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 101500
-      textHome: |2-
-         Stopping fights, getting along,
-        singing happily together...
+      textHome: ' Stopping fights, getting along,@singing happily together...'
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 101500
-      textHome: |-
-        I know it sounds like I'm just saying that,
-        but that's what I really want to do!
+      textHome: I know it sounds like I'm just saying that,@but that's what I really
+        want to do!
   - autoTurnFirst: 1.6
     chara:
     - cheek: 1
@@ -271,9 +260,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101500
       motion: 0
-      textHome: |-
-        I'm pretty stubborn about it,
-        just like my sister.
+      textHome: I'm pretty stubborn about it,@just like my sister.
   - chara:
     - id: 101500
       textHomeStatus: Clear
@@ -354,8 +341,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_25
-      textHome: "I can hear the birds tweeting outside.\nIf I stick my head out the
-        window,\r\nI can breathe in all the fresh air."
+      textHome: I can hear the birds tweeting outside.@If I stick my head out the
+        window,@I can breathe in all the fresh air.
   - autoTurnFirst: 2.7
     chara:
     - cheek: 1
@@ -387,9 +374,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_26
-      textHome: |-
-        Octopus-shaped sausages,
-        steamed broccoli, and potato salad.
+      textHome: Octopus-shaped sausages,@steamed broccoli, and potato salad.
   - autoTurnFirst: 1.7
     chara:
     - cheek: 1
@@ -442,9 +427,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 101500
       motion: 200
-      textHome: |-
-        I'm really glad! I'll fight really hard and
-        make sure everyone else is happy too!
+      textHome: I'm really glad! I'll fight really hard and@make sure everyone else
+        is happy too!
   - autoTurnFirst: 5
     chara:
     - id: 101500
@@ -463,9 +447,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_27
-      textHome: |-
-        From dusk to when it gets dark,
-        that's my favorite time of the day.
+      textHome: From dusk to when it gets dark,@that's my favorite time of the day.
   - autoTurnFirst: 3.5
     chara:
     - id: 101500
@@ -477,9 +459,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101500
       motion: 100
-      textHome: |-
-        I get to eat and watch TV together
-        with everyone today.
+      textHome: I get to eat and watch TV together@with everyone today.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -530,18 +510,15 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_29
-      textHome: |-
-        No, no! I have to be careful or
-        I'll start singing without thinking...
+      textHome: No, no! I have to be careful or@I'll start singing without thinking...
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101500
       motion: 300
-      textHome: |-
-        The other day people laughed at me for doing
-        that, and people might think I'm weird, so...
+      textHome: The other day people laughed at me for doing@that, and people might
+        think I'm weird, so...
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1
@@ -561,9 +538,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_30
-      textHome: |-
-        I can hunt Witches on my own now,
-        but it's still scary...
+      textHome: I can hunt Witches on my own now,@but it's still scary...
   - autoTurnFirst: 2.5
     chara:
     - id: 101500
@@ -593,10 +568,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_31
-      textHome: |-
-        I don't wanna!
-        Th-the Mirror Mansion's like
-        a haunted house, isn't it?!
+      textHome: I don't wanna!@Th-the Mirror Mansion's like@a haunted house, isn't
+        it?!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -653,9 +626,8 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101500
-      textHome: |-
-        That's why I was the one in charge of
-        drawing when Nemu and Touka talked.
+      textHome: That's why I was the one in charge of@drawing when Nemu and Touka
+        talked.
   - autoTurnFirst: 4
     chara:
     - id: 101500
@@ -682,10 +654,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 101500
       motion: 0
-      textHome: |-
-        There were people who taught us before,
-        but we couldn't play any sports then,
-        so it all feels really new!
+      textHome: There were people who taught us before,@but we couldn't play any sports
+        then,@so it all feels really new!
   - autoTurnFirst: 6
     chara:
     - cheek: 1
@@ -706,9 +676,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_35
-      textHome: |-
-        So recently, I've been taking pictures
-        and posting them on social media.
+      textHome: So recently, I've been taking pictures@and posting them on social
+        media.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -748,9 +717,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_36
-      textHome: |-
-        A while ago, the teacher at the hospital
-        called some college students to sing for us.
+      textHome: A while ago, the teacher at the hospital@called some college students
+        to sing for us.
   - autoTurnFirst: 1.8
     chara:
     - id: 101500
@@ -793,9 +761,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_37
-      textHome: |-
-        Touka and Nemu used to be so stubborn,
-        they were always arguing.
+      textHome: Touka and Nemu used to be so stubborn,@they were always arguing.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -807,7 +773,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101500
       motion: 0
-      textHome: "That's why I'm so glad to see\r\nthem getting along now."
+      textHome: That's why I'm so glad to see@them getting along now.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -832,10 +798,8 @@ story:
     chara:
     - id: 101500
       motion: 1
-      textHome: |-
-        I was just on a group call with my family,
-        and when I told them I was ranked number 1
-        in PE, my parents were both really surprised.
+      textHome: I was just on a group call with my family,@and when I told them I
+        was ranked number 1@in PE, my parents were both really surprised.
   - autoTurnFirst: 2.5
     chara:
     - id: 101500
@@ -859,9 +823,7 @@ story:
       pos: 1
       tear: 1
       voice: vo_char_1015_00_39
-      textHome: |-
-        Oh... *Sob* Sis thought of all these
-        recipes for me, her sick sister...
+      textHome: Oh... *Sob* Sis thought of all these@recipes for me, her sick sister...
   - autoTurnFirst: 7.7
     chara:
     - eyeClose: 0
@@ -888,9 +850,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_40
-      textHome: |-
-        My world is getting bigger
-        every second of every day...
+      textHome: My world is getting bigger@every second of every day...
   - autoTurnFirst: 3
     chara:
     - id: 101500
@@ -906,9 +866,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 101500
       motion: 100
-      textHome: |-
-        I never even thought a time like this would
-        come when I'd get to see so much.
+      textHome: I never even thought a time like this would@come when I'd get to see
+        so much.
   - chara:
     - id: 101500
       textHomeStatus: Clear
@@ -1160,9 +1119,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_14
-      textHome: |-
-        I'm not satisfied yet.
-        I'm still weak.
+      textHome: I'm not satisfied yet.@I'm still weak.
   - autoTurnFirst: 1.4
     chara:
     - eyeClose: 1
@@ -1219,8 +1176,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1015_00_16
-      textHome: "I used to jot down notes about what\nmy sister told me about school,\ntrying
-        to imagine what kind of school\nI would go to if I got out of the hospital. "
+      textHome: 'I used to jot down notes about what@my sister told me about school,@trying
+        to imagine what kind of school@I would go to if I got out of the hospital. '
   - autoTurnFirst: 5
     chara:
     - eyeClose: 0
@@ -1231,9 +1188,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 101500
       motion: 200
-      textHome: |-
-        Don't tell anyone I told you that, okay?
-        It's embarrassing.
+      textHome: Don't tell anyone I told you that, okay?@It's embarrassing.
   - chara:
     - id: 101500
       textHomeStatus: Clear

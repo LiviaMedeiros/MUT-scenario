@@ -10,18 +10,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_01
-      textHome: |-
-        While working as a mercenary I searched
-        the land endlessly, hoping to find the "light"...
-        someone who could restore hope in our time.
+      textHome: While working as a mercenary I searched@the land endlessly, hoping
+        to find the "light"...@someone who could restore hope in our time.
   - autoTurnFirst: 6.2
     chara:
     - eyeClose: 1
       id: 402200
       motion: 100
-      textHome: |-
-        And at the end of my long journey
-        I met with light incarnate...Darc.
+      textHome: And at the end of my long journey@I met with light incarnate...Darc.
   - autoTurnFirst: 0.3
     chara:
     - eyeClose: 0
@@ -30,9 +26,7 @@ story:
     chara:
     - id: 402200
       motion: 0
-      textHome: |2-
-         I will keep her safe
-        no matter the risk to myself.
+      textHome: ' I will keep her safe@no matter the risk to myself.'
   - autoTurnFirst: 3.5
     chara:
     - id: 402200
@@ -53,18 +47,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4022_00_18
-      textHome: |-
-        A power is flowing through my body unlike
-        anything I have ever experienced.
+      textHome: A power is flowing through my body unlike@anything I have ever experienced.
   - autoTurnFirst: 4
     chara:
     - cheek: 2
       face: mtn_ex_010.exp.json
       id: 402200
       motion: 1
-      textHome: |-
-        Come, Darc and I will go together...
-        and we'll bring back light to France!
+      textHome: Come, Darc and I will go together...@and we'll bring back light to
+        France!
   - autoTurnFirst: 3
     chara:
     - id: 402200
@@ -107,9 +98,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_20
-      textHome: |-
-        I imagine this is how it feels
-        to be born anew.
+      textHome: I imagine this is how it feels@to be born anew.
   - autoTurnFirst: 2
     chara:
     - id: 402200
@@ -135,10 +124,8 @@ story:
     chara:
     - id: 402200
       motion: 1
-      textHome: |-
-        Even before I met Darc, I traveled with him
-        for a long time, searching for a youth with
-        the potential to be a great hero.
+      textHome: Even before I met Darc, I traveled with him@for a long time, searching
+        for a youth with@the potential to be a great hero.
   - autoTurnFirst: 3
     chara:
     - id: 402200
@@ -159,10 +146,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4022_00_22
-      textHome: |-
-        Thank you... With this new strength,
-        I should be able to protect our hope,
-        the light we know as Darc.
+      textHome: Thank you... With this new strength,@I should be able to protect our
+        hope,@the light we know as Darc.
   - autoTurnFirst: 2
     chara:
     - eyeClose: 1
@@ -171,9 +156,8 @@ story:
     chara:
     - eyeClose: 0
       id: 402200
-      textHome: |-
-        I am truly grateful that I could safely endure
-        such cruel times to reach this day.
+      textHome: I am truly grateful that I could safely endure@such cruel times to
+        reach this day.
   - autoTurnFirst: 7.5
     chara:
     - id: 402200
@@ -225,17 +209,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_24
-      textHome: |-
-        There you are. Another new dawn,
-        and here we are to meet it.
+      textHome: There you are. Another new dawn,@and here we are to meet it.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 402200
       motion: 0
-      textHome: "Shall we warm up with some light training? \nWe can't let our skills
-        get rusty."
+      textHome: Shall we warm up with some light training? @We can't let our skills
+        get rusty.
   - autoTurnFirst: 2.5
     chara:
     - id: 402200
@@ -261,10 +243,8 @@ story:
     chara:
     - id: 402200
       motion: 1
-      textHome: |-
-        Since we have no idea when the enemy
-        will attack us, we can't allow ourselves
-        to be sluggish.
+      textHome: Since we have no idea when the enemy@will attack us, we can't allow
+        ourselves@to be sluggish.
   - autoTurnFirst: 4
     chara:
     - id: 402200
@@ -290,10 +270,8 @@ story:
     chara:
     - id: 402200
       motion: 1
-      textHome: |-
-        You never know when the battle may start.
-        If we don't eat when we have some
-        downtime, we may miss our chance.
+      textHome: You never know when the battle may start.@If we don't eat when we
+        have some@downtime, we may miss our chance.
   - chara:
     - id: 402200
       textHomeStatus: Clear
@@ -315,16 +293,12 @@ story:
     chara:
     - id: 402200
       motion: 100
-      textHome: |-
-        But shadows are the strongest
-        when the light is at its brightest.
+      textHome: But shadows are the strongest@when the light is at its brightest.
   - autoTurnFirst: 3
     chara:
     - id: 402200
       motion: 1
-      textHome: |-
-        When the light fails, and all goes dark...
-        even I worry.
+      textHome: When the light fails, and all goes dark...@even I worry.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -369,14 +343,12 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 402200
-      textHome: |-
-        Us Magical Girls have to use extra
-        magic to recover from rough battles.
+      textHome: Us Magical Girls have to use extra@magic to recover from rough battles.
   - autoTurnFirst: 3.5
     chara:
     - id: 402200
       motion: 300
-      textHome: "Magical Girl, or not, it does one \nno good to stay up too late."
+      textHome: Magical Girl, or not, it does one @no good to stay up too late.
   - chara:
     - id: 402200
       textHomeStatus: Clear
@@ -393,9 +365,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_29
-      textHome: |-
-        Even though she's known as a holy maiden,
-        Darc still loses her focus sometimes...
+      textHome: Even though she's known as a holy maiden,@Darc still loses her focus
+        sometimes...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -405,9 +376,7 @@ story:
     chara:
     - id: 402200
       motion: 100
-      textHome: |-
-        She hasn't changed much
-        since we first met.
+      textHome: She hasn't changed much@since we first met.
   - chara:
     - id: 402200
       textHomeStatus: Clear
@@ -429,9 +398,8 @@ story:
     chara:
     - id: 402200
       motion: 0
-      textHome: |-
-        I'm not angry, I was just worried that
-        something may have happened to you.
+      textHome: I'm not angry, I was just worried that@something may have happened
+        to you.
   - autoTurnFirst: 4
     chara:
     - id: 402200
@@ -462,7 +430,7 @@ story:
     chara:
     - id: 402200
       motion: 0
-      textHome: "And you say we may even \nend up facing other Magical Girls?"
+      textHome: And you say we may even @end up facing other Magical Girls?
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -511,9 +479,7 @@ story:
     chara:
     - id: 402200
       motion: 1
-      textHome: |-
-        We're equal partners on the battlefield,
-        so it seems only fitting.
+      textHome: We're equal partners on the battlefield,@so it seems only fitting.
   - chara:
     - id: 402200
       textHomeStatus: Clear
@@ -530,17 +496,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_34
-      textHome: |-
-        Darc possesses extraordinary
-        Magical Girl qualities.
+      textHome: Darc possesses extraordinary@Magical Girl qualities.
   - autoTurnFirst: 5
     chara:
     - id: 402200
       motion: 0
-      textHome: |-
-        And so, the fate of countless lives and the
-        consequences of her actions burden her
-        immensely...
+      textHome: And so, the fate of countless lives and the@consequences of her actions
+        burden her@immensely...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -569,10 +531,8 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 402200
-      textHome: |-
-        Oh, you mean Qube.
-        Perhaps his name changes
-        depending on place and time?
+      textHome: Oh, you mean Qube.@Perhaps his name changes@depending on place and
+        time?
   - autoTurnFirst: 6.5
     chara:
     - id: 402200
@@ -581,9 +541,7 @@ story:
     chara:
     - id: 402200
       motion: 100
-      textHome: |-
-        Darc calls him "Monsieur Angel",
-        and she has absolute faith in him.
+      textHome: Darc calls him "Monsieur Angel",@and she has absolute faith in him.
   - chara:
     - id: 402200
       textHomeStatus: Clear
@@ -600,8 +558,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_36
-      textHome: "\"France will be lost by a woman,\nbut saved by a maiden.\" \nI hear
-        that phrase often."
+      textHome: '"France will be lost by a woman,@but saved by a maiden." @I hear
+        that phrase often.'
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -625,17 +583,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_37
-      textHome: |-
-        Melissa is Darc's maid, but she's
-        more like her close friend.
+      textHome: Melissa is Darc's maid, but she's@more like her close friend.
   - autoTurnFirst: 3
     chara:
     - id: 402200
       motion: 0
-      textHome: |-
-        Melissa can also see Qube,
-        which means she must have the
-        makings of a Magical Girl.
+      textHome: Melissa can also see Qube,@which means she must have the@makings of
+        a Magical Girl.
   - autoTurnFirst: 4
     chara:
     - id: 402200
@@ -672,8 +626,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4022_00_38
-      textHome: |
-        Darc had a younger sister, Catherine.
+      textHome: Darc had a younger sister, Catherine.@
   - autoTurnFirst: 4.5
     chara:
     - eyeClose: 1
@@ -684,9 +637,7 @@ story:
     - eyeClose: 0
       id: 402200
       motion: 300
-      textHome: |-
-        It's a part of my past I will never
-        be able to make amends for.
+      textHome: It's a part of my past I will never@be able to make amends for.
   - chara:
     - id: 402200
       textHomeStatus: Clear
@@ -703,8 +654,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_39
-      textHome: "I was born in Italy to the Visconti family.\nMy grandfather was a
-        foreign mercenary, \nand had quite the reputation as a soldier..."
+      textHome: I was born in Italy to the Visconti family.@My grandfather was a foreign
+        mercenary, @and had quite the reputation as a soldier...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -728,17 +679,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_40
-      textHome: |-
-        Darc is the light of hope...
-        That's why I chose to become
-        the shadow that clings to that light.
+      textHome: Darc is the light of hope...@That's why I chose to become@the shadow
+        that clings to that light.
   - autoTurnFirst: 4
     chara:
     - id: 402200
       motion: 100
-      textHome: |-
-        I have devoted my entire existence
-        to protecting her.
+      textHome: I have devoted my entire existence@to protecting her.
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -766,16 +713,15 @@ story:
       face: mtn_ex_000.exp.json
       id: 402200
       motion: 100
-      textHome: "Do you get all clingy like Darc\ndoes when she has a drink? "
+      textHome: 'Do you get all clingy like Darc@does when she has a drink? '
   - autoTurnFirst: 4.5
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 402200
       motion: 1
-      textHome: |-
-        It's okay to have fun sometimes,
-        but just don't get carried away, okay?
+      textHome: It's okay to have fun sometimes,@but just don't get carried away,
+        okay?
   - chara:
     - id: 402200
       textHomeStatus: Clear
@@ -978,9 +924,7 @@ story:
     - cheek: 0
       id: 402200
       motion: 300
-      textHome: |-
-        Well...for now, would you mind
-        addressing me simply by "Liz"?
+      textHome: Well...for now, would you mind@addressing me simply by "Liz"?
   - autoTurnFirst: 5.1
     chara:
     - cheek: 0
@@ -1047,9 +991,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4022_00_15
-      textHome: |-
-        Let us walk together...towards a day
-        when the sun shines bright once more.
+      textHome: Let us walk together...towards a day@when the sun shines bright once
+        more.
   - chara:
     - id: 402200
       textHomeStatus: Clear
@@ -1066,17 +1009,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_16
-      textHome: |
-        During the time I spent in Darc's hometown,
-        I made precious memories I'll never forget.
+      textHome: During the time I spent in Darc's hometown,@I made precious memories
+        I'll never forget.@
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1
       id: 402200
       motion: 100
-      textHome: |-
-        Perhaps I got a little too comfortable
-        there and stayed a little while too long...
+      textHome: Perhaps I got a little too comfortable@there and stayed a little while
+        too long...
   - chara:
     - id: 402200
       textHomeStatus: Clear
@@ -1093,16 +1034,12 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4022_00_17
-      textHome: |-
-        Darc possesses great power,
-        but the toll her magic takes is very harsh.
+      textHome: Darc possesses great power,@but the toll her magic takes is very harsh.
   - autoTurnFirst: 2.5
     chara:
     - id: 402200
       motion: 0
-      textHome: |-
-        I hope my new power will allow her
-        not to have to fight.
+      textHome: I hope my new power will allow her@not to have to fight.
   - autoTurnFirst: 3
     chara:
     - id: 402200

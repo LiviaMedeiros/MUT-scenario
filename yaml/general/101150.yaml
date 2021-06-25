@@ -313,9 +313,7 @@ story:
       face: mtn_ex_041.exp.json
       id: 101100
       motion: 300
-      textHome: |-
-        I need to get yakisoba and ice cream
-        and stuff for Rena...
+      textHome: I need to get yakisoba and ice cream@and stuff for Rena...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -376,9 +374,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1011_50_26
-      textHome: |-
-        There's lots of sun at the beach,
-        so it's really hot.
+      textHome: There's lots of sun at the beach,@so it's really hot.
   - autoTurnFirst: 3
     chara:
     - id: 101100
@@ -396,9 +392,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101100
-      textHome: |-
-        Though...I left my purse in the
-        changing room locker...
+      textHome: Though...I left my purse in the@changing room locker...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -418,10 +412,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1011_50_27
-      textHome: |-
-        I noticed the back of Rena's neck was
-        sunburned on the way back from
-        swimming in the ocean.
+      textHome: I noticed the back of Rena's neck was@sunburned on the way back from@swimming
+        in the ocean.
   - autoTurnFirst: 3.5
     chara:
     - id: 101100
@@ -468,9 +460,7 @@ story:
     chara:
     - id: 101100
       motion: 1
-      textHome: |-
-        I want to see the sea turtles laying
-        their eggs with my own eyes...
+      textHome: I want to see the sea turtles laying@their eggs with my own eyes...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -491,9 +481,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1011_50_29
-      textHome: |-
-        I went to the beach with my family recently,
-        and my dad fished up a pufferfish!
+      textHome: I went to the beach with my family recently,@and my dad fished up
+        a pufferfish!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -548,9 +537,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 101100
       motion: 300
-      textHome: |-
-        One play is 1000 yen, though...
-        I'm gonna be so nervous...
+      textHome: One play is 1000 yen, though...@I'm gonna be so nervous...
   - chara:
     - id: 101150
       textHomeStatus: Clear
@@ -572,9 +559,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101100
       tear: 1
-      textHome: |-
-        I j-just saw it...!
-        A ghost came out of Endless Mirrors!!!
+      textHome: I j-just saw it...!@A ghost came out of Endless Mirrors!!!
   - autoTurnFirst: 2.5
     chara:
     - id: 101100
@@ -631,17 +616,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1011_50_33
-      textHome: |-
-        So many cute summer prizes in the
-        crane games these days...
+      textHome: So many cute summer prizes in the@crane games these days...
   - autoTurnFirst: 4.5
     chara:
     - eyeClose: 1
       id: 101100
       motion: 1
-      textHome: |-
-        The plushies have things like
-        swim floats and starfish.
+      textHome: The plushies have things like@swim floats and starfish.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -667,9 +648,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1011_50_34
-      textHome: |-
-        Pero can't regulate her own body heat,
-        so she can't go out in the summer sun.
+      textHome: Pero can't regulate her own body heat,@so she can't go out in the
+        summer sun.
   - autoTurnFirst: 2.5
     chara:
     - id: 101100
@@ -694,9 +674,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1011_50_35
-      textHome: |-
-        I made chilled Chinese noodles with the
-        cucumbers and tomatoes I grew at home!
+      textHome: I made chilled Chinese noodles with the@cucumbers and tomatoes I grew
+        at home!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -745,9 +724,7 @@ story:
     chara:
     - id: 101100
       motion: 1
-      textHome: |-
-        I guess the fireworks show must be
-        really far from here.
+      textHome: I guess the fireworks show must be@really far from here.
   - chara:
     - id: 101150
       textHomeStatus: Clear
@@ -768,9 +745,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 101100
       motion: 100
-      textHome: |-
-        But there's lots of crickets about in summer,
-        so food is less of an issue.
+      textHome: But there's lots of crickets about in summer,@so food is less of an
+        issue.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -810,10 +786,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1011_50_38
-      textHome: |-
-        I went with Rena and Momoko to buy a
-        swimsuit, but Momoko worries so much
-        about her figure,
+      textHome: I went with Rena and Momoko to buy a@swimsuit, but Momoko worries
+        so much@about her figure,
   - autoTurnFirst: 3.8
     chara:
     - id: 101100
@@ -822,9 +796,7 @@ story:
     chara:
     - id: 101100
       motion: 100
-      textHome: |-
-        even though she's so slim and
-        doesn't need to!
+      textHome: even though she's so slim and@doesn't need to!
   - chara:
     - id: 101150
       textHomeStatus: Clear
@@ -838,9 +810,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1011_50_39
-      textHome: |-
-        Momoko and Rena are going off to
-        an idol concert today.
+      textHome: Momoko and Rena are going off to@an idol concert today.
   - autoTurnFirst: 5
     chara:
     - id: 101100
@@ -859,19 +829,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1011_50_40
-      textHome: |-
-        I used to prefer staying at home to
-        playing with friends,
+      textHome: I used to prefer staying at home to@playing with friends,
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101100
       motion: 0
-      textHome: |-
-        but now I love going out with
-        Momoko and Rena,
-        and Konomi's group, too!
+      textHome: but now I love going out with@Momoko and Rena,@and Konomi's group,
+        too!
   - autoTurnFirst: 1.5
     chara:
     - id: 101100
@@ -894,9 +860,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1011_50_41
-      textHome: |-
-        Rena...
-        She's so busty, don't you think?
+      textHome: Rena...@She's so busty, don't you think?
   - autoTurnFirst: 2.5
     chara:
     - id: 101100
@@ -911,9 +875,7 @@ story:
     chara:
     - id: 101100
       motion: 100
-      textHome: |-
-        You don't think it's because she loves
-        sweets, do you?
+      textHome: You don't think it's because she loves@sweets, do you?
   - chara:
     - id: 101150
       textHomeStatus: Clear

@@ -10,26 +10,21 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3014_00_01
-      textHome: |-
-        I get so nervous whenever
-        someone talks to me...
+      textHome: I get so nervous whenever@someone talks to me...
   - autoTurnFirst: 11.5
     chara:
     - id: 301400
       motion: 1
-      textHome: |-
-        I guess I'm just so bad at socializing
-        that I can't calm down...  It was like that
-        the first time I met Leila and Mito, too.
+      textHome: I guess I'm just so bad at socializing@that I can't calm down...  It
+        was like that@the first time I met Leila and Mito, too.
   - autoTurnFirst: 3.3
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 301400
       motion: 0
-      textHome: |-
-        The only difference then was that I felt
-        I wanted to be friends with them.
+      textHome: The only difference then was that I felt@I wanted to be friends with
+        them.
   - autoTurnFirst: 5.2
     chara:
     - cheek: 0
@@ -52,16 +47,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3014_00_18
-      textHome: |-
-        I don't know what you're supposed to
-        say when you just pass by someone...
+      textHome: I don't know what you're supposed to@say when you just pass by someone...
   - autoTurnFirst: 6
     chara:
     - id: 301400
       motion: 1
-      textHome: |2-
-         I end up greeting them, then there's an
-        awkward silence, and we leave after that...
+      textHome: ' I end up greeting them, then there''s an@awkward silence, and we
+        leave after that...'
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -134,9 +126,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3014_00_21
-      textHome: |-
-        Since I was little I've never
-        been good at talking to people...
+      textHome: Since I was little I've never@been good at talking to people...
   - autoTurnFirst: 4
     chara:
     - id: 301400
@@ -163,9 +153,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3014_00_22
-      textHome: |-
-        I've never met anyone like
-        Mito or Leila before.
+      textHome: I've never met anyone like@Mito or Leila before.
   - autoTurnFirst: 7.6
     chara:
     - cheek: 0
@@ -173,10 +161,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 301400
       motion: 1
-      textHome: |-
-        From the moment we met and up until now,
-        they've looked me straight in the eye
-        and accepted everything about me.
+      textHome: From the moment we met and up until now,@they've looked me straight
+        in the eye@and accepted everything about me.
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
@@ -185,9 +171,7 @@ story:
     chara:
     - id: 301400
       motion: 100
-      textHome: |-
-        That's what made me want
-        to talk with them more.
+      textHome: That's what made me want@to talk with them more.
   - chara:
     - id: 301400
       textHomeStatus: Clear
@@ -271,9 +255,7 @@ story:
   - autoTurnFirst: 5
     chara:
     - id: 301400
-      textHome: |-
-        I guess you could say...
-        I have, er, social anxiety.
+      textHome: I guess you could say...@I have, er, social anxiety.
   - chara:
     - id: 301400
       textHomeStatus: Clear
@@ -290,25 +272,19 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3014_00_25
-      textHome: |-
-        To be honest, I'm bad at waking up
-        every morning.
+      textHome: To be honest, I'm bad at waking up@every morning.
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 301400
       motion: 0
-      textHome: |-
-        But Leila and Mito are energetic
-        as soon as they get up,
+      textHome: But Leila and Mito are energetic@as soon as they get up,
   - autoTurnFirst: 5.5
     chara:
     - id: 301400
       motion: 1
-      textHome: |-
-        so their energy rubs off on me a little
-        I guess.
+      textHome: so their energy rubs off on me a little@I guess.
   - chara:
     - id: 301400
       textHomeStatus: Clear
@@ -330,10 +306,8 @@ story:
     chara:
     - id: 301400
       motion: 100
-      textHome: |-
-        But it seems I have a serious expression
-        on my face while doing it,
-        so I never get caught.
+      textHome: But it seems I have a serious expression@on my face while doing it,@so
+        I never get caught.
   - autoTurnFirst: 2
     chara:
     - eyeClose: 1
@@ -354,17 +328,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3014_00_27
-      textHome: |-
-        I walk home from school with
-        Leila and Mito most of the time.
+      textHome: I walk home from school with@Leila and Mito most of the time.
   - autoTurnFirst: 8.5
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 301400
       motion: 100
-      textHome: "But sometimes Mito says stuff like, \n\"Let's walk only in the shadows\non
-        the way home.\""
+      textHome: But sometimes Mito says stuff like, @"Let's walk only in the shadows@on
+        the way home."
   - chara:
     - id: 301400
       textHomeStatus: Clear
@@ -401,10 +373,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3014_00_28
-      textHome: |-
-        I always stay up later than I should.
-        Once I start reading books or comics,
-        it's hard to stop...
+      textHome: I always stay up later than I should.@Once I start reading books or
+        comics,@it's hard to stop...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -435,16 +405,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3014_00_29
-      textHome: |-
-        It might seem wasteful to just let
-        time pass without doing anything.
+      textHome: It might seem wasteful to just let@time pass without doing anything.
   - autoTurnFirst: 5.5
     chara:
     - id: 301400
       motion: 100
-      textHome: |-
-        But every now and then,
-        that's how I like to spend my time.
+      textHome: But every now and then,@that's how I like to spend my time.
   - chara:
     - id: 301400
       textHomeStatus: Clear
@@ -461,9 +427,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3014_00_30
-      textHome: |-
-        It's a Magical Girl's destiny
-        to fight Witches...
+      textHome: It's a Magical Girl's destiny@to fight Witches...
   - autoTurnFirst: 3.8
     chara:
     - eyeClose: 1
@@ -559,18 +523,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3014_00_33
-      textHome: |-
-        Baking with Leila,
-        playing Mito's made-up games...
+      textHome: Baking with Leila,@playing Mito's made-up games...
   - autoTurnFirst: 2.1
     chara:
     - eyeClose: 1
       id: 301400
       motion: 1
-      textHome: |-
-        Whatever we end up doing together,
-        I feel complete when I'm spending
-        time with those two.
+      textHome: Whatever we end up doing together,@I feel complete when I'm spending@time
+        with those two.
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
@@ -595,16 +555,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3014_00_34
-      textHome: |-
-        A lot of people tell me I'm calm,
-        but that's not true.
+      textHome: A lot of people tell me I'm calm,@but that's not true.
   - autoTurnFirst: 4
     chara:
     - id: 301400
       motion: 300
-      textHome: |-
-        I worry nonstop whether people think
-        I'm boring and stuff.
+      textHome: I worry nonstop whether people think@I'm boring and stuff.
   - autoTurnFirst: 2
     chara:
     - eyeClose: 1
@@ -655,10 +611,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3014_00_36
-      textHome: |-
-        I get nervous a lot when I'm outside,
-        so I like to let my mind go blank
-        when I'm at home.
+      textHome: I get nervous a lot when I'm outside,@so I like to let my mind go
+        blank@when I'm at home.
   - autoTurnFirst: 6.5
     chara:
     - cheek: 0
@@ -738,9 +692,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3014_00_38
-      textHome: |-
-        I tried playing a word chain game
-        by myself once.
+      textHome: I tried playing a word chain game@by myself once.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -760,9 +712,7 @@ story:
     chara:
     - id: 301400
       motion: 1
-      textHome: |-
-        I guess I shouldn't have been
-        surprised by that.
+      textHome: I guess I shouldn't have been@surprised by that.
   - chara:
     - id: 301400
       textHomeStatus: Clear
@@ -779,10 +729,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3014_00_39
-      textHome: |-
-        When I'm sitting quietly alone in my room,
-        I hear all kinds of noises from outside
-        my window.
+      textHome: When I'm sitting quietly alone in my room,@I hear all kinds of noises
+        from outside@my window.
   - autoTurnFirst: 3.2
     chara:
     - eyeClose: 0
@@ -808,9 +756,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3014_00_40
-      textHome: |-
-        What should I say when
-        I call out to someone?
+      textHome: What should I say when@I call out to someone?
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -858,7 +804,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3014_00_41
-      textHome: "Let's head towards the sun!\nWhile skipping! Yeah... "
+      textHome: 'Let''s head towards the sun!@While skipping! Yeah... '
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -880,9 +826,7 @@ story:
     chara:
     - id: 301400
       motion: 300
-      textHome: |-
-        It's a line from the drama
-        "The Tale of the Skipping Teacher".
+      textHome: It's a line from the drama@"The Tale of the Skipping Teacher".
   - autoTurnFirst: 2
     chara:
     - eyeClose: 1
@@ -1118,9 +1062,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3014_00_13
-      textHome: |-
-        Wow! So this is what it feels
-        like to get stronger!
+      textHome: Wow! So this is what it feels@like to get stronger!
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -1143,9 +1085,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3014_00_14
-      textHome: |-
-        Maybe I'm imagining it,
-        but I got pretty strong, didn't I?
+      textHome: Maybe I'm imagining it,@but I got pretty strong, didn't I?
   - autoTurnFirst: 3.5
     chara:
     - id: 301400
@@ -1166,9 +1106,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3014_00_15
-      textHome: |-
-        Time keeps moving on,
-        from the past to the future...
+      textHome: Time keeps moving on,@from the past to the future...
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
@@ -1196,15 +1134,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3014_00_16
-      textHome: |-
-        When I'm in town and I see someone,
-        even someone I know,
+      textHome: When I'm in town and I see someone,@even someone I know,
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 301400
-      textHome: "I always end up doubling back\nto avoid them... "
+      textHome: 'I always end up doubling back@to avoid them... '
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -1227,17 +1163,16 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3014_00_17
-      textHome: |-
-        When I run into someone unexpectedly,
-        I have no idea what to say to them.
+      textHome: When I run into someone unexpectedly,@I have no idea what to say to
+        them.
   - autoTurnFirst: 6
     chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 301400
       motion: 100
-      textHome: "So whenever someone notices me,\r\nI get surprised and probably look
-        funny..."
+      textHome: So whenever someone notices me,@I get surprised and probably look
+        funny...
   - chara:
     - id: 301400
       textHomeStatus: Clear

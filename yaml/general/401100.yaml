@@ -9,19 +9,16 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4011_00_01
-      textHome: |-
-        When I woke up I wasn't able to
-        remember anything except my first name.
+      textHome: When I woke up I wasn't able to@remember anything except my first
+        name.
   - autoTurnFirst: 7.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401100
       motion: 1
-      textHome: |-
-        But Umika and Kaoru came to get me,
-        and then we went to this big house
-        where we apparently lived together.
+      textHome: But Umika and Kaoru came to get me,@and then we went to this big house@where
+        we apparently lived together.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -34,9 +31,7 @@ story:
     - cheek: 1
       id: 401100
       motion: 300
-      textHome: |-
-        Even though I still can't remember a thing...
-        Weird, huh?
+      textHome: Even though I still can't remember a thing...@Weird, huh?
   - chara:
     - id: 401100
       textHomeStatus: Clear
@@ -52,17 +47,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4011_00_18
-      textHome: |-
-        Of all things, I remember how to
-        season things just right!
+      textHome: Of all things, I remember how to@season things just right!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401100
-      textHome: |-
-        Just give it a little taste, fix it up
-        ...and it's perfect!
+      textHome: Just give it a little taste, fix it up@...and it's perfect!
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -148,10 +139,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4011_00_21
-      textHome: |-
-        A Witch hit the Soul Gem on my ear,
-        and that was the spark that made me
-        transform for the first time...
+      textHome: A Witch hit the Soul Gem on my ear,@and that was the spark that made
+        me@transform for the first time...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -181,26 +170,20 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4011_00_22
-      textHome: |-
-        Back when I fought together with
-        Umika and Kaoru, I remembered
-        how they both moved in battle.
+      textHome: Back when I fought together with@Umika and Kaoru, I remembered@how
+        they both moved in battle.
   - autoTurnFirst: 6
     chara:
     - id: 401100
       motion: 100
-      textHome: |-
-        Kaoru stopped the enemy from moving,
-        while Umika read its weakness!
+      textHome: Kaoru stopped the enemy from moving,@while Umika read its weakness!
   - autoTurnFirst: 6.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 401100
       motion: 300
-      textHome: |-
-        But back then I wasn't in
-        step with them at all...
+      textHome: But back then I wasn't in@step with them at all...
   - chara:
     - id: 401100
       textHomeStatus: Clear
@@ -310,16 +293,14 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 401100
-      textHome: "That's kind of heavy first thing in \nthe morning,"
+      textHome: That's kind of heavy first thing in @the morning,
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401100
       motion: 100
-      textHome: |2-
-         but...it sounds tasty!
-        Wait just a minute while I go make it!
+      textHome: ' but...it sounds tasty!@Wait just a minute while I go make it!'
   - chara:
     - id: 401100
       textHomeStatus: Clear
@@ -378,10 +359,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4011_00_27
-      textHome: |-
-        When I used magic for the first time
-        after waking up, I immediately
-        fell over and passed out...
+      textHome: When I used magic for the first time@after waking up, I immediately@fell
+        over and passed out...
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -478,14 +457,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4011_00_29
-      textHome: |-
-        When I get a teensy bit hungry
-        I always want to eat something,
+      textHome: When I get a teensy bit hungry@I always want to eat something,
   - autoTurnFirst: 3
     chara:
     - id: 401100
       motion: 100
-      textHome: "so I always try to have some chocolate \nor something on hand, y'know?"
+      textHome: so I always try to have some chocolate @or something on hand, y'know?
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -506,9 +483,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4011_00_30
-      textHome: |-
-        I still don't remember a thing,
-        but regardless time keeps on flowing.
+      textHome: I still don't remember a thing,@but regardless time keeps on flowing.
   - autoTurnFirst: 3.8
     chara:
     - cheek: 0
@@ -610,17 +585,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4011_00_33
-      textHome: |-
-        Sometimes I feel like a prisoner
-        to the past me,
+      textHome: Sometimes I feel like a prisoner@to the past me,
   - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 401100
       motion: 300
-      textHome: "but memories aren't what make a person... \nA person's footprints
-        are what make their\nmemories..."
+      textHome: but memories aren't what make a person... @A person's footprints are
+        what make their@memories...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -656,9 +629,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 401100
       motion: 1
-      textHome: |-
-        There's lots of candy and treats inside!
-        All of my favorite snacks...
+      textHome: There's lots of candy and treats inside!@All of my favorite snacks...
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -733,9 +704,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 401100
       motion: 0
-      textHome: |-
-        They said I never asked
-        them to do that before.
+      textHome: They said I never asked@them to do that before.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -762,8 +731,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4011_00_37
-      textHome: "When Umika gets a really bad case of\nwriter's block, horns pop out
-        of her head! "
+      textHome: 'When Umika gets a really bad case of@writer''s block, horns pop out
+        of her head! '
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -837,9 +806,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 401100
       motion: 1
-      textHome: |-
-        She's always perfectly in sync with
-        Umika too.
+      textHome: She's always perfectly in sync with@Umika too.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -861,18 +828,14 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4011_00_39
-      textHome: |-
-        I think the past me's memories are chiseled
-        deep into my body,
+      textHome: I think the past me's memories are chiseled@deep into my body,
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401100
       motion: 0
-      textHome: |-
-        and the present me is etching
-        new memories on top of them...
+      textHome: and the present me is etching@new memories on top of them...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -893,9 +856,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4011_00_40
-      textHome: |-
-        I wonder if I'll ever get
-        my old memories back.
+      textHome: I wonder if I'll ever get@my old memories back.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -923,10 +884,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4011_00_41
-      textHome: |-
-        In stories, people who disrespect food
-        are the true villains and don't even live
-        to see the credits!
+      textHome: In stories, people who disrespect food@are the true villains and don't
+        even live@to see the credits!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -1174,18 +1133,14 @@ story:
       face: mtn_ex_030.exp.json
       id: 401100
       motion: 1
-      textHome: |-
-        But I forgot my last name...
-        and where I live, too!
+      textHome: But I forgot my last name...@and where I live, too!
   - autoTurnFirst: 5.2
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 401100
       motion: 300
-      textHome: |-
-        What am I gonna do?
-        I can't remember anything!
+      textHome: What am I gonna do?@I can't remember anything!
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -1280,9 +1235,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4011_00_16
-      textHome: |-
-        I lost all my memories,
-        but I can easily remember how to cook.
+      textHome: I lost all my memories,@but I can easily remember how to cook.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1294,9 +1247,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 401100
       motion: 1
-      textHome: |-
-        It's like as long as I have the ingredients,
-        my hands just move on their own...
+      textHome: It's like as long as I have the ingredients,@my hands just move on
+        their own...
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1318,10 +1270,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4011_00_17
-      textHome: |-
-        I started chopping up ingredients and
-        preparing things before I even knew
-        I was cooking!
+      textHome: I started chopping up ingredients and@preparing things before I even
+        knew@I was cooking!
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0

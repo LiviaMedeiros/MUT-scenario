@@ -56,9 +56,7 @@ story:
     chara:
     - id: 301100
       motion: 1
-      textHome: |-
-        It was called "Voldermann's
-        Flying Squirrel Murders"!
+      textHome: It was called "Voldermann's@Flying Squirrel Murders"!
   - autoTurnFirst: 4
     chara:
     - id: 301100
@@ -86,16 +84,12 @@ story:
     - cheek: 1
       id: 301100
       motion: 100
-      textHome: |-
-        It felt like I'd gotten carried away
-        with too much reading...
+      textHome: It felt like I'd gotten carried away@with too much reading...
   - autoTurnFirst: 3
     chara:
     - id: 301100
       motion: 400
-      textHome: |-
-        But it really did feel like I went
-        in the book for a second there.
+      textHome: But it really did feel like I went@in the book for a second there.
   - chara:
     - id: 301100
       textHomeStatus: Clear
@@ -112,9 +106,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3011_00_19
-      textHome: |-
-        I'm so shocked...
-        I can't believe I can do things like this!
+      textHome: I'm so shocked...@I can't believe I can do things like this!
   - autoTurnFirst: 2
     chara:
     - id: 301100
@@ -166,17 +158,13 @@ story:
     chara:
     - id: 301100
       motion: 100
-      textHome: |-
-        I'm still deep in the thick of it,
-        but I write a little each day.
+      textHome: I'm still deep in the thick of it,@but I write a little each day.
   - autoTurnFirst: 0.8
     chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 301100
-      textHome: |-
-        Really though, reading and
-        writing are completely different things...
+      textHome: Really though, reading and@writing are completely different things...
   - autoTurnFirst: 1.4
     chara:
     - cheek: 1
@@ -204,9 +192,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3011_00_22
-      textHome: |-
-        Listen! I finished writing it!
-        Yes, I finished my story!
+      textHome: Listen! I finished writing it!@Yes, I finished my story!
   - autoTurnFirst: 1.4
     chara:
     - id: 301100
@@ -221,10 +207,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 301100
       motion: 300
-      textHome: |-
-        It's only a short story, but I still
-        did it! It was really hard at the start,
-        but I breezed through the latter half.
+      textHome: It's only a short story, but I still@did it! It was really hard at
+        the start,@but I breezed through the latter half.
   - autoTurnFirst: 1.2
     chara:
     - cheek: 2
@@ -312,9 +296,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 301100
       motion: 300
-      textHome: |-
-        It's like I just found the bookmark so
-        we can carry on from where we left off!
+      textHome: It's like I just found the bookmark so@we can carry on from where
+        we left off!
   - autoTurnFirst: 1.5
     chara:
     - id: 301100
@@ -388,8 +371,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 301100
       motion: 1
-      textHome: "Hmm, I think I'll have a large ramen with \na boiled egg, keep the
-        noodles firm, \nand only add a little oil!"
+      textHome: Hmm, I think I'll have a large ramen with @a boiled egg, keep the
+        noodles firm, @and only add a little oil!
   - autoTurnFirst: 0.2
     chara:
     - cheek: 1
@@ -399,7 +382,7 @@ story:
     chara:
     - id: 301100
       motion: 400
-      textHome: "Oh, and may I please have some \ngreen onions on top too?"
+      textHome: Oh, and may I please have some @green onions on top too?
   - chara:
     - id: 301100
       textHomeStatus: Clear
@@ -416,8 +399,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3011_00_27
-      textHome: "I normally stop by the bookstore\nnear the station, but today I'm\ngoing
-        straight home... "
+      textHome: 'I normally stop by the bookstore@near the station, but today I''m@going
+        straight home... '
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -439,9 +422,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 301100
       motion: 0
-      textHome: |-
-        Ah, um...
-        Do you mind if we just take a look?
+      textHome: Ah, um...@Do you mind if we just take a look?
   - autoTurnFirst: 0.5
     chara:
     - id: 301100
@@ -509,7 +490,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 301100
-      textHome: "Oh, but... Is it all right \nif I just read a little more?"
+      textHome: Oh, but... Is it all right @if I just read a little more?
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -548,9 +529,7 @@ story:
     chara:
     - id: 301100
       motion: 200
-      textHome: |-
-        Maybe this one?
-        But I want to read this one too...
+      textHome: Maybe this one?@But I want to read this one too...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -601,9 +580,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 301100
       motion: 0
-      textHome: |-
-        I always need to know,
-        so I never stop reading!
+      textHome: I always need to know,@so I never stop reading!
   - autoTurnFirst: 1.5
     chara:
     - id: 301100
@@ -712,16 +689,12 @@ story:
     chara:
     - id: 301100
       motion: 300
-      textHome: |-
-        Even if it doesn't teach
-        you something outright,
+      textHome: Even if it doesn't teach@you something outright,
   - autoTurnFirst: 1.4
     chara:
     - id: 301100
       motion: 1
-      textHome: |-
-        sometimes it can give you
-        hints or encourage you...
+      textHome: sometimes it can give you@hints or encourage you...
   - autoTurnFirst: 1.6
     chara:
     - id: 301100
@@ -743,9 +716,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3011_00_34
-      textHome: |-
-        I can forget about my
-        worries when I'm reading.
+      textHome: I can forget about my@worries when I'm reading.
   - autoTurnFirst: 3.2
     chara:
     - id: 301100
@@ -754,7 +725,7 @@ story:
     chara:
     - id: 301100
       motion: 100
-      textHome: "And finishing a book gives me \nthe motivation to keep going!"
+      textHome: And finishing a book gives me @the motivation to keep going!
   - autoTurnFirst: 2.2
     chara:
     - id: 301100
@@ -780,9 +751,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3011_00_35
-      textHome: |-
-        When you read a book for the second time,
-        you notice things you didn't at first.
+      textHome: When you read a book for the second time,@you notice things you didn't
+        at first.
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
@@ -800,9 +770,7 @@ story:
     - cheek: 1
       id: 301100
       motion: 400
-      textHome: |-
-        when leftover curry tastes
-        better on the second day.
+      textHome: when leftover curry tastes@better on the second day.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -830,10 +798,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3011_00_36
-      textHome: |-
-        Look! It's a first edition of my favorite author,
-        Daihachiro Furuyashiki's debut novel,
-        'I Am You'.
+      textHome: Look! It's a first edition of my favorite author,@Daihachiro Furuyashiki's
+        debut novel,@'I Am You'.
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -852,9 +818,7 @@ story:
     chara:
     - id: 301100
       motion: 1
-      textHome: |-
-        I just had to have it.
-        It's one of my most prized possessions.
+      textHome: I just had to have it.@It's one of my most prized possessions.
   - autoTurnFirst: 2.4
     chara:
     - cheek: 2
@@ -877,16 +841,12 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3011_00_37
-      textHome: |-
-        The smell of ink and paper
-        is so soothing to me.
+      textHome: The smell of ink and paper@is so soothing to me.
   - autoTurnFirst: 2.5
     chara:
     - id: 301100
       motion: 1
-      textHome: |-
-        I suppose it's because I've grown up
-        with the smell from a young age.
+      textHome: I suppose it's because I've grown up@with the smell from a young age.
   - autoTurnFirst: 2.1
     chara:
     - id: 301100
@@ -943,7 +903,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3011_00_38
-      textHome: "Some of my favorite words are \n\"carefree\", \"ordinary\", and \"calm\"."
+      textHome: Some of my favorite words are @"carefree", "ordinary", and "calm".
   - autoTurnFirst: 3
     chara:
     - id: 301100
@@ -956,9 +916,7 @@ story:
     chara:
     - id: 301100
       motion: 100
-      textHome: |-
-        I'd be happy if more chaotic events
-        stayed stories in my books.
+      textHome: I'd be happy if more chaotic events@stayed stories in my books.
   - autoTurnFirst: 1.2
     chara:
     - cheek: 1
@@ -1004,9 +962,7 @@ story:
     chara:
     - id: 301100
       motion: 1
-      textHome: |-
-        There aren't any books about that,
-        are there?
+      textHome: There aren't any books about that,@are there?
   - chara:
     - id: 301100
       textHomeStatus: Clear
@@ -1028,9 +984,8 @@ story:
     chara:
     - id: 301100
       motion: 100
-      textHome: |-
-        like someone out of a spy novel, but I can
-        tell that she has a kind heart deep down...
+      textHome: like someone out of a spy novel, but I can@tell that she has a kind
+        heart deep down...
   - autoTurnFirst: 3.5
     chara:
     - id: 301100
@@ -1061,9 +1016,8 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 301100
-      textHome: |-
-        But you need to be careful not to get too
-        carried away or you might end up like me...
+      textHome: But you need to be careful not to get too@carried away or you might
+        end up like me...
   - autoTurnFirst: 3.5
     chara:
     - id: 301100
@@ -1097,9 +1051,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3011_00_42
-      textHome: |-
-        I've got to steel myself and
-        face them head on!
+      textHome: I've got to steel myself and@face them head on!
   - chara:
     - id: 301100
       textHomeStatus: Clear
@@ -1370,9 +1322,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3011_00_14
-      textHome: |-
-        Um...do you think that maybe...
-        I'm in pretty good shape?
+      textHome: Um...do you think that maybe...@I'm in pretty good shape?
   - autoTurnFirst: 2.8
     chara:
     - cheek: 1
@@ -1431,9 +1381,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3011_00_16
-      textHome: |-
-        I'm a very careful reader,
-        so it takes me a while to finish a book.
+      textHome: I'm a very careful reader,@so it takes me a while to finish a book.
   - autoTurnFirst: 5.4
     chara:
     - id: 301100
@@ -1461,10 +1409,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3011_00_17
-      textHome: |-
-        When you get really lost in a book,
-        it's like you can peek at a completely
-        different world through the pages.
+      textHome: When you get really lost in a book,@it's like you can peek at a completely@different
+        world through the pages.
   - autoTurnFirst: 4.4
     chara:
     - cheek: 2

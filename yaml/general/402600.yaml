@@ -12,9 +12,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_4026_00_01
-      textHome: |-
-        Greetings. I am Elisa Celjska, daughter of
-        Empress Barbara of the Holy Roman Empire!
+      textHome: Greetings. I am Elisa Celjska, daughter of@Empress Barbara of the
+        Holy Roman Empire!
   - autoTurnFirst: 4
     chara:
     - id: 402600
@@ -31,9 +30,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402600
-      textHome: |-
-        One must bear their name with pride,
-        no matter who they are.
+      textHome: One must bear their name with pride,@no matter who they are.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -57,10 +54,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_4026_00_17
-      textHome: |-
-        Her plain, simple trust in me,
-        though we only just met.
-        Such unshakable humility.
+      textHome: Her plain, simple trust in me,@though we only just met.@Such unshakable
+        humility.
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1
@@ -82,9 +77,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_4026_00_18
-      textHome: |-
-        Exiled from the Imperial Palace,
-        I returned thanks to my magic.
+      textHome: Exiled from the Imperial Palace,@I returned thanks to my magic.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -92,9 +85,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 402600
       motion: 300
-      textHome: |-
-        The only one who'd talk to me
-        in that time was Uncle Oswald.
+      textHome: The only one who'd talk to me@in that time was Uncle Oswald.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -119,9 +110,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_4026_00_19
-      textHome: |-
-        I see my weapons have improved
-        as much as I have!
+      textHome: I see my weapons have improved@as much as I have!
   - chara:
     - id: 402600
       textHomeStatus: Clear
@@ -136,9 +125,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_4026_00_20
-      textHome: |-
-        Have my escapades on the battlefront
-        finally paid off?
+      textHome: Have my escapades on the battlefront@finally paid off?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -158,9 +145,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4026_00_21
-      textHome: |-
-        I will use this power to clear
-        a way to the future!
+      textHome: I will use this power to clear@a way to the future!
   - autoTurnFirst: 2
     chara:
     - id: 402600
@@ -170,9 +155,8 @@ story:
     chara:
     - eyeClose: 1
       id: 402600
-      textHome: |-
-        If all my battles until now were written
-        off as that, I couldn't handle it!
+      textHome: If all my battles until now were written@off as that, I couldn't handle
+        it!
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -196,9 +180,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4026_00_22
-      textHome: |-
-        My mother, Empress Barbara,
-        had one wish: peace in Europe.
+      textHome: 'My mother, Empress Barbara,@had one wish: peace in Europe.'
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -211,9 +193,7 @@ story:
     chara:
     - id: 402600
       motion: 0
-      textHome: |-
-        With my power and Darc's aid,
-        I can grant her wish.
+      textHome: With my power and Darc's aid,@I can grant her wish.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -223,9 +203,8 @@ story:
     chara:
     - id: 402600
       motion: 200
-      textHome: |-
-        My pride and the Holy Roman Empire's
-        Order of the Dragon count on it!
+      textHome: My pride and the Holy Roman Empire's@Order of the Dragon count on
+        it!
   - chara:
     - id: 402600
       textHomeStatus: Clear
@@ -289,9 +268,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402600
-      textHome: |-
-        I merely wanted to greet you
-        as I do court nobles.
+      textHome: I merely wanted to greet you@as I do court nobles.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -324,9 +301,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 402600
       motion: 400
-      textHome: |-
-        Morning already?
-        W-wait a moment!
+      textHome: Morning already?@W-wait a moment!
   - autoTurnFirst: 5.5
     chara:
     - id: 402600
@@ -351,9 +326,8 @@ story:
     chara:
     - id: 402600
       motion: 1
-      textHome: |-
-        Now, now, don't stand on ceremony for me!
-        I fight alongside the Order of the Dragon.
+      textHome: Now, now, don't stand on ceremony for me!@I fight alongside the Order
+        of the Dragon.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -376,17 +350,13 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_4026_00_02
-      textHome: |-
-        I am the daughter of Barbara Celjska,
-        empress to the Holy Roman
-        Emperor Sigismund.
+      textHome: I am the daughter of Barbara Celjska,@empress to the Holy Roman@Emperor
+        Sigismund.
   - autoTurnFirst: 1.2
     chara:
     - eyeClose: 1
       id: 402600
-      textHome: |-
-        I am Elisa Celjska,
-        of the Order of the Dragon!
+      textHome: I am Elisa Celjska,@of the Order of the Dragon!
   - autoTurnFirst: 0.6
     chara:
     - eyeClose: 0
@@ -416,9 +386,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_4026_00_27
-      textHome: |-
-        What is it, Oswald? Honestly,
-        I told you  I was taking a bath... Hm?
+      textHome: What is it, Oswald? Honestly,@I told you  I was taking a bath... Hm?
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
@@ -455,16 +423,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4026_00_28
-      textHome: |-
-        I will rest up now, to prepare
-        for the battles ahead.
+      textHome: I will rest up now, to prepare@for the battles ahead.
   - autoTurnFirst: 3.5
     chara:
     - id: 402600
       motion: 300
-      textHome: |-
-        I have dedicated myself to the Holy
-        Roman Emperor...as well as my mother.
+      textHome: I have dedicated myself to the Holy@Roman Emperor...as well as my
+        mother.
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -483,16 +448,12 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4026_00_29
-      textHome: |-
-        Magical Girls are gathering en masse,
-        as though drawn here by Darc.
+      textHome: Magical Girls are gathering en masse,@as though drawn here by Darc.
   - autoTurnFirst: 3
     chara:
     - id: 402600
       motion: 0
-      textHome: |-
-        Understandable, as this battle will
-        decide Europe's future...
+      textHome: Understandable, as this battle will@decide Europe's future...
   - autoTurnFirst: 3.5
     chara:
     - id: 402600
@@ -544,16 +505,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4026_00_31
-      textHome: |-
-        A foe is a foe, even if they take
-        the form of a Magical Girl.
+      textHome: A foe is a foe, even if they take@the form of a Magical Girl.
   - autoTurnFirst: 2.5
     chara:
     - id: 402600
       motion: 300
-      textHome: |-
-        I will blast them away,
-        in honor of the Dragons!
+      textHome: I will blast them away,@in honor of the Dragons!
   - autoTurnFirst: 3
     chara:
     - id: 402600
@@ -601,9 +558,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4026_00_33
-      textHome: |-
-        Please, you needn't call me "Princess".
-        Just "Elisa" will do.
+      textHome: Please, you needn't call me "Princess".@Just "Elisa" will do.
   - autoTurnFirst: 2.2
     chara:
     - cheek: 0
@@ -646,10 +601,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 402600
       motion: 200
-      textHome: |-
-        Alchemical metallurgy grants it the power
-        of five rifles. A magic gun, given to me
-        by Per... an alchemist!
+      textHome: Alchemical metallurgy grants it the power@of five rifles. A magic
+        gun, given to me@by Per... an alchemist!
   - autoTurnFirst: 0.8
     chara:
     - cheek: 1
@@ -684,16 +637,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4026_00_35
-      textHome: |-
-        The mission my mother tasked the Order
-        of the Dragon with was clear:
+      textHome: 'The mission my mother tasked the Order@of the Dragon with was clear:'
   - autoTurnFirst: 6.5
     chara:
     - id: 402600
       motion: 300
-      textHome: |-
-        Ascertain La Pucelle's power,
-        and aid her if it is genuine.
+      textHome: Ascertain La Pucelle's power,@and aid her if it is genuine.
   - chara:
     - id: 402600
       textHomeStatus: Clear
@@ -708,17 +657,13 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4026_00_36
-      textHome: |-
-        I am a Magical Girl because I met the
-        alchemist Pernelle and Qube.
+      textHome: I am a Magical Girl because I met the@alchemist Pernelle and Qube.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
       id: 402600
       motion: 0
-      textHome: |-
-        I want to scold my younger self
-        for trusting them so easily!
+      textHome: I want to scold my younger self@for trusting them so easily!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -753,10 +698,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4026_00_37
-      textHome: |-
-        Liz was born in Italy.
-        She called me "Principessa Elisa" once...
-        meaning "Princess Elisa".
+      textHome: Liz was born in Italy.@She called me "Principessa Elisa" once...@meaning
+        "Princess Elisa".
   - autoTurnFirst: 2.8
     chara:
     - id: 402600
@@ -767,9 +710,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 402600
       motion: 1
-      textHome: |-
-        I told her to stop, though.
-        It sounds so formal.
+      textHome: I told her to stop, though.@It sounds so formal.
   - chara:
     - id: 402600
       textHomeStatus: Clear
@@ -784,8 +725,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4026_00_38
-      textHome: "Melissa... You know, when I first fought\nher she flung me right
-        into the air! "
+      textHome: 'Melissa... You know, when I first fought@her she flung me right into
+        the air! '
   - autoTurnFirst: 2
     chara:
     - id: 402600
@@ -794,7 +735,7 @@ story:
     chara:
     - id: 402600
       motion: 1
-      textHome: "Why, if I get a rematch,\r\nI'll pay her back for that!"
+      textHome: Why, if I get a rematch,@I'll pay her back for that!
   - autoTurnFirst: 0.8
     chara:
     - eyeClose: 1
@@ -824,17 +765,13 @@ story:
     - eyeClose: 1
       id: 402600
       motion: 300
-      textHome: |-
-        I am the love child of my mother,
-        Empress Barbara...
+      textHome: I am the love child of my mother,@Empress Barbara...
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 402600
-      textHome: |-
-        To justify my existence,
-        I've been no stranger to battle.
+      textHome: To justify my existence,@I've been no stranger to battle.
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -857,10 +794,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4026_00_40
-      textHome: |-
-        Darc has always been willing
-        to fight selflessly for others,
-        she never falters or fades.
+      textHome: Darc has always been willing@to fight selflessly for others,@she never
+        falters or fades.
   - autoTurnFirst: 4
     chara:
     - id: 402600
@@ -886,16 +821,12 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_4026_00_41
-      textHome: |-
-        Y-you're saying...
-        "Monsieur Angel" is really Qube?!
+      textHome: Y-you're saying...@"Monsieur Angel" is really Qube?!
   - autoTurnFirst: 1.5
     chara:
     - id: 402600
       motion: 0
-      textHome: |-
-        There is nothing angelic about
-        that wretched little cheesecake!
+      textHome: There is nothing angelic about@that wretched little cheesecake!
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -1103,9 +1034,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_4026_00_13
-      textHome: |-
-        I'll use this power to make everyone
-        acknowledge me!
+      textHome: I'll use this power to make everyone@acknowledge me!
   - autoTurnFirst: 0.8
     chara:
     - eyeClose: 1
@@ -1186,9 +1115,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_4026_00_16
-      textHome: |-
-        I face Melissa's wrath if I say the
-        slightest thing against Darc.
+      textHome: I face Melissa's wrath if I say the@slightest thing against Darc.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -1196,9 +1123,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 402600
       motion: 1
-      textHome: |-
-        Plus I sense a certain homicidal
-        rage from Liz, too...
+      textHome: Plus I sense a certain homicidal@rage from Liz, too...
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0

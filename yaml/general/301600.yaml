@@ -15,9 +15,8 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 301600
-      textHome: |-
-        I'd say mine is when I was a little girl and
-        all of us went hiking together.
+      textHome: I'd say mine is when I was a little girl and@all of us went hiking
+        together.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -35,19 +34,15 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 301600
-      textHome: |-
-        I'm not sure.
-        All of us, out at the same time?
-        That hasn't happened in forever...
+      textHome: I'm not sure.@All of us, out at the same time?@That hasn't happened
+        in forever...
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 301600
       motion: 100
-      textHome: |-
-        Oh, sorry.
-        I didn't mean to bring down the mood.
+      textHome: Oh, sorry.@I didn't mean to bring down the mood.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -80,9 +75,7 @@ story:
     chara:
     - id: 301600
       motion: 300
-      textHome: |-
-        Nordic designs are complicated,
-        but I thought I'd give it a shot...
+      textHome: Nordic designs are complicated,@but I thought I'd give it a shot...
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -92,9 +85,7 @@ story:
     chara:
     - id: 301600
       motion: 100
-      textHome: |-
-        Looks like it'll be my greatest
-        undertaking yet.
+      textHome: Looks like it'll be my greatest@undertaking yet.
     autoTurnFirst: 4
   - chara:
     - id: 301600
@@ -165,10 +156,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3016_00_21
-      textHome: |-
-        It was silly to think it was all my
-        responsibility to protect my family,
-        wasn't it?
+      textHome: It was silly to think it was all my@responsibility to protect my family,@wasn't
+        it?
   - autoTurnFirst: 4.5
     chara:
     - id: 301600
@@ -202,9 +191,7 @@ story:
     chara:
     - eyeClose: 0
       id: 301600
-      textHome: |-
-        But...that's not a dream I can make real
-        by myself.
+      textHome: But...that's not a dream I can make real@by myself.
     autoTurnFirst: 1.5
   - autoTurnFirst: 4
     chara:
@@ -222,9 +209,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 301600
       motion: 0
-      textHome: |-
-        Dad and Mom...and me. The three of us
-        have to work for it or else there's no point.
+      textHome: Dad and Mom...and me. The three of us@have to work for it or else
+        there's no point.
   - autoTurnFirst: 2
     chara:
     - eyeClose: 1
@@ -343,9 +329,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3016_00_25
-      textHome: |-
-        Maybe it's because I go hiking so often,
-        but I'm pretty good at waking up early.
+      textHome: Maybe it's because I go hiking so often,@but I'm pretty good at waking
+        up early.
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -364,9 +349,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301600
       motion: 0
-      textHome: |-
-        I like being able to take my time
-        in the morning.
+      textHome: I like being able to take my time@in the morning.
   - chara:
     - id: 301600
       textHomeStatus: Clear
@@ -401,9 +384,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301600
       motion: 0
-      textHome: |-
-        Western food? Pasta? Ramen?
-        What sounds good?
+      textHome: Western food? Pasta? Ramen?@What sounds good?
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -430,9 +411,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3016_00_27
-      textHome: |-
-        Can we stop by the craft store
-        on the way home?
+      textHome: Can we stop by the craft store@on the way home?
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -445,9 +424,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 301600
-      textHome: |-
-        But when I see new knitting wool,
-        I just can't resist.
+      textHome: But when I see new knitting wool,@I just can't resist.
   - autoTurnFirst: 3
     chara:
     - id: 301600
@@ -500,9 +477,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301600
       motion: 200
-      textHome: |-
-        All my errands are done with,
-        so I can just relax and knit.
+      textHome: All my errands are done with,@so I can just relax and knit.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -542,9 +517,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 301600
       motion: 300
-      textHome: |-
-        But if you use the right colors and styles,
-        you can knit some pretty stylish things.
+      textHome: But if you use the right colors and styles,@you can knit some pretty
+        stylish things.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -576,9 +550,7 @@ story:
     chara:
     - id: 301600
       motion: 300
-      textHome: |-
-        That's my mission since
-        my wish was granted.
+      textHome: That's my mission since@my wish was granted.
   - autoTurnFirst: 2.5
     chara:
     - eyeClose: 1
@@ -589,9 +561,7 @@ story:
     - eyeClose: 0
       id: 301600
       motion: 0
-      textHome: |-
-        That's why I have to make sure
-        to follow through.
+      textHome: That's why I have to make sure@to follow through.
   - chara:
     - id: 301600
       textHomeStatus: Clear
@@ -607,18 +577,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3016_00_31
-      textHome: |-
-        Having to fight enemies that look
-        just like us Magical Girls...
+      textHome: Having to fight enemies that look@just like us Magical Girls...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 301600
       motion: 200
-      textHome: |-
-        Even knowing they're my enemy,
-        it feels kinda wrong.
+      textHome: Even knowing they're my enemy,@it feels kinda wrong.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -693,9 +659,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 301600
       motion: 200
-      textHome: |-
-        Like when I'm so tired,
-        but I want to keep pushing!
+      textHome: Like when I'm so tired,@but I want to keep pushing!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -723,16 +687,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3016_00_34
-      textHome: |-
-        Hiking through nature really
-        helps me recharge.
+      textHome: Hiking through nature really@helps me recharge.
   - autoTurnFirst: 1.8
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 301600
       motion: 200
-      textHome: "I mean...nothing's more exciting \nthan reaching a mountain top."
+      textHome: I mean...nothing's more exciting @than reaching a mountain top.
   - autoTurnFirst: 4.2
     chara:
     - id: 301600
@@ -757,9 +719,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3016_00_35
-      textHome: |-
-        Huh... So trekking is like mountain hiking
-        without the goal of reaching the summit!
+      textHome: Huh... So trekking is like mountain hiking@without the goal of reaching
+        the summit!
   - autoTurnFirst: 3
     chara:
     - id: 301600
@@ -791,10 +752,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3016_00_36
-      textHome: |-
-        Knitting and climbing seem like opposites
-        because one is indoors
-        and one is outdoors...
+      textHome: Knitting and climbing seem like opposites@because one is indoors@and
+        one is outdoors...
   - autoTurnFirst: 4.5
     chara:
     - id: 301600
@@ -803,10 +762,8 @@ story:
     chara:
     - id: 301600
       motion: 0
-      textHome: |-
-        But they're similar because
-        you do them both slowly.
-        Do you know what I mean?
+      textHome: But they're similar because@you do them both slowly.@Do you know what
+        I mean?
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -828,9 +785,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3016_00_37
-      textHome: |-
-        When I think of hiking, it reminds me of
-        picnicking with my parents.
+      textHome: When I think of hiking, it reminds me of@picnicking with my parents.
   - autoTurnFirst: 5
     chara:
     - id: 301600
@@ -847,9 +802,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301600
       motion: 0
-      textHome: |-
-        That might be why I came to
-        love hiking so much.
+      textHome: That might be why I came to@love hiking so much.
   - chara:
     - id: 301600
       textHomeStatus: Clear
@@ -885,10 +838,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3016_00_38
-      textHome: |-
-        Even if you think you're doing something
-        for someone, you're making yourself happy
-        by making them happy.
+      textHome: Even if you think you're doing something@for someone, you're making
+        yourself happy@by making them happy.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -904,9 +855,7 @@ story:
     chara:
     - eyeClose: 1
       id: 301600
-      textHome: |-
-        So are you really doing it for them?
-        Or for yourself?
+      textHome: So are you really doing it for them?@Or for yourself?
   - autoTurnLast: 0.5
     chara:
     - eyeClose: 0
@@ -977,9 +926,8 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 301600
-      textHome: |-
-        No matter what she's going through or who
-        she's dealing with, she's always honest.
+      textHome: No matter what she's going through or who@she's dealing with, she's
+        always honest.
   - autoTurnFirst: 5
     chara:
     - id: 301600
@@ -1000,9 +948,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3016_00_41
-      textHome: |-
-        Um, if you'd like me to knit anything
-        for you, just let me know.
+      textHome: Um, if you'd like me to knit anything@for you, just let me know.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -1042,9 +988,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3016_00_42
-      textHome: |-
-        I'll do my best not just for me,
-        but for everyone!
+      textHome: I'll do my best not just for me,@but for everyone!
   - chara:
     - id: 301600
       textHomeStatus: Clear
@@ -1232,26 +1176,21 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3016_00_02
-      textHome: |-
-        It's nice to meet you.
-        My name is Kokoro Awane.
+      textHome: It's nice to meet you.@My name is Kokoro Awane.
   - autoTurnFirst: 3.4
     chara:
     - cheek: 0
       id: 301600
       motion: 1
-      textHome: |-
-        Let me know when you want my help,
-        okay?
+      textHome: Let me know when you want my help,@okay?
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 301600
       motion: 300
-      textHome: |-
-        If any of my fellow Magical Girls are
-        in trouble, I want to help them out.
+      textHome: If any of my fellow Magical Girls are@in trouble, I want to help them
+        out.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1272,9 +1211,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3016_00_13
-      textHome: |-
-        Improvement depends on
-        how much effort you put into it.
+      textHome: Improvement depends on@how much effort you put into it.
   - autoTurnFirst: 3
     chara:
     - id: 301600
@@ -1331,10 +1268,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3016_00_15
-      textHome: |-
-        Even baby steps can add up to
-        something really big.
-        Do you know what I mean?
+      textHome: Even baby steps can add up to@something really big.@Do you know what
+        I mean?
   - autoTurnFirst: 5
     chara:
     - id: 301600
@@ -1359,10 +1294,8 @@ story:
     chara:
     - id: 301600
       motion: 100
-      textHome: |-
-        It's nice because they don't take long to
-        make and there are so many designs
-        I want to try.
+      textHome: It's nice because they don't take long to@make and there are so many
+        designs@I want to try.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -1395,9 +1328,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 301600
       motion: 100
-      textHome: |-
-        I want to make them look simple at
-        first glance, but lean in close and, wow!
+      textHome: I want to make them look simple at@first glance, but lean in close
+        and, wow!
   - autoTurnFirst: 3
     chara:
     - cheek: 1

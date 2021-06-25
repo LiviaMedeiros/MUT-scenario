@@ -16,9 +16,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 403400
-      textHome: |-
-        When I warn the students, my friends say
-        "there you go lecturing again"
+      textHome: When I warn the students, my friends say@"there you go lecturing again"
   - autoTurnFirst: 4.3
     chara:
     - cheek: 0
@@ -30,10 +28,8 @@ story:
     chara:
     - id: 403400
       motion: 200
-      textHome: |-
-        It's just that when morals break down,
-        minds do too. So I do it to keep order
-        in the school...
+      textHome: It's just that when morals break down,@minds do too. So I do it to
+        keep order@in the school...
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -68,9 +64,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_4034_00_18
-      textHome: |-
-        I hit my personal best time in my
-        last swimming competition!
+      textHome: I hit my personal best time in my@last swimming competition!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -82,10 +76,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 403400
       motion: 1
-      textHome: |-
-        When I compare it to the other swimmers'
-        times, I think I might stand a good chance
-        of ranking in the next rookie's contest...
+      textHome: When I compare it to the other swimmers'@times, I think I might stand
+        a good chance@of ranking in the next rookie's contest...
   - autoTurnFirst: 3.3
     chara:
     - cheek: 1
@@ -172,19 +164,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4034_00_21
-      textHome: |-
-        I want to become something that
-        can correct what is wrong.
+      textHome: I want to become something that@can correct what is wrong.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 403400
       motion: 300
-      textHome: |-
-        Something that can help out
-        those who are suffering from
-        the evil actions of others...
+      textHome: Something that can help out@those who are suffering from@the evil
+        actions of others...
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -215,32 +203,26 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4034_00_22
-      textHome: |-
-        I was scared of hunting Witches,
-        to be honest.
+      textHome: I was scared of hunting Witches,@to be honest.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 403400
       motion: 0
-      textHome: |-
-        But joining a team where the others fight
-        so close to me helps.
+      textHome: But joining a team where the others fight@so close to me helps.
   - autoTurnFirst: 8.6
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 403400
       motion: 1
-      textHome: |-
-        Now I don't flinch at anything,
-        even when facing a Witch head-on!
+      textHome: Now I don't flinch at anything,@even when facing a Witch head-on!
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
       id: 403400
-      textHome: "Sometimes I even think, \n\"If only we could fight together forever\","
+      textHome: Sometimes I even think, @"If only we could fight together forever",
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -310,9 +292,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 403400
-      textHome: |-
-        What in the world were you up to?
-        Come on, let's go on patrol.
+      textHome: What in the world were you up to?@Come on, let's go on patrol.
   - autoTurnFirst: 3.6
     chara:
     - cheek: 0
@@ -341,10 +321,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4034_00_25
-      textHome: |-
-        Good morning!
-        Did you wash your face?
-        Eat your breakfast?
+      textHome: Good morning!@Did you wash your face?@Eat your breakfast?
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -356,9 +333,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 403400
-      textHome: |-
-        Do your homework?
-        Have everything?
+      textHome: Do your homework?@Have everything?
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
@@ -395,10 +370,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 403400
       motion: 1
-      textHome: |-
-        However, troublemakers like Arisa will
-        try to eat early, so it's too soon for the
-        person in charge of discipline to relax.
+      textHome: However, troublemakers like Arisa will@try to eat early, so it's too
+        soon for the@person in charge of discipline to relax.
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
@@ -424,16 +397,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4034_00_27
-      textHome: |-
-        I have swimming practice, so you
-        can head home without me...
+      textHome: I have swimming practice, so you@can head home without me...
   - autoTurnFirst: 4.5
     chara:
     - id: 403400
       motion: 0
-      textHome: |-
-        But if you're interested, you're welcome
-        to come see what practice is like.
+      textHome: But if you're interested, you're welcome@to come see what practice
+        is like.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -473,18 +443,15 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_4034_00_28
-      textHome: |-
-        Tomorrow is my day to do morning
-        greetings with Haruka.
+      textHome: Tomorrow is my day to do morning@greetings with Haruka.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 403400
       motion: 0
-      textHome: |-
-        I've got to get up earlier than usual,
-        so it'd be a good idea to head to bed.
+      textHome: I've got to get up earlier than usual,@so it'd be a good idea to head
+        to bed.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -507,9 +474,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4034_00_29
-      textHome: |-
-        Even the worst troublemakers at school
-        are dealing with their own issues...
+      textHome: Even the worst troublemakers at school@are dealing with their own
+        issues...
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -544,9 +510,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 403400
-      textHome: |-
-        I was talking with the others about
-        stepping up our patrols.
+      textHome: I was talking with the others about@stepping up our patrols.
   - autoTurnFirst: 2.3
     chara:
     - id: 403400
@@ -592,9 +556,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 403400
       motion: 200
-      textHome: |-
-        Situations like this must be dealt
-        with calmly.
+      textHome: Situations like this must be dealt@with calmly.
   - chara:
     - id: 403400
       textHomeStatus: Clear
@@ -640,9 +602,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4034_00_33
-      textHome: |-
-        Teaming up with Haruka made
-        me realize something...
+      textHome: Teaming up with Haruka made@me realize something...
   - autoTurnFirst: 2
     chara:
     - eyeClose: 1
@@ -655,9 +615,7 @@ story:
     chara:
     - id: 403400
       motion: 0
-      textHome: |-
-        Even things you can't do alone can
-        be done with friends at your side.
+      textHome: Even things you can't do alone can@be done with friends at your side.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -679,9 +637,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4034_00_34
-      textHome: |-
-        Arisa sleeps in a lot, so I go make
-        sure she gets up on time.
+      textHome: Arisa sleeps in a lot, so I go make@sure she gets up on time.
   - autoTurnFirst: 2.9
     chara:
     - cheek: 0
@@ -710,17 +666,13 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4034_00_35
-      textHome: |-
-        Hey, what do you think I should be
-        in the future?
+      textHome: Hey, what do you think I should be@in the future?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 403400
-      textHome: |-
-        I can't let misconduct slide, so maybe
-        a police officer? Or a judge?
+      textHome: I can't let misconduct slide, so maybe@a police officer? Or a judge?
   - autoTurnFirst: 2.5
     chara:
     - id: 403400
@@ -752,9 +704,7 @@ story:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 403400
-      textHome: |-
-        Not only is she smart, witty, and kind,
-        everyone depends on her...
+      textHome: Not only is she smart, witty, and kind,@everyone depends on her...
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -783,18 +733,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4034_00_37
-      textHome: |-
-        I live together with my dad.
-        I'm in charge of housework.
+      textHome: I live together with my dad.@I'm in charge of housework.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 403400
       motion: 0
-      textHome: |-
-        Hm? No, it's not hard at all.
-        I like doing it, and my dad helps me out!
+      textHome: Hm? No, it's not hard at all.@I like doing it, and my dad helps me
+        out!
   - autoTurnFirst: 5.1
     chara:
     - cheek: 0
@@ -844,9 +791,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 403400
-      textHome: |-
-        I see... I used to read them all the time
-        when I was young.
+      textHome: I see... I used to read them all the time@when I was young.
   - autoTurnFirst: 4.7
     chara:
     - id: 403400
@@ -857,9 +802,7 @@ story:
       eyeClose: 1
       face: mtn_ex_030.exp.json
       id: 403400
-      textHome: |-
-        Picture books, they fill young readers
-        with dreams of their own...
+      textHome: Picture books, they fill young readers@with dreams of their own...
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -883,10 +826,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4034_00_39
-      textHome: |-
-        My dad always dreamed of illustrating
-        picture books, and his dream came
-        true, but...he ended up quitting.
+      textHome: My dad always dreamed of illustrating@picture books, and his dream
+        came@true, but...he ended up quitting.
   - autoTurnFirst: 3
     chara:
     - id: 403400
@@ -895,9 +836,7 @@ story:
     chara:
     - id: 403400
       motion: 300
-      textHome: |-
-        It was me who made him give up on
-        his dream...
+      textHome: It was me who made him give up on@his dream...
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -959,16 +898,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4034_00_41
-      textHome: |-
-        No. I won't let you get by with some
-        lame excuse!
+      textHome: No. I won't let you get by with some@lame excuse!
   - autoTurnFirst: 2
     chara:
     - id: 403400
       motion: 0
-      textHome: |-
-        Now, how should I teach you your lesson
-        for skipping out on your cleaning duties?
+      textHome: Now, how should I teach you your lesson@for skipping out on your cleaning
+        duties?
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -1180,9 +1116,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4034_00_02
-      textHome: |-
-        Pleased to meet you!
-        I am Chisato Shion.
+      textHome: Pleased to meet you!@I am Chisato Shion.
   - autoTurnFirst: 4.2
     chara:
     - cheek: 0
@@ -1278,9 +1212,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 403400
-      textHome: |2-
-         I'm more in sync with the others
-        than I used to be.
+      textHome: ' I''m more in sync with the others@than I used to be.'
   - autoTurnFirst: 3
     chara:
     - id: 403400
@@ -1315,9 +1247,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 403400
       motion: 100
-      textHome: |-
-        Well, I'm not very good at sports on land,
-        so...
+      textHome: Well, I'm not very good at sports on land,@so...
   - chara:
     - id: 403400
       textHomeStatus: Clear
@@ -1334,9 +1264,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4034_00_17
-      textHome: |-
-        The most fun I have swimming is when
-        I reach the goals I set for myself.
+      textHome: The most fun I have swimming is when@I reach the goals I set for myself.
   - autoTurnFirst: 7.8
     chara:
     - id: 403400
@@ -1346,9 +1274,8 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 403400
-      textHome: |-
-        It's hard to beat the feeling of all your hours
-         of practice paying off!
+      textHome: It's hard to beat the feeling of all your hours@ of practice paying
+        off!
   - chara:
     - id: 403400
       textHomeStatus: Clear

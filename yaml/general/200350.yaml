@@ -245,9 +245,7 @@ story:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 200300
-      textHome: |-
-        I-I've never really been out in
-        a kimono before, so...
+      textHome: I-I've never really been out in@a kimono before, so...
   - chara:
     - id: 200350
       textHomeStatus: Clear
@@ -266,10 +264,8 @@ story:
     chara:
     - id: 200300
       motion: 100
-      textHome: |-
-        I'm going to play hanetsuki with Madoka
-        and the others today. I woke up early so
-        I wouldn't be late...maybe too early...
+      textHome: I'm going to play hanetsuki with Madoka@and the others today. I woke
+        up early so@I wouldn't be late...maybe too early...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 2
@@ -289,16 +285,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2003_50_26
-      textHome: |-
-        Baked rice cake, rice cake soup,
-        and other New Year's dishes...
+      textHome: Baked rice cake, rice cake soup,@and other New Year's dishes...
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1
       id: 200300
-      textHome: |-
-        I always spent New Year's in my
-        hospital bed, so it feels different...
+      textHome: I always spent New Year's in my@hospital bed, so it feels different...
   - autoTurnLast: 0.01
     chara:
     - eyeClose: 0
@@ -328,9 +320,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200300
       motion: 0
-      textHome: |-
-        Please bundle up before going outside,
-        so that you don't catch a cold.
+      textHome: Please bundle up before going outside,@so that you don't catch a cold.
   - autoTurnFirst: 4
     chara:
     - id: 200300
@@ -376,16 +366,12 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2003_50_28
-      textHome: |-
-        I keep saying this to myself before sleeping,
-        for years now...
+      textHome: I keep saying this to myself before sleeping,@for years now...
   - autoTurnFirst: 6
     chara:
     - eyeClose: 1
       id: 200300
-      textHome: |-
-        Never forget why you became a Magical Girl,
-        or that oath you made...
+      textHome: Never forget why you became a Magical Girl,@or that oath you made...
   - autoTurnLast: 0.01
     chara:
     - eyeClose: 0
@@ -417,9 +403,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 200300
       motion: 200
-      textHome: |-
-        Oh, um, sorry!
-        I was just, ah...daydreaming a bit...
+      textHome: Oh, um, sorry!@I was just, ah...daydreaming a bit...
   - autoTurnFirst: 5
     chara:
     - cheek: 2
@@ -465,10 +449,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2003_50_31
-      textHome: |-
-        Now that it's the new year you can see
-        lots of Magical Girls wearing kimonos
-        even inside the Mirror Witch's Labyrinth...
+      textHome: Now that it's the new year you can see@lots of Magical Girls wearing
+        kimonos@even inside the Mirror Witch's Labyrinth...
   - autoTurnLast: 4
     chara:
     - id: 200300
@@ -521,9 +503,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2003_50_33
-      textHome: |-
-        What! Y-you think I should take off my
-        glasses while I'm wearing my kimono...?!
+      textHome: What! Y-you think I should take off my@glasses while I'm wearing my
+        kimono...?!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -550,7 +531,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2003_50_34
-      textHome: "Oh, now that you mention it... \nThat hanetsuki paddle Madoka has..."
+      textHome: Oh, now that you mention it... @That hanetsuki paddle Madoka has...
   - autoTurnFirst: 5
     chara:
     - id: 200300
@@ -569,10 +550,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2003_50_35
-      textHome: |-
-        When I was in the hospital, I could never
-        have imagined wearing kimono with
-        my friends to celebrate the New Year...
+      textHome: When I was in the hospital, I could never@have imagined wearing kimono
+        with@my friends to celebrate the New Year...
   - autoTurnLast: 3.5
     chara:
     - eyeClose: 0
@@ -623,9 +602,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2003_50_37
-      textHome: |-
-        Madoka lends me courage with her
-        strength and positivity that I never had.
+      textHome: Madoka lends me courage with her@strength and positivity that I never
+        had.
   - autoTurnLast: 3.5
     chara:
     - id: 200300
@@ -637,9 +615,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 200300
       motion: 300
-      textHome: |-
-        So different from me...
-        I'm just a dopey, selfish, little scaredy-cat...
+      textHome: So different from me...@I'm just a dopey, selfish, little scaredy-cat...
   - chara:
     - id: 200350
       textHomeStatus: Clear
@@ -677,16 +653,13 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2003_50_38
-      textHome: |-
-        Kyoko is probably spending New Year's
-        like any other day...
+      textHome: Kyoko is probably spending New Year's@like any other day...
   - autoTurnFirst: 8
     chara:
     - id: 200300
       motion: 0
-      textHome: |-
-        But her being that way is why she can talk
-        so calm and collected in any tough situation.
+      textHome: But her being that way is why she can talk@so calm and collected in
+        any tough situation.
   - chara:
     - id: 200350
       textHomeStatus: Clear
@@ -700,10 +673,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2003_50_39
-      textHome: |-
-        I spent a long time in the hospital,
-        so walking by all those stalls at
-        the shrine was really fun...
+      textHome: I spent a long time in the hospital,@so walking by all those stalls
+        at@the shrine was really fun...
   - autoTurnFirst: 6
     chara:
     - cheek: 1
@@ -713,9 +684,7 @@ story:
     chara:
     - id: 200300
       motion: 300
-      textHome: |-
-        Maybe because Madoka and the others
-        were there, too.
+      textHome: Maybe because Madoka and the others@were there, too.
   - chara:
     - id: 200350
       textHomeStatus: Clear
@@ -729,9 +698,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2003_50_40
-      textHome: |-
-        I want to hold these memories I made
-        with Madoka close in my heart...
+      textHome: I want to hold these memories I made@with Madoka close in my heart...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -739,9 +706,8 @@ story:
       face: mtn_ex_031.exp.json
       id: 200300
       motion: 100
-      textHome: |-
-        So I won't stray from my path, no matter
-        how many times I loop through time.
+      textHome: So I won't stray from my path, no matter@how many times I loop through
+        time.
   - autoTurnLast: 5
     chara:
     - eyeClose: 0
@@ -766,9 +732,8 @@ story:
     - cheek: 1
       face: mtn_ex_031.exp.json
       id: 200300
-      textHome: |-
-        If you want to pinch someone's cheeks
-        like that, you should go find Kyubey!
+      textHome: If you want to pinch someone's cheeks@like that, you should go find
+        Kyubey!
   - autoTurnFirst: 3
     chara:
     - id: 200300

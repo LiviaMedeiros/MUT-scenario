@@ -8,18 +8,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3023_00_01
-      textHome: |-
-        The name's Aimi Eri!
-        Great to meet you all!
+      textHome: The name's Aimi Eri!@Great to meet you all!
   - autoTurnFirst: 2
     chara:
     - cheek: 2
       face: mtn_ex_050.exp.json
       id: 302300
       motion: 400
-      textHome: |-
-        Ack! Oh nooo!
-        I-is he...looking this way?!
+      textHome: Ack! Oh nooo!@I-is he...looking this way?!
   - autoTurnFirst: 3
     chara:
     - face: mtn_ex_030.exp.json
@@ -35,10 +31,8 @@ story:
     - face: mtn_ex_010.exp.json
       id: 302300
       motion: 1
-      textHome: |-
-        Uhhh! Um, m-my hobbies, yeah, uh...
-        well, fantasizing...is NOT my hobby!
-        Obviously! Um, I make sweets...
+      textHome: Uhhh! Um, m-my hobbies, yeah, uh...@well, fantasizing...is NOT my
+        hobby!@Obviously! Um, I make sweets...
   - autoTurnFirst: 1
     chara:
     - face: mtn_ex_050.exp.json
@@ -68,9 +62,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3023_00_18
-      textHome: |-
-        Right now, I feel like I could take on any
-        rival that challenges me for his heart!
+      textHome: Right now, I feel like I could take on any@rival that challenges me
+        for his heart!
   - autoTurnFirst: 1.5
     chara:
     - face: mtn_ex_011.exp.json
@@ -80,10 +73,8 @@ story:
     - face: mtn_ex_010.exp.json
       id: 302300
       motion: 200
-      textHome: |-
-        Like in manga, y'know? There's always
-        some character that tries to get in between
-        the main character and their love interest.
+      textHome: Like in manga, y'know? There's always@some character that tries to
+        get in between@the main character and their love interest.
   - autoTurnFirst: 2.5
     chara:
     - face: mtn_ex_030.exp.json
@@ -111,9 +102,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 302300
       motion: 200
-      textHome: |-
-        There's no limits when it comes to love!
-        It's never ending!
+      textHome: There's no limits when it comes to love!@It's never ending!
   - chara:
     - id: 302300
       textHomeStatus: Clear
@@ -128,9 +117,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3023_00_20
-      textHome: |-
-        Phew, what a relief!
-        All my love troubles...
+      textHome: Phew, what a relief!@All my love troubles...
   - autoTurnFirst: 1
     chara:
     - face: mtn_ex_050.exp.json
@@ -173,9 +160,7 @@ story:
     chara:
     - face: mtn_ex_010.exp.json
       id: 302300
-      textHome: |-
-        But I guess that's part of the
-        superb charm of love...
+      textHome: But I guess that's part of the@superb charm of love...
   - autoTurnFirst: 3.5
     chara:
     - face: mtn_ex_011.exp.json
@@ -196,26 +181,21 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3023_00_22
-      textHome: |-
-        I worry and worry about it, but I just don't
-        know what to do about these feelings!
+      textHome: I worry and worry about it, but I just don't@know what to do about
+        these feelings!
   - autoTurnFirst: 4
     chara:
     - face: mtn_ex_030.exp.json
       id: 302300
       motion: 300
-      textHome: |-
-        I guess I'll keep worrying anyway.
-        Like what if he ends up
-        not liking me down the line...
+      textHome: I guess I'll keep worrying anyway.@Like what if he ends up@not liking
+        me down the line...
   - autoTurnFirst: 3
     chara:
     - face: mtn_ex_010.exp.json
       id: 302300
       motion: 100
-      textHome: |-
-        But I made up my mind to see these
-        feelings through!
+      textHome: But I made up my mind to see these@feelings through!
   - autoTurnFirst: 3
     chara:
     - face: mtn_ex_011.exp.json
@@ -284,9 +264,7 @@ story:
     - face: mtn_ex_010.exp.json
       id: 302300
       motion: 100
-      textHome: |-
-        I need some love advice!
-        Could you help me out?
+      textHome: I need some love advice!@Could you help me out?
   - autoTurnFirst: 3
     chara:
     - face: mtn_ex_010.exp.json
@@ -317,10 +295,8 @@ story:
     - face: mtn_ex_011.exp.json
       id: 302300
       motion: 100
-      textHome: |-
-        I love people who can say, "Good morning!"
-        all cheerfully bright and early in the morning.
-        It's like they're in a commercial or something!
+      textHome: I love people who can say, "Good morning!"@all cheerfully bright and
+        early in the morning.@It's like they're in a commercial or something!
   - autoTurnFirst: 4
     chara:
     - face: mtn_ex_010.exp.json
@@ -339,15 +315,13 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3023_00_26
-      textHome: |-
-        I'm hungry... I could really go for
-        a huge plate of BBQ right now...
+      textHome: I'm hungry... I could really go for@a huge plate of BBQ right now...
   - autoTurnFirst: 4.8
     chara:
     - face: mtn_ex_030.exp.json
       id: 302300
       motion: 200
-      textHome: "But, I wouldn't look very attractive\neating that, huh? "
+      textHome: 'But, I wouldn''t look very attractive@eating that, huh? '
   - autoTurnFirst: 3
     chara:
     - face: mtn_ex_010.exp.json
@@ -368,9 +342,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3023_00_27
-      textHome: |-
-        Hey, let's go to a cafe!
-        We can swap love stories!
+      textHome: Hey, let's go to a cafe!@We can swap love stories!
   - autoTurnFirst: 3
     chara:
     - face: mtn_ex_011.exp.json
@@ -380,9 +352,8 @@ story:
     - face: mtn_ex_010.exp.json
       id: 302300
       motion: 200
-      textHome: |-
-        Don't worry, I promise it'll be fun!
-        I never run out of things to talk about!
+      textHome: Don't worry, I promise it'll be fun!@I never run out of things to
+        talk about!
   - chara:
     - id: 302300
       textHomeStatus: Clear
@@ -415,25 +386,19 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3023_00_28
-      textHome: |-
-        I hate the nighttime,
-        even my thoughts get darker.
+      textHome: I hate the nighttime,@even my thoughts get darker.
   - autoTurnFirst: 4.5
     chara:
     - eyeClose: 1
       id: 302300
-      textHome: |-
-        Like, I worry he doesn't really
-        like me, or that he'll reject me...
+      textHome: Like, I worry he doesn't really@like me, or that he'll reject me...
   - autoTurnFirst: 5
     chara:
     - eyeClose: 0
       face: mtn_ex_030.exp.json
       id: 302300
       motion: 0
-      textHome: |-
-        Once I get started thinking like that,
-        I can't stop.
+      textHome: Once I get started thinking like that,@I can't stop.
   - chara:
     - id: 302300
       textHomeStatus: Clear
@@ -448,10 +413,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3023_00_29
-      textHome: |-
-        When I'm talking with my friends,
-        I can really be myself.
-        I'm all cheerful and collected...
+      textHome: When I'm talking with my friends,@I can really be myself.@I'm all
+        cheerful and collected...
   - autoTurnFirst: 3
     chara:
     - face: mtn_ex_011.exp.json
@@ -466,9 +429,7 @@ story:
     - face: mtn_ex_030.exp.json
       id: 302300
       motion: 300
-      textHome: |-
-        I wish I could be like that when
-        I'm talking to him...
+      textHome: I wish I could be like that when@I'm talking to him...
   - chara:
     - id: 302300
       textHomeStatus: Clear
@@ -488,8 +449,8 @@ story:
     chara:
     - face: mtn_ex_010.exp.json
       id: 302300
-      textHome: "My main mission is love!\nThat's why I need to get all this\nMagical
-        Girl work done ASAP! "
+      textHome: 'My main mission is love!@That''s why I need to get all this@Magical
+        Girl work done ASAP! '
   - autoTurnFirst: 2
     chara:
     - face: mtn_ex_010.exp.json
@@ -515,8 +476,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3023_00_31
-      textHome: "No matter who or what blocks my path, \nI won't let it get in the
-        way of my love!"
+      textHome: No matter who or what blocks my path, @I won't let it get in the way
+        of my love!
   - autoTurnFirst: 2
     chara:
     - face: mtn_ex_011.exp.json
@@ -526,9 +487,7 @@ story:
     - face: mtn_ex_020.exp.json
       id: 302300
       motion: 200
-      textHome: |-
-        I'm not messing around!
-        I'll show them all the true power of love!
+      textHome: I'm not messing around!@I'll show them all the true power of love!
   - chara:
     - id: 302300
       textHomeStatus: Clear
@@ -571,18 +530,14 @@ story:
     chara:
     - face: mtn_ex_011.exp.json
       id: 302300
-      textHome: |-
-        They say using them will get
-        your crush to love you back!
+      textHome: They say using them will get@your crush to love you back!
   - autoTurnFirst: 6
     chara:
     - face: mtn_ex_030.exp.json
       id: 302300
       motion: 1
-      textHome: |-
-        Do you think that's really true?
-        I've actually heard guys prefer
-        a more natural look...
+      textHome: Do you think that's really true?@I've actually heard guys prefer@a
+        more natural look...
   - chara:
     - id: 302300
       textHomeStatus: Clear
@@ -604,7 +559,7 @@ story:
     - face: mtn_ex_011.exp.json
       id: 302300
       motion: 0
-      textHome: "Oh my gosh, what if he\nsaid something like that?! "
+      textHome: 'Oh my gosh, what if he@said something like that?! '
   - autoTurnFirst: 4
     chara:
     - id: 302300
@@ -624,17 +579,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3023_00_35
-      textHome: |-
-        I mean, sometimes I fantasize about
-        spending time with the person I like.
+      textHome: I mean, sometimes I fantasize about@spending time with the person
+        I like.
   - autoTurnFirst: 2
     chara:
     - face: mtn_ex_030.exp.json
       id: 302300
       motion: 0
-      textHome: |-
-        That's normal...isn't it?
-        Everyone does that, right?
+      textHome: That's normal...isn't it?@Everyone does that, right?
   - autoTurnFirst: 2
     chara:
     - face: mtn_ex_050.exp.json
@@ -660,16 +612,14 @@ story:
     - face: mtn_ex_030.exp.json
       id: 302300
       motion: 300
-      textHome: "You know, I've actually thought about\ndoing something like that
-        before... "
+      textHome: 'You know, I''ve actually thought about@doing something like that
+        before... '
   - autoTurnFirst: 5
     chara:
     - face: mtn_ex_030.exp.json
       id: 302300
       motion: 1
-      textHome: |-
-        But I always get so scared it
-        won't work, so I never do it...
+      textHome: But I always get so scared it@won't work, so I never do it...
   - chara:
     - id: 302300
       textHomeStatus: Clear
@@ -684,9 +634,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3023_00_37
-      textHome: |-
-        The boy I like is super, super hot!
-        For real! It's crazy!
+      textHome: The boy I like is super, super hot!@For real! It's crazy!
   - autoTurnFirst: 4.6
     chara:
     - face: mtn_ex_011.exp.json
@@ -697,9 +645,7 @@ story:
     - face: mtn_ex_010.exp.json
       id: 302300
       motion: 100
-      textHome: |-
-        It's like he jumped straight
-        out of some romance novel!
+      textHome: It's like he jumped straight@out of some romance novel!
   - chara:
     - id: 302300
       textHomeStatus: Clear
@@ -733,18 +679,14 @@ story:
     chara:
     - face: mtn_ex_011.exp.json
       id: 302300
-      textHome: |-
-        Nothing's more fun than
-        going crazy over love stories!
+      textHome: Nothing's more fun than@going crazy over love stories!
   - autoTurnFirst: 6
     chara:
     - face: mtn_ex_010.exp.json
       id: 302300
       motion: 200
-      textHome: |-
-        One of the awesome things about
-        being a Magical Girl is all the new
-        friends I've made that I can talk to!
+      textHome: One of the awesome things about@being a Magical Girl is all the new@friends
+        I've made that I can talk to!
   - chara:
     - id: 302300
       textHomeStatus: Clear
@@ -759,9 +701,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3023_00_39
-      textHome: |-
-        My friends say I'm over the top, and that
-        I'm more bearable when I'm feeling shy.
+      textHome: My friends say I'm over the top, and that@I'm more bearable when I'm
+        feeling shy.
   - autoTurnFirst: 1
     chara:
     - face: mtn_ex_030.exp.json
@@ -819,17 +760,13 @@ story:
     chara:
     - face: mtn_ex_010.exp.json
       id: 302300
-      textHome: |-
-        That's what I wished for and that's
-        how I became a Magical Girl!
+      textHome: That's what I wished for and that's@how I became a Magical Girl!
   - autoTurnFirst: 2
     chara:
     - face: mtn_ex_050.exp.json
       id: 302300
       motion: 200
-      textHome: |-
-        So what was the answer?
-        *Giggle* *GIGGLE*
+      textHome: So what was the answer?@*Giggle* *GIGGLE*
   - autoTurnFirst: 6
     chara:
     - face: mtn_ex_011.exp.json
@@ -1023,9 +960,7 @@ story:
     - face: mtn_ex_050.exp.json
       id: 302300
       motion: 100
-      textHome: |-
-        I know this is sudden, but do you want
-        to hear about my love troubles?
+      textHome: I know this is sudden, but do you want@to hear about my love troubles?
   - autoTurnFirst: 3.2
     chara:
     - face: mtn_ex_010.exp.json
@@ -1084,9 +1019,7 @@ story:
     - face: mtn_ex_011.exp.json
       id: 302300
       motion: 100
-      textHome: |-
-        It makes me wanna rush
-        right out and find love!
+      textHome: It makes me wanna rush@right out and find love!
   - chara:
     - id: 302300
       textHomeStatus: Clear
@@ -1131,9 +1064,7 @@ story:
     chara:
     - face: mtn_ex_010.exp.json
       id: 302300
-      textHome: |-
-        I gotta aim at his heart while
-        I'm on this winning streak!
+      textHome: I gotta aim at his heart while@I'm on this winning streak!
   - autoTurnFirst: 2
     chara:
     - face: mtn_ex_020.exp.json
@@ -1172,9 +1103,8 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3023_00_17
-      textHome: |-
-        There! I've come up with the perfect plan
-        for a fabulous, heart-throbbing date!
+      textHome: There! I've come up with the perfect plan@for a fabulous, heart-throbbing
+        date!
   - autoTurnFirst: 4.3
     chara:
     - face: mtn_ex_010.exp.json
@@ -1185,9 +1115,7 @@ story:
     - face: mtn_ex_011.exp.json
       id: 302300
       motion: 100
-      textHome: |-
-        Now I gotta write it down in
-        my notebook so I don't forget!
+      textHome: Now I gotta write it down in@my notebook so I don't forget!
   - chara:
     - id: 302300
       textHomeStatus: Clear

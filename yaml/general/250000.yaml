@@ -9,19 +9,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2500_00_01
-      textHome: |-
-        Once I learned the whole truth,
-        my pride in myself as a Magical Girl
-        crumbled to dust...
+      textHome: Once I learned the whole truth,@my pride in myself as a Magical Girl@crumbled
+        to dust...
   - autoTurnFirst: 7.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 250000
       motion: 200
-      textHome: |-
-        I felt as though my heart would be
-        crushed from anxiety and despair.
+      textHome: I felt as though my heart would be@crushed from anxiety and despair.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -54,9 +50,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2500_00_18
-      textHome: |-
-        Tea served in a luxurious tea set,
-        alongside a slice of cake.
+      textHome: Tea served in a luxurious tea set,@alongside a slice of cake.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -70,9 +64,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 250000
       motion: 101
-      textHome: |-
-        An end that will serve as the beginning
-        of a life without pain or suffering.
+      textHome: An end that will serve as the beginning@of a life without pain or
+        suffering.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -90,9 +83,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2500_00_19
-      textHome: |-
-        I feel another bout of holy power
-        welling up inside of me...
+      textHome: I feel another bout of holy power@welling up inside of me...
   - chara:
     - id: 250000
       textHomeStatus: Clear
@@ -105,9 +96,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2500_00_20
-      textHome: |-
-        I cannot rest here...
-        I have a new goal I must accomplish.
+      textHome: I cannot rest here...@I have a new goal I must accomplish.
   - autoTurnFirst: 3
     chara:
     - id: 250000
@@ -124,18 +113,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2500_00_21
-      textHome: |-
-        The justice I upheld in the past
-        was a small, petty thing.
+      textHome: The justice I upheld in the past@was a small, petty thing.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 250000
       motion: 0
-      textHome: |-
-        It shocked me to realize that,
-        but thankfully it made me who I am now.
+      textHome: It shocked me to realize that,@but thankfully it made me who I am
+        now.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -154,9 +140,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2500_00_22
-      textHome: |-
-        If such a thing as necessary evil exists
-        in this world, I may be that right now.
+      textHome: If such a thing as necessary evil exists@in this world, I may be that
+        right now.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -169,9 +154,8 @@ story:
       face: mtn_ex_001.exp.json
       id: 250000
       motion: 1
-      textHome: |-
-        I endeavor to become a force of justice,
-        to transform calamity into blessing.
+      textHome: I endeavor to become a force of justice,@to transform calamity into
+        blessing.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -222,10 +206,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2500_00_24
-      textHome: |-
-        Welcome. I couldn't decide what to get
-        this year for Christmas, so I decided
-        to have a cup of tea.
+      textHome: Welcome. I couldn't decide what to get@this year for Christmas, so
+        I decided@to have a cup of tea.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -269,10 +251,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 250000
       motion: 100
-      textHome: |-
-        Try to keep warm.
-        Christmas is coming soon,
-        you wouldn't want to catch a cold.
+      textHome: Try to keep warm.@Christmas is coming soon,@you wouldn't want to catch
+        a cold.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -295,9 +275,8 @@ story:
     chara:
     - id: 250000
       motion: 200
-      textHome: |-
-        With all this cold weather lately,
-        I'm craving something nice and warm.
+      textHome: With all this cold weather lately,@I'm craving something nice and
+        warm.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -322,16 +301,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_2500_00_27
-      textHome: |-
-        Would you come with me shopping?
-        I wanted to get some ornaments for my tree.
+      textHome: Would you come with me shopping?@I wanted to get some ornaments for
+        my tree.
   - autoTurnFirst: 5
     chara:
     - id: 250000
       motion: 100
-      textHome: |-
-        I'm thinking about getting something
-        extra stylish this year.
+      textHome: I'm thinking about getting something@extra stylish this year.
   - chara:
     - id: 250000
       textHomeStatus: Clear
@@ -375,9 +351,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 250000
       motion: 100
-      textHome: |-
-        I usually drink tea, but during the winter,
-        I also like drinking hot chocolate.
+      textHome: I usually drink tea, but during the winter,@I also like drinking hot
+        chocolate.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -414,9 +389,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 250000
-      textHome: |-
-        I hope we get to see some snow
-        this Christmas too.
+      textHome: I hope we get to see some snow@this Christmas too.
   - chara:
     - id: 250000
       textHomeStatus: Clear
@@ -429,18 +402,14 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_2500_00_30
-      textHome: |-
-        We must always fulfill our duties as
-        Magical Girls.
+      textHome: We must always fulfill our duties as@Magical Girls.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 250000
       motion: 100
-      textHome: |-
-        Besides, if we're naughty,
-        Santa won't come visit us.
+      textHome: Besides, if we're naughty,@Santa won't come visit us.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -469,9 +438,7 @@ story:
     chara:
     - id: 250000
       motion: 1
-      textHome: |-
-        We have to stay strong, no matter what...
-        Ready?
+      textHome: We have to stay strong, no matter what...@Ready?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -515,10 +482,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2500_00_33
-      textHome: |-
-        My favorite cake shop starts taking
-        reservations for its popular
-        chocolate cake this time of the year.
+      textHome: My favorite cake shop starts taking@reservations for its popular@chocolate
+        cake this time of the year.
   - autoTurnFirst: 2.5
     chara:
     - id: 250000
@@ -554,9 +519,7 @@ story:
     chara:
     - id: 250000
       motion: 100
-      textHome: |-
-        I like wearing special clothes,
-        especially my Magical Girl costume.
+      textHome: I like wearing special clothes,@especially my Magical Girl costume.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -581,9 +544,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 250000
       motion: 100
-      textHome: |-
-        Looking at the Christmas lights,
-        doesn't it get you excited?
+      textHome: Looking at the Christmas lights,@doesn't it get you excited?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -601,9 +562,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2500_00_36
-      textHome: |-
-        Even when it's really cold, I love looking at
-        the stars from the porch during the winter.
+      textHome: Even when it's really cold, I love looking at@the stars from the porch
+        during the winter.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -615,9 +575,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 250000
       motion: 100
-      textHome: |-
-        The air is crisp and clear,
-        can't you see them too?
+      textHome: The air is crisp and clear,@can't you see them too?
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -635,16 +593,12 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_2500_00_37
-      textHome: |-
-        I love listening to Christmas songs
-        during the holidays.
+      textHome: I love listening to Christmas songs@during the holidays.
   - autoTurnFirst: 5
     chara:
     - id: 250000
       motion: 100
-      textHome: |-
-        I even have a CD filled with
-        some of the most popular ones.
+      textHome: I even have a CD filled with@some of the most popular ones.
   - chara:
     - id: 250000
       textHomeStatus: Clear
@@ -675,17 +629,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2500_00_38
-      textHome: |-
-        When I lost my family and became
-        a Magical Girl I became very distant.
+      textHome: When I lost my family and became@a Magical Girl I became very distant.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 250000
-      textHome: |-
-        I never thought I'd be able to celebrate
-        holidays with other people like this again.
+      textHome: I never thought I'd be able to celebrate@holidays with other people
+        like this again.
   - autoTurnFirst: 3
     chara:
     - id: 250000
@@ -702,17 +653,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2500_00_39
-      textHome: "It's strange... \nNormally at my age you wouldn't\nget so excited
-        for Santa,"
+      textHome: It's strange... @Normally at my age you wouldn't@get so excited for
+        Santa,
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 250000
       motion: 100
-      textHome: |-
-        but every Christmas Eve
-        I just can't get to sleep.
+      textHome: but every Christmas Eve@I just can't get to sleep.
   - chara:
     - id: 250000
       textHomeStatus: Clear
@@ -725,7 +674,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_2500_00_40
-      textHome: "Did you remember to hang the stockings?\n*Giggle* "
+      textHome: 'Did you remember to hang the stockings?@*Giggle* '
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -742,9 +691,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 250000
       motion: 100
-      textHome: |-
-        Merry Christmas.
-        This present... It's for you.
+      textHome: Merry Christmas.@This present... It's for you.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -762,16 +709,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2500_00_41
-      textHome: |-
-        I heard in many countries, Christmas
-        is a time when families come together.
+      textHome: I heard in many countries, Christmas@is a time when families come
+        together.
   - autoTurnFirst: 3
     chara:
     - id: 250000
       motion: 300
-      textHome: |-
-        Someday, if I ever have my own family...
-        maybe Christmas will feel a bit warmer.
+      textHome: Someday, if I ever have my own family...@maybe Christmas will feel
+        a bit warmer.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -842,9 +787,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_2500_00_46
-      textHome: |-
-        My wish is sacred.
-        I will allow no one to disparage it.
+      textHome: My wish is sacred.@I will allow no one to disparage it.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -933,9 +876,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 250000
       motion: 0
-      textHome: |-
-        Call on me when times are hard and
-        you find yourself crushed by despair...
+      textHome: Call on me when times are hard and@you find yourself crushed by despair...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -961,9 +902,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2500_00_13
-      textHome: |-
-        I must gain more strength, step by step,
-        so as to keep this feeling within me...
+      textHome: I must gain more strength, step by step,@so as to keep this feeling
+        within me...
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -982,16 +922,12 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_2500_00_14
-      textHome: |-
-        I cannot rest easy, no matter how powerful
-        I become...
+      textHome: I cannot rest easy, no matter how powerful@I become...
   - autoTurnFirst: 3
     chara:
     - id: 250000
       motion: 100
-      textHome: |-
-        I need a solution to the
-        fundamental problem that faces us.
+      textHome: I need a solution to the@fundamental problem that faces us.
   - chara:
     - id: 250000
       textHomeStatus: Clear
@@ -1010,9 +946,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 250000
-      textHome: |-
-        Don't ask questions if you are
-        not ready to hear the answer.
+      textHome: Don't ask questions if you are@not ready to hear the answer.
   - chara:
     - id: 250000
       textHomeStatus: Clear
@@ -1025,16 +959,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2500_00_16
-      textHome: |-
-        It's vital to calm your mind before
-        engaging in battle.
+      textHome: It's vital to calm your mind before@engaging in battle.
   - autoTurnFirst: 2.5
     chara:
     - id: 250000
       motion: 200
-      textHome: |-
-        What I need right now, for instance,
-        is my pre-battle cup of tea.
+      textHome: What I need right now, for instance,@is my pre-battle cup of tea.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -1052,16 +982,12 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_2500_00_17
-      textHome: |-
-        I've begun to savor my tea
-        much more as of late.
+      textHome: I've begun to savor my tea@much more as of late.
   - autoTurnFirst: 3
     chara:
     - id: 250000
       motion: 100
-      textHome: |-
-        The sense of relaxation that comes from
-        taking a sip... It's incomparable.
+      textHome: The sense of relaxation that comes from@taking a sip... It's incomparable.
   - autoTurnFirst: 3
     chara:
     - cheek: 1

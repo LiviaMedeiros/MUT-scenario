@@ -16,18 +16,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 301900
       motion: 100
-      textHome: |-
-        My favorite activity is making people laugh!
-        My favorite thing is comedy,
-        and my hobby is watching stand-up!
+      textHome: My favorite activity is making people laugh!@My favorite thing is
+        comedy,@and my hobby is watching stand-up!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 301900
-      textHome: |-
-        So obviously, my dream career is...
-        to be a pro boxer!
+      textHome: So obviously, my dream career is...@to be a pro boxer!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -90,18 +86,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 301900
       motion: 1
-      textHome: |-
-        Well, they only just debuted,
-        so they're not a big name yet.
+      textHome: Well, they only just debuted,@so they're not a big name yet.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 301900
       motion: 200
-      textHome: |-
-        But they really know how to
-        bring down the house!
+      textHome: But they really know how to@bring down the house!
   - chara:
     - id: 301900
       textHomeStatus: Clear
@@ -117,9 +109,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3019_00_19
-      textHome: |-
-        Yaaay!
-        I'm walking on air, with energy to spare!
+      textHome: Yaaay!@I'm walking on air, with energy to spare!
   - autoTurnFirst: 2.2
     chara:
     - cheek: 0
@@ -146,9 +136,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3019_00_20
-      textHome: |-
-        Yup, yup, yup!
-        That's an upgrade for little ol' me!
+      textHome: Yup, yup, yup!@That's an upgrade for little ol' me!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -169,17 +157,14 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3019_00_21
-      textHome: |-
-        If the old me hadn't been around...
-        this bright and shiny me wouldn't be either.
+      textHome: If the old me hadn't been around...@this bright and shiny me wouldn't
+        be either.
   - autoTurnFirst: 2.8
     chara:
     - face: mtn_ex_010.exp.json
       id: 301900
       motion: 1
-      textHome: |-
-        So, you know?
-        Hats off to the old me.
+      textHome: So, you know?@Hats off to the old me.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -201,25 +186,23 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3019_00_22
-      textHome: |-
-        To change into someone that's always
-        bright and cheerful no matter what...
+      textHome: To change into someone that's always@bright and cheerful no matter
+        what...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 301900
       motion: 0
-      textHome: "It was my decision to make that wish,\nand nobody else's. "
+      textHome: 'It was my decision to make that wish,@and nobody else''s. '
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 301900
       motion: 0
-      textHome: |-
-        That's exactly why the me that wish created,
-        the way I am now, is 100% the real me.
+      textHome: That's exactly why the me that wish created,@the way I am now, is
+        100% the real me.
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
@@ -275,9 +258,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3019_00_24
-      textHome: |-
-        Hiii! Hello, hello!
-        I'm full of energy and ready to go!
+      textHome: Hiii! Hello, hello!@I'm full of energy and ready to go!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -289,9 +270,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 301900
       motion: 1
-      textHome: |-
-        If you're feeling down, I'll share
-        some of my energy with you!
+      textHome: If you're feeling down, I'll share@some of my energy with you!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -313,18 +292,14 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3019_00_25
-      textHome: |-
-        It's morning!
-        Let's get some exercise time in!
+      textHome: It's morning!@Let's get some exercise time in!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       id: 301900
       motion: 0
       pos: 1
-      textHome: |-
-        Commencing
-        "Gymnastics Work Out No. 5568!"
+      textHome: Commencing@"Gymnastics Work Out No. 5568!"
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
@@ -363,17 +338,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3019_00_26
-      textHome: "I'm so hungry, my energy tank is empty, \nI'm running on fumes...
-        The usual me is—"
+      textHome: I'm so hungry, my energy tank is empty, @I'm running on fumes... The
+        usual me is—
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 301900
       motion: 0
-      textHome: |-
-        Waaait! Today's lunch is yakisoba?!
-        Yeah, babyyy! I love me some yakisoba!
+      textHome: Waaait! Today's lunch is yakisoba?!@Yeah, babyyy! I love me some yakisoba!
   - autoTurnFirst: 4
     chara:
     - id: 301900
@@ -393,17 +366,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3019_00_27
-      textHome: |-
-        Heyyy, you! Yeah, you!
-        Come shopping with me!
+      textHome: Heyyy, you! Yeah, you!@Come shopping with me!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       id: 301900
       motion: 1
-      textHome: |-
-        I know some good places! So good that
-        you'll be like, I wanna buy EVERYTHING!
+      textHome: I know some good places! So good that@you'll be like, I wanna buy
+        EVERYTHING!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -453,9 +423,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301900
       motion: 0
-      textHome: |-
-        In fact... It just feels so good
-        rolling around in bed!
+      textHome: In fact... It just feels so good@rolling around in bed!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -489,10 +457,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3019_00_29
-      textHome: |-
-        Whenever I find something weirdly cute,
-        I can't help but buy it!
-        Not just like clothes, but knick-knacks, too!
+      textHome: Whenever I find something weirdly cute,@I can't help but buy it!@Not
+        just like clothes, but knick-knacks, too!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -507,9 +473,7 @@ story:
       id: 301900
       motion: 100
       pos: 1
-      textHome: |-
-        I mean, look at my phone case.
-        It's got a fried shrimp on it!
+      textHome: I mean, look at my phone case.@It's got a fried shrimp on it!
   - chara:
     - id: 301900
       textHomeStatus: Clear
@@ -525,7 +489,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3019_00_30
-      textHome: "Witches spread curses...\nWherever they gather, they bring darkness. "
+      textHome: 'Witches spread curses...@Wherever they gather, they bring darkness. '
   - autoTurnFirst: 5.5
     chara:
     - cheek: 0
@@ -553,19 +517,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3019_00_31
-      textHome: |-
-        I don't like the Mirror Witch's Labyrinth.
-        There're mirrors everywhere you look,
-        which basically makes it a huge maze!
+      textHome: I don't like the Mirror Witch's Labyrinth.@There're mirrors everywhere
+        you look,@which basically makes it a huge maze!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 301900
       motion: 1
-      textHome: |-
-        Well... All you can do is just try to keep
-        moving forward!
+      textHome: Well... All you can do is just try to keep@moving forward!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -625,8 +585,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3019_00_33
-      textHome: "I like weird clothes! Things that make \npeople ask, \"Where'd you
-        buy that?!\""
+      textHome: I like weird clothes! Things that make @people ask, "Where'd you buy
+        that?!"
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -645,9 +605,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 301900
       motion: 1
-      textHome: |-
-        The other day, I bought this t-shirt with
-        a TON of different sushi on it!
+      textHome: The other day, I bought this t-shirt with@a TON of different sushi
+        on it!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -674,9 +633,7 @@ story:
     - face: mtn_ex_010.exp.json
       id: 301900
       motion: 0
-      textHome: |2-
-         I like skits, but my favorite style is
-        stand-up comedy.
+      textHome: ' I like skits, but my favorite style is@stand-up comedy.'
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -702,17 +659,16 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3019_00_35
-      textHome: "I could seriously spend all day at a hardware\nstore! Don't you think
-        they're like their own \nlittle theme parks?"
+      textHome: I could seriously spend all day at a hardware@store! Don't you think
+        they're like their own @little theme parks?
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 301900
       motion: 200
-      textHome: |-
-        I love looking at all the stuff.
-        It's like, "What would you even use this for?!"
+      textHome: I love looking at all the stuff.@It's like, "What would you even use
+        this for?!"
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -734,18 +690,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3019_00_36
-      textHome: |-
-        I always wonder what it'd be like
-        to be on a comedy show.
+      textHome: I always wonder what it'd be like@to be on a comedy show.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 301900
       motion: 200
-      textHome: |-
-        It'd be so much fun to jump in with a zinger
-        like, "Orange you glad I didn't say orange?"
+      textHome: It'd be so much fun to jump in with a zinger@like, "Orange you glad
+        I didn't say orange?"
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -767,17 +720,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3019_00_37
-      textHome: |-
-        Comedians are amazing. They're all like,
-        "I'm gonna make you laugh,"
+      textHome: Comedians are amazing. They're all like,@"I'm gonna make you laugh,"
   - autoTurnFirst: 2.8
     chara:
     - face: mtn_ex_011.exp.json
       id: 301900
       motion: 200
-      textHome: |-
-        and then they do something that really
-        does make you laugh like crazy!
+      textHome: and then they do something that really@does make you laugh like crazy!
   - autoTurnFirst: 2
     chara:
     - id: 301900
@@ -839,9 +788,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 301900
-      textHome: |-
-        They both remind me of like, vitamins.
-        Gives me tons of energy!
+      textHome: They both remind me of like, vitamins.@Gives me tons of energy!
   - chara:
     - id: 301900
       textHomeStatus: Clear
@@ -893,9 +840,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3019_00_40
-      textHome: |-
-        The me that was laughing so much
-        just now...
+      textHome: The me that was laughing so much@just now...
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0
@@ -955,10 +900,8 @@ story:
     chara:
     - face: mtn_ex_011.exp.json
       id: 301900
-      textHome: |2-
-         I'm not trying to be a comedian
-        or anything, I just think of good
-        jokes and stuff sometimes…
+      textHome: ' I''m not trying to be a comedian@or anything, I just think of good@jokes
+        and stuff sometimes…'
   - chara:
     - id: 301900
       textHomeStatus: Clear
@@ -974,9 +917,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3019_00_42
-      textHome: |-
-        No prob, no prob!
-        I can't prove it, but it's no prob!
+      textHome: No prob, no prob!@I can't prove it, but it's no prob!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1181,7 +1122,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3019_00_02
-      textHome: "Thank you everybody,\nyou're a great audience! "
+      textHome: 'Thank you everybody,@you''re a great audience! '
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -1205,9 +1146,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 301900
       motion: 300
-      textHome: |-
-        If you remember one thing today,
-        remember my name!
+      textHome: If you remember one thing today,@remember my name!
   - chara:
     - id: 301900
       textHomeStatus: Clear
@@ -1223,9 +1162,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3019_00_13
-      textHome: |-
-        So long as I push myself forward with a
-        big ol' smile, there'll be a path I can take!
+      textHome: So long as I push myself forward with a@big ol' smile, there'll be
+        a path I can take!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1246,9 +1184,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3019_00_14
-      textHome: |-
-        Whoa, are you mega, for reals,
-        super serious right now?!
+      textHome: Whoa, are you mega, for reals,@super serious right now?!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -1258,9 +1194,7 @@ story:
     chara:
     - id: 301900
       motion: 200
-      textHome: |-
-        I'm over the moon!
-        Marikongratulations! Ahaaa!
+      textHome: I'm over the moon!@Marikongratulations! Ahaaa!
   - autoTurnFirst: 3
     chara:
     - id: 301900
@@ -1318,17 +1252,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3019_00_16
-      textHome: |-
-        My fav host?
-        Probably Shimoda from Curry Casserole.
+      textHome: My fav host?@Probably Shimoda from Curry Casserole.
   - autoTurnFirst: 2
     chara:
     - id: 301900
       motion: 100
-      textHome: |-
-        And I only just found out that the
-        comedy duo used to be called
-        a different name long ago.
+      textHome: And I only just found out that the@comedy duo used to be called@a
+        different name long ago.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -1356,10 +1286,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 301900
       motion: 1
-      textHome: |-
-        It's a radio show this duo does, and I've
-        listened every single time since they started!
-        It's on late Saturday night, every week!
+      textHome: It's a radio show this duo does, and I've@listened every single time
+        since they started!@It's on late Saturday night, every week!
   - autoTurnFirst: 3
     chara:
     - cheek: 0

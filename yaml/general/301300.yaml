@@ -10,34 +10,27 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3013_00_01
-      textHome: |-
-        I live in an apartment complex.
-        Lots of my friends and
-        other kids live there too.
+      textHome: I live in an apartment complex.@Lots of my friends and@other kids
+        live there too.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 301300
-      textHome: |-
-        But with Seika and Mito especially,
-        we're always together.
+      textHome: But with Seika and Mito especially,@we're always together.
   - autoTurnFirst: 5.2
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 301300
       motion: 0
-      textHome: |-
-        We've been playing in the park, chatting,
-        and whatever for years and years.
+      textHome: We've been playing in the park, chatting,@and whatever for years and
+        years.
   - autoTurnFirst: 4
     chara:
     - id: 301300
       motion: 100
-      textHome: |2-
-         Also...I love baking, so I have
-        them try everything I make!
+      textHome: ' Also...I love baking, so I have@them try everything I make!'
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -66,9 +59,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3013_00_18
-      textHome: |-
-        Being together now, in this very moment,
-        is one big stroke of luck, right?
+      textHome: Being together now, in this very moment,@is one big stroke of luck,
+        right?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -80,9 +72,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301300
       motion: 0
-      textHome: |-
-        That's why I think of everyone who wants
-        to interact with me as irreplaceable.
+      textHome: That's why I think of everyone who wants@to interact with me as irreplaceable.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -159,10 +149,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3013_00_21
-      textHome: |-
-        There's a few tricks when it comes to baking,
-        but the most important point is
-        to measure the ingredients!
+      textHome: There's a few tricks when it comes to baking,@but the most important
+        point is@to measure the ingredients!
   - autoTurnFirst: 5
     chara:
     - id: 301300
@@ -190,10 +178,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3013_00_22
-      textHome: |-
-        I've realized I didn't have all the ingredients
-        when I was in the middle of baking and
-        thought, "Maybe this will work?"
+      textHome: I've realized I didn't have all the ingredients@when I was in the
+        middle of baking and@thought, "Maybe this will work?"
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -212,9 +198,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 301300
       motion: 0
-      textHome: |-
-        Putting my own spin on things is fun,
-        but it's best to follow the recipe.
+      textHome: Putting my own spin on things is fun,@but it's best to follow the
+        recipe.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -301,9 +286,7 @@ story:
     - cheek: 2
       face: mtn_ex_030.exp.json
       id: 301300
-      textHome: |-
-        Ah, this is kind of embarrassing!
-        *Giggle*
+      textHome: Ah, this is kind of embarrassing!@*Giggle*
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -345,9 +328,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301300
       motion: 300
-      textHome: |-
-        Ha ha ha, I'm always really hungry
-        when I wake up.
+      textHome: Ha ha ha, I'm always really hungry@when I wake up.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -376,9 +357,7 @@ story:
     chara:
     - id: 301300
       motion: 100
-      textHome: |-
-        I can't resist pudding and gelatin
-        when they have them!
+      textHome: I can't resist pudding and gelatin@when they have them!
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -401,10 +380,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3013_00_27
-      textHome: |-
-        The apartments get really busy around this
-        time. Kids coming home from school,
-        people coming back from shopping,
+      textHome: The apartments get really busy around this@time. Kids coming home
+        from school,@people coming back from shopping,
   - autoTurnFirst: 7.3
     chara:
     - id: 301300
@@ -456,10 +433,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3013_00_28
-      textHome: |-
-        The apartments get busy sometimes,
-        but if you look outside at night
-        it feels so quiet.
+      textHome: The apartments get busy sometimes,@but if you look outside at night@it
+        feels so quiet.
   - autoTurnFirst: 4.5
     chara:
     - eyeClose: 1
@@ -489,10 +464,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3013_00_29
-      textHome: |-
-        When I look out at the apartments,
-        I think about how many different people
-        are living in this small space.
+      textHome: When I look out at the apartments,@I think about how many different
+        people@are living in this small space.
   - autoTurnFirst: 2.5
     chara:
     - eyeClose: 0
@@ -557,9 +530,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 301300
       motion: 1
-      textHome: |-
-        I'd better be even more careful here,
-        to make sure I don't get swept away!
+      textHome: I'd better be even more careful here,@to make sure I don't get swept
+        away!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -610,18 +582,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3013_00_33
-      textHome: |-
-        You know how there's a cake
-        called a "madeleine"?
+      textHome: You know how there's a cake@called a "madeleine"?
   - autoTurnFirst: 4
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 301300
       motion: 100
-      textHome: |-
-        They say it's named after the
-        first person to make one.
+      textHome: They say it's named after the@first person to make one.
   - autoTurnFirst: 6
     chara:
     - cheek: 1
@@ -645,10 +613,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3013_00_34
-      textHome: |-
-        There's something about
-        really big buildings.
-        Maybe it's how they look?
+      textHome: There's something about@really big buildings.@Maybe it's how they
+        look?
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -665,9 +631,8 @@ story:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 301300
-      textHome: |-
-        Of course, I like looking out from
-        the top of tall buildings like those, too.
+      textHome: Of course, I like looking out from@the top of tall buildings like
+        those, too.
   - chara:
     - id: 301300
       textHomeStatus: Clear
@@ -684,9 +649,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3013_00_35
-      textHome: |-
-        I don't really like dark chocolate, so I always
-        end up choosing milk chocolate instead.
+      textHome: I don't really like dark chocolate, so I always@end up choosing milk
+        chocolate instead.
   - autoTurnFirst: 3
     chara:
     - id: 301300
@@ -714,9 +678,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3013_00_36
-      textHome: |-
-        I used to get yelled at for running up and
-        down the stairs when I was a kid...
+      textHome: I used to get yelled at for running up and@down the stairs when I
+        was a kid...
   - autoTurnFirst: 1.8
     chara:
     - cheek: 1
@@ -763,9 +726,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 301300
       motion: 100
-      textHome: |-
-        When springtime comes, all the cherry
-        blossom trees around the buildings bloom.
+      textHome: When springtime comes, all the cherry@blossom trees around the buildings
+        bloom.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -816,10 +778,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3013_00_38
-      textHome: |-
-        I've got a real weakness for whipped cream.
-        When I make it myself, I can't stop
-        taking little tastes of it!
+      textHome: I've got a real weakness for whipped cream.@When I make it myself,
+        I can't stop@taking little tastes of it!
   - autoTurnFirst: 2.8
     chara:
     - cheek: 1
@@ -848,18 +808,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3013_00_39
-      textHome: |-
-        Our apartment complex has a festival
-        every summer!
+      textHome: Our apartment complex has a festival@every summer!
   - autoTurnFirst: 3.8
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 301300
       motion: 0
-      textHome: |-
-        We all decorate together and
-        set up food stalls.
+      textHome: We all decorate together and@set up food stalls.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -883,10 +839,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3013_00_40
-      textHome: |-
-        I love making and eating cream puffs!
-        I like to fill them with custard and
-        whipped cream together!
+      textHome: I love making and eating cream puffs!@I like to fill them with custard
+        and@whipped cream together!
   - autoTurnFirst: 1.8
     chara:
     - id: 301300
@@ -913,9 +867,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3013_00_41
-      textHome: |-
-        I love sweets, but I like other snacks too!
-        Like squid and dried salmon and scallops!
+      textHome: I love sweets, but I like other snacks too!@Like squid and dried salmon
+        and scallops!
   - autoTurnFirst: 8
     chara:
     - cheek: 1
@@ -1206,9 +1159,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3013_00_14
-      textHome: |-
-        This is only a feeling,
-        but I think I just cleared a hurdle!
+      textHome: This is only a feeling,@but I think I just cleared a hurdle!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -1231,10 +1182,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3013_00_15
-      textHome: |-
-        It's going great!
-        Keep this up and things
-        will start coming together!
+      textHome: It's going great!@Keep this up and things@will start coming together!
   - chara:
     - id: 301300
       textHomeStatus: Clear
@@ -1251,9 +1199,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3013_00_16
-      textHome: |-
-        With Seika, Mito, and all my friends close by,
-        every day has been so much fun...
+      textHome: With Seika, Mito, and all my friends close by,@every day has been
+        so much fun...
   - autoTurnFirst: 4.5
     chara:
     - eyeClose: 0
@@ -1286,9 +1233,7 @@ story:
     chara:
     - eyeClose: 1
       id: 301300
-      textHome: |-
-        To all the friends who choose
-        to spend time with me...
+      textHome: To all the friends who choose@to spend time with me...
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0

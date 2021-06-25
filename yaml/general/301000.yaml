@@ -17,9 +17,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301000
       motion: 1
-      textHome: |-
-        As you can see,
-        I am blessed with good looks...
+      textHome: As you can see,@I am blessed with good looks...
   - autoTurnFirst: 4
     chara:
     - cheek: 2
@@ -33,10 +31,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 301000
       motion: 1
-      textHome: |-
-        So if you want me to appear in one
-        of your promotions please give
-        me the details well ahead of time.
+      textHome: So if you want me to appear in one@of your promotions please give@me
+        the details well ahead of time.
   - autoTurnFirst: 2.3
     chara:
     - cheek: 2
@@ -72,9 +68,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3010_00_18
-      textHome: |-
-        Here marks the birth of Ria Ami,
-        highest-ranking Magical Girl!
+      textHome: Here marks the birth of Ria Ami,@highest-ranking Magical Girl!
   - autoTurnFirst: 2
     chara:
     - cheek: 2
@@ -87,9 +81,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301000
       motion: 1
-      textHome: |-
-        Feel free to worship me to
-        your heart's content, everyone!
+      textHome: Feel free to worship me to@your heart's content, everyone!
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -138,9 +130,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3010_00_20
-      textHome: |-
-        These results reveal that I,
-        Ria Ami, am a goddess of beauty!
+      textHome: These results reveal that I,@Ria Ami, am a goddess of beauty!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -181,10 +171,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 301000
       motion: 1
-      textHome: |-
-        A future where supermodels, famous
-        actresses, everyone is so envious of my
-        beauty they'll gnaw on their handkerchiefs!
+      textHome: A future where supermodels, famous@actresses, everyone is so envious
+        of my@beauty they'll gnaw on their handkerchiefs!
   - autoTurnFirst: 1
     chara:
     - cheek: 2
@@ -216,10 +204,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3010_00_22
-      textHome: |-
-        I may have triumphed...
-        but my tireless work on my
-        beauty is never over.
+      textHome: I may have triumphed...@but my tireless work on my@beauty is never
+        over.
   - autoTurnFirst: 3.2
     chara:
     - cheek: 1
@@ -231,10 +217,8 @@ story:
     - cheek: 2
       face: mtn_ex_011.exp.json
       id: 301000
-      textHome: |-
-        For I work hard to make my dreams
-        come true...and that's where
-        my true beauty is!
+      textHome: For I work hard to make my dreams@come true...and that's where@my
+        true beauty is!
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -336,15 +320,13 @@ story:
       face: mtn_ex_020.exp.json
       id: 301000
       motion: 1
-      textHome: "No, you won't be seeing my \ngorgeous face yawning."
+      textHome: No, you won't be seeing my @gorgeous face yawning.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 301000
-      textHome: |-
-        Fresh out of bed or not,
-        my beauty never changes.
+      textHome: Fresh out of bed or not,@my beauty never changes.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 2
@@ -378,10 +360,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 301000
       motion: 1
-      textHome: |-
-        Times like this call for one thing
-        and one thing only:
-        a mega-huge serving of rice omelet!
+      textHome: Times like this call for one thing@and one thing only:@a mega-huge
+        serving of rice omelet!
   - autoTurnFirst: 5
     chara:
     - cheek: 2
@@ -405,9 +385,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3010_00_27
-      textHome: |-
-        My schedule is crammed full of
-        appointments with editors today.
+      textHome: My schedule is crammed full of@appointments with editors today.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 2
@@ -419,9 +397,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 301000
-      textHome: |-
-        Therefore, I don't have time for
-        idle chit-chat.
+      textHome: Therefore, I don't have time for@idle chit-chat.
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -472,9 +448,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301000
       motion: 0
-      textHome: |-
-        I must turn in and retire before
-        my own suffers
+      textHome: I must turn in and retire before@my own suffers
   - autoTurnFirst: 3.5
     chara:
     - cheek: 2
@@ -508,9 +482,7 @@ story:
     chara:
     - id: 301000
       motion: 400
-      textHome: |-
-        Tense your abdomen and you will
-        glide elegantly when you walk.
+      textHome: Tense your abdomen and you will@glide elegantly when you walk.
   - autoTurnFirst: 2.8
     chara:
     - cheek: 2
@@ -546,9 +518,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 301000
       motion: 0
-      textHome: |-
-        A beautiful girl like me will be joining you on
-        this venture, so would you please hurry?
+      textHome: A beautiful girl like me will be joining you on@this venture, so would
+        you please hurry?
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -650,9 +621,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3010_00_33
-      textHome: |-
-        It seems as though you've failed to
-        recognize my superiority.
+      textHome: It seems as though you've failed to@recognize my superiority.
   - autoTurnFirst: 4
     chara:
     - cheek: -1
@@ -665,9 +634,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 301000
       motion: 200
-      textHome: |-
-        Would you please take your jokes out
-        with the rest of the trash?!
+      textHome: Would you please take your jokes out@with the rest of the trash?!
   - chara:
     - id: 301000
       textHomeStatus: Clear
@@ -684,9 +651,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3010_00_34
-      textHome: |-
-        Well, I never! Don't you think that's a
-        few too many compliments?
+      textHome: Well, I never! Don't you think that's a@few too many compliments?
   - autoTurnFirst: 6
     chara:
     - id: 301000
@@ -708,8 +673,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3010_00_35
-      textHome: "That dress. Yes, it's very cute,\nbut possibly a little too much
-        so? "
+      textHome: 'That dress. Yes, it''s very cute,@but possibly a little too much
+        so? '
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -777,9 +742,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3010_00_37
-      textHome: |-
-        Manaka's about the only person ever who'd
-        come to me asking for meaningless favors.
+      textHome: Manaka's about the only person ever who'd@come to me asking for meaningless
+        favors.
   - autoTurnFirst: 2.3
     chara:
     - cheek: -1
@@ -792,9 +756,7 @@ story:
       eyeClose: 1
       face: mtn_ex_010.exp.json
       id: 301000
-      textHome: |-
-        That brazenness of hers...
-        I wish I had at least some of it.
+      textHome: That brazenness of hers...@I wish I had at least some of it.
   - autoTurnFirst: 0.01
     chara:
     - eyeClose: 0
@@ -844,18 +806,14 @@ story:
     chara:
     - id: 301000
       motion: 0
-      textHome: |-
-        You wouldn't be referring to
-        Yachiyo Nanami, would you?!
+      textHome: You wouldn't be referring to@Yachiyo Nanami, would you?!
   - autoTurnFirst: 6
     chara:
     - cheek: 2
       face: mtn_ex_020.exp.json
       id: 301000
       motion: 200
-      textHome: |-
-        Not another word!
-        Never mention that woman again!
+      textHome: Not another word!@Never mention that woman again!
   - chara:
     - id: 301000
       textHomeStatus: Clear
@@ -872,18 +830,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3010_00_39
-      textHome: |-
-        My greatest wish is to become a
-        supermodel who can exemplify
-        any outfit she wears.
+      textHome: My greatest wish is to become a@supermodel who can exemplify@any outfit
+        she wears.
   - autoTurnFirst: 1.2
     chara:
     - cheek: -1
       face: mtn_ex_050.exp.json
       id: 301000
-      textHome: |-
-        But I beg of you.
-        Nothing designed by Kanoko, please...
+      textHome: But I beg of you.@Nothing designed by Kanoko, please...
   - autoTurnFirst: 6
     chara:
     - cheek: -1
@@ -919,9 +873,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301000
       motion: 1
-      textHome: |-
-        Never once do they disturb the
-        natural order of things.
+      textHome: Never once do they disturb the@natural order of things.
   - chara:
     - id: 301000
       textHomeStatus: Clear
@@ -938,10 +890,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3010_00_41
-      textHome: |-
-        What was my wish to become a
-        Magical Girl?
-        What a trifling question!
+      textHome: What was my wish to become a@Magical Girl?@What a trifling question!
   - autoTurnFirst: 0.01
     chara:
     - eyeClose: 0
@@ -950,9 +899,7 @@ story:
     chara:
     - id: 301000
       motion: 200
-      textHome: |-
-        If I'm happy now that's what matters most.
-        I live for the present!
+      textHome: If I'm happy now that's what matters most.@I live for the present!
   - autoTurnFirst: 4
     chara:
     - id: 301000
@@ -1184,9 +1131,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3010_00_02
-      textHome: |-
-        I am Ria Ami, a goddess of grace and
-        poise who descended to Earth!
+      textHome: I am Ria Ami, a goddess of grace and@poise who descended to Earth!
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -1199,9 +1144,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 301000
       motion: 400
-      textHome: |-
-        ...Hey! Not that I'm not used to it,
-        but you mustn't stare at me so intensely!
+      textHome: '...Hey! Not that I''m not used to it,@but you mustn''t stare at me
+        so intensely!'
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -1229,9 +1173,7 @@ story:
     chara:
     - id: 301000
       motion: 400
-      textHome: |-
-        Let's keep moving ever
-        more beautifully forward!
+      textHome: Let's keep moving ever@more beautifully forward!
   - chara:
     - id: 301000
       textHomeStatus: Clear
@@ -1260,9 +1202,7 @@ story:
     chara:
     - id: 301000
       motion: 1
-      textHome: |-
-        Ohhh, I'm delighted!
-        I LOVE being the best!
+      textHome: Ohhh, I'm delighted!@I LOVE being the best!
   - chara:
     - id: 301000
       textHomeStatus: Clear
@@ -1279,9 +1219,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3010_00_15
-      textHome: |-
-        Well! I'm gorgeous enough
-        to make anyone's eyes widen!
+      textHome: Well! I'm gorgeous enough@to make anyone's eyes widen!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -1304,7 +1242,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3010_00_16
-      textHome: "Strength, elegance, and beauty;\nsuch is my predestined path... "
+      textHome: 'Strength, elegance, and beauty;@such is my predestined path... '
   - autoTurnFirst: 4.8
     chara:
     - cheek: 2
@@ -1316,9 +1254,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 301000
-      textHome: |-
-        As long as others need me,
-        I'll gladly continue down that road!
+      textHome: As long as others need me,@I'll gladly continue down that road!
   - autoTurnFirst: 5
     chara:
     - cheek: 2
@@ -1347,9 +1283,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 301000
-      textHome: |2-
-         I've conquered the realm of beauty,
-        so next up is the realm of Magical Girls!
+      textHome: ' I''ve conquered the realm of beauty,@so next up is the realm of
+        Magical Girls!'
   - autoTurnFirst: 1.8
     chara:
     - cheek: 2

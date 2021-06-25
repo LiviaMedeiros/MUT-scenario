@@ -182,9 +182,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 200451
       motion: 200
-      textHome: |-
-        Whatcha think? We can enjoy summer
-        to the max here, don'tcha think?
+      textHome: Whatcha think? We can enjoy summer@to the max here, don'tcha think?
   - chara:
     - id: 200451
       textHomeStatus: Clear
@@ -198,9 +196,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2004_51_25
-      textHome: |-
-        Mornin'! I got up real early so
-        I took a trip around the beach.
+      textHome: Mornin'! I got up real early so@I took a trip around the beach.
   - autoTurnFirst: 4.3
     chara:
     - cheek: 0
@@ -210,9 +206,7 @@ story:
     chara:
     - id: 200451
       motion: 100
-      textHome: |-
-        It's still not too hot yet,
-        and the breeze feels great.
+      textHome: It's still not too hot yet,@and the breeze feels great.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -245,10 +239,8 @@ story:
     chara:
     - id: 200451
       motion: 0
-      textHome: |-
-        It's fun playing on the shore,
-        but watching other people play from the
-        beach house isn't half bad either!
+      textHome: It's fun playing on the shore,@but watching other people play from
+        the@beach house isn't half bad either!
   - autoTurnFirst: 7.5
     chara:
     - id: 200451
@@ -278,18 +270,14 @@ story:
       face: mtn_ex_011.exp.json
       id: 200451
       motion: 100
-      textHome: |-
-        We're at the beach, so it'd be
-        a waste not to have seafood!
+      textHome: We're at the beach, so it'd be@a waste not to have seafood!
   - autoTurnFirst: 6.3
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200451
       motion: 1
-      textHome: |-
-        But you know, everything tastes
-        even better after a good swim.
+      textHome: But you know, everything tastes@even better after a good swim.
   - chara:
     - id: 200451
       textHomeStatus: Clear
@@ -321,9 +309,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2004_51_28
-      textHome: |-
-        We're at the beach at night,
-        and you know what that means!
+      textHome: We're at the beach at night,@and you know what that means!
   - autoTurnFirst: 2.4
     chara:
     - cheek: 1
@@ -356,9 +342,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2004_51_29
-      textHome: |-
-        You gotta be diligent about
-        reapplying sunscreen.
+      textHome: You gotta be diligent about@reapplying sunscreen.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -392,9 +376,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_2004_51_30
-      textHome: |-
-        Summer! The beach!
-        Snuffing out Witches!
+      textHome: Summer! The beach!@Snuffing out Witches!
   - autoTurnFirst: 3.3
     chara:
     - id: 200451
@@ -405,9 +387,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 200451
       motion: 0
-      textHome: |-
-        I might be in total summer mode,
-        but I'm not taking it easy on Witch hunts!
+      textHome: I might be in total summer mode,@but I'm not taking it easy on Witch
+        hunts!
   - autoTurnFirst: 3.8
     chara:
     - id: 200451
@@ -425,9 +406,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2004_51_31
-      textHome: |-
-        It's so hot, I wonder if these summer temps'll
-        tire my opponents out...
+      textHome: It's so hot, I wonder if these summer temps'll@tire my opponents out...
   - autoTurnFirst: 3
     chara:
     - id: 200451
@@ -438,9 +417,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 200451
       motion: 201
-      textHome: |-
-        Anyway! I'm gonna push through and
-        totally beat this heat!
+      textHome: Anyway! I'm gonna push through and@totally beat this heat!
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -529,9 +506,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2004_51_34
-      textHome: |-
-        Y'know that thing where you
-        yell "Ahhh!" into the fan?
+      textHome: Y'know that thing where you@yell "Ahhh!" into the fan?
   - autoTurnFirst: 1.5
     chara:
     - id: 200451
@@ -634,18 +609,14 @@ story:
       face: mtn_ex_011.exp.json
       id: 200451
       motion: 1
-      textHome: |-
-        I got a brand new one 'cause
-        we're all going to the beach.
+      textHome: I got a brand new one 'cause@we're all going to the beach.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
       face: mtn_ex_040.exp.json
       id: 200451
       motion: 100
-      textHome: |-
-        Maybe I'm too hyped up about it?
-        Ha ha!
+      textHome: Maybe I'm too hyped up about it?@Ha ha!
   - autoTurnFirst: 2.8
     chara:
     - cheek: 1
@@ -681,9 +652,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2004_51_38
-      textHome: |-
-        Madoka and Homura both look great
-        in their swimsuits.
+      textHome: Madoka and Homura both look great@in their swimsuits.
   - autoTurnFirst: 3.3
     chara:
     - cheek: 0
@@ -696,9 +665,7 @@ story:
       face: mtn_ex_040.exp.json
       id: 200451
       motion: 300
-      textHome: |-
-        But I just don't think
-        that kind of style suits me.
+      textHome: But I just don't think@that kind of style suits me.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -725,9 +692,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200451
       motion: 1
-      textHome: |-
-        She's aced the sexy look
-        AND the cute look in one go!
+      textHome: She's aced the sexy look@AND the cute look in one go!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -792,9 +757,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2004_51_41
-      textHome: |-
-        Oooh, what's up?
-        Entranced by my beauty in this outfit?
+      textHome: Oooh, what's up?@Entranced by my beauty in this outfit?
   - autoTurnFirst: 2
     chara:
     - cheek: 0

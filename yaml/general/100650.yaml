@@ -205,14 +205,12 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100600
-      textHome: "No matter how many times I come to beach,\r\nI always get so excited."
+      textHome: No matter how many times I come to beach,@I always get so excited.
   - autoTurnFirst: 2.5
     chara:
     - id: 100600
       motion: 400
-      textHome: |-
-        Forget how old we are,
-        let's just have some fun!
+      textHome: Forget how old we are,@let's just have some fun!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -231,9 +229,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1006_50_25
-      textHome: |-
-        A walk on the beach?
-        Such a wonderful invitation, it's just...
+      textHome: A walk on the beach?@Such a wonderful invitation, it's just...
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -287,9 +283,7 @@ story:
     - eyeClose: 1
       id: 100600
       motion: 100
-      textHome: |-
-        Listening to the waves, you lose
-        track of the world around you.
+      textHome: Listening to the waves, you lose@track of the world around you.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -309,18 +303,14 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1006_50_27
-      textHome: |-
-        We're going to have
-        nagashi somen for dinner.
+      textHome: We're going to have@nagashi somen for dinner.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100600
       motion: 100
-      textHome: |-
-        These cold noodles are
-        perfect for summer!
+      textHome: These cold noodles are@perfect for summer!
   - autoTurnFirst: 1.2
     chara:
     - cheek: 0
@@ -365,17 +355,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1006_50_28
-      textHome: |-
-        I always get this lonely feeling
-        when the fireworks end...
+      textHome: I always get this lonely feeling@when the fireworks end...
   - autoTurnFirst: 6.5
     chara:
     - eyeClose: 1
       id: 100600
       motion: 100
-      textHome: |-
-        As they explode and fizzle away,
-        it's just so sad...so beautiful.
+      textHome: As they explode and fizzle away,@it's just so sad...so beautiful.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -386,9 +372,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100600
       motion: 0
-      textHome: |-
-        I hope we can watch them
-        again next year too.
+      textHome: I hope we can watch them@again next year too.
   - chara:
     - id: 100650
       textHomeStatus: Clear
@@ -408,17 +392,14 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100600
-      textHome: |-
-        When it's this hot, it's hard to get
-        motivated to do anything.
+      textHome: When it's this hot, it's hard to get@motivated to do anything.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 100600
       motion: 300
-      textHome: "How about taking a nap in the shade\r\nuntil it gets a bit cooler
-        out."
+      textHome: How about taking a nap in the shade@until it gets a bit cooler out.
   - autoTurnFirst: 7
     chara:
     - cheek: 0
@@ -437,17 +418,15 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1006_50_30
-      textHome: |-
-        Even though we're having so much fun,
-        let's take a little break.
+      textHome: Even though we're having so much fun,@let's take a little break.
   - autoTurnFirst: 3.3
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100600
       motion: 200
-      textHome: "It seems a Witch has shown its face...\nLet's take care or it quickly,\r\nand
-        get right back to relaxing!"
+      textHome: It seems a Witch has shown its face...@Let's take care or it quickly,@and
+        get right back to relaxing!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -562,9 +541,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1006_50_34
-      textHome: |-
-        Oh! That shaved ice you have...
-        what flavor is it?
+      textHome: Oh! That shaved ice you have...@what flavor is it?
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -609,9 +586,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100600
       motion: 200
-      textHome: |-
-        Like I can do anything...
-        Like I can be anything...
+      textHome: Like I can do anything...@Like I can be anything...
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -659,8 +634,8 @@ story:
     chara:
     - id: 100600
       motion: 100
-      textHome: "There was this one time I ate an entire box\r\nof red bean buns in
-        a single day."
+      textHome: There was this one time I ate an entire box@of red bean buns in a
+        single day.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -676,9 +651,7 @@ story:
     - cheek: 0
       face: mtn_ex_031.exp.json
       id: 100600
-      textHome: |-
-        I guess that's not what you were
-        looking for, huh?
+      textHome: I guess that's not what you were@looking for, huh?
   - chara:
     - id: 100650
       textHomeStatus: Clear
@@ -692,9 +665,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1006_50_37
-      textHome: |-
-        Touka and Nemu said it was their
-        first time coming to the beach.
+      textHome: Touka and Nemu said it was their@first time coming to the beach.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -707,9 +678,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100600
-      textHome: |-
-        I'm glad I was able to bring them
-        here on such a nice day.
+      textHome: I'm glad I was able to bring them@here on such a nice day.
   - autoTurnFirst: 4
     chara:
     - id: 100600
@@ -775,9 +744,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100600
       motion: 300
-      textHome: |-
-        so comfortable...
-        I feel like I could almos— zZzzz
+      textHome: so comfortable...@I feel like I could almos— zZzzz
   - chara:
     - id: 100650
       textHomeStatus: Clear
@@ -802,9 +769,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100600
-      textHome: |-
-        Instead, how about we take
-        it easy right over here.
+      textHome: Instead, how about we take@it easy right over here.
   - chara:
     - id: 100650
       textHomeStatus: Clear
@@ -824,18 +789,15 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100600
-      textHome: |-
-        Seeing Yachan wearing it in that magazine,
-        I just knew I had to have it.
+      textHome: Seeing Yachan wearing it in that magazine,@I just knew I had to have
+        it.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
       face: mtn_ex_040.exp.json
       id: 100600
       motion: 300
-      textHome: |-
-        Um... Would you mind not
-        telling her about this?
+      textHome: Um... Would you mind not@telling her about this?
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -854,9 +816,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1006_50_41
-      textHome: |-
-        Bobbing up and down,
-        letting the waves take you...
+      textHome: Bobbing up and down,@letting the waves take you...
   - autoTurnFirst: 5
     chara:
     - cheek: 2
@@ -870,9 +830,7 @@ story:
     chara:
     - id: 100600
       motion: 200
-      textHome: |-
-        Relaxing on a float is the best
-        way to enjoy the ocean.
+      textHome: Relaxing on a float is the best@way to enjoy the ocean.
   - autoTurnFirst: 3
     chara:
     - cheek: 2

@@ -37,9 +37,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 260000
       motion: 1
-      textHome: |-
-        This isn't gonna stop me
-        from fightin', though...
+      textHome: This isn't gonna stop me@from fightin', though...
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -49,9 +47,7 @@ story:
     chara:
     - id: 260000
       motion: 0
-      textHome: |-
-        I'm still me, it's just this form
-        helps me to swim.
+      textHome: I'm still me, it's just this form@helps me to swim.
   - autoTurnFirst: 1.5
     chara:
     - id: 260000
@@ -119,9 +115,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2600_00_18
-      textHome: |-
-        Just relaxin' on a inflatable
-        ring isn't that bad.
+      textHome: Just relaxin' on a inflatable@ring isn't that bad.
   - autoTurnFirst: 6.5
     chara:
     - cheek: 0
@@ -137,9 +131,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 260000
       motion: 300
-      textHome: |2-
-         It's more relaxin' than the waves
-        at the beach.
+      textHome: ' It''s more relaxin'' than the waves@at the beach.'
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -186,9 +178,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_2600_00_20
-      textHome: |-
-        I'm surprised how well I can fight
-        with this beach ball.
+      textHome: I'm surprised how well I can fight@with this beach ball.
   - autoTurnFirst: 3
     chara:
     - id: 260000
@@ -207,9 +197,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2600_00_21
-      textHome: |-
-        When I told Mami how I fight usin' my
-        beach ball, she got so excited...
+      textHome: When I told Mami how I fight usin' my@beach ball, she got so excited...
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -226,9 +214,7 @@ story:
     chara:
     - id: 260000
       motion: 300
-      textHome: |-
-        Does beach volleyball really have
-        anything to do with battles?
+      textHome: Does beach volleyball really have@anything to do with battles?
   - chara:
     - id: 260000
       textHomeStatus: Clear
@@ -242,9 +228,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2600_00_22
-      textHome: |-
-        I never thought playin' beach volleyball
-        would help me during battles…
+      textHome: I never thought playin' beach volleyball@would help me during battles…
   - autoTurnFirst: 4.6
     chara:
     - cheek: 0
@@ -257,9 +241,7 @@ story:
       face: mtn_ex_051.exp.json
       id: 260000
       motion: 0
-      textHome: |-
-        I feel like I can see my enemies' movements
-        much better now.
+      textHome: I feel like I can see my enemies' movements@much better now.
   - autoTurnFirst: 5
     chara:
     - id: 260000
@@ -324,9 +306,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 260000
       motion: 1
-      textHome: |-
-        Since I have to wear this thing,
-        I might as well enjoy it while I can.
+      textHome: Since I have to wear this thing,@I might as well enjoy it while I
+        can.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -357,8 +338,8 @@ story:
     - eyeClose: 1
       id: 260000
       motion: 1
-      textHome: "I could go for a swim at the beach. \nFishin' by the river sounds
-        good too,\nthough.... "
+      textHome: 'I could go for a swim at the beach. @Fishin'' by the river sounds
+        good too,@though.... '
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -400,9 +381,7 @@ story:
     chara:
     - id: 260000
       motion: 0
-      textHome: |-
-        Madoka gave me some fresh
-        vegetables this morning.
+      textHome: Madoka gave me some fresh@vegetables this morning.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -423,9 +402,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2600_00_02
-      textHome: |-
-        I'm Kyoko Sakura. It's a long story,
-        but I'll be fightin' in a swimsuit...
+      textHome: I'm Kyoko Sakura. It's a long story,@but I'll be fightin' in a swimsuit...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -437,9 +414,7 @@ story:
     chara:
     - id: 260000
       motion: 100
-      textHome: |-
-        It's not really my thing, but it is pretty...
-        summery?
+      textHome: It's not really my thing, but it is pretty...@summery?
   - chara:
     - id: 260000
       textHomeStatus: Clear
@@ -453,9 +428,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2600_00_27
-      textHome: |-
-        It started rainin'…
-        Hopefully it gets a little cooler.
+      textHome: It started rainin'…@Hopefully it gets a little cooler.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -561,9 +534,7 @@ story:
     chara:
     - id: 260000
       motion: 0
-      textHome: |-
-        Don't think I'm any weaker just
-        'cause I'm in a swimsuit...
+      textHome: Don't think I'm any weaker just@'cause I'm in a swimsuit...
   - autoTurnFirst: 2
     chara:
     - id: 260000
@@ -594,10 +565,8 @@ story:
       face: mtn_ex_001.exp.json
       id: 260000
       motion: 0
-      textHome: |-
-        I heard it's not totally the same,
-        but fightin' a copy of my normal Magical Girl
-        form might be fun.
+      textHome: I heard it's not totally the same,@but fightin' a copy of my normal
+        Magical Girl@form might be fun.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -634,18 +603,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2600_00_33
-      textHome: |-
-        Let me know if there's a good way
-        to fall asleep on a hot night.
+      textHome: Let me know if there's a good way@to fall asleep on a hot night.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 260000
       motion: 300
-      textHome: |-
-        It was so hot, I couldn't get
-        comfortable until late…
+      textHome: It was so hot, I couldn't get@comfortable until late…
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -673,10 +638,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2600_00_34
-      textHome: |-
-        Oh, you found some shade
-        under this tree too.
-        It's great, isn't it? It's a bit cooler.
+      textHome: Oh, you found some shade@under this tree too.@It's great, isn't it?
+        It's a bit cooler.
   - autoTurnFirst: 7
     chara:
     - cheek: 0
@@ -701,7 +664,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2600_00_35
-      textHome: "I hear some drums.\nMaybe there's a festival goin' on? "
+      textHome: 'I hear some drums.@Maybe there''s a festival goin'' on? '
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -713,9 +676,7 @@ story:
     chara:
     - id: 260000
       motion: 200
-      textHome: |-
-        There might be some unusual
-        stalls to check out.
+      textHome: There might be some unusual@stalls to check out.
   - chara:
     - id: 260000
       textHomeStatus: Clear
@@ -736,10 +697,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 260000
       motion: 1
-      textHome: |-
-        All different kinds of sea snails, barnacles,
-        clams… Boilin' them in their shells
-        is the best way to go.
+      textHome: All different kinds of sea snails, barnacles,@clams… Boilin' them
+        in their shells@is the best way to go.
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -778,14 +737,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2600_00_37
-      textHome: "I'm not a fan of that watermelon\nsmashin' game... "
+      textHome: 'I''m not a fan of that watermelon@smashin'' game... '
   - autoTurnFirst: 5.5
     chara:
     - id: 260000
       motion: 1
-      textHome: |-
-        If a Magical Girl hits it, it's just
-        gonna fly everywhere...
+      textHome: If a Magical Girl hits it, it's just@gonna fly everywhere...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -841,9 +798,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2600_00_39
-      textHome: |-
-        Hmm, I did think she might
-        be good at swimmin'…
+      textHome: Hmm, I did think she might@be good at swimmin'…
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -875,7 +830,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2600_00_40
-      textHome: "I can borrow a fishin' rod from\nHomura or just go divin'… "
+      textHome: 'I can borrow a fishin'' rod from@Homura or just go divin''… '
   - autoTurnFirst: 2.5
     chara:
     - eyeClose: 1
@@ -927,9 +882,7 @@ story:
       face: mtn_ex_051.exp.json
       id: 260000
       motion: 400
-      textHome: |-
-        Wh-what do you want?
-        Is it weird that I stretch before swimmin'?
+      textHome: Wh-what do you want?@Is it weird that I stretch before swimmin'?
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -1137,7 +1090,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2600_00_13
-      textHome: "I'm startin' to get used to\nusin' this beach ball... "
+      textHome: 'I''m startin'' to get used to@usin'' this beach ball... '
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1203,9 +1156,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2600_00_16
-      textHome: |-
-        Sayaka invited me to go to the
-        swimmin' pool, but is it really worth it?
+      textHome: Sayaka invited me to go to the@swimmin' pool, but is it really worth
+        it?
   - autoTurnFirst: 3.5
     chara:
     - id: 260000
@@ -1216,9 +1168,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 260000
       motion: 1
-      textHome: |-
-        I mean, you can just go to the beach,
-         and it's free.
+      textHome: I mean, you can just go to the beach,@ and it's free.
   - chara:
     - id: 260000
       textHomeStatus: Clear

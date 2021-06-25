@@ -9,16 +9,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1012_00_01
-      textHome: |-
-        I'm the Magical Girl born of Halloween,
-        Magical Karin.
+      textHome: I'm the Magical Girl born of Halloween,@Magical Karin.
   - autoTurnFirst: 3.5
     chara:
     - id: 101200
       motion: 0
-      textHome: |-
-        If you give me candy, I'll do my
-        Trick-and-Treat thing and play a trick on you!
+      textHome: If you give me candy, I'll do my@Trick-and-Treat thing and play a
+        trick on you!
   - autoTurnFirst: 3.2
     chara:
     - id: 101200
@@ -35,8 +32,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101200
-      textHome: "That's right, not Trick-OR-Treat, AND.\nYou gimme something good,\nAND
-        I'll \"trick\" a Witch and beat it good! "
+      textHome: 'That''s right, not Trick-OR-Treat, AND.@You gimme something good,@AND
+        I''ll "trick" a Witch and beat it good! '
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -65,10 +62,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1012_00_18
-      textHome: |-
-        "Phantom Thief Magical Kirin,
-        Issue 30: The Trick and Treat Miracle!
-        An Exorcism of Demons"
+      textHome: '"Phantom Thief Magical Kirin,@Issue 30: The Trick and Treat Miracle!@An
+        Exorcism of Demons"'
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -102,9 +97,7 @@ story:
     - cheek: 0
       face: mtn_ex_022.exp.json
       id: 101200
-      textHome: |-
-        I have wrought fresh flames of purgatory
-        upon this blood-red pumpkin!
+      textHome: I have wrought fresh flames of purgatory@upon this blood-red pumpkin!
   - autoTurnFirst: 2
     chara:
     - id: 101200
@@ -124,10 +117,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1012_00_20
-      textHome: |-
-        Everyone was around to help me get
-        stronger, and now I'm strong enough
-        to help 'em all back!
+      textHome: Everyone was around to help me get@stronger, and now I'm strong enough@to
+        help 'em all back!
   - autoTurnFirst: 4
     chara:
     - id: 101200
@@ -159,9 +150,7 @@ story:
     chara:
     - id: 101200
       motion: 200
-      textHome: |-
-        I can proudly say that
-        I fight for everyone's sake!
+      textHome: I can proudly say that@I fight for everyone's sake!
   - chara:
     - id: 101200
       textHomeStatus: Clear
@@ -191,19 +180,15 @@ story:
       face: mtn_ex_022.exp.json
       id: 101200
       motion: 100
-      textHome: |-
-        Blessed with the power of Halloween
-        AND the full moon, I am a Magical Girl
-        from the spirit realm!
+      textHome: Blessed with the power of Halloween@AND the full moon, I am a Magical
+        Girl@from the spirit realm!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 101200
       motion: 1
-      textHome: |-
-        With this silver scythe in hand,
-        I reap the souls of Witches!
+      textHome: With this silver scythe in hand,@I reap the souls of Witches!
   - autoTurnFirst: 2
     chara:
     - id: 101200
@@ -275,9 +260,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101200
-      textHome: |-
-        So you've come to see the Magical Girl
-        born of Halloween, Magical Karin, again?
+      textHome: So you've come to see the Magical Girl@born of Halloween, Magical
+        Karin, again?
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -305,16 +289,12 @@ story:
     chara:
     - id: 101200
       motion: 0
-      textHome: |-
-        Once I start reading manga,
-        it's impossible to stop.
+      textHome: Once I start reading manga,@it's impossible to stop.
   - autoTurnFirst: 5
     chara:
     - id: 101200
       motion: 100
-      textHome: |-
-        Just having them on my bookshelf
-        means I'll be up all night...
+      textHome: Just having them on my bookshelf@means I'll be up all night...
   - chara:
     - id: 101200
       textHomeStatus: Clear
@@ -337,9 +317,7 @@ story:
       face: mtn_ex_040.exp.json
       id: 101200
       motion: 300
-      textHome: |-
-        I just spent my entire morning
-        drawing without realizing it...
+      textHome: I just spent my entire morning@drawing without realizing it...
   - autoTurnFirst: 5.5
     chara:
     - cheek: 1
@@ -369,18 +347,14 @@ story:
       face: mtn_ex_011.exp.json
       id: 101200
       motion: 200
-      textHome: |-
-        My favorite meal is obviously
-        pumpkin soup...
+      textHome: My favorite meal is obviously@pumpkin soup...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 101200
       motion: 0
-      textHome: |-
-        Sorry, I lied.
-        It's actually my mom's beef stew.
+      textHome: Sorry, I lied.@It's actually my mom's beef stew.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -447,9 +421,7 @@ story:
       face: mtn_ex_052.exp.json
       id: 101200
       motion: 0
-      textHome: |-
-        Looks like I won't be getting
-        any sleep again tonight!
+      textHome: Looks like I won't be getting@any sleep again tonight!
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -472,9 +444,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1012_00_29
-      textHome: |-
-        Acting as Magical Karin makes me think
-        that cosplaying could be really fun too.
+      textHome: Acting as Magical Karin makes me think@that cosplaying could be really
+        fun too.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -508,18 +479,14 @@ story:
     chara:
     - id: 101200
       motion: 0
-      textHome: |-
-        Which means there might be a
-        Magical Girl struggling to fight it...
+      textHome: Which means there might be a@Magical Girl struggling to fight it...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101200
       motion: 1
-      textHome: |-
-        *Giggle*
-        This is a job for Magical Karin!
+      textHome: '*Giggle*@This is a job for Magical Karin!'
   - autoTurnFirst: 3.5
     chara:
     - id: 101200
@@ -544,9 +511,7 @@ story:
     chara:
     - id: 101200
       motion: 100
-      textHome: |-
-        Things won't go so well if
-        I meet a copy of myself.
+      textHome: Things won't go so well if@I meet a copy of myself.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -594,17 +559,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1012_00_33
-      textHome: |-
-        Halloween is a day when this world is
-        connected to the underworld,
-        letting in all sorts of monsters!
+      textHome: Halloween is a day when this world is@connected to the underworld,@letting
+        in all sorts of monsters!
   - autoTurnFirst: 3
     chara:
     - id: 101200
       motion: 100
-      textHome: |-
-        I heard that's the reason why we dress up
-        to look like them!
+      textHome: I heard that's the reason why we dress up@to look like them!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -625,18 +586,15 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1012_00_34
-      textHome: |-
-        I heard that people hand out candy so that
-        the monsters don't enter their homes.
+      textHome: I heard that people hand out candy so that@the monsters don't enter
+        their homes.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101200
       motion: 200
-      textHome: |-
-        I guess I'll spare anyone
-        who gives me some candy!
+      textHome: I guess I'll spare anyone@who gives me some candy!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -657,17 +615,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1012_00_35
-      textHome: |-
-        I thought my grandma would end up like
-        Jack... That she wouldn't be able to
-        enter heaven or hell,
+      textHome: I thought my grandma would end up like@Jack... That she wouldn't be
+        able to@enter heaven or hell,
   - autoTurnFirst: 5
     chara:
     - id: 101200
       motion: 100
-      textHome: |-
-        and end up roaming around
-        carrying a lantern...
+      textHome: and end up roaming around@carrying a lantern...
   - chara:
     - id: 101200
       textHomeStatus: Clear
@@ -683,18 +637,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1012_00_36
-      textHome: |-
-        Ummmmmm,
-        I don't know the best way to describe this...
+      textHome: Ummmmmm,@I don't know the best way to describe this...
   - autoTurnFirst: 5.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101200
       motion: 0
-      textHome: |-
-        Do you know any manga that are upbeat
-        and romantic, but also suspenseful?
+      textHome: Do you know any manga that are upbeat@and romantic, but also suspenseful?
   - autoTurnFirst: 3
     chara:
     - id: 101200
@@ -714,19 +664,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1012_00_37
-      textHome: |-
-        People tell me I'm easygoing,
-        but I really can't stand loud noise.
+      textHome: People tell me I'm easygoing,@but I really can't stand loud noise.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 101200
       motion: 100
-      textHome: |-
-        That's why I feel most relaxed
-        when I'm with Alina, who's always
-        just quietly drawing.
+      textHome: That's why I feel most relaxed@when I'm with Alina, who's always@just
+        quietly drawing.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -767,9 +713,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1012_00_38
-      textHome: |-
-        Yachiyo is cool yet caring, and Alina is
-        blunt and totally mysterious.
+      textHome: Yachiyo is cool yet caring, and Alina is@blunt and totally mysterious.
   - autoTurnFirst: 3
     chara:
     - id: 101200
@@ -780,9 +724,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 101200
       motion: 0
-      textHome: |-
-        Their personalities are completely different,
-        but they're both really amazing.
+      textHome: Their personalities are completely different,@but they're both really
+        amazing.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -804,16 +747,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1012_00_39
-      textHome: |-
-        Any time I face adversity,
-        I think of my grandma.
+      textHome: Any time I face adversity,@I think of my grandma.
   - autoTurnFirst: 8.5
     chara:
     - id: 101200
       motion: 100
-      textHome: |-
-        She had a hard life, but she always faced
-        her own weaknesses... She's amazing!
+      textHome: She had a hard life, but she always faced@her own weaknesses... She's
+        amazing!
   - chara:
     - id: 101200
       textHomeStatus: Clear
@@ -829,10 +769,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1012_00_40
-      textHome: |-
-        When I hear about grownups' lives,
-        I realize that my happiness is built on
-        a lot of people's struggles.
+      textHome: When I hear about grownups' lives,@I realize that my happiness is
+        built on@a lot of people's struggles.
   - autoTurnFirst: 5
     chara:
     - id: 101200
@@ -870,9 +808,7 @@ story:
     - cheek: 0
       face: mtn_ex_022.exp.json
       id: 101200
-      textHome: |-
-        I am the other face of Magical Karin,
-        Cynical Karin...
+      textHome: I am the other face of Magical Karin,@Cynical Karin...
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -940,9 +876,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1012_00_44
-      textHome: |-
-        There's nothing this scythe
-        can't cut down!
+      textHome: There's nothing this scythe@can't cut down!
   - chara:
     - id: 101200
       textHomeStatus: Clear
@@ -958,9 +892,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1012_00_45
-      textHome: |-
-        If you bring me candy next time,
-        I'll let ya slide!
+      textHome: If you bring me candy next time,@I'll let ya slide!
   - chara:
     - id: 101200
       textHomeStatus: Clear
@@ -976,9 +908,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1012_00_46
-      textHome: |-
-        This is the power of a demon
-        from the underworld!
+      textHome: This is the power of a demon@from the underworld!
   - chara:
     - id: 101200
       textHomeStatus: Clear
@@ -1073,9 +1003,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1012_00_02
-      textHome: |-
-        I am Magical Karin...
-        the Magical Girl born of Halloween!
+      textHome: I am Magical Karin...@the Magical Girl born of Halloween!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1087,9 +1015,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 101200
       motion: 0
-      textHome: |-
-        That's the persona I, Karin Misono,
-        adopt when fighting! Nice to meet you!
+      textHome: That's the persona I, Karin Misono,@adopt when fighting! Nice to meet
+        you!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -1110,9 +1037,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1012_00_13
-      textHome: |-
-        Alina makes fun of my pictures,
-        but I think I'm a bit better at drawing now!
+      textHome: Alina makes fun of my pictures,@but I think I'm a bit better at drawing
+        now!
   - autoTurnFirst: 4
     chara:
     - id: 101200
@@ -1159,9 +1085,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1012_00_15
-      textHome: |-
-        This is just one page of my story...
-        It'll connect everyone together...
+      textHome: This is just one page of my story...@It'll connect everyone together...
   - chara:
     - id: 101200
       textHomeStatus: Clear
@@ -1177,17 +1101,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1012_00_16
-      textHome: |-
-        Um, there's this manga...
-        called Phantom Thief Magical Kirin.
+      textHome: Um, there's this manga...@called Phantom Thief Magical Kirin.
   - autoTurnFirst: 3.5
     chara:
     - id: 101200
       motion: 100
-      textHome: |-
-        It's a manga I have precious memories of
-        because it's what helped me get close
-        to my grandma!
+      textHome: It's a manga I have precious memories of@because it's what helped
+        me get close@to my grandma!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -1208,17 +1128,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1012_00_17
-      textHome: |-
-        Phantom Thief Magical Kirin
-        is jam-packed with excitement!
+      textHome: Phantom Thief Magical Kirin@is jam-packed with excitement!
   - autoTurnFirst: 3
     chara:
     - id: 101200
       motion: 100
-      textHome: |-
-        Like, she has to crush demons so she can
-        win back these stolen holy items from them,
-        and the main villain is the boy she likes...
+      textHome: Like, she has to crush demons so she can@win back these stolen holy
+        items from them,@and the main villain is the boy she likes...
   - autoTurnFirst: 2
     chara:
     - id: 101200

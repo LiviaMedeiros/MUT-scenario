@@ -10,9 +10,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3035_00_01
-      textHome: |-
-        I'm Riko Chiaki, I work at Chiaki's,
-        the neighborhood bento shop!
+      textHome: I'm Riko Chiaki, I work at Chiaki's,@the neighborhood bento shop!
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
@@ -30,9 +28,7 @@ story:
     chara:
     - id: 303500
       motion: 1
-      textHome: |-
-        My dad, mom, and teachers say
-        I'm very well-behaved!
+      textHome: My dad, mom, and teachers say@I'm very well-behaved!
   - autoTurnFirst: 2.6
     chara:
     - cheek: 0
@@ -45,9 +41,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 303500
       motion: 0
-      textHome: |-
-        Our shop's best bento has
-        fried chicken and a healthy salad!
+      textHome: Our shop's best bento has@fried chicken and a healthy salad!
   - autoTurnFirst: 1.8
     chara:
     - id: 303500
@@ -82,9 +76,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 303500
       motion: 1
-      textHome: |-
-        That's why when I'm helping out there,
-        it's like family time.
+      textHome: That's why when I'm helping out there,@it's like family time.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -110,18 +102,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3035_00_18
-      textHome: |-
-        The shop needs to be cleaned
-        in the evening, so Dad's at home then!
+      textHome: The shop needs to be cleaned@in the evening, so Dad's at home then!
   - autoTurnFirst: 3.1
     chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 303500
       motion: 300
-      textHome: |-
-        This is kind of embarrassing, but...
-        sometimes we still take a bath together.
+      textHome: This is kind of embarrassing, but...@sometimes we still take a bath
+        together.
   - autoTurnFirst: 2.4
     chara:
     - cheek: 1
@@ -147,9 +136,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3035_00_19
-      textHome: |-
-        I'll use my color pick to make things
-        even prettier!
+      textHome: I'll use my color pick to make things@even prettier!
   - autoTurnFirst: 1.6
     chara:
     - cheek: 0
@@ -174,9 +161,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3035_00_20
-      textHome: |-
-        Spin 'round, and ta-da!
-        See, I look different now, right?!
+      textHome: Spin 'round, and ta-da!@See, I look different now, right?!
   - autoTurnFirst: 1.4
     chara:
     - cheek: 0
@@ -205,9 +190,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3035_00_21
-      textHome: |-
-        I think I'll run the shop like my mom one day,
-        so I have to become a strong woman!
+      textHome: I think I'll run the shop like my mom one day,@so I have to become
+        a strong woman!
   - autoTurnFirst: 2.2
     chara:
     - cheek: 0
@@ -241,17 +225,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3035_00_22
-      textHome: |-
-        Miss K from next door always
-        looked after me.
+      textHome: Miss K from next door always@looked after me.
   - autoTurnFirst: 3
     chara:
     - id: 303500
       motion: 0
-      textHome: |-
-        My dream is to be kind and have a
-        wonderful smile like her, and help look
-        after her baby like she did for me.
+      textHome: My dream is to be kind and have a@wonderful smile like her, and help
+        look@after her baby like she did for me.
   - autoTurnFirst: 3.8
     chara:
     - eyeClose: 1
@@ -406,10 +386,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 303500
       motion: 0
-      textHome: |-
-        The Chiaki bento shop puts a lot of
-        hard work into making these,
-        so leaving leftovers is not allowed.
+      textHome: The Chiaki bento shop puts a lot of@hard work into making these,@so
+        leaving leftovers is not allowed.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -429,9 +407,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3035_00_26
-      textHome: |-
-        I really shine when I've got
-        lunch duty at school!
+      textHome: I really shine when I've got@lunch duty at school!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -444,9 +420,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 303500
       motion: 0
-      textHome: |-
-        But I always give extra big servings, so
-        the teacher gets a little mad sometimes...
+      textHome: But I always give extra big servings, so@the teacher gets a little
+        mad sometimes...
   - autoTurnFirst: 4
     chara:
     - id: 303500
@@ -481,17 +456,13 @@ story:
       face: mtn_ex_010.exp.json
       id: 303500
       motion: 0
-      textHome: |-
-        I'm proud of having lots of energy
-        and being well-behaved!
+      textHome: I'm proud of having lots of energy@and being well-behaved!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 303500
-      textHome: |-
-        I always try my hardest,
-        so I won't let you down!
+      textHome: I always try my hardest,@so I won't let you down!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -516,10 +487,8 @@ story:
     chara:
     - id: 303500
       motion: 1
-      textHome: |-
-        Night time gets pretty crazy with
-        Dad coming home from work,
-        Mom doing the shopping,
+      textHome: Night time gets pretty crazy with@Dad coming home from work,@Mom doing
+        the shopping,
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -540,9 +509,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3035_00_28
-      textHome: |-
-        It's a little lonely at night, but I get that
-        Mom and Dad are working really hard.
+      textHome: It's a little lonely at night, but I get that@Mom and Dad are working
+        really hard.
   - autoTurnFirst: 5.3
     chara:
     - id: 303500
@@ -553,9 +521,8 @@ story:
       eyeClose: 1
       face: mtn_ex_010.exp.json
       id: 303500
-      textHome: |-
-        Plus, I feel better when Mameji snuggles up
-        and sniffs me, so it's okay.
+      textHome: Plus, I feel better when Mameji snuggles up@and sniffs me, so it's
+        okay.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -581,9 +548,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 303500
-      textHome: |2-
-         I have lots of friends even though
-        I'm so busy.
+      textHome: ' I have lots of friends even though@I''m so busy.'
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -604,25 +569,19 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3035_00_30
-      textHome: |-
-        Wow, is that what it feels like
-        when a Witch is close by?!
+      textHome: Wow, is that what it feels like@when a Witch is close by?!
   - autoTurnFirst: 3.9
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 303500
       motion: 0
-      textHome: |2-
-         I already know, where there's a Witch,
-        people are in danger!
+      textHome: ' I already know, where there''s a Witch,@people are in danger!'
   - autoTurnFirst: 5
     chara:
     - id: 303500
       motion: 200
-      textHome: |-
-        I better get rid of it before I go
-        help at the shop!
+      textHome: I better get rid of it before I go@help at the shop!
   - chara:
     - id: 303500
       textHomeStatus: Clear
@@ -636,9 +595,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3035_00_31
-      textHome: |-
-        Umm, is it really okay for Magical Girls
-        to fight each other?
+      textHome: Umm, is it really okay for Magical Girls@to fight each other?
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -731,9 +688,7 @@ story:
     - cheek: 1
       face: mtn_ex_020.exp.json
       id: 303500
-      textHome: |-
-        Sh-shiitake mushrooms are fine
-        if I pinch my nose...
+      textHome: Sh-shiitake mushrooms are fine@if I pinch my nose...
   - autoTurnFirst: 3.3
     chara:
     - eyeClose: 1
@@ -785,10 +740,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 303500
       motion: 1
-      textHome: |-
-        That's my technique for bagging bentos.
-        The trick is to stick your hand in and
-        do a whoosh and open it!
+      textHome: That's my technique for bagging bentos.@The trick is to stick your
+        hand in and@do a whoosh and open it!
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -822,7 +775,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 303500
       motion: 100
-      textHome: "That's where Miss K used to live!\nI love her! "
+      textHome: 'That''s where Miss K used to live!@I love her! '
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -833,9 +786,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 303500
       motion: 0
-      textHome: |-
-        She moved far away, so I don't
-        get to see her very much.
+      textHome: She moved far away, so I don't@get to see her very much.
   - autoTurnFirst: 4.2
     chara:
     - id: 303500
@@ -853,9 +804,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3035_00_36
-      textHome: |-
-        Weeell... I'm pretty good at doing
-        fractions in math, but reading is so tough...
+      textHome: Weeell... I'm pretty good at doing@fractions in math, but reading
+        is so tough...
   - autoTurnFirst: 2.3
     chara:
     - eyeClose: 1
@@ -868,9 +818,7 @@ story:
     chara:
     - id: 303500
       motion: 0
-      textHome: |2-
-         Like here, can you tell me
-        how to say this word?
+      textHome: ' Like here, can you tell me@how to say this word?'
   - autoTurnFirst: 3
     chara:
     - id: 303500
@@ -949,9 +897,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3035_00_38
-      textHome: |-
-        Ah, the girl from the bamboo studio
-        is a regular at our shop..
+      textHome: Ah, the girl from the bamboo studio@is a regular at our shop..
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -989,9 +935,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3035_00_39
-      textHome: |-
-        Hmmm, if I compared them to food...
-        Mayu is like soft, fluffy cotton candy!
+      textHome: Hmmm, if I compared them to food...@Mayu is like soft, fluffy cotton
+        candy!
   - autoTurnFirst: 3.6
     chara:
     - cheek: 0
@@ -1031,9 +976,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 303500
       motion: 200
-      textHome: |-
-        She's great at cooking, she's a chef,
-        I respect her so much!
+      textHome: She's great at cooking, she's a chef,@I respect her so much!
   - autoTurnFirst: 2.1
     chara:
     - cheek: 0
@@ -1061,9 +1004,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3035_00_41
-      textHome: |-
-        My mom and dad said they first met
-        each other at the Chiaki bento shop.
+      textHome: My mom and dad said they first met@each other at the Chiaki bento
+        shop.
   - autoTurnFirst: 3.8
     chara:
     - cheek: 0
@@ -1076,10 +1018,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 303500
       motion: 1
-      textHome: |-
-        Gee, I wonder if my Prince Charming
-        will turn out to be a customer, too...
-        *Giggle*
+      textHome: Gee, I wonder if my Prince Charming@will turn out to be a customer,
+        too...@*Giggle*
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1099,9 +1039,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3035_00_42
-      textHome: |-
-        Leave the bento bagging
-        and the Witch fighting to me!
+      textHome: Leave the bento bagging@and the Witch fighting to me!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -1141,9 +1079,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3035_00_44
-      textHome: |-
-        A smile is key, whether working
-        at the shop or fighting Witches!
+      textHome: A smile is key, whether working@at the shop or fighting Witches!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1163,9 +1099,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3035_00_45
-      textHome: |-
-        What do you think?!
-        Am I kinda like Miss K now?
+      textHome: What do you think?!@Am I kinda like Miss K now?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1313,9 +1247,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3035_00_13
-      textHome: |-
-        I don't just bag things.
-        I do lots of stuff, I'm really growing!
+      textHome: I don't just bag things.@I do lots of stuff, I'm really growing!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1335,9 +1267,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3035_00_14
-      textHome: |-
-        Since I'm doing this well, maybe my mom
-        will teach me some cooking!
+      textHome: Since I'm doing this well, maybe my mom@will teach me some cooking!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -1356,9 +1286,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3035_00_15
-      textHome: |-
-        Let's take a bento to the park and chat.
-        Mameji's coming too.
+      textHome: Let's take a bento to the park and chat.@Mameji's coming too.
   - autoTurnFirst: 1.8
     chara:
     - cheek: 0
@@ -1390,9 +1318,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3035_00_16
-      textHome: |-
-        The bento shop opens
-        really early in the morning!
+      textHome: The bento shop opens@really early in the morning!
   - autoTurnFirst: 3.4
     chara:
     - cheek: 0

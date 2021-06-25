@@ -19,9 +19,8 @@ story:
     chara:
     - id: 303300
       motion: 100
-      textHome: |-
-        It's me, your beloved blade-bearing beauty!
-        Sayuki Fumino, cutting iiin!
+      textHome: It's me, your beloved blade-bearing beauty!@Sayuki Fumino, cutting
+        iiin!
   - autoTurnFirst: 2.8
     chara:
     - cheek: 1
@@ -34,9 +33,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 303300
       motion: 300
-      textHome: |-
-        Whew! Wait, no, I messed up.
-        This isn't a stage...
+      textHome: Whew! Wait, no, I messed up.@This isn't a stage...
   - autoTurnFirst: 3.8
     chara:
     - eyeClose: 1
@@ -66,10 +63,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 303300
       motion: 100
-      textHome: |-
-        My favorite things are swords and,
-        er, history about swords!
-        Nice to meet you!
+      textHome: My favorite things are swords and,@er, history about swords!@Nice
+        to meet you!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -93,19 +88,16 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3033_00_17
-      textHome: |-
-        The Raikirimaru, or "Thundercutter",
-        got its name by protecting its wielder,
-        Tachibana Dosetsu, from a bolt of lightning.
+      textHome: The Raikirimaru, or "Thundercutter",@got its name by protecting its
+        wielder,@Tachibana Dosetsu, from a bolt of lightning.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 303300
       motion: 100
-      textHome: |-
-        You can kind of feel the power of a
-        guardian deity emanating from it.
+      textHome: You can kind of feel the power of a@guardian deity emanating from
+        it.
   - chara:
     - id: 303300
       textHomeStatus: Clear
@@ -119,9 +111,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3033_00_18
-      textHome: |-
-        Oda Nobunaga, Toyotomi Hideyoshi...
-        and then Tokugawa Ieyasu.
+      textHome: Oda Nobunaga, Toyotomi Hideyoshi...@and then Tokugawa Ieyasu.
   - autoTurnFirst: 4.3
     chara:
     - id: 303300
@@ -130,9 +120,7 @@ story:
     chara:
     - id: 303300
       motion: 100
-      textHome: |-
-        Soza Samonji was held by
-        all three of those heroes!
+      textHome: Soza Samonji was held by@all three of those heroes!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -152,7 +140,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3033_00_19
-      textHome: "I've grown! Not just as a \nMagical Girl, but as an idol too!"
+      textHome: I've grown! Not just as a @Magical Girl, but as an idol too!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -197,9 +185,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3033_00_21
-      textHome: |-
-        No matter what kind of work I take on,
-        concerts are my favorite.
+      textHome: No matter what kind of work I take on,@concerts are my favorite.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -217,9 +203,8 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 303300
-      textHome: |-
-        That's when I get to share precious time
-        with all my fans and have fun together!
+      textHome: That's when I get to share precious time@with all my fans and have
+        fun together!
   - autoTurnFirst: 3
     chara:
     - id: 303300
@@ -244,10 +229,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 303300
       motion: 1
-      textHome: |-
-        But there's one thing I can beat
-        any other idol at, and that's
-        my bond with my fans!
+      textHome: But there's one thing I can beat@any other idol at, and that's@my
+        bond with my fans!
   - autoTurnFirst: 3.7
     chara:
     - cheek: 1
@@ -260,9 +243,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 303300
       motion: 300
-      textHome: |-
-        They're just as warm and supportive
-        as real friends.
+      textHome: They're just as warm and supportive@as real friends.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -310,9 +291,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3033_00_24
-      textHome: |-
-        Your fate was sealed the moment we met
-        here, so how do you want to be cut down?
+      textHome: Your fate was sealed the moment we met@here, so how do you want to
+        be cut down?
   - autoTurnFirst: 4.3
     chara:
     - id: 303300
@@ -358,9 +338,7 @@ story:
     chara:
     - id: 303300
       motion: 1
-      textHome: |-
-        I had a nice big breakfast...
-        Rice with miso soup and pickles...
+      textHome: I had a nice big breakfast...@Rice with miso soup and pickles...
   - autoTurnFirst: 4.5
     chara:
     - cheek: 1
@@ -435,9 +413,7 @@ story:
     chara:
     - id: 303300
       motion: 100
-      textHome: |-
-        I may not look it, but
-        I'm Mizuna's local idol girl!
+      textHome: I may not look it, but@I'm Mizuna's local idol girl!
   - chara:
     - id: 303300
       textHomeStatus: Clear
@@ -463,9 +439,7 @@ story:
     chara:
     - id: 303300
       motion: 1
-      textHome: |-
-        I can't remember foreign words
-        if they're longer than two syllables...
+      textHome: I can't remember foreign words@if they're longer than two syllables...
   - autoTurnFirst: 2.5
     chara:
     - eyeClose: 1
@@ -488,9 +462,8 @@ story:
     chara:
     - id: 303300
       motion: 100
-      textHome: |-
-        If you're still awake in the middle of the
-        night, the belly button monster'll get you...
+      textHome: If you're still awake in the middle of the@night, the belly button
+        monster'll get you...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -511,9 +484,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3033_00_29
-      textHome: |-
-        Are you free? Then we can read
-        "The Complete History of Swords"!
+      textHome: Are you free? Then we can read@"The Complete History of Swords"!
   - autoTurnFirst: 3.8
     chara:
     - id: 303300
@@ -529,9 +500,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 303300
       motion: 300
-      textHome: |-
-        There's articles and photos of
-        all kinds of swords. It's incredible!
+      textHome: There's articles and photos of@all kinds of swords. It's incredible!
   - autoTurnFirst: 6
     chara:
     - cheek: 1
@@ -551,9 +520,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3033_00_30
-      textHome: |-
-        Hwahah!
-        It's time to go out and hunt Witches!
+      textHome: Hwahah!@It's time to go out and hunt Witches!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -587,9 +554,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3033_00_31
-      textHome: |-
-        Nghhh...
-        I'm so nervous my tummy's starting to hurt.
+      textHome: Nghhh...@I'm so nervous my tummy's starting to hurt.
   - autoTurnFirst: 5.5
     chara:
     - eyeClose: 0
@@ -598,9 +563,8 @@ story:
     chara:
     - id: 303300
       motion: 300
-      textHome: |-
-        I get lost on a normal road, so who knows
-        what'll happen in a house of mirrors!
+      textHome: I get lost on a normal road, so who knows@what'll happen in a house
+        of mirrors!
   - autoTurnFirst: 4.5
     chara:
     - id: 303300
@@ -656,9 +620,8 @@ story:
     chara:
     - id: 303300
       motion: 300
-      textHome: |-
-        Obviously they're gorgeous, but each one
-        has such history and passion attached to it...
+      textHome: Obviously they're gorgeous, but each one@has such history and passion
+        attached to it...
   - autoTurnFirst: 6.5
     chara:
     - cheek: 1
@@ -685,10 +648,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3033_00_34
-      textHome: |-
-        My manager came up with the
-        "blade-bearing beauty"
-        catchphrase for me...
+      textHome: My manager came up with the@"blade-bearing beauty"@catchphrase for
+        me...
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -705,9 +666,7 @@ story:
     chara:
     - id: 303300
       motion: 100
-      textHome: |-
-        But doesn't it make me sound
-        kind of dangerous?
+      textHome: But doesn't it make me sound@kind of dangerous?
   - autoTurnFirst: 3
     chara:
     - id: 303300
@@ -725,9 +684,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3033_00_35
-      textHome: |-
-        I've always loved singing
-        ever since I was small!
+      textHome: I've always loved singing@ever since I was small!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -740,9 +697,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 303300
       motion: 1
-      textHome: |-
-        Though, when I was in choir I always got
-        yelled at for singing too loudly...
+      textHome: Though, when I was in choir I always got@yelled at for singing too
+        loudly...
   - autoTurnFirst: 2
     chara:
     - eyeClose: 1
@@ -765,10 +721,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3033_00_36
-      textHome: |-
-        My latest song lyrics are about a girl
-        who told the one she loves that
-        she hates him.
+      textHome: My latest song lyrics are about a girl@who told the one she loves
+        that@she hates him.
   - autoTurnFirst: 2.3
     chara:
     - id: 303300
@@ -836,9 +790,7 @@ story:
     chara:
     - id: 303300
       motion: 100
-      textHome: |-
-        Kyubey's a really strange kind of animal,
-        isn't he?
+      textHome: Kyubey's a really strange kind of animal,@isn't he?
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -873,9 +825,7 @@ story:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 303300
-      textHome: |-
-        Hee hee,
-        I'm so happy they gave me a nickname!
+      textHome: Hee hee,@I'm so happy they gave me a nickname!
   - autoTurnFirst: 3.4
     chara:
     - id: 303300
@@ -893,10 +843,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3033_00_39
-      textHome: |-
-        They're planning to make an idol glow stick
-        based on me, but when I asked them to
-        make it sword-sized they said no...
+      textHome: They're planning to make an idol glow stick@based on me, but when
+        I asked them to@make it sword-sized they said no...
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -922,9 +870,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3033_00_40
-      textHome: |-
-        I go to museums with Mayu
-        a lot on my days off.
+      textHome: I go to museums with Mayu@a lot on my days off.
   - autoTurnFirst: 2.3
     chara:
     - id: 303300
@@ -934,9 +880,7 @@ story:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 303300
-      textHome: |-
-        We check out all the
-        swords and paintings there.
+      textHome: We check out all the@swords and paintings there.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 1
@@ -989,9 +933,7 @@ story:
     chara:
     - id: 303300
       motion: 1
-      textHome: |-
-        I love swords, but I'm really bad
-        at swordsmanship...
+      textHome: I love swords, but I'm really bad@at swordsmanship...
   - autoTurnFirst: 4.5
     chara:
     - eyeClose: 1
@@ -1009,9 +951,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3033_00_42
-      textHome: |-
-        Off to battle! Let's have a fair fight!
-        Got it?
+      textHome: Off to battle! Let's have a fair fight!@Got it?
   - autoTurnFirst: 1.2
     chara:
     - id: 303300
@@ -1087,9 +1027,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3033_00_46
-      textHome: |-
-        I am forever indebted to you...
-        Pfft, just kidding!
+      textHome: I am forever indebted to you...@Pfft, just kidding!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1226,9 +1164,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303300
-      textHome: |-
-        ...I don't think I'm getting any better
-        at these dance steps.
+      textHome: '...I don''t think I''m getting any better@at these dance steps.'
   - autoTurnFirst: 4
     chara:
     - id: 303300
@@ -1253,9 +1189,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 303300
       motion: 200
-      textHome: |-
-        I could probably conquer the land
-        with this power, huh?
+      textHome: I could probably conquer the land@with this power, huh?
   - chara:
     - id: 303300
       textHomeStatus: Clear
@@ -1269,9 +1203,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3033_00_15
-      textHome: |-
-        No... The history of Sayuki Fumino,
-        local idol, is still being written!
+      textHome: No... The history of Sayuki Fumino,@local idol, is still being written!
   - autoTurnFirst: 2
     chara:
     - id: 303300
@@ -1303,10 +1235,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 303300
       motion: 1
-      textHome: |-
-        Y'know, I think Hosokawa Tadaoki favored
-        the Kasen Kanesada katana because
-        it shared his qualities!
+      textHome: Y'know, I think Hosokawa Tadaoki favored@the Kasen Kanesada katana
+        because@it shared his qualities!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1

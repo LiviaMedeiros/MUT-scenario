@@ -9,26 +9,21 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2001_00_01
-      textHome: |-
-        There's still so many things I have to learn,
-        but Mami's teaching me all kinds of stuff,
+      textHome: There's still so many things I have to learn,@but Mami's teaching
+        me all kinds of stuff,
   - autoTurnFirst: 6.5
     chara:
     - id: 200100
       motion: 100
-      textHome: |-
-        so I might become the kind of Magical Girl
-        who can help everyone out! Hopefully I'm
-        putting in effort in my own way...
+      textHome: so I might become the kind of Magical Girl@who can help everyone out!
+        Hopefully I'm@putting in effort in my own way...
   - autoTurnFirst: 2
     chara:
     - cheek: -1
       face: mtn_ex_051.exp.json
       id: 200100
       motion: 400
-      textHome: |-
-        Wait, "hopefully" isn't enough, is it?
-        I'm trying my best!
+      textHome: Wait, "hopefully" isn't enough, is it?@I'm trying my best!
   - autoTurnFirst: 1.5
     chara:
     - cheek: -1
@@ -40,9 +35,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200100
       motion: 100
-      textHome: |-
-        And, right, Mami even complimented me
-        on my good work earlier!
+      textHome: And, right, Mami even complimented me@on my good work earlier!
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -70,9 +63,8 @@ story:
     - cheek: -1
       face: mtn_ex_041.exp.json
       id: 200100
-      textHome: |-
-        They're always arguing with each other,
-        but they're actually really close!
+      textHome: They're always arguing with each other,@but they're actually really
+        close!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -116,9 +108,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2001_00_20
-      textHome: |-
-        Strange... It's like I can see everything
-        around me much more clearly now.
+      textHome: Strange... It's like I can see everything@around me much more clearly
+        now.
   - autoTurnFirst: 5
     chara:
     - id: 200100
@@ -138,19 +129,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2001_00_21
-      textHome: |-
-        At home, my mom goes out to work
-        and my dad takes care of everything
-        around the house.
+      textHome: At home, my mom goes out to work@and my dad takes care of everything@around
+        the house.
   - autoTurnFirst: 4
     chara:
     - cheek: -1
       face: mtn_ex_011.exp.json
       id: 200100
       motion: 100
-      textHome: |2-
-         So my dad's a house-husband!
-        They both get along really well.
+      textHome: ' So my dad''s a house-husband!@They both get along really well.'
   - chara:
     - id: 200100
       textHomeStatus: Clear
@@ -179,9 +166,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 200100
       motion: 300
-      textHome: |-
-        That's why I want to help them
-        whenever something happens.
+      textHome: That's why I want to help them@whenever something happens.
   - autoTurnFirst: 6
     chara:
     - cheek: -1
@@ -193,9 +178,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 200100
       motion: 200
-      textHome: |-
-        If it's a Witch that's to blame,
-        I'll do whatever I can to take care of it!
+      textHome: If it's a Witch that's to blame,@I'll do whatever I can to take care
+        of it!
   - chara:
     - id: 200100
       textHomeStatus: Clear
@@ -267,9 +251,7 @@ story:
     - cheek: 2
       face: mtn_ex_011.exp.json
       id: 200100
-      textHome: |-
-        It's always more fun when
-        everyone is together. Let's go!
+      textHome: It's always more fun when@everyone is together. Let's go!
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -291,9 +273,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2001_00_25
-      textHome: |-
-        Good morning!
-        Wakey-wakey, time to get up!
+      textHome: Good morning!@Wakey-wakey, time to get up!
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -306,9 +286,7 @@ story:
       face: mtn_ex_051.exp.json
       id: 200100
       motion: 300
-      textHome: |-
-        Me? Yeah, I slept really well.
-        That's why I'm so energetic now!
+      textHome: Me? Yeah, I slept really well.@That's why I'm so energetic now!
   - autoTurnFirst: 2
     chara:
     - cheek: 2
@@ -343,8 +321,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 200100
       motion: 100
-      textHome: "Today I've got an omelette, fried chicken, \nand vegetables... Yum...
-        This is so good!"
+      textHome: Today I've got an omelette, fried chicken, @and vegetables... Yum...
+        This is so good!
   - autoTurnFirst: 1.5
     chara:
     - cheek: -1
@@ -376,9 +354,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2001_00_27
-      textHome: |-
-        Kazuko-sensei looked really happy talking
-        about her boyfriend again today.
+      textHome: Kazuko-sensei looked really happy talking@about her boyfriend again
+        today.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -422,9 +399,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2001_00_28
-      textHome: |-
-        Right!
-        I need to prepare for tomorrow's classes.
+      textHome: Right!@I need to prepare for tomorrow's classes.
   - autoTurnFirst: 2.5
     chara:
     - cheek: -1
@@ -465,9 +440,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2001_00_29
-      textHome: |-
-        It feels like such a short time
-        since I became a Magical Girl,
+      textHome: It feels like such a short time@since I became a Magical Girl,
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -502,10 +475,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2001_00_30
-      textHome: |-
-        Homura has been a very close friend ever
-        since we got to know each other on her
-        first day when she transferred to our school.
+      textHome: Homura has been a very close friend ever@since we got to know each
+        other on her@first day when she transferred to our school.
   - autoTurnFirst: 3
     chara:
     - id: 200100
@@ -537,8 +508,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2001_00_31
-      textHome: "I know they're not real, but it still feels \na bit weird fighting
-        other Magical Girls..."
+      textHome: I know they're not real, but it still feels @a bit weird fighting
+        other Magical Girls...
   - autoTurnFirst: 6.3
     chara:
     - cheek: -1
@@ -557,9 +528,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 200100
-      textHome: |-
-        I should just think of it as
-        practice for fighting Witches!
+      textHome: I should just think of it as@practice for fighting Witches!
   - autoTurnFirst: 4
     chara:
     - cheek: 2
@@ -636,9 +605,8 @@ story:
       face: mtn_ex_040.exp.json
       id: 200100
       motion: 100
-      textHome: |-
-        She told me, as a girl, I can't ever let anyone
-        underestimate me just because of how I look.
+      textHome: She told me, as a girl, I can't ever let anyone@underestimate me just
+        because of how I look.
   - autoTurnFirst: 3
     chara:
     - cheek: -1
@@ -692,9 +660,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200100
       motion: 300
-      textHome: |-
-        Teacher asked us in class,
-        and the answer is...
+      textHome: Teacher asked us in class,@and the answer is...
   - autoTurnFirst: 2
     chara:
     - cheek: 2
@@ -727,7 +693,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2001_00_35
-      textHome: "I wonder what kind of person \nI'll be when I grow up..."
+      textHome: I wonder what kind of person @I'll be when I grow up...
   - autoTurnFirst: 4
     chara:
     - cheek: -1
@@ -806,8 +772,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 200100
       motion: 200
-      textHome: "But when I think about who I'm fighting \nfor, it gives me the courage
-        to keep going."
+      textHome: But when I think about who I'm fighting @for, it gives me the courage
+        to keep going.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -861,9 +827,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 200100
       motion: 100
-      textHome: |-
-        I'm just happy when I can
-        help others, like Mami.
+      textHome: I'm just happy when I can@help others, like Mami.
   - autoTurnFirst: 4
     chara:
     - cheek: 2
@@ -884,9 +848,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2001_00_39
-      textHome: |-
-        Sayaka has been so happy since
-        her wish healed Kyosuke's hands.
+      textHome: Sayaka has been so happy since@her wish healed Kyosuke's hands.
   - autoTurnFirst: 3
     chara:
     - id: 200100
@@ -1180,18 +1142,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2001_00_02
-      textHome: |-
-        I'm Madoka Kaname!
-        You can call me Madoka, okay?
+      textHome: I'm Madoka Kaname!@You can call me Madoka, okay?
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200100
       motion: 300
-      textHome: |-
-        It hasn't been too long since I became
-        a Magical Girl, but I'm doing my best!
+      textHome: It hasn't been too long since I became@a Magical Girl, but I'm doing
+        my best!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1213,9 +1172,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2001_00_13
-      textHome: |-
-        Am I a bit stronger now?
-        Yeah, I'm sure of it!
+      textHome: Am I a bit stronger now?@Yeah, I'm sure of it!
   - autoTurnFirst: 4
     chara:
     - cheek: 2
@@ -1252,9 +1209,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2001_00_15
-      textHome: |-
-        Mami told me that my magic will
-        just get more and more powerful!
+      textHome: Mami told me that my magic will@just get more and more powerful!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 2
@@ -1275,17 +1230,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2001_00_16
-      textHome: |-
-        I never even held a bow before
-        becoming a Magical Girl.
+      textHome: I never even held a bow before@becoming a Magical Girl.
   - autoTurnFirst: 2.5
     chara:
     - cheek: -1
       face: mtn_ex_041.exp.json
       id: 200100
-      textHome: |-
-        The first time I held it I was at a total loss,
-        but now I'm fine! I can use it perfectly!
+      textHome: The first time I held it I was at a total loss,@but now I'm fine!
+        I can use it perfectly!
   - autoTurnFirst: 5.5
     chara:
     - cheek: 1
@@ -1307,9 +1259,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2001_00_17
-      textHome: |-
-        Isn't it cool how Homura can stop time?!
-        I wish I could do that.
+      textHome: Isn't it cool how Homura can stop time?!@I wish I could do that.
   - autoTurnFirst: 4
     chara:
     - cheek: 2
@@ -1321,9 +1271,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 200100
       motion: 0
-      textHome: |-
-        If I could freeze an enemy still I could shoot
-        it with as many arrows as I wanted!
+      textHome: If I could freeze an enemy still I could shoot@it with as many arrows
+        as I wanted!
   - autoTurnFirst: 4
     chara:
     - cheek: 2

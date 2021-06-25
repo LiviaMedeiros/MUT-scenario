@@ -10,10 +10,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4021_00_01
-      textHome: |-
-        I am Darc... I heard the call of God's
-        emissary and was granted the power
-        to bring light to all of France.
+      textHome: I am Darc... I heard the call of God's@emissary and was granted the
+        power@to bring light to all of France.
   - autoTurnFirst: 4.5
     chara:
     - id: 402100
@@ -23,9 +21,7 @@ story:
     - face: mtn_ex_050.exp.json
       id: 402100
       motion: 400
-      textHome: |-
-        Ah, but don't be mistaken,
-        I'm not as important as all that!
+      textHome: Ah, but don't be mistaken,@I'm not as important as all that!
   - autoTurnFirst: 4
     chara:
     - face: mtn_ex_011.exp.json
@@ -37,9 +33,7 @@ story:
     - face: mtn_ex_010.exp.json
       id: 402100
       motion: 100
-      textHome: |-
-        If you were to call me Darc,
-        it would please me very much.
+      textHome: If you were to call me Darc,@it would please me very much.
   - autoTurnFirst: 2
     chara:
     - face: mtn_ex_011.exp.json
@@ -60,9 +54,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4021_00_18
-      textHome: |-
-        One day, our battles will end, and God
-        will permit us to leave the battlefield...
+      textHome: One day, our battles will end, and God@will permit us to leave the
+        battlefield...
   - autoTurnFirst: 6
     chara:
     - id: 402100
@@ -110,9 +103,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4021_00_20
-      textHome: |-
-        I owe it to the strength of others
-        that I have made it this far.
+      textHome: I owe it to the strength of others@that I have made it this far.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -134,10 +125,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4021_00_21
-      textHome: |-
-        Liz always says that I am her equal,
-        but could I truly stand alongside her
-        at this level?
+      textHome: Liz always says that I am her equal,@but could I truly stand alongside
+        her@at this level?
   - autoTurnFirst: 3.5
     chara:
     - face: mtn_ex_011.exp.json
@@ -173,17 +162,13 @@ story:
     chara:
     - id: 402100
       motion: 100
-      textHome: |-
-        That is why I refused to resent those
-        who stood against me as my enemies...
+      textHome: That is why I refused to resent those@who stood against me as my enemies...
   - autoTurnFirst: 7.5
     chara:
     - face: mtn_ex_020.exp.json
       id: 402100
       motion: 300
-      textHome: |-
-        But I cannot forgive those
-        who seek to destroy everything.
+      textHome: But I cannot forgive those@who seek to destroy everything.
   - autoTurnLast: 2
     chara:
     - id: 402100
@@ -327,9 +312,7 @@ story:
     chara:
     - id: 402100
       motion: 0
-      textHome: |-
-        It reminds me of the days
-        I spent in my village.
+      textHome: It reminds me of the days@I spent in my village.
   - autoTurnFirst: 5
     chara:
     - id: 402100
@@ -356,17 +339,13 @@ story:
     chara:
     - face: mtn_ex_010.exp.json
       id: 402100
-      textHome: |-
-        No matter what Melissa prepares,
-        it always tastes great...
+      textHome: No matter what Melissa prepares,@it always tastes great...
   - autoTurnFirst: 4.5
     chara:
     - face: mtn_ex_011.exp.json
       id: 402100
       motion: 100
-      textHome: |-
-        I wonder what she'll serve today?
-        I can't wait!
+      textHome: I wonder what she'll serve today?@I can't wait!
   - chara:
     - id: 402100
       textHomeStatus: Clear
@@ -409,9 +388,8 @@ story:
     - face: mtn_ex_030.exp.json
       id: 402100
       motion: 1
-      textHome: |-
-        but Liz and Melissa are always telling
-        me I should definitely not drink.
+      textHome: but Liz and Melissa are always telling@me I should definitely not
+        drink.
   - autoTurnFirst: 2.5
     chara:
     - id: 402100
@@ -438,9 +416,7 @@ story:
     chara:
     - face: mtn_ex_010.exp.json
       id: 402100
-      textHome: |-
-        Ah, I was just practicing my
-        swordsmanship.
+      textHome: Ah, I was just practicing my@swordsmanship.
   - autoTurnFirst: 2
     chara:
     - face: mtn_ex_011.exp.json
@@ -478,9 +454,7 @@ story:
     chara:
     - id: 402100
       motion: 1
-      textHome: |-
-        I will not rest until the rightful king
-        sits on his throne.
+      textHome: I will not rest until the rightful king@sits on his throne.
   - autoTurnFirst: 3
     chara:
     - id: 402100
@@ -501,16 +475,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4021_00_31
-      textHome: |-
-        So we must battle Magical Girls
-        that bear our own faces...
+      textHome: So we must battle Magical Girls@that bear our own faces...
   - autoTurnFirst: 4
     chara:
     - id: 402100
       motion: 300
-      textHome: |-
-        I will stand against anything that
-        threatens my wish to save my country.
+      textHome: I will stand against anything that@threatens my wish to save my country.
   - autoTurnFirst: 3
     chara:
     - face: mtn_ex_020.exp.json
@@ -566,10 +536,8 @@ story:
     - face: mtn_ex_030.exp.json
       id: 402100
       motion: 300
-      textHome: |-
-        I-is it really? They told me to come up
-        with a design, so I had it embroidered
-        with an image of Monsieur Angel...
+      textHome: I-is it really? They told me to come up@with a design, so I had it
+        embroidered@with an image of Monsieur Angel...
   - autoTurnFirst: 3
     chara:
     - id: 402100
@@ -590,16 +558,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4021_00_34
-      textHome: "This outfit was presented to me \nby the people of Vaucouleurs, \nwhen
-        I was making the trip to Chignon."
+      textHome: This outfit was presented to me @by the people of Vaucouleurs, @when
+        I was making the trip to Chignon.
   - autoTurnFirst: 2
     chara:
     - face: mtn_ex_010.exp.json
       id: 402100
       motion: 100
-      textHome: |-
-        It's so lovely, I cannot express
-        my gratitude enough...
+      textHome: It's so lovely, I cannot express@my gratitude enough...
   - autoTurnFirst: 2.5
     chara:
     - face: mtn_ex_011.exp.json
@@ -620,17 +586,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4021_00_35
-      textHome: |-
-        I believe my true fate is to act according
-        to the words of Monsieur Angel.
+      textHome: I believe my true fate is to act according@to the words of Monsieur
+        Angel.
   - autoTurnFirst: 5.5
     chara:
     - eyeClose: 1
       id: 402100
       motion: 1
-      textHome: |-
-        That day, in front of Catherine's grave,
-        I carved that vow into my heart.
+      textHome: That day, in front of Catherine's grave,@I carved that vow into my
+        heart.
   - chara:
     - id: 402100
       textHomeStatus: Clear
@@ -652,10 +616,8 @@ story:
     chara:
     - id: 402100
       motion: 1
-      textHome: |-
-        When I first met her I thought
-        she was much older than me...
-        She's just so very mature and reliable.
+      textHome: When I first met her I thought@she was much older than me...@She's
+        just so very mature and reliable.
   - autoTurnFirst: 3
     chara:
     - face: mtn_ex_011.exp.json
@@ -683,10 +645,8 @@ story:
     - face: mtn_ex_010.exp.json
       id: 402100
       motion: 1
-      textHome: |-
-        The very fact that Monsieur Angel can
-        transmute an intangible thing like the
-        spirit into a jewel proves that he is an angel!
+      textHome: The very fact that Monsieur Angel can@transmute an intangible thing
+        like the@spirit into a jewel proves that he is an angel!
   - autoTurnFirst: 3
     chara:
     - id: 402100
@@ -733,9 +693,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4021_00_38
-      textHome: |-
-        Liz has always been one to
-        fuss over me like an older sister.
+      textHome: Liz has always been one to@fuss over me like an older sister.
   - autoTurnFirst: 2.5
     chara:
     - eyeClose: 1
@@ -746,9 +704,7 @@ story:
     - eyeClose: 0
       id: 402100
       motion: 100
-      textHome: |-
-        I cannot even begin to thank her
-        for all she's done.
+      textHome: I cannot even begin to thank her@for all she's done.
   - autoTurnFirst: 3
     chara:
     - face: mtn_ex_011.exp.json
@@ -769,7 +725,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4021_00_39
-      textHome: "Liz taught me how to handle a sword\nback when we were in the village... "
+      textHome: 'Liz taught me how to handle a sword@back when we were in the village... '
   - autoTurnFirst: 5
     chara:
     - id: 402100
@@ -778,9 +734,7 @@ story:
     chara:
     - id: 402100
       motion: 201
-      textHome: |-
-        I started learning so I could better
-        protect myself...and my sister.
+      textHome: I started learning so I could better@protect myself...and my sister.
   - autoTurnFirst: 2.5
     chara:
     - face: mtn_ex_011.exp.json
@@ -801,9 +755,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4021_00_40
-      textHome: |-
-        I didn't want anyone else to see the horrors
-        I saw when my village was attacked.
+      textHome: I didn't want anyone else to see the horrors@I saw when my village
+        was attacked.
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -833,16 +786,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4021_00_41
-      textHome: |-
-        This sword, the "Épée de Clovis",
-        lay dormant in Saint Catherine's Church.
+      textHome: This sword, the "Épée de Clovis",@lay dormant in Saint Catherine's
+        Church.
   - autoTurnFirst: 4
     chara:
     - id: 402100
       motion: 1
-      textHome: |-
-        A church named for a saint with the same
-        name as my sister... It must have been fate.
+      textHome: A church named for a saint with the same@name as my sister... It must
+        have been fate.
   - autoTurnFirst: 3
     chara:
     - face: mtn_ex_011.exp.json
@@ -1044,9 +995,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4021_00_02
-      textHome: |-
-        My name is Darc,
-        and it is a delight to meet you.
+      textHome: My name is Darc,@and it is a delight to meet you.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -1055,10 +1004,8 @@ story:
       id: 402100
       motion: 100
       pos: 1
-      textHome: |-
-        "Darc" is the name Monsieur Angel
-        bestowed upon me, and now all my
-        friends address me by it.
+      textHome: '"Darc" is the name Monsieur Angel@bestowed upon me, and now all my@friends
+        address me by it.'
   - autoTurnFirst: 2.1
     chara:
     - cheek: 0
@@ -1086,9 +1033,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4021_00_13
-      textHome: |-
-        Now I should be able to wield
-        my magic more skillfully.
+      textHome: Now I should be able to wield@my magic more skillfully.
   - autoTurnFirst: 4
     chara:
     - face: mtn_ex_011.exp.json
@@ -1110,9 +1055,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4021_00_14
-      textHome: |-
-        With this I can keep my magic
-        under perfect control!
+      textHome: With this I can keep my magic@under perfect control!
   - chara:
     - id: 402100
       textHomeStatus: Clear
@@ -1129,10 +1072,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4021_00_15
-      textHome: |-
-        When I think back now...
-        it feels like it was so very,
-        very long ago.
+      textHome: When I think back now...@it feels like it was so very,@very long ago.
   - chara:
     - id: 402100
       textHomeStatus: Clear
@@ -1154,10 +1094,8 @@ story:
     chara:
     - id: 402100
       motion: 1
-      textHome: |-
-        The wish I had before becoming a Magical
-        Girl was no more than happiness and peace
-        for my treasured family and fellow villagers.
+      textHome: The wish I had before becoming a Magical@Girl was no more than happiness
+        and peace@for my treasured family and fellow villagers.
   - autoTurnFirst: 6.1
     chara:
     - id: 402100
@@ -1182,9 +1120,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4021_00_17
-      textHome: |-
-        Catherine saved my life, and I used
-        that life to become a Magical Girl.
+      textHome: Catherine saved my life, and I used@that life to become a Magical
+        Girl.
   - autoTurnFirst: 6
     chara:
     - eyeClose: 1

@@ -264,9 +264,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101000
       motion: 1
-      textHome: |-
-        Let's replenish those fluids and salts
-        before we talk!
+      textHome: Let's replenish those fluids and salts@before we talk!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -293,9 +291,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101000
       motion: 1
-      textHome: |-
-        Watermelon splitting, beach volleyball,
-        sand sculptures?
+      textHome: Watermelon splitting, beach volleyball,@sand sculptures?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -308,9 +304,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101000
-      textHome: |-
-        Ah, swimmin' a marathon's
-        always an option, too!
+      textHome: Ah, swimmin' a marathon's@always an option, too!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -337,18 +331,15 @@ story:
       face: mtn_ex_010.exp.json
       id: 101000
       motion: 1
-      textHome: |-
-        Here, yakisoba, okonomiyaki, and takoyaki.
-        Plus some fried chicken and kebabs...
+      textHome: Here, yakisoba, okonomiyaki, and takoyaki.@Plus some fried chicken
+        and kebabs...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_041.exp.json
       id: 101000
       motion: 300
-      textHome: |-
-        Lots of brown stuff like usual,
-        yeah, but it's all tasty!
+      textHome: Lots of brown stuff like usual,@yeah, but it's all tasty!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -390,9 +381,7 @@ story:
     chara:
     - id: 101000
       motion: 100
-      textHome: |-
-        It's the same sun as always,
-        but somehow it feels special here...
+      textHome: It's the same sun as always,@but somehow it feels special here...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -474,16 +463,12 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1010_51_29
-      textHome: |-
-        I wanna go somewhere summery
-        with the gals sometime soon!
+      textHome: I wanna go somewhere summery@with the gals sometime soon!
   - autoTurnFirst: 3.2
     chara:
     - id: 101000
       motion: 1
-      textHome: |-
-        We can play in the sea, have barbecues,
-        set fireworks, sleep!
+      textHome: We can play in the sea, have barbecues,@set fireworks, sleep!
   - autoTurnFirst: 1.3
     chara:
     - cheek: 0
@@ -514,16 +499,12 @@ story:
       face: mtn_ex_010.exp.json
       id: 101000
       motion: 100
-      textHome: |-
-        We're headed to the Kamihama
-        Community Pool today.
+      textHome: We're headed to the Kamihama@Community Pool today.
   - autoTurnFirst: 3.5
     chara:
     - id: 101000
       motion: 1
-      textHome: |-
-        Rena's gonna try out the water slide,
-        but I think...I'm gonna pass.
+      textHome: Rena's gonna try out the water slide,@but I think...I'm gonna pass.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -543,9 +524,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1010_51_31
-      textHome: |-
-        Wow!
-        Everyone showed up in such cute swimsuits!
+      textHome: Wow!@Everyone showed up in such cute swimsuits!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -558,9 +537,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101000
       motion: 1
-      textHome: |-
-        I see a few familiar faces, too.
-        I better go say hello!
+      textHome: I see a few familiar faces, too.@I better go say hello!
   - autoTurnFirst: 3.5
     chara:
     - id: 101000
@@ -611,16 +588,12 @@ story:
       face: mtn_ex_010.exp.json
       id: 101000
       motion: 1
-      textHome: |-
-        Bet you didn't expect me to be
-        into wind chimes!
+      textHome: Bet you didn't expect me to be@into wind chimes!
   - autoTurnFirst: 4
     chara:
     - id: 101000
       motion: 100
-      textHome: |-
-        The designs are so pretty,
-        and the sound is so soothin’...
+      textHome: The designs are so pretty,@and the sound is so soothin’...
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -653,9 +626,7 @@ story:
     chara:
     - id: 101000
       motion: 1
-      textHome: |-
-        That pegasus swim float is just,
-        kinda adorable...
+      textHome: That pegasus swim float is just,@kinda adorable...
   - autoTurnFirst: 5.5
     chara:
     - id: 101000
@@ -674,9 +645,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1010_51_35
-      textHome: |-
-        *Sigh*
-        That rain really came outta nowhere.
+      textHome: '*Sigh*@That rain really came outta nowhere.'
   - autoTurnFirst: 3.5
     chara:
     - id: 101000
@@ -707,9 +676,8 @@ story:
       face: mtn_ex_041.exp.json
       id: 101000
       motion: 1
-      textHome: |-
-        Seriously, Rena and Kaede were wiped
-        from the heat so I went to get 'em some.
+      textHome: Seriously, Rena and Kaede were wiped@from the heat so I went to get
+        'em some.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -740,18 +708,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1010_51_37
-      textHome: |-
-        Wonder if the Coordinator's
-        ever been to the ocean.
+      textHome: Wonder if the Coordinator's@ever been to the ocean.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101000
       motion: 1
-      textHome: |-
-        She seems like the type who prefers
-        to stay inside, so I guess not?
+      textHome: She seems like the type who prefers@to stay inside, so I guess not?
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -789,9 +753,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1010_51_38
-      textHome: |-
-        Kaede let me have one of the watermelons
-        she grew at home.
+      textHome: Kaede let me have one of the watermelons@she grew at home.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -804,9 +766,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101000
-      textHome: |-
-        It was huge, but my brothers
-        demolished it in seconds...
+      textHome: It was huge, but my brothers@demolished it in seconds...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -826,9 +786,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1010_51_39
-      textHome: |-
-        I talked to Rena about goin' to an idol show,
-        and she's gonna book us tickets and a room.
+      textHome: I talked to Rena about goin' to an idol show,@and she's gonna book
+        us tickets and a room.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -839,9 +798,7 @@ story:
     chara:
     - id: 101000
       motion: 300
-      textHome: |-
-        I'm bad at plannin' nitty gritty stuff
-        like that...
+      textHome: I'm bad at plannin' nitty gritty stuff@like that...
   - chara:
     - id: 101051
       textHomeStatus: Clear
@@ -860,16 +817,12 @@ story:
     chara:
     - id: 101000
       motion: 300
-      textHome: |-
-        I don't usually care about that stuff,
-        but swimsuits are different...
+      textHome: I don't usually care about that stuff,@but swimsuits are different...
   - autoTurnFirst: 2
     chara:
     - id: 101000
       motion: 100
-      textHome: |-
-        Rena laughed and said
-        I was bein' weirdly girly.
+      textHome: Rena laughed and said@I was bein' weirdly girly.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -893,9 +846,7 @@ story:
     chara:
     - id: 101000
       motion: 0
-      textHome: |-
-        Me, Rena, and Kaede are gonna take a
-        group shot in our swimsuits!
+      textHome: Me, Rena, and Kaede are gonna take a@group shot in our swimsuits!
   - autoTurnFirst: 2
     chara:
     - cheek: 0

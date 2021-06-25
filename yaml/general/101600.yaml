@@ -10,9 +10,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1016_00_01
-      textHome: |-
-        You'll get to know me as we go along.
-        That is all.
+      textHome: You'll get to know me as we go along.@That is all.
   - autoTurnFirst: 3.8
     chara:
     - cheek: 0
@@ -26,28 +24,23 @@ story:
       face: mtn_ex_000.exp.json
       id: 101600
       motion: 1
-      textHome: |-
-        Let's see... I don't have any hobbies.
-        My favorite words are
-        "fairness" and "equality".
+      textHome: Let's see... I don't have any hobbies.@My favorite words are@"fairness"
+        and "equality".
   - autoTurnFirst: 5.6
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101600
       motion: 100
-      textHome: |-
-        I might seem uptight,
-        but I'm trying to be kind and sisterly.
+      textHome: I might seem uptight,@but I'm trying to be kind and sisterly.
   - autoTurnFirst: 7.5
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 101600
       motion: 200
-      textHome: |-
-        Also, I used to fight against Yachiyo and
-        Mifuyu as a leader of the East.
+      textHome: Also, I used to fight against Yachiyo and@Mifuyu as a leader of the
+        East.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -74,18 +67,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 101600
       motion: 100
-      textHome: |-
-        I get paid extra for those,
-        so I'd be happy to take one with you.
+      textHome: I get paid extra for those,@so I'd be happy to take one with you.
   - autoTurnFirst: 4.1
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101600
       motion: 300
-      textHome: |-
-        But I know a lot of people in this city,
-        so I insist I wear a mask.
+      textHome: But I know a lot of people in this city,@so I insist I wear a mask.
   - autoTurnFirst: 4.7
     chara:
     - cheek: 0
@@ -105,9 +94,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1016_00_19
-      textHome: |-
-        I now have new powers to fight
-        for justice and fairness.
+      textHome: I now have new powers to fight@for justice and fairness.
   - autoTurnFirst: 1.5
     chara:
     - eyeClose: 1
@@ -151,10 +138,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1016_00_21
-      textHome: |-
-        As a Magical Girl,
-        I'm often put in leadership roles,
-        but I don't mind getting asked for help.
+      textHome: As a Magical Girl,@I'm often put in leadership roles,@but I don't
+        mind getting asked for help.
   - autoTurnFirst: 4.4
     chara:
     - id: 101600
@@ -165,9 +150,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101600
       motion: 100
-      textHome: |-
-        I'm happy to be useful for more than
-        just hunting Witches.
+      textHome: I'm happy to be useful for more than@just hunting Witches.
   - chara:
     - id: 101600
       textHomeStatus: Clear
@@ -186,20 +169,16 @@ story:
     chara:
     - id: 101600
       motion: 1
-      textHome: |-
-        No matter where they were born,
-        they shoulder the same burden
-        the moment they become Magical Girls.
+      textHome: No matter where they were born,@they shoulder the same burden@the
+        moment they become Magical Girls.
   - autoTurnFirst: 7.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101600
       motion: 200
-      textHome: |-
-        I'm happy I'm improving, because
-        that means I can help
-        protect my fellow Magical Girls.
+      textHome: I'm happy I'm improving, because@that means I can help@protect my
+        fellow Magical Girls.
   - chara:
     - id: 101600
       textHomeStatus: Clear
@@ -255,17 +234,13 @@ story:
       face: mtn_ex_000.exp.json
       id: 101600
       motion: 200
-      textHome: |-
-        Hm, perhaps my greeting could
-        use some work.
+      textHome: Hm, perhaps my greeting could@use some work.
   - autoTurnFirst: 8.3
     chara:
     - id: 101600
       motion: 300
-      textHome: |-
-        Sorry, you just got here and I started
-        practicing my maid cafe greetings
-        right off the bat.
+      textHome: Sorry, you just got here and I started@practicing my maid cafe greetings@right
+        off the bat.
   - chara:
     - id: 101600
       textHomeStatus: Clear
@@ -279,17 +254,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1016_00_25
-      textHome: |-
-        Tsuruno inspired me to devise my own
-        morning stretch routine.
+      textHome: Tsuruno inspired me to devise my own@morning stretch routine.
   - autoTurnFirst: 1.7
     chara:
     - id: 101600
       motion: 0
-      textHome: |-
-        Care to watch?
-        Let's start the Kanagi Izumi
-        Morning Stretches!
+      textHome: Care to watch?@Let's start the Kanagi Izumi@Morning Stretches!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -314,19 +284,14 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1016_00_26
-      textHome: |-
-        I'm afraid I must decline your
-        lunch invitation.
+      textHome: I'm afraid I must decline your@lunch invitation.
   - autoTurnFirst: 6.4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101600
       motion: 200
-      textHome: |-
-        I make my own lunch.
-        Working with limited ingredients is
-        fun for me...
+      textHome: I make my own lunch.@Working with limited ingredients is@fun for me...
   - autoTurnFirst: 5.2
     chara:
     - id: 101600
@@ -345,10 +310,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1016_00_27
-      textHome: |-
-        The cafe gets busy around this time,
-        and the customers occasionally
-        gift me with candies.
+      textHome: The cafe gets busy around this time,@and the customers occasionally@gift
+        me with candies.
   - autoTurnFirst: 3.8
     chara:
     - id: 101600
@@ -359,9 +322,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101600
       motion: 100
-      textHome: |2-
-         I keep them as dessert for dinner
-        with my family.
+      textHome: ' I keep them as dessert for dinner@with my family.'
   - chara:
     - id: 101600
       textHomeStatus: Clear
@@ -393,18 +354,15 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1016_00_28
-      textHome: |-
-        In the quiet, late hours, my thoughts turn to
-        when Mitama became a Magical Girl.
+      textHome: In the quiet, late hours, my thoughts turn to@when Mitama became a
+        Magical Girl.
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101600
       motion: 300
-      textHome: |-
-        I never would've imagined
-        she felt the same way I did...
+      textHome: I never would've imagined@she felt the same way I did...
   - autoTurnFirst: 3.6
     chara:
     - eyeClose: 1
@@ -422,10 +380,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1016_00_29
-      textHome: |-
-        The influx of Witches appears to have
-        fostered peace in the
-        Magical Girl community.
+      textHome: The influx of Witches appears to have@fostered peace in the@Magical
+        Girl community.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -435,9 +391,8 @@ story:
     chara:
     - id: 101600
       motion: 100
-      textHome: |-
-        There were endless disputes over territory
-        before... Now, there are no borders.
+      textHome: There were endless disputes over territory@before... Now, there are
+        no borders.
   - chara:
     - id: 101600
       textHomeStatus: Clear
@@ -484,16 +439,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1016_00_31
-      textHome: |-
-        I have a long history with the Mirror Witch,
-        but I can never reach the Witch itself.
+      textHome: I have a long history with the Mirror Witch,@but I can never reach
+        the Witch itself.
   - autoTurnFirst: 3
     chara:
     - id: 101600
       motion: 0
-      textHome: |-
-        Even when I try to read its minions' minds,
-        their chatter makes no sense to me...
+      textHome: Even when I try to read its minions' minds,@their chatter makes no
+        sense to me...
   - autoTurnFirst: 5.4
     chara:
     - cheek: 0
@@ -555,10 +508,8 @@ story:
     chara:
     - eyeClose: 0
       id: 101600
-      textHome: |-
-        These are all my sworn enemies.
-        I will correct those who blithely commit
-        such crimes, without question.
+      textHome: These are all my sworn enemies.@I will correct those who blithely
+        commit@such crimes, without question.
   - autoTurnFirst: 7.1
     chara:
     - cheek: 0
@@ -594,9 +545,8 @@ story:
     - eyeClose: 1
       id: 101600
       motion: 300
-      textHome: |-
-        My parents were born and fell in love here,
-        and then I was born and raised here in turn.
+      textHome: My parents were born and fell in love here,@and then I was born and
+        raised here in turn.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -613,9 +563,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 101600
       motion: 0
-      textHome: |-
-        It may be a rough area,
-        but it's important to me.
+      textHome: It may be a rough area,@but it's important to me.
   - autoTurnFirst: 3.2
     chara:
     - eyeClose: 1
@@ -640,9 +588,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 101600
       motion: 300
-      textHome: |-
-        If I'd known we were doing PE in class,
-        I would have come in my gym uniform.
+      textHome: If I'd known we were doing PE in class,@I would have come in my gym
+        uniform.
   - chara:
     - id: 101600
       textHomeStatus: Clear
@@ -656,9 +603,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1016_00_36
-      textHome: |-
-        I still recall the image of my father's back
-        as he toiled at the ironworks...
+      textHome: I still recall the image of my father's back@as he toiled at the ironworks...
   - autoTurnFirst: 4.4
     chara:
     - cheek: 0
@@ -672,9 +617,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101600
       motion: 200
-      textHome: |-
-        It inspires me to keep working hard
-        at my jobs.
+      textHome: It inspires me to keep working hard@at my jobs.
   - chara:
     - id: 101600
       textHomeStatus: Clear
@@ -688,18 +631,14 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1016_00_37
-      textHome: |-
-        Comparing Tsukasa and Tsukuyo
-        feels strange to me.
+      textHome: Comparing Tsukasa and Tsukuyo@feels strange to me.
   - autoTurnFirst: 6.9
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101600
       motion: 300
-      textHome: |-
-        They're identical, and yet their busts
-        have such different measurements...
+      textHome: They're identical, and yet their busts@have such different measurements...
   - autoTurnFirst: 4.4
     chara:
     - id: 101600
@@ -731,17 +670,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1016_00_38
-      textHome: |-
-        Yachiyo, Mifuyu, and I have had many
-        a conflict, but we usually came to a
-        resolution once we talked things out.
+      textHome: Yachiyo, Mifuyu, and I have had many@a conflict, but we usually came
+        to a@resolution once we talked things out.
   - autoTurnFirst: 2.3
     chara:
     - id: 101600
       motion: 100
-      textHome: |2-
-         Looking back, I think our way of thinking
-        was pretty similar.
+      textHome: ' Looking back, I think our way of thinking@was pretty similar.'
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -767,10 +702,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 101600
       motion: 200
-      textHome: |-
-        People keep throwing phrases at me like
-        "cool and kind," "obsessive romantic," and
-        "hot and cold," but I don't really understand.
+      textHome: People keep throwing phrases at me like@"cool and kind," "obsessive
+        romantic," and@"hot and cold," but I don't really understand.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -802,10 +735,8 @@ story:
     chara:
     - id: 101600
       motion: 1
-      textHome: |-
-        No matter how much people or places may
-        change, it claws at their heels and tries to
-        drag them back into the past like a specter...
+      textHome: No matter how much people or places may@change, it claws at their
+        heels and tries to@drag them back into the past like a specter...
   - autoTurnFirst: 3.5
     chara:
     - eyeClose: 1
@@ -830,10 +761,8 @@ story:
     chara:
     - id: 101600
       motion: 100
-      textHome: |-
-        Keep bothering me and I'll
-        read your mind and expose
-        all your deepest darkest secrets...
+      textHome: Keep bothering me and I'll@read your mind and expose@all your deepest
+        darkest secrets...
   - autoTurnFirst: 3.8
     chara:
     - cheek: 0
@@ -906,9 +835,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1016_00_45
-      textHome: |-
-        Life and death are granted to us
-        in equal measure.
+      textHome: Life and death are granted to us@in equal measure.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -1057,9 +984,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 101600
       motion: 0
-      textHome: |-
-        Let me look into your mind to see
-        if your intentions are true.
+      textHome: Let me look into your mind to see@if your intentions are true.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1083,9 +1008,7 @@ story:
     chara:
     - id: 101600
       motion: 100
-      textHome: |-
-        This means I can crack my whip
-        much more furiously.
+      textHome: This means I can crack my whip@much more furiously.
   - chara:
     - id: 101600
       textHomeStatus: Clear
@@ -1099,9 +1022,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1016_00_14
-      textHome: |-
-        I took care of Mitama in the past,
-        but now she's always taking care of me.
+      textHome: I took care of Mitama in the past,@but now she's always taking care
+        of me.
   - autoTurnFirst: 3.9
     chara:
     - cheek: 0
@@ -1121,9 +1043,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1016_00_15
-      textHome: |-
-        For every chapter of my story you hear,
-        I shall read your mind.
+      textHome: For every chapter of my story you hear,@I shall read your mind.
   - autoTurnFirst: 3.6
     chara:
     - id: 101600
@@ -1155,9 +1075,7 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 101600
-      textHome: |-
-        Hm.
-        I'll have to try it next time a master visits.
+      textHome: Hm.@I'll have to try it next time a master visits.
   - autoTurnFirst: 4.7
     chara:
     - id: 101600
@@ -1175,9 +1093,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1016_00_17
-      textHome: |-
-        You want to play a game with me as a maid?
-        Interesting.
+      textHome: You want to play a game with me as a maid?@Interesting.
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0

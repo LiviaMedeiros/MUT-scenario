@@ -377,17 +377,13 @@ story:
     chara:
     - id: 130102
       motion: 0
-      textHome: |-
-        Iroha went to visit Eternal Sakura
-        with the others.
+      textHome: Iroha went to visit Eternal Sakura@with the others.
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 130102
-      textHome: |-
-        I'm glad that they're getting along,
-        but it does make me a bit jealous.
+      textHome: I'm glad that they're getting along,@but it does make me a bit jealous.
   - autoTurnFirst: 2
     chara:
     - id: 130102
@@ -424,9 +420,7 @@ story:
     chara:
     - id: 130102
       motion: 300
-      textHome: |-
-        Looks like Felicia forgot to put
-        them away again...
+      textHome: Looks like Felicia forgot to put@them away again...
   - chara:
     - id: 130102
       textHomeStatus: Clear
@@ -453,8 +447,8 @@ story:
     - cheek: 0
       face: mtn_ex_014.exp.json
       id: 130102
-      textHome: "Oh, Iroha told me we still have some of\nthose mixed vegetables she
-        made yesterday. "
+      textHome: 'Oh, Iroha told me we still have some of@those mixed vegetables she
+        made yesterday. '
   - autoTurnFirst: 2.5
     chara:
     - id: 130102
@@ -530,9 +524,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 130102
-      textHome: |-
-        Luckily I managed to get this
-        cat-shaped chocolate for Sana!
+      textHome: Luckily I managed to get this@cat-shaped chocolate for Sana!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -611,17 +603,14 @@ story:
       face: mtn_ex_014.exp.json
       id: 130102
       motion: 0
-      textHome: |-
-        I was just thinking about Mel and Kanae,
-        trying to let them know how I'm doing.
+      textHome: I was just thinking about Mel and Kanae,@trying to let them know how
+        I'm doing.
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1
       id: 130102
       motion: 300
-      textHome: |-
-        I wouldn't be here today if
-        it weren't for those two.
+      textHome: I wouldn't be here today if@it weren't for those two.
   - chara:
     - id: 130102
       textHomeStatus: Clear
@@ -636,16 +625,12 @@ story:
       motion: 201
       pos: 1
       voice: vo_char_1301_02_30
-      textHome: |-
-        It's been a while since I fought
-        a Witch alone.
+      textHome: It's been a while since I fought@a Witch alone.
   - autoTurnFirst: 6
     chara:
     - id: 130102
       motion: 200
-      textHome: |-
-        I'm so used to always having
-        Iroha's support... I better be careful.
+      textHome: I'm so used to always having@Iroha's support... I better be careful.
   - chara:
     - id: 130102
       textHomeStatus: Clear
@@ -660,7 +645,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1301_02_31
-      textHome: "Sometimes you can see some\ninteresting copies inside Endless Mirrors. "
+      textHome: 'Sometimes you can see some@interesting copies inside Endless Mirrors. '
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
@@ -674,9 +659,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 130102
       motion: 301
-      textHome: |-
-        But I'm not going to tell you
-        what they were like.
+      textHome: But I'm not going to tell you@what they were like.
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -735,9 +718,7 @@ story:
     chara:
     - id: 130102
       motion: 0
-      textHome: |-
-        I always find her humming,
-        I love listening to it.
+      textHome: I always find her humming,@I love listening to it.
   - autoTurnFirst: 4
     chara:
     - id: 130102
@@ -762,10 +743,8 @@ story:
     chara:
     - id: 130102
       motion: 0
-      textHome: |-
-        Sana says she wants straight hair like Iroha,
-        but getting her to the stylist
-        is going to be tough...
+      textHome: Sana says she wants straight hair like Iroha,@but getting her to the
+        stylist@is going to be tough...
   - autoTurnFirst: 3
     chara:
     - id: 130102
@@ -789,9 +768,7 @@ story:
     chara:
     - id: 130102
       motion: 0
-      textHome: |-
-        Tsuruno added Iroha's healthy
-        dish to her menu.
+      textHome: Tsuruno added Iroha's healthy@dish to her menu.
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -819,17 +796,15 @@ story:
       face: mtn_ex_014.exp.json
       id: 130102
       motion: 1
-      textHome: "We're doing the photo shoot around\ntown today to introduce some
-        clothes\nmade here in Kamihama. "
+      textHome: 'We''re doing the photo shoot around@town today to introduce some
+        clothes@made here in Kamihama. '
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 130102
       motion: 201
-      textHome: |-
-        I wish we all could do something
-        like this together someday.
+      textHome: I wish we all could do something@like this together someday.
   - chara:
     - id: 130102
       textHomeStatus: Clear
@@ -871,16 +846,12 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1301_02_37
-      textHome: |-
-        At first, I wasn't on board
-        with helping Felicia.
+      textHome: At first, I wasn't on board@with helping Felicia.
   - autoTurnFirst: 2.5
     chara:
     - eyeClose: 1
       id: 130102
-      textHome: |-
-        I really wasn't sure if I should
-        let her live with us.
+      textHome: I really wasn't sure if I should@let her live with us.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -896,9 +867,7 @@ story:
       face: mtn_ex_014.exp.json
       id: 130102
       motion: 100
-      textHome: |-
-        The more trouble a kid gives you,
-        the more you end up caring for them.
+      textHome: The more trouble a kid gives you,@the more you end up caring for them.
   - chara:
     - id: 130102
       textHomeStatus: Clear
@@ -946,9 +915,7 @@ story:
     chara:
     - id: 130102
       motion: 300
-      textHome: |-
-        I sometimes get a bit too excited
-        when I find anything I like.
+      textHome: I sometimes get a bit too excited@when I find anything I like.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -973,16 +940,13 @@ story:
     chara:
     - eyeClose: 1
       id: 130102
-      textHome: |-
-        I remember what I was like
-        before I met Iroha.
+      textHome: I remember what I was like@before I met Iroha.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
       id: 130102
-      textHome: |2-
-         I just can't help but think I might have
-        turned into a Witch if it weren't for her.
+      textHome: ' I just can''t help but think I might have@turned into a Witch if
+        it weren''t for her.'
   - autoTurnFirst: 2.9
     chara:
     - id: 130102
@@ -994,9 +958,7 @@ story:
     chara:
     - id: 130102
       motion: 200
-      textHome: |-
-        You never know what is
-        going to change your life.
+      textHome: You never know what is@going to change your life.
   - autoTurnFirst: 2
     chara:
     - eyeClose: 1
@@ -1039,9 +1001,7 @@ story:
     chara:
     - id: 130102
       motion: 300
-      textHome: |-
-        She scared me just like that before,
-        so I assumed it was her...
+      textHome: She scared me just like that before,@so I assumed it was her...
   - chara:
     - id: 130102
       textHomeStatus: Clear

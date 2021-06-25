@@ -9,26 +9,20 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1013_00_01
-      textHome: |-
-        I live with the rest of the Tatsuki family at the
-        Ryushinkan kendo dojo, which has stood
-        since the Edo period.
+      textHome: I live with the rest of the Tatsuki family at the@Ryushinkan kendo
+        dojo, which has stood@since the Edo period.
   - autoTurnFirst: 7
     chara:
     - id: 101300
-      textHome: |-
-        Not only is fencing taught there, we offer a
-        comprehensive education covering
-        spears and short swords, too.
+      textHome: Not only is fencing taught there, we offer a@comprehensive education
+        covering@spears and short swords, too.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101300
       motion: 200
-      textHome: |-
-        I study the naginata, and I hope
-        to master it someday!
+      textHome: I study the naginata, and I hope@to master it someday!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -64,9 +58,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 101300
       motion: 1
-      textHome: |-
-        It's a stance where you point your
-        blade at your enemy from above.
+      textHome: It's a stance where you point your@blade at your enemy from above.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -79,9 +71,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 101300
       motion: 1
-      textHome: |-
-        Then if you swing the blade upward from the
-        bottom, as though drawing a circle with it,
+      textHome: Then if you swing the blade upward from the@bottom, as though drawing
+        a circle with it,
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -94,9 +85,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 101300
       motion: 0
-      textHome: |-
-        you can pull off the
-        Rising Dragon Full Moon Slash!
+      textHome: you can pull off the@Rising Dragon Full Moon Slash!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -154,9 +143,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1013_00_20
-      textHome: |-
-        I mustn't lose my cool...
-        I must...remain calm...
+      textHome: I mustn't lose my cool...@I must...remain calm...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -196,9 +183,8 @@ story:
     chara:
     - id: 101300
       motion: 1
-      textHome: |-
-        So let's see, you sit like this with
-        your legs crossed and take deep breaths...
+      textHome: So let's see, you sit like this with@your legs crossed and take deep
+        breaths...
   - autoTurnFirst: 1.6
     chara:
     - cheek: 0
@@ -242,9 +228,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1013_00_22
-      textHome: |-
-        I am in the midst of a fast
-        to sharpen my senses...
+      textHome: I am in the midst of a fast@to sharpen my senses...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -258,9 +242,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101300
       motion: 0
-      textHome: |-
-        I ham not thinking even a griddle bit
-        about food!
+      textHome: I ham not thinking even a griddle bit@about food!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -347,10 +329,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1013_00_24
-      textHome: |-
-        We meet again.
-        They say that people can change more than
-        you can imagine in only three days...
+      textHome: We meet again.@They say that people can change more than@you can imagine
+        in only three days...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -363,9 +343,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101300
       motion: 300
-      textHome: |-
-        I wonder if that also applies to
-        Magical Girls as well?
+      textHome: I wonder if that also applies to@Magical Girls as well?
   - chara:
     - id: 101300
       textHomeStatus: Clear
@@ -381,17 +359,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1013_00_25
-      textHome: |-
-        I mop the floor of the dojo after
-        I finish my morning training.
+      textHome: I mop the floor of the dojo after@I finish my morning training.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101300
-      textHome: |-
-        I always feel so refreshed standing in
-        a clean dojo in the morning!
+      textHome: I always feel so refreshed standing in@a clean dojo in the morning!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -424,18 +398,16 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1013_00_26
-      textHome: |-
-        This is "Tatsuki Mochi."
-        My family would always eat
-        this before going into battle!
+      textHome: This is "Tatsuki Mochi."@My family would always eat@this before going
+        into battle!
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101300
       motion: 0
-      textHome: "These rice cakes are easy to carry around \nbecause they're wrapped
-        in a leaf."
+      textHome: These rice cakes are easy to carry around @because they're wrapped
+        in a leaf.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -458,9 +430,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1013_00_27
-      textHome: |-
-        Today, I'm going straight home to
-        study and train... Huh? Wait?
+      textHome: Today, I'm going straight home to@study and train... Huh? Wait?
   - autoTurnFirst: 3.5
     chara:
     - id: 101300
@@ -469,9 +439,7 @@ story:
     chara:
     - id: 101300
       motion: 0
-      textHome: |-
-        There's a shop with delicious
-        red bean desserts?
+      textHome: There's a shop with delicious@red bean desserts?
   - autoTurnFirst: 1.6
     chara:
     - id: 101300
@@ -524,9 +492,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1013_00_28
-      textHome: |-
-        Training hard, then taking a nice, warm bath
-        and going to sleep early…
+      textHome: Training hard, then taking a nice, warm bath@and going to sleep early…
   - autoTurnFirst: 0.5
     chara:
     - cheek: 0
@@ -582,16 +548,14 @@ story:
     chara:
     - id: 101300
       motion: 0
-      textHome: |-
-        Time flies by in the blink of an eye,
-        the present soon becomes the past.
+      textHome: Time flies by in the blink of an eye,@the present soon becomes the
+        past.
   - autoTurnFirst: 1.5
     chara:
     - id: 101300
       motion: 200
-      textHome: |-
-        We should all try our best to live our lives
-        pure-hearted, honest, and dignified.
+      textHome: We should all try our best to live our lives@pure-hearted, honest,
+        and dignified.
   - autoTurnFirst: 2.2
     chara:
     - cheek: 0
@@ -617,9 +581,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1013_00_30
-      textHome: |-
-        How did it come to this...?
-        I never would have thought...
+      textHome: How did it come to this...?@I never would have thought...
   - autoTurnFirst: 3
     chara:
     - id: 101300
@@ -630,9 +592,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 101300
       motion: 0
-      textHome: |-
-        This can't be allowed to continue.
-        I must... I must do something!
+      textHome: This can't be allowed to continue.@I must... I must do something!
   - autoTurnFirst: 1.4
     chara:
     - cheek: 1
@@ -733,9 +693,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1013_00_33
-      textHome: |-
-        I can't stand picture frames being crooked
-        or desks not being lined up properly.
+      textHome: I can't stand picture frames being crooked@or desks not being lined
+        up properly.
   - autoTurnFirst: 2.4
     chara:
     - cheek: 0
@@ -765,15 +724,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1013_00_34
-      textHome: "Our dojo developed the Ryushin-style \nto be implemented in actual
-        combat."
+      textHome: Our dojo developed the Ryushin-style @to be implemented in actual
+        combat.
   - autoTurnFirst: 1.6
     chara:
     - id: 101300
       motion: 300
-      textHome: |-
-        It can stand its ground against
-        any sword or spear!
+      textHome: It can stand its ground against@any sword or spear!
   - autoTurnFirst: 1.6
     chara:
     - id: 101300
@@ -797,26 +754,22 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1013_00_35
-      textHome: |-
-        One of the basic principles
-        of martial arts is the bow.
-        You always start and end with a bow.
+      textHome: One of the basic principles@of martial arts is the bow.@You always
+        start and end with a bow.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101300
       motion: 0
-      textHome: |-
-        Don't forget to bow when you're
-        not training, too! Ready?
+      textHome: Don't forget to bow when you're@not training, too! Ready?
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101300
       motion: 100
-      textHome: "Bow to the dojo! Bow to your sensei! \nBow to one other!"
+      textHome: Bow to the dojo! Bow to your sensei! @Bow to one other!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -844,8 +797,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1013_00_36
-      textHome: "I recommend studying a martial art! \nI guarantee that you'll develop
-        a lot mentally!"
+      textHome: I recommend studying a martial art! @I guarantee that you'll develop
+        a lot mentally!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -857,9 +810,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101300
-      textHome: |-
-        By the way, our dojo is
-        looking for new students!
+      textHome: By the way, our dojo is@looking for new students!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -892,19 +843,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1013_00_37
-      textHome: |-
-        My ancestor was the sword instructor
-        at Mizuna Castle.
-        He was famous for his intense training!
+      textHome: My ancestor was the sword instructor@at Mizuna Castle.@He was famous
+        for his intense training!
   - autoTurnFirst: 1
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101300
       motion: 0
-      textHome: |2-
-         Although, apparently it was so intense
-        he ended up getting fired...
+      textHome: ' Although, apparently it was so intense@he ended up getting fired...'
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -959,7 +906,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 101300
-      textHome: "And she's so messy! I'd like to teach \nher proper manners one day!"
+      textHome: And she's so messy! I'd like to teach @her proper manners one day!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -987,16 +934,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1013_00_39
-      textHome: "My cousin is both a great police \nofficer and senpai at the dojo."
+      textHome: My cousin is both a great police @officer and senpai at the dojo.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101300
       motion: 0
-      textHome: |-
-        He's also the best in our style of
-        sword-fighting!
+      textHome: He's also the best in our style of@sword-fighting!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -1025,7 +970,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1013_00_40
-      textHome: "Nanaka... She was born into \na well-known household too."
+      textHome: Nanaka... She was born into @a well-known household too.
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -1045,7 +990,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101300
       motion: 0
-      textHome: "You can sense this undescribable \nstrength when you look at her!"
+      textHome: You can sense this undescribable @strength when you look at her!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -1067,9 +1012,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1013_00_41
-      textHome: |-
-        This? Hehehe...
-        Check out my outfit!
+      textHome: This? Hehehe...@Check out my outfit!
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -1084,9 +1027,7 @@ story:
     chara:
     - id: 101300
       motion: 1
-      textHome: |-
-        I got it from a well-known
-        boutique in Kamihama.
+      textHome: I got it from a well-known@boutique in Kamihama.
   - autoTurnFirst: 1.2
     chara:
     - cheek: 0
@@ -1129,8 +1070,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1013_00_42
-      textHome: |
-        Now let's fight fair and square!
+      textHome: Now let's fight fair and square!@
   - chara:
     - id: 101300
       textHomeStatus: Clear
@@ -1183,9 +1123,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1013_00_45
-      textHome: |-
-        Never let your guard down,
-        even after victory!
+      textHome: Never let your guard down,@even after victory!
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -1337,9 +1275,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1013_00_02
-      textHome: |-
-        Hail, hail!
-        Ready your ears, people far and wide!
+      textHome: Hail, hail!@Ready your ears, people far and wide!
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
@@ -1351,9 +1287,7 @@ story:
     - cheek: 0
       id: 101300
       motion: 0
-      textHome: |-
-        It is I, the Ryushin-style Assistant
-        Naginata Instructor, Asuka Tatsuki!
+      textHome: It is I, the Ryushin-style Assistant@Naginata Instructor, Asuka Tatsuki!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1379,9 +1313,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1013_00_13
-      textHome: |-
-        The only way to learn our secret techniques
-        is through dedicated training!
+      textHome: The only way to learn our secret techniques@is through dedicated training!
   - autoTurnFirst: 2
     chara:
     - id: 101300
@@ -1390,9 +1322,7 @@ story:
     chara:
     - id: 101300
       motion: 0
-      textHome: |-
-        A thousand-mile journey begins with
-        a single step, or so they say!
+      textHome: A thousand-mile journey begins with@a single step, or so they say!
   - autoTurnFirst: 1.2
     chara:
     - cheek: 0
@@ -1414,9 +1344,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1013_00_14
-      textHome: |-
-        I'm able to move much more
-        effectively now... or at least, I think so!
+      textHome: I'm able to move much more@effectively now... or at least, I think
+        so!
   - autoTurnFirst: 1.4
     chara:
     - id: 101300
@@ -1440,9 +1369,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1013_00_15
-      textHome: |-
-        Yep! That's one more
-        Ryushin-style technique mastered!
+      textHome: Yep! That's one more@Ryushin-style technique mastered!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -1464,9 +1391,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1013_00_16
-      textHome: |-
-        The Ryushin-style has many martial stances
-         that were passed down from our ancestors.
+      textHome: The Ryushin-style has many martial stances@ that were passed down
+        from our ancestors.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -1480,9 +1406,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101300
       motion: 1
-      textHome: |-
-        By thrusting your blade towards the
-        enemy and crouching, you can keep!
+      textHome: By thrusting your blade towards the@enemy and crouching, you can keep!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -1516,10 +1440,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1013_00_17
-      textHome: |-
-        With our second stance, the "Shattering
-        Dragon", you maintain pressure on the
-        blade as you thrust it ahead!
+      textHome: With our second stance, the "Shattering@Dragon", you maintain pressure
+        on the@blade as you thrust it ahead!
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -1531,9 +1453,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 101300
       motion: 100
-      textHome: |2-
-         It's a stance where you can shave away
-        the enemy's spirit. Like this!
+      textHome: ' It''s a stance where you can shave away@the enemy''s spirit. Like
+        this!'
   - autoTurnFirst: 1
     chara:
     - cheek: 1

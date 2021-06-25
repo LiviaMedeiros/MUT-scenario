@@ -15,9 +15,7 @@ story:
     chara:
     - id: 304600
       motion: 400
-      textHome: |-
-        I'm not usually the one
-        on the other side of the lens.
+      textHome: I'm not usually the one@on the other side of the lens.
   - autoTurnFirst: 3.5
     chara:
     - id: 304600
@@ -27,9 +25,8 @@ story:
     chara:
     - eyeClose: 1
       id: 304600
-      textHome: |-
-        I have a lot of enemies because
-        I photograph people's bad sides as well.
+      textHome: I have a lot of enemies because@I photograph people's bad sides as
+        well.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -40,8 +37,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 304600
       motion: 100
-      textHome: "It's better to stay away before people\nthink you're associated with
-        me. "
+      textHome: 'It''s better to stay away before people@think you''re associated
+        with me. '
   - autoTurnFirst: 7
     chara:
     - cheek: 0
@@ -62,17 +59,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3046_00_17
-      textHome: |-
-        I like to get honest,
-        firsthand accounts for my articles.
+      textHome: I like to get honest,@firsthand accounts for my articles.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 304600
-      textHome: |-
-        But sometimes people won't talk
-        even after I show them evidence.
+      textHome: But sometimes people won't talk@even after I show them evidence.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -93,18 +86,16 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3046_00_18
-      textHome: |-
-        When your actions could hurt someone's
-        reputation, you make a lot of enemies.
+      textHome: When your actions could hurt someone's@reputation, you make a lot
+        of enemies.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_010.exp.json
       id: 304600
-      textHome: |-
-        But I've also helped a lot of people,
-        so I actually have a few secret supporters.
+      textHome: But I've also helped a lot of people,@so I actually have a few secret
+        supporters.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -150,9 +141,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3046_00_20
-      textHome: |-
-        With this things are in order for me
-        to gather ALL the evidence!
+      textHome: With this things are in order for me@to gather ALL the evidence!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -173,9 +162,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3046_00_21
-      textHome: |-
-        Sometimes, I miss a great photo op because
-        it's beyond my physical capabilities.
+      textHome: Sometimes, I miss a great photo op because@it's beyond my physical
+        capabilities.
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -209,9 +197,8 @@ story:
     chara:
     - eyeClose: 1
       id: 304600
-      textHome: |-
-        Even if good and evil are blended together,
-        the truth can always be found.
+      textHome: Even if good and evil are blended together,@the truth can always be
+        found.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -226,10 +213,8 @@ story:
     chara:
     - id: 304600
       motion: 300
-      textHome: |-
-        Not accepting that fact is unacceptable
-        to me, even if I am set on bringing out
-        the truth for my personal satisfaction.
+      textHome: Not accepting that fact is unacceptable@to me, even if I am set on
+        bringing out@the truth for my personal satisfaction.
   - autoTurnFirst: 7
     chara:
     - cheek: 0
@@ -298,9 +283,7 @@ story:
     chara:
     - id: 304600
       motion: 1
-      textHome: |-
-        Do you want me to find out
-        more about your personal life?
+      textHome: Do you want me to find out@more about your personal life?
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -326,10 +309,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304600
-      textHome: |-
-        No matter how busy I am the night before,
-        I always need to prep my camera
-        before school.
+      textHome: No matter how busy I am the night before,@I always need to prep my
+        camera@before school.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -363,9 +344,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 304600
       motion: 1
-      textHome: |-
-        Oh, it's lunch time, so I was watching people
-        gather around the newspaper on the wall.
+      textHome: Oh, it's lunch time, so I was watching people@gather around the newspaper
+        on the wall.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -378,9 +358,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304600
-      textHome: |-
-        Plus no one has tried to
-        rip the paper up so far.
+      textHome: Plus no one has tried to@rip the paper up so far.
   - chara:
     - id: 304600
       textHomeStatus: Clear
@@ -394,10 +372,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3046_00_02
-      textHome: |-
-        You're looking for Ryo Midori,
-        photographer of all things,
-        clean and dirty? That's me.
+      textHome: You're looking for Ryo Midori,@photographer of all things,@clean and
+        dirty? That's me.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -410,9 +386,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 304600
       motion: 1
-      textHome: |-
-        I advise you to keep away before
-        I take any suspicious photos of you.
+      textHome: I advise you to keep away before@I take any suspicious photos of you.
   - chara:
     - id: 304600
       textHomeStatus: Clear
@@ -426,9 +400,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3046_00_27
-      textHome: |-
-        All right, I've got all my equipment.
-        I'd better get going.
+      textHome: All right, I've got all my equipment.@I'd better get going.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -443,9 +415,8 @@ story:
     chara:
     - eyeClose: 1
       id: 304600
-      textHome: |-
-        After school is the best time for a scoop,
-        but people don't always like nosy journalists.
+      textHome: After school is the best time for a scoop,@but people don't always
+        like nosy journalists.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -467,9 +438,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3046_00_28
-      textHome: |-
-        Ugh, the stories that break at night
-        are always weird...
+      textHome: Ugh, the stories that break at night@are always weird...
   - autoTurnFirst: 1
     chara:
     - eyeClose: 1
@@ -490,9 +459,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 304600
       motion: 200
-      textHome: |-
-        I haven't posted a photo for
-        today's Kitty Cat Diary yet.
+      textHome: I haven't posted a photo for@today's Kitty Cat Diary yet.
   - chara:
     - id: 304600
       textHomeStatus: Clear
@@ -531,10 +498,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 304600
       motion: 1
-      textHome: |-
-        If they were going to get that mad,
-        they shouldn't have been doing
-        anything shady in the first place!
+      textHome: If they were going to get that mad,@they shouldn't have been doing@anything
+        shady in the first place!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -564,9 +529,7 @@ story:
     - eyeClose: 1
       id: 304600
       motion: 100
-      textHome: |-
-        That means a Magical Girl is
-        probably on her way here.
+      textHome: That means a Magical Girl is@probably on her way here.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -594,9 +557,8 @@ story:
     chara:
     - eyeClose: 1
       id: 304600
-      textHome: |-
-        I've been researching it ever since
-        I heard about it, but it remains a mystery.
+      textHome: I've been researching it ever since@I heard about it, but it remains
+        a mystery.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -643,9 +605,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3046_00_33
-      textHome: |-
-        Student romance, teacher scandals,
-        traffic accidents, Magical Girl battles...
+      textHome: Student romance, teacher scandals,@traffic accidents, Magical Girl
+        battles...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -679,9 +640,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304600
-      textHome: |-
-        Cat pictures aren't exactly journalism,
-        but the photos turn out great.
+      textHome: Cat pictures aren't exactly journalism,@but the photos turn out great.
   - autoTurnFirst: 2.5
     chara:
     - id: 304600
@@ -709,19 +668,15 @@ story:
     chara:
     - eyeClose: 0
       id: 304600
-      textHome: |-
-        They didn't have to hit me. If they didn't
-        want their picture taken, they shouldn't
-        have been doing what they were doing.
+      textHome: They didn't have to hit me. If they didn't@want their picture taken,
+        they shouldn't@have been doing what they were doing.
   - autoTurnFirst: 1.8
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304600
       motion: 1
-      textHome: |-
-        They even tried to bribe me,
-        so I must've struck a nerve.
+      textHome: They even tried to bribe me,@so I must've struck a nerve.
   - autoTurnFirst: 4
     chara:
     - id: 304600
@@ -739,9 +694,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3046_00_36
-      textHome: |-
-        Drinking black coffee helps me focus
-        when I'm planning out photos or an article.
+      textHome: Drinking black coffee helps me focus@when I'm planning out photos
+        or an article.
   - autoTurnFirst: 3.3
     chara:
     - eyeClose: 1
@@ -750,9 +704,7 @@ story:
     chara:
     - eyeClose: 0
       id: 304600
-      textHome: |-
-        Want some?
-        I don't have any sugar or cream, though.
+      textHome: Want some?@I don't have any sugar or cream, though.
   - autoTurnFirst: 2.2
     chara:
     - id: 304600
@@ -788,16 +740,12 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3046_00_37
-      textHome: |-
-        I know my actions are
-        undeserving of sympathy...
+      textHome: I know my actions are@undeserving of sympathy...
   - autoTurnFirst: 4.5
     chara:
     - id: 304600
       motion: 200
-      textHome: |-
-        But it makes me sad when people
-        make assumptions about where I'm from.
+      textHome: But it makes me sad when people@make assumptions about where I'm from.
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -821,9 +769,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 304600
-      textHome: |-
-        Her arguments are so level-headed,
-        it's scary.
+      textHome: Her arguments are so level-headed,@it's scary.
   - autoTurnFirst: 1.5
     chara:
     - id: 304600
@@ -853,16 +799,12 @@ story:
       face: mtn_ex_010.exp.json
       id: 304600
       motion: 1
-      textHome: |-
-        There's one person I talk to a lot,
-        but only in private.
+      textHome: There's one person I talk to a lot,@but only in private.
   - autoTurnFirst: 4
     chara:
     - id: 304600
       motion: 200
-      textHome: |-
-        I don't want her getting involved
-        in anything I'm reporting.
+      textHome: I don't want her getting involved@in anything I'm reporting.
   - chara:
     - id: 304600
       textHomeStatus: Clear
@@ -876,10 +818,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3046_00_40
-      textHome: |-
-        I hate doing favors for other people,
-        but I don't mind it if it means Magical Girls
-        will be saved from their fate.
+      textHome: I hate doing favors for other people,@but I don't mind it if it means
+        Magical Girls@will be saved from their fate.
   - autoTurnFirst: 2
     chara:
     - eyeClose: 1
@@ -888,9 +828,7 @@ story:
     chara:
     - eyeClose: 0
       id: 304600
-      textHome: |-
-        Writing articles for my newspaper
-        is different, though.
+      textHome: Writing articles for my newspaper@is different, though.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -917,16 +855,12 @@ story:
       face: mtn_ex_010.exp.json
       id: 304600
       motion: 1
-      textHome: |-
-        That was sneaky of you to
-        take a picture of me.
+      textHome: That was sneaky of you to@take a picture of me.
   - autoTurnFirst: 4.8
     chara:
     - id: 304600
       motion: 200
-      textHome: |-
-        It's fine, it's the subject's fault
-        if a photo gets taken.
+      textHome: It's fine, it's the subject's fault@if a photo gets taken.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -974,9 +908,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3046_00_44
-      textHome: |-
-        I've found the evidence!
-        Now no one can argue with me.
+      textHome: I've found the evidence!@Now no one can argue with me.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -995,9 +927,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3046_00_45
-      textHome: |-
-        It's your fault for getting caught.
-        It wouldn't hurt to remember that.
+      textHome: It's your fault for getting caught.@It wouldn't hurt to remember that.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1120,9 +1050,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3046_00_13
-      textHome: |-
-        The photos I took the other day
-        were really blurry. I need to train harder.
+      textHome: The photos I took the other day@were really blurry. I need to train
+        harder.
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1
@@ -1141,9 +1070,8 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3046_00_14
-      textHome: |-
-        F-stop and shutter speed are good!
-        All my photos will be nice and clear!
+      textHome: F-stop and shutter speed are good!@All my photos will be nice and
+        clear!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -1163,9 +1091,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3046_00_15
-      textHome: |-
-        Ha ha, you want to interview the
-        photographer? Sure, ask away.
+      textHome: Ha ha, you want to interview the@photographer? Sure, ask away.
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -1188,9 +1114,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3046_00_16
-      textHome: |-
-        Good and bad have got nothing to do with it.
-        If I see a photo opportunity, I take it.
+      textHome: Good and bad have got nothing to do with it.@If I see a photo opportunity,
+        I take it.
   - autoTurnFirst: 2
     chara:
     - id: 304600

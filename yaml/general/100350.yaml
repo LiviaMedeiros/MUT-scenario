@@ -230,10 +230,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 1
-      textHome: |-
-        Today's your lucky day, running into
-        Kamihama's own Joy Delivery Girl,
-        Tsuruno Yui! *Giggle*
+      textHome: Today's your lucky day, running into@Kamihama's own Joy Delivery Girl,@Tsuruno
+        Yui! *Giggle*
   - autoTurnFirst: 1.5
     chara:
     - id: 100300
@@ -256,7 +254,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_50_25
-      textHome: "The best way to get through a chilly morning\nis to get up and GO! "
+      textHome: 'The best way to get through a chilly morning@is to get up and GO! '
   - autoTurnFirst: 3.3
     chara:
     - id: 100300
@@ -265,7 +263,7 @@ story:
     chara:
     - id: 100300
       motion: 100
-      textHome: "It's time for Tsuruno's\n\"Rise and Shine Exercise Routine\"! "
+      textHome: 'It''s time for Tsuruno''s@"Rise and Shine Exercise Routine"! '
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -292,9 +290,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100300
       motion: 0
-      textHome: |-
-        Wait, is that...the city's
-        "King of Winter Shaved Ice Race"?!
+      textHome: Wait, is that...the city's@"King of Winter Shaved Ice Race"?!
   - autoTurnFirst: 4.3
     chara:
     - cheek: 0
@@ -307,9 +303,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 100300
       motion: 400
-      textHome: |-
-        Whoever eats the fastest gets
-        five tickets to Kamihama's best spa resort!
+      textHome: Whoever eats the fastest gets@five tickets to Kamihama's best spa
+        resort!
   - chara:
     - id: 100350
       textHomeStatus: Clear
@@ -336,10 +331,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 200
-      textHome: |-
-        It's comin' from Yachiyo's place!
-        She said she had somethin' special for
-        tonight, but man, she went all out.
+      textHome: It's comin' from Yachiyo's place!@She said she had somethin' special
+        for@tonight, but man, she went all out.
   - autoTurnFirst: 4
     chara:
     - id: 100300
@@ -381,18 +374,14 @@ story:
       face: mtn_ex_001.exp.json
       id: 100300
       motion: 201
-      textHome: |-
-        All I want is Grandpa's
-        secret cookbook this year!
+      textHome: All I want is Grandpa's@secret cookbook this year!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100300
       motion: 0
-      textHome: |-
-        Wait...
-        I was supposed to be the reindeer this year!
+      textHome: Wait...@I was supposed to be the reindeer this year!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -417,18 +406,15 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100300
-      textHome: |-
-        It looks even brighter than last year,
-        doesn't it?
+      textHome: It looks even brighter than last year,@doesn't it?
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 0
-      textHome: |-
-        Or maybe... With Iroha and the others
-        here with me, I'm just happier than ever!
+      textHome: Or maybe... With Iroha and the others@here with me, I'm just happier
+        than ever!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -453,10 +439,8 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100300
-      textHome: |-
-        There's gotta be kids out there who
-        didn't get a present from Santa
-        because of a Witch...
+      textHome: There's gotta be kids out there who@didn't get a present from Santa@because
+        of a Witch...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -476,10 +460,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_50_31
-      textHome: |-
-        Wouldn't it be rough if a whole
-        bunch of bright lights went up
-        in Mirrors like in the city?
+      textHome: Wouldn't it be rough if a whole@bunch of bright lights went up@in
+        Mirrors like in the city?
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -489,9 +471,7 @@ story:
     chara:
     - id: 100300
       motion: 100
-      textHome: |-
-        You'd get blinded no matter which way
-        you looked!
+      textHome: You'd get blinded no matter which way@you looked!
   - autoTurnFirst: 4
     chara:
     - id: 100300
@@ -532,10 +512,8 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1003_50_33
-      textHome: |-
-        Behold! Banbanzai's "Christmas Special",
-        spinach ramen noodles
-        in the shape of a tree!
+      textHome: Behold! Banbanzai's "Christmas Special",@spinach ramen noodles@in
+        the shape of a tree!
   - autoTurnFirst: 3
     chara:
     - id: 100300
@@ -559,7 +537,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_50_34
-      textHome: "Iroha, Rena, and me,\nwe're the Kamihama Joy Delivery Girls! "
+      textHome: 'Iroha, Rena, and me,@we''re the Kamihama Joy Delivery Girls! '
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -572,9 +550,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 101
-      textHome: |-
-        We'll bring your presents
-        in nice wooden boxes!
+      textHome: We'll bring your presents@in nice wooden boxes!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -599,9 +575,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 100300
       motion: 201
-      textHome: |-
-        If only I had that red nose,
-        I'd be the Mightiest AND perfect...
+      textHome: If only I had that red nose,@I'd be the Mightiest AND perfect...
   - autoTurnFirst: 2
     chara:
     - id: 100300
@@ -624,10 +598,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_50_36
-      textHome: |-
-        I know my ancestors did so many
-        nice things for everyone,
-        but I'm not gonna be outdone!
+      textHome: I know my ancestors did so many@nice things for everyone,@but I'm
+        not gonna be outdone!
   - autoTurnFirst: 2.5
     chara:
     - id: 100300
@@ -644,16 +616,13 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1003_50_37
-      textHome: |-
-        The most surprising Christmas present
-        I ever got?
+      textHome: The most surprising Christmas present@I ever got?
   - autoTurnFirst: 6
     chara:
     - id: 100300
       motion: 0
-      textHome: |-
-        Hmm, probably when I woke up and saw a
-        Banbanzai apron next to my pillow...
+      textHome: Hmm, probably when I woke up and saw a@Banbanzai apron next to my
+        pillow...
   - chara:
     - id: 100350
       textHomeStatus: Clear
@@ -717,19 +686,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1003_50_39
-      textHome: |-
-        What kinda presents
-        should I get for everyone?
+      textHome: What kinda presents@should I get for everyone?
   - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 101
-      textHome: |-
-        From when I decide on a present
-        until they open it,
-        I'm always super nervous and excited
+      textHome: From when I decide on a present@until they open it,@I'm always super
+        nervous and excited
   - chara:
     - id: 100350
       textHomeStatus: Clear
@@ -751,10 +716,8 @@ story:
     chara:
     - id: 100300
       motion: 1
-      textHome: |-
-        He used to sneak me Christmas presents
-        behind my mom's and grandma's backs
-        every year.
+      textHome: He used to sneak me Christmas presents@behind my mom's and grandma's
+        backs@every year.
   - chara:
     - id: 100350
       textHomeStatus: Clear
@@ -780,9 +743,7 @@ story:
     chara:
     - id: 100300
       motion: 1
-      textHome: |-
-        Dashing through the midnight sky,
-        stardust a-whirl!♪
+      textHome: Dashing through the midnight sky,@stardust a-whirl!♪
   - autoTurnFirst: 1
     chara:
     - id: 100300
@@ -791,16 +752,12 @@ story:
     chara:
     - id: 100300
       motion: 1
-      textHome: |-
-        Every speck of stardust makes a
-        miracle unfold♪
+      textHome: Every speck of stardust makes a@miracle unfold♪
   - autoTurnFirst: 2.5
     chara:
     - id: 100300
       motion: 101
-      textHome: |-
-        Check your stockings,
-        see what they hold!♪
+      textHome: Check your stockings,@see what they hold!♪
   - autoTurnFirst: 2.5
     chara:
     - id: 100300

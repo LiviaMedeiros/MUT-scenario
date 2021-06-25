@@ -29,10 +29,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 403100
       motion: 300
-      textHome: |-
-        The one thing I can tell you is that
-        I don't think my actions are wrong.
-        That's all I have to say.
+      textHome: The one thing I can tell you is that@I don't think my actions are
+        wrong.@That's all I have to say.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -55,9 +53,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4031_00_18
-      textHome: |-
-        Since that day, when Tsubaki became a
-        Witch, I've refused to overwrite my magic.
+      textHome: Since that day, when Tsubaki became a@Witch, I've refused to overwrite
+        my magic.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -109,9 +106,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4031_00_20
-      textHome: |-
-        Yet another name to keep safe
-        inside my charm.
+      textHome: Yet another name to keep safe@inside my charm.
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -132,10 +127,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4031_00_21
-      textHome: |-
-        I couldn't do anything back when my parents
-        and I wandered into a Labyrinth,
-        but now I can fight on this level...
+      textHome: I couldn't do anything back when my parents@and I wandered into a
+        Labyrinth,@but now I can fight on this level...
   - autoTurnFirst: 3.4
     chara:
     - id: 403100
@@ -163,9 +156,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_4031_00_22
-      textHome: |-
-        What incredible power...
-        I feel unstoppable now.
+      textHome: What incredible power...@I feel unstoppable now.
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -175,16 +166,12 @@ story:
     chara:
     - id: 403100
       motion: 100
-      textHome: |-
-        With this strength, I can honor
-        the oath I made that day.
+      textHome: With this strength, I can honor@the oath I made that day.
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1
       id: 403100
-      textHome: |-
-        I can fulfill my sworn duty of ending the
-        Magical Girl system.
+      textHome: I can fulfill my sworn duty of ending the@Magical Girl system.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -193,9 +180,7 @@ story:
     chara:
     - id: 403100
       motion: 200
-      textHome: |-
-        I won't yield to any opponent,
-        no matter who.
+      textHome: I won't yield to any opponent,@no matter who.
   - chara:
     - id: 403100
       textHomeStatus: Clear
@@ -249,19 +234,15 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 403100
-      textHome: |2-
-         Why are you so surprised?
-        Couldn't sense me?
+      textHome: ' Why are you so surprised?@Couldn''t sense me?'
   - autoTurnFirst: 7
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 403100
       motion: 100
-      textHome: |-
-        Yeah, I happen to be good at hiding
-        my presence.
-        Even Incubators don't notice me.
+      textHome: Yeah, I happen to be good at hiding@my presence.@Even Incubators don't
+        notice me.
   - chara:
     - id: 403100
       textHomeStatus: Clear
@@ -292,10 +273,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 403100
       motion: 1
-      textHome: |-
-        I've been up for a while now.
-        I got used to it as a kid,
-        so I'm always up early.
+      textHome: I've been up for a while now.@I got used to it as a kid,@so I'm always
+        up early.
   - chara:
     - id: 403100
       textHomeStatus: Clear
@@ -318,9 +297,7 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 403100
-      textHome: |-
-        Oh, I'm fine by myself.
-        I always eat on my own.
+      textHome: Oh, I'm fine by myself.@I always eat on my own.
   - autoTurnFirst: 3.3
     chara:
     - id: 403100
@@ -342,10 +319,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4031_00_27
-      textHome: |-
-        Seeing parents holding their child's hand,
-        or two sisters walking home hand in hand
-        brings back so many memories.
+      textHome: Seeing parents holding their child's hand,@or two sisters walking
+        home hand in hand@brings back so many memories.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -389,9 +364,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4031_00_28
-      textHome: |-
-        I'm on my way out the door, but
-        shouldn't you be getting some sleep?
+      textHome: I'm on my way out the door, but@shouldn't you be getting some sleep?
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0
@@ -403,9 +376,7 @@ story:
     chara:
     - id: 403100
       motion: 200
-      textHome: |-
-        I've got...a little errand to do.
-        Don't worry about it.
+      textHome: I've got...a little errand to do.@Don't worry about it.
   - chara:
     - id: 403100
       textHomeStatus: Clear
@@ -422,18 +393,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4031_00_29
-      textHome: |-
-        I thought I'd look around Kamihama for
-        a while since I've got some free time.
+      textHome: I thought I'd look around Kamihama for@a while since I've got some
+        free time.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 403100
       motion: 200
-      textHome: |-
-        You never know what info might
-        come in handy.
+      textHome: You never know what info might@come in handy.
   - chara:
     - id: 403100
       textHomeStatus: Clear
@@ -450,9 +418,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_4031_00_30
-      textHome: |-
-        Defeating Witches and Magical Girls
-        are basically the same.
+      textHome: Defeating Witches and Magical Girls@are basically the same.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -488,9 +454,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4031_00_31
-      textHome: |-
-        I am very experienced in fighting
-        Magical Girls.
+      textHome: I am very experienced in fighting@Magical Girls.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -557,16 +521,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4031_00_33
-      textHome: |-
-        First you hear a bell, then a voice
-        will ask your name.
+      textHome: First you hear a bell, then a voice@will ask your name.
   - autoTurnFirst: 5
     chara:
     - id: 403100
       motion: 100
-      textHome: |-
-        Answer and the Ripper will slice you
-        into pieces...
+      textHome: Answer and the Ripper will slice you@into pieces...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -590,10 +550,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4031_00_34
-      textHome: |-
-        I'm planning to live at a newspaper
-        carrier next.
-        I'll have to do morning deliveries though...
+      textHome: I'm planning to live at a newspaper@carrier next.@I'll have to do
+        morning deliveries though...
   - autoTurnFirst: 3
     chara:
     - id: 403100
@@ -620,10 +578,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4031_00_35
-      textHome: |-
-        Want to read the paper? I've finished
-        reading, so you can have this one
-        if you like.
+      textHome: Want to read the paper? I've finished@reading, so you can have this
+        one@if you like.
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
@@ -634,9 +590,7 @@ story:
     chara:
     - id: 403100
       motion: 1
-      textHome: |-
-        Don't tell me you've never seen
-        a paper newspaper before?
+      textHome: Don't tell me you've never seen@a paper newspaper before?
   - chara:
     - id: 403100
       textHomeStatus: Clear
@@ -667,9 +621,7 @@ story:
     chara:
     - id: 403100
       motion: 200
-      textHome: |-
-        There are things in this world
-        better left unknown.
+      textHome: There are things in this world@better left unknown.
   - chara:
     - id: 403100
       textHomeStatus: Clear
@@ -686,10 +638,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4031_00_37
-      textHome: |-
-        Incubators think emotions are irrational
-        and unnecessary, but we would cease
-        to be ourselves without them.
+      textHome: Incubators think emotions are irrational@and unnecessary, but we would
+        cease@to be ourselves without them.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -731,10 +681,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4031_00_38
-      textHome: |-
-        It's all the same no matter who my
-        classmates are. I'm not going to try to
-        get that close with anyone.
+      textHome: It's all the same no matter who my@classmates are. I'm not going to
+        try to@get that close with anyone.
   - autoTurnFirst: 4.8
     chara:
     - id: 403100
@@ -761,9 +709,7 @@ story:
     chara:
     - id: 403100
       motion: 200
-      textHome: |2-
-         Hm...I would have to say the charm
-        and bell on my hair tie.
+      textHome: ' Hm...I would have to say the charm@and bell on my hair tie.'
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -787,16 +733,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_4031_00_40
-      textHome: |-
-        If it means stopping the whole
-        Magical Girl system...
+      textHome: If it means stopping the whole@Magical Girl system...
   - autoTurnFirst: 2.3
     chara:
     - eyeClose: 1
       id: 403100
-      textHome: |-
-        If it will keep people from getting
-        caught in it, I'm fine with being "evil".
+      textHome: If it will keep people from getting@caught in it, I'm fine with being
+        "evil".
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -808,9 +751,7 @@ story:
     chara:
     - id: 403100
       motion: 400
-      textHome: |-
-        People can call me a murderer
-        all they want.
+      textHome: People can call me a murderer@all they want.
   - chara:
     - id: 403100
       textHomeStatus: Clear
@@ -827,9 +768,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4031_00_41
-      textHome: |-
-        This is yours, isn't it?
-        No need to thank me...
+      textHome: This is yours, isn't it?@No need to thank me...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -909,9 +848,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_4031_00_45
-      textHome: |-
-        After all these attempts...
-        the result's the same.
+      textHome: After all these attempts...@the result's the same.
   - chara:
     - id: 403100
       textHomeStatus: Clear
@@ -1025,10 +962,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4031_00_02
-      textHome: |-
-        I didn't introduce myself, did I?
-        I'm Suzune Amano.
-        I'm a Magical Girl, like you.
+      textHome: I didn't introduce myself, did I?@I'm Suzune Amano.@I'm a Magical
+        Girl, like you.
   - autoTurnFirst: 5.4
     chara:
     - cheek: 0
@@ -1068,9 +1003,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4031_00_14
-      textHome: |-
-        With this power, I'll put an end to
-        the whole Magical Girl system.
+      textHome: With this power, I'll put an end to@the whole Magical Girl system.
   - autoTurnFirst: 2.5
     chara:
     - id: 403100
@@ -1097,9 +1030,7 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 403100
-      textHome: |-
-        There are some things you're better off
-        not knowing.
+      textHome: There are some things you're better off@not knowing.
   - chara:
     - id: 403100
       textHomeStatus: Clear
@@ -1116,17 +1047,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_4031_00_16
-      textHome: |-
-        I can absorb magic from the Witches
-        I defeat to use as my own.
+      textHome: I can absorb magic from the Witches@I defeat to use as my own.
   - autoTurnFirst: 9.5
     chara:
     - id: 403100
       motion: 1
-      textHome: |-
-        But I can only store one kind of magic
-        at a time... Once I absorb new magic,
-        I can no longer use the old kind.
+      textHome: But I can only store one kind of magic@at a time... Once I absorb
+        new magic,@I can no longer use the old kind.
   - chara:
     - id: 403100
       textHomeStatus: Clear
@@ -1143,19 +1070,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4031_00_17
-      textHome: |-
-        There was a time when I used to be excited
-        each time I learned a new magic,
-        to see what kind of powers I'd gotten.
+      textHome: There was a time when I used to be excited@each time I learned a new
+        magic,@to see what kind of powers I'd gotten.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 403100
       motion: 100
-      textHome: |-
-        That was back before I knew
-        the truth about Magical Girls...
+      textHome: That was back before I knew@the truth about Magical Girls...
   - chara:
     - id: 403100
       textHomeStatus: Clear

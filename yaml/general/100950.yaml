@@ -252,27 +252,21 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1009_50_24
-      textHome: |-
-        How long were you planning
-        on making me wait?
+      textHome: How long were you planning@on making me wait?
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100900
       motion: 1
-      textHome: |-
-        Imagine how you'd feel,
-        standing around in this costume!
+      textHome: Imagine how you'd feel,@standing around in this costume!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100900
       motion: 100
-      textHome: |-
-        You can make it up to me by getting me
-        something sweet.
+      textHome: You can make it up to me by getting me@something sweet.
   - chara:
     - id: 100950
       textHomeStatus: Clear
@@ -292,9 +286,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 100900
       motion: 0
-      textHome: |-
-        Bleh, I like Christmas, but someone's gotta
-        do something about this cold weather...
+      textHome: Bleh, I like Christmas, but someone's gotta@do something about this
+        cold weather...
   - autoTurnFirst: 4
     chara:
     - id: 100900
@@ -318,10 +311,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1009_50_26
-      textHome: |-
-        I bought presents to exchange with
-        Momoko and the others, but I don't
-        have anything to do until we meet up...
+      textHome: I bought presents to exchange with@Momoko and the others, but I don't@have
+        anything to do until we meet up...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -353,18 +344,15 @@ story:
       face: mtn_ex_020.exp.json
       id: 100900
       motion: 200
-      textHome: |-
-        Christmas is the whole reason
-        I'm all worked up...
+      textHome: Christmas is the whole reason@I'm all worked up...
   - autoTurnFirst: 5
     chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
       id: 100900
       motion: 201
-      textHome: |-
-        All these displays of chicken and pastries
-        and cakes...they're killing me!
+      textHome: All these displays of chicken and pastries@and cakes...they're killing
+        me!
   - chara:
     - id: 100950
       textHomeStatus: Clear
@@ -429,17 +417,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1009_50_29
-      textHome: |-
-        I dunno...
-        I really hate how cold it is in winter,
+      textHome: I dunno...@I really hate how cold it is in winter,
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100900
-      textHome: |-
-        but once you get used to it the chill in the air
-        feels kinda nice...
+      textHome: but once you get used to it the chill in the air@feels kinda nice...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -458,16 +442,12 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1009_50_30
-      textHome: |-
-        Everyone's in such high spirits,
-        and here you are being a Debbie Downer...
+      textHome: Everyone's in such high spirits,@and here you are being a Debbie Downer...
   - autoTurnFirst: 3
     chara:
     - id: 100900
       motion: 200
-      textHome: |-
-        I won't go easy on you,
-        even if you cry and try to apologize!
+      textHome: I won't go easy on you,@even if you cry and try to apologize!
   - autoTurnFirst: 3
     chara:
     - id: 100900
@@ -489,9 +469,7 @@ story:
     chara:
     - id: 100900
       motion: 100
-      textHome: |-
-        I wonder if she'll be okay without me
-        going after her...
+      textHome: I wonder if she'll be okay without me@going after her...
   - chara:
     - id: 100950
       textHomeStatus: Clear
@@ -529,10 +507,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1009_50_33
-      textHome: |-
-        I'm sure you won't believe it,
-        but I've even dressed up as Santa
-        to give presents to my kid brother.
+      textHome: I'm sure you won't believe it,@but I've even dressed up as Santa@to
+        give presents to my kid brother.
   - autoTurnFirst: 4.7
     chara:
     - id: 100900
@@ -560,10 +536,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 100900
       motion: 0
-      textHome: |-
-        I promised myself I'd go see a concert
-        this Christmas, so how come I lost
-        every raffle?!
+      textHome: I promised myself I'd go see a concert@this Christmas, so how come
+        I lost@every raffle?!
   - autoTurnFirst: 4.5
     chara:
     - cheek: 1
@@ -590,10 +564,8 @@ story:
       motion: 201
       pos: 1
       voice: vo_char_1009_50_35
-      textHome: |-
-        Are you kidding me?!
-        The only costume I usually wear is my
-        Magical Girl one!
+      textHome: Are you kidding me?!@The only costume I usually wear is my@Magical
+        Girl one!
   - autoTurnFirst: 3
     chara:
     - id: 100900
@@ -633,9 +605,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100900
       motion: 100
-      textHome: |-
-        Chocolate or whipped cream...
-        even chestnut cream.
+      textHome: Chocolate or whipped cream...@even chestnut cream.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -661,9 +631,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100900
-      textHome: |-
-        Whatever's going on in
-        Kaede's head is beyond me...
+      textHome: Whatever's going on in@Kaede's head is beyond me...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -675,9 +643,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100900
-      textHome: |-
-        At least she seems to be enjoying herself,
-        so whatever.
+      textHome: At least she seems to be enjoying herself,@so whatever.
   - autoTurnFirst: 4
     chara:
     - id: 100900
@@ -710,9 +676,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1009_50_38
-      textHome: |-
-        Oh? This right here?
-        It's my own "Christmas Pop Star Mix"!
+      textHome: Oh? This right here?@It's my own "Christmas Pop Star Mix"!
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -730,9 +694,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100900
       motion: 100
-      textHome: |-
-        All my favorite songs are at the end
-        so by then I'll get in the spirit for sure!
+      textHome: All my favorite songs are at the end@so by then I'll get in the spirit
+        for sure!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -750,9 +713,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1009_50_39
-      textHome: |-
-        Don't just up and decide that
-        I hate being Santa.
+      textHome: Don't just up and decide that@I hate being Santa.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -784,9 +745,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1009_50_40
-      textHome: |-
-        I spent my first Christmas with Momoko
-        and Kaede in a park near my house.
+      textHome: I spent my first Christmas with Momoko@and Kaede in a park near my
+        house.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -824,9 +784,7 @@ story:
     chara:
     - id: 100900
       motion: 0
-      textHome: |-
-        I was just talking to myself, okay?!
-        More importantly, don't eavesdrop!
+      textHome: I was just talking to myself, okay?!@More importantly, don't eavesdrop!
   - autoTurnFirst: 3
     chara:
     - cheek: 2

@@ -9,18 +9,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4012_00_01
-      textHome: |-
-        I had the worst luck with finding
-        good editors back in the day...
+      textHome: I had the worst luck with finding@good editors back in the day...
   - autoTurnFirst: 13
     chara:
     - cheek: 0
       id: 401200
       motion: 1
-      textHome: |-
-        That's why I wished "to find an editor who
-        recognized my abilities and valued my work"
-        rather than for talent...
+      textHome: That's why I wished "to find an editor who@recognized my abilities
+        and valued my work"@rather than for talent...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -33,9 +29,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 401200
       motion: 0
-      textHome: |-
-        I knew in my heart that my stories
-        would touch everyone who read them.
+      textHome: I knew in my heart that my stories@would touch everyone who read them.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -56,17 +50,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4012_00_18
-      textHome: |-
-        Though mysteries themselves, a genre
-        that rejects its own premise called
-        "anti-mystery" also exists.
+      textHome: Though mysteries themselves, a genre@that rejects its own premise
+        called@"anti-mystery" also exists.
   - autoTurnFirst: 4.5
     chara:
     - id: 401200
       motion: 200
-      textHome: |-
-        From a certain point of view,
-        authors could also be called inventors.
+      textHome: From a certain point of view,@authors could also be called inventors.
   - chara:
     - id: 401200
       textHomeStatus: Clear
@@ -89,9 +79,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 401200
       motion: 1
-      textHome: |-
-        Now, I'll be able to obliterate
-        more enemies than ever before!
+      textHome: Now, I'll be able to obliterate@more enemies than ever before!
   - chara:
     - id: 401200
       textHomeStatus: Clear
@@ -128,17 +116,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4012_00_21
-      textHome: |
-        Some people get hung up on
-        where to begin when writing a novel.
+      textHome: Some people get hung up on@where to begin when writing a novel.@
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401200
-      textHome: |-
-        However, it's what you want
-        to write that's important.
+      textHome: However, it's what you want@to write that's important.
   - autoTurnFirst: 3
     chara:
     - id: 401200
@@ -163,17 +147,13 @@ story:
     chara:
     - id: 401200
       motion: 200
-      textHome: |-
-        Though you can only see them
-        by straining your eyes.
+      textHome: Though you can only see them@by straining your eyes.
   - autoTurnFirst: 7
     chara:
     - id: 401200
       motion: 1
-      textHome: |-
-        Once you find one, either write it down
-         or burn it into your memory so you can
-        bring it out when the time is right.
+      textHome: Once you find one, either write it down@ or burn it into your memory
+        so you can@bring it out when the time is right.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -274,7 +254,7 @@ story:
     - eyeClose: 0
       id: 401200
       motion: 1
-      textHome: "I can't remember exactly \nwhat I wrote, though."
+      textHome: I can't remember exactly @what I wrote, though.
   - autoTurnFirst: 4
     chara:
     - id: 401200
@@ -300,9 +280,7 @@ story:
     chara:
     - id: 401200
       motion: 300
-      textHome: |-
-        Plus my stomach is telling me
-        it's time for a break.
+      textHome: Plus my stomach is telling me@it's time for a break.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -325,9 +303,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4012_00_27
-      textHome: |-
-        An amazing idea just came to me!
-        I have to write it down right away!
+      textHome: An amazing idea just came to me!@I have to write it down right away!
   - autoTurnFirst: 3
     chara:
     - id: 401200
@@ -384,9 +360,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401200
-      textHome: |-
-        I'm going to stay up a bit
-        longer and keep writing.
+      textHome: I'm going to stay up a bit@longer and keep writing.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -426,9 +400,7 @@ story:
     chara:
     - id: 401200
       motion: 1
-      textHome: |-
-        Just make sure you're ready to
-        go in ten minutes!
+      textHome: Just make sure you're ready to@go in ten minutes!
   - chara:
     - id: 401200
       textHomeStatus: Clear
@@ -449,9 +421,7 @@ story:
     chara:
     - id: 401200
       motion: 1
-      textHome: |-
-        That's why, as a writer,
-        I have to continue to write.
+      textHome: That's why, as a writer,@I have to continue to write.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -479,8 +449,8 @@ story:
     chara:
     - id: 401200
       motion: 1
-      textHome: "Alright then, don't hold back. \nAfter all, I'm going to find all
-        your \nweaknesses and use them to my advantage!"
+      textHome: Alright then, don't hold back. @After all, I'm going to find all your
+        @weaknesses and use them to my advantage!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -525,9 +495,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4012_00_33
-      textHome: |-
-        I think Kazumi looks good in cute,
-        bright-colored clothes.
+      textHome: I think Kazumi looks good in cute,@bright-colored clothes.
   - autoTurnFirst: 3.5
     chara:
     - id: 401200
@@ -555,18 +523,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4012_00_34
-      textHome: |-
-        I always try to buy the cheapest
-        ingredients possible.
+      textHome: I always try to buy the cheapest@ingredients possible.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401200
       motion: 200
-      textHome: |-
-        Got it?
-        Our lives are a constant race against money.
+      textHome: Got it?@Our lives are a constant race against money.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -592,16 +556,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4012_00_35
-      textHome: |-
-        It feels like anyone in Asunaro City
-        could potentially become a Witch...
+      textHome: It feels like anyone in Asunaro City@could potentially become a Witch...
   - autoTurnFirst: 5
     chara:
     - id: 401200
       motion: 300
-      textHome: |-
-        The circumstances there are much
-        different than in Kamihama City.
+      textHome: The circumstances there are much@different than in Kamihama City.
   - chara:
     - id: 401200
       textHomeStatus: Clear
@@ -617,17 +577,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4012_00_36
-      textHome: |-
-        Witches follow a specific set of rules when
-        attacking people,
+      textHome: Witches follow a specific set of rules when@attacking people,
   - autoTurnFirst: 4.5
     chara:
     - id: 401200
       motion: 200
-      textHome: |-
-        so one useful tactic is to try to work
-        through those rules backwards to
-        predict who they'll target next.
+      textHome: so one useful tactic is to try to work@through those rules backwards
+        to@predict who they'll target next.
   - chara:
     - id: 401200
       textHomeStatus: Clear
@@ -648,9 +604,7 @@ story:
     chara:
     - id: 401200
       motion: 300
-      textHome: |-
-        I don't think I would've become
-        a writer without my computer.
+      textHome: I don't think I would've become@a writer without my computer.
   - autoTurnFirst: 2
     chara:
     - id: 401200
@@ -707,9 +661,7 @@ story:
     chara:
     - id: 401200
       motion: 1
-      textHome: |2-
-         I'll cook things like wieners,
-        noodle salad, and cake.
+      textHome: ' I''ll cook things like wieners,@noodle salad, and cake.'
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -735,9 +687,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4012_00_39
-      textHome: |-
-        Whether I'm cooking or shopping,
-        the goal is stress relief.
+      textHome: Whether I'm cooking or shopping,@the goal is stress relief.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -760,19 +710,16 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4012_00_40
-      textHome: |-
-        This might sound obvious, but when you
-        make something yourself, you treasure
-        it that much more.
+      textHome: This might sound obvious, but when you@make something yourself, you
+        treasure@it that much more.
   - autoTurnFirst: 5.5
     chara:
     - cheek: 2
       face: mtn_ex_020.exp.json
       id: 401200
       motion: 1
-      textHome: |-
-        I really can't forgive people who don't treat
-        stuff like that with care.
+      textHome: I really can't forgive people who don't treat@stuff like that with
+        care.
   - chara:
     - id: 401200
       textHomeStatus: Clear
@@ -1009,18 +956,14 @@ story:
       face: mtn_ex_050.exp.json
       id: 401200
       motion: 0
-      textHome: |-
-        Oh, I'm sorry.
-        I thought I had a good idea for a new novel.
+      textHome: Oh, I'm sorry.@I thought I had a good idea for a new novel.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401200
       motion: 1
-      textHome: |-
-        My name is Umika Misaki.
-        A pleasure to meet you.
+      textHome: My name is Umika Misaki.@A pleasure to meet you.
   - chara:
     - id: 401200
       textHomeStatus: Clear
@@ -1036,9 +979,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4012_00_13
-      textHome: |-
-        This feels...yes...as if
-        I have turned a new page.
+      textHome: This feels...yes...as if@I have turned a new page.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1068,9 +1009,7 @@ story:
     chara:
     - id: 401200
       motion: 1
-      textHome: |-
-        The period at the end of a sentence
-        if you will.
+      textHome: The period at the end of a sentence@if you will.
   - chara:
     - id: 401200
       textHomeStatus: Clear
@@ -1116,16 +1055,13 @@ story:
     chara:
     - id: 401200
       motion: 1
-      textHome: |-
-        In mysteries, for instance, you must have an
-        incident with a twist the reader won't expect,
+      textHome: In mysteries, for instance, you must have an@incident with a twist
+        the reader won't expect,
   - autoTurnFirst: 5
     chara:
     - id: 401200
       motion: 200
-      textHome: |-
-        as well as provide a logically sound
-        backstory. Those are imperative.
+      textHome: as well as provide a logically sound@backstory. Those are imperative.
   - chara:
     - id: 401200
       textHomeStatus: Clear
@@ -1141,10 +1077,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4012_00_17
-      textHome: |-
-        Even mystery novels have their own
-        classification with many types branching
-        out. "Orthodox" is at the root of the tree.
+      textHome: Even mystery novels have their own@classification with many types
+        branching@out. "Orthodox" is at the root of the tree.
   - autoTurnFirst: 3.5
     chara:
     - id: 401200

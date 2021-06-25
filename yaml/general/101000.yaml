@@ -20,9 +20,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101000
-      textHome: |-
-        I grew up between two brothers,
-        so...well, as you can see,
+      textHome: I grew up between two brothers,@so...well, as you can see,
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -41,9 +39,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 101000
       motion: 0
-      textHome: |-
-        Well, anyway, I got real good at sports,
-        so it's got its perks goin' for it.
+      textHome: Well, anyway, I got real good at sports,@so it's got its perks goin'
+        for it.
   - autoTurnFirst: 2.7
     chara:
     - id: 101000
@@ -108,9 +105,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1010_00_19
-      textHome: |-
-        Ain't no way I'm stoppin' here!
-        I can keep runnin', just watch!
+      textHome: Ain't no way I'm stoppin' here!@I can keep runnin', just watch!
   - autoTurnFirst: 1.4
     chara:
     - id: 101000
@@ -136,10 +131,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1010_00_20
-      textHome: |-
-        Woohoo!
-        I gotta go test out this new strength,
-        right away!
+      textHome: Woohoo!@I gotta go test out this new strength,@right away!
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -164,9 +156,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1010_00_21
-      textHome: |-
-        I'm not alone anymore.
-        I got everyone watchin' my back...
+      textHome: I'm not alone anymore.@I got everyone watchin' my back...
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -203,19 +193,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1010_00_22
-      textHome: |-
-        Obviously I wanna get stronger so
-        I can protect those dear to me,
-        like my family and friends!
+      textHome: Obviously I wanna get stronger so@I can protect those dear to me,@like
+        my family and friends!
   - autoTurnFirst: 3.4
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 101000
       motion: 1
-      textHome: |-
-        Hey, if it wound up helpin' me
-        grow as a Magical Girl...
+      textHome: Hey, if it wound up helpin' me@grow as a Magical Girl...
   - autoTurnFirst: 2.1
     chara:
     - cheek: 0
@@ -227,9 +213,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101000
-      textHome: |-
-        I guess it ain't so bad bein'
-        boyish and strong!
+      textHome: I guess it ain't so bad bein'@boyish and strong!
   - autoTurnFirst: 2.2
     chara:
     - id: 101000
@@ -310,9 +294,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101000
-      textHome: |-
-        Oh! You gotta tell me the rest of that story
-        you were telling me yesterday!
+      textHome: Oh! You gotta tell me the rest of that story@you were telling me yesterday!
   - autoTurnFirst: 3.5
     chara:
     - id: 101000
@@ -360,9 +342,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101000
       motion: 1
-      textHome: |-
-        I'm always here if you wanna talk
-        about what's on your mind.
+      textHome: I'm always here if you wanna talk@about what's on your mind.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -397,9 +377,8 @@ story:
     chara:
     - id: 101000
       motion: 300
-      textHome: |-
-        "Can't do anythin' on an empty stomach."
-        Isn't that what they say?
+      textHome: '"Can''t do anythin'' on an empty stomach."@Isn''t that what they
+        say?'
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -439,9 +418,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101000
       motion: 0
-      textHome: |-
-        Feel free to join in if you like!
-        This one looks pretty easy to learn!
+      textHome: Feel free to join in if you like!@This one looks pretty easy to learn!
   - autoTurnFirst: 1.8
     chara:
     - id: 101000
@@ -505,9 +482,7 @@ story:
     - cheek: 1
       face: mtn_ex_041.exp.json
       id: 101000
-      textHome: |-
-        Maybe I overexerted myself
-        a bit during the day...Zzz...
+      textHome: Maybe I overexerted myself@a bit during the day...Zzz...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -540,9 +515,8 @@ story:
     chara:
     - id: 101000
       motion: 200
-      textHome: |-
-        Hey, do you remember me sayin' somethin'
-        about lending that DVD to Rena?
+      textHome: Hey, do you remember me sayin' somethin'@about lending that DVD to
+        Rena?
   - autoTurnFirst: 1.1
     chara:
     - id: 101000
@@ -578,9 +552,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101000
       motion: 0
-      textHome: |-
-        We've gotta treat ourselves after
-        working so hard!
+      textHome: We've gotta treat ourselves after@working so hard!
   - autoTurnFirst: 2.5
     chara:
     - id: 101000
@@ -601,9 +573,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1010_00_31
-      textHome: |-
-        Well they asked for it!
-        Let's do this!
+      textHome: Well they asked for it!@Let's do this!
   - autoTurnFirst: 1.9
     chara:
     - cheek: 0
@@ -613,9 +583,7 @@ story:
     chara:
     - id: 101000
       motion: 0
-      textHome: |-
-        I mean, I do have the strongest team
-        backin' me up!
+      textHome: I mean, I do have the strongest team@backin' me up!
   - autoTurnFirst: 2.3
     chara:
     - id: 101000
@@ -700,8 +668,8 @@ story:
     chara:
     - id: 101000
       motion: 0
-      textHome: "I guess a cute toy like this...doesn't \nreally suit me at all, does
-        it?"
+      textHome: I guess a cute toy like this...doesn't @really suit me at all, does
+        it?
   - autoTurnFirst: 2.5
     chara:
     - id: 101000
@@ -747,9 +715,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1010_00_35
-      textHome: |-
-        It's all about live performances when
-        it comes to pop music!
+      textHome: It's all about live performances when@it comes to pop music!
   - autoTurnFirst: 1.9
     chara:
     - cheek: 1
@@ -768,9 +734,7 @@ story:
     - cheek: 1
       id: 101000
       motion: 0
-      textHome: |-
-        The atmosphere at those shows...
-        It's addictive!
+      textHome: The atmosphere at those shows...@It's addictive!
   - autoTurnFirst: 0.5
     chara:
     - id: 101000
@@ -904,9 +868,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101000
-      textHome: |-
-        A truly balanced team. You wouldn't think it,
-        but we all work together great!
+      textHome: A truly balanced team. You wouldn't think it,@but we all work together
+        great!
   - autoTurnFirst: 1.5
     chara:
     - id: 101000
@@ -940,9 +903,7 @@ story:
     chara:
     - id: 101000
       motion: 1
-      textHome: |-
-        She always talks to you so normally,
-        but when you see her in magazines,
+      textHome: She always talks to you so normally,@but when you see her in magazines,
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -975,9 +936,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1010_00_40
-      textHome: |-
-        I wished for the courage to tell the boy I liked
-        how I felt about him,
+      textHome: I wished for the courage to tell the boy I liked@how I felt about
+        him,
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -994,9 +954,7 @@ story:
     chara:
     - id: 101000
       motion: 300
-      textHome: |-
-        There's a reason they call me
-        Bad-Timing-Momoko.
+      textHome: There's a reason they call me@Bad-Timing-Momoko.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -1106,9 +1064,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1010_00_45
-      textHome: |-
-        I'm countin' on you to back
-        me up from here on!
+      textHome: I'm countin' on you to back@me up from here on!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -1129,9 +1085,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1010_00_46
-      textHome: |-
-        All of us are here! It was bound to
-        turn out like this.
+      textHome: All of us are here! It was bound to@turn out like this.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -1257,9 +1211,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101000
-      textHome: |2-
-         I've already got a team with some friends
-        who are Magical Girls.
+      textHome: ' I''ve already got a team with some friends@who are Magical Girls.'
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1308,9 +1260,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1010_00_14
-      textHome: |-
-        Maybe this is the result of keepin' up
-        good habits!
+      textHome: Maybe this is the result of keepin' up@good habits!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1342,9 +1292,7 @@ story:
     chara:
     - id: 101000
       motion: 0
-      textHome: |-
-        I think we stand a chance at bein'
-        the strongest team around someday!
+      textHome: I think we stand a chance at bein'@the strongest team around someday!
   - autoTurnFirst: 1.3
     chara:
     - cheek: 1
@@ -1365,18 +1313,16 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1010_00_16
-      textHome: |-
-        Now that I'm here, I don't have a single
-        regret about becomin' a Magical Girl.
+      textHome: Now that I'm here, I don't have a single@regret about becomin' a Magical
+        Girl.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 101000
       motion: 0
-      textHome: |-
-        Y'know why? 'Cause if I hadn't become a
-        Magical Girl, I wouldn't have met everybody.
+      textHome: Y'know why? 'Cause if I hadn't become a@Magical Girl, I wouldn't have
+        met everybody.
   - autoTurnFirst: 2.5
     chara:
     - id: 101000
@@ -1396,16 +1342,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1010_00_17
-      textHome: |-
-        If I was alone...my heart woulda been
-        broken a long time ago.
+      textHome: If I was alone...my heart woulda been@broken a long time ago.
   - autoTurnFirst: 4.5
     chara:
     - id: 101000
       motion: 0
-      textHome: |-
-        But I pulled myself up,
-        thanks to everyone stickin' by me.
+      textHome: But I pulled myself up,@thanks to everyone stickin' by me.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1

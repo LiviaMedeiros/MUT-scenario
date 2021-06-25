@@ -243,9 +243,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 200151
       motion: 1
-      textHome: |-
-        Too busy thinking about what fun things
-        to do, or what flavor shaved ice to get...
+      textHome: Too busy thinking about what fun things@to do, or what flavor shaved
+        ice to get...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -265,9 +264,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2001_51_26
-      textHome: |-
-        You've got to get yakisoba if you're
-        having lunch at a beach house!
+      textHome: You've got to get yakisoba if you're@having lunch at a beach house!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -287,9 +284,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 200151
       motion: 201
-      textHome: |-
-        I guess it tastes better since
-        it's a special occasion.
+      textHome: I guess it tastes better since@it's a special occasion.
   - chara:
     - id: 200151
       textHomeStatus: Clear
@@ -303,9 +298,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2001_51_27
-      textHome: |-
-        I love getting home from school
-        and eating ice cream in the AC.
+      textHome: I love getting home from school@and eating ice cream in the AC.
   - autoTurnFirst: 1.4
     chara:
     - cheek: 0
@@ -342,9 +335,8 @@ story:
       motion: 201
       pos: 1
       voice: vo_char_2001_51_28
-      textHome: |-
-        We're going to set off fireworks tonight!
-        Sayaka got lots ready, all different kinds.
+      textHome: We're going to set off fireworks tonight!@Sayaka got lots ready, all
+        different kinds.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -381,9 +373,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 200151
       motion: 1
-      textHome: |-
-        You have to keep an eye on your water
-        and salt intake to beat the heat.
+      textHome: You have to keep an eye on your water@and salt intake to beat the
+        heat.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -416,10 +407,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 200151
       motion: 0
-      textHome: |-
-        I'm gonna take it out right now so
-        it won't bother all these people
-        enjoying their summer!
+      textHome: I'm gonna take it out right now so@it won't bother all these people@enjoying
+        their summer!
   - autoTurnFirst: 3.3
     chara:
     - id: 200151
@@ -497,9 +486,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2001_51_33
-      textHome: |-
-        I brought a swim float along 'cause
-        I'm not too confident about swimming.
+      textHome: I brought a swim float along 'cause@I'm not too confident about swimming.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -527,9 +514,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2001_51_34
-      textHome: |-
-        Agh, I'm losing my balance!
-        Is the watermelon this way?
+      textHome: Agh, I'm losing my balance!@Is the watermelon this way?
   - autoTurnFirst: 5.5
     chara:
     - eyeClose: 1
@@ -609,9 +594,7 @@ story:
     chara:
     - id: 200151
       motion: 100
-      textHome: |-
-        Trading bites with everyone is half the fun,
-        right?
+      textHome: Trading bites with everyone is half the fun,@right?
   - autoTurnFirst: 2.6
     chara:
     - cheek: 0
@@ -638,9 +621,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2001_51_37
-      textHome: |-
-        What do you think of my swimsuit?
-        I thought it might stand out a bit too much...
+      textHome: What do you think of my swimsuit?@I thought it might stand out a bit
+        too much...
   - autoTurnFirst: 5.1
     chara:
     - cheek: 0
@@ -685,17 +667,13 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2001_51_38
-      textHome: |-
-        Homura looks so cute in her swimsuit,
-        doesn't she?!
+      textHome: Homura looks so cute in her swimsuit,@doesn't she?!
   - autoTurnFirst: 3.8
     chara:
     - id: 200151
       motion: 0
-      textHome: |-
-        The flowers she pinned in her hair are cute,
-        but the ribbons trailing from her back
-        are the cutest!
+      textHome: The flowers she pinned in her hair are cute,@but the ribbons trailing
+        from her back@are the cutest!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -743,17 +721,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2001_51_40
-      textHome: |-
-        It'd be nice if we could all go looking for
-        swimsuits together next year.
+      textHome: It'd be nice if we could all go looking for@swimsuits together next
+        year.
   - autoTurnFirst: 4.7
     chara:
     - id: 200151
       motion: 1
-      textHome: |-
-        It'd definitely be fun to pick one out
-        while discussing which ones fit and
-        how cute they are!
+      textHome: It'd definitely be fun to pick one out@while discussing which ones
+        fit and@how cute they are!
   - autoTurnFirst: 3.3
     chara:
     - cheek: 0
@@ -790,9 +765,7 @@ story:
     chara:
     - id: 200151
       motion: 200
-      textHome: |-
-        Ugh, I guess I'll brave the sand
-        and go back to get them.
+      textHome: Ugh, I guess I'll brave the sand@and go back to get them.
   - chara:
     - id: 200151
       textHomeStatus: Clear

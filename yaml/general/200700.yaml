@@ -42,10 +42,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 200700
       motion: 1
-      textHome: |-
-        Of course I love eating it,
-        but I also love how it looks.
-        It can be nice and round or blocky.....
+      textHome: Of course I love eating it,@but I also love how it looks.@It can be
+        nice and round or blocky.....
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -66,16 +64,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2007_00_17
-      textHome: |-
-        I chose to play trumpet in the school band,
-        but I couldn't get any sound out of it at first.
+      textHome: I chose to play trumpet in the school band,@but I couldn't get any
+        sound out of it at first.
   - autoTurnFirst: 3
     chara:
     - id: 200700
       motion: 300
-      textHome: |-
-        No matter how hard I tried,
-        it would just make a "fwoosh" sound.
+      textHome: No matter how hard I tried,@it would just make a "fwoosh" sound.
   - autoTurnFirst: 1.5
     chara:
     - id: 200700
@@ -116,16 +111,13 @@ story:
       face: mtn_ex_010.exp.json
       id: 200700
       motion: 100
-      textHome: |-
-        I could get a sound out of my trumpet if
-        I shaped my mouth like when I eat cheese!
+      textHome: I could get a sound out of my trumpet if@I shaped my mouth like when
+        I eat cheese!
   - autoTurnFirst: 2.1
     chara:
     - id: 200700
       motion: 200
-      textHome: |-
-        It's true! See?
-        I play it like this!
+      textHome: It's true! See?@I play it like this!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -192,9 +184,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2007_00_21
-      textHome: |-
-        I started to love cheese when I first ate
-        a cheesecake my mom made.
+      textHome: I started to love cheese when I first ate@a cheesecake my mom made.
   - autoTurnFirst: 5
     chara:
     - eyeClose: 1
@@ -214,16 +204,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2007_00_22
-      textHome: |-
-        My mom only made cheesecake
-        that one time.
+      textHome: My mom only made cheesecake@that one time.
   - autoTurnFirst: 3.4
     chara:
     - id: 200700
       motion: 300
-      textHome: |-
-        After that she got sick,
-        and had to stay in the hospital.
+      textHome: After that she got sick,@and had to stay in the hospital.
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -237,9 +223,7 @@ story:
     chara:
     - id: 200700
       motion: 0
-      textHome: |-
-        I'll never get to taste that
-        cheesecake again...
+      textHome: I'll never get to taste that@cheesecake again...
   - chara:
     - id: 200700
       textHomeStatus: Clear
@@ -291,18 +275,14 @@ story:
       face: mtn_ex_020.exp.json
       id: 200700
       motion: 1
-      textHome: |-
-        I was getting so tired waiting,
-        plus now I'm starving...
+      textHome: I was getting so tired waiting,@plus now I'm starving...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200700
       motion: 0
-      textHome: |-
-        Okay then, let's go together!
-        And, let's eat cheese!
+      textHome: Okay then, let's go together!@And, let's eat cheese!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -331,9 +311,7 @@ story:
     chara:
     - id: 200700
       motion: 300
-      textHome: |-
-        Time to eat some...hm?
-        Was that all...a dream?
+      textHome: Time to eat some...hm?@Was that all...a dream?
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -349,9 +327,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 200700
       motion: 200
-      textHome: |-
-        I was just about to eat that
-        super rare cheese!
+      textHome: I was just about to eat that@super rare cheese!
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -371,9 +347,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2007_00_26
-      textHome: |-
-        My favorite lunch is Napolitan pasta,
-        with ground cheese on top!
+      textHome: My favorite lunch is Napolitan pasta,@with ground cheese on top!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -390,9 +364,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 200700
       motion: 1
-      textHome: |-
-        You can't have Napolitan pasta
-        without ground cheese!
+      textHome: You can't have Napolitan pasta@without ground cheese!
   - chara:
     - id: 200700
       textHomeStatus: Clear
@@ -472,9 +444,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2007_00_27
-      textHome: |-
-        When I hear the band practice in the
-        evening at school, I get this feeling inside...
+      textHome: When I hear the band practice in the@evening at school, I get this
+        feeling inside...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -510,9 +481,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_2007_00_28
-      textHome: |-
-        I don't stay up too late because
-        I'm still kinda young!
+      textHome: I don't stay up too late because@I'm still kinda young!
   - autoTurnFirst: 3.2
     chara:
     - eyeClose: 1
@@ -565,18 +534,14 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 200700
-      textHome: |-
-        Are you lacking energy?
-        Down in the dumps?
+      textHome: Are you lacking energy?@Down in the dumps?
   - autoTurnFirst: 1.1
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200700
       motion: 0
-      textHome: |-
-        Well, I know just what you need.
-        That's right, it's chee—
+      textHome: Well, I know just what you need.@That's right, it's chee—
   - autoTurnFirst: 0.5
     chara:
     - cheek: 1
@@ -616,9 +581,7 @@ story:
     chara:
     - id: 200700
       motion: 300
-      textHome: |-
-        But that's all because of when
-        I was spreading around curses...
+      textHome: But that's all because of when@I was spreading around curses...
   - autoTurnFirst: 1.3
     chara:
     - cheek: 0
@@ -644,10 +607,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2007_00_31
-      textHome: |-
-        Endless Mirrors...
-        This place made of mirrors is definitely
-        a unique Kamihama phenomenon.
+      textHome: Endless Mirrors...@This place made of mirrors is definitely@a unique
+        Kamihama phenomenon.
   - autoTurnFirst: 5.3
     chara:
     - cheek: 0
@@ -695,9 +656,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2007_00_33
-      textHome: |-
-        What? You want to know what
-        my favorite cheesecake is?
+      textHome: What? You want to know what@my favorite cheesecake is?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -751,10 +710,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2007_00_34
-      textHome: |-
-        Pecorino is a cheese that
-        doesn't just taste good,
-        it's even got a cute name to boot!
+      textHome: Pecorino is a cheese that@doesn't just taste good,@it's even got a
+        cute name to boot!
   - autoTurnFirst: 2.3
     chara:
     - cheek: 1
@@ -800,10 +757,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2007_00_35
-      textHome: |-
-        Something I'm addicted to watching
-        right now is...that moment when
-        raclette cheese starts to melt!
+      textHome: Something I'm addicted to watching@right now is...that moment when@raclette
+        cheese starts to melt!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -835,7 +790,7 @@ story:
       eyeClose: 1
       face: mtn_ex_033.exp.json
       id: 200700
-      textHome: "My mom once told me, \n\"Someday I'll take you to the beach...\""
+      textHome: My mom once told me, @"Someday I'll take you to the beach..."
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -876,10 +831,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2007_00_37
-      textHome: |-
-        I used to like reading sad stories.
-        When I read them, I would feel a little,
-        only a little, comforted.
+      textHome: I used to like reading sad stories.@When I read them, I would feel
+        a little,@only a little, comforted.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -905,9 +858,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2007_00_38
-      textHome: |-
-        It has to be me...
-        I have to be the one to fight that Witch.
+      textHome: It has to be me...@I have to be the one to fight that Witch.
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
@@ -936,9 +887,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2007_00_39
-      textHome: |-
-        The reason this Kamihama City is
-        different from any other world's?
+      textHome: The reason this Kamihama City is@different from any other world's?
   - autoTurnFirst: 3
     chara:
     - id: 200700
@@ -948,10 +897,8 @@ story:
     chara:
     - id: 200700
       motion: 0
-      textHome: |-
-        That's why I need to take my
-        investigation seriously!
-        Yes, I really do!
+      textHome: That's why I need to take my@investigation seriously!@Yes, I really
+        do!
   - autoTurnFirst: 5
     chara:
     - id: 200700
@@ -969,9 +916,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2007_00_40
-      textHome: |-
-        I can become a Witch to fight,
-        but in Kamihama...
+      textHome: I can become a Witch to fight,@but in Kamihama...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -1025,9 +970,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 200700
       motion: 1
-      textHome: |-
-        It sure feels good to shout
-        my love for cheese!
+      textHome: It sure feels good to shout@my love for cheese!
   - chara:
     - id: 200700
       textHomeStatus: Clear
@@ -1309,9 +1252,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 200700
       motion: 100
-      textHome: |-
-        It seemed like fun to be all like
-        "boop-bo boop-bo"!
+      textHome: It seemed like fun to be all like@"boop-bo boop-bo"!
   - autoTurnFirst: 3
     chara:
     - cheek: 0

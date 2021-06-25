@@ -17,10 +17,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 301800
       motion: 1
-      textHome: |-
-        Well, if I had to say, I'm not anyone
-        in particular. You know, a person
-        who isn't anyone. Get it? ...Ahaha!
+      textHome: Well, if I had to say, I'm not anyone@in particular. You know, a person@who
+        isn't anyone. Get it? ...Ahaha!
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -55,9 +53,7 @@ story:
       face: mtn_ex_013.exp.json
       id: 301800
       motion: 100
-      textHome: |-
-        Wait, are you gettin' deja vu?
-        Hahaha!
+      textHome: Wait, are you gettin' deja vu?@Hahaha!
   - chara:
     - id: 301800
       textHomeStatus: Clear
@@ -71,16 +67,12 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3018_00_17
-      textHome: |-
-        Don't ya just hate it when someone
-        cleans your room?!
+      textHome: Don't ya just hate it when someone@cleans your room?!
   - autoTurnFirst: 3.2
     chara:
     - eyeClose: 1
       id: 301800
-      textHome: |-
-        I mean, come on, I put all this
-        thought into messin' it up!
+      textHome: I mean, come on, I put all this@thought into messin' it up!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -108,9 +100,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3018_00_18
-      textHome: |-
-        I think I made a big enough mess,
-        now I wanna make it all nice and neat.
+      textHome: I think I made a big enough mess,@now I wanna make it all nice and
+        neat.
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
@@ -121,9 +112,7 @@ story:
     chara:
     - id: 301800
       motion: 0
-      textHome: |-
-        And then I'll mess it up again...
-        Heh heh...
+      textHome: And then I'll mess it up again...@Heh heh...
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -163,8 +152,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3018_00_20
-      textHome: "Hmph! Hmmmph!\nEverything in my head is all messed up.\r\nI love
-        it!"
+      textHome: Hmph! Hmmmph!@Everything in my head is all messed up.@I love it!
   - autoTurnFirst: 3
     chara:
     - id: 301800
@@ -182,18 +170,14 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3018_00_21
-      textHome: |-
-        I was totally shocked when
-        I became a Magical Girl.
+      textHome: I was totally shocked when@I became a Magical Girl.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 301800
       motion: 400
-      textHome: |-
-        But at the same time, like,
-        it was SUPER exciting...
+      textHome: But at the same time, like,@it was SUPER exciting...
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -214,9 +198,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3018_00_22
-      textHome: |-
-        I was bad at usin' magic at first.
-        Made it REAL hard to fight Witches.
+      textHome: I was bad at usin' magic at first.@Made it REAL hard to fight Witches.
   - autoTurnFirst: 2.9
     chara:
     - eyeClose: 1
@@ -228,10 +210,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 301800
       motion: 1
-      textHome: |-
-        But bit by bit, more and more
-        I got used to it, and now
-        I get a rush from it...
+      textHome: But bit by bit, more and more@I got used to it, and now@I get a rush
+        from it...
   - autoTurnFirst: 2.8
     chara:
     - cheek: 1
@@ -300,10 +280,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 301800
       motion: 200
-      textHome: |-
-        So, what's on for today?
-        I'll tell ya up-front, don't even
-        think about anythin' borin'.
+      textHome: So, what's on for today?@I'll tell ya up-front, don't even@think about
+        anythin' borin'.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -436,9 +414,7 @@ story:
       face: mtn_ex_013.exp.json
       id: 301800
       motion: 200
-      textHome: |-
-        Ah hah hah!
-        ...Hanna Sarasa. Got it?
+      textHome: Ah hah hah!@...Hanna Sarasa. Got it?
   - chara:
     - id: 301800
       textHomeStatus: Clear
@@ -486,10 +462,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3018_00_28
-      textHome: |-
-        Hey, hey, it's best not to peek
-        into dark places.
-        If you look too much...
+      textHome: Hey, hey, it's best not to peek@into dark places.@If you look too
+        much...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -515,9 +489,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3018_00_29
-      textHome: |-
-        I don't care if it's good or bad.
-        It's about whether it's fun or borin'!
+      textHome: I don't care if it's good or bad.@It's about whether it's fun or borin'!
   - autoTurnFirst: 3
     chara:
     - id: 301800
@@ -529,9 +501,7 @@ story:
       face: mtn_ex_013.exp.json
       id: 301800
       motion: 100
-      textHome: |-
-        So let's spend the day doin'
-        stuff that's not boring!
+      textHome: So let's spend the day doin'@stuff that's not boring!
   - chara:
     - id: 301800
       textHomeStatus: Clear
@@ -557,9 +527,7 @@ story:
     chara:
     - id: 301800
       motion: 100
-      textHome: |-
-        Right, let's go.
-        Right now.
+      textHome: Right, let's go.@Right now.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -600,9 +568,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301800
       motion: 100
-      textHome: |-
-        We should laugh about everythin',
-        forget the consequences!
+      textHome: We should laugh about everythin',@forget the consequences!
   - autoTurnFirst: 2.2
     chara:
     - cheek: 1
@@ -650,9 +616,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3018_00_33
-      textHome: |-
-        Animals are cool, huh.
-        I like 'em, really like 'em.
+      textHome: Animals are cool, huh.@I like 'em, really like 'em.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -692,9 +656,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3018_00_34
-      textHome: |-
-        Don't run from things.
-        SMASH right into 'em!
+      textHome: Don't run from things.@SMASH right into 'em!
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -721,16 +683,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3018_00_35
-      textHome: |-
-        The rush of usin' all your magic
-        to take out a Witch!
+      textHome: The rush of usin' all your magic@to take out a Witch!
   - autoTurnFirst: 5
     chara:
     - id: 301800
       motion: 100
-      textHome: |-
-        It feels great, like jumpin' off
-        the roof of a buildin'!
+      textHome: It feels great, like jumpin' off@the roof of a buildin'!
   - autoTurnFirst: 3
     chara:
     - id: 301800
@@ -749,9 +707,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3018_00_36
-      textHome: |-
-        Are ya a dog person
-        or a cat person, they say...
+      textHome: Are ya a dog person@or a cat person, they say...
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -814,16 +770,12 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3018_00_37
-      textHome: |-
-        Worryin' about what others
-        think is a waste of time.
+      textHome: Worryin' about what others@think is a waste of time.
   - autoTurnFirst: 2
     chara:
     - id: 301800
       motion: 100
-      textHome: |-
-        Missin' out on somethin' fun
-        'cause of that is totally idiotic.
+      textHome: Missin' out on somethin' fun@'cause of that is totally idiotic.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -861,9 +813,7 @@ story:
     chara:
     - id: 301800
       motion: 1
-      textHome: |-
-        That's a good way to start
-        a relationship, ain't it?
+      textHome: That's a good way to start@a relationship, ain't it?
   - chara:
     - id: 301800
       textHomeStatus: Clear
@@ -877,17 +827,13 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3018_00_39
-      textHome: |-
-        I don't want to give a damn
-        about anythin' anymore!
+      textHome: I don't want to give a damn@about anythin' anymore!
   - autoTurnFirst: 3.5
     chara:
     - id: 301800
       motion: 200
-      textHome: |-
-        If I just get to do what I want,
-        when I want, does it really
-        matter how I end up?
+      textHome: If I just get to do what I want,@when I want, does it really@matter
+        how I end up?
   - chara:
     - id: 301800
       textHomeStatus: Clear
@@ -907,8 +853,8 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 301800
-      textHome: "Yeeeah, they interest me!\nIf I could meet any, ya think\r\nthey'd
-        be friends with me?"
+      textHome: Yeeeah, they interest me!@If I could meet any, ya think@they'd be
+        friends with me?
   - autoTurnFirst: 7.5
     chara:
     - cheek: 1
@@ -961,9 +907,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3018_00_42
-      textHome: |-
-        I wouldn't mind if you
-        approached me, y'know.
+      textHome: I wouldn't mind if you@approached me, y'know.
   - chara:
     - id: 301800
       textHomeStatus: Clear
@@ -1142,18 +1086,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3018_00_14
-      textHome: |-
-        Whoooa...
-        So this is how it works...
+      textHome: Whoooa...@So this is how it works...
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 301800
       motion: 100
-      textHome: |-
-        Hahaha!
-        Might be fun!
+      textHome: Hahaha!@Might be fun!
   - chara:
     - id: 301800
       textHomeStatus: Clear
@@ -1167,9 +1107,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3018_00_15
-      textHome: |-
-        Let's just say this is how things go.
-        Nothin' wrong with that, right?
+      textHome: Let's just say this is how things go.@Nothin' wrong with that, right?
   - chara:
     - id: 301800
       textHomeStatus: Clear

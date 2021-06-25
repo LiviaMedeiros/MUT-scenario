@@ -10,9 +10,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3015_00_01
-      textHome: |-
-        I love nature. The trees, the flowers,
-        the animals, and even the bugs.
+      textHome: I love nature. The trees, the flowers,@the animals, and even the bugs.
   - autoTurnFirst: 4.2
     chara:
     - cheek: 1
@@ -25,9 +23,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 301500
       motion: 200
-      textHome: |-
-        Oh! And I LOVE playing with my friends!
-        Outside, inside, wherever!
+      textHome: Oh! And I LOVE playing with my friends!@Outside, inside, wherever!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -53,9 +49,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 301500
       motion: 300
-      textHome: |-
-        But if I could, I'd just play
-        with my friends ALL DAY!
+      textHome: But if I could, I'd just play@with my friends ALL DAY!
   - autoTurnFirst: 3.8
     chara:
     - cheek: 1
@@ -84,18 +78,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3015_00_18
-      textHome: |-
-        I'm such a tea fanatic, I really
-        gotta try tea ceremony sometime!
+      textHome: I'm such a tea fanatic, I really@gotta try tea ceremony sometime!
   - autoTurnFirst: 2.8
     chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 301500
       motion: 300
-      textHome: |-
-        Sure, everyone says they can't
-        imagine me doing it, but I totally can!
+      textHome: Sure, everyone says they can't@imagine me doing it, but I totally
+        can!
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -117,9 +108,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3015_00_19
-      textHome: |-
-        Hah! Wait a minute...
-        did I just get stronger?!
+      textHome: Hah! Wait a minute...@did I just get stronger?!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -148,9 +137,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3015_00_20
-      textHome: |-
-        Even I can tell...
-        Something good just happened, didn't it?
+      textHome: Even I can tell...@Something good just happened, didn't it?
   - autoTurnFirst: 2
     chara:
     - id: 301500
@@ -171,19 +158,16 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3015_00_21
-      textHome: |-
-        There's a little forest grove near my house,
-        and I used to play there a lot.
+      textHome: There's a little forest grove near my house,@and I used to play there
+        a lot.
   - autoTurnFirst: 3.2
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 301500
       motion: 0
-      textHome: |-
-        I brought Leila and my other friends
-        there to play too, but I had
-        a lot of fun even when I was alone!
+      textHome: I brought Leila and my other friends@there to play too, but I had@a
+        lot of fun even when I was alone!
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -206,19 +190,16 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3015_00_22
-      textHome: |-
-        I used to make myself a little house for
-        when I'm playing alone in the forest grove.
+      textHome: I used to make myself a little house for@when I'm playing alone in
+        the forest grove.
   - autoTurnFirst: 8
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 301500
       motion: 1
-      textHome: |-
-        I gathered branches and some cardboard
-        boxes I brought from home, and I made walls
-        and a ceiling out of them next to a big tree.
+      textHome: I gathered branches and some cardboard@boxes I brought from home,
+        and I made walls@and a ceiling out of them next to a big tree.
   - autoTurnFirst: 6
     chara:
     - id: 301500
@@ -329,9 +310,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 301500
       motion: 0
-      textHome: |-
-        You think it's too early to have
-        this much energy? What?!
+      textHome: You think it's too early to have@this much energy? What?!
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -360,7 +339,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3015_00_26
-      textHome: "I'm gonna be honest with ya... \nI'm super sleepy durin' class!"
+      textHome: I'm gonna be honest with ya... @I'm super sleepy durin' class!
   - autoTurnFirst: 2
     chara:
     - id: 301500
@@ -371,9 +350,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 301500
       motion: 0
-      textHome: |-
-        But I wanna study the best I can, so I use
-        my hands to keep my eyes pried open!
+      textHome: But I wanna study the best I can, so I use@my hands to keep my eyes
+        pried open!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -396,25 +374,19 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3015_00_27
-      textHome: |-
-        It's boring to walk the
-        same way home everyday,
+      textHome: It's boring to walk the@same way home everyday,
   - autoTurnFirst: 4.5
     chara:
     - id: 301500
       motion: 300
-      textHome: |-
-        so sometimes I take these crazy,
-        random paths back.
+      textHome: so sometimes I take these crazy,@random paths back.
   - autoTurnFirst: 5
     chara:
     - cheek: 2
       face: mtn_ex_011.exp.json
       id: 301500
       motion: 100
-      textHome: |-
-        The other day it took me three hours
-        to get home!
+      textHome: The other day it took me three hours@to get home!
   - chara:
     - id: 301500
       textHomeStatus: Clear
@@ -494,10 +466,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3015_00_29
-      textHome: |-
-        When I space out, time sometimes
-        goes by really fast, but other times
-        it goes by really slow
+      textHome: When I space out, time sometimes@goes by really fast, but other times@it
+        goes by really slow
   - autoTurnFirst: 2.2
     chara:
     - cheek: 1
@@ -532,9 +502,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3015_00_30
-      textHome: |-
-        My heart's racin' and I'm all
-        trembly and fidgety.
+      textHome: My heart's racin' and I'm all@trembly and fidgety.
   - autoTurnFirst: 3
     chara:
     - id: 301500
@@ -563,9 +531,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3015_00_31
-      textHome: |-
-        This is a really strange place.
-        But it looks fun!
+      textHome: This is a really strange place.@But it looks fun!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -630,9 +596,7 @@ story:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 301500
-      textHome: |-
-        I bet I could guess the dinner of every
-        apartment in the complex!
+      textHome: I bet I could guess the dinner of every@apartment in the complex!
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -728,9 +692,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 301500
       motion: 400
-      textHome: |-
-        I mean, it takes me 30 whole seconds
-        to get to the top!
+      textHome: I mean, it takes me 30 whole seconds@to get to the top!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -754,18 +716,14 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3015_00_36
-      textHome: |-
-        I love taking naps on the roof of the
-        apartment!
+      textHome: I love taking naps on the roof of the@apartment!
   - autoTurnFirst: 7.5
     chara:
     - eyeClose: 1
       id: 301500
       motion: 1
-      textHome: |-
-        The wind blows, and I can hear the tree
-        leaves rustlin' and the sounds of people
-        living their lives... It feels so good.
+      textHome: The wind blows, and I can hear the tree@leaves rustlin' and the sounds
+        of people@living their lives... It feels so good.
   - autoTurnFirst: 6
     chara:
     - cheek: 1
@@ -788,10 +746,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3015_00_37
-      textHome: |-
-        I used to be obsessed with collecting
-        acorns. I made secret hidin' spots
-        for 'em all across the complex!
+      textHome: I used to be obsessed with collecting@acorns. I made secret hidin'
+        spots@for 'em all across the complex!
   - autoTurnFirst: 1.8
     chara:
     - id: 301500
@@ -852,9 +808,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 301500
       motion: 200
-      textHome: |-
-        I drew a course around
-        the entire complex once!
+      textHome: I drew a course around@the entire complex once!
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -878,9 +832,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3015_00_39
-      textHome: |-
-        Sometimes I help Leila bake, but I can't
-        resist tasting everythin' while we make it...
+      textHome: Sometimes I help Leila bake, but I can't@resist tasting everythin'
+        while we make it...
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -908,10 +861,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3015_00_40
-      textHome: |-
-        Seika's super quiet and pretty much the
-        exact opposite of me, but it's not hard
-        being around her.
+      textHome: Seika's super quiet and pretty much the@exact opposite of me, but
+        it's not hard@being around her.
   - autoTurnFirst: 3.5
     chara:
     - id: 301500
@@ -939,8 +890,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3015_00_41
-      textHome: "Myah, myah, meow! Myamyamyah, meow!\nMeow, myamyameow! \nMeow, meow,
-        myaaaow!"
+      textHome: Myah, myah, meow! Myamyamyah, meow!@Meow, myamyameow! @Meow, meow,
+        myaaaow!
   - autoTurnFirst: 2.8
     chara:
     - id: 301500
@@ -1160,10 +1111,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3015_00_02
-      textHome: |-
-        First's my last, with an "A" then an "i"
-        and a "no", and then's my first
-        with a "Mi" and a "to".
+      textHome: First's my last, with an "A" then an "i"@and a "no", and then's my
+        first@with a "Mi" and a "to".
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -1207,10 +1156,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3015_00_13
-      textHome: |-
-        This is kinda like how weeds get
-        stronger after gettin' stepped
-        on over and over.
+      textHome: This is kinda like how weeds get@stronger after gettin' stepped@on
+        over and over.
   - autoTurnFirst: 4.5
     chara:
     - id: 301500
@@ -1231,9 +1178,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3015_00_14
-      textHome: |-
-        Mhmm... I'd say this made me
-        kind of strong...right?
+      textHome: Mhmm... I'd say this made me@kind of strong...right?
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -1261,9 +1206,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3015_00_15
-      textHome: |-
-        Progress! At this rate,
-        I can keep plowin' ahead!
+      textHome: Progress! At this rate,@I can keep plowin' ahead!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -1291,9 +1234,7 @@ story:
     chara:
     - id: 301500
       motion: 200
-      textHome: |-
-        Especially green tea!
-        The smell is just AHH, can't get enough!
+      textHome: Especially green tea!@The smell is just AHH, can't get enough!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -1322,18 +1263,15 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3015_00_17
-      textHome: |-
-        I like green tea, and sometimes
-        I drink the kind with roasted leaves.
+      textHome: I like green tea, and sometimes@I drink the kind with roasted leaves.
   - autoTurnFirst: 8
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 301500
       motion: 1
-      textHome: |2-
-         It's got such a soft, mild flavor...
-        It leaves me feeling fluffy an' warm all over!
+      textHome: ' It''s got such a soft, mild flavor...@It leaves me feeling fluffy
+        an'' warm all over!'
   - chara:
     - id: 301500
       textHomeStatus: Clear

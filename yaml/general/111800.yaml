@@ -11,9 +11,7 @@ story:
       motion: 1
       pos: 0
       voice: vo_char_1118_00_01
-      textHome: |-
-        The two of us came to the
-        beach to enjoy the ocean.
+      textHome: The two of us came to the@beach to enjoy the ocean.
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_011.exp.json
@@ -26,9 +24,8 @@ story:
     chara:
     - id: 111800
       lipSynch: 0
-      textHome: |-
-        Yeah, we're usually so busy, but today we
-        can put it all aside and just have some fun!
+      textHome: Yeah, we're usually so busy, but today we@can put it all aside and
+        just have some fun!
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 111802
@@ -44,10 +41,8 @@ story:
     - id: 111802
       lipSynch: 0
       motion: 1
-      textHome: |-
-        If you are not too busy...
-        would you mind recommending
-        some places or activities for us?
+      textHome: If you are not too busy...@would you mind recommending@some places
+        or activities for us?
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 111800
@@ -99,9 +94,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 111802
       motion: 1
-      textHome: |-
-        I've fished in the ocean, in a river,
-        and in a lake!
+      textHome: I've fished in the ocean, in a river,@and in a lake!
     - id: 111800
       motion: 0
   - autoTurnFirst: 4
@@ -123,9 +116,7 @@ story:
       motion: 1
       pos: 0
       voice: vo_char_1118_00_18
-      textHome: |-
-        My mother took me to the ocean
-        when I was very small.
+      textHome: My mother took me to the ocean@when I was very small.
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_011.exp.json
@@ -151,9 +142,7 @@ story:
     chara:
     - id: 111802
       lipSynch: 0
-      textHome: |-
-        Yes, I believe Tsukasa may
-        have been there too.
+      textHome: Yes, I believe Tsukasa may@have been there too.
     - id: 111800
       lipSynch: 1
       motion: 100
@@ -185,9 +174,7 @@ story:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 111800
-      textHome: |-
-        I've grown accustomed to
-        riding a banana boat!
+      textHome: I've grown accustomed to@riding a banana boat!
   - chara:
     - id: 111800
       textHomeStatus: Clear
@@ -202,9 +189,7 @@ story:
       motion: 0
       pos: 0
       voice: vo_char_1118_00_20
-      textHome: |-
-        My problems feel so much smaller
-        whenever I gaze upon the ocean.
+      textHome: My problems feel so much smaller@whenever I gaze upon the ocean.
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_011.exp.json
@@ -231,9 +216,7 @@ story:
       motion: 1
       pos: 0
       voice: vo_char_1118_00_21
-      textHome: |-
-        You gotta time your tank refills just
-        right in a water gun fight!
+      textHome: You gotta time your tank refills just@right in a water gun fight!
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_010.exp.json
@@ -246,9 +229,7 @@ story:
     chara:
     - id: 111802
       lipSynch: 0
-      textHome: |-
-        Yes, we improved greatly once we learned
-        how to pace ourselves.
+      textHome: Yes, we improved greatly once we learned@how to pace ourselves.
     - id: 111800
       lipSynch: 1
       motion: 0
@@ -283,17 +264,14 @@ story:
     chara:
     - id: 111800
       motion: 300
-      textHome: |-
-        Tsukasa, do you notice anything...
-        different about the banana boat now?
+      textHome: Tsukasa, do you notice anything...@different about the banana boat
+        now?
   - autoTurnFirst: 5
     chara:
     - id: 111802
       lipSynch: 1
       motion: 200
-      textHome: |-
-        I do! We're more in sync than
-        we were the first time we rode it!
+      textHome: I do! We're more in sync than@we were the first time we rode it!
     - id: 111800
       lipSynch: 0
   - autoTurnFirst: 1.7
@@ -498,9 +476,7 @@ story:
     chara:
     - id: 111802
       motion: 1
-      textHome: |-
-        Yakisoba, grilled squid, takoyaki...
-        and hot dogs!
+      textHome: Yakisoba, grilled squid, takoyaki...@and hot dogs!
   - autoTurnFirst: 3.8
     chara:
     - id: 111802
@@ -527,9 +503,7 @@ story:
       motion: 1
       pos: 0
       voice: vo_char_1118_00_02
-      textHome: |-
-        I'm Tsukasa Amane, the younger twin!
-        And I am Tsukuyo, the elder twin.
+      textHome: I'm Tsukasa Amane, the younger twin!@And I am Tsukuyo, the elder twin.
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_010.exp.json
@@ -549,9 +523,7 @@ story:
     chara:
     - id: 111800
       motion: 1
-      textHome: |-
-        We've never met you at
-        the same time, have we?
+      textHome: We've never met you at@the same time, have we?
   - autoTurnFirst: 4
     chara:
     - id: 111800
@@ -673,9 +645,7 @@ story:
       motion: 1
       pos: 0
       voice: vo_char_1118_00_29
-      textHome: |-
-        I was playing my flute with Tsukuyo
-        on the shore just now!
+      textHome: I was playing my flute with Tsukuyo@on the shore just now!
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_011.exp.json
@@ -688,9 +658,8 @@ story:
     chara:
     - id: 111802
       lipSynch: 0
-      textHome: |-
-        It felt very different than playing it
-        at the shrine, it was really nice...
+      textHome: It felt very different than playing it@at the shrine, it was really
+        nice...
     - id: 111800
       lipSynch: 1
       motion: 200
@@ -727,9 +696,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 111800
       motion: 200
-      textHome: |-
-        I wanted to relax, but I guess we
-        should take care of it.
+      textHome: I wanted to relax, but I guess we@should take care of it.
   - autoTurnFirst: 3.9
     chara:
     - id: 111800
@@ -853,7 +820,7 @@ story:
     chara:
     - eyeClose: 1
       id: 111800
-      textHome: "Mmm... It's so sweet and cold...\r\nand it gives me brain freeze!"
+      textHome: Mmm... It's so sweet and cold...@and it gives me brain freeze!
   - autoTurnFirst: 3.8
     chara:
     - cheek: 1
@@ -868,7 +835,7 @@ story:
     chara:
     - id: 111800
       lipSynch: 0
-      textHome: "How long has it been since\r\nI've had shaved ice?"
+      textHome: How long has it been since@I've had shaved ice?
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 111802
@@ -896,9 +863,7 @@ story:
       motion: 300
       pos: 0
       voice: vo_char_1118_00_34
-      textHome: |-
-        I heard that on the Minaminagi shore,
-        there was once this girl...
+      textHome: I heard that on the Minaminagi shore,@there was once this girl...
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_050.exp.json
@@ -956,9 +921,7 @@ story:
     chara:
     - id: 111802
       lipSynch: 0
-      textHome: |-
-        Really? Then you have to see
-        the ones in Mizuna.
+      textHome: Really? Then you have to see@the ones in Mizuna.
     - id: 111800
       lipSynch: 1
       motion: 100
@@ -992,9 +955,7 @@ story:
       motion: 1
       pos: 0
       voice: vo_char_1118_00_36
-      textHome: |-
-        *Sigh* I'll never finish my
-        summer assignments
+      textHome: '*Sigh* I''ll never finish my@summer assignments'
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_030.exp.json
@@ -1017,9 +978,7 @@ story:
     chara:
     - id: 111800
       lipSynch: 0
-      textHome: |-
-        Thanks, Tsukuyo, but I'm fine.
-        I got this!
+      textHome: Thanks, Tsukuyo, but I'm fine.@I got this!
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 111802
@@ -1073,9 +1032,7 @@ story:
       motion: 300
       pos: 0
       voice: vo_char_1118_00_37
-      textHome: |-
-        Convincing my mother and grandmother to
-        let me come here was tiring.
+      textHome: Convincing my mother and grandmother to@let me come here was tiring.
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_030.exp.json
@@ -1088,9 +1045,7 @@ story:
     chara:
     - id: 111800
       lipSynch: 0
-      textHome: |-
-        My dad too. But today was so fun,
-        it was worth it!
+      textHome: My dad too. But today was so fun,@it was worth it!
     - id: 111802
       lipSynch: 1
       motion: 300
@@ -1160,7 +1115,7 @@ story:
     chara:
     - id: 111802
       lipSynch: 0
-      textHome: " The tropical ocean style drew\r\nus right to them too!"
+      textHome: ' The tropical ocean style drew@us right to them too!'
     - id: 111800
       lipSynch: 1
       motion: 0
@@ -1182,9 +1137,7 @@ story:
       motion: 1
       pos: 0
       voice: vo_char_1118_00_39
-      textHome: |-
-        I saved until I could buy
-        our dream swimsuits!
+      textHome: I saved until I could buy@our dream swimsuits!
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_030.exp.json
@@ -1203,9 +1156,7 @@ story:
     chara:
     - id: 111802
       lipSynch: 0
-      textHome: |-
-        They match, and are the perfect
-        reward for Tsukasa's diligence!
+      textHome: They match, and are the perfect@reward for Tsukasa's diligence!
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 111800
@@ -1296,9 +1247,7 @@ story:
       motion: 1
       pos: 0
       voice: vo_char_1118_00_41
-      textHome: |-
-        "Your swimsuit sizes are different,
-        even though you're twins."
+      textHome: '"Your swimsuit sizes are different,@even though you''re twins."'
     - cheek: 2
       eyeClose: 0
       face: mtn_ex_020.exp.json
@@ -1367,9 +1316,7 @@ story:
       motion: 1
       pos: 0
       voice: vo_char_1118_00_43
-      textHome: |-
-        *Sigh*
-        Finally, we can go back into the water...
+      textHome: '*Sigh*@Finally, we can go back into the water...'
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_030.exp.json
@@ -1607,9 +1554,8 @@ story:
       motion: 1
       pos: 0
       voice: vo_char_1118_00_13
-      textHome: |-
-        I'll try to keep this up...so I can be
-        a better shot with a water gun!
+      textHome: I'll try to keep this up...so I can be@a better shot with a water
+        gun!
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_020.exp.json
@@ -1668,7 +1614,7 @@ story:
       motion: 1
       pos: 0
       voice: vo_char_1118_00_15
-      textHome: "I hope I can keep making\r\nlovely memories with Tsukuyo..."
+      textHome: I hope I can keep making@lovely memories with Tsukuyo...
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_011.exp.json
@@ -1691,9 +1637,7 @@ story:
       motion: 0
       pos: 0
       voice: vo_char_1118_00_16
-      textHome: |-
-        The shells you collected
-        are so pretty, Tsukuyo!
+      textHome: The shells you collected@are so pretty, Tsukuyo!
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_011.exp.json
@@ -1707,9 +1651,7 @@ story:
     - id: 111802
       lipSynch: 0
       motion: 0
-      textHome: |-
-        I may make a photo frame with them
-        to remind me of this trip.
+      textHome: I may make a photo frame with them@to remind me of this trip.
     - id: 111800
       lipSynch: 1
       motion: 1

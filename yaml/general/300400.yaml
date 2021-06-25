@@ -9,10 +9,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_01
-      textHome: |-
-        My name is Sasara Minagi.
-        My father is part of a rescue team
-        and the person I respect most.
+      textHome: My name is Sasara Minagi.@My father is part of a rescue team@and the
+        person I respect most.
   - autoTurnFirst: 1.7
     chara:
     - cheek: 0
@@ -24,9 +22,8 @@ story:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 300400
-      textHome: |-
-        Having the courage to face the odds,
-        no matter how bad, to save another's life...
+      textHome: Having the courage to face the odds,@no matter how bad, to save another's
+        life...
   - autoTurnFirst: 1.2
     chara:
     - cheek: 0
@@ -37,9 +34,7 @@ story:
     - cheek: 1
       face: mtn_ex_041.exp.json
       id: 300400
-      textHome: |-
-        It makes him just as cool as
-        the knights in picture books.
+      textHome: It makes him just as cool as@the knights in picture books.
   - autoTurnFirst: 2.5
     chara:
     - id: 300400
@@ -75,9 +70,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_18
-      textHome: |-
-        Only a handful of people ever accomplish
-        the lofty dreams they have as children, yes?
+      textHome: Only a handful of people ever accomplish@the lofty dreams they have
+        as children, yes?
   - autoTurnFirst: 2.5
     chara:
     - id: 300400
@@ -88,10 +82,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 300400
       motion: 0
-      textHome: |-
-        That's why achieving my childhood dream
-        of becoming a knight makes me
-        one of the luckiest people alive.
+      textHome: That's why achieving my childhood dream@of becoming a knight makes
+        me@one of the luckiest people alive.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -112,9 +104,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3004_00_19
-      textHome: |-
-        Someone will always be in need of rescue.
-        So I will always continue to come to their aid.
+      textHome: Someone will always be in need of rescue.@So I will always continue
+        to come to their aid.
   - autoTurnFirst: 2.5
     chara:
     - id: 300400
@@ -161,10 +152,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_21
-      textHome: |-
-        They say "like father, like daughter."
-        Well, the daughter of a rescue team
-        member is a rescuer!
+      textHome: They say "like father, like daughter."@Well, the daughter of a rescue
+        team@member is a rescuer!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -178,9 +167,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 300400
       motion: 1
-      textHome: |-
-        I've committed myself wholly to rescuing
-        others...like my father before me!
+      textHome: I've committed myself wholly to rescuing@others...like my father before
+        me!
   - autoTurnFirst: 1.1
     chara:
     - cheek: 1
@@ -210,9 +198,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_22
-      textHome: |-
-        My father saves people from disasters...
-        I save people from Witches.
+      textHome: My father saves people from disasters...@I save people from Witches.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -229,7 +215,7 @@ story:
       face: mtn_ex_041.exp.json
       id: 300400
       motion: 0
-      textHome: "Getting to follow in his footsteps\nmakes me so happy. "
+      textHome: 'Getting to follow in his footsteps@makes me so happy. '
   - autoTurnFirst: 1.5
     chara:
     - id: 300400
@@ -239,9 +225,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 300400
-      textHome: |-
-        But of course...I've kept being
-        a Magical Girl secret from him.
+      textHome: But of course...I've kept being@a Magical Girl secret from him.
   - autoTurnFirst: 1.7
     chara:
     - id: 300400
@@ -305,9 +289,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3004_00_24
-      textHome: |-
-        I was waiting for you so
-        we could train together!
+      textHome: I was waiting for you so@we could train together!
   - autoTurnFirst: 1
     chara:
     - id: 300400
@@ -336,9 +318,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_25
-      textHome: |-
-        Morning! I slept really well last night,
-        so I feel great now!
+      textHome: Morning! I slept really well last night,@so I feel great now!
   - autoTurnFirst: 1.4
     chara:
     - id: 300400
@@ -380,9 +360,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 300400
       motion: 0
-      textHome: |-
-        I need to keep my strength up, so I always
-        make sure to eat three meals a day.
+      textHome: I need to keep my strength up, so I always@make sure to eat three
+        meals a day.
   - autoTurnFirst: 1.1
     chara:
     - cheek: 1
@@ -409,9 +388,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3004_00_27
-      textHome: |-
-        I'm going on patrol after
-        club activities are over...
+      textHome: I'm going on patrol after@club activities are over...
   - autoTurnFirst: 1.6
     chara:
     - id: 300400
@@ -425,9 +402,7 @@ story:
     chara:
     - id: 300400
       motion: 1
-      textHome: |-
-        It's not easy, but if the town is
-        safe because of my work,
+      textHome: It's not easy, but if the town is@safe because of my work,
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -489,9 +464,7 @@ story:
       face: mtn_ex_042.exp.json
       id: 300400
       motion: 1
-      textHome: |-
-        I can't save anyone if I'm spacing
-        out from lack of sleep!
+      textHome: I can't save anyone if I'm spacing@out from lack of sleep!
   - autoTurnFirst: 0.3
     chara:
     - cheek: 1
@@ -516,9 +489,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_29
-      textHome: |-
-        I really admire the work my dad does...
-        He saves a ton of people.
+      textHome: I really admire the work my dad does...@He saves a ton of people.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -553,9 +524,8 @@ story:
     chara:
     - id: 300400
       motion: 1
-      textHome: |-
-        Even if no one calls for us, we can't
-        slack off when it comes to our patrol.
+      textHome: Even if no one calls for us, we can't@slack off when it comes to our
+        patrol.
   - autoTurnFirst: 1
     chara:
     - id: 300400
@@ -584,9 +554,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_31
-      textHome: |-
-        You can't only focus on sword fighting.
-        You have to train your heart as well.
+      textHome: You can't only focus on sword fighting.@You have to train your heart
+        as well.
   - autoTurnFirst: 3
     chara:
     - id: 300400
@@ -654,9 +623,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_33
-      textHome: |-
-        I always thought badminton was a more
-        laid-back sport until I watched a practice.
+      textHome: I always thought badminton was a more@laid-back sport until I watched
+        a practice.
   - autoTurnFirst: 0.6
     chara:
     - cheek: 0
@@ -691,10 +659,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_34
-      textHome: |-
-        I'm in the badminton club at school.
-        I would've joined the fencing club
-        if they'd had one, though.
+      textHome: I'm in the badminton club at school.@I would've joined the fencing
+        club@if they'd had one, though.
   - autoTurnFirst: 2.2
     chara:
     - cheek: 0
@@ -712,9 +678,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300400
       motion: 1
-      textHome: |-
-        It would've been perfect
-        training for a knight.
+      textHome: It would've been perfect@training for a knight.
   - autoTurnFirst: 1.1
     chara:
     - id: 300400
@@ -797,8 +761,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 300400
       motion: 300
-      textHome: |
-        Everyone always tells me that I am...
+      textHome: Everyone always tells me that I am...@
   - autoTurnFirst: 1.9
     chara:
     - cheek: 0
@@ -811,9 +774,7 @@ story:
     - cheek: 1
       id: 300400
       motion: 1
-      textHome: |-
-        You need to move fast
-        when you're saving lives!
+      textHome: You need to move fast@when you're saving lives!
   - autoTurnFirst: 1.4
     chara:
     - id: 300400
@@ -833,16 +794,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_37
-      textHome: |-
-        I always have the picture book about
-        the Knight from when I was a kid with me.
+      textHome: I always have the picture book about@the Knight from when I was a
+        kid with me.
   - autoTurnFirst: 2.5
     chara:
     - id: 300400
       motion: 300
-      textHome: |-
-        Whenever I worry about something I read it,
-        and somehow it makes me feel braver.
+      textHome: Whenever I worry about something I read it,@and somehow it makes me
+        feel braver.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -893,9 +852,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_38
-      textHome: |-
-        A true knight would never feel good
-        only protecting Kamihama.
+      textHome: A true knight would never feel good@only protecting Kamihama.
   - autoTurnFirst: 2.3
     chara:
     - id: 300400
@@ -905,9 +862,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300400
-      textHome: |-
-        My dream is to one day be able to
-        protect people all over the world!
+      textHome: My dream is to one day be able to@protect people all over the world!
   - autoTurnFirst: 1.4
     chara:
     - id: 300400
@@ -982,9 +937,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_40
-      textHome: |-
-        Asuka can't multitask.
-        Like she can't watch TV while on the phone.
+      textHome: Asuka can't multitask.@Like she can't watch TV while on the phone.
   - autoTurnFirst: 2
     chara:
     - id: 300400
@@ -997,9 +950,8 @@ story:
     chara:
     - id: 300400
       motion: 1
-      textHome: |-
-        Even outside of battle, she really
-        puts her all into everything she does.
+      textHome: Even outside of battle, she really@puts her all into everything she
+        does.
   - chara:
     - id: 300400
       textHomeStatus: Clear
@@ -1015,16 +967,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_41
-      textHome: |-
-        I wished to have the power to save people,
-        like a knight, when I became a Magical Girl.
+      textHome: I wished to have the power to save people,@like a knight, when I became
+        a Magical Girl.
   - autoTurnFirst: 3.9
     chara:
     - id: 300400
       motion: 200
-      textHome: |-
-        When you think about it, I was basically
-        wishing to become a Magical Girl.
+      textHome: When you think about it, I was basically@wishing to become a Magical
+        Girl.
   - autoTurnFirst: 1.6
     chara:
     - id: 300400
@@ -1253,18 +1203,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 300400
       motion: 1
-      textHome: |-
-        I'm Sasara Minagi.
-        Everything is all right now that I'm here.
+      textHome: I'm Sasara Minagi.@Everything is all right now that I'm here.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300400
       motion: 200
-      textHome: |-
-        From now on, call on me whenever
-        you're in trouble, okay?
+      textHome: From now on, call on me whenever@you're in trouble, okay?
   - chara:
     - id: 300400
       textHomeStatus: Clear
@@ -1306,7 +1252,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3004_00_14
-      textHome: "A strong knight who makes\nothers feel safe... "
+      textHome: 'A strong knight who makes@others feel safe... '
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -1354,9 +1300,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_16
-      textHome: |-
-        Nothing makes me happier than
-        becoming stronger.
+      textHome: Nothing makes me happier than@becoming stronger.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -1367,10 +1311,8 @@ story:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 300400
-      textHome: |-
-        I don't want to regret not being strong
-        enough to save someone ever again,
-        so I'll redouble my efforts.
+      textHome: I don't want to regret not being strong@enough to save someone ever
+        again,@so I'll redouble my efforts.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -1403,10 +1345,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3004_00_17
-      textHome: |-
-        Becoming a Magical Girl made
-        me realize many things.
-        The knights in picture books, for example...
+      textHome: Becoming a Magical Girl made@me realize many things.@The knights in
+        picture books, for example...
   - autoTurnFirst: 2.5
     chara:
     - id: 300400
@@ -1416,10 +1356,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300400
-      textHome: |-
-        They're not just incredibly strong,
-        but I think they're also
-        extremely kind people.
+      textHome: They're not just incredibly strong,@but I think they're also@extremely
+        kind people.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1

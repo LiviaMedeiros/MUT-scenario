@@ -372,18 +372,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1301_01_24
-      textHome: |-
-        Welcome.
-        Yachiyo isn't home right now, she's at work.
+      textHome: Welcome.@Yachiyo isn't home right now, she's at work.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 130101
       motion: 0
-      textHome: |-
-        My dad is helping us with money,
-        but I don't think it's enough.
+      textHome: My dad is helping us with money,@but I don't think it's enough.
   - autoTurnFirst: 3
     chara:
     - id: 130101
@@ -408,16 +404,12 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 130101
-      textHome: |-
-        I made a Japanese style breakfast today
-        because it's Yachiyo's favorite.
+      textHome: I made a Japanese style breakfast today@because it's Yachiyo's favorite.
   - autoTurnFirst: 5.2
     chara:
     - id: 130101
       motion: 1
-      textHome: |-
-        We have rolled eggs, dried mackerel,
-        miso soup, and natto.
+      textHome: We have rolled eggs, dried mackerel,@miso soup, and natto.
   - autoTurnFirst: 0.5
     chara:
     - cheek: 0
@@ -456,9 +448,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 130101
-      textHome: |-
-        Oh, Yachiyo's off today.
-        Let me try calling her.
+      textHome: Oh, Yachiyo's off today.@Let me try calling her.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -521,16 +511,14 @@ story:
       face: mtn_ex_050.exp.json
       id: 130101
       motion: 200
-      textHome: "\"Please get some soy sauce.\"\nOkay... "
+      textHome: '"Please get some soy sauce."@Okay... '
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 130101
       motion: 1
-      textHome: |-
-        I'm about to head home with Tsuruno
-        so I'll stop by at the supermarket.
+      textHome: I'm about to head home with Tsuruno@so I'll stop by at the supermarket.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -585,9 +573,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1301_01_29
-      textHome: |-
-        It's so peaceful at Mikazuki Villa,
-        but I do get worried sometimes.
+      textHome: It's so peaceful at Mikazuki Villa,@but I do get worried sometimes.
   - autoTurnFirst: 2.4
     chara:
     - cheek: 0
@@ -603,9 +589,7 @@ story:
     chara:
     - eyeClose: 0
       id: 130101
-      textHome: |-
-        I-I'm sorry, I should stop being
-        such a pessimist.
+      textHome: I-I'm sorry, I should stop being@such a pessimist.
   - autoTurnFirst: 1.1
     chara:
     - cheek: 1
@@ -649,9 +633,8 @@ story:
     chara:
     - id: 130101
       motion: 200
-      textHome: |-
-        I won't be able to ever fight alone effectively
-        if I keep relying on my friends.
+      textHome: I won't be able to ever fight alone effectively@if I keep relying
+        on my friends.
   - chara:
     - id: 130101
       textHomeStatus: Clear
@@ -666,15 +649,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1301_01_31
-      textHome: "I wonder how all those copies in Endless\nMirrors communicate with
-        each other? "
+      textHome: 'I wonder how all those copies in Endless@Mirrors communicate with
+        each other? '
   - autoTurnFirst: 3.1
     chara:
     - id: 130101
       motion: 100
-      textHome: |-
-        They act so differently from us, so I'm
-        curious about what they talk about.
+      textHome: They act so differently from us, so I'm@curious about what they talk
+        about.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -720,9 +702,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1301_01_33
-      textHome: |-
-        Hmm... I'm not really good at memorizing
-        names for my history class.
+      textHome: Hmm... I'm not really good at memorizing@names for my history class.
   - autoTurnFirst: 3
     chara:
     - id: 130101
@@ -732,9 +712,7 @@ story:
     chara:
     - id: 130101
       motion: 1
-      textHome: |-
-        Tsuruno isn't here today,
-        so maybe I'll ask Yachiyo.
+      textHome: Tsuruno isn't here today,@so maybe I'll ask Yachiyo.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -754,17 +732,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1301_01_34
-      textHome: |-
-        I put all the things I've gotten from
-        my friends into this treasure box.
+      textHome: I put all the things I've gotten from@my friends into this treasure
+        box.
   - autoTurnFirst: 4.5
     chara:
     - eyeClose: 1
       id: 130101
       motion: 301
-      textHome: |-
-        Looking at them reminds me of those times,
-        it's like a small time machine.
+      textHome: Looking at them reminds me of those times,@it's like a small time
+        machine.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -785,18 +761,14 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1301_01_35
-      textHome: |-
-        Hey, stop! You haven't even dried
-        your hair yet, Felicia!
+      textHome: Hey, stop! You haven't even dried@your hair yet, Felicia!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 130101
       motion: 200
-      textHome: |-
-        Just because Yachiyo isn't here doesn't
-        mean you don't have to!
+      textHome: Just because Yachiyo isn't here doesn't@mean you don't have to!
   - chara:
     - id: 130101
       textHomeStatus: Clear
@@ -811,9 +783,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1301_01_36
-      textHome: |-
-        Yachiyo told me that she's added a lot of
-        cat pictures on her phone recently.
+      textHome: Yachiyo told me that she's added a lot of@cat pictures on her phone
+        recently.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -825,10 +796,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 130101
       motion: 0
-      textHome: |-
-        Apparently Sana has rubbed off on her,
-        but she said she'll never own one
-        because she'd get too attached to it.
+      textHome: Apparently Sana has rubbed off on her,@but she said she'll never own
+        one@because she'd get too attached to it.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -883,18 +852,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 130101
       motion: 0
-      textHome: |-
-        Yachiyo taught me how to cook
-        fish with white radish.
+      textHome: Yachiyo taught me how to cook@fish with white radish.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 130101
       motion: 200
-      textHome: |-
-        She told me she learned it
-        from her grandmother.
+      textHome: She told me she learned it@from her grandmother.
   - chara:
     - id: 130101
       textHomeStatus: Clear
@@ -921,10 +886,8 @@ story:
     chara:
     - id: 130101
       motion: 200
-      textHome: |-
-        Just before, she got excited about
-        getting a bunch of points on
-        her supermarket member's card.
+      textHome: Just before, she got excited about@getting a bunch of points on@her
+        supermarket member's card.
   - autoTurnFirst: 3.3
     chara:
     - cheek: 1
@@ -944,7 +907,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1301_01_39
-      textHome: "Yachio started modeling\na long time ago, right? "
+      textHome: 'Yachio started modeling@a long time ago, right? '
   - autoTurnFirst: 3.4
     chara:
     - cheek: 0
@@ -973,9 +936,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1301_01_40
-      textHome: |-
-        Uh...this picture was taken when I helped
-        Yachiyo with her modelling.
+      textHome: Uh...this picture was taken when I helped@Yachiyo with her modelling.
   - autoTurnFirst: 2.5
     chara:
     - id: 130101
@@ -991,9 +952,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 130101
       motion: 200
-      textHome: |-
-        It was never used in the magazine,
-        but I still decided to frame it.
+      textHome: It was never used in the magazine,@but I still decided to frame it.
   - autoTurnFirst: 5
     chara:
     - cheek: 2
@@ -1017,8 +976,8 @@ story:
     chara:
     - eyeClose: 1
       id: 130101
-      textHome: "Sometimes I wonder what would have\r\nhappened to me if I hadn't
-        met\r\nYachiyo and come to Mikazuki Villa."
+      textHome: Sometimes I wonder what would have@happened to me if I hadn't met@Yachiyo
+        and come to Mikazuki Villa.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0

@@ -17,9 +17,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300200
       motion: 1
-      textHome: |-
-        I'm in both the cheerleading
-        and baseball clubs!
+      textHome: I'm in both the cheerleading@and baseball clubs!
   - autoTurnFirst: 2
     chara:
     - cheek: 2
@@ -31,9 +29,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300200
       motion: 300
-      textHome: |-
-        I probably don't need to say this,
-        but I'm not a baseball player.
+      textHome: I probably don't need to say this,@but I'm not a baseball player.
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -46,18 +42,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 300200
       motion: 0
-      textHome: |-
-        I've been with the team
-        since we were in elementary school.
+      textHome: I've been with the team@since we were in elementary school.
   - autoTurnFirst: 4
     chara:
     - cheek: 2
       face: mtn_ex_011.exp.json
       id: 300200
-      textHome: |-
-        There's nothing better than coming
-        together with the ones you love
-        to fight hard and do your best!
+      textHome: There's nothing better than coming@together with the ones you love@to
+        fight hard and do your best!
   - autoTurnFirst: 5
     chara:
     - id: 300200
@@ -78,10 +70,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3002_00_18
-      textHome: |-
-        I can say this proudly, with my head
-        held high... I made it this far because
-        I worked my hardest.
+      textHome: I can say this proudly, with my head@held high... I made it this far
+        because@I worked my hardest.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -92,10 +82,8 @@ story:
     chara:
     - id: 300200
       motion: 300
-      textHome: |-
-        The spoils you reap from your own
-        hard work and effort are the ones
-        that make you happiest!
+      textHome: The spoils you reap from your own@hard work and effort are the ones@that
+        make you happiest!
   - autoTurnFirst: 4
     chara:
     - cheek: 2
@@ -145,10 +133,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3002_00_20
-      textHome: |-
-        Take just one step forward,
-        and you might find something
-        new that makes you happy!
+      textHome: Take just one step forward,@and you might find something@new that
+        makes you happy!
   - autoTurnFirst: 5
     chara:
     - cheek: 2
@@ -190,9 +176,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300200
       motion: 100
-      textHome: |-
-        I won't run even from matches
-        where I'm at a disadvantage!
+      textHome: I won't run even from matches@where I'm at a disadvantage!
   - autoTurnFirst: 5
     chara:
     - cheek: 2
@@ -222,10 +206,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 300200
       motion: 0
-      textHome: |-
-        Y'know, I think my cheers give people a
-        really strong boost in Magical Girl battles just
-        like they do for players in baseball games!
+      textHome: Y'know, I think my cheers give people a@really strong boost in Magical
+        Girl battles just@like they do for players in baseball games!
   - autoTurnFirst: 4
     chara:
     - cheek: -1
@@ -238,9 +220,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 300200
       motion: 100
-      textHome: |-
-        So I'm gonna work my hardest to cheer
-        everyone on in those fights, too!
+      textHome: So I'm gonna work my hardest to cheer@everyone on in those fights,
+        too!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 2
@@ -310,9 +291,7 @@ story:
     chara:
     - id: 300200
       motion: 300
-      textHome: |-
-        At least I managed to get
-        a lot of vocal training in,
+      textHome: At least I managed to get@a lot of vocal training in,
   - autoTurnFirst: 4
     chara:
     - cheek: 2
@@ -356,9 +335,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300200
       motion: 200
-      textHome: |-
-        All right, this time only, I'm gonna be
-        your personal cheerleader!
+      textHome: All right, this time only, I'm gonna be@your personal cheerleader!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 2
@@ -387,9 +364,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300200
       motion: 0
-      textHome: |-
-        You've gotta get the right nutrition
-        in your diet.
+      textHome: You've gotta get the right nutrition@in your diet.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 2
@@ -509,9 +484,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300200
       motion: 0
-      textHome: |-
-        It will affect tomorrow's practice
-        if you stay up late tonight.
+      textHome: It will affect tomorrow's practice@if you stay up late tonight.
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -545,9 +518,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300200
       motion: 300
-      textHome: |-
-        So I was thinking: I've gotta
-        redesign my cheers to match.
+      textHome: 'So I was thinking: I''ve gotta@redesign my cheers to match.'
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -576,9 +547,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 300200
       motion: 200
-      textHome: |-
-        They say it takes three days
-        to make up for one missed session!
+      textHome: They say it takes three days@to make up for one missed session!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -609,8 +578,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 300200
       motion: 0
-      textHome: "Whether it's baseball or a fight with a \nWitch, that chance will
-        never come back."
+      textHome: Whether it's baseball or a fight with a @Witch, that chance will never
+        come back.
   - autoTurnFirst: 2
     chara:
     - cheek: 2
@@ -679,10 +648,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3002_00_33
-      textHome: |-
-        Whenever I watch baseball matches,
-        I just wanna grab the microphone
-        and start cheering.
+      textHome: Whenever I watch baseball matches,@I just wanna grab the microphone@and
+        start cheering.
   - autoTurnFirst: 4
     chara:
     - id: 300200
@@ -709,10 +676,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3002_00_34
-      textHome: |-
-        I became a Magical Girl so that I could
-        go to the finals with my old baseball
-        team from elementary school.
+      textHome: I became a Magical Girl so that I could@go to the finals with my old
+        baseball@team from elementary school.
   - autoTurnFirst: 4
     chara:
     - id: 300200
@@ -745,9 +710,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3002_00_35
-      textHome: |-
-        The other day, my brother scolded me
-        for not putting in 100%.
+      textHome: The other day, my brother scolded me@for not putting in 100%.
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -764,9 +727,7 @@ story:
     chara:
     - id: 300200
       motion: 300
-      textHome: |-
-        How does he always know exactly
-        what's going on with me?
+      textHome: How does he always know exactly@what's going on with me?
   - chara:
     - id: 300200
       textHomeStatus: Clear
@@ -783,9 +744,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3002_00_36
-      textHome: |-
-        I've become a bit more girly since I started
-        cheerleading, so my mom seems relieved.
+      textHome: I've become a bit more girly since I started@cheerleading, so my mom
+        seems relieved.
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -815,9 +775,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3002_00_37
-      textHome: |-
-        You know,
-        Akira actually really likes girly stuff.
+      textHome: You know,@Akira actually really likes girly stuff.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -889,18 +847,14 @@ story:
     chara:
     - id: 300200
       motion: 0
-      textHome: |-
-        It's a girly one that Akira
-        recommended to me.
+      textHome: It's a girly one that Akira@recommended to me.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 300200
       motion: 300
-      textHome: |-
-        Do other girls really like arrogant
-        guys like the one in the story?
+      textHome: Do other girls really like arrogant@guys like the one in the story?
   - autoTurnFirst: 4
     chara:
     - cheek: -1
@@ -922,9 +876,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3002_00_39
-      textHome: |-
-        Hey, look at these. They're our new jerseys!
-        Which do you think is better?
+      textHome: Hey, look at these. They're our new jerseys!@Which do you think is
+        better?
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -943,9 +896,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 300200
       motion: 300
-      textHome: |-
-        The crop top, huh? Don't you think
-        it shows a bit too much skin?
+      textHome: The crop top, huh? Don't you think@it shows a bit too much skin?
   - autoTurnFirst: 3.5
     chara:
     - id: 300200
@@ -966,9 +917,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3002_00_40
-      textHome: |-
-        Hey! Don't you think this jersey
-        would look great on Akira?
+      textHome: Hey! Don't you think this jersey@would look great on Akira?
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -980,9 +929,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 300200
       motion: 0
-      textHome: |-
-        I'm gonna get her to wear it sometime.
-        I know she'll hate it, though!
+      textHome: I'm gonna get her to wear it sometime.@I know she'll hate it, though!
   - autoTurnFirst: 5
     chara:
     - id: 300200
@@ -1270,9 +1217,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 300200
       motion: 0
-      textHome: |-
-        That's how I cheer! Honestly,
-        that's how I manage my baseball team too!
+      textHome: That's how I cheer! Honestly,@that's how I manage my baseball team
+        too!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1302,8 +1248,8 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 300200
-      textHome: "Whether it's working out or anything else,\r\nyou gotta make sure
-        to do it day in, day out!"
+      textHome: Whether it's working out or anything else,@you gotta make sure to
+        do it day in, day out!
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -1365,9 +1311,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300200
       motion: 0
-      textHome: |2-
-         I won't take it easy,
-        I'll keep on fighting, just like this!
+      textHome: ' I won''t take it easy,@I''ll keep on fighting, just like this!'
   - autoTurnFirst: 2.5
     chara:
     - cheek: 2
@@ -1389,10 +1333,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3002_00_16
-      textHome: |-
-        Cheerleading, managing baseball,
-        being a Magical Girl...
-        Sometimes it can feel pretty tough.
+      textHome: Cheerleading, managing baseball,@being a Magical Girl...@Sometimes
+        it can feel pretty tough.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -1412,9 +1354,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300200
       motion: 1
-      textHome: |2-
-         I gotta take responsibility
-        and do great at all of 'em!
+      textHome: ' I gotta take responsibility@and do great at all of ''em!'
   - chara:
     - id: 300200
       textHomeStatus: Clear
@@ -1431,9 +1371,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3002_00_17
-      textHome: |-
-        You have to challenge yourself
-        to do difficult things!
+      textHome: You have to challenge yourself@to do difficult things!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -1445,9 +1383,7 @@ story:
     chara:
     - id: 300200
       motion: 300
-      textHome: |-
-        You can't grow if you stay in your
-        comfort zone the whole time!
+      textHome: You can't grow if you stay in your@comfort zone the whole time!
   - autoTurnFirst: 4
     chara:
     - cheek: 2

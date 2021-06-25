@@ -21,9 +21,7 @@ story:
     - cheek: -1
       face: mtn_ex_020.exp.json
       id: 100900
-      textHome: |-
-        It's nothing personal, I just don't
-        have anything else to say.
+      textHome: It's nothing personal, I just don't@have anything else to say.
   - autoTurnFirst: 2.5
     chara:
     - cheek: -1
@@ -56,10 +54,8 @@ story:
     chara:
     - cheek: -1
       id: 100900
-      textHome: |-
-        Pfft, fine then, if you're such an expert
-        let's see YOUR self-intro.
-        I'll listen real close.
+      textHome: Pfft, fine then, if you're such an expert@let's see YOUR self-intro.@I'll
+        listen real close.
   - autoTurnFirst: 2
     chara:
     - id: 100900
@@ -90,10 +86,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100900
       motion: 0
-      textHome: |-
-        If things keep up like this, my team
-        just might get a name as the strongest
-        Magical Girl team in town!
+      textHome: If things keep up like this, my team@just might get a name as the
+        strongest@Magical Girl team in town!
   - autoTurnFirst: 2
     chara:
     - id: 100900
@@ -124,9 +118,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1009_00_19
-      textHome: |-
-        We're gonna have a problem
-        if you think this is all I'm capable of.
+      textHome: We're gonna have a problem@if you think this is all I'm capable of.
   - autoTurnFirst: 0.5
     chara:
     - cheek: 0
@@ -188,10 +180,8 @@ story:
     chara:
     - id: 100900
       motion: 1
-      textHome: |-
-        Cause this power here?
-        It's also for Momoko and Kaede...
-        It's for protecting the team.
+      textHome: Cause this power here?@It's also for Momoko and Kaede...@It's for
+        protecting the team.
   - autoTurnFirst: 2.5
     chara:
     - id: 100900
@@ -220,10 +210,8 @@ story:
     chara:
     - id: 100900
       motion: 300
-      textHome: |-
-        Seriously, if I go around hating my own
-        guts, what's going to happen to the
-        people who like me, hm?
+      textHome: Seriously, if I go around hating my own@guts, what's going to happen
+        to the@people who like me, hm?
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -307,9 +295,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1009_00_24
-      textHome: |-
-        You're late. I've been waiting
-        for 5 minutes already.
+      textHome: You're late. I've been waiting@for 5 minutes already.
   - autoTurnFirst: 2
     chara:
     - id: 100900
@@ -389,9 +375,7 @@ story:
     chara:
     - id: 100900
       motion: 0
-      textHome: |-
-        Everyone gets irritable when
-        they're hungry, y'know!
+      textHome: Everyone gets irritable when@they're hungry, y'know!
   - autoTurnFirst: 2
     chara:
     - id: 100900
@@ -425,7 +409,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 100900
       motion: 200
-      textHome: "I love when pop artists put rock \nelements in their music!"
+      textHome: I love when pop artists put rock @elements in their music!
   - chara:
     - id: 100900
       textHomeStatus: Clear
@@ -467,9 +451,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 100900
       motion: 200
-      textHome: |-
-        If this isn't really important,
-        I'm gonna punch you. Hard.
+      textHome: If this isn't really important,@I'm gonna punch you. Hard.
   - autoTurnFirst: 1.5
     chara:
     - id: 100900
@@ -505,9 +487,8 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100900
-      textHome: |-
-        But you need to get the official glow sticks
-        if you want your favorite member's color.
+      textHome: But you need to get the official glow sticks@if you want your favorite
+        member's color.
   - autoTurnFirst: 2.5
     chara:
     - id: 100900
@@ -533,9 +514,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100900
-      textHome: |-
-        Aren't you ready yet?
-        Ugh, I'm ready and waiting...
+      textHome: Aren't you ready yet?@Ugh, I'm ready and waiting...
   - autoTurnFirst: 1.9
     chara:
     - id: 100900
@@ -548,9 +527,7 @@ story:
     chara:
     - id: 100900
       motion: 0
-      textHome: |-
-        Don't bother apologizing.
-        You've got five seconds to finish.
+      textHome: Don't bother apologizing.@You've got five seconds to finish.
   - autoTurnFirst: 1.6
     chara:
     - id: 100900
@@ -570,16 +547,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1009_00_31
-      textHome: |-
-        If someone messes with you,
-        you gotta put them in their place.
+      textHome: If someone messes with you,@you gotta put them in their place.
   - autoTurnFirst: 2.9
     chara:
     - id: 100900
       motion: 100
-      textHome: |-
-        No way am I having people think
-        I ran away without putting up a fight.
+      textHome: No way am I having people think@I ran away without putting up a fight.
   - autoTurnFirst: 1.6
     chara:
     - cheek: 0
@@ -650,7 +623,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 100900
-      textHome: "You're dying to ask why I'm in \nsuch a good mood, aren't you?"
+      textHome: You're dying to ask why I'm in @such a good mood, aren't you?
   - autoTurnFirst: 1.5
     chara:
     - id: 100900
@@ -686,16 +659,12 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1009_00_34
-      textHome: |-
-        It's all about custard when
-        it comes to filled donuts.
+      textHome: It's all about custard when@it comes to filled donuts.
   - autoTurnFirst: 0.5
     chara:
     - cheek: 1
       id: 100900
-      textHome: |-
-        Screw jelly! And of course milk with tea
-        in it is the perfect accompaniment.
+      textHome: Screw jelly! And of course milk with tea@in it is the perfect accompaniment.
   - autoTurnFirst: 2
     chara:
     - id: 100900
@@ -721,15 +690,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1009_00_35
-      textHome: "I have this video of one of my favorite\nshows on my computer, "
+      textHome: 'I have this video of one of my favorite@shows on my computer, '
   - autoTurnFirst: 2
     chara:
     - id: 100900
       motion: 100
-      textHome: |-
-        but I just can't bring myself to delete it,
-        even after I burned it onto a DVD!
-        Would you be able to?
+      textHome: but I just can't bring myself to delete it,@even after I burned it
+        onto a DVD!@Would you be able to?
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -756,9 +723,8 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1009_00_36
-      textHome: |-
-        Hey, now! You almost gave me a heart
-        attack talking out of the blue like that.
+      textHome: Hey, now! You almost gave me a heart@attack talking out of the blue
+        like that.
   - autoTurnFirst: 2.1
     chara:
     - cheek: 1
@@ -853,9 +819,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 100900
-      textHome: |-
-        I'll teach you the dances and all the rules
-        only us loyals fans know.
+      textHome: I'll teach you the dances and all the rules@only us loyals fans know.
   - autoTurnFirst: 2
     chara:
     - id: 100900
@@ -894,9 +858,7 @@ story:
     chara:
     - id: 100900
       motion: 0
-      textHome: |-
-        It'd definitely be better for the team
-        if I could...
+      textHome: It'd definitely be better for the team@if I could...
   - autoTurnFirst: 2.5
     chara:
     - id: 100900
@@ -1006,9 +968,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1009_00_43
-      textHome: |-
-        This result seems quite natural
-        to me, y'know?
+      textHome: This result seems quite natural@to me, y'know?
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -1186,17 +1146,13 @@ story:
     - cheek: 0
       id: 100900
       motion: 100
-      textHome: |-
-        ...Hm? Listen, I hate introducing myself,
-        going on and on.
+      textHome: '...Hm? Listen, I hate introducing myself,@going on and on.'
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       id: 100900
       motion: 200
-      textHome: |2-
-         Just ask me questions if you
-        have 'em, and I'll answer.
+      textHome: ' Just ask me questions if you@have ''em, and I''ll answer.'
   - chara:
     - id: 100900
       textHomeStatus: Clear
@@ -1238,9 +1194,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1009_00_14
-      textHome: |-
-        Well, I feel like I reached my goal
-        for the time being.
+      textHome: Well, I feel like I reached my goal@for the time being.
   - autoTurnFirst: 2.5
     chara:
     - id: 100900
@@ -1260,9 +1214,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1009_00_15
-      textHome: |-
-        Getting into fights is just part of my
-        personality. So I gotta toughen up.
+      textHome: Getting into fights is just part of my@personality. So I gotta toughen
+        up.
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -1284,9 +1237,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1009_00_16
-      textHome: |-
-        I'll take any enemy on if they're
-        lookin' to fight.
+      textHome: I'll take any enemy on if they're@lookin' to fight.
   - autoTurnFirst: 2.5
     chara:
     - id: 100900
@@ -1295,9 +1246,7 @@ story:
     chara:
     - id: 100900
       motion: 1
-      textHome: |-
-        The stronger they are,
-        the greater it feels when I beat 'em!
+      textHome: The stronger they are,@the greater it feels when I beat 'em!
   - autoTurnFirst: 2.5
     chara:
     - id: 100900
@@ -1322,9 +1271,8 @@ story:
     chara:
     - id: 100900
       motion: 200
-      textHome: |2-
-         If having this fiery personality is gonna get
-        me ahead, I guess I don't mind it so much.
+      textHome: ' If having this fiery personality is gonna get@me ahead, I guess
+        I don''t mind it so much.'
   - autoTurnFirst: 1.2
     chara:
     - id: 100900

@@ -10,10 +10,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1101_00_01
-      textHome: |-
-        Actually, the reason I can't swim now
-        is because I almost drowned in a pool
-        when I was little...
+      textHome: Actually, the reason I can't swim now@is because I almost drowned
+        in a pool@when I was little...
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -22,9 +20,7 @@ story:
     chara:
     - eyeClose: 0
       id: 110100
-      textHome: |-
-        All because I was running,
-        slipped at the edge, and fell right in...
+      textHome: All because I was running,@slipped at the edge, and fell right in...
   - autoTurnFirst: 2.5
     chara:
     - id: 110100
@@ -41,9 +37,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 110100
       motion: 301
-      textHome: |-
-        Ah, but it's not like I hate
-        swimming or anything!
+      textHome: Ah, but it's not like I hate@swimming or anything!
   - autoTurnFirst: 3.4
     chara:
     - cheek: 0
@@ -56,9 +50,7 @@ story:
       face: mtn_ex_041.exp.json
       id: 110100
       motion: 300
-      textHome: |-
-        It's just...I can't do it if I don't
-        have a swim float!
+      textHome: It's just...I can't do it if I don't@have a swim float!
   - chara:
     - id: 110100
       textHomeStatus: Clear
@@ -79,9 +71,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 110100
       motion: 401
-      textHome: |-
-        It was amazing! Forget about swimming,
-        I was struggling just to hang on!
+      textHome: It was amazing! Forget about swimming,@I was struggling just to hang
+        on!
   - autoTurnFirst: 3.5
     chara:
     - id: 110100
@@ -99,10 +90,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1101_00_19
-      textHome: |-
-        Do you think maybe I could swim
-        without my float if my magic gets
-        more powerful? Possibly?
+      textHome: Do you think maybe I could swim@without my float if my magic gets@more
+        powerful? Possibly?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -128,9 +117,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1101_00_20
-      textHome: |-
-        This is great! I just wish my swimming
-        improved at this pace!
+      textHome: This is great! I just wish my swimming@improved at this pace!
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -155,9 +142,7 @@ story:
     chara:
     - id: 110100
       motion: 200
-      textHome: |-
-        Then I can't move because of that
-        and my head goes under...
+      textHome: Then I can't move because of that@and my head goes under...
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -183,9 +168,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1101_00_22
-      textHome: |-
-        I should be able to take breaths while
-        swimming soon.
+      textHome: I should be able to take breaths while@swimming soon.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -197,9 +180,8 @@ story:
     chara:
     - id: 110100
       motion: 401
-      textHome: |-
-        I would suck in water whenever I raised
-        my head. But I think I get it now!
+      textHome: I would suck in water whenever I raised@my head. But I think I get
+        it now!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -280,9 +262,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1101_00_24
-      textHome: |-
-        There! I finished inflating my swim float!
-        This should do for now...
+      textHome: There! I finished inflating my swim float!@This should do for now...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -295,9 +275,7 @@ story:
       face: mtn_ex_021.exp.json
       id: 110100
       motion: 200
-      textHome: |-
-        I'm good to go whenever...
-        I'll flutter kick as hard as I can!
+      textHome: I'm good to go whenever...@I'll flutter kick as hard as I can!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -317,9 +295,7 @@ story:
       motion: 401
       pos: 1
       voice: vo_char_1101_00_25
-      textHome: |-
-        Tsuruno and Felicia are already
-        swimming in the ocean.
+      textHome: Tsuruno and Felicia are already@swimming in the ocean.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -391,16 +367,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1101_00_27
-      textHome: |-
-        Summer nights have their
-        own unique mood.
+      textHome: Summer nights have their@own unique mood.
   - autoTurnFirst: 3.6
     chara:
     - id: 110100
       motion: 200
-      textHome: |-
-        Like the gentle loneliness
-        after a big party finishes up...
+      textHome: Like the gentle loneliness@after a big party finishes up...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -432,10 +404,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1101_00_28
-      textHome: |-
-        I heard it's important to adjust the
-        temperature on nights
-        when it's too hot to sleep.
+      textHome: I heard it's important to adjust the@temperature on nights@when it's
+        too hot to sleep.
   - autoTurnFirst: 0.7
     chara:
     - cheek: 0
@@ -462,16 +432,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1101_00_29
-      textHome: |-
-        It's the same every year. Summer feels like
-        it's over in the blink of an eye.
+      textHome: It's the same every year. Summer feels like@it's over in the blink
+        of an eye.
   - autoTurnFirst: 2.2
     chara:
     - id: 110100
       motion: 400
-      textHome: |-
-        So we have to enjoy it as much as
-        we can while it lasts!
+      textHome: So we have to enjoy it as much as@we can while it lasts!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -495,10 +462,8 @@ story:
     chara:
     - id: 110100
       motion: 301
-      textHome: |-
-        If a Witch shows up at the beach or pool,
-        I'll be useless without it...
-        Please let me!
+      textHome: If a Witch shows up at the beach or pool,@I'll be useless without
+        it...@Please let me!
   - autoTurnFirst: 3
     chara:
     - id: 110100
@@ -523,10 +488,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 110100
       motion: 1
-      textHome: |-
-        I brought a spare float, too, so in case
-        I lose this one or it springs a leak,
-        I'll be prepared!
+      textHome: I brought a spare float, too, so in case@I lose this one or it springs
+        a leak,@I'll be prepared!
   - autoTurnFirst: 3
     chara:
     - id: 110100
@@ -582,9 +545,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 110100
       motion: 200
-      textHome: |-
-        It's like the sound of the waves slowly
-        envelops me and soothes my heart.
+      textHome: It's like the sound of the waves slowly@envelops me and soothes my
+        heart.
   - autoTurnFirst: 3
     chara:
     - id: 110100
@@ -602,9 +564,8 @@ story:
       motion: 401
       pos: 1
       voice: vo_char_1101_00_34
-      textHome: |-
-        Whoa! Yachiyo told me about this brand
-        of sunblock. It feels amazing on my skin!
+      textHome: Whoa! Yachiyo told me about this brand@of sunblock. It feels amazing
+        on my skin!
   - autoTurnFirst: 1.8
     chara:
     - cheek: 0
@@ -620,9 +581,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 110100
       motion: 200
-      textHome: |-
-        Does she know about this stuff
-        because she's a model?
+      textHome: Does she know about this stuff@because she's a model?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -647,9 +606,8 @@ story:
     chara:
     - id: 110100
       motion: 100
-      textHome: |-
-        It was hard to choose, but I ended up buying
-        the first one I saw that I thought was cute.
+      textHome: It was hard to choose, but I ended up buying@the first one I saw that
+        I thought was cute.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -668,17 +626,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1101_00_36
-      textHome: |-
-        Certain smells just remind you of summer,
-        don't they?
+      textHome: Certain smells just remind you of summer,@don't they?
   - autoTurnFirst: 3.5
     chara:
     - id: 110100
       motion: 100
-      textHome: |-
-        The ocean and pools are a given, but
-        nothing smells more like summer to me
-        than mosquito repellent incense!
+      textHome: The ocean and pools are a given, but@nothing smells more like summer
+        to me@than mosquito repellent incense!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -705,9 +659,8 @@ story:
       face: mtn_ex_041.exp.json
       id: 110100
       motion: 200
-      textHome: |-
-        I splash around and never go anywhere,
-        but she just glides through the water.
+      textHome: I splash around and never go anywhere,@but she just glides through
+        the water.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -753,7 +706,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 110100
       motion: 301
-      textHome: "She told me she even beat a \nmotorboat in a race..."
+      textHome: She told me she even beat a @motorboat in a race...
   - autoTurnFirst: 2.5
     chara:
     - id: 110100
@@ -783,9 +736,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 110100
       motion: 200
-      textHome: |-
-        Her strokes are so intense,
-        people have mistaken her for a shark!
+      textHome: Her strokes are so intense,@people have mistaken her for a shark!
   - chara:
     - id: 110100
       textHomeStatus: Clear
@@ -799,9 +750,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1101_00_40
-      textHome: |-
-        I went out to practice swimming and
-        sensed someone nearby...
+      textHome: I went out to practice swimming and@sensed someone nearby...
   - autoTurnFirst: 1.5
     chara:
     - id: 110100
@@ -838,9 +787,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1101_00_41
-      textHome: |-
-        We all came to the sea, had fun,
-        got worn out, stayed over together...
+      textHome: We all came to the sea, had fun,@got worn out, stayed over together...
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -848,9 +795,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 110100
       motion: 0
-      textHome: |-
-        It'd be lovely to do this with
-        Ui and her friends someday.
+      textHome: It'd be lovely to do this with@Ui and her friends someday.
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -872,9 +817,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1101_00_42
-      textHome: |-
-        I may not be able to swim,
-        but I'll fight my hardest!
+      textHome: I may not be able to swim,@but I'll fight my hardest!
   - autoTurnFirst: 3
     chara:
     - id: 110100
@@ -911,9 +854,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1101_00_44
-      textHome: |-
-        I wonder if there's some way
-        I'll be able to swim...
+      textHome: I wonder if there's some way@I'll be able to swim...
   - chara:
     - id: 110100
       textHomeStatus: Clear
@@ -1077,9 +1018,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1101_00_13
-      textHome: |-
-        Hey, do you think...
-        maybe I can swim a little now?!
+      textHome: Hey, do you think...@maybe I can swim a little now?!
   - autoTurnFirst: 3.7
     chara:
     - cheek: 1
@@ -1099,9 +1038,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1101_00_14
-      textHome: |-
-        You know...I think now I could swim
-        10 meters without sinking!
+      textHome: You know...I think now I could swim@10 meters without sinking!
   - autoTurnFirst: 4.7
     chara:
     - id: 110100
@@ -1119,9 +1056,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1101_00_15
-      textHome: |-
-        Little by little...
-        I have to keep swimming ahead!
+      textHome: Little by little...@I have to keep swimming ahead!
   - autoTurnFirst: 3
     chara:
     - id: 110100
@@ -1139,9 +1074,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1101_00_16
-      textHome: |-
-        Yachiyo told me if I keep using a swim float,
-        I'll never be able to swim...
+      textHome: Yachiyo told me if I keep using a swim float,@I'll never be able to
+        swim...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -1174,18 +1108,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1101_00_17
-      textHome: |-
-        Tsuruno tried teaching me how to swim,
-        but she just kept saying
+      textHome: Tsuruno tried teaching me how to swim,@but she just kept saying
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 110100
       motion: 400
-      textHome: |-
-        "Your hands go swish!
-        Your legs go splash!"
+      textHome: '"Your hands go swish!@Your legs go splash!"'
   - autoTurnFirst: 1
     chara:
     - id: 110100

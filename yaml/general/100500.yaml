@@ -14,9 +14,8 @@ story:
     chara:
     - id: 100500
       motion: 0
-      textHome: |-
-        People in my neighborhood all think they
-        just disappeared one day, but that ain't true.
+      textHome: People in my neighborhood all think they@just disappeared one day,
+        but that ain't true.
   - autoTurnFirst: 5
     chara:
     - id: 100500
@@ -31,9 +30,7 @@ story:
     chara:
     - id: 100500
       motion: 0
-      textHome: |-
-        I've been huntin' down Witches and
-        workin' as a merc since then...
+      textHome: I've been huntin' down Witches and@workin' as a merc since then...
   - autoTurnFirst: 4
     chara:
     - id: 100500
@@ -65,10 +62,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 0
-      textHome: |-
-        Once I take every single one of you down,
-        then maybe you'll get it that
-        I'm a hell of a merc!
+      textHome: Once I take every single one of you down,@then maybe you'll get it
+        that@I'm a hell of a merc!
   - autoTurnFirst: 1.7
     chara:
     - id: 100500
@@ -93,9 +88,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1005_00_19
-      textHome: |-
-        Oooh, this feels wild!
-        I definitely outdid myself just now!
+      textHome: Oooh, this feels wild!@I definitely outdid myself just now!
   - autoTurnFirst: 1.8
     chara:
     - cheek: 1
@@ -122,9 +115,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1005_00_20
-      textHome: |-
-        Whoa, I feel awesome!
-        There's nowhere to go but up now!
+      textHome: Whoa, I feel awesome!@There's nowhere to go but up now!
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -151,9 +142,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1005_00_21
-      textHome: |-
-        You know what makes the fun times fun?
-         Not havin' to do anythin' you don't wanna do!
+      textHome: You know what makes the fun times fun?@ Not havin' to do anythin'
+        you don't wanna do!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -189,16 +179,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_00_22
-      textHome: |-
-        Y'know, makin' grub, cleanin' and stuff...
-        uh, chores, I guess ya call 'em?
+      textHome: Y'know, makin' grub, cleanin' and stuff...@uh, chores, I guess ya
+        call 'em?
   - autoTurnFirst: 3
     chara:
     - id: 100500
       motion: 100
-      textHome: |-
-        They're sooo annoying.
-         I hate that kinda stuff.
+      textHome: They're sooo annoying.@ I hate that kinda stuff.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -210,7 +197,7 @@ story:
     chara:
     - id: 100500
       motion: 200
-      textHome: "Ugh, I don't GET it! \nI just deal with it if the garbage piles up!"
+      textHome: Ugh, I don't GET it! @I just deal with it if the garbage piles up!
   - autoTurnFirst: 4
     chara:
     - id: 100500
@@ -325,9 +312,7 @@ story:
     chara:
     - id: 100500
       motion: 1
-      textHome: |-
-        I'm awake, ready to...ZzZ.
-        Hold on a sec...
+      textHome: I'm awake, ready to...ZzZ.@Hold on a sec...
   - autoTurnFirst: 1.5
     chara:
     - id: 100500
@@ -352,9 +337,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1005_00_26
-      textHome: |-
-        I kinda wanna tire myself out
-        a bit more before lunch.
+      textHome: I kinda wanna tire myself out@a bit more before lunch.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -390,9 +373,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_00_27
-      textHome: |-
-        From what I've seen Witches tend to keep
-        out of sight at this time of day...
+      textHome: From what I've seen Witches tend to keep@out of sight at this time
+        of day...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -404,9 +386,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100500
-      textHome: |-
-        Hmm...
-        I wonder if there's any hidin' around here!
+      textHome: Hmm...@I wonder if there's any hidin' around here!
   - autoTurnFirst: 4
     chara:
     - id: 100500
@@ -445,9 +425,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_00_28
-      textHome: |-
-        When I see a Witch, I go after it right away!
-        But when I don't, I go right to bed!
+      textHome: When I see a Witch, I go after it right away!@But when I don't, I
+        go right to bed!
   - autoTurnFirst: 3
     chara:
     - id: 100500
@@ -458,9 +437,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 100
-      textHome: |-
-        When you sleep, there's
-        nothin' to bother you!
+      textHome: When you sleep, there's@nothin' to bother you!
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -486,9 +463,8 @@ story:
     chara:
     - id: 100500
       motion: 100
-      textHome: |-
-        Whenever I find a Witch, I make sure
-        to beat 'em up right then and there!
+      textHome: Whenever I find a Witch, I make sure@to beat 'em up right then and
+        there!
   - autoTurnFirst: 4.5
     chara:
     - id: 100500
@@ -521,9 +497,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 0
-      textHome: |-
-        Plus, if you're a mercenary, you're even
-        more likely to run into a Witch!
+      textHome: Plus, if you're a mercenary, you're even@more likely to run into a
+        Witch!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -623,10 +598,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 100
-      textHome: |-
-        I was once even put in charge
-        of lookin' after my school's pets.
-        Ya know, like the rabbits, and stuff.
+      textHome: I was once even put in charge@of lookin' after my school's pets.@Ya
+        know, like the rabbits, and stuff.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -638,9 +611,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 100500
       motion: 200
-      textHome: |-
-        They never seemed to like me, though.
-        What's up with that, anyway?!
+      textHome: They never seemed to like me, though.@What's up with that, anyway?!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -667,8 +638,8 @@ story:
     chara:
     - id: 100500
       motion: 200
-      textHome: "As soon as you see the enemy,\nya just gotta go BABAM and smash \ntheir
-        face in. As fast as you can!"
+      textHome: As soon as you see the enemy,@ya just gotta go BABAM and smash @their
+        face in. As fast as you can!
   - autoTurnFirst: 5
     chara:
     - id: 100500
@@ -688,9 +659,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_00_35
-      textHome: |-
-        There're a lot of annoyin' things
-        you can't avoid out there...
+      textHome: There're a lot of annoyin' things@you can't avoid out there...
   - autoTurnFirst: 3.2
     chara:
     - id: 100500
@@ -740,9 +709,8 @@ story:
     chara:
     - id: 100500
       motion: 200
-      textHome: |-
-        That's a completely different story!
-        I'm super serious when it comes to that!
+      textHome: That's a completely different story!@I'm super serious when it comes
+        to that!
   - chara:
     - id: 100500
       textHomeStatus: Clear
@@ -764,9 +732,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100500
-      textHome: |-
-        The first time I saw it, I was like,
-        "This is the perfect job for me!"
+      textHome: The first time I saw it, I was like,@"This is the perfect job for
+        me!"
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -844,10 +811,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_00_39
-      textHome: |-
-        That Asuka girl messes up a lot,
-        but sometimes she holds it
-        together and does all right...
+      textHome: That Asuka girl messes up a lot,@but sometimes she holds it@together
+        and does all right...
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0
@@ -879,10 +844,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_00_40
-      textHome: |-
-        It feels great to forget about the details.
-        Just goin' all out, atttackin' the enemy
-        with everythin', and anythin', you got!
+      textHome: It feels great to forget about the details.@Just goin' all out, atttackin'
+        the enemy@with everythin', and anythin', you got!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -924,9 +887,8 @@ story:
     chara:
     - id: 100500
       motion: 300
-      textHome: |-
-        But thinkin' about them just reminds
-        me that I don't have a family anymore...
+      textHome: But thinkin' about them just reminds@me that I don't have a family
+        anymore...
   - chara:
     - id: 100500
       textHomeStatus: Clear
@@ -1145,9 +1107,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 200
-      textHome: |-
-        Well, when it comes to huntin' Witches,
-        it's me, Felicia Mitsuki, you're gonna want!
+      textHome: Well, when it comes to huntin' Witches,@it's me, Felicia Mitsuki,
+        you're gonna want!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1176,7 +1137,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_00_13
-      textHome: "Yesss! I'm totally fired up! \nGo, go, go!"
+      textHome: Yesss! I'm totally fired up! @Go, go, go!
   - autoTurnFirst: 4.2
     chara:
     - cheek: 1
@@ -1205,9 +1166,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 100
-      textHome: |-
-        That's some results right there.
-        Not bad at all!
+      textHome: That's some results right there.@Not bad at all!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -1228,7 +1187,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1005_00_15
-      textHome: "Hehe! Feelin' stronger already. \nBut I can keep goin'!"
+      textHome: Hehe! Feelin' stronger already. @But I can keep goin'!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -1250,9 +1209,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_00_16
-      textHome: |-
-        I haven't been a Magical Girl for long,
-        but I've been in a TON of battles.
+      textHome: I haven't been a Magical Girl for long,@but I've been in a TON of
+        battles.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -1271,9 +1229,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 100
-      textHome: |-
-        Ya know what,
-        I'm stronger than just about anyone
+      textHome: Ya know what,@I'm stronger than just about anyone
   - chara:
     - id: 100500
       textHomeStatus: Clear
@@ -1289,9 +1245,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1005_00_17
-      textHome: |-
-        Have ya heard about the Magical Girl
-        goin' around, challengin' people to a duel?
+      textHome: Have ya heard about the Magical Girl@goin' around, challengin' people
+        to a duel?
   - autoTurnFirst: 4.5
     chara:
     - cheek: 1

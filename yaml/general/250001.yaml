@@ -186,10 +186,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2500_01_24
-      textHome: |-
-        And here you are again...
-        If you have no plans to join the Wings of
-        the Magius, could you stop following me?
+      textHome: And here you are again...@If you have no plans to join the Wings of@the
+        Magius, could you stop following me?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -227,10 +225,8 @@ story:
       face: mtn_ex_001.exp.json
       id: 250000
       motion: 1
-      textHome: |-
-        I suppose you'd be in for a terrible time if
-        you tried to take on an Uwasa unprepared,
-        wouldn't you?
+      textHome: I suppose you'd be in for a terrible time if@you tried to take on
+        an Uwasa unprepared,@wouldn't you?
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -249,18 +245,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2500_01_26
-      textHome: |-
-        I can't do anything for the Wings of the
-        Magius during school hours, of course.
+      textHome: I can't do anything for the Wings of the@Magius during school hours,
+        of course.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 250000
       motion: 0
-      textHome: |-
-        But if you want to play...
-        Well, I hope you're ready.
+      textHome: But if you want to play...@Well, I hope you're ready.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -279,9 +272,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2500_01_27
-      textHome: |-
-        I'm about to visit Touka's to bake a cake.
-        I hear she has a wood-burning stove.
+      textHome: I'm about to visit Touka's to bake a cake.@I hear she has a wood-burning
+        stove.
   - autoTurnFirst: 3
     chara:
     - id: 250000
@@ -292,9 +284,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 250000
       motion: 1
-      textHome: |-
-        If you care to join,
-        she can also give you a lecture.
+      textHome: If you care to join,@she can also give you a lecture.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -330,9 +320,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_2500_01_28
-      textHome: |-
-        Unfortunately for you, I'm on patrol to
-        guard the Uwasa even late at night.
+      textHome: Unfortunately for you, I'm on patrol to@guard the Uwasa even late
+        at night.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -346,9 +335,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 250000
       motion: 1
-      textHome: |-
-        But you found me instead.
-        What terrible luck.
+      textHome: But you found me instead.@What terrible luck.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -366,9 +353,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2500_01_29
-      textHome: |-
-        There's no need for you to worry
-        about Madoka and her friends.
+      textHome: There's no need for you to worry@about Madoka and her friends.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -401,9 +386,8 @@ story:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 250000
-      textHome: |-
-        Even if Doppels serve as proof of
-        our freedom, we still need Grief Seeds.
+      textHome: Even if Doppels serve as proof of@our freedom, we still need Grief
+        Seeds.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -433,9 +417,8 @@ story:
     chara:
     - id: 250000
       motion: 200
-      textHome: |-
-        If you thought this was your chance
-        because I'm alone, you will regret it!
+      textHome: If you thought this was your chance@because I'm alone, you will regret
+        it!
   - chara:
     - id: 250001
       textHomeStatus: Clear
@@ -469,9 +452,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2500_01_33
-      textHome: |-
-        Why I decided to join the
-        Wings of the Magius?
+      textHome: Why I decided to join the@Wings of the Magius?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -498,9 +479,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2500_01_34
-      textHome: |-
-        I made powerful allies I can fight alongside,
-        so I need to fight for them as well...
+      textHome: I made powerful allies I can fight alongside,@so I need to fight for
+        them as well...
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -513,9 +493,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 250000
       motion: 300
-      textHome: |-
-        I don't wish for them to go through
-        what I've experienced.
+      textHome: I don't wish for them to go through@what I've experienced.
   - chara:
     - id: 250001
       textHomeStatus: Clear
@@ -528,17 +506,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2500_01_35
-      textHome: |-
-        We don't know what miracles
-        the Magius will perform.
+      textHome: We don't know what miracles@the Magius will perform.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 250000
-      textHome: |-
-        But the three of them found each other
-        in the same place, at the same time...
+      textHome: But the three of them found each other@in the same place, at the same
+        time...
   - autoTurnFirst: 3
     chara:
     - id: 250000
@@ -561,9 +536,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2500_01_36
-      textHome: |-
-        I found a lovely cafe in Kamihama...
-        But if you insist on joining me, I won't go.
+      textHome: I found a lovely cafe in Kamihama...@But if you insist on joining
+        me, I won't go.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -588,9 +562,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2500_01_37
-      textHome: |-
-        Touka has many beautiful tea sets in her
-        home, so it's delightful to make tea there.
+      textHome: Touka has many beautiful tea sets in her@home, so it's delightful
+        to make tea there.
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
@@ -602,9 +575,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 250000
-      textHome: |-
-        They seem to be antiques,
-        used once upon a time in England.
+      textHome: They seem to be antiques,@used once upon a time in England.
   - chara:
     - id: 250001
       textHomeStatus: Clear
@@ -635,9 +606,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2500_01_38
-      textHome: |-
-        I think Mifuyu is good at handling people.
-        I guess age brings wisdom?
+      textHome: I think Mifuyu is good at handling people.@I guess age brings wisdom?
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -667,10 +636,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2500_01_39
-      textHome: |-
-        It takes true emotional strength
-        to act as a go-between for the
-        Black Feathers and the Magius.
+      textHome: It takes true emotional strength@to act as a go-between for the@Black
+        Feathers and the Magius.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -696,9 +663,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2500_01_40
-      textHome: |-
-        I have one rather serious problem with
-        Alina Gray...
+      textHome: I have one rather serious problem with@Alina Gray...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -710,10 +675,8 @@ story:
     - cheek: 1
       face: mtn_ex_040.exp.json
       id: 250000
-      textHome: |-
-        When she uses you as a model for
-        one of her designs, you can't move
-        for quite a while...
+      textHome: When she uses you as a model for@one of her designs, you can't move@for
+        quite a while...
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -732,9 +695,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2500_01_41
-      textHome: |-
-        I've faced the sins I've committed
-        in the past!
+      textHome: I've faced the sins I've committed@in the past!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -749,9 +710,7 @@ story:
       id: 250000
       motion: 200
       tear: 1
-      textHome: |-
-        Your sense of justice overturned,
-        changed into sheer despair!
+      textHome: Your sense of justice overturned,@changed into sheer despair!
   - chara:
     - id: 250001
       textHomeStatus: Clear

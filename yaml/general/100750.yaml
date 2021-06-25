@@ -268,8 +268,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100700
       motion: 100
-      textHome: "This is insane, I feel like I'm producing WAY\r\ntoo much dopamine
-        right now."
+      textHome: This is insane, I feel like I'm producing WAY@too much dopamine right
+        now.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 1
@@ -299,10 +299,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 100700
       motion: 100
-      textHome: |-
-        The smell of the sea, and the vast world
-        that surrounds it... It's so overwhelming,
-        too much to take in this early.
+      textHome: The smell of the sea, and the vast world@that surrounds it... It's
+        so overwhelming,@too much to take in this early.
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -314,9 +312,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 100700
-      textHome: |-
-        Maybe I'll take a walk and
-        enjoy it before breakfast.
+      textHome: Maybe I'll take a walk and@enjoy it before breakfast.
   - chara:
     - id: 100750
       textHomeStatus: Clear
@@ -330,10 +326,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1007_50_26
-      textHome: |-
-        Weird...!
-        All I did was stir-fry the noodles with
-        some sauce, how are they this good?!
+      textHome: Weird...!@All I did was stir-fry the noodles with@some sauce, how
+        are they this good?!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -351,9 +345,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100700
-      textHome: |-
-        I wonder if this place puts
-        something in the sauce!
+      textHome: I wonder if this place puts@something in the sauce!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -407,9 +399,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1007_50_27
-      textHome: |-
-        This festival we're going to,
-        there's going to be lots of stalls, right?
+      textHome: This festival we're going to,@there's going to be lots of stalls,
+        right?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -482,10 +473,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1007_50_29
-      textHome: |-
-        Objects are colorless.
-         It's the reflection of light that
-        gives them color.
+      textHome: Objects are colorless.@ It's the reflection of light that@gives them
+        color.
   - autoTurnFirst: 1.5
     chara:
     - id: 100700
@@ -496,9 +485,7 @@ story:
     - eyeClose: 1
       id: 100700
       motion: 100
-      textHome: |-
-        It's the blue light that can't be
-        absorbed that gives it its appearance.
+      textHome: It's the blue light that can't be@absorbed that gives it its appearance.
   - autoTurnFirst: 3
     chara:
     - eyeClose: 0
@@ -527,9 +514,7 @@ story:
     chara:
     - id: 100700
       motion: 100
-      textHome: |-
-        Do they have to be completely
-        oblivious all the time?
+      textHome: Do they have to be completely@oblivious all the time?
   - chara:
     - id: 100750
       textHomeStatus: Clear
@@ -543,18 +528,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1007_50_31
-      textHome: |-
-        If we're going to Endless Mirrors,
-        I'm changing.
+      textHome: If we're going to Endless Mirrors,@I'm changing.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100700
       motion: 0
-      textHome: |-
-        I wouldn't want a copy of me in
-        a swimsuit running around...
+      textHome: I wouldn't want a copy of me in@a swimsuit running around...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -607,9 +588,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100700
       motion: 0
-      textHome: |-
-        My sunscreen's been applied,
-        there's no way I'm getting burned.
+      textHome: My sunscreen's been applied,@there's no way I'm getting burned.
   - autoTurnFirst: 2.5
     chara:
     - id: 100700
@@ -632,9 +611,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1007_50_34
-      textHome: |-
-        Who needs to be able to swim,
-        I have a special friend.
+      textHome: Who needs to be able to swim,@I have a special friend.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -652,9 +629,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100700
-      textHome: |-
-        Riding on top,
-        I'm in absolutely no danger.
+      textHome: Riding on top,@I'm in absolutely no danger.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -678,9 +653,7 @@ story:
     chara:
     - eyeClose: 1
       id: 100700
-      textHome: |-
-        Could it be that seawater has
-        a similar makeup to amniotic fluid?
+      textHome: Could it be that seawater has@a similar makeup to amniotic fluid?
   - autoTurnFirst: 5
     chara:
     - id: 100700
@@ -710,7 +683,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 100700
       motion: 201
-      textHome: "Ugh, I swallowed some saltwater,\r\nit's so salty..."
+      textHome: Ugh, I swallowed some saltwater,@it's so salty...
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -727,9 +700,7 @@ story:
       id: 100700
       motion: 300
       tear: 1
-      textHome: |-
-        Someone help me!
-        The ocean is trying to kill me!
+      textHome: Someone help me!@The ocean is trying to kill me!
   - chara:
     - id: 100750
       textHomeStatus: Clear
@@ -761,10 +732,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1007_50_37
-      textHome: |-
-        When you really think about it,
-        there's a lot of animals going
-        to the bathroom in the ocean...
+      textHome: When you really think about it,@there's a lot of animals going@to
+        the bathroom in the ocean...
   - autoTurnFirst: 7
     chara:
     - cheek: 0
@@ -774,9 +743,7 @@ story:
     chara:
     - eyeClose: 1
       id: 100700
-      textHome: |-
-        On second thought,
-        let's NOT think about that!
+      textHome: On second thought,@let's NOT think about that!
   - autoTurnFirst: 6.5
     chara:
     - cheek: 0
@@ -802,18 +769,14 @@ story:
     chara:
     - id: 100700
       motion: 200
-      textHome: |2-
-         That right there is proof
-        we're floating within it.
+      textHome: ' That right there is proof@we''re floating within it.'
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100700
       motion: 100
-      textHome: |-
-        That picture they took with using infrared,
-        I liked that one.
+      textHome: That picture they took with using infrared,@I liked that one.
   - chara:
     - id: 100750
       textHomeStatus: Clear
@@ -827,10 +790,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1007_50_39
-      textHome: |-
-        My world has changed...
-        From the hospital, to Kamihama,
-        to the beach...
+      textHome: My world has changed...@From the hospital, to Kamihama,@to the beach...
   - autoTurnFirst: 3.5
     chara:
     - eyeClose: 0
@@ -839,9 +799,7 @@ story:
     chara:
     - id: 100700
       motion: 100
-      textHome: |-
-        Sure the universe is bigger,
-        but the ocean isn't that small either.
+      textHome: Sure the universe is bigger,@but the ocean isn't that small either.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -861,9 +819,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1007_50_40
-      textHome: |-
-        I never wanted to go into the school pool, but
-        being at the beach with everyone...it's fun.
+      textHome: I never wanted to go into the school pool, but@being at the beach
+        with everyone...it's fun.
   - autoTurnFirst: 4
     chara:
     - id: 100700
@@ -874,9 +831,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 100700
       motion: 400
-      textHome: |-
-        It just might've been the right idea
-        to come here today!
+      textHome: It just might've been the right idea@to come here today!
   - chara:
     - id: 100750
       textHomeStatus: Clear
@@ -890,9 +845,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1007_50_41
-      textHome: |-
-        This feels weird, I wish this swimsuit
-        covered me up a bit more...
+      textHome: This feels weird, I wish this swimsuit@covered me up a bit more...
   - autoTurnFirst: 1.5
     chara:
     - eyeClose: 1

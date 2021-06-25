@@ -10,32 +10,25 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3049_00_01
-      textHome: |-
-        You had better...keep your distance from me.
-        If people think you're involved with
-        Kanae Yukino...it'll be bad news for you...
+      textHome: You had better...keep your distance from me.@If people think you're
+        involved with@Kanae Yukino...it'll be bad news for you...
   - autoTurnFirst: 7
     chara:
     - id: 304900
       motion: 1
-      textHome: |-
-        Get in too deep, one fight will
-        lead to another...
-        and get worse day after day...
+      textHome: Get in too deep, one fight will@lead to another...@and get worse day
+        after day...
   - autoTurnFirst: 5
     chara:
     - id: 304900
       motion: 300
-      textHome: |-
-        And suddenly...
-        you'll be caught up in big trouble.
+      textHome: And suddenly...@you'll be caught up in big trouble.
   - autoTurnFirst: 3
     chara:
     - id: 304900
       motion: 0
-      textHome: |-
-        Before music becomes your only oasis
-        in the world...get away, far away.
+      textHome: Before music becomes your only oasis@in the world...get away, far
+        away.
   - autoTurnFirst: 3
     chara:
     - id: 304900
@@ -53,18 +46,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3049_00_18
-      textHome: |-
-        I'd given up on being a vocalist...
-        I...don't even speak much...
+      textHome: I'd given up on being a vocalist...@I...don't even speak much...
   - autoTurnFirst: 4.7
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 304900
       motion: 300
-      textHome: |-
-        But, when I sing...and the words come
-        from deep in my heart...
+      textHome: But, when I sing...and the words come@from deep in my heart...
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -88,9 +77,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3049_00_19
-      textHome: |-
-        I feel lighter...swifter than before...
-        I get the feeling I can crush the enemy...
+      textHome: I feel lighter...swifter than before...@I get the feeling I can crush
+        the enemy...
   - autoTurnFirst: 3
     chara:
     - id: 304900
@@ -112,9 +100,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3049_00_20
-      textHome: |-
-        Nothing scares me... I have...
-        the strength to survive on my own...
+      textHome: Nothing scares me... I have...@the strength to survive on my own...
   - autoTurnFirst: 3
     chara:
     - id: 304900
@@ -132,17 +118,13 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3049_00_21
-      textHome: |-
-        Since I finally have this power...
-        I'll be using it for myself...
+      textHome: Since I finally have this power...@I'll be using it for myself...
   - autoTurnFirst: 2.5
     chara:
     - id: 304900
       motion: 200
-      textHome: |-
-        One way...will be to repay those who've
-        helped me, even at the cost of my life...
-        But that's a secret.
+      textHome: One way...will be to repay those who've@helped me, even at the cost
+        of my life...@But that's a secret.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -162,9 +144,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3049_00_22
-      textHome: |-
-        Once I'm strong enough to never lose...
-        I'll be able to carry on alone...
+      textHome: Once I'm strong enough to never lose...@I'll be able to carry on alone...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -178,18 +158,14 @@ story:
       face: mtn_ex_000.exp.json
       id: 304900
       motion: 1
-      textHome: |-
-        Only with Mifuyu...Yachiyo...
-        and Yachiyo's grandma around...
+      textHome: Only with Mifuyu...Yachiyo...@and Yachiyo's grandma around...
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 304900
       motion: 200
-      textHome: |-
-        was I able to break out of my shell and
-        become strong...
+      textHome: was I able to break out of my shell and@become strong...
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -271,9 +247,7 @@ story:
     chara:
     - id: 304900
       motion: 0
-      textHome: |-
-        But just not to where I am...
-        It's too dangerous...
+      textHome: But just not to where I am...@It's too dangerous...
   - autoTurnFirst: 2
     chara:
     - id: 304900
@@ -291,10 +265,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3049_00_25
-      textHome: |-
-        Three hours of sleep again today...
-        I'm not sleepy... I've never felt sleepy...
-        That's normal for me...
+      textHome: Three hours of sleep again today...@I'm not sleepy... I've never felt
+        sleepy...@That's normal for me...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -315,10 +287,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3049_00_26
-      textHome: |-
-        I like it on the roof, where no one
-        enters my field of vision.
-        It's like a world where only I exist...
+      textHome: I like it on the roof, where no one@enters my field of vision.@It's
+        like a world where only I exist...
   - autoTurnFirst: 4
     chara:
     - id: 304900
@@ -395,9 +365,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 304900
       motion: 100
-      textHome: |-
-        I'm going to practice a few guitar cords...
-        and hunt down a few music vids... Yeah...
+      textHome: I'm going to practice a few guitar cords...@and hunt down a few music
+        vids... Yeah...
   - chara:
     - id: 304900
       textHomeStatus: Clear
@@ -411,17 +380,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3049_00_29
-      textHome: |-
-        I like being alone...
-        Time doesn't really matter...
+      textHome: I like being alone...@Time doesn't really matter...
   - autoTurnFirst: 1
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 304900
-      textHome: |-
-        But after meeting Yachiyo,
-        I don't like it as much...
+      textHome: But after meeting Yachiyo,@I don't like it as much...
   - autoTurnFirst: 5
     chara:
     - id: 304900
@@ -445,10 +410,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3049_00_30
-      textHome: |-
-        Hm... I should go...
-        Even those criminals I've seen...
-        They might be under that Witch's curse...
+      textHome: Hm... I should go...@Even those criminals I've seen...@They might
+        be under that Witch's curse...
   - autoTurnFirst: 3
     chara:
     - id: 304900
@@ -466,10 +429,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3049_00_31
-      textHome: |-
-        Hypothetically speaking... I would be...
-        concerned if it came down to fighting
-        lots of Magical Girls...
+      textHome: Hypothetically speaking... I would be...@concerned if it came down
+        to fighting@lots of Magical Girls...
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -479,16 +440,12 @@ story:
     chara:
     - id: 304900
       motion: 300
-      textHome: |-
-        I'm used to fighting, so it's difficult
-        for me to pull punches...
+      textHome: I'm used to fighting, so it's difficult@for me to pull punches...
   - autoTurnFirst: 4
     chara:
     - id: 304900
       motion: 0
-      textHome: |-
-        Against imitations, though...
-        That's another story...
+      textHome: Against imitations, though...@That's another story...
   - chara:
     - id: 304900
       textHomeStatus: Clear
@@ -524,19 +481,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3049_00_33
-      textHome: |-
-        Ever since I was a little kid,
-        I've always been in fights...
-        I don't go around picking them...
+      textHome: Ever since I was a little kid,@I've always been in fights...@I don't
+        go around picking them...
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 304900
       motion: 300
-      textHome: |-
-        It's all because of my face.
-        Fights come to me...
+      textHome: It's all because of my face.@Fights come to me...
   - chara:
     - id: 304900
       textHomeStatus: Clear
@@ -561,9 +514,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 304900
-      textHome: |-
-        Ah, sorry... I get really on edge
-        when people come up behind me...
+      textHome: Ah, sorry... I get really on edge@when people come up behind me...
   - autoTurnFirst: 4
     chara:
     - id: 304900
@@ -572,9 +523,7 @@ story:
     chara:
     - id: 304900
       motion: 300
-      textHome: |-
-        I've been attacked from behind before,
-        so I can't help it.
+      textHome: I've been attacked from behind before,@so I can't help it.
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
@@ -599,10 +548,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 304900
       motion: 1
-      textHome: |-
-        I like anything with bite, anything I can feel...
-        People say I look like I listen to
-        punk or metal, but...it doesn't matter.
+      textHome: I like anything with bite, anything I can feel...@People say I look
+        like I listen to@punk or metal, but...it doesn't matter.
   - chara:
     - id: 304900
       textHomeStatus: Clear
@@ -641,18 +588,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3049_00_37
-      textHome: |-
-        If the time and place had been different...
-        I might've wished to change how I look...
+      textHome: If the time and place had been different...@I might've wished to change
+        how I look...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304900
       motion: 0
-      textHome: |-
-        But...I saved my friend's life,
-        so...I don't regret it.
+      textHome: But...I saved my friend's life,@so...I don't regret it.
   - autoTurnFirst: 2
     chara:
     - id: 304900
@@ -687,17 +631,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3049_00_38
-      textHome: |-
-        I think Mifuyu wants to be a normal girl.
-        She loves manga, TV dramas,
-        and romantic stories...
+      textHome: I think Mifuyu wants to be a normal girl.@She loves manga, TV dramas,@and
+        romantic stories...
   - autoTurnFirst: 4.5
     chara:
     - id: 304900
       motion: 200
-      textHome: |-
-        Her eyes look so envious
-        when she watches them.
+      textHome: Her eyes look so envious@when she watches them.
   - chara:
     - id: 304900
       textHomeStatus: Clear
@@ -711,18 +651,16 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3049_00_39
-      textHome: |-
-        It's all thanks to Yachiyo's grandmother that
-        I've softened up as much as I have...
+      textHome: It's all thanks to Yachiyo's grandmother that@I've softened up as
+        much as I have...
   - autoTurnFirst: 6
     chara:
     - cheek: 2
       eyeClose: 1
       id: 304900
       motion: 300
-      textHome: |-
-        It's strange...almost like she gave water...
-        to a part of me that had withered away...
+      textHome: It's strange...almost like she gave water...@to a part of me that
+        had withered away...
   - chara:
     - id: 304900
       textHomeStatus: Clear
@@ -736,17 +674,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3049_00_40
-      textHome: |-
-        Looking back...
-        I have so many debts to repay...
+      textHome: Looking back...@I have so many debts to repay...
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
       id: 304900
       motion: 300
-      textHome: |-
-        Starting with the first time
-        I was saved...up until now.
+      textHome: Starting with the first time@I was saved...up until now.
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
@@ -782,9 +716,7 @@ story:
     - cheek: 2
       id: 304900
       motion: 0
-      textHome: |-
-        Unless you...for some reason...
-        want to be my friend?
+      textHome: Unless you...for some reason...@want to be my friend?
   - autoTurnFirst: 4.5
     chara:
     - id: 304900
@@ -837,9 +769,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3049_00_44
-      textHome: |-
-        It's so reassuring to have someone
-        you can trust at your back.
+      textHome: It's so reassuring to have someone@you can trust at your back.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -872,9 +802,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3049_00_46
-      textHome: |-
-        I'm grateful to have everyone
-        fighting by my side now...
+      textHome: I'm grateful to have everyone@fighting by my side now...
   - chara:
     - id: 304900
       textHomeStatus: Clear
@@ -953,17 +881,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3049_00_02
-      textHome: |-
-        Kanae Yukino... If you're thinking
-        I'm a known delinquent...that's fine...
+      textHome: Kanae Yukino... If you're thinking@I'm a known delinquent...that's
+        fine...
   - autoTurnFirst: 5.4
     chara:
     - cheek: 0
       id: 304900
       motion: 0
-      textHome: |-
-        I wasn't planning on...
-        making friends either way...
+      textHome: I wasn't planning on...@making friends either way...
   - chara:
     - id: 304900
       textHomeStatus: Clear
@@ -977,9 +902,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3049_00_13
-      textHome: |-
-        I wasn't planning on...
-        making friends either way...
+      textHome: I wasn't planning on...@making friends either way...
   - chara:
     - id: 304900
       textHomeStatus: Clear
@@ -993,9 +916,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3049_00_14
-      textHome: |-
-        This might sound conceited...
-        but...I'm stronger.
+      textHome: This might sound conceited...@but...I'm stronger.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1015,9 +936,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3049_00_15
-      textHome: |-
-        I don't...have that much to say,
-        but...will you...listen?
+      textHome: I don't...have that much to say,@but...will you...listen?
   - chara:
     - id: 304900
       textHomeStatus: Clear
@@ -1031,9 +950,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3049_00_16
-      textHome: |-
-        Someday, I'd like to sing...
-        with my friends, live in concert...
+      textHome: Someday, I'd like to sing...@with my friends, live in concert...
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1054,10 +971,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3049_00_17
-      textHome: |-
-        I'm drawn to songs that vent emotions...
-        Yachiyo said it could mean
-        I'm holding in a lot.
+      textHome: I'm drawn to songs that vent emotions...@Yachiyo said it could mean@I'm
+        holding in a lot.
   - autoTurnFirst: 2
     chara:
     - cheek: 0

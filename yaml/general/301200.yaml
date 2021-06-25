@@ -9,18 +9,14 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3012_00_01
-      textHome: |-
-        I'm Meiyui Chun, a member
-        of the Blue Seas Family.
+      textHome: I'm Meiyui Chun, a member@of the Blue Seas Family.
   - autoTurnFirst: 6
     chara:
     - cheek: -1
       face: mtn_ex_020.exp.json
       id: 301200
       motion: 0
-      textHome: |-
-        I'll allow no one to get away with
-        injuring any of my friends.
+      textHome: I'll allow no one to get away with@injuring any of my friends.
   - autoTurnFirst: 4
     chara:
     - id: 301200
@@ -37,9 +33,7 @@ story:
     chara:
     - id: 301200
       motion: 100
-      textHome: |-
-        I must work my hardest today,
-        and every day.
+      textHome: I must work my hardest today,@and every day.
   - autoTurnFirst: 6
     chara:
     - cheek: -1
@@ -62,9 +56,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3012_00_18
-      textHome: |-
-        No matter how strong I grow,
-        there is one enemy I fear I cannot defeat.
+      textHome: No matter how strong I grow,@there is one enemy I fear I cannot defeat.
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -83,9 +75,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 301200
       motion: 300
-      textHome: |-
-        I am laid low by its
-        deliciousness every time...
+      textHome: I am laid low by its@deliciousness every time...
   - chara:
     - id: 301200
       textHomeStatus: Clear
@@ -101,9 +91,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3012_00_19
-      textHome: |-
-        I always discover a new
-        technique when I train!
+      textHome: I always discover a new@technique when I train!
   - autoTurnFirst: 6
     chara:
     - id: 301200
@@ -123,9 +111,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_20
-      textHome: |-
-        Now I have a faint sense for how the
-        Blue Seas Family should move forward...
+      textHome: Now I have a faint sense for how the@Blue Seas Family should move
+        forward...
   - autoTurnFirst: 4.5
     chara:
     - cheek: 1
@@ -147,10 +134,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_21
-      textHome: |-
-        The Blue Seas Family has straightened
-        out its act, but I still feel cold glares
-        from outsiders.
+      textHome: The Blue Seas Family has straightened@out its act, but I still feel
+        cold glares@from outsiders.
   - autoTurnFirst: 4
     chara:
     - cheek: -1
@@ -163,9 +148,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 301200
       motion: 200
-      textHome: |-
-        That's why I'll probably end up
-        making it into a company someday.
+      textHome: That's why I'll probably end up@making it into a company someday.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -186,35 +169,27 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_22
-      textHome: |-
-        The Blue Seas Family will make
-        a commitment to Kamihama City
+      textHome: The Blue Seas Family will make@a commitment to Kamihama City
   - autoTurnFirst: 4
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 301200
-      textHome: |-
-        to become one of their leading
-        companies in the venture market.
+      textHome: to become one of their leading@companies in the venture market.
   - autoTurnFirst: 5
     chara:
     - cheek: -1
       face: mtn_ex_020.exp.json
       id: 301200
       motion: 200
-      textHome: |2-
-         We will innovate, synergize, coordinate...
-        things like that?
+      textHome: ' We will innovate, synergize, coordinate...@things like that?'
   - autoTurnFirst: 8
     chara:
     - cheek: -1
       face: mtn_ex_050.exp.json
       id: 301200
       motion: 400
-      textHome: |-
-        Do you think if I talk like that
-        we'll be able to make money?
+      textHome: Do you think if I talk like that@we'll be able to make money?
   - chara:
     - id: 301200
       textHomeStatus: Clear
@@ -317,9 +292,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_25
-      textHome: |-
-        In the mornings, breathe deeply
-        to fill your body with fresh air.
+      textHome: In the mornings, breathe deeply@to fill your body with fresh air.
   - autoTurnFirst: 2.5
     chara:
     - id: 301200
@@ -358,16 +331,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_26
-      textHome: |-
-        Today's lunch is mapo tofu,
-        dumplings, and fried rice.
+      textHome: Today's lunch is mapo tofu,@dumplings, and fried rice.
   - autoTurnFirst: 6
     chara:
     - id: 301200
       motion: 200
-      textHome: |-
-        If I'm really hungry, sometimes I
-        also eat pork and chicken.
+      textHome: If I'm really hungry, sometimes I@also eat pork and chicken.
   - autoTurnFirst: 3
     chara:
     - id: 301200
@@ -387,10 +356,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_27
-      textHome: |-
-        I always go to the shopping district
-        to check up on everyone on my way
-        home from school.
+      textHome: I always go to the shopping district@to check up on everyone on my
+        way@home from school.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -405,9 +372,7 @@ story:
     chara:
     - id: 301200
       motion: 400
-      textHome: |-
-        Pu'er tea is very good for the body,
-        you know?
+      textHome: Pu'er tea is very good for the body,@you know?
   - chara:
     - id: 301200
       textHomeStatus: Clear
@@ -442,18 +407,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3012_00_28
-      textHome: |-
-        This time of day is good for
-        thinking up strategies.
+      textHome: This time of day is good for@thinking up strategies.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 301200
       motion: 0
-      textHome: |-
-        It's like what Master always says...
-        Training never stops.
+      textHome: It's like what Master always says...@Training never stops.
   - autoTurnFirst: 3.5
     chara:
     - cheek: -1
@@ -487,7 +448,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_29
-      textHome: "I might look like I'm not doing anything,\nbut I'm actually training. "
+      textHome: 'I might look like I''m not doing anything,@but I''m actually training. '
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -500,9 +461,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 301200
       motion: 200
-      textHome: |-
-        Hehehe... I'm practicing standing
-        on my tiptoes right now!
+      textHome: Hehehe... I'm practicing standing@on my tiptoes right now!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -524,9 +483,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_30
-      textHome: |-
-        Everything I do is for the Blue Seas Gang...
-        That is why I trained so hard...
+      textHome: Everything I do is for the Blue Seas Gang...@That is why I trained
+        so hard...
   - autoTurnFirst: 4.5
     chara:
     - id: 301200
@@ -557,9 +515,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3012_00_31
-      textHome: |-
-        I don't care when or where
-        an enemy attacks.
+      textHome: I don't care when or where@an enemy attacks.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -619,9 +575,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_33
-      textHome: |-
-        It would be best if we didn't need to
-        fight and everyone could live in peace.
+      textHome: It would be best if we didn't need to@fight and everyone could live
+        in peace.
   - autoTurnFirst: 6.5
     chara:
     - cheek: 1
@@ -634,7 +589,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 301200
       motion: 100
-      textHome: "But there are those who want \nto destroy that peace."
+      textHome: But there are those who want @to destroy that peace.
   - autoTurnFirst: 5
     chara:
     - id: 301200
@@ -660,9 +615,7 @@ story:
     chara:
     - id: 301200
       motion: 0
-      textHome: |-
-        It's a Chinese style of food
-        originating in Japan.
+      textHome: It's a Chinese style of food@originating in Japan.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -704,9 +657,7 @@ story:
     chara:
     - id: 301200
       motion: 0
-      textHome: |-
-        When I was younger, they were
-        good partners for my training.
+      textHome: When I was younger, they were@good partners for my training.
   - autoTurnFirst: 5
     chara:
     - id: 301200
@@ -731,9 +682,8 @@ story:
     chara:
     - id: 301200
       motion: 400
-      textHome: |-
-        Th-that's the legendary stance that can
-        kill a person without even touching them!
+      textHome: Th-that's the legendary stance that can@kill a person without even
+        touching them!
   - autoTurnFirst: 4
     chara:
     - id: 301200
@@ -764,16 +714,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_37
-      textHome: |-
-        The Blue Seas Gang would never
-        go after someone weak.
+      textHome: The Blue Seas Gang would never@go after someone weak.
   - autoTurnFirst: 4.5
     chara:
     - id: 301200
       motion: 200
-      textHome: |-
-        We only target people who
-        are doing bad things.
+      textHome: We only target people who@are doing bad things.
   - autoTurnFirst: 5.5
     chara:
     - id: 301200
@@ -815,9 +761,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_38
-      textHome: |-
-        I don't regret the wish I made
-        when I became a Magical Girl.
+      textHome: I don't regret the wish I made@when I became a Magical Girl.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -828,8 +772,8 @@ story:
     chara:
     - id: 301200
       motion: 0
-      textHome: "I'm just glad I was able to save the \nBlue Seas Gang in their time
-        of need."
+      textHome: I'm just glad I was able to save the @Blue Seas Gang in their time
+        of need.
   - autoTurnFirst: 6
     chara:
     - id: 301200
@@ -861,9 +805,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 301200
       motion: 100
-      textHome: |2-
-         He could take down five enemies
-        using only his spirit.
+      textHome: ' He could take down five enemies@using only his spirit.'
   - autoTurnFirst: 3
     chara:
     - cheek: -1
@@ -903,7 +845,7 @@ story:
     chara:
     - id: 301200
       motion: 0
-      textHome: "She has a sweet face, but there is a tiger\nsleeping in her heart. "
+      textHome: 'She has a sweet face, but there is a tiger@sleeping in her heart. '
   - autoTurnFirst: 4
     chara:
     - cheek: -1
@@ -932,9 +874,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_41
-      textHome: |-
-        I will teach you a famous
-        kempo master's saying.
+      textHome: I will teach you a famous@kempo master's saying.
   - autoTurnFirst: 3
     chara:
     - id: 301200
@@ -1150,9 +1090,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3012_00_02
-      textHome: |-
-        I am here now, so there is
-        no need to be upset.
+      textHome: I am here now, so there is@no need to be upset.
   - autoTurnFirst: 3
     chara:
     - cheek: -1
@@ -1209,9 +1147,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3012_00_14
-      textHome: |-
-        I can sense, without a shadow of a doubt...
-        my kung fu is at its peak!
+      textHome: I can sense, without a shadow of a doubt...@my kung fu is at its peak!
   - autoTurnFirst: 2
     chara:
     - id: 301200
@@ -1236,9 +1172,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_15
-      textHome: |-
-        I feel I have taken another
-        step on my journey.
+      textHome: I feel I have taken another@step on my journey.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -1272,7 +1206,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301200
       motion: 400
-      textHome: "Take it in, feel it circulate within yourself,\nthen let it out again. "
+      textHome: 'Take it in, feel it circulate within yourself,@then let it out again. '
   - autoTurnFirst: 5
     chara:
     - id: 301200
@@ -1298,9 +1232,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3012_00_17
-      textHome: |-
-        Water can extinguish fire,
-        but fails to part earth...
+      textHome: Water can extinguish fire,@but fails to part earth...
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -1312,9 +1244,7 @@ story:
     chara:
     - id: 301200
       motion: 0
-      textHome: |-
-        All things have their
-        strengths and weaknesses.
+      textHome: All things have their@strengths and weaknesses.
   - autoTurnFirst: 5
     chara:
     - id: 301200

@@ -10,10 +10,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4023_00_01
-      textHome: |-
-        I am Darc's...I mean to say, our Holy
-        Maiden's servant. Due to our closeness
-        in age, we have become fast friends.
+      textHome: I am Darc's...I mean to say, our Holy@Maiden's servant. Due to our
+        closeness@in age, we have become fast friends.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -25,20 +23,16 @@ story:
       face: mtn_ex_010.exp.json
       id: 402300
       motion: 1
-      textHome: |-
-        My father is the mercenary known as
-        La Hire, or "The Wrath", so I grew up
-        on the battlefield.
+      textHome: My father is the mercenary known as@La Hire, or "The Wrath", so I
+        grew up@on the battlefield.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 402300
       motion: 300
-      textHome: |-
-        I sometimes can't control myself
-        when it comes to protecting Darc...
-        In that way, I may be like my father.
+      textHome: I sometimes can't control myself@when it comes to protecting Darc...@In
+        that way, I may be like my father.
   - autoTurnFirst: 5
     chara:
     - cheek: 2
@@ -60,10 +54,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4023_00_18
-      textHome: |-
-        The Holy Maiden was originally known as
-        Jeanette, but was bestowed a special name,
-        "Darc" by Monsieur Angel himself...
+      textHome: The Holy Maiden was originally known as@Jeanette, but was bestowed
+        a special name,@"Darc" by Monsieur Angel himself...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -87,9 +79,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4023_00_19
-      textHome: |-
-        Why, thank you... With this power,
-        I will protect the light of hope to the last.
+      textHome: Why, thank you... With this power,@I will protect the light of hope
+        to the last.
   - chara:
     - id: 402300
       textHomeStatus: Clear
@@ -106,9 +97,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4023_00_20
-      textHome: |-
-        Let us pray...that we may be the strength
-        that saves this country from darkness.
+      textHome: Let us pray...that we may be the strength@that saves this country
+        from darkness.
   - chara:
     - id: 402300
       textHomeStatus: Clear
@@ -125,16 +115,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4023_00_21
-      textHome: |-
-        Growing up on battlefields, I served
-        my father's battalion from a young age,
+      textHome: Growing up on battlefields, I served@my father's battalion from a
+        young age,
   - autoTurnFirst: 4.5
     chara:
     - id: 402300
       motion: 1
-      textHome: |2-
-         but never once did I believe
-        I would be taking part in battle.
+      textHome: ' but never once did I believe@I would be taking part in battle.'
   - chara:
     - id: 402300
       textHomeStatus: Clear
@@ -151,16 +138,13 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4023_00_22
-      textHome: |-
-        I believe that the path Darc walks
-        shall become the light of hope for all...
+      textHome: I believe that the path Darc walks@shall become the light of hope
+        for all...
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
       id: 402300
-      textHome: |-
-        My faith in her led me to
-        becoming a Magical Girl.
+      textHome: My faith in her led me to@becoming a Magical Girl.
   - autoTurnFirst: 4.2
     chara:
     - id: 402300
@@ -174,9 +158,7 @@ story:
     chara:
     - id: 402300
       motion: 300
-      textHome: |-
-        As I swore on that day,
-        I will walk beside my friends to the last.
+      textHome: As I swore on that day,@I will walk beside my friends to the last.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -232,18 +214,14 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402300
-      textHome: |-
-        It's time to greet the day
-        and vow to do our best!
+      textHome: It's time to greet the day@and vow to do our best!
   - autoTurnFirst: 5.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402300
       motion: 400
-      textHome: |-
-        I may not be of much help, but I'll
-        cheer you on with all my might!
+      textHome: I may not be of much help, but I'll@cheer you on with all my might!
   - chara:
     - id: 402300
       textHomeStatus: Clear
@@ -271,9 +249,7 @@ story:
     chara:
     - id: 402300
       motion: 300
-      textHome: |-
-        Would you like something hot to
-        drink with it?
+      textHome: Would you like something hot to@drink with it?
   - chara:
     - id: 402300
       textHomeStatus: Clear
@@ -296,10 +272,8 @@ story:
     - eyeClose: 1
       id: 402300
       motion: 300
-      textHome: |-
-        Shall we eat?
-        Let's not forget to give thanks to the
-        one who graced us with today's food.
+      textHome: Shall we eat?@Let's not forget to give thanks to the@one who graced
+        us with today's food.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -321,18 +295,15 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_4023_00_27
-      textHome: |-
-        Goodness, it's almost time for supper...
-        I have to finish preparing it!
+      textHome: Goodness, it's almost time for supper...@I have to finish preparing
+        it!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402300
       motion: 1
-      textHome: |-
-        Wait a moment longer, all that
-        is left is the finishing touches.
+      textHome: Wait a moment longer, all that@is left is the finishing touches.
   - chara:
     - id: 402300
       textHomeStatus: Clear
@@ -375,9 +346,8 @@ story:
     chara:
     - id: 402300
       motion: 1
-      textHome: |-
-        Do try not to stay up too late.
-        You'll need sleep to face the coming dawn.
+      textHome: Do try not to stay up too late.@You'll need sleep to face the coming
+        dawn.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -399,9 +369,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4023_00_29
-      textHome: |-
-        A friend once told me that injuries are proof
-        you fought battles and lived to tell the tale...
+      textHome: A friend once told me that injuries are proof@you fought battles and
+        lived to tell the tale...
   - autoTurnFirst: 6.2
     chara:
     - eyeClose: 1
@@ -431,17 +400,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4023_00_30
-      textHome: |-
-        It's almost time to get ready for battle!
-        We cannot let those Witches or
-        their Familiars get the drop on us.
+      textHome: It's almost time to get ready for battle!@We cannot let those Witches
+        or@their Familiars get the drop on us.
   - autoTurnFirst: 4
     chara:
     - id: 402300
       motion: 400
-      textHome: |-
-        Brace yourself and be prepared
-        to give it your all!
+      textHome: Brace yourself and be prepared@to give it your all!
   - chara:
     - id: 402300
       textHomeStatus: Clear
@@ -458,18 +423,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4023_00_31
-      textHome: |-
-        This is a battle with mirror-image foes,
-        correct?
+      textHome: This is a battle with mirror-image foes,@correct?
   - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 402300
       motion: 300
-      textHome: |-
-        I wield a rather big weapon,
-        so there's a chance I might miss...
+      textHome: I wield a rather big weapon,@so there's a chance I might miss...
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -518,16 +479,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4023_00_33
-      textHome: |-
-        People say the way I fight is very
-        different from what they imagined.
+      textHome: People say the way I fight is very@different from what they imagined.
   - autoTurnFirst: 5
     chara:
     - id: 402300
       motion: 300
-      textHome: |-
-        It's just...when someone dear
-        to me is hurt, I lose all control.
+      textHome: It's just...when someone dear@to me is hurt, I lose all control.
   - chara:
     - id: 402300
       textHomeStatus: Clear
@@ -544,10 +501,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4023_00_34
-      textHome: |-
-        Darc is both brave and serious on the
-        battlefield. But once the fighting is over,
-        she's as happy as a child as a festival.
+      textHome: Darc is both brave and serious on the@battlefield. But once the fighting
+        is over,@she's as happy as a child as a festival.
   - autoTurnFirst: 4
     chara:
     - cheek: 2
@@ -571,16 +526,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4023_00_35
-      textHome: |-
-        Now that I think of it, I have spent more
-        of my life on the battlefield than off of it.
+      textHome: Now that I think of it, I have spent more@of my life on the battlefield
+        than off of it.
   - autoTurnFirst: 5.5
     chara:
     - id: 402300
       motion: 1
-      textHome: |-
-        My father is the legendary soldier
-        known as "La Hire" you see.
+      textHome: My father is the legendary soldier@known as "La Hire" you see.
   - chara:
     - id: 402300
       textHomeStatus: Clear
@@ -617,9 +569,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 402300
       motion: 400
-      textHome: |-
-        Certainly not a sugar cube,
-        or anything similar!
+      textHome: Certainly not a sugar cube,@or anything similar!
   - chara:
     - id: 402300
       textHomeStatus: Clear
@@ -641,9 +591,7 @@ story:
     chara:
     - id: 402300
       motion: 1
-      textHome: |-
-        She has fought alongside her even
-        longer than I have!
+      textHome: She has fought alongside her even@longer than I have!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -685,9 +633,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4023_00_38
-      textHome: |-
-        My ears get red when I get angry...
-        It's something I inherited from my father.
+      textHome: My ears get red when I get angry...@It's something I inherited from
+        my father.
   - autoTurnFirst: 3.5
     chara:
     - id: 402300
@@ -715,9 +662,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4023_00_39
-      textHome: |-
-        I do have other dear friends
-        besides Darc and Liz...
+      textHome: I do have other dear friends@besides Darc and Liz...
   - autoTurnFirst: 5
     chara:
     - id: 402300
@@ -730,9 +675,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 402300
       motion: 300
-      textHome: |-
-        I couldn't have done it without
-        all of their help!
+      textHome: I couldn't have done it without@all of their help!
   - chara:
     - id: 402300
       textHomeStatus: Clear
@@ -749,16 +692,12 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4023_00_40
-      textHome: |-
-        My main objective now is
-        to help the maiden, La Pucelle...
+      textHome: My main objective now is@to help the maiden, La Pucelle...
   - autoTurnFirst: 2.5
     chara:
     - eyeClose: 1
       id: 402300
-      textHome: |-
-        When I first laid eyes on her...
-        It was truly miraculous!
+      textHome: When I first laid eyes on her...@It was truly miraculous!
   - autoTurnFirst: 3
     chara:
     - eyeClose: 0
@@ -990,10 +929,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 402300
       motion: 400
-      textHome: |-
-        I work for Darc...I mean, our Holy Maiden
-        as her servant. I ensure everything around
-        her is in order!
+      textHome: I work for Darc...I mean, our Holy Maiden@as her servant. I ensure
+        everything around@her is in order!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1045,9 +982,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 402300
       motion: 1
-      textHome: |-
-        Perhaps it is my father, La Hire's,
-        blood running in my veins...
+      textHome: Perhaps it is my father, La Hire's,@blood running in my veins...
   - chara:
     - id: 402300
       textHomeStatus: Clear
@@ -1064,9 +999,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4023_00_15
-      textHome: |-
-        This is what it means to grow
-        closer with others, isn't it?
+      textHome: This is what it means to grow@closer with others, isn't it?
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -1088,17 +1021,13 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4023_00_16
-      textHome: |-
-        I first met my father while praying
-        before my mother's grave.
+      textHome: I first met my father while praying@before my mother's grave.
   - autoTurnFirst: 5
     chara:
     - eyeClose: 0
       id: 402300
       motion: 1
-      textHome: |-
-        We had always lived apart,
-        so I never knew his face.
+      textHome: We had always lived apart,@so I never knew his face.
   - chara:
     - id: 402300
       textHomeStatus: Clear
@@ -1115,9 +1044,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4023_00_17
-      textHome: |-
-        I was surprised by Darc's delicate frame
-        when we first met...
+      textHome: I was surprised by Darc's delicate frame@when we first met...
   - autoTurnFirst: 3.2
     chara:
     - id: 402300
@@ -1126,9 +1053,7 @@ story:
     chara:
     - id: 402300
       motion: 300
-      textHome: |-
-        However, the biggest surprise was
-        Monsieur Angel sitting on her shoulder!
+      textHome: However, the biggest surprise was@Monsieur Angel sitting on her shoulder!
   - autoTurnFirst: 4
     chara:
     - cheek: 1

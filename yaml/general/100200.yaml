@@ -9,19 +9,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_01
-      textHome: |-
-        Ever since I became a Magical Girl,
-        I've been fighting in Kamihama.
+      textHome: Ever since I became a Magical Girl,@I've been fighting in Kamihama.
   - autoTurnFirst: 7
     chara:
     - cheek: -1
       face: mtn_ex_030.exp.json
       id: 100200
       motion: 300
-      textHome: |-
-        Sure, there's been good moments,
-        but I can only seem to remember
-        the hardships and tragedies.
+      textHome: Sure, there's been good moments,@but I can only seem to remember@the
+        hardships and tragedies.
   - autoTurnFirst: 2.5
     chara:
     - id: 100200
@@ -39,9 +35,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 100200
       motion: 301
-      textHome: |-
-        Because if I do, that would go against
-        everything I've accomplished so far.
+      textHome: Because if I do, that would go against@everything I've accomplished
+        so far.
   - chara:
     - id: 100200
       textHomeStatus: Clear
@@ -57,18 +52,14 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1002_00_18
-      textHome: |-
-        I never even imagined that
-        I could come this far...
+      textHome: I never even imagined that@I could come this far...
   - autoTurnFirst: 8
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 100200
       motion: 0
-      textHome: |-
-        I guess I had much more potential
-        than I ever hoped for.
+      textHome: I guess I had much more potential@than I ever hoped for.
   - chara:
     - id: 100200
       textHomeStatus: Clear
@@ -121,10 +112,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_21
-      textHome: |-
-        I'm already a veteran as a Magical Girl
-        so you can say the experience I have is
-        my strongest weapon.
+      textHome: I'm already a veteran as a Magical Girl@so you can say the experience
+        I have is@my strongest weapon.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -158,19 +147,15 @@ story:
     chara:
     - id: 100200
       motion: 300
-      textHome: |-
-        All the memories I have in my head
-        have been absorbed into my body
-        and become one.
+      textHome: All the memories I have in my head@have been absorbed into my body@and
+        become one.
   - autoTurnFirst: 8
     chara:
     - cheek: -1
       face: mtn_ex_021.exp.json
       id: 100200
       motion: 201
-      textHome: |-
-        It's a strange feeling, but that's
-        the only way I can describe it.
+      textHome: It's a strange feeling, but that's@the only way I can describe it.
   - chara:
     - id: 100200
       textHomeStatus: Clear
@@ -218,9 +203,8 @@ story:
     chara:
     - id: 100200
       motion: 1
-      textHome: |-
-        You take care of everyone else so much,
-        but you need to take care of yourself too.
+      textHome: You take care of everyone else so much,@but you need to take care
+        of yourself too.
   - autoTurnFirst: 7
     chara:
     - id: 100200
@@ -241,16 +225,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_25
-      textHome: |-
-        Another day has dawned.
-        We should always be thankful for that.
+      textHome: Another day has dawned.@We should always be thankful for that.
   - autoTurnFirst: 8
     chara:
     - id: 100200
       motion: 300
-      textHome: |-
-        We're only able to experience each day
-        because we're alive to experience it...
+      textHome: We're only able to experience each day@because we're alive to experience
+        it...
   - chara:
     - id: 100200
       textHomeStatus: Clear
@@ -266,8 +247,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_26
-      textHome: "The dining hall at my college serves \ngood food for cheap. It's
-        really not bad."
+      textHome: The dining hall at my college serves @good food for cheap. It's really
+        not bad.
   - autoTurnFirst: 2
     chara:
     - id: 100200
@@ -276,9 +257,7 @@ story:
     chara:
     - id: 100200
       motion: 200
-      textHome: |-
-        Maybe I'll go there instead
-        of bringing lunch today.
+      textHome: Maybe I'll go there instead@of bringing lunch today.
   - chara:
     - id: 100200
       textHomeStatus: Clear
@@ -294,17 +273,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_27
-      textHome: |-
-        When my grandmother was running her
-        boarding house it was always so lively
-        around this time.
+      textHome: When my grandmother was running her@boarding house it was always so
+        lively@around this time.
   - autoTurnFirst: 5.5
     chara:
     - id: 100200
       motion: 100
-      textHome: |-
-        I can't believe now I'm the same age as
-        our guests were back then...
+      textHome: I can't believe now I'm the same age as@our guests were back then...
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -345,9 +320,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_28
-      textHome: |-
-        Looking up at the stars in the night
-        sky is somehow so relaxing...
+      textHome: Looking up at the stars in the night@sky is somehow so relaxing...
   - autoTurnFirst: 4
     chara:
     - id: 100200
@@ -377,9 +350,7 @@ story:
     chara:
     - id: 100200
       motion: 1
-      textHome: |-
-        We make our own futures, so
-        we must do our best each day.
+      textHome: We make our own futures, so@we must do our best each day.
   - autoTurnFirst: 6
     chara:
     - cheek: -1
@@ -409,10 +380,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 100200
       motion: 200
-      textHome: |-
-        But when a lone Magical Girl connects with
-        another one, sometimes they can form
-        into a group.
+      textHome: But when a lone Magical Girl connects with@another one, sometimes
+        they can form@into a group.
   - autoTurnFirst: 6
     chara:
     - id: 100200
@@ -438,10 +407,8 @@ story:
     chara:
     - id: 100200
       motion: 1
-      textHome: |-
-        But no matter how badly I want to avoid
-        conflict, there is always a fight waiting
-        somewhere...
+      textHome: But no matter how badly I want to avoid@conflict, there is always
+        a fight waiting@somewhere...
   - autoTurnFirst: 6
     chara:
     - cheek: -1
@@ -485,16 +452,13 @@ story:
       motion: 201
       pos: 1
       voice: vo_char_1002_00_33
-      textHome: |-
-        It's important to calmly assess
-        a Witch before engaging it.
+      textHome: It's important to calmly assess@a Witch before engaging it.
   - autoTurnFirst: 8
     chara:
     - id: 100200
       motion: 200
-      textHome: |-
-        Retreat if you don't think you can win.
-        There's nothing shameful in that.
+      textHome: Retreat if you don't think you can win.@There's nothing shameful in
+        that.
   - chara:
     - id: 100200
       textHomeStatus: Clear
@@ -510,17 +474,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_34
-      textHome: |-
-        Each one of us has our own reasons
-        for becoming a Magical Girl,
+      textHome: Each one of us has our own reasons@for becoming a Magical Girl,
   - autoTurnFirst: 3
     chara:
     - cheek: -1
       face: mtn_ex_030.exp.json
       id: 100200
-      textHome: |-
-        but the situation we find ourselves
-        in afterward is essentially the same.
+      textHome: but the situation we find ourselves@in afterward is essentially the
+        same.
   - autoTurnFirst: 8
     chara:
     - cheek: -1
@@ -543,9 +504,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_35
-      textHome: |-
-        I don't like crowded places, but I do like
-        the Suitoku Shopping Center in Sankyo.
+      textHome: I don't like crowded places, but I do like@the Suitoku Shopping Center
+        in Sankyo.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -555,9 +515,7 @@ story:
     chara:
     - id: 100200
       motion: 300
-      textHome: |-
-        Every time I go, I end up
-        buying so many things...
+      textHome: Every time I go, I end up@buying so many things...
   - chara:
     - id: 100200
       textHomeStatus: Clear
@@ -573,9 +531,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1002_00_36
-      textHome: |-
-        We should always be mindful of
-        how much magic we use.
+      textHome: We should always be mindful of@how much magic we use.
   - autoTurnFirst: 6
     chara:
     - cheek: -1
@@ -603,9 +559,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_37
-      textHome: |-
-        I was 12 when I made my contract,
-        and I've been fighting ever since.
+      textHome: I was 12 when I made my contract,@and I've been fighting ever since.
   - autoTurnFirst: 3
     chara:
     - id: 100200
@@ -653,9 +607,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1002_00_38
-      textHome: |-
-        My house is very old, but
-        that's what gives it its charm.
+      textHome: My house is very old, but@that's what gives it its charm.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -688,9 +640,8 @@ story:
     chara:
     - id: 100200
       motion: 300
-      textHome: |-
-        but when you think of it that way you realize
-        the world is drowning in motives.
+      textHome: but when you think of it that way you realize@the world is drowning
+        in motives.
   - autoTurnFirst: 6
     chara:
     - id: 100200
@@ -711,17 +662,16 @@ story:
       motion: 201
       pos: 1
       voice: vo_char_1002_00_40
-      textHome: |-
-        I've come across a lot of Witches in
-        my time, and they've all fought differently.
+      textHome: I've come across a lot of Witches in@my time, and they've all fought
+        differently.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 100200
       motion: 200
-      textHome: "Your ability to adapt on the fly determines\nwhether or not you survive
-        each battle. "
+      textHome: 'Your ability to adapt on the fly determines@whether or not you survive
+        each battle. '
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -743,9 +693,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_41
-      textHome: |-
-        Oh, you want to try some?
-        They're jam stuffed pancakes.
+      textHome: Oh, you want to try some?@They're jam stuffed pancakes.
   - autoTurnFirst: 1
     chara:
     - id: 100200
@@ -759,9 +707,7 @@ story:
     chara:
     - id: 100200
       motion: 0
-      textHome: |-
-        I bought them at a shop near my house.
-        They taste great.
+      textHome: I bought them at a shop near my house.@They taste great.
   - autoTurnFirst: 5
     chara:
     - id: 100200
@@ -971,9 +917,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100200
       motion: 201
-      textHome: |-
-        Keep in mind that it's not easy
-        to survive in Kamihama.
+      textHome: Keep in mind that it's not easy@to survive in Kamihama.
   - autoTurnFirst: 3.2
     chara:
     - cheek: -1
@@ -996,9 +940,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_13
-      textHome: |-
-        Slow and steady,
-        that's how progress is made.
+      textHome: Slow and steady,@that's how progress is made.
   - autoTurnFirst: 6
     chara:
     - id: 100200
@@ -1018,9 +960,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_14
-      textHome: |-
-        All the little things you've done
-        have yieled a huge success.
+      textHome: All the little things you've done@have yieled a huge success.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -1042,9 +982,8 @@ story:
       motion: 201
       pos: 1
       voice: vo_char_1002_00_15
-      textHome: |-
-        If you want to survive, you'll need the
-        power that will allow you to do so.
+      textHome: If you want to survive, you'll need the@power that will allow you
+        to do so.
   - chara:
     - id: 100200
       textHomeStatus: Clear
@@ -1060,9 +999,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_16
-      textHome: |-
-        Even at my age, my magic still seems to
-        be growing stronger.
+      textHome: Even at my age, my magic still seems to@be growing stronger.
   - autoTurnFirst: 5
     chara:
     - id: 100200
@@ -1090,17 +1027,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1002_00_17
-      textHome: |-
-        I feel it... I can control a much
-        greater force of magic now.
+      textHome: I feel it... I can control a much@greater force of magic now.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 100200
-      textHome: |-
-        But I'm sure I can go further.
-        Let's keep at it.
+      textHome: But I'm sure I can go further.@Let's keep at it.
   - autoTurnFirst: 4
     chara:
     - id: 100200

@@ -10,9 +10,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2102_00_01
-      textHome: |-
-        It's me, Madoka-senpai,
-        star of the world of Magia Report.
+      textHome: It's me, Madoka-senpai,@star of the world of Magia Report.
   - autoTurnFirst: 2.6
     chara:
     - cheek: 0
@@ -26,9 +24,8 @@ story:
       face: mtn_ex_013.exp.json
       id: 210200
       motion: 100
-      textHome: |-
-        Iroha's bawling her eyes out 'cause she
-        can't pull anything good in the Fate Weave.
+      textHome: Iroha's bawling her eyes out 'cause she@can't pull anything good in
+        the Fate Weave.
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
@@ -48,10 +45,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 210200
       motion: 200
-      textHome: |-
-        Anyways, I may be lacking a star,
-        but I'm the Magia Report star,
-        Madoka-senpai.
+      textHome: Anyways, I may be lacking a star,@but I'm the Magia Report star,@Madoka-senpai.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -80,16 +74,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2102_00_18
-      textHome: |-
-        It's really hard to reason with me
-        when I'm in Madokannon mode.
+      textHome: It's really hard to reason with me@when I'm in Madokannon mode.
   - autoTurnFirst: 3.5
     chara:
     - id: 210200
       motion: 200
-      textHome: |-
-        Once I get amped up
-        I'm already showering down artillery,
+      textHome: Once I get amped up@I'm already showering down artillery,
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -113,9 +103,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2102_00_19
-      textHome: |
-        So basically this means
-        my kicking strength increased, yeah?
+      textHome: So basically this means@my kicking strength increased, yeah?@
   - autoTurnFirst: 2
     chara:
     - id: 210200
@@ -136,9 +124,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2102_00_20
-      textHome: |-
-        Looks like they already put two of me
-        in the game.
+      textHome: Looks like they already put two of me@in the game.
   - chara:
     - id: 210200
       textHomeStatus: Clear
@@ -162,9 +148,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 210200
       motion: 200
-      textHome: |-
-        so I guess going from a ★3 to a ★4
-        is one of my unique traits...
+      textHome: so I guess going from a ★3 to a ★4@is one of my unique traits...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -187,10 +171,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2102_00_22
-      textHome: |-
-        There's regular me and Kimono me,
-        and now my Magia Report self is
-        in the game too.
+      textHome: There's regular me and Kimono me,@and now my Magia Report self is@in
+        the game too.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -203,17 +185,13 @@ story:
       face: mtn_ex_011.exp.json
       id: 210200
       motion: 100
-      textHome: |-
-        Soon you'll be able to form a team
-        that's just me.
+      textHome: Soon you'll be able to form a team@that's just me.
   - autoTurnFirst: 3.3
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 210200
-      textHome: |-
-        Obviously you're gonna call on
-        Magia Report me as your support, right?
+      textHome: Obviously you're gonna call on@Magia Report me as your support, right?
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
@@ -342,27 +320,21 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2102_00_26
-      textHome: |-
-        So this is the Kamihama
-        from the Magia Record-verse...
+      textHome: So this is the Kamihama@from the Magia Record-verse...
   - autoTurnFirst: 3.6
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 210200
       motion: 300
-      textHome: |-
-        Maybe it's got a ramen shop
-        that'll blow my mind?
+      textHome: Maybe it's got a ramen shop@that'll blow my mind?
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 210200
       motion: 0
-      textHome: |-
-        Got any recommendations,
-        Magia Record Iroha?
+      textHome: Got any recommendations,@Magia Record Iroha?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -390,9 +362,7 @@ story:
     chara:
     - id: 210200
       motion: 300
-      textHome: |-
-        You know, I'm only a ★3 because
-        I gave a star to the sky.
+      textHome: You know, I'm only a ★3 because@I gave a star to the sky.
   - autoTurnFirst: 5.5
     chara:
     - id: 210200
@@ -435,9 +405,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2102_00_28
-      textHome: |-
-        Magia Record is fun, but be smart
-        and don't stay up all night playing!
+      textHome: Magia Record is fun, but be smart@and don't stay up all night playing!
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -473,18 +441,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2102_00_29
-      textHome: |-
-        I can hear Magia Report Iroha
-        bawling from here.
+      textHome: I can hear Magia Report Iroha@bawling from here.
   - autoTurnFirst: 2.1
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 210200
       motion: 0
-      textHome: |-
-        Guess she got her butt kicked by
-        that 1% rate again...
+      textHome: Guess she got her butt kicked by@that 1% rate again...
   - autoTurnFirst: 3.5
     chara:
     - id: 210200
@@ -549,9 +513,7 @@ story:
       face: mtn_ex_054.exp.json
       id: 210200
       motion: 400
-      textHome: |-
-        Huh? You Magia Record guys don't
-        decide your fights with paper football?
+      textHome: Huh? You Magia Record guys don't@decide your fights with paper football?
   - chara:
     - id: 210200
       textHomeStatus: Clear
@@ -595,9 +557,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2102_00_33
-      textHome: |-
-        It's nice we got to meet
-        Homura by pre-registering.
+      textHome: It's nice we got to meet@Homura by pre-registering.
   - autoTurnFirst: 1.6
     chara:
     - cheek: 0
@@ -616,9 +576,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 210200
-      textHome: |-
-        Hey, wait a sec?
-        Don't tell me you didn't pre-register?
+      textHome: Hey, wait a sec?@Don't tell me you didn't pre-register?
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -640,9 +598,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2102_00_34
-      textHome: |-
-        This world's Mami joined some
-        weird cult too, huh?
+      textHome: This world's Mami joined some@weird cult too, huh?
   - autoTurnFirst: 3.1
     chara:
     - id: 210200
@@ -651,9 +607,7 @@ story:
     chara:
     - id: 210200
       motion: 0
-      textHome: |-
-        The other version of me asked us
-        if we could help bring her back.
+      textHome: The other version of me asked us@if we could help bring her back.
   - chara:
     - id: 210200
       textHomeStatus: Clear
@@ -670,18 +624,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2102_00_35
-      textHome: |-
-        Kyoko says she plays Magia Record
-        on Mami's phone.
+      textHome: Kyoko says she plays Magia Record@on Mami's phone.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 210200
       motion: 100
-      textHome: |-
-        Seems like she installed
-        a ton of other games, too.
+      textHome: Seems like she installed@a ton of other games, too.
   - chara:
     - id: 210200
       textHomeStatus: Clear
@@ -698,7 +648,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2102_00_36
-      textHome: "Sayaka... \nOh, should we not talk about her yet?"
+      textHome: Sayaka... @Oh, should we not talk about her yet?
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -711,9 +661,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 210200
       motion: 1
-      textHome: |-
-        I hope she gets added...
-        I mean, I hope we can meet her soon.
+      textHome: I hope she gets added...@I mean, I hope we can meet her soon.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -814,9 +762,7 @@ story:
       face: mtn_ex_013.exp.json
       id: 210200
       motion: 200
-      textHome: |-
-        You know, there's a
-        ★3 Madoka-senpai out there!
+      textHome: You know, there's a@★3 Madoka-senpai out there!
   - chara:
     - id: 210200
       textHomeStatus: Clear
@@ -833,9 +779,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2102_00_39
-      textHome: |-
-        Drinking Himika's "Feral Juice" may be
-        grueling, but it kinda grows on you.
+      textHome: Drinking Himika's "Feral Juice" may be@grueling, but it kinda grows
+        on you.
   - autoTurnFirst: 2.6
     chara:
     - cheek: 0
@@ -848,9 +793,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 210200
       motion: 300
-      textHome: |-
-        But what does Mitama use it for...
-        Let's not even think about it.
+      textHome: But what does Mitama use it for...@Let's not even think about it.
   - chara:
     - id: 210200
       textHomeStatus: Clear
@@ -903,9 +846,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2102_00_41
-      textHome: |-
-        Wow, I gotta say something special when
-        you're showing me this much love...
+      textHome: Wow, I gotta say something special when@you're showing me this much
+        love...
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -934,9 +876,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_2102_00_42
-      textHome: |-
-        Do you really think you stand a chance
-        against Lock-n-Load Madoka?
+      textHome: Do you really think you stand a chance@against Lock-n-Load Madoka?
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -1170,18 +1110,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2102_00_02
-      textHome: |-
-        S'up, this is Madoka-senpai coming at you
-        live from the world of Magia Report.
+      textHome: S'up, this is Madoka-senpai coming at you@live from the world of Magia
+        Report.
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 210200
       motion: 1
-      textHome: |-
-        My dream is to see only myself
-        in the support list.
+      textHome: My dream is to see only myself@in the support list.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1227,9 +1164,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2102_00_14
-      textHome: |-
-        Iroha, you seein' this?
-        I'm stronger than ever!
+      textHome: Iroha, you seein' this?@I'm stronger than ever!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1259,9 +1194,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 210200
       motion: 100
-      textHome: |-
-        ...Your name shouldn't be Iroha,
-        it should be LEER-oha!
+      textHome: '...Your name shouldn''t be Iroha,@it should be LEER-oha!'
   - chara:
     - id: 210200
       textHomeStatus: Clear
@@ -1284,9 +1217,8 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 210200
-      textHome: |-
-        Should I have done that though?
-        The world's not gonna implode, is it?
+      textHome: Should I have done that though?@The world's not gonna implode, is
+        it?
   - autoTurnFirst: 3.5
     chara:
     - id: 210200
@@ -1308,10 +1240,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2102_00_17
-      textHome: |-
-        I took a trip to Hawaii for New Year's,
-        but I guess in this universe me and Homura
-        put on kimonos and went to a shrine.
+      textHome: I took a trip to Hawaii for New Year's,@but I guess in this universe
+        me and Homura@put on kimonos and went to a shrine.
   - autoTurnFirst: 5
     chara:
     - cheek: 0

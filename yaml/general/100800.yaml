@@ -10,35 +10,27 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1008_00_01
-      textHome: |-
-        I, Alina, must introduce myself?
-        Irritante...
+      textHome: I, Alina, must introduce myself?@Irritante...
   - autoTurnFirst: 8
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 100800
       motion: 0
-      textHome: |-
-        Simply look in any art magazine,
-        and you'd already know that
-        I am an artistic genius.
+      textHome: Simply look in any art magazine,@and you'd already know that@I am
+        an artistic genius.
   - autoTurnFirst: 4
     chara:
     - id: 100800
       motion: 100
-      textHome: |-
-        So, ask me questions once you've
-        finished reading, grazie.
+      textHome: So, ask me questions once you've@finished reading, grazie.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100800
       motion: 400
-      textHome: |-
-        Then I might be willing to
-        provide some details.
+      textHome: Then I might be willing to@provide some details.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -66,9 +58,7 @@ story:
     chara:
     - id: 100800
       motion: 200
-      textHome: |-
-        How could I not with my magnum
-        opus nearly complete?
+      textHome: How could I not with my magnum@opus nearly complete?
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -92,9 +82,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1008_00_19
-      textHome: |-
-        Ahh... I, Alina, felt a burst of
-        power from within...
+      textHome: Ahh... I, Alina, felt a burst of@power from within...
   - chara:
     - id: 100800
       textHomeStatus: Clear
@@ -111,9 +99,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1008_00_20
-      textHome: |-
-        Always build on the basics first.
-        This applies to painting as well.
+      textHome: Always build on the basics first.@This applies to painting as well.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -135,9 +121,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1008_00_21
-      textHome: |-
-        This sensation, as though stepping
-        onto yet a higher stage...
+      textHome: This sensation, as though stepping@onto yet a higher stage...
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -147,9 +131,8 @@ story:
     chara:
     - id: 100800
       motion: 200
-      textHome: |2-
-         I feel as though I've uncovered a new style
-         of expression for the first time.
+      textHome: ' I feel as though I''ve uncovered a new style@ of expression for
+        the first time.'
   - autoTurnFirst: 3
     chara:
     - id: 100800
@@ -189,9 +172,7 @@ story:
       face: mtn_ex_013.exp.json
       id: 100800
       motion: 200
-      textHome: |-
-        Oh...stupendo, like debuting on
-        a greater stage...
+      textHome: Oh...stupendo, like debuting on@a greater stage...
   - autoTurnFirst: 4.5
     chara:
     - eyeClose: 0
@@ -247,16 +228,14 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1008_00_24
-      textHome: |-
-        What? You again?
-        You come here way too often.
+      textHome: What? You again?@You come here way too often.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 100800
       motion: 400
-      textHome: "I'm going to do what I want. \nYou go ahead and do what you want."
+      textHome: I'm going to do what I want. @You go ahead and do what you want.
   - autoTurnFirst: 2
     chara:
     - id: 100800
@@ -278,7 +257,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1008_00_25
-      textHome: "It's morning already? \nThis can't be right,"
+      textHome: It's morning already? @This can't be right,
   - autoTurnFirst: 2.8
     chara:
     - eyeClose: 1
@@ -314,9 +293,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1008_00_26
-      textHome: |-
-        Since I like working on my art at night,
-        the afternoon is for my siesta.
+      textHome: Since I like working on my art at night,@the afternoon is for my siesta.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -328,9 +305,7 @@ story:
     chara:
     - id: 100800
       motion: 200
-      textHome: |-
-        I'll punish you if you continue
-        to interrupt me.
+      textHome: I'll punish you if you continue@to interrupt me.
   - chara:
     - id: 100800
       textHomeStatus: Clear
@@ -347,16 +322,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1008_00_27
-      textHome: |-
-        I bet that ridicola girl will be
-        in the classroom.
+      textHome: I bet that ridicola girl will be@in the classroom.
   - autoTurnFirst: 4
     chara:
     - id: 100800
       motion: 300
-      textHome: |-
-        I really hate it when she shows me
-        her silly comics.
+      textHome: I really hate it when she shows me@her silly comics.
   - autoTurnFirst: 1.3
     chara:
     - eyeClose: 1
@@ -409,14 +380,14 @@ story:
     chara:
     - id: 100800
       motion: 200
-      textHome: "Are you stupid? \nYou should just go to sleep."
+      textHome: Are you stupid? @You should just go to sleep.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100800
       motion: 100
-      textHome: "*Giggle* \nWhy are you trying to stay awake?"
+      textHome: '*Giggle* @Why are you trying to stay awake?'
   - chara:
     - id: 100800
       textHomeStatus: Clear
@@ -460,16 +431,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1008_00_30
-      textHome: |-
-        I sense a lovely little Witch nearby.
-        Bellissima!
+      textHome: I sense a lovely little Witch nearby.@Bellissima!
   - autoTurnFirst: 3
     chara:
     - id: 100800
       motion: 100
-      textHome: |-
-        I get so excited when I choose whether to
-        destroy, keep, or feed it to my best artwork.
+      textHome: I get so excited when I choose whether to@destroy, keep, or feed it
+        to my best artwork.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -491,9 +459,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1008_00_31
-      textHome: |-
-        If any Magical Girls interfere with my work
-        I'll simply delete them, of course.
+      textHome: If any Magical Girls interfere with my work@I'll simply delete them,
+        of course.
   - autoTurnFirst: 5.3
     chara:
     - cheek: 0
@@ -546,9 +513,8 @@ story:
     chara:
     - id: 100800
       motion: 0
-      textHome: |-
-        Many say it's creepy, but those who can
-        appreciate it understand it's full of life.
+      textHome: Many say it's creepy, but those who can@appreciate it understand it's
+        full of life.
   - autoTurnFirst: 6
     chara:
     - id: 100800
@@ -569,16 +535,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1008_00_34
-      textHome: |-
-        Who cares about food?
-        To me, it's just fuel.
+      textHome: Who cares about food?@To me, it's just fuel.
   - autoTurnFirst: 4.5
     chara:
     - id: 100800
       motion: 100
-      textHome: |-
-        I don't even notice the taste
-        when I'm working.
+      textHome: I don't even notice the taste@when I'm working.
   - chara:
     - id: 100800
       textHomeStatus: Clear
@@ -595,16 +557,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1008_00_35
-      textHome: |-
-        Painting, pottery, handcrafts,
-        installation art...
+      textHome: Painting, pottery, handcrafts,@installation art...
   - autoTurnFirst: 8.5
     chara:
     - id: 100800
       motion: 100
-      textHome: |-
-        I think my sense of aesthetics was inspired
-        by all the art in my parents' gallery.
+      textHome: I think my sense of aesthetics was inspired@by all the art in my parents'
+        gallery.
   - chara:
     - id: 100800
       textHomeStatus: Clear
@@ -628,9 +587,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 100800
       motion: 0
-      textHome: |2-
-         Since you're always staring at me, I tried to
-        stare back, but nope, nothing interesting.
+      textHome: ' Since you''re always staring at me, I tried to@stare back, but nope,
+        nothing interesting.'
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -659,9 +617,8 @@ story:
     chara:
     - eyeClose: 1
       id: 100800
-      textHome: |-
-        Her posture, her appearance...stupenda.
-        I could sketch her for a hundred hours!
+      textHome: Her posture, her appearance...stupenda.@I could sketch her for a hundred
+        hours!
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
@@ -702,9 +659,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1008_00_38
-      textHome: |-
-        All three of the Magius are motivated only
-        by their own interests.
+      textHome: All three of the Magius are motivated only@by their own interests.
   - autoTurnFirst: 4.5
     chara:
     - id: 100800
@@ -713,9 +668,8 @@ story:
     chara:
     - id: 100800
       motion: 0
-      textHome: |-
-        That's why what they want to achieve
-        doesn't hold my attention in the slightest.
+      textHome: That's why what they want to achieve@doesn't hold my attention in
+        the slightest.
   - autoTurnFirst: 3
     chara:
     - id: 100800
@@ -765,18 +719,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1008_00_40
-      textHome: |-
-        I never create art based on
-        what people want.
+      textHome: I never create art based on@what people want.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100800
       motion: 100
-      textHome: |-
-        Rather, I, Alina, draw other people
-        into my artwork.
+      textHome: Rather, I, Alina, draw other people@into my artwork.
   - chara:
     - id: 100800
       textHomeStatus: Clear
@@ -799,9 +749,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100800
-      textHome: |-
-        You're just like that ridicola girl who doesn't
-        know when to stop.
+      textHome: You're just like that ridicola girl who doesn't@know when to stop.
   - autoTurnFirst: 4
     chara:
     - id: 100800
@@ -810,7 +758,7 @@ story:
     chara:
     - id: 100800
       motion: 0
-      textHome: "Who, you ask? \nI'm talking about Karin Misono, of course."
+      textHome: Who, you ask? @I'm talking about Karin Misono, of course.
   - autoTurnFirst: 4
     chara:
     - id: 100800
@@ -865,9 +813,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1008_00_44
-      textHome: |-
-        *Sigh*
-        I, Alina, have grown tired of this...
+      textHome: '*Sigh*@I, Alina, have grown tired of this...'
   - chara:
     - id: 100800
       textHomeStatus: Clear
@@ -1008,9 +954,7 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 100800
-      textHome: |-
-        However, see to it that you keep
-        your distance, okay
+      textHome: However, see to it that you keep@your distance, okay
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -1076,9 +1020,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1008_00_14
-      textHome: |-
-        On to the next, quickly!
-        Satisfaction is an illusion!
+      textHome: On to the next, quickly!@Satisfaction is an illusion!
   - chara:
     - id: 100800
       textHomeStatus: Clear
@@ -1117,9 +1059,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1008_00_16
-      textHome: |-
-        This sensation... It excites me just as
-        my first encounter with a Witch did...
+      textHome: This sensation... It excites me just as@my first encounter with a
+        Witch did...
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -1146,16 +1087,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1008_00_17
-      textHome: |-
-        Encountering a Witch completely changed
-        the course of my life.
+      textHome: Encountering a Witch completely changed@the course of my life.
   - autoTurnFirst: 3.5
     chara:
     - id: 100800
       motion: 100
-      textHome: |-
-        If you ask me if it was good or bad,
-        I'd say it was good.
+      textHome: If you ask me if it was good or bad,@I'd say it was good.
   - autoTurnFirst: 2.5
     chara:
     - face: mtn_ex_013.exp.json

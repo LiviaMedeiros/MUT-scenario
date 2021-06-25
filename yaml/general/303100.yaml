@@ -31,9 +31,8 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303100
-      textHome: |-
-        Oh, and I like fun and exciting stuff too,
-        like karaoke and amusement parks!
+      textHome: Oh, and I like fun and exciting stuff too,@like karaoke and amusement
+        parks!
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
@@ -51,9 +50,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 303100
       motion: 400
-      textHome: |-
-        Oh, but if me being all wild gets on
-        your nerves, I'll try and keep it down!
+      textHome: Oh, but if me being all wild gets on@your nerves, I'll try and keep
+        it down!
   - autoTurnFirst: 1.5
     chara:
     - id: 303100
@@ -62,9 +60,7 @@ story:
     chara:
     - id: 303100
       motion: 200
-      textHome: |-
-        I wanna be friends with quiet people too,
-        ya know?
+      textHome: I wanna be friends with quiet people too,@ya know?
   - autoTurnFirst: 1.6
     chara:
     - cheek: 0
@@ -97,9 +93,7 @@ story:
     chara:
     - id: 303100
       motion: 0
-      textHome: |-
-        There's only one way to celebrate
-        - going to Minagi Land!
+      textHome: There's only one way to celebrate@- going to Minagi Land!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
@@ -112,10 +106,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 303100
       motion: 0
-      textHome: |-
-        Like, maybe spend the night?!
-        You know, go all out and
-        end up crashing at the park's hotel?!
+      textHome: Like, maybe spend the night?!@You know, go all out and@end up crashing
+        at the park's hotel?!
   - autoTurnFirst: 0.5
     chara:
     - cheek: 1
@@ -145,9 +137,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3031_00_19
-      textHome: |
-        Now that I know that's not everything,
-        I'm feeling even more driven to keep going!
+      textHome: Now that I know that's not everything,@I'm feeling even more driven
+        to keep going!@
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -210,10 +201,8 @@ story:
     chara:
     - id: 303100
       motion: 1
-      textHome: |-
-        My Magical Girl friends are havin' to keep
-        bailing me out, so I wanna get strong
-        enough to pay them all back someday!
+      textHome: My Magical Girl friends are havin' to keep@bailing me out, so I wanna
+        get strong@enough to pay them all back someday!
   - autoTurnFirst: 1.3
     chara:
     - cheek: 1
@@ -238,9 +227,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3031_00_22
-      textHome: |-
-        Having all these cool Magical Girls as
-        friends makes me wanna be just like them!
+      textHome: Having all these cool Magical Girls as@friends makes me wanna be just
+        like them!
   - autoTurnFirst: 2
     chara:
     - id: 303100
@@ -251,9 +239,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 303100
       motion: 0
-      textHome: |-
-        Having people to look up to
-        is the best thing ever.
+      textHome: Having people to look up to@is the best thing ever.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -265,9 +251,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 303100
       motion: 1
-      textHome: |-
-        Like, it's so much easier to race for
-        a goal you can see, don'tcha think?!
+      textHome: Like, it's so much easier to race for@a goal you can see, don'tcha
+        think?!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -339,7 +324,7 @@ story:
     chara:
     - id: 303100
       motion: 100
-      textHome: "Oh, wanna come shopping with \r\nme after you're done today?"
+      textHome: Oh, wanna come shopping with @me after you're done today?
   - autoTurnFirst: 4.1
     chara:
     - id: 303100
@@ -350,9 +335,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 303100
       motion: 200
-      textHome: |-
-        I wanna check out the new
-        makeup they're selling now.
+      textHome: I wanna check out the new@makeup they're selling now.
   - chara:
     - id: 303100
       textHomeStatus: Clear
@@ -470,7 +453,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3031_00_27
-      textHome: "Are you free?\r\nLet's do some purikura!"
+      textHome: Are you free?@Let's do some purikura!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -481,9 +464,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303100
-      textHome: |-
-        Or we could go to karaoke!
-        Or get crepes?
+      textHome: Or we could go to karaoke!@Or get crepes?
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -505,7 +486,7 @@ story:
     chara:
     - id: 303100
       motion: 1
-      textHome: "I didn't join any clubs at school,so I always \nhave free time after."
+      textHome: I didn't join any clubs at school,so I always @have free time after.
   - chara:
     - id: 303100
       textHomeStatus: Clear
@@ -549,18 +530,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3031_00_28
-      textHome: |-
-        How come the late night shows
-        are always sooo good?
+      textHome: How come the late night shows@are always sooo good?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 303100
       motion: 1
-      textHome: |-
-        I love those short, super lame
-        30-minute dramas they have!
+      textHome: I love those short, super lame@30-minute dramas they have!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -571,9 +548,7 @@ story:
     chara:
     - id: 303100
       motion: 300
-      textHome: |-
-        Forgetting about everything and
-        watching TV is the best.
+      textHome: Forgetting about everything and@watching TV is the best.
   - autoTurnFirst: 1.5
     chara:
     - id: 303100
@@ -593,17 +568,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3031_00_29
-      textHome: |-
-        When I wrote that I wanted to be
-        a dessert expert on my report,
-        my teacher laughed so hard.
+      textHome: When I wrote that I wanted to be@a dessert expert on my report,@my
+        teacher laughed so hard.
   - autoTurnFirst: 2
     chara:
     - id: 303100
       motion: 0
-      textHome: |
-        I'm pretty sure I'd just get fat if I did that,
-        so I guess I should think of something else!
+      textHome: I'm pretty sure I'd just get fat if I did that,@so I guess I should
+        think of something else!@
   - autoTurnFirst: 2
     chara:
     - id: 303100
@@ -640,9 +612,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 303100
       motion: 100
-      textHome: |-
-        Oh nooo! Hey, do I have time to straighten
-        my hair once more before we to leave?
+      textHome: Oh nooo! Hey, do I have time to straighten@my hair once more before
+        we to leave?
   - autoTurnFirst: 2.3
     chara:
     - id: 303100
@@ -677,9 +648,7 @@ story:
     chara:
     - id: 303100
       motion: 0
-      textHome: |-
-        I never think about
-        what would happen if I lost!
+      textHome: I never think about@what would happen if I lost!
   - autoTurnFirst: 2.5
     chara:
     - id: 303100
@@ -751,16 +720,13 @@ story:
     chara:
     - id: 303100
       motion: 1
-      textHome: |-
-        It doesn't matter if you're
-        a good or bad singer.
+      textHome: It doesn't matter if you're@a good or bad singer.
   - autoTurnFirst: 1.9
     chara:
     - id: 303100
       motion: 200
-      textHome: |-
-        All that matters is that you put your
-        all into singing your favorite songs.
+      textHome: All that matters is that you put your@all into singing your favorite
+        songs.
   - autoTurnFirst: 1.7
     chara:
     - id: 303100
@@ -785,9 +751,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3031_00_34
-      textHome: |-
-        Full-on makeup is great and all, but I like
-        to try to play up the features I already have!
+      textHome: Full-on makeup is great and all, but I like@to try to play up the
+        features I already have!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -800,7 +765,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 303100
       motion: 0
-      textHome: "I just don't wanna have someone be like,\n\"Who's that?!\" "
+      textHome: 'I just don''t wanna have someone be like,@"Who''s that?!" '
   - autoTurnFirst: 1.1
     chara:
     - id: 303100
@@ -845,8 +810,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 303100
       motion: 0
-      textHome: "I think you should wear stuff you can only\nget away with while you're
-        still young! "
+      textHome: 'I think you should wear stuff you can only@get away with while you''re
+        still young! '
   - autoTurnFirst: 1.4
     chara:
     - id: 303100
@@ -880,9 +845,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303100
-      textHome: |-
-        I could never afford those
-        pricey designer products!
+      textHome: I could never afford those@pricey designer products!
   - autoTurnFirst: 1.7
     chara:
     - cheek: 0
@@ -920,10 +883,8 @@ story:
     chara:
     - id: 303100
       motion: 0
-      textHome: |-
-        but the kind of girls I like always
-        seem to be shy and quiet
-        for some reason.
+      textHome: but the kind of girls I like always@seem to be shy and quiet@for some
+        reason.
   - autoTurnFirst: 2.5
     chara:
     - id: 303100
@@ -977,8 +938,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3031_00_38
-      textHome: "These days you don't see girls \ndishing up the food when they go
-        out. "
+      textHome: 'These days you don''t see girls @dishing up the food when they go
+        out. '
   - autoTurnFirst: 2
     chara:
     - id: 303100
@@ -989,8 +950,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 303100
       motion: 1
-      textHome: "Nowadays boys seem to like girls that\nwait to be served and say,\n\"Oh
-        my gosh, you're so nice!\" "
+      textHome: 'Nowadays boys seem to like girls that@wait to be served and say,@"Oh
+        my gosh, you''re so nice!" '
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1023,7 +984,7 @@ story:
     chara:
     - id: 303100
       motion: 1
-      textHome: "don't you always think about what \nhairstyle you want them to have,"
+      textHome: don't you always think about what @hairstyle you want them to have,
   - autoTurnFirst: 1.5
     chara:
     - id: 303100
@@ -1054,9 +1015,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3031_00_40
-      textHome: |-
-        I feel like Myako-senpai isn't showing
-        herself off as well as she could.
+      textHome: I feel like Myako-senpai isn't showing@herself off as well as she
+        could.
   - autoTurnFirst: 2.3
     chara:
     - id: 303100
@@ -1065,9 +1025,7 @@ story:
     chara:
     - id: 303100
       motion: 0
-      textHome: |-
-        Like, don't you think she'd
-        look great in a uniform?
+      textHome: Like, don't you think she'd@look great in a uniform?
   - autoTurnFirst: 1.5
     chara:
     - id: 303100
@@ -1196,9 +1154,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3031_00_45
-      textHome: |-
-        Yup, yup!
-        Big round of applause for everyone!
+      textHome: Yup, yup!@Big round of applause for everyone!
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -1367,9 +1323,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 303100
       motion: 300
-      textHome: |-
-        I'm way into loud and flashy stuff,
-        which probably puts a lot of people off...
+      textHome: I'm way into loud and flashy stuff,@which probably puts a lot of people
+        off...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -1377,9 +1332,7 @@ story:
       id: 303100
       motion: 1
       pos: 1
-      textHome: |-
-        But hey, fellow Magical Girls
-        gotta get along, right?
+      textHome: But hey, fellow Magical Girls@gotta get along, right?
   - chara:
     - id: 303100
       textHomeStatus: Clear
@@ -1494,9 +1447,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3031_00_16
-      textHome: |
-        We're gonna have a big bash
-        at Minagi Land to celebrate!
+      textHome: We're gonna have a big bash@at Minagi Land to celebrate!@
   - autoTurnFirst: 0.5
     chara:
     - cheek: 1
@@ -1554,8 +1505,8 @@ story:
     chara:
     - id: 303100
       motion: 0
-      textHome: "I promised I'd treat myself to a \nMinagi Land season pass\nif I
-        made it this far!"
+      textHome: I promised I'd treat myself to a @Minagi Land season pass@if I made
+        it this far!
   - autoTurnFirst: 2
     chara:
     - id: 303100

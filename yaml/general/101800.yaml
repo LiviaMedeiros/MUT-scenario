@@ -16,18 +16,14 @@ story:
       face: mtn_ex_040.exp.json
       id: 101800
       motion: 300
-      textHome: |-
-        I'm unsure as to what to discuss
-        on this occasion...
+      textHome: I'm unsure as to what to discuss@on this occasion...
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101800
-      textHome: |-
-        Well, Tsukasa Amane is my twin sister,
-        and while I serve as the leader of the
-        Mizuna Girls' Academy Koto Club,
+      textHome: Well, Tsukasa Amane is my twin sister,@and while I serve as the leader
+        of the@Mizuna Girls' Academy Koto Club,
   - autoTurnFirst: 8.5
     chara:
     - cheek: 0
@@ -69,17 +65,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_00_18
-      textHome: |-
-        As Grandmother's demand for training
-        pushes me to the brink,
-        only one task remains.
+      textHome: As Grandmother's demand for training@pushes me to the brink,@only
+        one task remains.
   - autoTurnFirst: 4
     chara:
     - id: 101800
       motion: 1
-      textHome: |-
-        That is to take wing from this confining
-        birdcage of a household.
+      textHome: That is to take wing from this confining@birdcage of a household.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -122,9 +114,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1018_00_20
-      textHome: |-
-        Am I now able to protect Tsukasa
-        as an older sister should?
+      textHome: Am I now able to protect Tsukasa@as an older sister should?
   - autoTurnFirst: 2.5
     chara:
     - id: 101800
@@ -149,10 +139,8 @@ story:
     chara:
     - id: 101800
       motion: 1
-      textHome: |-
-        This is what comes from bearing the
-        unbearable and committing oneself
-        completely to liberation.
+      textHome: This is what comes from bearing the@unbearable and committing oneself@completely
+        to liberation.
   - autoTurnFirst: 3
     chara:
     - id: 101800
@@ -172,10 +160,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1018_00_22
-      textHome: |
-        The heart will surely break if it is forced
-        only to endure, so solace and a source of
-        energy are necessities for all people.
+      textHome: The heart will surely break if it is forced@only to endure, so solace
+        and a source of@energy are necessities for all people.@
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -187,9 +173,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 101800
       motion: 1
-      textHome: |-
-        I know without a second thought
-        that both of mine are Tsukasa!
+      textHome: I know without a second thought@that both of mine are Tsukasa!
   - autoTurnFirst: 3
     chara:
     - id: 101800
@@ -245,18 +229,14 @@ story:
       face: mtn_ex_030.exp.json
       id: 101800
       motion: 300
-      textHome: |-
-        I have to immerse myself in
-        training again today...
+      textHome: I have to immerse myself in@training again today...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101800
       motion: 100
-      textHome: |-
-        But with this flute Tsukasa and I
-        both have, I will be fine.
+      textHome: But with this flute Tsukasa and I@both have, I will be fine.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -276,10 +256,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_00_25
-      textHome: |-
-        Good morning. I will withstand the
-        onslaught of any unreasonable and
-        violent words I hear today, and try my best!
+      textHome: Good morning. I will withstand the@onslaught of any unreasonable and@violent
+        words I hear today, and try my best!
   - autoTurnFirst: 3.5
     chara:
     - id: 101800
@@ -305,18 +283,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1018_00_26
-      textHome: |-
-        I presume Tsukasa is eating
-        right about now?
+      textHome: I presume Tsukasa is eating@right about now?
   - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101800
       motion: 1
-      textHome: |-
-        Her lunch always looks a bit...
-        unhealthy.
+      textHome: Her lunch always looks a bit...@unhealthy.
   - autoTurnFirst: 4
     chara:
     - id: 101800
@@ -337,14 +311,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1018_00_27
-      textHome: "Tsukasa is probably busy doing laundry \nor preparing dinner for
-        the apprentices\nright about now. "
+      textHome: 'Tsukasa is probably busy doing laundry @or preparing dinner for the
+        apprentices@right about now. '
   - autoTurnFirst: 5
     chara:
     - id: 101800
       motion: 100
-      textHome: "I, on the other hand, leave everything\nto my mother to take care
-        of...  "
+      textHome: 'I, on the other hand, leave everything@to my mother to take care
+        of...  '
   - autoTurnFirst: 3
     chara:
     - id: 101800
@@ -384,17 +358,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1018_00_28
-      textHome: |-
-        After a hot bath, I like to head straight
-        to bed before my body cools down.
+      textHome: After a hot bath, I like to head straight@to bed before my body cools
+        down.
   - autoTurnFirst: 5.5
     chara:
     - cheek: 1
       id: 101800
       motion: 100
-      textHome: |-
-        A warm bed is as comforting to me
-        as being with Tsukasa.
+      textHome: A warm bed is as comforting to me@as being with Tsukasa.
   - chara:
     - id: 101800
       textHomeStatus: Clear
@@ -410,15 +381,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_00_29
-      textHome: "It appears we have some time. \nWould you like to learn how to play
-        the flute?"
+      textHome: It appears we have some time. @Would you like to learn how to play
+        the flute?
   - autoTurnFirst: 4.5
     chara:
     - id: 101800
       motion: 1
-      textHome: |-
-        Be careful not to let your
-        fingertips cover the main hole.
+      textHome: Be careful not to let your@fingertips cover the main hole.
   - chara:
     - id: 101800
       textHomeStatus: Clear
@@ -467,8 +436,8 @@ story:
       face: mtn_ex_040.exp.json
       id: 101800
       motion: 1
-      textHome: "Tsukasa and I are already twins, I wonder \nwhat would happen if
-        we were to enter?"
+      textHome: Tsukasa and I are already twins, I wonder @what would happen if we
+        were to enter?
   - autoTurnFirst: 3
     chara:
     - id: 101800
@@ -512,8 +481,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_00_33
-      textHome: "This is embarrassing to admit, but whenever \na guest brings me some
-        Western sweets, \nit feels as if my heart is dancing."
+      textHome: This is embarrassing to admit, but whenever @a guest brings me some
+        Western sweets, @it feels as if my heart is dancing.
   - autoTurnFirst: 4
     chara:
     - id: 101800
@@ -524,9 +493,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 101800
       motion: 1
-      textHome: |-
-        I usually only have the chance to
-        eat Japanese sweets.
+      textHome: I usually only have the chance to@eat Japanese sweets.
   - chara:
     - id: 101800
       textHomeStatus: Clear
@@ -542,9 +509,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_00_34
-      textHome: |-
-        They say planting a loquat tree in your yard
-        will bring about illness, but that's a lie.
+      textHome: They say planting a loquat tree in your yard@will bring about illness,
+        but that's a lie.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -571,10 +537,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1018_00_35
-      textHome: |-
-        Tsuruno Yui...
-        She's a quick thinker, therefore,
-        she's dangerous.
+      textHome: Tsuruno Yui...@She's a quick thinker, therefore,@she's dangerous.
   - autoTurnFirst: 2.5
     chara:
     - id: 101800
@@ -585,8 +548,8 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101800
-      textHome: "She doesn't seem to think at all, \nso I have no idea what she might
-        do..."
+      textHome: She doesn't seem to think at all, @so I have no idea what she might
+        do...
   - autoTurnFirst: 4
     chara:
     - id: 101800
@@ -606,16 +569,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_00_36
-      textHome: "If you asked me where my favorite place \nat school is, I'd have
-        to say \nan empty classroom."
+      textHome: If you asked me where my favorite place @at school is, I'd have to
+        say @an empty classroom.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101800
-      textHome: |-
-        People are too respectful towards me
-        at school, so it's difficult to relax.
+      textHome: People are too respectful towards me@at school, so it's difficult
+        to relax.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -642,17 +604,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1018_00_37
-      textHome: |-
-        To be honest, the sound of wood being
-        carved is more soothing to me than the
-        sound of this flute.
+      textHome: To be honest, the sound of wood being@carved is more soothing to me
+        than the@sound of this flute.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 101800
       motion: 300
-      textHome: "This is likely from memories \nof my time living with my father."
+      textHome: This is likely from memories @of my time living with my father.
   - chara:
     - id: 101800
       textHomeStatus: Clear
@@ -709,9 +669,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_00_39
-      textHome: |-
-        It's thanks to the flute my father gave me
-        that I was able to reunite with Tsukasa...
+      textHome: It's thanks to the flute my father gave me@that I was able to reunite
+        with Tsukasa...
   - autoTurnFirst: 4.5
     chara:
     - id: 101800
@@ -737,9 +696,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_00_40
-      textHome: |-
-        I would prefer not to speak in depth
-        about the Wings of the Magius...
+      textHome: I would prefer not to speak in depth@about the Wings of the Magius...
   - autoTurnFirst: 3.5
     chara:
     - id: 101800
@@ -759,8 +716,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1018_00_41
-      textHome: "*Sigh* \nThe taste of green tea really varies\ndepending on how it's
-        brewed."
+      textHome: '*Sigh* @The taste of green tea really varies@depending on how it''s
+        brewed.'
   - autoTurnFirst: 1
     chara:
     - cheek: 2
@@ -981,10 +938,8 @@ story:
       face: mtn_ex_040.exp.json
       id: 101800
       motion: 100
-      textHome: |2-
-         I had intended to commemorate
-        the occasion with a joyful tune,
-        so might Tsukasa be present?
+      textHome: ' I had intended to commemorate@the occasion with a joyful tune,@so
+        might Tsukasa be present?'
   - chara:
     - id: 101800
       textHomeStatus: Clear
@@ -1000,9 +955,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1018_00_13
-      textHome: |-
-        Effort, endurance,
-        and never betraying Tsukasa.
+      textHome: Effort, endurance,@and never betraying Tsukasa.
   - autoTurnFirst: 2
     chara:
     - id: 101800
@@ -1022,9 +975,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1018_00_14
-      textHome: |-
-        My patience and hard work have
-        borne fruit once again.
+      textHome: My patience and hard work have@borne fruit once again.
   - chara:
     - id: 101800
       textHomeStatus: Clear
@@ -1040,9 +991,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_00_15
-      textHome: |-
-        Allow me to recount with
-        accompaniment from my koto...
+      textHome: Allow me to recount with@accompaniment from my koto...
   - autoTurnFirst: 2.5
     chara:
     - id: 101800
@@ -1062,17 +1011,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1018_00_16
-      textHome: |-
-        Due to Grandmother's insistence
-        that I be proficient in the ways of
-        the pen and brush,
+      textHome: Due to Grandmother's insistence@that I be proficient in the ways of@the
+        pen and brush,
   - autoTurnFirst: 4
     chara:
     - id: 101800
       motion: 100
-      textHome: |-
-        teachers have come to heavily rely upon
-        me for event preparations.
+      textHome: teachers have come to heavily rely upon@me for event preparations.
   - chara:
     - id: 101800
       textHomeStatus: Clear
@@ -1088,17 +1033,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1018_00_17
-      textHome: |-
-        I became the leader of the Koto Club due
-        entirely to Grandmother's insistence that
-        I keep to a strict practice regimen.
+      textHome: I became the leader of the Koto Club due@entirely to Grandmother's
+        insistence that@I keep to a strict practice regimen.
   - autoTurnFirst: 2.5
     chara:
     - id: 101800
       motion: 1
-      textHome: |2-
-         That and having my juniors' admiration
-        brings me great joy.
+      textHome: ' That and having my juniors'' admiration@brings me great joy.'
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1

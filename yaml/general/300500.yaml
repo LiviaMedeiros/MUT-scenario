@@ -9,10 +9,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3005_00_01
-      textHome: |-
-        My family is the head household of
-        the Kashin-style school of flower arranging
-        which started back in the Edo period.
+      textHome: My family is the head household of@the Kashin-style school of flower
+        arranging@which started back in the Edo period.
   - autoTurnFirst: 3.5
     chara:
     - cheek: -1
@@ -22,8 +20,8 @@ story:
     chara:
     - id: 300500
       motion: 0
-      textHome: "My father places extreme importance\r\non tradition and spent his
-        time in pursuit\r\nof ancient techniques."
+      textHome: My father places extreme importance@on tradition and spent his time
+        in pursuit@of ancient techniques.
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -33,8 +31,8 @@ story:
     chara:
     - id: 300500
       motion: 300
-      textHome: "I found my heart fiercely drawn to the beauty\r\nhe honed through
-        such techniques..."
+      textHome: I found my heart fiercely drawn to the beauty@he honed through such
+        techniques...
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -44,9 +42,7 @@ story:
     chara:
     - id: 300500
       motion: 0
-      textHome: |-
-        So naturally, I came to learn
-        the art of flowers from him.
+      textHome: So naturally, I came to learn@the art of flowers from him.
   - autoTurnFirst: 1.5
     chara:
     - id: 300500
@@ -66,9 +62,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3005_00_18
-      textHome: |-
-        I believe the most iron-clad rule for victory is
-        to never let an opportunity pass you by.
+      textHome: I believe the most iron-clad rule for victory is@to never let an opportunity
+        pass you by.
   - autoTurnFirst: 1.5
     chara:
     - cheek: -1
@@ -134,9 +129,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3005_00_20
-      textHome: |-
-        My senses feel astoundingly sharp now,
-        and yet my heart is tranquil and still...
+      textHome: My senses feel astoundingly sharp now,@and yet my heart is tranquil
+        and still...
   - autoTurnFirst: 2.5
     chara:
     - id: 300500
@@ -156,10 +150,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3005_00_21
-      textHome: |-
-        It's true; I studied incense,
-        Nagauta singing, tea ceremonies,
-        even hip-hop dancing...
+      textHome: It's true; I studied incense,@Nagauta singing, tea ceremonies,@even
+        hip-hop dancing...
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -192,19 +184,15 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3005_00_22
-      textHome: |-
-        I was trained in the art of swordsmanship.
-         In my second year of middle school,
-        I passed my first promotional exam.
+      textHome: I was trained in the art of swordsmanship.@ In my second year of middle
+        school,@I passed my first promotional exam.
   - autoTurnFirst: 2.5
     chara:
     - cheek: -1
       face: mtn_ex_030.exp.json
       id: 300500
       motion: 100
-      textHome: |-
-        Free your mind of distracting thoughts,
-        and simply unsheathe the blade...
+      textHome: Free your mind of distracting thoughts,@and simply unsheathe the blade...
   - autoTurnFirst: 4
     chara:
     - id: 300500
@@ -214,9 +202,7 @@ story:
     - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300500
-      textHome: |-
-        I felt that action was similar to
-        my father's approach in flower arranging.
+      textHome: I felt that action was similar to@my father's approach in flower arranging.
   - autoTurnFirst: 3.5
     chara:
     - id: 300500
@@ -315,10 +301,7 @@ story:
     chara:
     - id: 300500
       motion: 0
-      textHome: |-
-        Good morning.
-        Shall we take a short walk
-        before we leave for the day?
+      textHome: Good morning.@Shall we take a short walk@before we leave for the day?
   - autoTurnFirst: 2
     chara:
     - id: 300500
@@ -362,9 +345,8 @@ story:
     chara:
     - id: 300500
       motion: 1
-      textHome: |-
-        I think I'll have this yakisoba sandwich
-        that I got at the school store today.
+      textHome: I think I'll have this yakisoba sandwich@that I got at the school
+        store today.
   - autoTurnFirst: 1.5
     chara:
     - id: 300500
@@ -384,10 +366,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3005_00_27
-      textHome: |-
-        Dusk has long been called
-        the "witching hour", or the time
-        when Witches come out.
+      textHome: Dusk has long been called@the "witching hour", or the time@when Witches
+        come out.
   - autoTurnFirst: 3
     chara:
     - cheek: -1
@@ -408,9 +388,7 @@ story:
     chara:
     - id: 300500
       motion: 0
-      textHome: |-
-        I can almost hear the Witches
-        crawling out of their lairs...
+      textHome: I can almost hear the Witches@crawling out of their lairs...
   - autoTurnFirst: 3.5
     chara:
     - cheek: -1
@@ -463,9 +441,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 300500
       motion: 300
-      textHome: |-
-        I generally fall asleep when
-         the drowsiness hits me.
+      textHome: I generally fall asleep when@ the drowsiness hits me.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -487,9 +463,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3005_00_29
-      textHome: |-
-        No one can stop the passage of time.
-        Our memories fade, and in time we fade too.
+      textHome: No one can stop the passage of time.@Our memories fade, and in time
+        we fade too.
   - autoTurnFirst: 3
     chara:
     - cheek: -1
@@ -528,9 +503,7 @@ story:
     chara:
     - id: 300500
       motion: 300
-      textHome: |-
-        I will stand and face it...
-        and I will change it.
+      textHome: I will stand and face it...@and I will change it.
   - autoTurnFirst: 4.5
     chara:
     - id: 300500
@@ -555,9 +528,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3005_00_31
-      textHome: |-
-        We are to fight?
-        I understand.
+      textHome: We are to fight?@I understand.
   - autoTurnFirst: 3.5
     chara:
     - id: 300500
@@ -569,9 +540,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 300500
       motion: 0
-      textHome: |-
-        I won't hold back.
-        Prepare yourself...
+      textHome: I won't hold back.@Prepare yourself...
   - autoTurnFirst: 1.5
     chara:
     - id: 300500
@@ -625,13 +594,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3005_00_33
-      textHome: "There is a traditional style of flower\narrangement in which one
-        uses just\none flower and one leaf. "
+      textHome: 'There is a traditional style of flower@arrangement in which one uses
+        just@one flower and one leaf. '
   - autoTurnFirst: 4
     chara:
     - id: 300500
       motion: 300
-      textHome: "There is nothing unnecessary.\n It is simple in its beauty. "
+      textHome: 'There is nothing unnecessary.@ It is simple in its beauty. '
   - autoTurnFirst: 1
     chara:
     - cheek: -1
@@ -666,7 +635,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300500
       motion: 100
-      textHome: "I have many, but one of \nthem is the Japanese iris."
+      textHome: I have many, but one of @them is the Japanese iris.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
@@ -684,9 +653,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 300500
       motion: 300
-      textHome: |-
-        It is a tricky flower to use in arrangements,
-        but I find it quite charming.
+      textHome: It is a tricky flower to use in arrangements,@but I find it quite
+        charming.
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -713,16 +681,13 @@ story:
     chara:
     - id: 300500
       motion: 300
-      textHome: |-
-        I always imagine what kind of flower
-        arrangements I could do with it.
+      textHome: I always imagine what kind of flower@arrangements I could do with
+        it.
   - autoTurnFirst: 3.5
     chara:
     - id: 300500
       motion: 1
-      textHome: |-
-        Sometimes I find myself staring
-        at vases for one or two hours.
+      textHome: Sometimes I find myself staring@at vases for one or two hours.
   - chara:
     - id: 300500
       textHomeStatus: Clear
@@ -795,9 +760,7 @@ story:
     - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
-      textHome: |-
-        But that fate is defined by the choices
-        the individual makes.
+      textHome: But that fate is defined by the choices@the individual makes.
   - autoTurnFirst: 2.5
     chara:
     - id: 300500
@@ -836,9 +799,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3005_00_38
-      textHome: |-
-        Flowers are simply flowers, they
-        do not have wicked thoughts.
+      textHome: Flowers are simply flowers, they@do not have wicked thoughts.
   - autoTurnFirst: 3
     chara:
     - cheek: -1
@@ -850,9 +811,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 300500
       motion: 1
-      textHome: |-
-        It is only humans who cast shadows
-        upon the beauty of this world.
+      textHome: It is only humans who cast shadows@upon the beauty of this world.
   - autoTurnFirst: 2.5
     chara:
     - cheek: -1
@@ -881,9 +840,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3005_00_39
-      textHome: |-
-        If someone does not control the Witches,
-        they will secretly cause chaos in the world
+      textHome: If someone does not control the Witches,@they will secretly cause
+        chaos in the world
   - autoTurnFirst: 2
     chara:
     - id: 300500
@@ -892,15 +850,12 @@ story:
     chara:
     - id: 300500
       motion: 300
-      textHome: |-
-        and the number of people
-        tormented by them will rise.
+      textHome: and the number of people@tormented by them will rise.
   - autoTurnFirst: 3
     chara:
     - id: 300500
       motion: 0
-      textHome: |
-        I want to make sure that does not happen.
+      textHome: I want to make sure that does not happen.@
   - chara:
     - id: 300500
       textHomeStatus: Clear
@@ -916,9 +871,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3005_00_40
-      textHome: |-
-        You need skill when you face
-        another individual in combat.
+      textHome: You need skill when you face@another individual in combat.
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -934,16 +887,12 @@ story:
     chara:
     - id: 300500
       motion: 300
-      textHome: |-
-        To fight against another group,
-        you must use strategy.
+      textHome: To fight against another group,@you must use strategy.
   - autoTurnFirst: 4.5
     chara:
     - id: 300500
       motion: 0
-      textHome: |-
-        They sound like similar things, but
-        they are actually quite different.
+      textHome: They sound like similar things, but@they are actually quite different.
   - chara:
     - id: 300500
       textHomeStatus: Clear
@@ -959,9 +908,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3005_00_41
-      textHome: |-
-        There is a phrase in this book that
-        I am unsure of how to pronounce...
+      textHome: There is a phrase in this book that@I am unsure of how to pronounce...
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -973,9 +920,7 @@ story:
     chara:
     - id: 300500
       motion: 400
-      textHome: |-
-        "You're in for it now!
-        I'm gonna mess you up!"
+      textHome: '"You''re in for it now!@I''m gonna mess you up!"'
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -1066,9 +1011,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3005_00_46
-      textHome: |-
-        It'll be nice if next time goes
-        the same way this time did.
+      textHome: It'll be nice if next time goes@the same way this time did.
   - chara:
     - id: 300500
       textHomeStatus: Clear
@@ -1185,9 +1128,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3005_00_02
-      textHome: |-
-        This is dreadfully sudden,
-        but please let me greet you properly.
+      textHome: This is dreadfully sudden,@but please let me greet you properly.
   - autoTurnFirst: 2.2
     chara:
     - cheek: -1
@@ -1203,9 +1144,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300500
       motion: 1
-      textHome: |-
-        My name is Nanaka Tokiwa.
-        I look forward to working with you.
+      textHome: My name is Nanaka Tokiwa.@I look forward to working with you.
   - chara:
     - id: 300500
       textHomeStatus: Clear
@@ -1221,9 +1160,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3005_00_13
-      textHome: |-
-        Not bad... Not bad at all.
-        Let's keep this up.
+      textHome: Not bad... Not bad at all.@Let's keep this up.
   - autoTurnFirst: 0.5
     chara:
     - id: 300500
@@ -1248,9 +1185,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3005_00_14
-      textHome: |-
-        My skills feel polished to perfection.
-        Time to proceed to the next stage.
+      textHome: My skills feel polished to perfection.@Time to proceed to the next
+        stage.
   - autoTurnFirst: 2
     chara:
     - id: 300500
@@ -1270,9 +1206,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3005_00_15
-      textHome: |-
-        Aha...I feel the magic within
-        my body bursting free.
+      textHome: Aha...I feel the magic within@my body bursting free.
   - autoTurnFirst: 4
     chara:
     - id: 300500
@@ -1292,19 +1226,15 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3005_00_16
-      textHome: |-
-        My father taught me how
-        to play Japanese chess.
+      textHome: My father taught me how@to play Japanese chess.
   - autoTurnFirst: 4
     chara:
     - cheek: -1
       face: mtn_ex_030.exp.json
       id: 300500
       motion: 100
-      textHome: |-
-        It is quite the interesting game.
-        There are many pieces, with many
-        different abilities and roles to play.
+      textHome: It is quite the interesting game.@There are many pieces, with many@different
+        abilities and roles to play.
   - autoTurnFirst: 4.3
     chara:
     - id: 300500
@@ -1334,9 +1264,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3005_00_17
-      textHome: |-
-        My fighting style is fairly straightforward.
-        Observe the enemy's movement,
+      textHome: My fighting style is fairly straightforward.@Observe the enemy's movement,
   - autoTurnFirst: 1
     chara:
     - cheek: -1
@@ -1353,9 +1281,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 300500
       motion: 300
-      textHome: |-
-        then search for the best point to
-        attack in order to shake them up.
+      textHome: then search for the best point to@attack in order to shake them up.
   - autoTurnFirst: 1.5
     chara:
     - cheek: -1

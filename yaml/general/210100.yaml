@@ -19,10 +19,8 @@ story:
     chara:
     - id: 210100
       motion: 1
-      textHome: |-
-        I used to be just a regular student,
-        but now I bear the weight of
-        all Magical Girls' fates.
+      textHome: I used to be just a regular student,@but now I bear the weight of@all
+        Magical Girls' fates.
   - autoTurnFirst: 2
     chara:
     - id: 210100
@@ -32,9 +30,7 @@ story:
     chara:
     - eyeClose: 1
       id: 210100
-      textHome: |-
-        I was able to make this vital wish
-        because of a very dear friend.
+      textHome: I was able to make this vital wish@because of a very dear friend.
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -60,9 +56,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2101_00_18
-      textHome: |-
-        Did I change?
-        Maybe even just a little?
+      textHome: Did I change?@Maybe even just a little?
   - autoTurnFirst: 3
     chara:
     - id: 210100
@@ -72,9 +66,7 @@ story:
     - cheek: 0
       face: mtn_ex_031.exp.json
       id: 210100
-      textHome: |-
-        Will this make me better at
-        guiding everyone?
+      textHome: Will this make me better at@guiding everyone?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -100,9 +92,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2101_00_19
-      textHome: |-
-        This is my power; the power of
-        all the threads of fate converged into one!
+      textHome: This is my power; the power of@all the threads of fate converged into
+        one!
   - autoTurnFirst: 2
     chara:
     - id: 210100
@@ -124,9 +115,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2101_00_20
-      textHome: |-
-        I refuse to leave anyone behind.
-        Just wait for me!
+      textHome: I refuse to leave anyone behind.@Just wait for me!
   - autoTurnFirst: 2
     chara:
     - id: 210100
@@ -148,10 +137,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2101_00_21
-      textHome: |-
-        Even if someone tells me that
-        it's wrong to keep clinging to hope,
-         I'll just say back to them that they're wrong!
+      textHome: Even if someone tells me that@it's wrong to keep clinging to hope,@
+        I'll just say back to them that they're wrong!
   - autoTurnFirst: 2
     chara:
     - id: 210100
@@ -191,23 +178,17 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2101_00_22
-      textHome: |-
-        I can see everything that
-        ever was and ever will be,
-        the universes that could have been,
+      textHome: I can see everything that@ever was and ever will be,@the universes
+        that could have been,
   - autoTurnFirst: 5
     chara:
     - id: 210100
-      textHome: |-
-        or ones that may come to pass,
-        and everyone inside them,
+      textHome: or ones that may come to pass,@and everyone inside them,
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
       id: 210100
-      textHome: |-
-        so I can protect every last one of them
-        as the Law of Cycles.
+      textHome: so I can protect every last one of them@as the Law of Cycles.
   - autoTurnFirst: 2
     chara:
     - id: 210100
@@ -250,9 +231,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2101_00_24
-      textHome: |-
-        Hello!
-        I'm so glad I got to talk to you again today.
+      textHome: Hello!@I'm so glad I got to talk to you again today.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -274,10 +253,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 210100
       motion: 1
-      textHome: |-
-        I'm still quite new to being a Magical Girl,
-        so please teach me
-        anything and everything you know!
+      textHome: I'm still quite new to being a Magical Girl,@so please teach me@anything
+        and everything you know!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -301,16 +278,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2101_00_25
-      textHome: |-
-        It's been a while since I experienced
-        a brisk morning like this.
+      textHome: It's been a while since I experienced@a brisk morning like this.
   - autoTurnFirst: 2
     chara:
     - id: 210100
       motion: 100
-      textHome: |-
-        Oh, Dad's taking care of his
-        cherry tomatoes as usual!
+      textHome: Oh, Dad's taking care of his@cherry tomatoes as usual!
   - autoTurnFirst: 1.3
     chara:
     - id: 210100
@@ -333,16 +306,12 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2101_00_26
-      textHome: |-
-        Hitomi and Kyosuke look happy
-        eating lunch together.
+      textHome: Hitomi and Kyosuke look happy@eating lunch together.
   - autoTurnFirst: 2.6
     chara:
     - id: 210100
       motion: 0
-      textHome: |-
-        They finally got together,
-        so I hope they'll stay happy.
+      textHome: They finally got together,@so I hope they'll stay happy.
   - autoTurnFirst: 1.8
     chara:
     - id: 210100
@@ -424,9 +393,7 @@ story:
     chara:
     - id: 210100
       motion: 0
-      textHome: |-
-        I used to be able to help her too,
-        but now Dad has to do it all alone...
+      textHome: I used to be able to help her too,@but now Dad has to do it all alone...
   - autoTurnFirst: 2
     chara:
     - id: 210100
@@ -452,17 +419,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2101_00_29
-      textHome: |-
-        I'm always by everyone's side,
-        no matter where or when.
+      textHome: I'm always by everyone's side,@no matter where or when.
   - autoTurnFirst: 3.7
     chara:
     - id: 210100
       motion: 0
-      textHome: |-
-        Because of that I always know
-        what's going on with everyone...
-        including myself.
+      textHome: Because of that I always know@what's going on with everyone...@including
+        myself.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -486,10 +449,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2101_00_30
-      textHome: |-
-        It's such a lovely thing to fight
-        alongside others in a team and
-        grow closer because of it!
+      textHome: It's such a lovely thing to fight@alongside others in a team and@grow
+        closer because of it!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -532,9 +493,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2101_00_31
-      textHome: |-
-        It can be a bit embarrassing,
-        seeing other sides of yourself.
+      textHome: It can be a bit embarrassing,@seeing other sides of yourself.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -547,10 +506,8 @@ story:
       face: mtn_ex_040.exp.json
       id: 210100
       motion: 10
-      textHome: |-
-        Like how I was talking to Homura about
-        her name: "It means flame, like you're
-        flaring up passionately, or something!"
+      textHome: 'Like how I was talking to Homura about@her name: "It means flame,
+        like you''re@flaring up passionately, or something!"'
   - autoTurnFirst: 1.2
     chara:
     - id: 210100
@@ -614,9 +571,7 @@ story:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 210100
-      textHome: |-
-        I never thought I'd get another chance
-        to talk to anyone again.
+      textHome: I never thought I'd get another chance@to talk to anyone again.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -742,10 +697,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2101_00_37
-      textHome: |-
-        Now I can really understand
-        just how much Homura suffered and cried
-        and tried to save me...
+      textHome: Now I can really understand@just how much Homura suffered and cried@and
+        tried to save me...
   - autoTurnFirst: 2
     chara:
     - id: 210100
@@ -788,10 +741,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2101_00_38
-      textHome: |-
-        Kyoko once told me.
-        "It's a shame...Sayaka and I were just
-        startin' to be friends."
+      textHome: Kyoko once told me.@"It's a shame...Sayaka and I were just@startin'
+        to be friends."
   - autoTurnFirst: 2
     chara:
     - id: 210100
@@ -804,9 +755,7 @@ story:
     chara:
     - id: 210100
       motion: 100
-      textHome: |-
-        I think in their hearts, those two always
-        understood each other.
+      textHome: I think in their hearts, those two always@understood each other.
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -829,16 +778,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2101_00_39
-      textHome: |-
-        Mami is always the same,
-        no matter which universe I visit.
+      textHome: Mami is always the same,@no matter which universe I visit.
   - autoTurnFirst: 2
     chara:
     - id: 210100
       motion: 201
-      textHome: |-
-        She's great at baking treats and
-        overflowing with a sense of justice...
+      textHome: She's great at baking treats and@overflowing with a sense of justice...
   - autoTurnFirst: 2.5
     chara:
     - id: 210100
@@ -870,9 +815,7 @@ story:
     chara:
     - id: 210100
       motion: 1
-      textHome: |-
-        Listening to Kyosuke play music
-        helped her to recall her true feelings.
+      textHome: Listening to Kyosuke play music@helped her to recall her true feelings.
   - chara:
     - id: 210100
       textHomeStatus: Clear
@@ -903,9 +846,7 @@ story:
     chara:
     - eyeClose: 0
       id: 210100
-      textHome: |-
-        I'll shoulder everyone's burden
-        before their hopes turn into despair...
+      textHome: I'll shoulder everyone's burden@before their hopes turn into despair...
   - autoTurnFirst: 4
     chara:
     - id: 210100
@@ -1127,9 +1068,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 210100
       motion: 0
-      textHome: |-
-        I thought I'd never be able to
-        talk to anyone again!
+      textHome: I thought I'd never be able to@talk to anyone again!
   - autoTurnFirst: 4.8
     chara:
     - cheek: 0
@@ -1150,9 +1089,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2101_00_13
-      textHome: |-
-        I have to do what I can, bit by bit,
-        to get used to all this fighting.
+      textHome: I have to do what I can, bit by bit,@to get used to all this fighting.
   - autoTurnFirst: 2.5
     chara:
     - id: 210100
@@ -1175,9 +1112,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2101_00_14
-      textHome: |-
-        Do I seem a bit cooler now?
-        I can get even stronger than this, you know!
+      textHome: Do I seem a bit cooler now?@I can get even stronger than this, you
+        know!
   - autoTurnFirst: 1
     chara:
     - id: 210100
@@ -1232,9 +1168,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2101_00_16
-      textHome: |-
-        Getting stronger is just the start...
-        I want to grow as a person too.
+      textHome: Getting stronger is just the start...@I want to grow as a person too.
   - autoTurnFirst: 2
     chara:
     - id: 210100
@@ -1258,9 +1192,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2101_00_17
-      textHome: |-
-        I never want to see Magical Girls cry,
-        not when they had such faith in their dreams.
+      textHome: I never want to see Magical Girls cry,@not when they had such faith
+        in their dreams.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0

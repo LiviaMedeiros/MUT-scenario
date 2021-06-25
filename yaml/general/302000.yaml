@@ -15,10 +15,8 @@ story:
     chara:
     - id: 302000
       motion: 100
-      textHome: |-
-        There's my dad, my 3 little sisters,
-        and my 3 little brothers,
-        so 8 of us all live together.
+      textHome: There's my dad, my 3 little sisters,@and my 3 little brothers,@so
+        8 of us all live together.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -31,19 +29,15 @@ story:
       face: mtn_ex_020.exp.json
       id: 302000
       motion: 200
-      textHome: |-
-        Mealtimes are like a battlefield,
-        and don't even get me started on
-        the amount of laundry!
+      textHome: Mealtimes are like a battlefield,@and don't even get me started on@the
+        amount of laundry!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302000
       motion: 100
-      textHome: |-
-        But still, having everyone together
-        keeps every day exciting.
+      textHome: But still, having everyone together@keeps every day exciting.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -66,9 +60,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3020_00_18
-      textHome: |-
-        The most important thing for
-        penny-pinching?
+      textHome: The most important thing for@penny-pinching?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -81,9 +73,8 @@ story:
     - cheek: 0
       id: 302000
       motion: 1
-      textHome: |-
-        Sure, it's true for everything,
-        but that's the only way to keep it going!
+      textHome: Sure, it's true for everything,@but that's the only way to keep it
+        going!
   - chara:
     - id: 302000
       textHomeStatus: Clear
@@ -107,9 +98,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 302000
       motion: 0
-      textHome: |-
-        It looks like I've got enough points on
-        my card to buy something nice!
+      textHome: It looks like I've got enough points on@my card to buy something nice!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -138,9 +127,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302000
-      textHome: |2-
-         Now if only the pay at my part time job
-        would go up like this, too...
+      textHome: ' Now if only the pay at my part time job@would go up like this, too...'
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -163,9 +150,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3020_00_21
-      textHome: |-
-        I saw how hard my mom and dad worked,
-        so I naturally helped out around the house.
+      textHome: I saw how hard my mom and dad worked,@so I naturally helped out around
+        the house.
   - autoTurnFirst: 4
     chara:
     - id: 302000
@@ -174,9 +160,7 @@ story:
     chara:
     - id: 302000
       motion: 400
-      textHome: |-
-        Just start by doing what you can
-        and go from there.
+      textHome: Just start by doing what you can@and go from there.
   - chara:
     - id: 302000
       textHomeStatus: Clear
@@ -193,23 +177,18 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3020_00_22
-      textHome: |-
-        Mom, she taught me everything I know
-        about keeping a household going.
+      textHome: Mom, she taught me everything I know@about keeping a household going.
   - autoTurnFirst: 8.2
     chara:
     - id: 302000
       motion: 1
-      textHome: |-
-        I learned by watching her at first,
-        and then she taught all sorts of little tricks.
+      textHome: I learned by watching her at first,@and then she taught all sorts
+        of little tricks.
   - autoTurnFirst: 4.5
     chara:
     - id: 302000
       motion: 400
-      textHome: |-
-        I'll remember her lessons
-        for the rest of my life.
+      textHome: I'll remember her lessons@for the rest of my life.
   - autoTurnFirst: 4.1
     chara:
     - cheek: 0
@@ -293,9 +272,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302000
-      textHome: |-
-        I just need help with my part time job.
-        Please!
+      textHome: I just need help with my part time job.@Please!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -354,10 +331,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3020_00_26
-      textHome: |-
-        On weekdays I get the school lunch,
-        and I always ask the server to
-        give me a huge serving.
+      textHome: On weekdays I get the school lunch,@and I always ask the server to@give
+        me a huge serving.
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0
@@ -385,9 +360,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 302000
       motion: 1
-      textHome: |-
-        Otherwise, I wouldn't make it through
-        the afternoon!
+      textHome: Otherwise, I wouldn't make it through@the afternoon!
   - chara:
     - id: 302000
       textHomeStatus: Clear
@@ -411,9 +384,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 302000
       motion: 1
-      textHome: |-
-        There's housework, homework,
-        and not to mention Magical Girl work!
+      textHome: There's housework, homework,@and not to mention Magical Girl work!
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
@@ -457,9 +428,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3020_00_28
-      textHome: |-
-        I'm off to bed now! I start early tomorrow,
-        plus we don't want to waste electricity!
+      textHome: I'm off to bed now! I start early tomorrow,@plus we don't want to
+        waste electricity!
   - autoTurnFirst: 1.8
     chara:
     - cheek: 0
@@ -473,9 +443,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 302000
       motion: 100
-      textHome: |-
-        No worries, just close your eyes
-        and you'll nod off eventually!
+      textHome: No worries, just close your eyes@and you'll nod off eventually!
   - chara:
     - id: 302000
       textHomeStatus: Clear
@@ -492,18 +460,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3020_00_29
-      textHome: |-
-        The school's okay with me doing
-        milk runs and paper routes.
+      textHome: The school's okay with me doing@milk runs and paper routes.
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302000
       motion: 1
-      textHome: |-
-        But all my other jobs
-        have to be off the books.
+      textHome: But all my other jobs@have to be off the books.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -527,9 +491,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3020_00_30
-      textHome: |-
-        Every day feels like a fight to survive,
-        but I've made it this far...right?
+      textHome: Every day feels like a fight to survive,@but I've made it this far...right?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -625,10 +587,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3020_00_33
-      textHome: |-
-        I can't even imagine having
-        a hundred million yen.
-        That's a hundred million 1 yen coins...
+      textHome: I can't even imagine having@a hundred million yen.@That's a hundred
+        million 1 yen coins...
   - autoTurnFirst: 7.5
     chara:
     - cheek: 0
@@ -657,18 +617,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3020_00_34
-      textHome: |-
-        Cutting costs is pretty fun
-        once you get going!
+      textHome: Cutting costs is pretty fun@once you get going!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302000
       motion: 0
-      textHome: |-
-        Scouting out the cheap stuff
-        is a bit like treasure hunting.
+      textHome: Scouting out the cheap stuff@is a bit like treasure hunting.
   - autoTurnFirst: 3.8
     chara:
     - cheek: 0
@@ -691,9 +647,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3020_00_35
-      textHome: |-
-        You need money to live,
-        but I use it on my family.
+      textHome: You need money to live,@but I use it on my family.
   - autoTurnFirst: 3.5
     chara:
     - id: 302000
@@ -704,9 +658,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 302000
       motion: 100
-      textHome: |-
-        They're the most important thing
-        in the world to me.
+      textHome: They're the most important thing@in the world to me.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -728,10 +680,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3020_00_36
-      textHome: |-
-        I can't believe there are people
-        who don't like to carry coins
-        in their wallets!
+      textHome: I can't believe there are people@who don't like to carry coins@in
+        their wallets!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -765,9 +715,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3020_00_37
-      textHome: |-
-        I'm the oldest, so I have to keep my
-        little brothers and sisters out of trouble.
+      textHome: I'm the oldest, so I have to keep my@little brothers and sisters out
+        of trouble.
   - autoTurnFirst: 7.2
     chara:
     - id: 302000
@@ -778,9 +727,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 302000
       motion: 200
-      textHome: |-
-        That's why I put all my effort into
-        playing games with them!
+      textHome: That's why I put all my effort into@playing games with them!
   - chara:
     - id: 302000
       textHomeStatus: Clear
@@ -819,10 +766,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3020_00_38
-      textHome: |-
-        Magical Girl fights are rough, for sure,
-        but I also kind of feel like...they're a
-        good business opportunity.
+      textHome: Magical Girl fights are rough, for sure,@but I also kind of feel like...they're
+        a@good business opportunity.
   - autoTurnFirst: 3.8
     chara:
     - cheek: 0
@@ -856,9 +801,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3020_00_39
-      textHome: |-
-        Whoa, I'm sensing a big opportunity
-        coming up!
+      textHome: Whoa, I'm sensing a big opportunity@coming up!
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -871,10 +814,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 302000
       motion: 400
-      textHome: |-
-        Awesome!
-        You only need to strike it lucky
-        once to be set for life!
+      textHome: Awesome!@You only need to strike it lucky@once to be set for life!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -909,9 +849,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 302000
       motion: 1
-      textHome: |-
-        But if people have a little bit of wealth,
-        they're usually okay, I think?
+      textHome: But if people have a little bit of wealth,@they're usually okay, I
+        think?
   - autoTurnFirst: 1.3
     chara:
     - cheek: 0
@@ -950,10 +889,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3020_00_41
-      textHome: |-
-        Those who don't keep a penny
-        will never save many...
-        And those who do can appreciate its value!
+      textHome: Those who don't keep a penny@will never save many...@And those who
+        do can appreciate its value!
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -1197,26 +1134,21 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3020_00_02
-      textHome: |
-        My name's Himika Mao!
+      textHome: My name's Himika Mao!@
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302000
       motion: 400
-      textHome: |-
-        I know we just met,
-        but could you do me a favor?
+      textHome: I know we just met,@but could you do me a favor?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 302000
       motion: 200
-      textHome: |-
-        Help me out with my newspaper route,
-        would you?
+      textHome: Help me out with my newspaper route,@would you?
   - autoTurnFirst: 2.2
     chara:
     - cheek: 0
@@ -1247,9 +1179,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3020_00_13
-      textHome: |-
-        This must be what it's like to get a raise!
-        Right?
+      textHome: This must be what it's like to get a raise!@Right?
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0
@@ -1291,8 +1221,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 302000
       motion: 100
-      textHome: |
-        I'm not too shabby at this, am I?!
+      textHome: I'm not too shabby at this, am I?!@
   - chara:
     - id: 302000
       textHomeStatus: Clear
@@ -1342,10 +1271,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3020_00_16
-      textHome: |-
-        Buying in bulk is the first lesson in saving
-        money! Once you've bought your food,
-        NEVER spend any more on food after that!
+      textHome: Buying in bulk is the first lesson in saving@money! Once you've bought
+        your food,@NEVER spend any more on food after that!
   - autoTurnFirst: 1.5
     chara:
     - id: 302000
@@ -1380,9 +1307,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3020_00_17
-      textHome: |-
-        At our house, the lights stay on not a
-        second more than they have to be!
+      textHome: At our house, the lights stay on not a@second more than they have
+        to be!
   - autoTurnFirst: 4.2
     chara:
     - id: 302000
@@ -1393,9 +1319,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 302000
-      textHome: |-
-        Water and gas are used at
-        the bare minimum, too!
+      textHome: Water and gas are used at@the bare minimum, too!
   - chara:
     - id: 302000
       textHomeStatus: Clear

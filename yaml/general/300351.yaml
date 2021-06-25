@@ -276,9 +276,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300300
       motion: 0
-      textHome: |-
-        Stay cautious in the chem lab,
-        bold on the beach!
+      textHome: Stay cautious in the chem lab,@bold on the beach!
   - autoTurnFirst: 3.2
     chara:
     - id: 300300
@@ -310,9 +308,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 300300
       motion: 0
-      textHome: |-
-        Once it gets later in the day,
-        it gets crowded with couples and families.
+      textHome: Once it gets later in the day,@it gets crowded with couples and families.
   - autoTurnFirst: 3
     chara:
     - id: 300300
@@ -330,16 +326,12 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3003_51_26
-      textHome: |-
-        The sun's high in the sky,
-        so make sure to block those UV rays.
+      textHome: The sun's high in the sky,@so make sure to block those UV rays.
   - autoTurnFirst: 2.5
     chara:
     - id: 300300
       motion: 0
-      textHome: |-
-        I'm not coming up with a
-        Sunburn-B-Gone tonic anytime soon!
+      textHome: I'm not coming up with a@Sunburn-B-Gone tonic anytime soon!
   - autoTurnFirst: 3.5
     chara:
     - id: 300300
@@ -357,9 +349,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3003_51_27
-      textHome: |-
-        The chemistry club is like my own
-        private castle in the evening...
+      textHome: The chemistry club is like my own@private castle in the evening...
   - autoTurnFirst: 2.5
     chara:
     - id: 300300
@@ -369,9 +359,7 @@ story:
     chara:
     - id: 300300
       motion: 0
-      textHome: |-
-        Sometimes Emiri comes to visit,
-        that's about it.
+      textHome: Sometimes Emiri comes to visit,@that's about it.
   - chara:
     - id: 300351
       textHomeStatus: Clear
@@ -413,9 +401,7 @@ story:
     chara:
     - id: 300300
       motion: 300
-      textHome: |-
-        I won't set a good example for my juniors
-        if I slack off on homework.
+      textHome: I won't set a good example for my juniors@if I slack off on homework.
   - chara:
     - id: 300351
       textHomeStatus: Clear
@@ -472,16 +458,12 @@ story:
       face: mtn_ex_020.exp.json
       id: 300300
       motion: 400
-      textHome: |-
-        No, not to the pool!
-        It's time to patrol for Witches!
+      textHome: No, not to the pool!@It's time to patrol for Witches!
   - autoTurnFirst: 3.5
     chara:
     - id: 300300
       motion: 200
-      textHome: |-
-        We can't let ourselves get too soft
-        over the summer!
+      textHome: We can't let ourselves get too soft@over the summer!
   - chara:
     - id: 300351
       textHomeStatus: Clear
@@ -500,10 +482,8 @@ story:
     chara:
     - id: 300300
       motion: 200
-      textHome: |-
-        Maybe this heat will have worn out the
-        Magical Girl copies and make the fights
-        easier.
+      textHome: Maybe this heat will have worn out the@Magical Girl copies and make
+        the fights@easier.
   - autoTurnFirst: 4
     chara:
     - id: 300300
@@ -555,9 +535,7 @@ story:
     chara:
     - id: 300300
       motion: 300
-      textHome: |-
-        I'm basically a summer bombshell!
-        Pure coastal T-N-T!
+      textHome: I'm basically a summer bombshell!@Pure coastal T-N-T!
   - autoTurnFirst: 4
     chara:
     - id: 300300
@@ -580,9 +558,7 @@ story:
     chara:
     - id: 300300
       motion: 200
-      textHome: |-
-        Cause this year, I've got 15 centimeters
-        of height raisi—
+      textHome: Cause this year, I've got 15 centimeters@of height raisi—
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -615,9 +591,7 @@ story:
     chara:
     - eyeClose: 0
       id: 300300
-      textHome: |-
-        How dare you splash me outta nowhere!
-        Do it again and I'll incinera—
+      textHome: How dare you splash me outta nowhere!@Do it again and I'll incinera—
   - autoTurnFirst: 2
     chara:
     - id: 300300
@@ -646,9 +620,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3003_51_36
-      textHome: |-
-        You can't just kid around when
-        you're in the ocean.
+      textHome: You can't just kid around when@you're in the ocean.
   - autoTurnFirst: 2.6
     chara:
     - cheek: 0
@@ -675,17 +647,13 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3003_51_37
-      textHome: |-
-        Could be fun to hold some kinda
-        "Fun Chemistry Experiment Event"
-        on the beach.
+      textHome: Could be fun to hold some kinda@"Fun Chemistry Experiment Event"@on
+        the beach.
   - autoTurnFirst: 4
     chara:
     - id: 300300
       motion: 1
-      textHome: |-
-        I mean, I bet lots of parents are here
-        with their kids.
+      textHome: I mean, I bet lots of parents are here@with their kids.
   - chara:
     - id: 300351
       textHomeStatus: Clear
@@ -729,9 +697,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300300
-      textHome: |-
-        I only have so many summers of youth left,
-        ya know?!
+      textHome: I only have so many summers of youth left,@ya know?!
   - autoTurnFirst: 6
     chara:
     - cheek: 0
@@ -751,18 +717,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3003_51_39
-      textHome: |-
-        I wanna sip a non-alcoholic cocktail
-        underneath a parasol on the beach...
+      textHome: I wanna sip a non-alcoholic cocktail@underneath a parasol on the beach...
   - autoTurnFirst: 1
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300300
       motion: 0
-      textHome: |-
-        Hey, quit tellin' me kids are
-        supposed to drink juice!
+      textHome: Hey, quit tellin' me kids are@supposed to drink juice!
   - autoTurnFirst: 3
     chara:
     - cheek: 2
@@ -782,16 +744,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3003_51_40
-      textHome: |-
-        Emiri and Rika invited me to go to
-        the sea with them.
+      textHome: Emiri and Rika invited me to go to@the sea with them.
   - autoTurnFirst: 3
     chara:
     - id: 300300
       motion: 300
-      textHome: |-
-        It'd be so embarrassing if people thought
-        I was their little sister. I'm older than them!
+      textHome: It'd be so embarrassing if people thought@I was their little sister.
+        I'm older than them!
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -826,9 +785,7 @@ story:
     chara:
     - id: 300300
       motion: 0
-      textHome: |-
-        Hold on...are you blushing looking
-        at my amazing body?
+      textHome: Hold on...are you blushing looking@at my amazing body?
   - autoTurnFirst: 2.5
     chara:
     - id: 300300

@@ -9,9 +9,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3001_00_01
-      textHome: |-
-        Greetings! I am Kanoko Yayoi!
-        I have a dream career, you know.
+      textHome: Greetings! I am Kanoko Yayoi!@I have a dream career, you know.
   - autoTurnFirst: 3
     chara:
     - id: 300100
@@ -21,9 +19,7 @@ story:
     chara:
     - id: 300100
       motion: 400
-      textHome: |-
-        I want my clothes to be displayed
-        at Paris Fashion Week, and...hm?
+      textHome: I want my clothes to be displayed@at Paris Fashion Week, and...hm?
   - autoTurnFirst: 4.5
     chara:
     - cheek: -1
@@ -35,10 +31,8 @@ story:
     chara:
     - id: 300100
       motion: 1
-      textHome: |-
-        We have no way of knowing
-        what the world has planned!
-        I even became a Magical Girl, after all!
+      textHome: We have no way of knowing@what the world has planned!@I even became
+        a Magical Girl, after all!
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -60,9 +54,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3001_00_18
-      textHome: |-
-        Look at the clothes I designed!
-        My masterpiece!
+      textHome: Look at the clothes I designed!@My masterpiece!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -87,18 +79,14 @@ story:
       face: mtn_ex_042.exp.json
       id: 300100
       motion: 1
-      textHome: |-
-        Well, only those who are pure
-        of heart can witness it!
+      textHome: Well, only those who are pure@of heart can witness it!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 300100
       motion: 100
-      textHome: |-
-        You have to cast out
-        all your wicked thoughts!
+      textHome: You have to cast out@all your wicked thoughts!
   - autoTurnFirst: 5
     chara:
     - cheek: -1
@@ -145,9 +133,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3001_00_20
-      textHome: |-
-        The images are forming clear
-        and bright in my mind!
+      textHome: The images are forming clear@and bright in my mind!
   - autoTurnFirst: 1.7
     chara:
     - id: 300100
@@ -180,10 +166,8 @@ story:
     - cheek: -1
       face: mtn_ex_030.exp.json
       id: 300100
-      textHome: |-
-        If I were to describe it,
-        maybe it's like a light bulb switching on?
-        That's cliché, though.
+      textHome: If I were to describe it,@maybe it's like a light bulb switching on?@That's
+        cliché, though.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -228,10 +212,8 @@ story:
     chara:
     - id: 300100
       motion: 1
-      textHome: |-
-        My brain is lit up like a chandelier,
-        the light is whirling like a disco ball in motion,
-        and I'm dancing inside my own head!
+      textHome: My brain is lit up like a chandelier,@the light is whirling like a
+        disco ball in motion,@and I'm dancing inside my own head!
   - autoTurnFirst: 4
     chara:
     - id: 300100
@@ -240,9 +222,7 @@ story:
     chara:
     - id: 300100
       motion: 200
-      textHome: |2-
-         I could bang out a thousand
-        design ideas right now!
+      textHome: ' I could bang out a thousand@design ideas right now!'
   - chara:
     - id: 300100
       textHomeStatus: Clear
@@ -295,7 +275,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3001_00_24
-      textHome: "Oh, you're here.\r\nHeyyy, nice outfit!"
+      textHome: Oh, you're here.@Heyyy, nice outfit!
   - autoTurnFirst: 0.5
     chara:
     - cheek: 1
@@ -325,8 +305,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3001_00_25
-      textHome: "It's important to have time to get ready \nin the morning, so I like
-        to wake up early."
+      textHome: It's important to have time to get ready @in the morning, so I like
+        to wake up early.
   - autoTurnFirst: 3
     chara:
     - cheek: -1
@@ -366,9 +346,7 @@ story:
     chara:
     - id: 300100
       motion: 1
-      textHome: |-
-        I'm so grateful for her.
-        Thank you so much, Mom!
+      textHome: I'm so grateful for her.@Thank you so much, Mom!
   - autoTurnFirst: 4
     chara:
     - id: 300100
@@ -388,10 +366,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3001_00_27
-      textHome: |-
-        I know!
-        I'm gonna stop by that store
-        on my way home!
+      textHome: I know!@I'm gonna stop by that store@on my way home!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -407,9 +382,7 @@ story:
     chara:
     - id: 300100
       motion: 1
-      textHome: |-
-        I can't afford them, but
-        I can at least look at them!
+      textHome: I can't afford them, but@I can at least look at them!
   - autoTurnFirst: 5
     chara:
     - id: 300100
@@ -450,8 +423,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3001_00_28
-      textHome: "Oh!\r\nI was busy designing clothes \r\nand now look what time it
-        is!"
+      textHome: Oh!@I was busy designing clothes @and now look what time it is!
   - autoTurnFirst: 3.3
     chara:
     - id: 300100
@@ -499,9 +471,7 @@ story:
     chara:
     - id: 300100
       motion: 100
-      textHome: |-
-        I wanna be able to draw any designs the
-        moment an idea hits me!
+      textHome: I wanna be able to draw any designs the@moment an idea hits me!
   - autoTurnFirst: 2
     chara:
     - cheek: -1
@@ -560,9 +530,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_3001_00_31
-      textHome: |-
-        Now's when you gotta just let
-        momentum carry you through!
+      textHome: Now's when you gotta just let@momentum carry you through!
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
@@ -634,8 +602,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3001_00_33
-      textHome: "I can't help but fall in love with \nall the cute clothes I see in
-        town!"
+      textHome: I can't help but fall in love with @all the cute clothes I see in
+        town!
   - autoTurnFirst: 3
     chara:
     - id: 300100
@@ -656,9 +624,7 @@ story:
     chara:
     - id: 300100
       motion: 200
-      textHome: |-
-        I guess I'm just a girl who
-        has a lotta love to give!
+      textHome: I guess I'm just a girl who@has a lotta love to give!
   - chara:
     - id: 300100
       textHomeStatus: Clear
@@ -693,9 +659,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 300100
       motion: 1
-      textHome: |-
-        I call it...the Lilac-Breasted Roller print!
-        It's so beautiful...
+      textHome: I call it...the Lilac-Breasted Roller print!@It's so beautiful...
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -757,9 +721,7 @@ story:
     chara:
     - id: 300100
       motion: 200
-      textHome: |-
-        Where did you buy then?!
-        Tell me, tell me, tell me!...
+      textHome: Where did you buy then?!@Tell me, tell me, tell me!...
   - autoTurnFirst: 2
     chara:
     - id: 300100
@@ -791,9 +753,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 300100
       motion: 400
-      textHome: |-
-        But when there's nothing you can do,
-        I like to try and think of a solution anyway!
+      textHome: But when there's nothing you can do,@I like to try and think of a
+        solution anyway!
   - autoTurnFirst: 2.5
     chara:
     - cheek: -1
@@ -855,9 +816,7 @@ story:
     chara:
     - id: 300100
       motion: 100
-      textHome: |-
-        He said they use his parts
-        in rockets and stuff!
+      textHome: He said they use his parts@in rockets and stuff!
   - chara:
     - id: 300100
       textHomeStatus: Clear
@@ -873,9 +832,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3001_00_39
-      textHome: |-
-        I don't really get much of a reaction
-        when I show people my designs...
+      textHome: I don't really get much of a reaction@when I show people my designs...
   - autoTurnFirst: 3.5
     chara:
     - id: 300100
@@ -891,9 +848,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300100
       motion: 100
-      textHome: |-
-        I'm sure they're just overcome
-        with emotion and can't speak!
+      textHome: I'm sure they're just overcome@with emotion and can't speak!
   - chara:
     - id: 300100
       textHomeStatus: Clear
@@ -924,9 +879,7 @@ story:
     chara:
     - id: 300100
       motion: 200
-      textHome: |-
-        and one day my runway dream
-        is bound to come true!
+      textHome: and one day my runway dream@is bound to come true!
   - chara:
     - id: 300100
       textHomeStatus: Clear
@@ -960,9 +913,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300100
       motion: 1
-      textHome: |-
-        I just wanna relax!
-        Sweatpants and stuff are great!
+      textHome: I just wanna relax!@Sweatpants and stuff are great!
   - autoTurnFirst: 4
     chara:
     - id: 300100
@@ -1148,9 +1099,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3001_00_02
-      textHome: |-
-        Allow me, Kanoko Yayoi,
-        to take care of your wardrobe for you!
+      textHome: Allow me, Kanoko Yayoi,@to take care of your wardrobe for you!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1162,9 +1111,7 @@ story:
       face: mtn_ex_042.exp.json
       id: 300100
       motion: 1
-      textHome: |-
-        Today I will dress you head
-        to toe in mulberry mauve!
+      textHome: Today I will dress you head@to toe in mulberry mauve!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1191,9 +1138,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3001_00_13
-      textHome: |-
-        Oh? Did I just become more
-        sophisticated right now?
+      textHome: Oh? Did I just become more@sophisticated right now?
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -1218,9 +1163,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3001_00_14
-      textHome: |-
-        What do you think?
-        Aren't I positively sparkling?
+      textHome: What do you think?@Aren't I positively sparkling?
   - autoTurnFirst: 6
     chara:
     - id: 300100
@@ -1268,10 +1211,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 300100
       motion: 0
-      textHome: |-
-        What do you think of this piece?
-         I conceptualized it as winter clothes
-        befitting the biting cold...
+      textHome: What do you think of this piece?@ I conceptualized it as winter clothes@befitting
+        the biting cold...
   - autoTurnFirst: 6
     chara:
     - cheek: -1
@@ -1301,16 +1242,14 @@ story:
       face: mtn_ex_001.exp.json
       id: 300100
       motion: 1
-      textHome: |-
-        Long sleeve on one side,
-        short sleeve on the other.
+      textHome: Long sleeve on one side,@short sleeve on the other.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 300100
-      textHome: "It's made from a mix of thin and thick fabric\r\nso you can wear
-        it all year round!"
+      textHome: It's made from a mix of thin and thick fabric@so you can wear it all
+        year round!
   - autoTurnFirst: 2
     chara:
     - cheek: -1

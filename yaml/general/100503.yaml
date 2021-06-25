@@ -248,9 +248,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 0
-      textHome: |-
-        It's right in that sweet spot between
-        cool and cute if ya ask me!
+      textHome: It's right in that sweet spot between@cool and cute if ya ask me!
   - autoTurnFirst: 1
     chara:
     - id: 100500
@@ -277,9 +275,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1005_03_25
-      textHome: |-
-        Nghaaa... Nope, I'm gonna snooze...
-        Snooze aaall day...
+      textHome: Nghaaa... Nope, I'm gonna snooze...@Snooze aaall day...
   - autoTurnFirst: 6
     chara:
     - cheek: 1
@@ -292,10 +288,8 @@ story:
       eyeClose: 1
       face: mtn_ex_010.exp.json
       id: 100500
-      textHome: |-
-        Like the animals,
-        livin' free in the great outdoors,
-        with the warm sun and a cool breeze...
+      textHome: Like the animals,@livin' free in the great outdoors,@with the warm
+        sun and a cool breeze...
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -318,9 +312,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1005_03_26
-      textHome: |-
-        Heck yeah!
-        I'm gonna rehearse the play before lunch!
+      textHome: Heck yeah!@I'm gonna rehearse the play before lunch!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -331,9 +323,7 @@ story:
     chara:
     - id: 100500
       motion: 100
-      textHome: |-
-        Food sure tastes better on
-        an empty stomach!
+      textHome: Food sure tastes better on@an empty stomach!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -355,19 +345,15 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1005_03_27
-      textHome: |-
-        Gah, Karin's gonna be mad at me if I don't
-        get to rehearsal ASAP.
+      textHome: Gah, Karin's gonna be mad at me if I don't@get to rehearsal ASAP.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 0
-      textHome: |-
-        I might look like a slacker, but I follow
-        through when people depend on me!
-        I am a mercenary after all!
+      textHome: I might look like a slacker, but I follow@through when people depend
+        on me!@I am a mercenary after all!
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -421,9 +407,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100500
-      textHome: |-
-        I ain't sensin' any Witches,
-        so maybe I'll just call it a night...
+      textHome: I ain't sensin' any Witches,@so maybe I'll just call it a night...
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -435,9 +419,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100500
       motion: 400
-      textHome: |-
-        Wait, there's candy to get!
-        Trick 'r treatin', here I come!
+      textHome: Wait, there's candy to get!@Trick 'r treatin', here I come!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -460,9 +442,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_03_29
-      textHome: |-
-        Hnn? Ah, sorry but I ain't doin' any
-        mercenary work right now.
+      textHome: Hnn? Ah, sorry but I ain't doin' any@mercenary work right now.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -516,9 +496,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 0
-      textHome: |-
-        Ya only get one crack at an actin' debut,
-        so I'm gonna make it awesome!
+      textHome: Ya only get one crack at an actin' debut,@so I'm gonna make it awesome!
   - autoTurnFirst: 3
     chara:
     - id: 100500
@@ -545,9 +523,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1005_03_31
-      textHome: |-
-        Me gettin' copied in Mirrors means
-        there'll be two cows.
+      textHome: Me gettin' copied in Mirrors means@there'll be two cows.
   - autoTurnFirst: 1.5
     chara:
     - id: 100500
@@ -629,9 +605,7 @@ story:
     chara:
     - id: 100500
       motion: 0
-      textHome: |-
-        Yachiyo's too old to get any,
-        so I'll give her one of mine.
+      textHome: Yachiyo's too old to get any,@so I'll give her one of mine.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -655,9 +629,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1005_03_34
-      textHome: |-
-        Tsuruno and me whipped up
-        some mashed potatoes!
+      textHome: Tsuruno and me whipped up@some mashed potatoes!
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -692,10 +664,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1005_03_35
-      textHome: |-
-        The heck's up with this script?!
-        I can't make heads or tails of
-        these stage cues!
+      textHome: The heck's up with this script?!@I can't make heads or tails of@these
+        stage cues!
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -730,9 +700,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_03_36
-      textHome: |-
-        I know my costume rocks,
-        but check out this sweet bell!
+      textHome: I know my costume rocks,@but check out this sweet bell!
   - autoTurnFirst: 1
     chara:
     - id: 100500
@@ -770,18 +738,14 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1005_03_37
-      textHome: |-
-        I'm glad Asuka didn't snatch the
-        cow part away from me.
+      textHome: I'm glad Asuka didn't snatch the@cow part away from me.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 200
-      textHome: |-
-        It ain't every day ya get
-        to have clothes like this!
+      textHome: It ain't every day ya get@to have clothes like this!
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -836,10 +800,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 100500
       motion: 0
-      textHome: |-
-        My teachers used to say I muck
-        everythin' up and forced me be
-        a stagehand every time.
+      textHome: My teachers used to say I muck@everythin' up and forced me be@a stagehand
+        every time.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -862,10 +824,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1005_03_39
-      textHome: |
-        I had to give out all the candy
-        we used in the play,
-        but the kiddos looked pretty happy.
+      textHome: I had to give out all the candy@we used in the play,@but the kiddos
+        looked pretty happy.@
   - autoTurnFirst: 2.5
     chara:
     - id: 100500
@@ -893,9 +853,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1005_03_40
-      textHome: |-
-        My dad, he's from Britain or some
-        English speakin' country.
+      textHome: My dad, he's from Britain or some@English speakin' country.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -903,9 +861,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100500
       motion: 100
-      textHome: |-
-        So we did a lot for Halloween back
-        when I lived with my family!
+      textHome: So we did a lot for Halloween back@when I lived with my family!
   - chara:
     - id: 100503
       textHomeStatus: Clear
@@ -922,9 +878,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1005_03_41
-      textHome: |-
-        When my mom made pumpkin soup,
-        she'd hollow out the pumpkins into bowls.
+      textHome: When my mom made pumpkin soup,@she'd hollow out the pumpkins into
+        bowls.
   - autoTurnFirst: 4
     chara:
     - id: 100500

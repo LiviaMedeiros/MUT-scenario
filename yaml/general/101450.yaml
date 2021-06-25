@@ -248,17 +248,16 @@ story:
     chara:
     - id: 101400
       motion: 1
-      textHome: "I was staring into the ocean,\r\nI completely forgot what I was going
-        to say. "
+      textHome: 'I was staring into the ocean,@I completely forgot what I was going
+        to say. '
   - autoTurnFirst: 8
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101400
       motion: 100
-      textHome: |-
-        Looking at the ocean from this beachside
-        park, it's just completely different.
+      textHome: Looking at the ocean from this beachside@park, it's just completely
+        different.
   - chara:
     - id: 101450
       textHomeStatus: Clear
@@ -278,17 +277,14 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101400
-      textHome: |-
-        The sounds and smells of the ocean,
-        I was taking them all in.
+      textHome: The sounds and smells of the ocean,@I was taking them all in.
   - autoTurnFirst: 4.5
     chara:
     - eyeClose: 1
       id: 101400
       motion: 300
-      textHome: |-
-        Maybe I'll try to express my feelings in words
-        while they're still fresh in my mind.
+      textHome: Maybe I'll try to express my feelings in words@while they're still
+        fresh in my mind.
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -313,17 +309,13 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1014_50_26
-      textHome: |-
-        I prefer salty foods,
-        they're much lighter than other things.
+      textHome: I prefer salty foods,@they're much lighter than other things.
   - autoTurnFirst: 4.5
     chara:
     - eyeClose: 1
       id: 101400
       motion: 300
-      textHome: |-
-        The seafood ramen here is
-        especially exquisite.
+      textHome: The seafood ramen here is@especially exquisite.
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -385,9 +377,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101400
       motion: 0
-      textHome: |-
-        These are just some of the things
-        that suit the ocean at dusk.
+      textHome: These are just some of the things@that suit the ocean at dusk.
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
@@ -396,9 +386,7 @@ story:
     chara:
     - id: 101400
       motion: 100
-      textHome: |-
-        Plenty of situations that
-        can stir ones emotions.
+      textHome: Plenty of situations that@can stir ones emotions.
   - chara:
     - id: 101450
       textHomeStatus: Clear
@@ -426,9 +414,7 @@ story:
     chara:
     - id: 101400
       tear: 0
-      textHome: |2-
-         I'm usually not that tired this time of day,
-        but today I am.
+      textHome: ' I''m usually not that tired this time of day,@but today I am.'
   - autoTurnFirst: 9
     chara:
     - cheek: 0
@@ -436,9 +422,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 101400
       motion: 0
-      textHome: |-
-        That ocean breeze on my body,
-        it's just putting me to sleep.
+      textHome: That ocean breeze on my body,@it's just putting me to sleep.
   - chara:
     - id: 101450
       textHomeStatus: Clear
@@ -452,9 +436,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1014_50_29
-      textHome: |-
-        The vast ocean, the shining sun,
-        and majestic mountains...
+      textHome: The vast ocean, the shining sun,@and majestic mountains...
   - autoTurnFirst: 3.5
     chara:
     - eyeClose: 1
@@ -469,18 +451,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 101400
       motion: 0
-      textHome: |-
-        You really feel small
-        when surrounded by nature.
+      textHome: You really feel small@when surrounded by nature.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101400
       motion: 100
-      textHome: |-
-        It makes sense that people
-        once worshiped them.
+      textHome: It makes sense that people@once worshiped them.
   - chara:
     - id: 101450
       textHomeStatus: Clear
@@ -494,9 +472,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1014_50_30
-      textHome: |-
-        There's Witches everywhere anywhere,
-        even here at the beach.
+      textHome: There's Witches everywhere anywhere,@even here at the beach.
   - autoTurnFirst: 7
     chara:
     - cheek: 0
@@ -509,9 +485,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 101400
       motion: 400
-      textHome: |-
-        Let's make them pay for
-        trying to spoil our fun.
+      textHome: Let's make them pay for@trying to spoil our fun.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -531,9 +505,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1014_50_31
-      textHome: |-
-        Wanting to go to Endless Mirrors in swimsuit,
-        one must be crazy.
+      textHome: Wanting to go to Endless Mirrors in swimsuit,@one must be crazy.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -589,12 +561,12 @@ story:
       face: mtn_ex_010.exp.json
       id: 101400
       motion: 100
-      textHome: " I was just taking a break,\r\ndoing some reading in the shade."
+      textHome: ' I was just taking a break,@doing some reading in the shade.'
   - autoTurnFirst: 2.5
     chara:
     - id: 101400
       motion: 300
-      textHome: "I've had plenty of fun playing\r\nin the water today."
+      textHome: I've had plenty of fun playing@in the water today.
   - autoTurnFirst: 3.5
     chara:
     - eyeClose: 1
@@ -623,10 +595,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1014_50_34
-      textHome: |-
-        Spooky ghost stories may be perfect for
-        the beach but I think murder cases are
-        quite interesting as well.
+      textHome: Spooky ghost stories may be perfect for@the beach but I think murder
+        cases are@quite interesting as well.
   - autoTurnFirst: 5.5
     chara:
     - id: 101400
@@ -637,7 +607,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101400
       motion: 200
-      textHome: "I wonder... \nWho will be the victim this time, heh."
+      textHome: I wonder... @Who will be the victim this time, heh.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -656,16 +626,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1014_50_35
-      textHome: "This is so different from the summers\nI spent in the hospital. "
+      textHome: 'This is so different from the summers@I spent in the hospital. '
   - autoTurnFirst: 7.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101400
       motion: 1
-      textHome: |-
-        The intense contrast and vivid colors,
-        they burn into eyes and soul.
+      textHome: The intense contrast and vivid colors,@they burn into eyes and soul.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -690,8 +658,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1014_50_36
-      textHome: "Ugh, this isn't good either...\nI just don't have any sense when\r\nit
-        comes to building things."
+      textHome: Ugh, this isn't good either...@I just don't have any sense when@it
+        comes to building things.
   - autoTurnFirst: 8
     chara:
     - eyeClose: 0
@@ -702,10 +670,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 101400
       motion: 0
-      textHome: |-
-        I thought I'd make a sandcastle just like
-        the ones in the comics,
-        but it didn't turn out well at all.
+      textHome: I thought I'd make a sandcastle just like@the ones in the comics,@but
+        it didn't turn out well at all.
   - autoTurnFirst: 3.5
     chara:
     - id: 101400
@@ -740,10 +706,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1014_50_37
-      textHome: |-
-        Watching everyone light those fireworks
-        in the distance, they really look like flowers
-        blooming from within the darkness.
+      textHome: Watching everyone light those fireworks@in the distance, they really
+        look like flowers@blooming from within the darkness.
   - autoTurnFirst: 0.3
     chara:
     - eyeClose: 0
@@ -782,10 +746,8 @@ story:
     chara:
     - id: 101400
       motion: 300
-      textHome: |-
-        Writing, surrounded by the sounds
-        of the ocean and all these insects,
-        I feel like one of those old-fashioned authors.
+      textHome: Writing, surrounded by the sounds@of the ocean and all these insects,@I
+        feel like one of those old-fashioned authors.
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -844,8 +806,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 101400
       motion: 0
-      textHome: "Well that hurt, but the condensed milk and\r\nazuki beans are just
-        too good. "
+      textHome: 'Well that hurt, but the condensed milk and@azuki beans are just too
+        good. '
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -873,9 +835,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1014_50_40
-      textHome: |-
-        At this very moment
-         I'm so unbelievably happy.
+      textHome: At this very moment@ I'm so unbelievably happy.
   - autoTurnFirst: 5
     chara:
     - id: 101400
@@ -887,10 +847,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 101400
       motion: 200
-      textHome: |-
-        A happiness that only us humans,
-        especially us who from the abyss,
-        can fully understand.
+      textHome: A happiness that only us humans,@especially us who from the abyss,@can
+        fully understand.
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -914,16 +872,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1014_50_41
-      textHome: |-
-        Th-this is my first swimsuit,
-        my mother picked it out for me.
+      textHome: Th-this is my first swimsuit,@my mother picked it out for me.
   - autoTurnFirst: 3.5
     chara:
     - id: 101400
       motion: 300
-      textHome: |-
-        We've never been shopping together,
-        it's an experience I'll never forget.
+      textHome: We've never been shopping together,@it's an experience I'll never
+        forget.
   - autoTurnFirst: 4.1
     chara:
     - cheek: 1

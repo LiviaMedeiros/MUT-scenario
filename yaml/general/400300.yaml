@@ -26,7 +26,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 400300
       motion: 0
-      textHome: "If anyone picks on Kyoko,\nI'll beat them up real bad! "
+      textHome: 'If anyone picks on Kyoko,@I''ll beat them up real bad! '
   - autoTurnFirst: 2.2
     chara:
     - id: 400300
@@ -54,9 +54,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 400300
       motion: 200
-      textHome: |-
-        If you're mean to her I'll make you
-        REALLY sorry!
+      textHome: If you're mean to her I'll make you@REALLY sorry!
   - autoTurnFirst: 2.2
     chara:
     - cheek: 1
@@ -86,9 +84,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_4003_00_18
-      textHome: |-
-        I wanna be Kyoko's hero...
-        just like how she was mine.
+      textHome: I wanna be Kyoko's hero...@just like how she was mine.
   - autoTurnFirst: 1
     chara:
     - id: 400300
@@ -150,9 +146,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4003_00_20
-      textHome: |-
-        I tried really hard!
-        Wanna celebrate with me?
+      textHome: I tried really hard!@Wanna celebrate with me?
   - autoTurnFirst: 1.5
     chara:
     - id: 400300
@@ -179,10 +173,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 400300
       motion: 1
-      textHome: |-
-        Now you don't need to be scared of
-        anything! Not the dark or ghosts,
-        not even Witches!
+      textHome: Now you don't need to be scared of@anything! Not the dark or ghosts,@not
+        even Witches!
   - autoTurnFirst: 4.2
     chara:
     - cheek: 1
@@ -193,9 +185,7 @@ story:
     chara:
     - id: 400300
       motion: 100
-      textHome: |-
-        Cause you've got the
-        new super strong Yuma here!
+      textHome: Cause you've got the@new super strong Yuma here!
   - chara:
     - id: 400300
       textHomeStatus: Clear
@@ -224,9 +214,8 @@ story:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 400300
-      textHome: |-
-        If people are hurt or about to give up,
-        I wanna heal their hearts for 'em.
+      textHome: If people are hurt or about to give up,@I wanna heal their hearts
+        for 'em.
   - autoTurnFirst: 3.3
     chara:
     - cheek: 1
@@ -237,9 +226,7 @@ story:
     chara:
     - id: 400300
       motion: 1
-      textHome: |2-
-         I want everyone to think of me
-        as their helping hand!
+      textHome: ' I want everyone to think of me@as their helping hand!'
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -911,7 +898,7 @@ story:
     chara:
     - id: 400300
       motion: 300
-      textHome: "I don't want you to feel like \nyou don't need me around..."
+      textHome: I don't want you to feel like @you don't need me around...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 2
@@ -1184,9 +1171,7 @@ story:
     - cheek: 1
       id: 400300
       motion: 400
-      textHome: |-
-        Make sure to call me Yuma, okay?
-        Or I'll get mad!
+      textHome: Make sure to call me Yuma, okay?@Or I'll get mad!
   - chara:
     - id: 400300
       textHomeStatus: Clear
@@ -1233,9 +1218,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_4003_00_14
-      textHome: |-
-        Hee hee!
-        I'm a full-grown Magical Girl too!
+      textHome: Hee hee!@I'm a full-grown Magical Girl too!
   - autoTurnFirst: 2
     chara:
     - id: 400300
@@ -1301,9 +1284,7 @@ story:
     chara:
     - id: 400300
       motion: 1
-      textHome: |2-
-         I can protect Kyoko from
-        any kind of bad guy!
+      textHome: ' I can protect Kyoko from@any kind of bad guy!'
   - autoTurnFirst: 1
     chara:
     - id: 400300
@@ -1328,9 +1309,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4003_00_17
-      textHome: |-
-        I can handle anything so long
-        as Kyoko's with me!
+      textHome: I can handle anything so long@as Kyoko's with me!
   - autoTurnFirst: 0.5
     chara:
     - id: 400300

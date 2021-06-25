@@ -243,18 +243,14 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_2006_02_25
-      textHome: |-
-        *Yaaawn*
-        I'm still really friggin' tired...
+      textHome: '*Yaaawn*@I''m still really friggin'' tired...'
   - autoTurnFirst: 4.8
     chara:
     - eyeClose: 0
       id: 200600
       motion: 0
-      textHome: |-
-        I'm stuck stayin' up late not from
-        huntin' Witches, but from puttin' up
-        Halloween decorations.
+      textHome: I'm stuck stayin' up late not from@huntin' Witches, but from puttin'
+        up@Halloween decorations.
   - autoTurnFirst: 3
     chara:
     - id: 200600
@@ -294,10 +290,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 200600
       motion: 0
-      textHome: |-
-        I was told to work on my vocals.
-        But how the heck am I supposed to
-        do this alone?
+      textHome: I was told to work on my vocals.@But how the heck am I supposed to@do
+        this alone?
   - autoTurnFirst: 4
     chara:
     - id: 200600
@@ -325,9 +319,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 200600
       motion: 0
-      textHome: |-
-        Better get to rehearsal or
-        I'll never hear the end of it...
+      textHome: Better get to rehearsal or@I'll never hear the end of it...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -401,9 +393,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2006_02_29
-      textHome: |-
-        Never really thought about Halloween
-        'til I got involved with this play.
+      textHome: Never really thought about Halloween@'til I got involved with this
+        play.
   - autoTurnFirst: 3.2
     chara:
     - id: 200600
@@ -413,9 +404,7 @@ story:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 200600
-      textHome: |-
-        Lookin' around, seems like
-        the whole city's into it.
+      textHome: Lookin' around, seems like@the whole city's into it.
   - chara:
     - id: 200602
       textHomeStatus: Clear
@@ -431,9 +420,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_2006_02_30
-      textHome: |-
-        All right, it's about time to head out
-        and get candy.
+      textHome: All right, it's about time to head out@and get candy.
   - autoTurnFirst: 3
     chara:
     - cheek: 1
@@ -445,9 +432,7 @@ story:
     chara:
     - id: 200600
       motion: 100
-      textHome: |-
-        I don't give a rat's ass about tricks,
-        just so you know.
+      textHome: I don't give a rat's ass about tricks,@just so you know.
   - chara:
     - id: 200602
       textHomeStatus: Clear
@@ -470,9 +455,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 200600
       motion: 0
-      textHome: |-
-        If that Labyrinth gets overrun with wolves,
-        you might end up the main course.
+      textHome: If that Labyrinth gets overrun with wolves,@you might end up the main
+        course.
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -523,10 +507,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_02_33
-      textHome: |-
-        I'm told they threw this costume together
-        last second, but it doesn't look that bad,
-        right?
+      textHome: I'm told they threw this costume together@last second, but it doesn't
+        look that bad,@right?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -539,9 +521,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 200600
       motion: 100
-      textHome: |-
-        Actually, I'd say they were real particular
-        with the tail and stuff.
+      textHome: Actually, I'd say they were real particular@with the tail and stuff.
   - chara:
     - id: 200602
       textHomeStatus: Clear
@@ -557,18 +537,14 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_02_34
-      textHome: |-
-        Looks like Halloween ain't just
-        about the candy after all.
+      textHome: Looks like Halloween ain't just@about the candy after all.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 200600
       motion: 0
-      textHome: |-
-        The grub's callin' my name, too.
-        I'll eat anythin', so lemme at it!
+      textHome: The grub's callin' my name, too.@I'll eat anythin', so lemme at it!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
@@ -590,9 +566,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2006_02_35
-      textHome: |-
-        When was the last time I put on a
-        costume and got up on stage?
+      textHome: When was the last time I put on a@costume and got up on stage?
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -605,10 +579,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 200600
       motion: 0
-      textHome: |-
-        I'm sure it happened at least once back
-        when I was a pipsqueak,
-        but I can't remember much at all.
+      textHome: I'm sure it happened at least once back@when I was a pipsqueak,@but
+        I can't remember much at all.
   - chara:
     - id: 200602
       textHomeStatus: Clear
@@ -624,9 +596,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_02_36
-      textHome: |-
-        Oh, this here? It's a caramel apple.
-        You know, like a candy apple?
+      textHome: Oh, this here? It's a caramel apple.@You know, like a candy apple?
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -654,16 +624,13 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_02_37
-      textHome: |-
-        I thought this was a weird place, what
-        with all the Witches and Uwasa.
+      textHome: I thought this was a weird place, what@with all the Witches and Uwasa.
   - autoTurnFirst: 3.5
     chara:
     - id: 200600
       motion: 0
-      textHome: |-
-        Now it looks like I got myself caught up
-        in one of the local baddies' Rumors...
+      textHome: Now it looks like I got myself caught up@in one of the local baddies'
+        Rumors...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -713,10 +680,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 200600
       motion: 0
-      textHome: |-
-        but that girl Karin was jumpin' for joy
-        sayin' she grew so much durin'
-        the rehearsals.
+      textHome: but that girl Karin was jumpin' for joy@sayin' she grew so much durin'@the
+        rehearsals.
   - autoTurnLast: 2
     chara:
     - cheek: 0
@@ -745,10 +710,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2006_02_39
-      textHome: |-
-        Sure, my arms and legs are a bit chilly,
-        but all this fluff around my waist
-        makes this getup pretty warm.
+      textHome: Sure, my arms and legs are a bit chilly,@but all this fluff around
+        my waist@makes this getup pretty warm.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -776,10 +739,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2006_02_40
-      textHome: |-
-        Comin' to events like this and chowin' down
-        with everybody around a table kinda
-        reminds me of the old days.
+      textHome: Comin' to events like this and chowin' down@with everybody around
+        a table kinda@reminds me of the old days.
   - autoTurnFirst: 1
     chara:
     - id: 200600
@@ -805,19 +766,15 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2006_02_41
-      textHome: |-
-        You hear about this barmbrack cake thing?
-        Find a ring inside and they say your
-        chances of gettin' married skyrocket.
+      textHome: You hear about this barmbrack cake thing?@Find a ring inside and they
+        say your@chances of gettin' married skyrocket.
   - autoTurnFirst: 4
     chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
       id: 200600
       motion: 1
-      textHome: |-
-        But I don't care 'bout that.
-        Eatin' the cake's good enough for me...
+      textHome: But I don't care 'bout that.@Eatin' the cake's good enough for me...
   - autoTurnFirst: 4
     chara:
     - cheek: 1

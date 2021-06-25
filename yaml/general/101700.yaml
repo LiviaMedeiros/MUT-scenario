@@ -17,18 +17,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 1
-      textHome: |-
-        This is your Coordinator and ally to all,
-        Mitama Yakumo.
+      textHome: This is your Coordinator and ally to all,@Mitama Yakumo.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101700
       motion: 200
-      textHome: |-
-        I may not look it, but I'm still very young
-        and always ready to party.
+      textHome: I may not look it, but I'm still very young@and always ready to party.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -46,10 +42,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 0
-      textHome: |2-
-         I can be found strengthening magic
-        with various items and selling
-        wares of my own design.
+      textHome: ' I can be found strengthening magic@with various items and selling@wares
+        of my own design.'
   - autoTurnFirst: 4.3
     chara:
     - cheek: 0
@@ -95,9 +89,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101700
-      textHome: |-
-        If their magic energy is "N",
-        then my own is "S".
+      textHome: If their magic energy is "N",@then my own is "S".
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -124,10 +116,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1017_00_19
-      textHome: |-
-        Does this mean it's okay to tinker with
-        everyone more than I already do?
-        *Giggle*
+      textHome: Does this mean it's okay to tinker with@everyone more than I already
+        do?@*Giggle*
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
@@ -158,9 +148,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1017_00_20
-      textHome: |-
-        I feel awakened somehow,
-        and motivated to work even harder.
+      textHome: I feel awakened somehow,@and motivated to work even harder.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -186,18 +174,16 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1017_00_21
-      textHome: "Since I can't fight, becoming stronger\njust helps me feel a little
-        better\n and nothing more, though "
+      textHome: 'Since I can''t fight, becoming stronger@just helps me feel a little
+        better@ and nothing more, though '
   - autoTurnFirst: 3.4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 0
-      textHome: |-
-        I do wish to become strong enough to fend
-        for myself when Momoko and the others
-        aren't around to protect their Coordinator.
+      textHome: I do wish to become strong enough to fend@for myself when Momoko and
+        the others@aren't around to protect their Coordinator.
   - autoTurnFirst: 4
     chara:
     - eyeClose: 1
@@ -221,18 +207,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1017_00_22
-      textHome: |-
-        Without the power to fight, selling items like
-        this is a survival technique for me.
+      textHome: Without the power to fight, selling items like@this is a survival
+        technique for me.
   - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101700
       motion: 0
-      textHome: |2-
-         I'm absolutely not exploiting the others
-        to get Grief Seeds, nope...
+      textHome: ' I''m absolutely not exploiting the others@to get Grief Seeds, nope...'
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -311,9 +294,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101700
-      textHome: |-
-        You must have some nerve
-        to keep the Coordinator waiting.
+      textHome: You must have some nerve@to keep the Coordinator waiting.
   - autoTurnFirst: 2.1
     chara:
     - cheek: 0
@@ -325,9 +306,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 100
-      textHome: |-
-        I'll have you keep me company
-        for the whole day!
+      textHome: I'll have you keep me company@for the whole day!
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -347,18 +326,14 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1017_00_25
-      textHome: |-
-        I'd like start my morning right and
-        cook my own breakfast, but...
+      textHome: I'd like start my morning right and@cook my own breakfast, but...
   - autoTurnFirst: 3.7
     chara:
     - eyeClose: 1
       id: 101700
       motion: 0
-      textHome: |-
-        *Sigh*
-        I wonder if Yachiyo, Iroha, or Momoko
-        would make something for me...
+      textHome: '*Sigh*@I wonder if Yachiyo, Iroha, or Momoko@would make something
+        for me...'
   - autoTurnFirst: 3
     chara:
     - eyeClose: 0
@@ -389,9 +364,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101700
-      textHome: |-
-        Even with bad attendance,
-        my grades are always at the top.
+      textHome: Even with bad attendance,@my grades are always at the top.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -424,17 +397,14 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1017_00_27
-      textHome: |-
-        I get very busy this time of the day,
-        dealing with all kinds of Magical Girls.
+      textHome: I get very busy this time of the day,@dealing with all kinds of Magical
+        Girls.
   - autoTurnFirst: 1
     chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 101700
-      textHome: |-
-        Now, now,
-        don't touch anything on that shelf.
+      textHome: Now, now,@don't touch anything on that shelf.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -483,8 +453,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1017_00_28
-      textHome: |
-        *Yaaawn*
+      textHome: '*Yaaawn*@'
   - autoTurnFirst: 3.5
     chara:
     - eyeClose: 1
@@ -517,9 +486,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 300
-      textHome: |-
-        That's the benefit of having
-        irregular business hours!
+      textHome: That's the benefit of having@irregular business hours!
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -539,10 +506,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1017_00_29
-      textHome: |-
-        I don't mind being busy in the evenings,
-        but I get so lonely when
-        my customers are gone.
+      textHome: I don't mind being busy in the evenings,@but I get so lonely when@my
+        customers are gone.
   - autoTurnFirst: 4.8
     chara:
     - cheek: 0
@@ -555,9 +520,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 300
-      textHome: |-
-        Could you keep me company
-        for a little while?
+      textHome: Could you keep me company@for a little while?
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -577,9 +540,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1017_00_30
-      textHome: |-
-        Another day of exterminating Witches
-        for Grief Seeds.
+      textHome: Another day of exterminating Witches@for Grief Seeds.
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
@@ -593,9 +554,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 300
-      textHome: |-
-        If you take Felicia with you,
-        it'll be done in no time.
+      textHome: If you take Felicia with you,@it'll be done in no time.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
@@ -620,16 +579,14 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1017_00_31
-      textHome: |-
-        That's right, I'll need everyone to solve the
-        mystery of the Endless Mirrors.
+      textHome: That's right, I'll need everyone to solve the@mystery of the Endless
+        Mirrors.
   - autoTurnFirst: 3
     chara:
     - id: 101700
       motion: 0
-      textHome: |-
-        And I'll be here with all my items, ready
-        and waiting for them to come back safely.
+      textHome: And I'll be here with all my items, ready@and waiting for them to
+        come back safely.
   - autoTurnFirst: 0.8
     chara:
     - cheek: 0
@@ -699,10 +656,8 @@ story:
     chara:
     - id: 101700
       motion: 0
-      textHome: |-
-        I have to juggle my job as a Coordinator too,
-        so my attendance is barely enough
-        to move on to the next grade.
+      textHome: I have to juggle my job as a Coordinator too,@so my attendance is
+        barely enough@to move on to the next grade.
   - autoTurnFirst: 5.2
     chara:
     - id: 101700
@@ -726,16 +681,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1017_00_34
-      textHome: |-
-        So, what kind of adjustments
-        do you need me to make?
+      textHome: So, what kind of adjustments@do you need me to make?
   - autoTurnFirst: 4
     chara:
     - id: 101700
       motion: 0
-      textHome: |-
-        If you don't tell me in 10 seconds,
-        I'm going to choose what I mess with!
+      textHome: If you don't tell me in 10 seconds,@I'm going to choose what I mess
+        with!
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
@@ -766,18 +718,14 @@ story:
     chara:
     - id: 101700
       motion: 300
-      textHome: |-
-        Aren't you naughty,
-        touching my products without permission.
+      textHome: Aren't you naughty,@touching my products without permission.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 101700
-      textHome: |-
-        Oh, I know!
-        It's not much of a punishment, but
-        why don't you cook with me?
+      textHome: Oh, I know!@It's not much of a punishment, but@why don't you cook
+        with me?
   - autoTurnFirst: 4.7
     chara:
     - cheek: 0
@@ -822,9 +770,8 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101700
-      textHome: |-
-        Unless I need to go to the bathroom or
-        take a bath, I'm always in snuggle mode.
+      textHome: Unless I need to go to the bathroom or@take a bath, I'm always in
+        snuggle mode.
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -844,8 +791,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1017_00_37
-      textHome: "Thanks to my neutral position as\nCoordinator, this area is a \nsafe
-        no-fighting zone."
+      textHome: Thanks to my neutral position as@Coordinator, this area is a @safe
+        no-fighting zone.
   - autoTurnFirst: 4
     chara:
     - id: 101700
@@ -855,9 +802,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101700
-      textHome: |-
-        *Chuckle*
-        It's a great place to escape to, isn't it?
+      textHome: '*Chuckle*@It''s a great place to escape to, isn''t it?'
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -896,17 +841,14 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1017_00_38
-      textHome: |-
-        I do feel bad for always relying on Momoko
-        to fight Familiars and Witches for me.
+      textHome: I do feel bad for always relying on Momoko@to fight Familiars and
+        Witches for me.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 101700
-      textHome: |-
-        But she's too nice,
-        I can't help depending on her.
+      textHome: But she's too nice,@I can't help depending on her.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -938,9 +880,8 @@ story:
     - eyeClose: 1
       id: 101700
       motion: 200
-      textHome: |2-
-         Still, she's the only one I can talk with
-         about my past, so I can't get mad at her.
+      textHome: ' Still, she''s the only one I can talk with@ about my past, so I
+        can''t get mad at her.'
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -970,16 +911,13 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1017_00_40
-      textHome: |-
-        What am I going to do with all
-        these Grief Seeds I'm collecting?
+      textHome: What am I going to do with all@these Grief Seeds I'm collecting?
   - autoTurnFirst: 1.5
     chara:
     - eyeClose: 1
       id: 101700
-      textHome: |-
-        Well, all I can say is that I need them
-        to purify my Soul Gem in my line of work.
+      textHome: Well, all I can say is that I need them@to purify my Soul Gem in my
+        line of work.
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -1030,17 +968,13 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 0
-      textHome: |-
-        I hit pesky rascals like you in
-        places that weaken their magic!
+      textHome: I hit pesky rascals like you in@places that weaken their magic!
   - autoTurnFirst: 1.2
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101700
-      textHome: |-
-        *Chuckle*
-        I'm only joking, of course!
+      textHome: '*Chuckle*@I''m only joking, of course!'
   - autoTurnFirst: 3.5
     chara:
     - id: 101700
@@ -1064,9 +998,7 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1017_00_42
-      textHome: |-
-        I don't really want to get my hands dirty,
-        but...
+      textHome: I don't really want to get my hands dirty,@but...
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1131,9 +1063,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1017_00_45
-      textHome: |-
-        Your Coordinator would appreciate
-        a compliment or two!
+      textHome: Your Coordinator would appreciate@a compliment or two!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -1298,10 +1228,7 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_1017_00_02
-      textHome: |-
-        Oh my, I can't allow this.
-        It's my job to be the
-        Coordinator for everyone.
+      textHome: Oh my, I can't allow this.@It's my job to be the@Coordinator for everyone.
   - autoTurnFirst: 5.9
     chara:
     - cheek: 0
@@ -1326,9 +1253,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 100
-      textHome: |-
-        Well anyway, it's a pleasure to
-        make your acquaintance.
+      textHome: Well anyway, it's a pleasure to@make your acquaintance.
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1348,9 +1273,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1017_00_13
-      textHome: |-
-        Hmm, "enhancement"...
-        I could get used to this, don't you agree?
+      textHome: Hmm, "enhancement"...@I could get used to this, don't you agree?
   - autoTurnFirst: 2.3
     chara:
     - cheek: 1
@@ -1380,9 +1303,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1017_00_14
-      textHome: |-
-        No one else can be allowed to see this side
-        of the Coordinator, is that clear?
+      textHome: No one else can be allowed to see this side@of the Coordinator, is
+        that clear?
   - autoTurnFirst: 5
     chara:
     - cheek: 0
@@ -1408,9 +1330,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_1017_00_15
-      textHome: |-
-        Some things must remain a mystery
-        no matter how much you wish to know.
+      textHome: Some things must remain a mystery@no matter how much you wish to know.
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -1442,10 +1362,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1017_00_16
-      textHome: |-
-        You can find your Coordinator in
-        Shinsei Ward, inconspicuously hidden
-        within a building down a back alley.
+      textHome: You can find your Coordinator in@Shinsei Ward, inconspicuously hidden@within
+        a building down a back alley.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -1456,9 +1374,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101700
-      textHome: |-
-        Word of mouth alone has made
-        my business boom...
+      textHome: Word of mouth alone has made@my business boom...
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -1476,9 +1392,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 101700
       motion: 200
-      textHome: |-
-        *Giggle*
-        Nevermind, nothing♪
+      textHome: '*Giggle*@Nevermind, nothing♪'
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1498,26 +1412,21 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1017_00_17
-      textHome: |-
-        The concentration of Witches and
-        Magical Girls in Kamihama is high.
+      textHome: The concentration of Witches and@Magical Girls in Kamihama is high.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101700
       motion: 1
-      textHome: |-
-        Due to that, magic energy condenses into
-        various crystals.
+      textHome: Due to that, magic energy condenses into@various crystals.
   - autoTurnFirst: 1.7
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101700
-      textHome: |-
-        Bring the crystals to me and I'll make them
-        into something useful for you.
+      textHome: Bring the crystals to me and I'll make them@into something useful
+        for you.
   - autoTurnFirst: 4
     chara:
     - cheek: 0

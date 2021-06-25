@@ -191,9 +191,7 @@ story:
     chara:
     - id: 302900
       motion: 200
-      textHome: |-
-        Is it strange to go to the beach
-        dressed like this
+      textHome: Is it strange to go to the beach@dressed like this
   - autoTurnFirst: 3
     chara:
     - id: 302900
@@ -231,9 +229,7 @@ story:
     chara:
     - id: 302900
       motion: 100
-      textHome: |-
-        What do I need besides a
-        swimsuit and towel?
+      textHome: What do I need besides a@swimsuit and towel?
   - chara:
     - id: 302950
       textHomeStatus: Clear
@@ -247,9 +243,8 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3029_50_26
-      textHome: |-
-        You should do warm-up exercises before
-        you swim, even if you're just playing.
+      textHome: You should do warm-up exercises before@you swim, even if you're just
+        playing.
   - autoTurnFirst: 7
     chara:
     - id: 302900
@@ -268,16 +263,12 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3029_50_27
-      textHome: |-
-        I never thought I'd spend a whole day
-        on the beach like this.
+      textHome: I never thought I'd spend a whole day@on the beach like this.
   - autoTurnFirst: 4
     chara:
     - id: 302900
       motion: 200
-      textHome: |-
-        It was very different from my
-        usual daily routine...
+      textHome: It was very different from my@usual daily routine...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -311,16 +302,14 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3029_50_28
-      textHome: |-
-        The sky is the same whether I look at the
-        stars from my house or from the beach,
+      textHome: The sky is the same whether I look at the@stars from my house or from
+        the beach,
   - autoTurnFirst: 5.5
     chara:
     - id: 302900
       motion: 200
-      textHome: |-
-        but they look quite different due to the
-        change in environment and position.
+      textHome: but they look quite different due to the@change in environment and
+        position.
   - autoTurnFirst: 4
     chara:
     - id: 302900
@@ -339,10 +328,8 @@ story:
       motion: 400
       pos: 1
       voice: vo_char_3029_50_29
-      textHome: |-
-        I always wear this when I participate in
-        club activities, so this is no different
-        from my everyday routine.
+      textHome: I always wear this when I participate in@club activities, so this
+        is no different@from my everyday routine.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -355,10 +342,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 302900
       motion: 100
-      textHome: |-
-        How about you? Does seeing me in my
-        swimsuit make you feel like you're
-        experiencing something out of the ordinary?
+      textHome: How about you? Does seeing me in my@swimsuit make you feel like you're@experiencing
+        something out of the ordinary?
   - chara:
     - id: 302950
       textHomeStatus: Clear
@@ -386,10 +371,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 302900
       motion: 100
-      textHome: |-
-        It's fine, if I transform I'll be in my
-        usual outfit, so it'll be no different
-        than it always is.
+      textHome: It's fine, if I transform I'll be in my@usual outfit, so it'll be
+        no different@than it always is.
   - autoTurnFirst: 3
     chara:
     - id: 302900
@@ -408,9 +391,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3029_50_31
-      textHome: |-
-        I tried arranging two mirrors to face
-        each other at midnight once.
+      textHome: I tried arranging two mirrors to face@each other at midnight once.
   - autoTurnFirst: 3.5
     chara:
     - id: 302900
@@ -469,17 +450,14 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3029_50_33
-      textHome: |-
-        When you take a closer look,
-        the sea is quite vast...and the beach
-        has a strong scent.
+      textHome: When you take a closer look,@the sea is quite vast...and the beach@has
+        a strong scent.
   - autoTurnFirst: 4.2
     chara:
     - id: 302900
       motion: 0
-      textHome: |-
-        Perhaps I notice it more since I'm so used
-        to the size and smell of pools.
+      textHome: Perhaps I notice it more since I'm so used@to the size and smell of
+        pools.
   - autoTurnFirst: 3
     chara:
     - id: 302900
@@ -497,10 +475,8 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3029_50_34
-      textHome: |-
-        I presumed I could walk barefoot on the
-        sand, but there are glass shards
-        everywhere that make it unexpectedly risky.
+      textHome: I presumed I could walk barefoot on the@sand, but there are glass
+        shards@everywhere that make it unexpectedly risky.
   - autoTurnFirst: 5
     chara:
     - id: 302900
@@ -528,9 +504,7 @@ story:
     chara:
     - id: 302900
       motion: 100
-      textHome: |-
-        I'm doing my personal project now:
-        a 3-D map of a mountain I climbed.
+      textHome: I'm doing my personal project now:@a 3-D map of a mountain I climbed.
   - autoTurnFirst: 3.5
     chara:
     - id: 302900
@@ -585,18 +559,15 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3029_50_37
-      textHome: |-
-        Since I started hiking I've begun
-        researching the mountains on my own.
+      textHome: Since I started hiking I've begun@researching the mountains on my
+        own.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302900
       motion: 0
-      textHome: |-
-        She finds them fun, so I want to know
-        about them too.
+      textHome: She finds them fun, so I want to know@about them too.
   - autoTurnFirst: 3
     chara:
     - id: 302900
@@ -627,9 +598,8 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3029_50_38
-      textHome: |-
-        A strange smell started wafting out from the
-        Coordinator's shop when summer began.
+      textHome: A strange smell started wafting out from the@Coordinator's shop when
+        summer began.
   - autoTurnFirst: 2
     chara:
     - id: 302900
@@ -652,9 +622,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3029_50_39
-      textHome: |-
-        Kokoro came to see me practice
-        during Swim Club.
+      textHome: Kokoro came to see me practice@during Swim Club.
   - autoTurnFirst: 4
     chara:
     - id: 302900
@@ -685,9 +653,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_3029_50_40
-      textHome: |-
-        Kokoro did her best to find me
-        a perfect swimsuit.
+      textHome: Kokoro did her best to find me@a perfect swimsuit.
   - autoTurnFirst: 5.7
     chara:
     - id: 302900
@@ -711,17 +677,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3029_50_41
-      textHome: |-
-        Everyone on the swim team wears the same
-        swimsuit and swimming cap,so you can
-        hardly tell the difference between us...
+      textHome: Everyone on the swim team wears the same@swimsuit and swimming cap,so
+        you can@hardly tell the difference between us...
   - autoTurnFirst: 3.7
     chara:
     - id: 302900
       motion: 100
-      textHome: |-
-        How does she always know
-        which one is me?
+      textHome: How does she always know@which one is me?
   - autoTurnFirst: 3
     chara:
     - cheek: 0
