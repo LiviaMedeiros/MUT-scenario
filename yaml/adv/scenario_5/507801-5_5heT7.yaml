@@ -248,8 +248,8 @@ story:
     - eyeClose: 0
       id: 303901
       motion: 100
-    textRight: As well as rent out all the sets and props we'll@need at highly affordable
-      rates!
+    textRight: '...as well as rent out all the sets and props@we''ll need at highly
+      affordable rates!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

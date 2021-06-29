@@ -388,7 +388,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101801
       motion: 1
-    textRight: '...Then that means, in other words,'
+    textRight: '...Then that means, in other words...'
   - chara:
     - id: 101801
     textRight: We both received the item that we wanted?

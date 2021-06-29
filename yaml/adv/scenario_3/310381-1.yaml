@@ -44,12 +44,12 @@ story:
       motion: 300
       pos: 0
     nameLeft: Mikage
-    textLeft: 'No, it’s fine... '
+    textLeft: 'No, it''s fine... '
   - chara:
     - id: 103701
       motion: 100
     nameRight: Nayuta
-    textRight: It’s rare to see you in a bad mood, Mikage.
+    textRight: It's rare to see you in a bad mood, Mikage.
   - textRight: Would you like some snacks?
   - chara:
     - cheek: 0
@@ -63,7 +63,7 @@ story:
     - id: 103801
       motion: 200
     nameLeft: Mikage
-    textLeft: I’m not in the mood for snacks right now.
+    textLeft: I'm not in the mood for snacks right now.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -76,7 +76,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 103701
       motion: 100
-    textRight: What’s wrong?
+    textRight: What's wrong?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -88,7 +88,7 @@ story:
   - chara:
     - id: 103801
       motion: 0
-    textLeft: I’m not sick, I was just thinking...
+    textLeft: I'm not sick, I was just thinking...
   - chara:
     - id: 103301
       motion: 0
@@ -126,7 +126,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 103801
       motion: 300
-    textLeft: I’m very hurt right now.
+    textLeft: I'm very hurt right now.
   - chara:
     - id: 103701
       motion: 400
@@ -142,11 +142,11 @@ story:
       face: mtn_ex_020.exp.json
       id: 103801
       motion: 0
-    textLeft: '...My sister.'
+    textLeft: '...Sis.'
   - chara:
     - id: 103801
       motion: 200
-    textLeft: My sister betrayed me.
+    textLeft: Sis betrayed me.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -168,14 +168,14 @@ story:
     - id: 103801
       motion: 100
     nameCenter: Mikage
-    textCenter: '...I wonder what kind of face my sister will make... '
+    textCenter: '...I wonder what kind of face Sis will make... '
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 0
-    textCenter: 'She works all alone as a coordinator... '
+    textCenter: 'She works all alone as a Coordinator... '
   - chara:
     - id: 103801
       motion: 400
@@ -185,7 +185,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 103801
       motion: 1
-    textCenter: Mitama, you’ll be surprised for sure!
+    textCenter: Sis, you'll be surprised for sure!
   - autoTurnLast: 0.2
     bg: bg_adv_11061.jpg
     chara:
@@ -195,7 +195,7 @@ story:
       motion: 0
       pos: 1
     turnChangeIn: rollInFast
-  - textCenter: '...What? Mitama’s not here… '
+  - textCenter: '...What? She''s not here... '
     turnChangeOut: rollOutFast
   - chara:
     - id: 103801
@@ -207,7 +207,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 103801
       lipSynch: 0
-    textCenter: (Is someone other than Mitama there...?)
+    textCenter: (Is someone other than Sis there...?)
   - autoTurnLast: 0.2
     bg: bg_adv_11051.jpg
     chara:
@@ -251,7 +251,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Kaede
-    textRight: Aw, c'mon! You don’t need to be shy, Rena...
+    textRight: Aw, c'mon! You don't need to be shy, Rena...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -265,7 +265,7 @@ story:
       motion: 201
     nameLeft: Rena
     textBg: shout
-    textLeft: I - TOLD - YOU!
+    textLeft: I! TOLD! YOU!
   - autoTurnLast: 0.2
     bg: bg_adv_11061.jpg
     chara:
@@ -276,7 +276,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - nameCenter: Mikage
-    textCenter: No way, sis...
+    textCenter: No way, Sis...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -289,7 +289,7 @@ story:
     - id: 103801
       lipSynch: 0
     nameCenter: Mikage
-    textCenter: (Someone’s coming into the Coordinator’s shop...)
+    textCenter: (Someone's coming into the Coordinator's Shop...)
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -343,13 +343,13 @@ story:
       motion: 200
       pos: 2
     nameRight: Mifuyu
-    textRight: We got some good snacks, so we thought, "Why not@share them?"
+    textRight: We got some good snacks, so we thought,@"Why not share them?"
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101700
       motion: 100
-    textLeft: '[chara:101700:effect_emotion_joy_0][se:7222_happy]I’m so happy!'
+    textLeft: '[chara:101700:effect_emotion_joy_0][se:7222_happy]I''m so happy!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -358,7 +358,7 @@ story:
   - chara:
     - id: 101700
       motion: 1
-    textLeft: Why don’t you join us, Yachiyo and Mifuyu?
+    textLeft: Why don't you join us, Yachiyo and Mifuyu?
   - autoTurnLast: 0.2
     bg: bg_adv_11061.jpg
     chara:
@@ -369,7 +369,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - nameCenter: Mikage
-    textCenter: '...My sister has friends...'
+    textCenter: '...My sis has friends...'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     bg: bg_adv_21081.jpg
@@ -391,7 +391,7 @@ story:
     - id: 103801
       motion: 300
     nameLeft: Mikage
-    textLeft: '...That’s what happened.'
+    textLeft: '...That''s what happened.'
     turnChangeOut: fadeOut
   - bgm: bgm03_story01
     chara:
@@ -404,32 +404,32 @@ story:
       face: mtn_ex_050.exp.json
       id: 103801
       motion: 400
-    textLeft: My sister has friends?!
+    textLeft: My sis has friends?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 103801
       motion: 200
     textLeft: She barely even goes to school...
-  - textLeft: I thought she didn’t have any friends, like me!
+  - textLeft: I thought she didn't have any friends, like me!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 103801
       motion: 1
-    textLeft: My sister betrayed me!
+    textLeft: My sis betrayed me!
   - chara:
     - id: 103701
       motion: 100
-    textRight: Isn’t it a good thing that your sister has friends?
+    textRight: Isn't it a good thing that your sister has friends?
   - chara:
     - id: 103801
       motion: 300
-    textLeft: That’s true, but...
+    textLeft: That's true, but...
   - chara:
     - eyeClose: 1
       id: 103801
-    textLeft: I don’t have many friends...
+    textLeft: I don't have many friends...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -438,12 +438,12 @@ story:
       pos: 2
     nameRight: Rabi
     textRight: If you envy her...
-  - textRight: Then why don’t you make friends of your own,@Mikage?
+  - textRight: Then why don't you make friends of your own,@Mikage?
   - chara:
     - eyeClose: 0
       id: 103801
       motion: 100
-    textLeft: '...But I don’t want to be friends with the kids from@school.'
+    textLeft: '...But I don''t want to be friends with the kids from@school.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -451,18 +451,18 @@ story:
       motion: 200
       pos: 2
     nameRight: Nayuta
-    textRight: So why don’t you make friends with Magical Girls?
+    textRight: So why don't you make friends with Magical Girls?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 103801
       motion: 400
-    textLeft: That’s right!@Why didn’t I think of it?
+    textLeft: That's right!@Why didn't I think of it?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103801
-    textLeft: Alright, I’m going to make friends with Magical Girls!
+    textLeft: Alright, I'm going to make friends with Magical Girls!
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -487,7 +487,7 @@ story:
       id: 103701
       motion: 100
     nameLeft: Nayuta
-    textLeft: '*Chuckle* Isn’t it great? That’s Mikage for you.'
+    textLeft: '*Chuckle* Isn''t it great? That''s Mikage for you.'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

@@ -70,7 +70,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 103901
     nameCenter: Mifuyu's Voice
-    textCenter: Ahh! Yacchan, here is it, here!
+    textCenter: Ahh! Yachan, here is it, here!
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout

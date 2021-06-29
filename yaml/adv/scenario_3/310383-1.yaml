@@ -31,7 +31,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Mitama
-    textRight: Oh, what’s the matter?
+    textRight: Oh, what's the matter?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -51,13 +51,13 @@ story:
       face: mtn_ex_020.exp.json
       id: 103801
       motion: 200
-    textLeft: I’m looking at the pendant!
+    textLeft: I'm looking at the pendant!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101701
       motion: 200
-    textRight: '...*Giggle* I’m wearing it.'
+    textRight: '...*Giggle* I''m wearing it.'
   - textRight: It's a one-of-a-kind pendant made by Mii.
   - chara:
     - cheek: 0
@@ -76,7 +76,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101701
       motion: 0
-    textRight: I’m getting some food ready.
+    textRight: I'm getting some food ready.
   - chara:
     - id: 101701
       motion: 400
@@ -112,7 +112,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 1
-    textLeft: I mean, I don’t think so?
+    textLeft: I mean, I don't think so?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -171,7 +171,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 0
-    textLeft: Well, I’m off!
+    textLeft: Well, I'm off!
   - autoTurnLast: 2
     bg: bg_adv_21241.jpg
     bgm: stop
@@ -255,7 +255,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 103801
       lipSynch: 0
-    textCenter: (They’re about the same age as me...@Well, maybe a little younger.)
+    textCenter: (They're about the same age as me...@Well, maybe a little younger.)
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -268,7 +268,7 @@ story:
       id: 103801
       lipSynch: 0
     nameCenter: Mikage
-    textCenter: (If I act like a big sister in front of those girls...)
+    textCenter: (If I act like a big sis in front of those girls...)
   - chara:
     - id: 103801
       lipSynch: 0
@@ -279,7 +279,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 103801
       motion: 1
-    textCenter: Alright, I’ll watch my language!
+    textCenter: Alright, I'll watch my language!
   - autoTurnLast: 0.2
     chara:
     - cheek: 0
@@ -320,7 +320,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 1
-    textRight: I’m here on an errand...
+    textRight: I'm here on an errand...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -328,13 +328,13 @@ story:
       motion: 400
       pos: 0
     nameLeft: Ui
-    textLeft: Ah...aren’t you...@Mitama’s sister?
+    textLeft: Ah...aren't you...@Mitama's sister?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 103801
       motion: 0
-    textRight: Huh?@You know my sister?
+    textRight: Huh?@You know my sis?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -342,12 +342,12 @@ story:
       motion: 100
       pos: 0
     nameLeft: Ui
-    textLeft: Wow, I knew it! I’m Ui Tamaki.
+    textLeft: Wow, I knew it! I'm Ui Tamaki.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101501
-    textLeft: We’re Magical Girls.
+    textLeft: We're Magical Girls.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -355,7 +355,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Riko
-    textLeft: Yeah, that’s right!
+    textLeft: Yeah, that's right!
   - chara:
     - id: 103801
       lipSynch: 0
@@ -366,7 +366,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 103801
       lipSynch: 0
-    textRight: (My sister told me to stay away from them, but...)
+    textRight: (Sis told me to stay away from them, but...)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -381,7 +381,7 @@ story:
       id: 101501
       motion: 0
       pos: 0
-    textLeft: Why don’t you join us, Mikage?
+    textLeft: Why don't you join us, Mikage?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -421,13 +421,13 @@ story:
       motion: 400
       pos: 0
     nameLeft: Riko
-    textLeft: Can you wait until I’m done?
+    textLeft: Can you wait until I'm done?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103801
       motion: 200
-    textRight: Oh, in that case, I’ll help you!
+    textRight: Oh, in that case, I'll help you!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -445,7 +445,7 @@ story:
       id: 303501
       pos: 0
     nameLeft: Riko
-    textLeft: '...I’ll be right back.'
+    textLeft: '...I''ll be right back.'
   - autoTurnLast: 1.5
     chara:
     - effect: fadeout
@@ -474,8 +474,8 @@ story:
       motion: 400
       pos: 2
     nameRight: Ui
-    textRight: Me too...? I hope I’m not bothering you...
-  - textLeft: There aren’t many customers at this time of day...
+    textRight: Me too...? I hope I'm not bothering you...
+  - textLeft: There aren't many customers at this time of day...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -515,7 +515,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 103801
       lipSynch: 0
-    textCenter: (Let’s show them what we’ve got!)
+    textCenter: (Let's show them what we've got!)
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

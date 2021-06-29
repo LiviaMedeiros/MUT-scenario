@@ -290,10 +290,11 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 304001
-    textRight: Always one step removed,
+    textRight: Always one step removed...
   - chara:
     - id: 304001
-    textRight: As if you're observing everyone— even yourself—@from an objective standpoint.
+    textRight: '...as if you''re observing everyone— even yourself—@from an objective
+      standpoint.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

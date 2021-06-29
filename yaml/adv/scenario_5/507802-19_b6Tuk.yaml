@@ -445,14 +445,14 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303802
-    textLeft: It's no wonder. They may have met a tragic end in@that building,
+    textLeft: It's no wonder. They may have met a tragic end in@that building...
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
       id: 303802
       motion: 101
-    textLeft: But they must've had many wonderful memories@there, too...
+    textLeft: '...but they must''ve had many wonderful memories@there, too...'
   - autoTurnLast: 0.01
     item:
     - path: resource/scenario/img/51078_storyselect_history/memoria_1432_ruritsukihiko.jpg
@@ -504,22 +504,22 @@ story:
       id: 304001
       lipSynch: 0
     textCenter: (For the people who lived through it back then,@Ruri and Tsukihiko's
-      story)
+      story...)
     turnEffect: thinking
   - chara:
     - id: 304001
       lipSynch: 0
-    textCenter: (Must have seemed like a tragedy borne out of@Kamihama's lingering
+    textCenter: (...must have seemed like a tragedy borne out of@Kamihama's lingering
       grudges.)
   - chara:
     - id: 304001
       lipSynch: 0
     textCenter: (But... even if the East-West resentment were to be@completely forgotten
-      someday,)
+      someday...)
   - chara:
     - id: 304001
       lipSynch: 0
-    textCenter: (The price of somebody wishing for a miracle will@still take some
+    textCenter: (...the price of somebody wishing for a miracle will@still take some
       other form...)
   - chara:
     - id: 304001
@@ -535,7 +535,7 @@ story:
     - id: 304001
       lipSynch: 0
     textCenter: (But if they managed to reunite a couple who never@would've met each
-      other again,)
+      other again...)
   - chara:
     - eyeClose: 0
       id: 304001

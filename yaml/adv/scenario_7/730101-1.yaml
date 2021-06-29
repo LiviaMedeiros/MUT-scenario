@@ -191,11 +191,11 @@ story:
   - chara:
     - id: 800800
     nameLeft: Manager
-    textLeft: and the one that wins at least five of them
+    textLeft: and the one that wins at least five of them...
   - chara:
     - id: 800800
     nameLeft: Manager
-    textLeft: is recognized as the winner.
+    textLeft: '...is recognized as the winner.'
   - chara:
     - id: 800800
     nameLeft: Manager
@@ -204,7 +204,7 @@ story:
   - chara:
     - id: 800800
     nameLeft: Manager
-    textLeft: Even Hamururu’s staff join in on the fun, by splitting @into each faction
+    textLeft: Even Hamururu’s staff join in on the fun, by splitting @into each faction...
   - chara:
     - id: 800800
       pos: 0
@@ -219,7 +219,7 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - nameNarration: Reporter
-    narration: '―Reporter― @Team Acorn has chosen their representative for this year:'
+    narration: '―Reporter―@Team Acorn has chosen their representative@for this year:'
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -227,8 +227,8 @@ story:
     narrationLineMargin: 10
     narrationLineSpace: 20
     turnChangeOut: fadeOut
-  - narration: ―Reporter― @Yachiyo Nanami, a well-known model for the BiBi magazine!
-  - narration: ―Reporter― @She's a Kamihama native, and has been a devoted acorn fan
+  - narration: ―Reporter―@Yachiyo Nanami,@a well-known model for the BiBi magazine!
+  - narration: ―Reporter―@She's a Kamihama native, and has been a devoted acorn fan
       @ever since she was a little girl.
   - narration: ―Reporter― @I was told that when Team Acorn reached out to her, @she
       accepted their offer with a resounding “Yes!”
@@ -253,13 +253,13 @@ story:
   - chara:
     - id: 100205
     nameLeft: Yachiyo
-    textLeft: My mother and my grandmother
+    textLeft: My mother and my grandmother...
     turnChangeOut: fadeOut
   - chara:
     - id: 100205
       motion: 301
     nameLeft: Yachiyo
-    textLeft: both loved the Confectionery Village Acorn chocolate.
+    textLeft: '...both loved the Confectionery Village Acorn@chocolate.'
   - chara:
     - eyeClose: 1
       id: 100205
@@ -425,7 +425,7 @@ story:
   - chara:
     - id: 800700
     nameLeft: ""
-    textLeft: Sorry, I know this is an interview for Bibi,
+    textLeft: Sorry, I know this is an interview for BiBi,
   - chara:
     - id: 800700
     nameLeft: ""
@@ -445,13 +445,13 @@ story:
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: Speaking of which, Team Acorn actually had
+    textRight: Speaking of which, Team Acorn actually had...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801100
     nameRight: ""
-    textRight: two BiBi models in consideration for their rep.
+    textRight: '...two BiBi models in consideration for their rep.'
   - autoTurnLast: 0.01
     bg: black
     item:
@@ -591,8 +591,8 @@ story:
     narrationCoverOpacity: 120
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: This year's Acorn-Walnut Wars took on a surprise twist and @became
-      a battle of the BiBi models!
+  - narration: This year's Acorn-Walnut Wars took on a surprise twist@and became a
+      battle of the BiBi models!
   - narration: Team Walnut has chosen their representative @to face off against Yachiyo
       Nanami...
   - chara:

@@ -82,7 +82,7 @@ story:
   - chara:
     - id: 100201
       motion: 201
-    textRight: Based on what we've heard from Kira,
+    textRight: Based on what we've heard from Kira...
   - chara:
     - id: 100201
     textRight: There's been more than a few suspicious@happenings lately.
@@ -168,8 +168,8 @@ story:
     narration: Apparently, up until very recently...
     narrationBg: bg_adv_11061.jpg
     narrationEffect: in
-  - narration: '[textBlue:"Rumors"] would often cause@bizarre incidents like this
-      Kamihama.'
+  - narration: '"[textBlue:Rumors]" would often cause@bizarre incidents like this
+      in Kamihama.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -207,7 +207,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Eternal Sakura
-    textLeft: '| ...we found no evidence of an Uwasa being@involved this time. |'
+    textLeft: '| We found no evidence of an Uwasa being@involved this time. |'
   - chara:
     - eyeClose: 0
       id: 101403
@@ -235,7 +235,7 @@ story:
   - chara:
     - id: 304001
       motion: 100
-    textLeft: Thanks to the effect of her wish,
+    textLeft: Thanks to the effect of her wish...
   - chara:
     - id: 304001
     textLeft: Mihono always finds herself with a healthy film@budget on hand.
@@ -431,7 +431,7 @@ story:
   - chara:
     - id: 101403
     textRight: I received a detailed account of your filming sessions@from Sakurako
-      on the way here,
+      on the way here...
   - chara:
     - id: 101403
     textRight: So I've been speculating as to the cause of this situation.

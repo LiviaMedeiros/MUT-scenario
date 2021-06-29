@@ -30,12 +30,12 @@ story:
       motion: 0
       pos: 0
     nameRight: Rabi
-    textRight: Here’s your tea.
+    textRight: Here's your tea.
   - chara:
     - id: 103701
       motion: 100
     nameLeft: Nayuta
-    textLeft: I’ve prepared some snacks for you.
+    textLeft: I've prepared some snacks for you.
   - autoTurnLast: 0.2
     chara:
     - id: 103701
@@ -55,11 +55,11 @@ story:
       id: 103701
       motion: 200
     nameRight: Nayuta
-    textRight: '...Didn’t your quest to find a friend go well?'
+    textRight: '...Didn''t your quest to find a friend go well?'
   - chara:
     - id: 103801
       motion: 100
-    textLeft: '...I’m not sure.'
+    textLeft: '...I''m not sure.'
   - textLeft: I met a lot of Magical Girls, but...
   - autoTurnLast: 2
     chara:
@@ -78,10 +78,10 @@ story:
     - id: 103801
       motion: 200
     nameLeft: Mikage
-    textLeft: So after all that, my sister told me not to get@involved with people
-      from the Union...
+    textLeft: So after all that, my sis told me not to get@involved with people from
+      the Union...
     turnChangeOut: fadeOut
-  - textLeft: She won’t even tell me why...
+  - textLeft: She won't even tell me why...
   - chara:
     - id: 103701
       lipSynch: 0
@@ -98,7 +98,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Rabi
-    textRight: '...I’ve only heard about the situation...'
+    textRight: '...I''ve only heard about the situation...'
   - textRight: The Magical Girls from the Union are terribly upset.
   - chara:
     - cheek: 0
@@ -128,7 +128,7 @@ story:
   - chara:
     - id: 103801
       motion: 100
-    textLeft: '...I can’t really put my finger on it.'
+    textLeft: '...I can''t really put my finger on it.'
   - textLeft: I think this had to happen.
   - chara:
     - cheek: 0
@@ -166,13 +166,13 @@ story:
       motion: 200
       pos: 0
     nameLeft: Mikage
-    textLeft: I’m sure I can do it!
+    textLeft: I'm sure I can do it!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103801
       lipSynch: 0
-    textLeft: (...Because I learned my sister's wish...)
+    textLeft: (...Because I learned my sis's wish...)
   - chara:
     - id: 103801
       lipSynch: 0
@@ -183,8 +183,8 @@ story:
       id: 103801
       motion: 100
       pos: 0
-    textLeft: And I’ll make friends with everyone in the Union.
-  - textLeft: I won’t give up!
+    textLeft: And I'll make friends with everyone in the Union.
+  - textLeft: I won't give up!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -192,14 +192,14 @@ story:
       motion: 100
       pos: 2
     nameRight: Nayuta
-    textRight: '*Giggle* I’m glad you’re feeling better!'
+    textRight: '*Giggle* I''m glad you''re feeling better!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 200
-    textLeft: Until then, I’ll stick with you, Nayutan and Rabitan.
-  - textLeft: I’ll be patient.
+    textLeft: Until then, I'll stick with you, Nayutan and Rabitan.
+  - textLeft: I'll be patient.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -216,7 +216,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 103801
       motion: 400
-    textLeft: Ah, that’s it!
+    textLeft: Ah, that's it!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -268,7 +268,7 @@ story:
       id: 103301
       motion: 100
     nameRight: Rabi
-    textRight: Well, let’s spoil her for today.
+    textRight: Well, let's spoil her for today.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -297,7 +297,7 @@ story:
       pos: 1
       voice: vo_char_1038_00_05
     nameCenter: Mikage
-    textCenter: One day, I’d like to play with everyone, including@Sutan.
+    textCenter: One day, I'd like to play with everyone, including@Sutan.
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: stop

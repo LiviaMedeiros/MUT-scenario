@@ -24,8 +24,8 @@ story:
     turnChangeOut: fadeOut
   - nameNarration: 'Temari '
     narration: '"Yes. A girl who wished to play the lead role@in one of the stories
-      she''d dreamed of,"'
-  - narration: '"And who seemed to have obtained the same@''kotodama'' magic that
+      she''d dreamed of..."'
+  - narration: '"...and who seemed to have obtained the same@''kotodama'' magic that
       I did."'
   - chara:
     - eyeClose: 1

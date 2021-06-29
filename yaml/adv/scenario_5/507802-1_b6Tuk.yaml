@@ -107,7 +107,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 303501
       motion: 0
-    textRight: Yeah! And I told them that we're just helping out@with your movie,
+    textRight: Yeah! And I told them that we're just helping out@with your movie.
   - chara:
     - id: 303501
       motion: 200
@@ -187,11 +187,11 @@ story:
       face: mtn_ex_030.exp.json
       id: 101801
       motion: 200
-    textLeft: I had been worrying myself sick, thinking that if by@some chance,
+    textLeft: I had been worrying myself sick, thinking that if by@some chance...
   - chara:
     - id: 101801
-    textLeft: You WERE being made to partake in a strange film,@then perhaps you should
-      stop...
+    textLeft: '...you WERE being made to partake in a strange@film, then perhaps you
+      should stop...'
   - chara:
     - id: 101901
       motion: 0
@@ -265,10 +265,11 @@ story:
       face: mtn_ex_020.exp.json
       id: 304001
       motion: 100
-    textRight: Yes, true.@But the biggest concern, if anything,
+    textRight: Yes, true.@But the biggest concern, if anything...
   - chara:
     - id: 304001
-    textRight: Is how our film involves difficult issues between the@East and West.
+    textRight: '...is how our film involves difficult issues between@the East and
+      West.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -336,11 +337,11 @@ story:
       motion: 200
     nameLeft: Mikura
     nameRight: Temari
-    textRight: '"What if this dredges up the previous@East-West war,"'
+    textRight: '"What if this dredges up the previous@East-West war..."'
     turnChangeOut: fadeOut
   - chara:
     - id: 304001
-    textRight: '"and results in another schism between@Magical Girls?"'
+    textRight: '"...and results in another schism between@Magical Girls?"'
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -369,7 +370,7 @@ story:
     textRight: The invisible wall that stood between Ruri and Tsukihiko...
   - chara:
     - id: 304001
-    textRight: Is firmly intact, even today.
+    textRight: '...is firmly intact, even today.'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

@@ -116,7 +116,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 101701
       motion: 400
-    textLeft: H-Huuh...?
+    textLeft: H-Huhhh...?
   - chara:
     - id: 103801
       motion: 200
@@ -124,7 +124,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 103801
-    textRight: This was just to be helpful to Big Sis...
+    textRight: This was just to be helpful to Sis...
   - chara:
     - id: 101701
       motion: 0
@@ -272,7 +272,7 @@ story:
       id: 103801
       pos: 0
     narrationEffect: out
-    textLeft: '...Th, this is it!'
+    textLeft: '...Th-this is it!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

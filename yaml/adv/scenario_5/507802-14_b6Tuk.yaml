@@ -20,7 +20,7 @@ story:
     narrationBg: bg_adv_21025.jpg
     narrationEffect: in
   - nameNarration: ""
-    narration: <Historical Research Club - Provisional room>
+    narration: <Historical Research Club - Provisional Room>
     turnChangeOut: fadeOut
   - bgm: bgm03_story13
     chara:
@@ -143,11 +143,11 @@ story:
   - chara:
     - id: 304001
     nameRight: Temari
-    textRight: Because we kept the "real" script hidden from@Mihono until then,
+    textRight: Because we kept the "real" script hidden from@Mihono until then...
     turnChangeOut: fadeOut
   - chara:
     - id: 304001
-    textRight: That was the first time Ruri ever learned the truth.
+    textRight: '...that was the first time Ruri ever learned@the truth.'
   - chara:
     - id: 303801
       motion: 101
@@ -243,10 +243,10 @@ story:
   - chara:
     - id: 304001
       motion: 100
-    textRight: Ruri is probably reading the last pages as we speak,
+    textRight: Ruri is probably reading the last pages as we speak...
   - chara:
     - id: 304001
-    textRight: And finding out that his words were true.
+    textRight: '...and finding out that his words were true.'
   - chara:
     - id: 304001
     textRight: That Tsukihiko did love her with all his heart...
@@ -277,10 +277,10 @@ story:
     - eyeClose: 1
       id: 304001
       motion: 200
-    textRight: By the time Ruri committed her murder-suicide@with Tsukihiko,
+    textRight: By the time Ruri committed her murder-suicide@with Tsukihiko...
   - chara:
     - id: 304001
-    textRight: She had long since lost her senses.
+    textRight: '...she had long since lost her senses.'
   - chara:
     - eyeClose: 0
       id: 304001
@@ -335,7 +335,7 @@ story:
     textRight: She— that is to say, Ruri...
   - chara:
     - id: 304001
-    textRight: Was a Magical Girl.
+    textRight: '...was a Magical Girl.'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

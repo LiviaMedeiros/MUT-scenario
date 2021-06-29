@@ -37,7 +37,7 @@ story:
     - eyeClose: 1
       id: 101701
       motion: 0
-    textRight: It’s not bad that you’re expanding your circle of@friends, but...
+    textRight: It's not bad that you're expanding your circle of@friends, but...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -48,7 +48,7 @@ story:
     - id: 101701
       motion: 400
     textRight: I told you not to get involved with people from the@Union.
-  - textRight: I’ve told you a hundred times, haven’t I?
+  - textRight: I've told you a hundred times, haven't I?
   - chara:
     - id: 103801
       motion: 400
@@ -58,7 +58,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 101701
       motion: 0
-    textRight: It seems you’ve caused a lot of trouble for a lot of@people...
+    textRight: It seems you've caused a lot of trouble for a lot of@people...
   - chara:
     - id: 103801
       lipSynch: 0
@@ -68,7 +68,7 @@ story:
     - id: 101701
       motion: 100
     textRight: ' First off, you have a smartphone.'
-  - textRight: Make sure it’s on.
+  - textRight: Make sure it's on.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -81,7 +81,7 @@ story:
       id: 101701
       motion: 0
       pos: 2
-    textRight: I’ve tried to call you several times, but why...
+    textRight: I've tried to call you several times, but why...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -161,14 +161,14 @@ story:
     - id: 101701
       motion: 0
     nameLeft: Mikage
-    textLeft: You go to the Coordinator’s office every day...
+    textLeft: You go to the Coordinator's office every day...
   - textLeft: You get along with your friends there, but...
   - chara:
     - cheek: 1
       id: 103801
       motion: 0
       tear: 1
-    textLeft: I’m all alone!
+    textLeft: I'm all alone!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -182,7 +182,7 @@ story:
       tear: 1
     nameLeft: Mikage
     textLeft: '...You know how it is.'
-  - textLeft: There’s no way I can make friends at school.
+  - textLeft: There's no way I can make friends at school.
   - textLeft: Nobody gets along with me...
   - chara:
     - cheek: 1
@@ -190,14 +190,14 @@ story:
       id: 103801
       motion: 0
       tear: 1
-    textLeft: And I don’t want to be friends with them, either...
+    textLeft: And I don't want to be friends with them, either...
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_032.exp.json
       id: 101701
       motion: 300
-    textRight: '...You’re right, I’m sorry.'
+    textRight: '...You''re right, I''m sorry.'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -210,7 +210,7 @@ story:
     - eyeClose: 1
       id: 103801
       motion: 200
-    textLeft: I don’t want to do this anymore.
+    textLeft: I don't want to do this anymore.
   - chara:
     - eyeClose: 0
       id: 101701
@@ -259,8 +259,8 @@ story:
       id: 103801
       motion: 200
     narrationEffect: out
-    textCenter: I’m hungry...
-  - textCenter: Coming to think of it, I haven’t eaten all day...
+    textCenter: I'm hungry...
+  - textCenter: Coming to think of it, I haven't eaten all day...
   - chara:
     - id: 103801
       lipSynch: 0
@@ -287,15 +287,15 @@ story:
     - effect: fadeout
       id: 103801
     textClear: 1
-  - nameRight: Mikage's voice
-    textRight: Hey, sis.
-  - nameRight: Mikage's voice
-    textRight: '...Sis, I’m sorry for the things I said.'
-  - nameRight: Mitama's voice
-    textRight: '...It’s okay, what I said to you was worse.'
-  - nameRight: Mikage's voice
+  - nameRight: Mikage's Voice
+    textRight: Hey, Sis.
+  - nameRight: Mikage's Voice
+    textRight: '...Sis, I''m sorry for the things I said.'
+  - nameRight: Mitama's Voice
+    textRight: '...It''s okay, what I said to you was worse.'
+  - nameRight: Mikage's Voice
     textRight: '...This is for you.'
-  - nameRight: Mikage's voice
+  - nameRight: Mikage's Voice
     textRight: It's a one-of-a-kind pendant that I made.
   - autoTurnFirst: 3.3
     bg: bg_adv_narration.jpg

@@ -99,7 +99,7 @@ story:
       id: 110701
       motion: 200
     nameLeft: Touka
-    textLeft: We're already time traveling,
+    textLeft: We're already time traveling...
   - chara:
     - id: 110701
     nameLeft: Touka
@@ -110,7 +110,7 @@ story:
       id: 110702
       motion: 0
     nameRight: Nemu
-    textRight: If Mii and his family had known about this move@much sooner,
+    textRight: If Mii and his family had known about this move@much sooner...
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -364,7 +364,7 @@ story:
   - chara:
     - id: 801300
     nameRight: ""
-    textRight: B, but...
+    textRight: B-but...
   - chara:
     - id: 110701
       motion: 201

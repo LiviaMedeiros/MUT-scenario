@@ -164,7 +164,7 @@ story:
       id: 101201
       motion: 0
     nameCenter: Karin
-    textCenter: '*Gasp* I can''t be worrying about this,'
+    textCenter: '*Gasp* I can''t be worrying about this.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -232,7 +232,7 @@ story:
       id: 110702
       motion: 200
     nameRight: Nemu
-    textRight: Going by the contents of the diary,
+    textRight: Going by the contents of the diary...
   - chara:
     - id: 110702
     nameRight: Nemu

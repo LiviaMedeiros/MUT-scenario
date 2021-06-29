@@ -563,7 +563,7 @@ story:
     textLeft: '...Looks like I did a better job this time.'
   - chara:
     - id: 303802
-    textLeft: I went and kicked the bucket too early a century ago,
+    textLeft: I went and kicked the bucket too early a century ago.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -690,7 +690,7 @@ story:
     textLeft: No need to worry. With this, it should all be over.
   - chara:
     - id: 303802
-    textLeft: The play has been performed to its last,
+    textLeft: The play has been performed to its last.
   - chara:
     - id: 303802
       motion: 0

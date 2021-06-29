@@ -220,7 +220,7 @@ story:
   - chara:
     - id: 801200
     nameLeft: ""
-    textLeft: It was only ever in the library,
+    textLeft: It was only ever in the library...
   - chara:
     - id: 801200
     nameLeft: ""
@@ -259,7 +259,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: ""
-    textLeft: '...When we got your reply,'
+    textLeft: When we got your reply...
   - chara:
     - id: 800700
     nameLeft: ""

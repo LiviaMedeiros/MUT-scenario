@@ -14,7 +14,7 @@ story:
     chara:
     - id: 305302
       motion: 400
-    nameCenter: "\uFEFFIkumi"
+    nameCenter: Ikumi
     textCenter: And now it's the highly anticipated chocolate @exchange time~!
     turnChangeOut: fadeOut
   - chara:
@@ -41,11 +41,11 @@ story:
       motion: 0
       pos: 1
     nameCenter: Sakurako
-    textCenter: '| On Valentine''s, I gave some to everyone at @Mikazuki Manor |'
+    textCenter: '| On Valentine''s, I gave some to everyone at @Mikazuki Manor. |'
   - chara:
     - id: 304301
     nameCenter: Sakurako
-    textCenter: '| the chocolates that I made left them overjoyed. |'
+    textCenter: '| The chocolates that I made left them overjoyed. |'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -54,7 +54,7 @@ story:
       pos: 1
     nameCenter: Sakurako
     textCenter: '| When I expressed my gratitude, I found myself @becoming happy as
-      well,  |'
+      well, |'
   - chara:
     - id: 304301
     nameCenter: Sakurako
@@ -150,7 +150,7 @@ story:
       motion: 1
       pos: 1
     nameCenter: Ikumi
-    textCenter: '...You know, I always have so much fun when I''m @with everyone'
+    textCenter: '...You know, I always have so much fun when I''m @with everyone.'
   - chara:
     - id: 305302
     nameCenter: Ikumi
@@ -203,7 +203,7 @@ story:
       id: 304601
       pos: 1
     nameCenter: Ryou
-    textCenter: Alright then, up next is from Ryou .
+    textCenter: Alright then, up next is from Ryou.
   - chara:
     - eyeClose: 1
       id: 304601
@@ -220,14 +220,14 @@ story:
       motion: 200
     nameCenter: Ryou
     textCenter: Looking at all of my developed photos, @so many of them are full of
-      smiles,
+      smiles.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 304601
       pos: 1
     nameCenter: Ryou
-    textCenter: so thanks. @'Kay, you're up next, Shizuku.
+    textCenter: So thanks. @'Kay, you're up next, Shizuku.
   - autoTurnLast: 0.5
     bgm: stop
     chara:
@@ -270,11 +270,11 @@ story:
       id: 300751
       motion: 401
     nameCenter: Shizuku
-    textCenter: When I'm with everyone... @I feel like I can...
+    textCenter: When I'm with everyone... @I feel like...
   - chara:
     - id: 300751
     nameCenter: Shizuku
-    textCenter: like myself, even just a little...
+    textCenter: '...I can like myself, even just a little...'
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -525,12 +525,12 @@ story:
       motion: 300
       pos: 1
     nameCenter: Ayaka
-    textCenter: Also, Shizuku,
+    textCenter: Also, Shizuku...
   - chara:
     - id: 301950
       pos: 1
     nameCenter: Ayaka
-    textCenter: sorry for always being so noisy and meddlesome.
+    textCenter: Sorry for always being so noisy and meddlesome.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -754,7 +754,7 @@ story:
       motion: 300
       tear: 1
     nameCenter: Shizuku
-    textCenter: '....[wait:0.8][chara:300701:cheek_1][chara:300701:lipSynch_1]Ryou...'
+    textCenter: '...[wait:0.8][chara:300701:cheek_1][chara:300701:lipSynch_1]Ryou...'
   - nameNarration: Shizuku
     narration: That's right, those days aren't coming back...
     narrationBg: black

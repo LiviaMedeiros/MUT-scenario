@@ -341,7 +341,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101801
       motion: 1
-    textRight: '...Then that means, in other words,'
+    textRight: '...Then that means, in other words...'
   - chara:
     - id: 101801
     textRight: We both received the item that we wanted?
@@ -415,7 +415,7 @@ story:
       motion: 1
     nameLeft: Touka
     textLeft: '...Because Tsukasa couldn''t buy those gloves@due to the tampering
-      of results by the wind,'
+      of results by the wind...'
   - chara:
     - id: 110701
     nameLeft: Touka
@@ -439,7 +439,7 @@ story:
     chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: I don't know if it's the diary or this Guardian@Spirits thing,
+    textLeft: I don't know if it's the diary or this Guardian@Spirits thing...
   - chara:
     - id: 110701
     nameLeft: Touka
@@ -560,7 +560,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Nemu
-    textRight: Christmas presents, working to retie bonds,
+    textRight: Christmas presents, working to retie bonds...
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -590,7 +590,7 @@ story:
       id: 110702
       motion: 200
     nameRight: Nemu
-    textRight: I personally am not that type of person,
+    textRight: I personally am not that type of person...
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -601,7 +601,7 @@ story:
       id: 110701
       motion: 100
     nameLeft: Touka
-    textLeft: '...Well, in any case,'
+    textLeft: '...Well, in any case...'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -619,7 +619,7 @@ story:
     - id: 110701
       motion: 200
     nameLeft: Touka
-    textLeft: For example, if we turn the page back to the@original date in the diary,
+    textLeft: For example, if we turn the page back to the@original date in the diary...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

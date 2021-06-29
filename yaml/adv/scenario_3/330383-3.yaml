@@ -364,7 +364,7 @@ story:
     - id: 303901
       lipSynch: 0
       motion: 1
-    textCenter: (Komachi-senpai and Kira-senpai, from second year...?)
+    textCenter: (Komachi-senpai and Kira-senpai,@from second year...?)
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

@@ -14,7 +14,7 @@ story:
     - id: 300751
       lipSynch: 0
       motion: 103
-    nameCenter: "\uFEFFShizuku"
+    nameCenter: Shizuku
     surround: 7003_wind
     textCenter: (I wonder...if these clothes are good enough.)
     turnChangeOut: fadeOut
@@ -133,11 +133,11 @@ story:
     - id: 300350
       motion: 100
     nameCenter: Hinano
-    textCenter: Could I ask each of you one by one
+    textCenter: Could I ask each of you one by one...
   - chara:
     - id: 300350
     nameCenter: Hinano
-    textCenter: what was meant by "motivational clothes?"
+    textCenter: What was meant by "motivational clothes?"
   - autoTurnLast: 0.2
     chara:
     - id: 300350
@@ -151,7 +151,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Ryou
-    textRight: Whenever I'm out and about looking for a scoop
+    textRight: Whenever I'm out and about looking for a scoop,
   - chara:
     - id: 304601
     nameRight: Ryou
@@ -218,11 +218,11 @@ story:
     - id: 304301
       motion: 100
     nameRight: Sakurako
-    textRight: '| Nemu and Touka told me |'
+    textRight: '| Nemu and Touka told me... |'
   - chara:
     - id: 304301
     nameRight: Sakurako
-    textRight: '| that this would be appropriate because a student''s @purpose is
+    textRight: '| That this would be appropriate because a student''s @purpose is
       to study. |'
   - chara:
     - id: 304301

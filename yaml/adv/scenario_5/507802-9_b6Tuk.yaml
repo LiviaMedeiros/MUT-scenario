@@ -69,7 +69,7 @@ story:
       motion: 300
     textLeft: Yeah...
   - nameNarration: Temari
-    narration: Komachi and I live outside of Kamihama@and take the train to school,
+    narration: Komachi and I live outside of Kamihama@and take the train to school...
     narrationBg: bg_adv_16043.jpg
     narrationEffect: in
   - narration: But Mihono lives close to the school,@by herself.
@@ -125,7 +125,7 @@ story:
     - eyeClose: 0
       id: 304001
       motion: 1
-    textRight: Fortunately enough, we have the day off from@school tomorrow,
+    textRight: Fortunately enough, we have the day off from@school tomorrow.
   - chara:
     - id: 304001
     textRight: So I doubt anybody will notice that Mihono is@missing.
@@ -255,7 +255,7 @@ story:
       id: 304001
       motion: 100
     narrationEffect: out
-    textRight: '...Tamaki said she''d enlist more people as well,'
+    textRight: '...Tamaki said she''d enlist more people as well.'
   - chara:
     - id: 304001
     textRight: So it seems like we'll have quite a large search party.
@@ -456,7 +456,7 @@ story:
   - chara:
     - id: 304001
       lipSynch: 0
-    textCenter: (Komachi is frightened of remembering how scared@she was back then,)
+    textCenter: (Komachi is frightened of remembering how scared@she was back then.)
   - chara:
     - id: 304001
       lipSynch: 0

@@ -17,18 +17,18 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story07
     nameRight: Mitama
-    textRight: I’m off then!~
+    textRight: I'm off theeen!
     turnChangeOut: fadeOut
   - nameLeft: Mikage
-    textLeft: '...Mitama, are you on Coordinator duty today?'
+    textLeft: '...Sis, are you on Coordinator duty today?'
   - chara:
     - id: 101701
       motion: 100
-    textRight: Yes, I’ve been very busy lately.
+    textRight: Yes, I've been very busy lately.
   - chara:
     - id: 103801
       motion: 300
-    textLeft: '...That’s not fair.'
+    textLeft: '...That''s not fair.'
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -40,11 +40,11 @@ story:
       face: mtn_ex_020.exp.json
       id: 103801
       motion: 400
-    textLeft: You’re not being fair, Mitama!
+    textLeft: You're not being fair, Sis!
   - chara:
     - id: 103801
       motion: 1
-    textLeft: You told me I shouldn’t meet up with anyone from@the Union...
+    textLeft: You told me I shouldn't meet up with anyone from@the Union...
   - textLeft: So I've been putting up with it by playing with Sutan@less often!
   - chara:
     - id: 103801
@@ -55,18 +55,18 @@ story:
       face: mtn_ex_030.exp.json
       id: 101701
       motion: 400
-    textRight: Um, Mii?@Being a Coordinator isn’t a game...
+    textRight: Um, Mii?@Being a Coordinator isn't a game...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 103801
       motion: 0
-    textLeft: I know!@Being a Coordinator isn’t a game...
+    textLeft: I know!@Being a Coordinator isn't a game...
   - chara:
     - id: 103801
       motion: 300
     textLeft: But, but...
-  - textLeft: I know you’re having fun with your friends...
+  - textLeft: I know you're having fun with your friends...
   - chara:
     - id: 101701
       motion: 300
@@ -76,7 +76,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 103801
       motion: 0
-    textLeft: That’s enough.
+    textLeft: That's enough.
   - chara:
     - id: 103801
       motion: 400
@@ -86,8 +86,8 @@ story:
       motion: 0
     nameLeft: Mikage
     textBg: shout
-    textLeft: You’re not my sister anymore!
-  - textLeft: I’m going to go find a new big sister!
+    textLeft: You're not my sis anymore!
+  - textLeft: I'm going to go find a new big sis!
   - textLeft: One who actually understands me!
   - autoTurnLast: 1
     chara:
@@ -128,20 +128,20 @@ story:
       id: 103801
       lipSynch: 0
       motion: 300
-    textCenter: （She's not here...@maybe the counseling center is closed.）
+    textCenter: （She's not here...@maybe the counseling room is closed.）
   - textCenter: What now...?@I don't want to go home...
   - chara:
     - id: 103801
       lipSynch: 0
       motion: 0
-    textCenter: (...I’ll just have a snack.)
+    textCenter: (...I'll just have a snack.)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 100
-    textCenter: I think it’s around here...
-  - nameRight: Rika’s voice
+    textCenter: I think it's around here...
+  - nameRight: Rika's Voice
     textRight: Yoo-hoo!
   - chara:
     - cheek: 0
@@ -162,7 +162,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Rika
-    textRight: I’m here to play!
+    textRight: I'm here to play!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -181,7 +181,7 @@ story:
       pos: 2
     nameRight: Ren
     textRight: '...Um, who are you...?'
-  - textLeft: I...I’m...
+  - textLeft: I...I'm...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -199,7 +199,7 @@ story:
   - chara:
     - id: 103801
       motion: 0
-    textLeft: I thought I’d get some candy...
+    textLeft: I thought I'd get some candy...
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -212,14 +212,14 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302501
-    textRight: '...Doesn’t that make you a thief?'
+    textRight: '...Doesn''t that make you a thief?'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 103801
       motion: 1
     textLeft: That is true, but...!
-  - textLeft: Emily and I are friends, so that shouldn’t be a@problem!
+  - textLeft: Emily and I are friends, so that shouldn't be a@problem!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

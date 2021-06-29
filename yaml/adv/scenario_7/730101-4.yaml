@@ -555,11 +555,11 @@ story:
   - chara:
     - id: 800700
     nameRight: ""
-    textRight: The final results will be announced in about @two and a half hours
+    textRight: The final results will be announced in about @two and a half hours...
   - chara:
     - id: 800700
     nameRight: ""
-    textRight: in an event hosted by Hamururu’s executives.
+    textRight: '...in an event hosted by Hamururu’s executives.'
   - chara:
     - id: 800700
     nameRight: ""
@@ -661,7 +661,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Manaka
-    textRight: '[chara:300901:effect_emotion_angry_0][se:7219_strain] C''mon, even
+    textRight: '[chara:300901:effect_emotion_angry_0][se:7219_strain]C''mon, even
       I''m capable of being nice to you @sometimes!'
   - chara:
     - cheek: 0

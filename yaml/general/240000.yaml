@@ -84,15 +84,24 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2400_00_17
+      textHome: I bought a lucky grab bag@and inside was exactly everything I wanted!
   - autoTurnFirst: 1.2
     chara:
     - id: 240000
       motion: 1
+      textHome: As I thought, it seems like@luck is on Sayaka-chan's side.
   - autoTurnFirst: 3.3
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 240000
+      textHome: As I thought, it seems like@luck is on Sayaka-chan's side.
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
   group_11:
   - autoTurnFirst: 2
     chara:
@@ -103,15 +112,18 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2400_00_18
+      textHome: Wearing such a lovely haregi,
   - autoTurnFirst: 1.8
     chara:
     - id: 240000
       motion: 1
+      textHome: eating delicious food,
   - autoTurnFirst: 1.9
     chara:
     - eyeClose: 1
       id: 240000
       motion: 300
+      textHome: shopping to my heart's content...
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -120,6 +132,13 @@ story:
     chara:
     - id: 240000
       motion: 100
+      textHome: Is it really alright@for me to have such a perfect new year?
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
   group_12:
   - autoTurnFirst: 2.3
     chara:
@@ -784,22 +803,33 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_2400_00_37
+      textHome: By the way,@how many days do we have@til school starts again?
   - autoTurnFirst: 1.8
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 240000
       motion: 400
+      textHome: Uwaah! Sorry!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 240000
       motion: 300
+      textHome: That was the number one thing@you should never ask if you wanna@enjoy
+        New Year's break, huh?
   - autoTurnFirst: 3
     chara:
     - eyeClose: 1
       id: 240000
+      textHome: Gotta reflect...
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
   group_31:
   - autoTurnFirst: 2.7
     chara:
@@ -810,22 +840,32 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2400_00_38
+      textHome: Maybe it's because@the new year has just begun?
   - autoTurnFirst: 6.3
     chara:
     - id: 240000
       motion: 1
+      textHome: The Mitakihara that I'm used to seeing@looks a little different somehow.
   - autoTurnFirst: 3.6
     chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 240000
       motion: 400
+      textHome: Wait, what kind of embarrassing things@am I even saying right now?
   - autoTurnFirst: 2.4
     chara:
     - cheek: 1
       face: mtn_ex_040.exp.json
       id: 240000
       motion: 0
+      textHome: Just forget that.
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
   group_32:
   - autoTurnFirst: 3.3
     chara:
@@ -836,20 +876,30 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2400_00_39
+      textHome: I sent everyone a New Year's card,
   - autoTurnFirst: 3.4
     chara:
     - id: 240000
       motion: 100
+      textHome: but that Kyouko is the only one@whose address I don't know.
   - autoTurnFirst: 1.3
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 240000
       motion: 0
+      textHome: Nothing can be done about that, so
   - autoTurnFirst: 3
     chara:
     - id: 240000
       motion: 201
+      textHome: I'm on my way@to deliver it directly right now.
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
   group_33:
   - autoTurnFirst: 4.3
     chara:
@@ -860,16 +910,25 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2400_00_40
+      textHome: That guy Kyousuke...@I wonder if he's busy?
   - autoTurnFirst: 3.8
     chara:
     - id: 240000
       motion: 300
+      textHome: In the past,@I used to see him here and there@during New Year's...
   - autoTurnFirst: 4.2
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 240000
       motion: 100
+      textHome: If we go to the shrine,@I'll pray for him too.
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
   group_34:
   - autoTurnFirst: 6
     chara:
@@ -1085,10 +1144,20 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2400_00_15
+      textHome: Listen to this!@Something good already happened@this early in the
+        new year!
   - autoTurnFirst: 2
     chara:
     - id: 240000
       motion: 201
+      textHome: Listen to this!@Something good already happened@this early in the
+        new year!
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
   group_9:
   - autoTurnFirst: 3.5
     chara:
@@ -1099,24 +1168,35 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_2400_00_16
+      textHome: I'm feeling REALLY good, so...
   - autoTurnFirst: 3.3
     chara:
     - id: 240000
       motion: 100
+      textHome: That's why I don't need to pull a fortune.
   - autoTurnFirst: 1.1
     chara:
     - id: 240000
       motion: 0
+      textHome: Today's...
   - autoTurnFirst: 2.4
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 240000
+      textHome: No, this year's new me
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 240000
       motion: 200
+      textHome: is in perfect shape after all.
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
 version: 3
 ...

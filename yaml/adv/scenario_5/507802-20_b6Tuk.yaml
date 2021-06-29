@@ -53,7 +53,7 @@ story:
     narrationBg: black
     narrationEffect: in
   - narration: '"A comfortable home, where even@those with a maladroit sense of distance..."'
-  - narration: '"...Can relax and spend time in peace, too."'
+  - narration: '"...can relax and spend time in peace, too."'
   - autoTurnLast: 0.01
     narrationEffect: out
   - nameNarration: Mikura
@@ -77,7 +77,7 @@ story:
     narrationBg: bg_adv_21025.jpg
     narrationEffect: in
     turnChangeOut: whiteOut
-  - narration: <Historical Research Club - Provisional room>
+  - narration: <Historical Research Club - Provisional Room>
   - bgm: bgm03_story19
     chara:
     - id: 303901
@@ -107,7 +107,7 @@ story:
     textLeft: Mihono's engrossed in her film as usual, I see.
   - chara:
     - id: 304001
-    textRight: She's wearing over-ear headphones today,
+    textRight: She's wearing over-ear headphones today.
   - chara:
     - id: 304001
     textRight: So I think it's safe to assume...
@@ -115,14 +115,15 @@ story:
     - eyeClose: 0
       id: 304001
       motion: 100
-    textRight: That she didn't hear any of our embarassing@conversation just now.
+    textRight: '...that she didn''t hear any of our embarassing@conversation just
+      now.'
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_050.exp.json
       id: 303801
       motion: 101
-    textLeft: Hey, *I* thought it was a serious conversation.
+    textLeft: Hey, I thought it was a serious conversation.
   - chara:
     - eyeClose: 0
       id: 303801
@@ -215,7 +216,7 @@ story:
     textLeft: Yeah...
   - chara:
     - id: 303801
-    textLeft: We even got an extra budget for that enormous@proposal, too,
+    textLeft: We even got an extra budget for that enormous@proposal, too.
   - chara:
     - eyeClose: 1
       id: 303801
@@ -246,11 +247,11 @@ story:
       id: 303901
       motion: 100
     textLeft: But what's more important is that if we don't get@next year's budget
-      approved,
+      approved...
   - chara:
     - id: 303901
-    textLeft: '[chara:303901:effect_emotion_angry_1][se:7218_anger]Our precious Historical
-      Research Club is going to@get shut down!'
+    textLeft: '[chara:303901:effect_emotion_angry_1][se:7218_anger]...our precious
+      Historical Research Club is going to@get shut down!'
   - chara:
     - eyeClose: 1
       id: 303901
@@ -331,7 +332,7 @@ story:
       eyeClose: 1
       face: mtn_ex_030.exp.json
       id: 304001
-    textRight: I'm sure we're all tired from running around so much@on our day off,
+    textRight: I'm sure we're all tired from running around so much@on our day off.
   - chara:
     - cheek: 0
       eyeClose: 0

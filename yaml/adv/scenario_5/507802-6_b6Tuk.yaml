@@ -57,10 +57,10 @@ story:
   - chara:
     - id: 101403
       motion: 100
-    textRight: Because she gave acting directions to the@performers,
+    textRight: Because she gave acting directions to the@performers...
   - chara:
     - id: 101403
-    textRight: Telling them all to "truly inhabit their role"...
+    textRight: '...telling them all to "truly inhabit their role"...'
   - chara:
     - id: 101403
     textRight: The cast members all behaved in a way that@faithfully replicated their
@@ -439,7 +439,7 @@ story:
   - chara:
     - eyeClose: 0
       id: 304001
-    textLeft: If Komachi's magic has the same properties as@her wish,
+    textLeft: If Komachi's magic has the same properties as@her wish...
   - chara:
     - id: 304001
     textLeft: Then when she found Tsukihiko's diary after filming@began...

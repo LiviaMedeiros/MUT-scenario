@@ -492,11 +492,11 @@ story:
     textRight: The story of a romance between two people...
   - chara:
     - id: 101403
-    textRight: '...who, despite both loving one another,'
+    textRight: '...who, despite both loving one another...'
   - chara:
     - eyeClose: 1
       id: 101403
-    textRight: Failed to adequately grasp the distance between@them.
+    textRight: '...failed to adequately grasp the distance@between them.'
   - autoTurnLast: 0.6
     chara:
     - effect: fadeout

@@ -196,7 +196,7 @@ story:
     - id: 110702
       motion: 0
     nameLeft: Touka
-    textLeft: Everything within the diary should be set in@the past,
+    textLeft: Everything within the diary should be set in@the past.
   - chara:
     - id: 110701
     nameLeft: Touka
@@ -217,7 +217,7 @@ story:
       id: 110702
       motion: 100
     nameRight: Nemu
-    textRight: It's a bit of a romantic answer,
+    textRight: It's a bit of a romantic answer...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -243,7 +243,7 @@ story:
       id: 110702
       motion: 200
     nameRight: Nemu
-    textRight: We are, for the time being,
+    textRight: We are, for the time being...
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -260,11 +260,11 @@ story:
       id: 110702
       motion: 0
     nameRight: Nemu
-    textRight: If, for example,
+    textRight: If, for example...
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: We were forced to help others just to save@ourselves,
+    textRight: We were forced to help others just to save@ourselves...
   - chara:
     - id: 110702
       motion: 300
@@ -273,7 +273,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: Real Guardian Spirits were supposed to be@summoned here,
+    textRight: Real Guardian Spirits were supposed to be@summoned here...
   - chara:
     - id: 110702
       motion: 0

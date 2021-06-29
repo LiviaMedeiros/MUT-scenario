@@ -75,7 +75,7 @@ story:
     textRight: '...I see.'
   - chara:
     - id: 810000
-    textRight: If events proceed according to your script,
+    textRight: If events proceed according to your script...
   - chara:
     - id: 810000
     textRight: Then Mikura Komachi and Seira Mihono are likely@to perish in a murder-suicide.
@@ -149,12 +149,12 @@ story:
     - eyeClose: 1
       id: 304001
       lipSynch: 0
-    textLeft: (Komachi's told me that "even though you're usually@very cautious,")
+    textLeft: (Komachi's told me that "even though you're usually@very cautious...")
     turnEffect: thinking
   - chara:
     - id: 304001
       lipSynch: 0
-    textLeft: ("You sometimes act unbelievably impulsive," but...)
+    textLeft: ("...you sometimes act unbelievably impulsive,"@but...)
   - chara:
     - cheek: 0
       eyeClose: 0

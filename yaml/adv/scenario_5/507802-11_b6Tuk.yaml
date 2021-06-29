@@ -60,14 +60,14 @@ story:
       face: mtn_ex_030.exp.json
       id: 304001
       motion: 300
-    textLeft: So until Mihono thinks that there's nothing left@to film,
+    textLeft: So until Mihono thinks that there's nothing left@to film...
   - chara:
     - id: 304001
     textLeft: The reconstructed personae will remain, the@East-West conflict will
       continue to smolder...
   - chara:
     - id: 304001
-    textLeft: And incidents roughly mimicking the script will@keep happening?
+    textLeft: '...and incidents roughly mimicking the script will@keep happening?'
   - chara:
     - id: 810000
     textRight: Indeed.
@@ -214,10 +214,10 @@ story:
     - eyeClose: 0
       id: 304001
       motion: 200
-    textLeft: Yes. ...If I took that much damage from such a small@script revision,
+    textLeft: Yes. ...If I took that much damage from such a small@script revision...
   - chara:
     - id: 304001
-    textLeft: Then it'll be impossible to rewrite the entire ending.
+    textLeft: '...then it''ll be impossible to rewrite the entire@ending.'
   - chara:
     - id: 304001
     textLeft: I'd be an empty shell before I could finish writing.
@@ -226,7 +226,7 @@ story:
     textRight: In that case, it seems likely that your magic...
   - chara:
     - id: 810000
-    textRight: Will run its course as the script dictates.
+    textRight: '...will run its course as the script dictates.'
   - chara:
     - id: 810000
     textRight: Until the script's reenactment is either completed,@or rendered void.

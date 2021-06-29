@@ -25,12 +25,12 @@ story:
   - chara:
     - id: 303201
     nameRight: Mayu
-    textRight: I heard they picked you to be the representative
+    textRight: I heard they picked you to be the representative...
   - chara:
     - id: 303201
       pos: 2
     nameRight: Mayu
-    textRight: for the Chocolate Forest Walnut faction!
+    textRight: '...for the Chocolate Forest Walnut faction!'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -71,7 +71,7 @@ story:
       motion: 400
     nameLeft: Ria
     textLeft: '[chara:301001:effect_emotion_surprise_0][se:7226_shock]Grr... You can''t
-      hold your tongue for even@ one second, can you?!'
+      hold your tongue for even@one second, can you?!'
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -112,12 +112,12 @@ story:
       id: 301001
       motion: 0
     nameRight: Manaka
-    textRight: 'You''re pretty obscure, so it feels like they''re trying '
+    textRight: You're pretty obscure, so it feels like they're trying...
   - chara:
     - id: 300901
       pos: 2
     nameRight: Manaka
-    textRight: to make up for the gulf between you two by really @hyping you up.
+    textRight: '...to make up for the gulf between you two by@really hyping you up.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -387,14 +387,14 @@ story:
       motion: 0
       pos: 0
     nameLeft: Ria
-    textLeft: In short, we were wondering
+    textLeft: In short, we were wondering...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 301001
       motion: 1
     nameLeft: Ria
-    textLeft: if you might be willing to lend your support @to Team Walnut...
+    textLeft: If you might be willing to lend your support @to Team Walnut...
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -535,7 +535,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Kanoko
-    textRight: '[chara:300101:effect_emotion_joy_0][se:7222_happy] Instead, I’m all
+    textRight: '[chara:300101:effect_emotion_joy_0][se:7222_happy]Instead, I’m all
       about chocolate mushrooms! @That’s the one thing I can’t back down on!'
   - chara:
     - cheek: 0
@@ -561,12 +561,12 @@ story:
       motion: 1
       pos: 0
     nameLeft: Mayu
-    textLeft: I'm starting to think promoting Team Walnut
+    textLeft: I'm starting to think promoting Team Walnut...
   - chara:
     - eyeClose: 1
       id: 303201
     nameLeft: Mayu
-    textLeft: is going to be much harder than any of us could @have imagined...
+    textLeft: Is going to be much harder than any of us could @have imagined...
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

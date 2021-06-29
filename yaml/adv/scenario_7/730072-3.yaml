@@ -19,7 +19,7 @@ story:
     chara:
     - id: 300701
       pos: 0
-    nameLeft: "\uFEFFShizuku"
+    nameLeft: Shizuku
     textLeft: Why do we give chocolates on Valentine's Day...?
     turnChangeOut: fadeOut
   - chara:
@@ -61,7 +61,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Ryou
-    textLeft: Then what are your thoughts, ikumi?
+    textLeft: Then what are your thoughts, Ikumi?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -70,14 +70,14 @@ story:
       pos: 2
     nameRight: Ikumi
     textRight: Kumi thinks that Valentine's is for giving kyun kyuns @to everyone
-      that you love
+      that you love...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 305301
       pos: 2
-    nameRight: ikumi
-    textRight: by telling them through sweet chocolates!
+    nameRight: Ikumi
+    textRight: '...by telling them through sweet chocolates!'
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -105,11 +105,11 @@ story:
       motion: 1
       pos: 2
     nameRight: Ikumi
-    textRight: Mmm~ let's see, @I would describe sweet as a
+    textRight: Mmm~ let's see, @I would describe sweet as a...
   - chara:
     - id: 305301
     nameRight: Ikumi
-    textRight: fluffy, happy, melt-in-your-mouth kind of taste!
+    textRight: '...fluffy, happy, melt-in-your-mouth kind of taste!'
   - chara:
     - id: 304301
       motion: 300
@@ -119,14 +119,14 @@ story:
     - id: 305301
       motion: 100
     nameRight: Ikumi
-    textRight: and then, Kumi takes that sweet chocolate
+    textRight: And then, Kumi takes that sweet chocolate...
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 305301
       pos: 2
     nameRight: Ikumi
-    textRight: and packs it tightly with my kyu~n kyun feelings~
+    textRight: And packs it tightly with my kyu~n kyun feelings~
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -151,7 +151,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Ikumi
-    textRight: Awawa, umm... Anyway, so Kumi uh!
+    textRight: Awawa, umm...@Anyway, so Kumi uh!
   - bgm: bgm24_story08
     chara:
     - cheek: 0
@@ -180,11 +180,11 @@ story:
     - id: 305301
       motion: 300
     nameRight: Ikumi
-    textRight: To give all of those heartfelt thanks
+    textRight: To give all of those heartfelt thanks...
   - chara:
     - id: 305301
     nameRight: Ikumi
-    textRight: we have a day to put those feelings into chocolate @and give them.
+    textRight: We have a day to put those feelings into chocolate @and give them.
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
@@ -262,7 +262,7 @@ story:
       id: 304601
       motion: 100
       pos: 2
-    nameRight: 'Ryou '
+    nameRight: Ryou
     textRight: but if I got a reason like this, it should be easier @to express my
       gratitude, huh.
   - chara:
@@ -288,11 +288,11 @@ story:
       motion: 100
       pos: 2
     nameRight: Sakurako
-    textRight: '| ...In other words, Valentine''s is |'
+    textRight: '| ...In other words, Valentine''s is... |'
   - chara:
     - id: 304301
     nameRight: Sakurako
-    textRight: '| a marketing strategy to give your gratitude along @with chocolate.
+    textRight: '| A marketing strategy to give your gratitude along @with chocolate.
       |'
   - chara:
     - cheek: 0

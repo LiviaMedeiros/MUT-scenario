@@ -245,7 +245,7 @@ story:
       id: 110701
       motion: 0
     nameLeft: Touka
-    textLeft: '...So,'
+    textLeft: So...
   - autoTurnLast: 0.1
     chara:
     - effect: fadeout
@@ -405,7 +405,7 @@ story:
     chara:
     - id: 100651
     nameLeft: Mifuyu
-    textLeft: '...So Kaede also got to be an art model,'
+    textLeft: '...So Kaede also got to be an art model.'
     turnChangeOut: fadeOut
   - chara:
     - id: 100651
@@ -417,7 +417,7 @@ story:
       id: 101152
       motion: 100
     nameRight: Kaede
-    textRight: Karin wants to improve her drawing skills,
+    textRight: Karin wants to improve her drawing skills...
   - chara:
     - id: 101152
     nameRight: Kaede
@@ -439,12 +439,12 @@ story:
   - chara:
     - id: 101152
     nameRight: Kaede
-    textRight: Alina once told her that her drawing skills@weren't catastrophic,
+    textRight: Alina once told her that her drawing skills@weren't catastrophic.
   - chara:
     - id: 101152
       motion: 200
     nameRight: Kaede
-    textRight: So she thought that if she improved her drawing@skills,
+    textRight: So she thought that if she improved her drawing@skills...
   - chara:
     - id: 101152
     nameRight: Kaede
@@ -486,7 +486,7 @@ story:
       id: 100651
       motion: 1
     nameLeft: Mifuyu
-    textLeft: Why is Kaede in an out of season outfit?
+    textLeft: Why is Kaede in an out-of-season outfit?
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -507,7 +507,7 @@ story:
     - id: 101152
       motion: 100
     nameRight: Kaede
-    textRight: Since this was a big opportunity for her,
+    textRight: Since this was a big opportunity for her...
   - chara:
     - id: 101152
     nameRight: Kaede
@@ -559,11 +559,11 @@ story:
       id: 110702
       motion: 0
     nameRight: Nemu
-    textRight: The reason Kamihama is in the state it's in now,
+    textRight: The reason Kamihama is in the state it's in now...
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: And why these girls have had their peaceful@everyday lives taken away,
+    textRight: And why these girls have had their peaceful@everyday lives taken away...
   - chara:
     - id: 110702
     nameRight: Nemu

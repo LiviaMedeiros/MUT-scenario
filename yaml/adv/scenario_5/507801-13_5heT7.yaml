@@ -159,8 +159,8 @@ story:
     narrationBg: bg_adv_19021.jpg
     narrationEffect: in
   - narration: But as Ruri made serious preparations@to elope after her initial failure
-      to convince him,@her great-uncle was swayed by her determination,
-  - narration: and had no choice but to reluctantly@approve of the marriage...
+      to convince him,@her great-uncle was swayed by her determination...
+  - narration: '...and had no choice but to reluctantly@approve of the marriage...'
   - autoTurnLast: 1.5
     bgm: stop
     chara:
@@ -206,11 +206,11 @@ story:
       celebratory mood, as well.
   - chara:
     - id: 304001
-    textLeft: Perhaps Tsukihiko and Ruri would overcome the@fetters of the past,
+    textLeft: Perhaps Tsukihiko and Ruri would overcome the@fetters of the past...
   - chara:
     - id: 304001
       motion: 400
-    textLeft: and usher in a new era...@That's what they were all dreaming of.
+    textLeft: '...and usher in a new era...@That''s what they were all dreaming of.'
   - autoTurnLast: 0.25
     chara:
     - id: 303501

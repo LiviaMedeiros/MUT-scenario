@@ -74,10 +74,10 @@ story:
   - chara:
     - id: 810000
     textRight: Mm-hm. That said, though, she was only a young girl@who dreamed of
-      romance,
+      romance...
   - chara:
     - id: 810000
-    textRight: As opposed to a dedicated literati like yourself.
+    textRight: '...as opposed to a dedicated literati like yourself.'
   - chara:
     - id: 304001
       lipSynch: 0
@@ -100,13 +100,13 @@ story:
     textLeft: Up to a certain point?
   - chara:
     - id: 810000
-    textRight: Ruri's novel did end in tragedy,
+    textRight: Ruri's novel did end in tragedy.
   - chara:
     - id: 810000
     textRight: But it was a tragedy of a different sort than what@ultimately happened.
   - chara:
     - id: 810000
-    textRight: Ruri realized that the events around them were@following her storyline,
+    textRight: Ruri realized that the events around them were@following her storyline.
   - chara:
     - id: 810000
     textRight: And thus, she destroyed the original manuscript@by herself.
@@ -209,7 +209,7 @@ story:
     turnEffect: stop
   - chara:
     - id: 810000
-    textRight: Ruri succeeded in destroying the manuscript,@but in exchange,
+    textRight: Ruri succeeded in destroying the manuscript,@but in exchange...
     turnChangeOut: fadeOut
   - chara:
     - id: 810000
@@ -237,7 +237,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 304001
       motion: 300
-    textLeft: She thus became convinced that if Tsukihiko's@memory returned,
+    textLeft: She thus became convinced that if Tsukihiko's@memory returned...
   - chara:
     - id: 304001
     textLeft: His heart would no longer be hers...
@@ -340,16 +340,16 @@ story:
     turnEffect: stop
   - chara:
     - id: 304001
-    textLeft: With her heart having been in tatters ever since@she destroyed the script,
+    textLeft: With her heart having been in tatters ever since@she destroyed the script...
     turnChangeOut: fadeOut
   - chara:
     - id: 304001
-    textLeft: Ruri couldn't bear the terror of having to lose@Tsukihiko one day,
+    textLeft: Ruri couldn't bear the terror of having to lose@Tsukihiko one day...
   - chara:
     - id: 304001
       motion: 300
-    textLeft: And brought an end to their ephemeral happiness@before it had the chance
-      to leave her...
+    textLeft: '...and brought an end to their ephemeral happiness@before it had the
+      chance to leave her...'
   - chara:
     - id: 810000
     textRight: Mm-hm.
@@ -430,20 +430,20 @@ story:
     textRight: A very keen observation.
   - chara:
     - id: 810000
-    textRight: If Ruri's personality emerges strongly enough to@overcome your magic,
+    textRight: If Ruri's personality emerges strongly enough to@overcome your magic...
   - chara:
     - id: 810000
-    textRight: It's quite likely that she'll act in a different way@entirely.
+    textRight: '...it''s quite likely that she''ll act in a different way@entirely.'
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_020.exp.json
       id: 304001
       motion: 100
-    textLeft: Right. So first, I'm going to closely follow Komachi,
+    textLeft: Right. So first, I'm going to closely follow Komachi...
   - chara:
     - id: 304001
-    textLeft: And protect both her and Mihono.
+    textLeft: '...and protect both her and Mihono.'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

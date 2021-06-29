@@ -261,7 +261,7 @@ story:
       motion: 100
       pos: 1
     nameCenter: Ikumi
-    textCenter: Here we gooo~♪
+    textCenter: '[chara:305302:effect_emotion_joy_0][se:7222_happy]Here we gooo~♪'
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json

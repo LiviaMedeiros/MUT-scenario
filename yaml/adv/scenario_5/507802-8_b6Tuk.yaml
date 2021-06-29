@@ -56,10 +56,10 @@ story:
       face: mtn_ex_000.exp.json
       id: 101403
       motion: 300
-    textRight: It bears some similarities to my magic,
+    textRight: It bears some similarities to my magic...
   - chara:
     - id: 101403
-    textRight: In that it manifests a story based upon a rough@outline.
+    textRight: '...in that it manifests a story based upon a rough@outline.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -193,7 +193,7 @@ story:
     - id: 101403
       motion: 0
     textRight: Additionally, in exchange for consuming only a small@amount of magic
-      energy,
+      energy...
   - chara:
     - id: 101403
     textRight: Your magic seems to activate involuntarily— that is,@at an extremely
@@ -383,10 +383,10 @@ story:
     textRight: She's right.
   - chara:
     - id: 101403
-    textRight: Unless you were writing a story about real,@currently-living people,
+    textRight: Unless you were writing a story about real,@currently-living people...
   - chara:
     - id: 101403
-    textRight: There would be no way for your "kotodama" power@to take effect.
+    textRight: '...there would be no way for your "kotodama"@power to take effect.'
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -551,7 +551,7 @@ story:
       Coordinator's shop...
   - chara:
     - id: 101403
-    textRight: And as a result of the "stage direction" and@"kotodama" magic activating,
+    textRight: And as a result of the "stage direction" and@"kotodama" magic activating...
   - chara:
     - eyeClose: 1
       id: 101403
@@ -620,7 +620,7 @@ story:
     textLeft: '...Sounds complicated.'
   - chara:
     - id: 101403
-    textRight: Quite. I simplified a lot of it for my explanation@just now,
+    textRight: Quite. I simplified a lot of it for my explanation@just now.
   - chara:
     - id: 101403
     textRight: But since there's several types of magic at work,@it's difficult to

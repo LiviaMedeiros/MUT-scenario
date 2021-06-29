@@ -33,7 +33,7 @@ story:
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: Oh, you’re such a cute shopkeeper.@Perhaps I should buy a little something?
+    textRight: Oh, you're such a cute shopkeeper.@Perhaps I should buy a little something?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -91,7 +91,7 @@ story:
       id: 303501
       motion: 100
       pos: 0
-    textLeft: Oh, it won’t fit in a bag that size.
+    textLeft: Oh, it won't fit in a bag that size.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -148,7 +148,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Riko
-    textRight: They’re in the drawer.
+    textRight: They're in the drawer.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -240,13 +240,13 @@ story:
       pos: 2
     nameRight: Ui
     textRight: You worked very hard, Mikage.
-  - textRight: You’re getting better and better at customer service.
+  - textRight: You're getting better and better at customer service.
   - chara:
     - cheek: 0
       face: mtn_ex_041.exp.json
       id: 101501
       motion: 300
-    textRight: I wasn’t even close, hehe...
+    textRight: I wasn't even close, hehe...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -268,7 +268,7 @@ story:
   - chara:
     - id: 103801
       motion: 1
-    textLeft: '...For all the help you’ve given me.'
+    textLeft: '...For all the help you''ve given me.'
   - textLeft: You encouraged me when I failed...
   - chara:
     - id: 103801
@@ -327,7 +327,7 @@ story:
       id: 103801
       motion: 0
     nameLeft: Mikage
-    textLeft: I’m trying to make friends.
+    textLeft: I'm trying to make friends.
   - textLeft: I've met a few Magical Girls, and...
   - chara:
     - id: 103801
@@ -368,7 +368,7 @@ story:
     - eyeClose: 1
       id: 101501
     nameRight: Ui
-    textRight: So we don’t want to make people sad!
+    textRight: So we don't want to make people sad!
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -444,15 +444,15 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 103801
-    nameRight: Riko's voice
-    textRight: Mikage! Let’s go!
+    nameRight: Riko's Voice
+    textRight: Mikage! Let's go!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103801
       motion: 400
     nameCenter: Mikage
-    textCenter: Yeah, I’ll be right there!
+    textCenter: Yeah, I'll be right there!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

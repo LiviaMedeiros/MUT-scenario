@@ -141,7 +141,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 300701
       motion: 401
-    textRight: Th, this?@In this photo, Mami's costume?
+    textRight: Th-this?@In this photo, Mami's costume?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -221,7 +221,7 @@ story:
     textLeft: It's fine, it's fine!@A public relations person said...
   - chara:
     - id: 301901
-    textLeft: On the day of the event sweets would be given out.
+    textLeft: On the day of the event, sweets would be given out.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -267,7 +267,7 @@ story:
     - id: 301950
       motion: 100
     nameRight: Ayaka
-    textRight: How was it!? Our double act comedy?
+    textRight: How was it?! Our double act comedy?
     turnChangeOut: fadeOut
   - chara:
     - id: 304601
@@ -328,7 +328,7 @@ story:
   - chara:
     - id: 304601
       motion: 400
-    textCenter: To be honest, I don't really know anything about comedy, but,
+    textCenter: To be honest, I don't really know anything about@comedy, but...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

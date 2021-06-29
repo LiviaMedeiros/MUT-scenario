@@ -25,7 +25,7 @@ story:
   - chara:
     - id: 103801
       lipSynch: 0
-    textCenter: (I still don’t want to go home.)
+    textCenter: (I still don't want to go home.)
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -56,12 +56,12 @@ story:
       motion: 0
       pos: 1
     nameCenter: Mikage
-    textCenter: '...It’s Kanotan.'
+    textCenter: '...It''s Kanotan.'
   - chara:
     - id: 103801
       lipSynch: 0
       motion: 200
-    textCenter: (I think she lives in Kosho ward...)
+    textCenter: (I think she lives in Kosho Ward...)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -75,7 +75,7 @@ story:
       id: 103801
       motion: 400
     nameCenter: Mikage
-    textCenter: '...I don’t mind going out to play for a bit!'
+    textCenter: '...I don''t mind going out to play for a bit!'
   - autoTurnLast: 1
     bg: bg_adv_16102.jpg
     bgm: stop
@@ -123,7 +123,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: Kanoko
-    textCenter: Who’s there...?
+    textCenter: Who's there...?
   - chara:
     - id: 300101
       motion: 300
@@ -154,23 +154,23 @@ story:
       face: mtn_ex_020.exp.json
       id: 103801
     nameRight: Mikage
-    textRight: I’m not me...
+    textRight: I'm not me...
   - chara:
     - cheek: 0
       id: 103801
       motion: 400
-    textRight: Um...@I’m a cuddly panda!
+    textRight: Um...@I'm a cuddly panda!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300101
       motion: 1
       pos: 0
-    textLeft: '...You can’t hide behind that stuffed animal.'
+    textLeft: '...You can''t hide behind that stuffed animal.'
   - chara:
     - eyeClose: 1
       id: 103801
-    textRight: It’s a panda...!
+    textRight: It's a panda...!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -191,16 +191,16 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300101
-    textLeft: '...Well, I’ll forgive you for following me, but I dunno@what I can
+    textLeft: '...Well, I''ll forgive you for following me, but I dunno@what I can
       do for you.'
   - chara:
     - id: 300101
       motion: 100
-    textLeft: I’ve got things to do, so I can’t stick around...
+    textLeft: I've got things to do, so I can't stick around...
   - chara:
     - id: 103801
       motion: 1
-    textRight: I won’t bother you...!
+    textRight: I won't bother you...!
   - chara:
     - id: 300101
       motion: 0
@@ -208,7 +208,7 @@ story:
   - chara:
     - id: 103801
       motion: 0
-    textRight: '...I don’t want to go home.'
+    textRight: '...I don''t want to go home.'
   - chara:
     - cheek: 0
       id: 300101
@@ -219,17 +219,17 @@ story:
       face: mtn_ex_020.exp.json
       id: 103801
       motion: 300
-    textRight: I don't care what my sister thinks...
+    textRight: I don't care what my sis thinks...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300101
       motion: 300
-    textLeft: '...No way, you ran away?@I’ve never seen that before in real life...'
+    textLeft: '...No way, you ran away?@I''ve never seen that before in real life...'
   - chara:
     - id: 103801
       motion: 400
-    textRight: No, I didn’t run away!@I just don’t want to go home.
+    textRight: No, I didn't run away!@I just don't want to go home.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -252,7 +252,7 @@ story:
       id: 103801
       motion: 0
     textRight: What?
-  - textLeft: I’m preparing for a workshop this weekend.
+  - textLeft: I'm preparing for a workshop this weekend.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -270,7 +270,7 @@ story:
       motion: 1
     textLeft: It's important to make sure that even elementary@school kids can do
       it.
-  - textLeft: Let’s start with the metal fittings...
+  - textLeft: Let's start with the metal fittings...
   - autoTurnLast: 2
     chara:
     - cheek: 0
@@ -354,19 +354,19 @@ story:
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 300
-    textRight: Hey, Kanotan, don’t you want a little sister?
+    textRight: Hey, Kanotan, don't you want a little sister?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300101
       motion: 0
       pos: 0
-    textLeft: What’s this all of a sudden?
+    textLeft: What's this all of a sudden?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300101
-    textLeft: I’d rather have an older brother.
+    textLeft: I'd rather have an older brother.
   - chara:
     - id: 300101
       motion: 400
@@ -399,8 +399,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 103801
       motion: 400
-    textRight: So you should be my big sister...!
-  - nameCenter: Mitama’s voice
+    textRight: So you should be my big sis...!
+  - nameCenter: Mitama's voice
     textCenter: '...Mii, I finally found you...'
   - autoTurnLast: 0.2
     chara:
@@ -417,7 +417,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Mikage
-    textLeft: Huh...Big Sis?@How come you’re here?
+    textLeft: Huh...Sis?@How come you're here?
   - chara:
     - id: 101701
       motion: 200
@@ -437,7 +437,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Kanoko
-    textLeft: No, it wasn’t much of a bother. Don’t worry about it.
+    textLeft: No, it wasn't much of a bother. Don't worry about it.
   - chara:
     - id: 101701
       motion: 0
@@ -455,7 +455,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 101701
       pos: 2
-    textRight: Mii, I’m going to lecture you when we get home,@okay?
+    textRight: Mii, I'm going to lecture you when we get home,@okay?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -499,7 +499,7 @@ story:
   - chara:
     - id: 300101
       motion: 400
-    textLeft: My dad’s the same way...
+    textLeft: My dad's the same way...
   - textLeft: And when he scolds me, it's because he's doing it@for my own good.
   - chara:
     - cheek: 0

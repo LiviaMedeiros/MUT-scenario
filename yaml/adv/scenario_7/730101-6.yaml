@@ -223,7 +223,7 @@ story:
       pos: 0
       tear: 1
     nameRight: Yachiyo
-    textRight: I would be thrilled if we could continue being rivals
+    textRight: I would be thrilled if we could continue being rivals,
   - chara:
     - id: 100205
       motion: 100
@@ -290,7 +290,7 @@ story:
       id: 301050
       lipSynch: 0
     nameLeft: Ria
-    textLeft: (I have quite a ways to go, my days as a professional @have only just
+    textLeft: (I have quite a ways to go. My days as a professional @have only just
       begun!)
   - chara:
     - cheek: 0
@@ -329,7 +329,7 @@ story:
     - id: 303201
       motion: 400
     nameRight: Mayu
-    textRight: Amazing! The final installment of the Valentine's Day @special
+    textRight: Amazing! The final installment of the Valentine's Day @special...
     turnChangeOut: fadeOut
     turnChangeOutTime: 1
   - chara:
@@ -337,7 +337,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 303201
     nameRight: Mayu
-    textRight: was all about you, Ria!
+    textRight: '...was all about you, Ria!'
   - chara:
     - id: 300901
       motion: 100
@@ -391,7 +391,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Manaka
-    textRight: Well, hey, I guess it's like what Yachiyo said
+    textRight: Well, hey, I guess it's like what Yachiyo said.
   - chara:
     - id: 300901
       motion: 200
@@ -423,15 +423,15 @@ story:
     bg: bg_adv_narration.jpg
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: In a nutshell, this year's Acorn-Walnut Wars ended
+    narration: In a nutshell, this year's Acorn-Walnut Wars ended...
     narrationBg: ""
     narrationCoverOpacity: 160
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: with Team Walnut pulling off quite a dramatic victory!
+  - narration: '...with Team Walnut pulling off quite a dramatic victory!'
   - narration: It was a Valentine's Day battle like never before.
-  - narration: And that means the winner @of the first BiBi model showdown was
-  - narration: the representative for Chocolate Forest Walnut- the one and only Riko
+  - narration: And that means the winner @of the first BiBi model showdown was...
+  - narration: the representative for Chocolate Forest Walnut,@the one and only Riko
       Ami!
   - autoTurnLast: 0.01
     bg: white
@@ -464,7 +464,7 @@ story:
   - chara:
     - id: 303201
     nameRight: Mayu
-    textRight: '[textRed:Riko...?]'
+    textRight: '[textRed:Riko]...?'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0

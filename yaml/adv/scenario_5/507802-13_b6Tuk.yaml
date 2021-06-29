@@ -231,10 +231,10 @@ story:
       face: mtn_ex_030.exp.json
       id: 303801
       motion: 300
-    textLeft: Maybe the "Ruri" persona has access to Mihono's@knowledge,
+    textLeft: Maybe the "Ruri" persona has access to Mihono's@knowledge...
   - chara:
     - id: 303801
-    textLeft: Even while she's the one in control?
+    textLeft: '...even while she''s the one in control?'
   - chara:
     - eyeClose: 1
       id: 304001
@@ -243,7 +243,7 @@ story:
       for one thing.'
   - chara:
     - id: 304001
-    textRight: And back when you were investigating the incident@as if possessed,
+    textRight: And back when you were investigating the incident@as if possessed...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -283,7 +283,7 @@ story:
     narrationEffect: in
   - narration: <Kosho School>
     turnChangeOut: fadeOut
-  - narration: <Historical Research Club - Provisional room>
+  - narration: <Historical Research Club - Provisional Room>
   - autoTurnLast: 0.01
     narrationEffect: out
     turnChangeIn: fadeIn
@@ -318,13 +318,13 @@ story:
       face: mtn_ex_030.exp.json
       id: 303801
       motion: 100
-    textLeft: Mihono's got a copy of the key,
+    textLeft: Mihono's got a copy of the key...
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
       id: 303801
-    textLeft: So I was feeling nervous that she might be in here,@but...
+    textLeft: '...so I was feeling nervous that she might be@in here, but...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -400,7 +400,7 @@ story:
     chara:
     - id: 303801
       motion: 1
-    textLeft: Yeah, I mean—@my Tsukihiko costume is still here,
+    textLeft: Yeah, I mean—@my Tsukihiko costume is still here.
   - chara:
     - id: 303801
     textLeft: But as for Ruri's...

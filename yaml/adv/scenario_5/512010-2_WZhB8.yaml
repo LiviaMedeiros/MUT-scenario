@@ -113,7 +113,7 @@ story:
     - id: 110702
       motion: 200
     nameRight: Nemu
-    textRight: If the current time matches the time written in@this diary,
+    textRight: If the current time matches the time written in@this diary...
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -244,7 +244,7 @@ story:
     - id: 110702
       motion: 400
     nameRight: Nemu
-    textRight: '*Giggle* I knew it would make you curious,'
+    textRight: '*Giggle* I knew it would make you curious.'
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -289,7 +289,7 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: If this is also as Nemu says,
+    textLeft: If this is also as Nemu says...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

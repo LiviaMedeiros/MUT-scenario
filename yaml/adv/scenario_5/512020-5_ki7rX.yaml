@@ -94,11 +94,11 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: We were able to make contact with those children,
+    textRight: We were able to make contact with those children.
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: We retied their frayed bonds,
+    textRight: We retied their frayed bonds.
   - chara:
     - id: 110702
       motion: 200
@@ -116,7 +116,7 @@ story:
     - id: 110702
       motion: 0
     nameLeft: Touka
-    textLeft: While we were fixated on time paradoxes,
+    textLeft: While we were fixated on time paradoxes...
   - chara:
     - id: 110701
     nameLeft: Touka
@@ -281,7 +281,7 @@ story:
     - id: 110702
       motion: 200
     nameRight: Nemu
-    textRight: Therefore, what we see next will be,
+    textRight: Therefore, what we see next will be...
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -304,7 +304,7 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: This mysterious phenomenon that dragged us@into this,
+    textLeft: This mysterious phenomenon that dragged us@into this...
   - chara:
     - id: 110701
       motion: 400

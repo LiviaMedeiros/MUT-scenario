@@ -15,7 +15,7 @@ story:
     - id: 103801
       motion: 100
     nameCenter: Mikage
-    textCenter: I’m off!
+    textCenter: I'm off!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -52,7 +52,7 @@ story:
     - id: 101701
       motion: 300
     nameRight: Mitama
-    textRight: I won’t be mad. Just tell me...
+    textRight: I won't be mad. Just tell me...
   - chara:
     - eyeClose: 1
       id: 101701
@@ -72,7 +72,7 @@ story:
     - id: 103801
       motion: 0
     nameLeft: Mikage
-    textLeft: '...I’m going to play with Rikotan and Uitan.'
+    textLeft: '...I''m going to play with Rikotan and Uitan.'
   - chara:
     - id: 101701
       motion: 0
@@ -121,7 +121,7 @@ story:
     - id: 101701
       motion: 100
     textRight: But for now, just for now...
-  - textRight: Don’t meet up with anyone from the Union...
+  - textRight: Don't meet up with anyone from the Union...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -147,7 +147,7 @@ story:
       id: 101701
       motion: 300
     nameRight: Mitama
-    textRight: Sorry...@I’m really sorry...
+    textRight: Sorry...@I'm really sorry...
   - chara:
     - eyeClose: 1
       id: 103801
@@ -184,7 +184,7 @@ story:
       id: 101701
     nameNarration: Riko
     narration: The older@Magical Girls also told me@that I should be more careful,@but
-      they didn’t say why...
+      they didn't say why...
   - chara:
     - id: 103801
       lipSynch: 0
@@ -209,7 +209,7 @@ story:
   - autoTurnLast: 0.2
     narrationEffect: out
   - nameNarration: Ui
-    narration: I won’t be able to come play for a while.
+    narration: I won't be able to come play for a while.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     narrationHAlignment: left
@@ -242,7 +242,7 @@ story:
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - nameNarration: Kyubey
-    narration: —Kyubey—@That’s right.
+    narration: —Kyubey—@That's right.
   - narration: —Kyubey—@With circumstances like hers,@it's no wonder she made that
       wish.
   - nameNarration: Mikage
@@ -251,7 +251,7 @@ story:
   - nameNarration: Kyubey
     narration: —Kyubey—@Yeah, I'll grant you any wish you want.
   - nameNarration: Mikage
-    narration: —Mikage—@Then, I’ll...
+    narration: —Mikage—@Then, I'll...
   - autoTurnLast: 1
     bg: bg_adv_17111.jpg
     chara:
@@ -269,7 +269,7 @@ story:
   - chara:
     - id: 103801
       lipSynch: 0
-    textCenter: (From the moment I learned my sister’s wish...)
+    textCenter: (From the moment I learned my sis's wish...)
     turnChangeOut: fadeOut
   - chara:
     - id: 103801

@@ -522,7 +522,7 @@ story:
       id: 303201
       pos: 2
     nameRight: Mayu
-    textRight: It's true. It's just...I noticed that the way Yachiyo @walks and poses
+    textRight: It's true. It's just...I noticed that the way Yachiyo @walks and poses...
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -530,7 +530,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Mayu
-    textRight: looks just like how Ria does it.
+    textRight: '...looks just like how Ria does it.'
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -585,7 +585,7 @@ story:
       id: 301050
       lipSynch: 0
     nameCenter: Ria
-    textCenter: (It's so hard to believe)
+    textCenter: (It's so hard to believe...)
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -593,7 +593,7 @@ story:
       id: 301050
       lipSynch: 0
     nameCenter: Ria
-    textCenter: (that soon, she and I will be competing @on the same stage...!)
+    textCenter: (...that soon, she and I will be competing @on the same stage...!)
   - chara:
     - id: 301050
       lipSynch: 0
@@ -887,7 +887,7 @@ story:
       lipSynch: 0
       motion: 200
     nameCenter: Ria
-    textCenter: (This will be the day I overcome Yachiyo and @reach the top?!)
+    textCenter: (This will be the day I overcome Yachiyo and @reach the top!)
   - bgm: stop
     chara:
     - cheek: 0

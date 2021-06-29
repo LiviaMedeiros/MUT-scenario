@@ -136,7 +136,7 @@ story:
   - chara:
     - id: 110701
     nameLeft: Touka
-    textLeft: Regarding the mystery of this strange, hidden@power within the diary,
+    textLeft: Regarding the mystery of this strange, hidden@power within the diary...
   - chara:
     - id: 110701
     nameLeft: Touka
@@ -184,11 +184,11 @@ story:
       id: 110702
       motion: 0
     nameRight: Nemu
-    textRight: I will, one way or another,
+    textRight: I will, one way or another...
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: Tell Mii about the move.
+    textRight: '...tell Mii about the move.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -221,7 +221,7 @@ story:
     - id: 110702
       motion: 0
     nameLeft: Touka
-    textLeft: Being able to give things to people, or to retie@their bonds,
+    textLeft: Being able to give things to people, or to retie@their bonds...
   - chara:
     - id: 110701
     nameLeft: Touka
@@ -237,7 +237,7 @@ story:
     - id: 110701
       motion: 0
     nameLeft: Touka
-    textLeft: Without both Mii and Kuu,
+    textLeft: Without both Mii and Kuu...
   - chara:
     - id: 110701
     nameLeft: Touka

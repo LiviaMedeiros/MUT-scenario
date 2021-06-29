@@ -16,12 +16,12 @@ story:
       pos: 0
     turnChangeIn: fadeIn
   - bgm: bgm03_story01
-    nameCenter: Kanoko’s voice
+    nameCenter: Kanoko's voice
     textCenter: Mikage!@It looks great on you!
     turnChangeOut: fadeOut
-  - nameCenter: Kanoko’s voice
+  - nameCenter: Kanoko's voice
     textCenter: Turn around a little.
-  - nameCenter: Mikage’s voice
+  - nameCenter: Mikage's voice
     textCenter: Like this?
   - chara:
     - id: 300401
@@ -86,8 +86,8 @@ story:
   - chara:
     - id: 300101
       motion: 1
-    textLeft: It’s nice to make small clothes, but...
-  - textLeft: I didn’t have any kids to model them!
+    textLeft: It's nice to make small clothes, but...
+  - textLeft: I didn't have any kids to model them!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -136,14 +136,14 @@ story:
       motion: 1
     textLeft: Everyone knows a lot about fashion, and the things@they talk about are
       interesting...
-  - textLeft: I’ll come back here to play.
+  - textLeft: I'll come back here to play.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 302001
       motion: 100
     nameRight: Himika
-    textRight: Yeah, I’m glad you made friends!
+    textRight: Yeah, I'm glad you made friends!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -155,7 +155,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 302001
-    textRight: Hmm, what’s the matter?
+    textRight: Hmm, what's the matter?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -167,19 +167,19 @@ story:
       face: mtn_ex_030.exp.json
       id: 302001
       motion: 300
-    textRight: I think it’s fine, but why do you ask?
+    textRight: I think it's fine, but why do you ask?
   - chara:
     - id: 103801
       motion: 100
     textLeft: Because...Kanotan is about the same age as my@sister.
-  - textLeft: It’s like she was playing with me because I’m@younger than her.
+  - textLeft: It's like she was playing with me because I'm@younger than her.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302001
       motion: 1
       pos: 2
-    textRight: Hmm, I don’t think that’s the case...
+    textRight: Hmm, I don't think that's the case...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -197,15 +197,15 @@ story:
       id: 302001
       motion: 100
     textRight: 'The same age as you... '
-  - textRight: Riko is a magical girl in elementary school...
-  - textRight: 'And then there’s Iroha’s sister, Ui... '
+  - textRight: Riko is a Magical Girl in elementary school...
+  - textRight: 'And then there''s Iroha''s sister, Ui... '
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302001
       motion: 400
     textRight: And the amazing geniuses, Touka and Nemu...
-  - textRight: I think they’re around your age.
+  - textRight: I think they're around your age.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -216,12 +216,12 @@ story:
       lipSynch: 0
       motion: 300
     nameLeft: Mikage
-    textLeft: (...I don’t think they’ll be on the same page as me.)
+    textLeft: (...I don't think they'll be on the same page as me.)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103801
-    textLeft: '...I’ll think about it for a bit.'
+    textLeft: '...I''ll think about it for a bit.'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -240,7 +240,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story08
     nameRight: Mikage
-    textRight: I’m baack...
+    textRight: I'm baack...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -255,7 +255,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 103801
       motion: 100
-    textRight: Hey, Sis, you’re early today.
+    textRight: Hey, Sis, you're early today.
   - chara:
     - id: 101701
       motion: 300
@@ -291,7 +291,7 @@ story:
     - id: 103801
       motion: 0
     textLeft: Um, Mii...
-  - textLeft: I don’t think you should see Himika for a while.
+  - textLeft: I don't think you should see Himika for a while.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -304,7 +304,7 @@ story:
       id: 101701
       motion: 400
     textLeft: To tell you the truth...
-  - textLeft: A magical girl named Ui has been kidnapped.
+  - textLeft: A Magical Girl named Ui has been kidnapped.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -314,7 +314,7 @@ story:
   - chara:
     - id: 101701
       motion: 0
-    textLeft: That’s right...
+    textLeft: That's right...
   - textLeft: The culprit is a group called the Promised Blood.
   - chara:
     - eyeClose: 1
@@ -332,9 +332,9 @@ story:
       id: 101701
       motion: 0
     nameLeft: Mitama
-    textLeft: 'I really don’t want to say this, but... '
+    textLeft: 'I really don''t want to say this, but... '
   - textLeft: Stay away from the members of the Kamihama@Magia Union as much as possible.
-  - textLeft: And don’t tell anyone that you’re a Magical Girl.
+  - textLeft: And don't tell anyone that you're a Magical Girl.
   - chara:
     - id: 101701
       motion: 300

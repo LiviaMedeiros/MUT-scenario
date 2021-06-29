@@ -147,7 +147,7 @@ story:
       id: 101701
       motion: 0
     nameCenter: Mikage's Voice
-    textCenter: Siiiiis
+    textCenter: Siiiiis!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -264,7 +264,7 @@ story:
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - nameNarration: Mitama
-    narration: —Mitama—@*Chuckles* Well?
+    narration: —Mitama—@*Chuckle* Well?
   - nameNarration: Mikage
     narration: —Mikage—@This is, Mii...right?
   - nameNarration: Mitama
@@ -278,7 +278,7 @@ story:
   - nameNarration: Mitama
     narration: —Mitama—@*Giggle* I'm a Magical Girl, but...@you know makeup isn't
       magic, right?
-  - narration: —Mitama—@'Kay, next is Sudachii.@I'll make you cute too.
+  - narration: —Mitama—@'Kay, next is Sudachi~.@I'll make you cute too.
   - autoTurnLast: 3
     bg: bg_adv_17111.jpg
     chara:
@@ -369,7 +369,7 @@ story:
       id: 101701
       motion: 0
     nameLeft: Mitama
-    textLeft: Huuh, why now...?
+    textLeft: Huh, why now...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -418,7 +418,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101701
       motion: 0
-    textCenter: '...Now then, I also need to get to the Adjuster''s shop.'
+    textCenter: '...Now then, I also need to get to the@Coordinator''s shop.'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

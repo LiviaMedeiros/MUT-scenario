@@ -160,7 +160,7 @@ story:
     narrationCoverOpacity: 160
     narrationEffect: in
     turnChangeIn: fadeIn
-  - narration: and settled on our cast listing.
+  - narration: And settled on our cast listing.
     turnChangeOut: fadeOut
   - bgm: bgm03_story19
     chara:
@@ -236,11 +236,11 @@ story:
     - eyeClose: 0
       id: 304001
     textLeft: But I never imagined that the author would actually@be a Magical Girl
-      named Nemu Hiiragi,
+      named Nemu Hiiragi...
   - chara:
     - id: 304001
       motion: 100
-    textLeft: nor that she would introduce me to this, um...@"Uwasa" being.
+    textLeft: '...nor that she would introduce me to this, um...@"Uwasa" being.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -561,12 +561,13 @@ story:
   - chara:
     - id: 303801
       motion: 0
-    textLeft: We've already modernized the lead couple's outfits@a little bit, too,
+    textLeft: We've already modernized the lead couple's outfits@a little bit, too.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 303801
-    textLeft: so I feel like using today's uniforms as-is would be@just about perfect?
+    textLeft: So I feel like using today's uniforms as-is would be@just about perfect,
+      no?
   - autoTurnLast: 1
     bg: bg_adv_21541.jpg
     chara:

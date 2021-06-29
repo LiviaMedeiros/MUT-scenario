@@ -94,7 +94,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 103901
       motion: 0
-    textLeft: '...this store sells lots of accessories, right?'
+    textLeft: This store sells lots of accessories, right?
   - chara:
     - id: 103801
       motion: 100
@@ -266,7 +266,7 @@ story:
   - chara:
     - id: 103801
       motion: 300
-    textLeft: '...it''s impossible to narrow it all down...!'
+    textLeft: It's impossible to narrow it all down...!
   - nameLeft: Mikage
     textLeft: We don't have anywhere near enough money to@buy all of it...
   - chara:

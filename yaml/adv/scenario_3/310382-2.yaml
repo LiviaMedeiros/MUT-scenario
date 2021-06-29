@@ -45,12 +45,12 @@ story:
       motion: 1
       pos: 2
     nameRight: Ren
-    textRight: '...Mitama’s rumored little sister...'
+    textRight: '...Mitama''s rumored little sister...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302501
-    textRight: '...She has Mitama’s face...yes...'
+    textRight: '...She has Mitama''s face...yes...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -84,19 +84,19 @@ story:
       face: mtn_ex_050.exp.json
       id: 303101
       motion: 1
-    textRight: Mikage, you’re a Terapichi fan...
+    textRight: Mikage, you're a Terapichi fan...
   - textRight: I used to be a fan of Nicoteen.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 200
-    textLeft: I’m interested in Nicoteen but...
+    textLeft: I'm interested in Nicoteen but...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 103801
-    textLeft: I don’t get enough allowance money to buy two magazines.
+    textLeft: I don't get enough allowance money to buy two magazines.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -126,13 +126,13 @@ story:
       face: mtn_ex_050.exp.json
       id: 103801
       motion: 400
-    textLeft: Huh, is that okay?!@Let’s go!
+    textLeft: Huh, is that okay?!@Let's go!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 303101
       motion: 100
-    textRight: All right, let’s go!
+    textRight: All right, let's go!
   - autoTurnLast: 2
     bg: bg_adv_21401.jpg
     bgm: stop
@@ -152,7 +152,7 @@ story:
     chara:
     - id: 103801
       motion: 200
-    textLeft: '...You know, my sister is terrible!'
+    textLeft: '...You know, my sis is terrible!'
     turnChangeOut: fadeOut
   - textLeft: She told me not to meet up with any Magical Girls@from Kamihama!
   - chara:
@@ -163,7 +163,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
-    textRight: Oh, so that's why you came to the counseling center.
+    textRight: Oh, so that's why you came to the counseling room.
   - chara:
     - id: 103801
       motion: 400
@@ -198,11 +198,11 @@ story:
       motion: 1
       pos: 2
     nameRight: Ren
-    textRight: '...What’s wrong?'
+    textRight: '...What''s wrong?'
   - chara:
     - id: 103801
       motion: 0
-    textLeft: I didn’t bring my wallet...
+    textLeft: I didn't bring my wallet...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -374,7 +374,7 @@ story:
       id: 103801
       motion: 200
     textLeft: I want those Mocha Bunny and Corner-Cub Panda@plushies!
-  - textLeft: Let’s play the crane game.
+  - textLeft: Let's play the crane game.
   - autoTurnLast: 1
     chara:
     - effect: slideOutLeftFast
@@ -398,7 +398,7 @@ story:
       motion: 300
     nameRight: Ren
     textRight: '...Hmm...?'
-  - nameCenter: Mikage’s voice
+  - nameCenter: Mikage's voice
     textCenter: Aah!@I was so close!
   - chara:
     - cheek: 0
@@ -474,7 +474,7 @@ story:
     - id: 103801
       motion: 200
     nameLeft: Mikage
-    textLeft: Aah, that was fun!
+    textLeft: Ahhh, that was fun!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -488,7 +488,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Rika
-    textRight: I’m the one who got them.
+    textRight: I'm the one who got them.
   - autoTurnLast: 0.2
     chara:
     - id: 303101
@@ -529,27 +529,27 @@ story:
       face: mtn_ex_011.exp.json
       id: 103801
       motion: 400
-    textLeft: '...No, big sister Rika!'
+    textLeft: '...No, Big Sis Rika!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
       motion: 400
     nameRight: Rika
-    textRight: What’s this all of a sudden?
+    textRight: What's this all of a sudden?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 100
-    textLeft: Big sister Rika, you’re so kind and caring to me...
-  - textLeft: You should be my big sister!
+    textLeft: Big Sis Rika, you're so kind and caring to me...
+  - textLeft: You should be my sis!
   - chara:
     - cheek: 0
       id: 303101
       motion: 0
     nameRight: Rika
-    textRight: What? I can’t...
+    textRight: What? I can't...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -562,7 +562,7 @@ story:
       id: 303101
       motion: 200
     nameRight: Rika
-    textRight: That isn’t something you can just decide all of a sudden...
+    textRight: That isn't something you can just decide all of a sudden...
   - textRight: I'm not going to become your sister just because@you want me to.
   - chara:
     - cheek: 0
@@ -574,7 +574,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 303101
       motion: 400
-    textRight: I’ll help you if you need help.
+    textRight: I'll help you if you need help.
   - textRight: Can you try to meet Mitama in the middle a bit@more?
   - chara:
     - id: 103801
@@ -594,7 +594,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Ren
-    textRight: '...I’ll...see you later...'
+    textRight: '...I''ll...see you later...'
   - autoTurnLast: 1
     chara:
     - effect: fadeout

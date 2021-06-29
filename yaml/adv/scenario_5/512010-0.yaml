@@ -67,7 +67,7 @@ story:
       motion: 1
     nameRight: Nemu
     textRight: Well, anyway, given that there are two personal@book collections in
-      this room,
+      this room...
   - chara:
     - id: 101403
     nameRight: Nemu
@@ -104,7 +104,7 @@ story:
     - id: 100701
       mouthOpen: 0
     nameLeft: Touka
-    textLeft: 'As a genius, '
+    textLeft: 'As a genius... '
   - chara:
     - id: 100701
       pos: 0
@@ -155,7 +155,7 @@ story:
     - id: 101403
       motion: 0
     nameRight: Nemu
-    textRight: No, in this case I think Touka should be angry,
+    textRight: No, in this case I think Touka should be@angry...
   - chara:
     - id: 101403
       motion: 100

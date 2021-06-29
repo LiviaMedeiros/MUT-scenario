@@ -573,7 +573,7 @@ story:
       pos: 1
       voice: vo_char_1022_00_05
     nameCenter: Hikaru
-    textCenter: The First Sister is the only one I can get@passionate about.
+    textCenter: The Eldest Sister is the only one I can get@passionate about.
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: stop

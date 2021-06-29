@@ -36,7 +36,7 @@ story:
     - id: 110702
       motion: 0
     nameRight: Nemu
-    textRight: If our actions have created such a happy family,
+    textRight: If our actions have created such a happy family...
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -94,7 +94,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 110702
     nameRight: Nemu
-    textRight: 'Should we open to a new page while thinking in@our hearts, '
+    textRight: 'Should we open to a new page while thinking in@our hearts... '
   - chara:
     - id: 110702
       motion: 100
@@ -127,7 +127,7 @@ story:
   - chara:
     - id: 110702
     nameRight: Nemu
-    textRight: We wished to "see more of the future,"
+    textRight: We wished to "see more of the future."
   - chara:
     - id: 110702
       motion: 0
@@ -144,7 +144,7 @@ story:
       id: 110702
       motion: 200
     nameRight: Nemu
-    textRight: Because, even though we didn't know,
+    textRight: Because, even though we didn't know...
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -200,7 +200,7 @@ story:
     - id: 110702
       motion: 300
     nameRight: Nemu
-    textRight: Even if we return home like this,
+    textRight: Even if we return home like this...
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -225,7 +225,7 @@ story:
     - id: 110701
       motion: 100
     nameLeft: Touka
-    textLeft: See the results of her fate,
+    textLeft: See the results of her fate...
   - chara:
     - id: 110701
     nameLeft: Touka
@@ -256,7 +256,7 @@ story:
       id: 110702
       motion: 400
     nameRight: Nemu
-    textRight: If we know the results and regret them,
+    textRight: If we know the results and regret them...
   - chara:
     - id: 110702
     nameRight: Nemu

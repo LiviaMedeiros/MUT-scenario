@@ -47,13 +47,13 @@ story:
       motion: 1
       pos: 0
     nameLeft: Kanoko
-    textLeft: If it’s something serious, we’ll leave.
+    textLeft: If it's something serious, we'll leave.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 302001
       motion: 400
-    textRight: No, no! It’s nothing serious.
+    textRight: No, no! It's nothing serious.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -75,7 +75,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 302001
       motion: 200
-    textRight: Mitama’s little sister, Mikage!
+    textRight: Mitama's little sister, Mikage!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -146,19 +146,19 @@ story:
   - nameNarration: Sasara
     narration: —Sasara—@Now that you mention it...
   - nameNarration: Emiri
-    narration: —Emiri—@How old are you?@Are you Himika’s classmate?
+    narration: —Emiri—@How old are you?@Are you Himika's classmate?
   - nameNarration: Mikage
-    narration: '—Mikage—@Um, I’m in elementary school... '
+    narration: '—Mikage—@Um, I''m in elementary school... '
   - nameNarration: Sasara
     narration: —Sasara—@Wow, elementary school.@Do you want some candy?
   - nameNarration: Mikage
     narration: —Mikage—@Whoa, are you sure?
   - nameNarration: Asuka
-    narration: '—Asuka—@It’s only cheap though... '
+    narration: '—Asuka—@It''s only cheap though... '
   - nameNarration: Mikage
     narration: —Mikage—@I love candy!
   - nameNarration: Emiri
-    narration: —Emiri—@The candy is free,@so have as much as you’d like!
+    narration: —Emiri—@The candy is free,@so have as much as you'd like!
   - nameNarration: Mikage
     narration: —Mikage—@Yay!
   - autoTurnLast: 0.2
@@ -178,7 +178,7 @@ story:
     - id: 103801
       lipSynch: 0
     nameCenter: Mikage
-    textCenter: (Wow...@It seems like I’m popular!)
+    textCenter: (Wow...@It seems like I'm popular!)
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -191,7 +191,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 103801
       lipSynch: 0
-    textCenter: (My sister is amazing, after all!)
+    textCenter: (My sis is amazing, after all!)
   - autoTurnLast: 0.2
     chara:
     - id: 103801
@@ -211,13 +211,13 @@ story:
       id: 103801
       motion: 400
     nameRight: Mikage
-    textRight: I’m looking for Magical Girls to make friends with!
+    textRight: I'm looking for Magical Girls to make friends with!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300601
       motion: 400
-    textLeft: I mean, aren’t we your friends already?
+    textLeft: I mean, aren't we your friends already?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -236,7 +236,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300601
       motion: 200
-    textLeft: Me, Asukyan, Kanochin, Sasaran...
+    textLeft: Me, Asukyan, Kano-chin, Sasaran...
   - textLeft: We're pretty much besties, right?
   - chara:
     - cheek: 0
@@ -268,7 +268,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Asuka
-    textLeft: If you want to deepen your friendships, there’s a perfect way to do
+    textLeft: If you want to deepen your friendships, there's a perfect way to do
       it!
   - chara:
     - cheek: 0
@@ -282,13 +282,13 @@ story:
       id: 101301
       motion: 100
     textLeft: If you come to my dojo and we sweat together...
-  - textLeft: We’ll be tied together by a deep bond!
+  - textLeft: We'll be tied together by a deep bond!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 103801
       motion: 200
-    textRight: '...I don’t think I... '
+    textRight: '...I don''t think I... '
   - chara:
     - cheek: 0
       face: mtn_ex_042.exp.json
@@ -296,13 +296,13 @@ story:
       motion: 200
       pos: 2
     nameRight: Sasara
-    textRight: Asuka, don’t recruit girls you’ve never met before.
+    textRight: Asuka, don't recruit girls you've never met before.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101301
       motion: 300
-    textLeft: Uh...I don’t know what to talk about with an@elementary schooler...
+    textLeft: Uh...I don't know what to talk about with an@elementary schooler...
   - chara:
     - eyeClose: 1
       id: 101301
@@ -322,7 +322,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Emiri
-    textLeft: I like it too!@I knew it! We’re friends now!
+    textLeft: I like it too!@I knew it! We're friends now!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -343,7 +343,7 @@ story:
       pos: 0
     nameLeft: Kanoko
     textLeft: Hey!
-  - textLeft: I’m the one who should be talking about fashion!
+  - textLeft: I'm the one who should be talking about fashion!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -361,14 +361,14 @@ story:
       face: mtn_ex_050.exp.json
       id: 103801
       motion: 0
-    textRight: Wow, that’s amazing!
+    textRight: Wow, that's amazing!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300101
       motion: 1
     textLeft: '*Chuckle* Do you want to see my designs?'
-  - textLeft: Here, I’ve saved the images on my phone.
+  - textLeft: Here, I've saved the images on my phone.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -383,7 +383,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Sasara
-    textLeft: 'Uh, Mikage?@Kanoko’s designs are... '
+    textLeft: 'Uh, Mikage?@Kanoko''s designs are... '
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -409,7 +409,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Kanoko
-    textLeft: '*Chuckle* You’ve got a good eye!'
+    textLeft: '*Chuckle* You''ve got a good eye!'
   - textLeft: Hey, Mikage!@Want to try it on?
   - chara:
     - cheek: 0
@@ -420,9 +420,9 @@ story:
   - chara:
     - id: 300101
       motion: 200
-    textLeft: That’s right!
+    textLeft: That's right!
   - textLeft: I have a few sizes that will fit you.
-  - textLeft: Don’t be shy, okay?
+  - textLeft: Don't be shy, okay?
   - chara:
     - id: 103801
       motion: 1

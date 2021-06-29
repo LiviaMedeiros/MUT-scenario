@@ -355,11 +355,11 @@ story:
       motion: 200
     nameLeft: Mikura
     nameRight: Temari
-    textLeft: Well, somehow or another,
+    textLeft: Well, somehow or another...
     turnChangeOut: fadeOut
   - chara:
     - id: 303801
-    textLeft: Word of that has gotten around to other East-side@girls,
+    textLeft: Word of that has gotten around to other East-side@girls.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

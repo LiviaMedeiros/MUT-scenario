@@ -176,7 +176,7 @@ story:
     - id: 110702
       motion: 300
     nameRight: Nemu
-    textRight: We tied a bond,
+    textRight: We tied a bond...
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -204,7 +204,7 @@ story:
       id: 110702
       motion: 0
     nameRight: Nemu
-    textRight: However...we made her happy,
+    textRight: However...we made her happy.
   - chara:
     - id: 110702
     nameRight: Nemu
@@ -282,7 +282,7 @@ story:
   - chara:
     - id: 801600
     nameLeft: ""
-    textLeft: But, Mama had to move far away,
+    textLeft: But, Mama had to move far away...
   - chara:
     - id: 801600
     nameLeft: ""

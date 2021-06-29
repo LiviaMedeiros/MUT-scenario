@@ -264,7 +264,7 @@ story:
   - chara:
     - id: 101403
     nameRight: Nemu
-    textRight: But...as far as I remember,
+    textRight: But...as far as I remember...
     turnChangeOut: whiteOut
     turnChangeOutTime: 2
   - chara:
@@ -291,13 +291,13 @@ story:
     - id: 100701
       motion: 0
     nameLeft: Touka
-    textLeft: Is it okay...to put our faith in it?
+    textLeft: It is okay...to put our faith in it?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 101403
     nameRight: Nemu
-    textRight: '...That''s the reason we''re working so hard now...'
+    textRight: '...That''s the reason we''re working so hard now'
   - chara:
     - id: 101403
       motion: 100

@@ -39,10 +39,10 @@ story:
   - chara:
     - id: 303801
     textLeft: Without any proof of our accomplishments within@the club, next semester's
-      budget won't get approved,
+      budget won't get approved.
   - chara:
     - id: 303801
-    textLeft: which means that the club could potentially be@disbanded next year.
+    textLeft: Which means that the club could potentially be@disbanded next year.
   - chara:
     - eyeClose: 0
       id: 303801
@@ -415,7 +415,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 304001
-    textLeft: '...we DID fast-track our application thanks to@Komachi''s name recognition...'
+    textLeft: We DID fast-track our application thanks to@Komachi's name recognition...
   - chara:
     - id: 304001
     textLeft: '...and rent out this entire empty classroom.'

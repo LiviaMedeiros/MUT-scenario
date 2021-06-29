@@ -114,10 +114,10 @@ story:
     nameLeft: Tsukihiko
     narrationEffect: out
     textLeft: '...I still can''t remember any of it myself, thanks to@that knock on
-      the head,'
+      the head...'
   - chara:
     - id: 303802
-    textLeft: but it seems that my being attacked by thugs was@only partly true.
+    textLeft: '...but it seems that my being attacked by thugs@was only partly true.'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -153,11 +153,11 @@ story:
       id: 303802
       motion: 0
     textLeft: Though my memory's still a bit foggy, I'm more than@well enough to go
-      to work,
+      to work...
   - chara:
     - id: 303802
       motion: 1
-    textLeft: and my darling Ruri and I are back en route to being@happily married.
+    textLeft: '...and my darling Ruri and I are back en route@to being happily married.'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

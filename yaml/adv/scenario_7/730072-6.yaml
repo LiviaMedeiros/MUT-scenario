@@ -19,7 +19,7 @@ story:
     chara:
     - id: 800600
     nameRight: ""
-    textRight: "\uFEFFOh, Miss Hozumi, you've regained consciousness."
+    textRight: Oh, Miss Hozumi, you've regained consciousness.
     turnChangeOut: fadeOut
   - chara:
     - id: 300701
@@ -112,12 +112,12 @@ story:
     - id: 301950
       motion: 300
     nameCenter: Ayaka
-    textCenter: Also, Shizuku,
+    textCenter: Also, Shizuku...
     turnChangeOut: fadeOut
   - chara:
     - id: 301950
     nameCenter: Ayaka
-    textCenter: sorry for always being so noisy and meddlesome.
+    textCenter: Sorry for always being so noisy and meddlesome.
   - autoTurnLast: 1
     bg: black
     turnChangeIn: fadeIn
@@ -128,8 +128,8 @@ story:
     turnChangeOut: fadeOut
   - narration: Sure you're noisy, often meddling, @trying to use my magic for your
       own convenience, @and always suddenly jumping to action @while not keeping my
-      pace in mind,
-  - narration: but... All of your noise and liveliness moves me @around at such a
+      pace in mind.
+  - narration: But... All of your noise and liveliness moves me @around at such a
       high speed @that you never give me a chance to be worried...
   - narration: '...What you do...might have even saved me.'
   - narration: With Ayaka like that...with everyone being there for me, @I can continue
@@ -248,7 +248,7 @@ story:
       lipSynch: 0
       motion: 200
     nameCenter: Shizuku
-    textCenter: (but I wonder if my magic was meant for @times like this.)
+    textCenter: (But I wonder if my magic was meant for @times like this.)
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

@@ -519,7 +519,7 @@ story:
     - id: 100651
       motion: 300
     nameRight: Mifuyu
-    textRight: '...That one sentence from Alina brought back a@memory for you,'
+    textRight: '...That one sentence from Alina brought back a@memory for you...'
   - chara:
     - id: 100651
     nameRight: Mifuyu
@@ -557,7 +557,7 @@ story:
       id: 101202
       motion: 200
     nameLeft: Karin
-    textLeft: We're going to do our best together in@rehabilitation,
+    textLeft: We're going to do our best together in@rehabilitation...
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json

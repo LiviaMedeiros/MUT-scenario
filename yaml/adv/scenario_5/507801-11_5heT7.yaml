@@ -289,10 +289,10 @@ story:
     textLeft: Oh, that! As a matter of fact, it's my magic at work.
   - chara:
     - id: 303902
-    textLeft: I made a film-related wish when I became a@Magical Girl,
+    textLeft: I made a film-related wish when I became a@Magical Girl.
   - chara:
     - id: 303902
-    textLeft: so it seems like I can use...@stage direction magic, I suppose?
+    textLeft: So it seems like I can use...@stage direction magic, I suppose?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

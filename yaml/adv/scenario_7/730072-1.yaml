@@ -6,7 +6,7 @@ story:
     turnChangeIn: fadeIn
   - autoTurnLast: 1.5
     nameNarration: ""
-    narration: "\uFEFF*snap*[surround:7023_camera][flashEffect:flashWhite1]"
+    narration: '*Snap*[surround:7023_camera][flashEffect:flashWhite1]'
     narrationEffect: in
     turnChangeOut: fadeOut
   - autoTurnLast: 1.5
@@ -25,7 +25,7 @@ story:
       motion: 401
       pos: 1
     nameCenter: Shizuku
-    textCenter: ' ...Ha!'
+    textCenter: '...*Gasp*!'
     turnChangeOut: whiteOut
   - autoTurnLast: 0.2
     chara:
@@ -480,7 +480,7 @@ story:
       id: 304601
       pos: 0
     nameLeft: Ryou
-    textLeft: but does some simple cooking from time to time @at home.
+    textLeft: but I do some simple cooking from time to time @at home.
   - autoTurnLast: 0.2
     chara:
     - id: 304601

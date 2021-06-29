@@ -20,18 +20,18 @@ story:
     textRight: Hey, can we go play today?
     turnChangeOut: fadeOut
   - nameLeft: ""
-    textLeft: Yeah, I think it’ll be alright. I’ll ask my mom.
+    textLeft: Yeah, I think it'll be alright. I'll ask my mom.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 801200
     textLeft: 'Ah... '
-  - textRight: What’s wrong?
+  - textRight: What's wrong?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 801200
-    textLeft: '...Yeah, let’s talk over there.'
+    textLeft: '...Yeah, let''s talk over there.'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -51,7 +51,7 @@ story:
   - chara:
     - id: 103801
       lipSynch: 0
-    textCenter: (They didn’t have to run away after just looking@at me.)
+    textCenter: (They didn't have to run away after just looking@at me.)
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -69,7 +69,7 @@ story:
       id: 103801
       lipSynch: 0
       motion: 1
-    textCenter: (I’m going to...)
+    textCenter: (I'm going to...)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -149,8 +149,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 302001
       motion: 0
-    textLeft: 'I’m fine, but... '
-  - textLeft: They’re going to use this classroom for remedial@lessons.
+    textLeft: 'I''m fine, but... '
+  - textLeft: They're going to use this classroom for remedial@lessons.
   - chara:
     - id: 302001
       motion: 200
@@ -173,14 +173,14 @@ story:
     textRight: '...I see, you want to make friends with Magical Girls...'
     turnChangeOut: fadeOut
   - nameLeft: Mikage
-    textLeft: Yeah, I don’t want to make friends with the kids@from school.
+    textLeft: Yeah, I don't want to make friends with the kids@from school.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302001
       motion: 100
-    textRight: 'That’s true... '
-  - textRight: 'They’ll be wary... '
+    textRight: 'That''s true... '
+  - textRight: 'They''ll be wary... '
   - textRight: If they only know about you from rumors about@Mitama.
   - chara:
     - id: 103801
@@ -197,7 +197,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 302001
       motion: 400
-    textRight: A girl who’d get along well with Mikage...
+    textRight: A girl who'd get along well with Mikage...
   - textRight: I have a few in mind. Would you like me to introduce@you?
   - chara:
     - cheek: 0
@@ -212,19 +212,19 @@ story:
       face: mtn_ex_030.exp.json
       id: 302001
       motion: 1
-    textRight: That’s a tall order...
-  - textRight: Hmm...@How about the Coordinator’s office?
+    textRight: That's a tall order...
+  - textRight: Hmm...@How about the Coordinator's shop?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 103801
       motion: 200
-    textLeft: Somewhere else!@I want to keep this a secret from my sister.
+    textLeft: Somewhere else!@I want to keep this a secret from Sis.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103801
-    textLeft: Is there a place where Magical Girls gather that my@sister isn’t at?
+    textLeft: Is there a place where Magical Girls gather that@my sis isn't at?
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -259,14 +259,14 @@ story:
   - chara:
     - id: 302001
       motion: 100
-    textRight: That’s right!
+    textRight: That's right!
   - textRight: Welcome to a place with tons of friendly Magical@Girls...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 302001
       motion: 200
-    textRight: Emily's counseling room!
+    textRight: Emily's Counseling Room!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

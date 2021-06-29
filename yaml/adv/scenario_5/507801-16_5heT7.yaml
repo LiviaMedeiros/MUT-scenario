@@ -35,7 +35,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 303801
       motion: 101
-    textLeft: I just enjoy *knowing*.
+    textLeft: I just enjoy KNOWING.
   - chara:
     - id: 303801
     textLeft: What feelings the people who lived through past@eras had...
@@ -51,20 +51,21 @@ story:
   - chara:
     - id: 303801
       motion: 400
-    textLeft: So I wouldn't want to make *myself* into that@protagonist.
+    textLeft: So I wouldn't want to make MYSELF into that@protagonist.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304001
       motion: 1
     nameRight: Temari
-    textRight: '...That *is* the way you always tend to act, isn''t it?'
+    textRight: '...That IS the way you always tend to act, isn''t it?'
   - chara:
     - id: 304001
-    textRight: Always one step removed,
+    textRight: Always one step removed...
   - chara:
     - id: 304001
-    textRight: As if you're observing everyone— even yourself—@from an objective standpoint.
+    textRight: '...as if you''re observing everyone— even yourself—@from an objective
+      standpoint.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
