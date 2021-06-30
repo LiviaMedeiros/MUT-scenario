@@ -15,7 +15,7 @@ story:
       motion: 400
       pos: 2
     turnChangeIn: fadeIn
-  - nameCenter: "\uFEFF???"
+  - nameCenter: ???
     textCenter: …Oi.
     turnChangeOut: fadeOut
   - chara:

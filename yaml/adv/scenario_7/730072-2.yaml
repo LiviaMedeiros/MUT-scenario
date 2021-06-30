@@ -18,7 +18,7 @@ story:
   - bgm: bgm03_story16
     chara:
     - id: 304601
-    nameRight: "\uFEFFRyou"
+    nameRight: Ryou
     textRight: 80 grams of sugar... @Well, this oughta be enough.
     turnChangeOut: fadeOut
   - chara:

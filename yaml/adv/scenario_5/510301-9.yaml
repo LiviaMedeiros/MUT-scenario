@@ -17,7 +17,7 @@ story:
     - id: 103901
       lipSynch: 0
       motion: 300
-    nameCenter: "\uFEFFSudachi"
+    nameCenter: Sudachi
     textCenter: (I really ran away…)
     turnChangeOut: fadeOut
   - chara:

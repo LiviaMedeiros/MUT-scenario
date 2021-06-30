@@ -19,7 +19,7 @@ story:
     chara:
     - id: 302501
       tear: 1
-    nameLeft: "\uFEFFRen"
+    nameLeft: Ren
     nameRight: Rika
     textLeft: '...*Sniff*...*Sob*...'
     turnChangeOut: fadeOut

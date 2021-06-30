@@ -23,7 +23,7 @@ story:
   - bgm: bgm03_story10
     chara:
     - id: 302700
-    nameCenter: "\uFEFFHazuki"
+    nameCenter: Hazuki
     textCenter: '...You''re unfamiliar faces.'
     turnChangeOut: fadeOut
   - chara:

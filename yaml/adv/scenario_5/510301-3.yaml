@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 103801
       motion: 100
-    nameRight: "\uFEFFMikage"
+    nameRight: Mikage
     textRight: You want to cheer up Livia?
     turnChangeOut: fadeOut
   - chara:

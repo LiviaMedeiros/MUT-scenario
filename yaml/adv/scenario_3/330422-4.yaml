@@ -26,7 +26,7 @@ story:
       id: 300800
       motion: 300
       mouthOpen: 1
-    nameCenter: "\uFEFFAkira"
+    nameCenter: Akira
     textCenter: '*Pant... Pant...*'
     turnChangeOut: fadeOut
   - chara:

@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 104000
       motion: 100
-    nameLeft: "\uFEFFYozuru"
+    nameLeft: Yozuru
     textLeft: Welcome back.
     turnChangeOut: fadeOut
   - chara:

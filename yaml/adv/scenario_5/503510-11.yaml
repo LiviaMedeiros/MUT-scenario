@@ -16,7 +16,7 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - bgm: bgm01_anime03
-    nameNarration: "\uFEFFRika"
+    nameNarration: Rika
     narration: The day is finally here…!
     narrationBg: bg_adv_21041.jpg
     narrationEffect: in

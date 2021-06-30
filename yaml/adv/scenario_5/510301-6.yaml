@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 102900
       lipSynch: 0
-    nameLeft: "\uFEFFShigure"
+    nameLeft: Shigure
     textLeft: …………
     turnChangeOut: fadeOut
   - chara:

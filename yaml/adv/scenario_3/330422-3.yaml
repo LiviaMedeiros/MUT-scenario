@@ -18,7 +18,7 @@ story:
   - bgm: bgm03_story10
     chara:
     - id: 301200
-    nameRight: "\uFEFFMeiyui"
+    nameRight: Meiyui
     textRight: The copy not staying down...
     turnChangeOut: fadeOut
   - chara:

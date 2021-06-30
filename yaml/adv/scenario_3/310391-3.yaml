@@ -17,7 +17,7 @@ story:
       motion: 1
       pos: 2
     nameLeft: Sudachi
-    nameRight: "\uFEFFMikage"
+    nameRight: Mikage
     turnChangeIn: fadeIn
   - textRight: This edition of TeraPichi was the best, but now@we gotta go back to
       waiting for the next one.

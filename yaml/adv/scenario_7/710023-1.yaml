@@ -16,7 +16,7 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - bgm: bgm03_story21
-    nameNarration: "\uFEFFIroha"
+    nameNarration: Iroha
     narration: I know that it’s pretty sudden, but…
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in

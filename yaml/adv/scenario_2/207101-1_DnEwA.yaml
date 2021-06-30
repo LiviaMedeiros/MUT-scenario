@@ -4,7 +4,7 @@ story:
   - autoTurnLast: 0.2
     bg: bg_adv_21171.jpg
     turnChangeIn: fadeIn
-  - nameNarration: "\uFEFFKako"
+  - nameNarration: Kako
     narration: The battle against the Wings of Magius is over, @and although not everything
       is back to normal, @Kamihama is returning back to its everyday life.
     narrationEffect: in

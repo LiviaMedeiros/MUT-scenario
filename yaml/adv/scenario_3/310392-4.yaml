@@ -10,7 +10,7 @@ story:
       posY: 0
       visible: appear
     turnChangeIn: fadeIn
-  - nameNarration: "\uFEFFMikage"
+  - nameNarration: Mikage
     narration: ―Mikage―@Ah, a handmade scrunchie!@You really made one!
     narrationAnchor: bottom
     narrationCoverOpacity: 110

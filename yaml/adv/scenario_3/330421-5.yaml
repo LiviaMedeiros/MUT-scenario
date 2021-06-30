@@ -15,7 +15,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 101000
-    nameRight: "\uFEFFMomoko"
+    nameRight: Momoko
     textRight: Enough, let's finish this!
     turnChangeOut: fadeOut
     turnEffect: blackFrame

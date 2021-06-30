@@ -14,7 +14,7 @@ story:
     chara:
     - id: 300301
       motion: 300
-    nameCenter: "\uFEFFHinano"
+    nameCenter: Hinano
     textCenter: Sorry to interrupt you so suddenly...
     turnChangeOut: fadeOut
   - chara:

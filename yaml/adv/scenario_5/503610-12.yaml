@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 101701
     nameLeft: Masara
-    nameRight: "\uFEFFMitama"
+    nameRight: Mitama
     textRight: And that's why...
     turnChangeOut: fadeOut
   - chara:

@@ -11,7 +11,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - bgm: bgm03_story12
-    nameNarration: "\uFEFFRika"
+    nameNarration: Rika
     narration: On the Sunday Ren had invited me out...@Ren saw me together with Kano-chin
       and Emirin...
     narrationBg: bg_adv_narration.jpg

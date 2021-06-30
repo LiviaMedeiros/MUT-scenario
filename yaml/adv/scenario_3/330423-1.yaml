@@ -13,7 +13,7 @@ story:
   - bgm: bgm03_story02
     chara:
     - id: 304201
-    nameCenter: "\uFEFFMeguru"
+    nameCenter: Meguru
     textCenter: Mmhmm~ @Mmhmhmm~
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2

@@ -19,7 +19,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 104001
-    nameLeft: "\uFEFFYozuru"
+    nameLeft: Yozuru
     surround: 7202_telepathy
     textLeft: Having said that, I think her dark expression@is likely limited to today’s
       affairs.

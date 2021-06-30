@@ -11,7 +11,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - bgm: bgm03_story02
-    nameNarration: "\uFEFFRika"
+    nameNarration: Rika
     narration: When going out to watch a movie with Ren@I happened to get to know
       her birthday...
     narrationBg: bg_adv_21073.jpg

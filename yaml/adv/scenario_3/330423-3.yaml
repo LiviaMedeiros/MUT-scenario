@@ -12,7 +12,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story19
     nameNarration: ""
-    narration: "\uFEFF\"Now then, it's time to start the club introductions.\""
+    narration: '"Now then, it''s time to start the club introductions."'
     narrationCoverOpacity: 150
     narrationEffect: in
     turnChangeOut: fadeOut

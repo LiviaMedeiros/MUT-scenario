@@ -13,7 +13,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 101700
-    nameCenter: "\uFEFFMitama"
+    nameCenter: Mitama
     textCenter: '[chara:101700:effect_emotion_joy_0][se:7222_happy]Amazake and～♪ salted
       kelp～♪'
     turnChangeOut: fadeOut

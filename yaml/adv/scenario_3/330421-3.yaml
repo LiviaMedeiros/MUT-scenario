@@ -19,7 +19,7 @@ story:
       name: sprite_0
       pos: 0
     textBg: shout
-    textLeft: "\uFEFF[chara:304200:effect_7000_attack01]縺薙ｗ繧＊帝[]溘ｉ茨ｼ!!"
+    textLeft: '[chara:304200:effect_7000_attack01]縺薙ｗ繧＊帝[]溘ｉ茨ｼ!!'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0

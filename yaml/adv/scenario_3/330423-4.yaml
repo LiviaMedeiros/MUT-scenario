@@ -10,7 +10,7 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - bgm: bgm03_story19
-    nameNarration: "\uFEFFMeguru"
+    nameNarration: Meguru
     narration: -Meguru- @I see~ I see~
     narrationAnchor: bottom
     narrationCoverOpacity: 110

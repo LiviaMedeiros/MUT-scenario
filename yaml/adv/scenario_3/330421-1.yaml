@@ -18,7 +18,7 @@ story:
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: "\uFEFFThis is bad! Really reaaaaally baaad!"
+    textRight: This is bad! Really reaaaaally baaad!
     turnChangeOut: fadeOut
   - chara:
     - id: 800100

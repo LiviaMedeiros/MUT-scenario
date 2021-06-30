@@ -19,7 +19,7 @@ story:
     chara:
     - id: 304201
       lipSynch: 0
-    nameLeft: "\uFEFFMeguru"
+    nameLeft: Meguru
     textLeft: '......'
     turnChangeOut: fadeOut
   - chara:

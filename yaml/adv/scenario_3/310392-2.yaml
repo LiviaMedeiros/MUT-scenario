@@ -17,7 +17,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Sudachi
-    nameRight: "\uFEFFMikage"
+    nameRight: Mikage
     turnChangeIn: fadeIn
   - textRight: The 100-yen shops are super big here, aren't they?
     turnChangeOut: fadeOut

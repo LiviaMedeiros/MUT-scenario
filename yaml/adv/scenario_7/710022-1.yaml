@@ -15,7 +15,7 @@ story:
     - id: 100250
       lipSynch: 0
       motion: 301
-    nameCenter: "\uFEFFYachiyo"
+    nameCenter: Yachiyo
     textCenter: …………
     turnChangeOut: fadeOut
   - chara:

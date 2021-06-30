@@ -11,7 +11,7 @@ story:
   - autoTurnLast: 1
     nameCenter: ""
     textBg: shout
-    textCenter: "\uFEFF[flashEffect:flashRed2][se:6004_hit_shooting_03][bgEffect:shakeLarge][name:sprite_0:effect_shake]......!?!?"
+    textCenter: '[flashEffect:flashRed2][se:6004_hit_shooting_03][bgEffect:shakeLarge][name:sprite_0:effect_shake]......!?!?'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.5
     chara:

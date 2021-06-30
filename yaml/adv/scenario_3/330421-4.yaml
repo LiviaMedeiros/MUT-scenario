@@ -12,7 +12,7 @@ story:
       pos: 0
     turnChangeIn: fadeIn
   - bgm: bgm01_anime15
-    nameRight: "\uFEFF???"
+    nameRight: ???
     textBg: shout
     textRight: Are you okay!?
     turnChangeOut: fadeOut

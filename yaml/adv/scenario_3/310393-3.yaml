@@ -9,7 +9,7 @@ story:
       id: 103901
       motion: 0
       pos: 1
-    nameCenter: "\uFEFFSudachi"
+    nameCenter: Sudachi
     surround: 7007_evening_townbuzz
     turnChangeIn: fadeIn
   - chara:

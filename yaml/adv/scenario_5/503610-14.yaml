@@ -14,7 +14,7 @@ story:
       id: 302901
       motion: 0
       pos: 2
-    nameNarration: "\uFEFFMasara"
+    nameNarration: Masara
     narration: A hiking trip with that girl, inspired by Mitama...
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in

@@ -18,7 +18,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 102100
-    nameLeft: "\uFEFFYuna"
+    nameLeft: Yuna
     textLeft: Ohh…?
     turnChangeOut: fadeOut
   - chara:

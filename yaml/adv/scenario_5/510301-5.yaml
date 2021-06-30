@@ -27,7 +27,7 @@ story:
     - id: 103901
       lipSynch: 0
       motion: 100
-    nameCenter: "\uFEFFSudachi"
+    nameCenter: Sudachi
     textCenter: fummufufuumu!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
