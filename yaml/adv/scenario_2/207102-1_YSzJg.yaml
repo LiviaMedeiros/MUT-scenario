@@ -50,7 +50,7 @@ story:
     narrationEffect: in
   - chara:
     - id: 302701
-    narration: '"Promised Blood, Tokime Clan, Neo-Magius, @and the Cordinators from
+    narration: '"Promised Blood, Tokime Clan, Neo-Magius, @and the Coordinators from
       out of the city..."'
   - chara:
     - id: 302701
@@ -60,12 +60,12 @@ story:
     - id: 302701
       motion: 1
     narration: '"Secondly, these outsider Magical Girl groups are@ all trying to acquire
-      the Automatic Purification System for their own purposes."'
+      the Automatic Purification System@for their own purposes."'
   - chara:
     - id: 302701
     narration: '"And, the third and final thing... Each of them are @searching for
       these things called [textYellow:Kimochi] @that contain energy within Kamihama.
-      @They need this powerful energy in order to take the Automatic Purification
+      @They need this powerful energy in order to take@the Automatic Purification
       System..."'
   - chara:
     - id: 302701

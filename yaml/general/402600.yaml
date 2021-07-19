@@ -61,7 +61,7 @@ story:
     - eyeClose: 1
       id: 402600
       motion: 300
-      textHome: Darc has all the qualities I lack.
+      textHome: Tart has all the qualities I lack.
   - chara:
     - id: 402600
       textHomeStatus: Clear
@@ -193,7 +193,7 @@ story:
     chara:
     - id: 402600
       motion: 0
-      textHome: With my power and Darc's aid,@I can grant her wish.
+      textHome: With my power and Tart's aid,@I can grant her wish.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -448,7 +448,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4026_00_29
-      textHome: Magical Girls are gathering en masse,@as though drawn here by Darc.
+      textHome: Magical Girls are gathering en masse,@as though drawn here by Tart.
   - autoTurnFirst: 3
     chara:
     - id: 402600
@@ -794,7 +794,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4026_00_40
-      textHome: Darc has always been willing@to fight selflessly for others,@she never
+      textHome: Tart has always been willing@to fight selflessly for others,@she never
         falters or fades.
   - autoTurnFirst: 4
     chara:
@@ -1115,7 +1115,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_4026_00_16
-      textHome: I face Melissa's wrath if I say the@slightest thing against Darc.
+      textHome: I face Melissa's wrath if I say the@slightest thing against Tart.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0

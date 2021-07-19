@@ -10,7 +10,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4023_00_01
-      textHome: I am Darc's...I mean to say, our Holy@Maiden's servant. Due to our
+      textHome: I am Tart's...I mean to say, our Holy@Maiden's servant. Due to our
         closeness@in age, we have become fast friends.
   - autoTurnFirst: 2.5
     chara:
@@ -31,7 +31,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 402300
       motion: 300
-      textHome: I sometimes can't control myself@when it comes to protecting Darc...@In
+      textHome: I sometimes can't control myself@when it comes to protecting Tart...@In
         that way, I may be like my father.
   - autoTurnFirst: 5
     chara:
@@ -55,7 +55,7 @@ story:
       pos: 1
       voice: vo_char_4023_00_18
       textHome: The Holy Maiden was originally known as@Jeanette, but was bestowed
-        a special name,@"Darc" by Monsieur Angel himself...
+        a special name,@"Tart" by Monsieur Angel himself...
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -138,7 +138,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4023_00_22
-      textHome: I believe that the path Darc walks@shall become the light of hope
+      textHome: I believe that the path Tart walks@shall become the light of hope
         for all...
   - autoTurnFirst: 0.2
     chara:
@@ -501,7 +501,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4023_00_34
-      textHome: Darc is both brave and serious on the@battlefield. But once the fighting
+      textHome: Tart is both brave and serious on the@battlefield. But once the fighting
         is over,@she's as happy as a child as a festival.
   - autoTurnFirst: 4
     chara:
@@ -586,7 +586,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4023_00_37
-      textHome: I met Liz on the same day that I met Darc.
+      textHome: I met Liz on the same day that I met Tart.
   - autoTurnFirst: 5
     chara:
     - id: 402300
@@ -662,7 +662,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4023_00_39
-      textHome: I do have other dear friends@besides Darc and Liz...
+      textHome: I do have other dear friends@besides Tart and Liz...
   - autoTurnFirst: 5
     chara:
     - id: 402300
@@ -719,7 +719,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4023_00_41
-      textHome: We cannot allow Darc to drink...
+      textHome: We cannot allow Tart to drink...
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -929,7 +929,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 402300
       motion: 400
-      textHome: I work for Darc...I mean, our Holy Maiden@as her servant. I ensure
+      textHome: I work for Tart...I mean, our Holy Maiden@as her servant. I ensure
         everything around@her is in order!
   - autoTurnFirst: 2
     chara:
@@ -1044,7 +1044,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4023_00_17
-      textHome: I was surprised by Darc's delicate frame@when we first met...
+      textHome: I was surprised by Tart's delicate frame@when we first met...
   - autoTurnFirst: 3.2
     chara:
     - id: 402300

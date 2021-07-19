@@ -264,7 +264,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 301101
     nameLeft: Kako
-    textLeft: I'll let someone else decide...because my decisions... @Would be bad...
+    textLeft: I can't...let someone else...@make my decisions for me...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -272,11 +272,11 @@ story:
       motion: 300
       pos: 0
     nameLeft: Kako
-    textLeft: I'm sure... That's how it would be...
+    textLeft: Because they would...I'm sure...
   - chara:
     - id: 301101
     nameLeft: Kako
-    textLeft: My thoughts will only come back... When they're needed.
+    textLeft: Come back to me...when I need them most.
   - autoTurnLast: 0.2
     chara:
     - id: 302801
@@ -336,7 +336,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Kako
-    textLeft: But, I couldn't even give an answer..
+    textLeft: But, I couldn't even give an answer...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

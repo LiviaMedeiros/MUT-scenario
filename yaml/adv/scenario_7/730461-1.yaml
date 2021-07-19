@@ -14,13 +14,13 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 304650
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (Today I've come to the beach to collect data.)
     turnChangeOut: fadeOut
   - chara:
     - id: 304650
       lipSynch: 0
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (Ikumi is with me too, @but right now I'm a part of another piece
       of action.)
   - chara:
@@ -29,37 +29,37 @@ story:
       id: 304650
       lipSynch: 0
       motion: 200
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (Because... today's target is a dire scandal.)
   - chara:
     - id: 304650
       lipSynch: 0
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (To keep out of trouble, we can't stick together.)
   - chara:
     - eyeClose: 1
       id: 304650
       lipSynch: 0
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (A famous school couple seems to have appeared @at the beach.)
   - chara:
     - eyeClose: 0
       id: 304650
       lipSynch: 0
       motion: 300
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (Rumors are saying both of them have @different lovers.)
   - chara:
     - id: 304650
       lipSynch: 0
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (Among the students, word is one of them is a @teacher.)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304650
       lipSynch: 0
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (Common speculation is flying around.)
   - chara:
     - cheek: 0
@@ -67,14 +67,14 @@ story:
       id: 304650
       lipSynch: 0
       motion: 400
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (If I can secure the truth here, the Midori Report will @be even more
       popular.)
   - chara:
     - id: 304650
       lipSynch: 0
       motion: 100
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (Well then, I wonder if I can expose it.)
   - chara:
     - cheek: 0
@@ -82,7 +82,7 @@ story:
       id: 304650
       lipSynch: 0
       motion: 0
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: '[chara:304650:effect_emotion_surprise_0][se:7226_shock]...!?'
   - autoTurnLast: 0.1
     chara:
@@ -121,14 +121,14 @@ story:
       lipSynch: 0
       motion: 200
       pos: 1
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (Target spotted!)
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 304650
       lipSynch: 0
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (I see, a tent, huh? It's a little difficult to get a shot, however...)
   - chara:
     - cheek: 0
@@ -136,7 +136,7 @@ story:
       id: 304650
       lipSynch: 0
       motion: 1
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (I'm used to this much.)
   - autoTurnLast: 0.3
     bgm: stop
@@ -155,7 +155,7 @@ story:
   - autoTurnLast: 1
     turnChangeOut: rollOutFast
   - bgm: bgm03_story06
-    nameNarration: Ryou
+    nameNarration: Ryo
     narration: Chatting while changing into swimsuits.
     narrationCoverOpacity: 100
     narrationEffect: in
@@ -175,7 +175,7 @@ story:
       pos: 2
     narrationEffect: out
     turnChangeIn: fadeIn
-  - nameNarration: Ryou
+  - nameNarration: Ryo
     narration: '...These two are just getting along while eating yakisoba...'
     narrationCoverOpacity: 100
     narrationEffect: in
@@ -188,8 +188,8 @@ story:
     - effect: shake
       face: mtn_ex_020.exp.json
       id: 800400
-    narration: Why did you come to the sea... wait, there's movement...
-  - narration: Is this a quarrel...? If they grab each other this will be story material!
+    narration: Why did you come to the sea...@Wait, there's movement...
+  - narration: Is this a quarrel...? If they grab each other@this will be story material!
   - chara:
     - effect: slideOutRightFast
       id: 800400
@@ -207,7 +207,7 @@ story:
       id: 800500
       motion: 0
       pos: 1
-  - nameNarration: Ryou
+  - nameNarration: Ryo
     narration: '...Hm? Wait wait wait...'
     narrationCoverOpacity: 100
     narrationEffect: in
@@ -248,10 +248,10 @@ story:
     chara:
     - effect: slideOutLeft
       id: 800400
-    narration: The boy that went out first...? He went in the tent...!
+    narration: The boy that went out first...?@He went in the tent...!
     narrationCoverOpacity: 100
     narrationEffect: in
-  - narration: He's here he's here! There's no doubt this will be a massive bloodbath!　
+  - narration: He's here he's here! There's no doubt@this will be a massive bloodbath!　
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -265,7 +265,7 @@ story:
     - cheek: 0
       id: 304650
       lipSynch: 0
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (Hm? Another girl from the beach...)
     turnChangeOut: rollOutFast
   - chara:
@@ -274,14 +274,14 @@ story:
       id: 304650
       lipSynch: 0
       motion: 400
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (She went in the tent! What in the world will happen to... oh?)
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 304650
       lipSynch: 0
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (All four of them came out of the tent in @swimsuits...?)
   - bgm: stop
     chara:
@@ -290,7 +290,7 @@ story:
       id: 304650
       lipSynch: 0
       motion: 0
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (.....Eh? Four person beach volleyball...?)
   - bgm: bgm01_anime02
     chara:
@@ -299,13 +299,13 @@ story:
       id: 304650
       lipSynch: 0
       motion: 300
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (.....Haa, I see, it's just four good friends, huh?)
   - chara:
     - eyeClose: 1
       id: 304650
       lipSynch: 0
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (It was all... just a misunderstanding.)
   - autoTurnLast: 1
     chara:
@@ -320,8 +320,9 @@ story:
     - cheek: 0
       id: 304650
       pos: 1
-    nameCenter: Ryou
-    textCenter: Haa, good grief. @Is there no harvest after going through all of this?
+    nameCenter: Ryo
+    textCenter: '*Sigh* Good grief. @Is there no harvest after going through all of
+      this?'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -329,7 +330,7 @@ story:
       id: 304650
       motion: 300
       pos: 1
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: '...It should have been the main article in the next @Midori Report...'
   - bgm: stop
     chara:
@@ -345,7 +346,7 @@ story:
       lipSynch: 1
       motion: 0
       pos: 1
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: '...Hm? That voice is...'
   - autoTurnLast: 0.3
     chara:
@@ -393,14 +394,14 @@ story:
       id: 304650
       motion: 1
       pos: 1
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: As I thought... it's Ikumi.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 304650
       pos: 1
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: Flirting...?
   - autoTurnLast: 0.5
     chara:
@@ -426,7 +427,7 @@ story:
       pos: 2
     nameCenter: Ikumi
     textBg: shout
-    textCenter: '[bgEffect:shakeSmall]Geeze! Kumi is getting angry! Seriously!!!!'
+    textCenter: '[bgEffect:shake]GEEZ! NOW KUMI''S REAL! PUFFIN''! MAD!!!!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -443,19 +444,19 @@ story:
       lipSynch: 0
       motion: 400
       pos: 1
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: '...!?'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 304650
       pos: 1
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: Sorry, but this is where I step in.
   - autoTurnLast: 0.01
     bgm: stop
     turnChangeIn: rollInFast
-  - nameNarration: Ryou
+  - nameNarration: Ryo
     narration: Hey, mind telling me what's happening!?
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
@@ -477,7 +478,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Ikumi
-    textLeft: Yes! I was waiting for you!@[chara:305350:lipSynch_0][wait:0.8][chara:305350:cheek_0][chara:305350:face_mtn_ex_011.exp.json][chara:305350:lipSynch_1]Master!
+    textLeft: Okay! I'll be waiting for you!@[chara:305350:lipSynch_0][wait:0.8][chara:305350:cheek_0][chara:305350:face_mtn_ex_011.exp.json][chara:305350:lipSynch_1]Masters!
     turnChangeOut: rollOutFast
   - nameNarration: ""
     narration: '[flashEffect:flashWhite1][surround:7023_camera]*Click*'
@@ -499,16 +500,15 @@ story:
       motion: 0
       pos: 2
     nameLeft: Ikumi
-    textLeft: Kya! ...Ryou!@[chara:305350:lipSynch_0][wait:0.8][chara:305350:cheek_0][chara:305350:motion_1][chara:305350:lipSynch_1]You
+    textLeft: Eek! ...Ryo!@[chara:305350:lipSynch_0][wait:0.8][chara:305350:cheek_0][chara:305350:motion_1][chara:305350:lipSynch_1]You
       scared me.
   - chara:
     - cheek: 0
       id: 304650
       motion: 100
       pos: 2
-    nameRight: Ryou
-    textRight: No, I didn't think I could ever take such a good @picture right at
-      the end.
+    nameRight: Ryo
+    textRight: Huh, never thought I would get such a good picture@right at the end.
   - chara:
     - id: 305350
       pos: 0
@@ -519,10 +519,10 @@ story:
       face: mtn_ex_010.exp.json
       id: 304650
       pos: 2
-    nameRight: Ryou
-    textRight: The title is, that's right.
-  - nameNarration: Ryou
-    narration: '"Ikumi Makino, age 19, picks up fans with flirting!"'
+    nameRight: Ryo
+    textRight: The headline is...that's it.
+  - nameNarration: Ryo
+    narration: '"Ikumi Makino, Age 19, Picks up Fans with Flirting!"'
     narrationEffect: in
   - chara:
     - cheek: 0
@@ -530,7 +530,7 @@ story:
       id: 304650
       motion: 200
       pos: 2
-    nameRight: Ryou
+    nameRight: Ryo
     narrationEffect: out
     textRight: How's that?
   - chara:
@@ -540,7 +540,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Ikumi
-    textLeft: Fueeh! you where watchiiing!?
+    textLeft: Whaaat! You where watchiiing!?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -548,11 +548,11 @@ story:
       motion: 200
       pos: 0
     nameLeft: Ikumi
-    textLeft: It's a misunderstanding~ My rep is damaged!
+    textLeft: It's a misunderstandiiing~@My reputation is ruined!
   - chara:
     - id: 304650
       pos: 2
-    nameRight: Ryou
+    nameRight: Ryo
     textRight: Ahaha! It's all because of my technique.
   - chara:
     - face: mtn_ex_020.exp.json
@@ -566,8 +566,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 304650
       pos: 2
-    nameRight: Ryou
-    textRight: Ah, I'm just messing around.
+    nameRight: Ryo
+    textRight: Ah, you're back to your old self.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -582,8 +582,8 @@ story:
       id: 305350
       motion: 300
       pos: 0
-    textLeft: Fu, fueeeeeh! @Kumii, was so scared...[chara:305350:lipSynch_0][wait:1.2][chara:305350:cheek_0][chara:305350:eyeClose_1][chara:305350:lipSynch_1]sob
-      sob.
+    textLeft: W...Waaaaaa!@Kumii was so scared...[chara:305350:lipSynch_0][wait:1.2][chara:305350:cheek_0][chara:305350:eyeClose_1][chara:305350:lipSynch_1]*Sob*
+      *Sob*
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

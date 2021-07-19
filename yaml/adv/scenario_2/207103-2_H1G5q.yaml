@@ -324,7 +324,7 @@ story:
   - chara:
     - id: 300501
     nameLeft: Nanaka
-    textLeft: You must maintain your own thoughts, @and not be influenced by others.
+    textLeft: You must form your own opinions, @without being overwhelmed by others.
   - chara:
     - eyeClose: 1
       id: 300501
@@ -406,7 +406,7 @@ story:
     chara:
     - id: 301101
     nameCenter: Kako
-    textCenter: I'll let someone else decide...because my decisions... @Would be bad...
+    textCenter: I can't...let someone else...@make my decisions for me...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -414,12 +414,12 @@ story:
       id: 301101
       motion: 300
     nameCenter: Kako
-    textCenter: I'm sure... That's how it would be...
+    textCenter: Because they would...I'm sure...
   - chara:
     - id: 301101
       motion: 0
     nameCenter: Kako
-    textCenter: My thoughts will only come back... @When they're needed.
+    textCenter: Come back to me...when I need them most.
   - autoTurnLast: 0.5
     bg: bg_adv_21161.jpg
     chara:

@@ -19,7 +19,7 @@ story:
     turnChangeOut: fadeOut
   - nameNarration: Konoha
     narration: An outsider group of Magical Girls called the Promised @Blood have
-      a grudge against Magical Girl in Kamihama.
+      a grudge against Magical Girls in Kamihama.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
   - narration: If they are after all Kamihama Magical Girls... @Then we should just
@@ -143,7 +143,7 @@ story:
       lipSynch: 1
       motion: 1
     nameLeft: Konoha
-    textLeft: '...Manaka-sensei is in good standing with the @Walnut''s chef, right...'
+    textLeft: '...Manaka-sensei is in good standing with the @chef of Walnut''s, right...'
     turnEffect: stop
   - chara:
     - cheek: 0
@@ -152,7 +152,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Manaka
-    textRight: '...Haa?'
+    textRight: '...Huh?'
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
@@ -208,11 +208,11 @@ story:
       lipSynch: 1
       motion: 200
     nameRight: Manaka
-    textRight: I Don't really get it, but I would probably go.
+    textRight: I don't really get it, but I would probably go.
   - chara:
     - id: 300902
     nameRight: Manaka
-    textRight: If someone I I cared about was in danger, even if it worried father...
+    textRight: If someone I cared about was in danger,@even if it worried father...
   - chara:
     - id: 302601
       motion: 0
@@ -279,11 +279,11 @@ story:
       motion: 200
       pos: 2
     nameRight: Manaka
-    textRight: Besides, father
+    textRight: Besides, father...
   - chara:
     - id: 300902
     nameRight: Manaka
-    textRight: still has a lot to teach me!
+    textRight: '...still has a lot to teach me!'
   - chara:
     - id: 300902
       motion: 400
@@ -303,7 +303,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Manaka
-    textRight: '...U-umm anyway, this was just my thoughts...'
+    textRight: '...U-umm anyway, these were just my thoughts...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -354,7 +354,7 @@ story:
   - chara:
     - id: 300902
     nameRight: Manaka
-    textRight: The house special rice omulet!
+    textRight: The house special rice omelet!
   - chara:
     - id: 302601
       motion: 1
@@ -374,7 +374,7 @@ story:
       id: 300902
       pos: 2
     nameRight: Manaka
-    textRight: And to be honest, I doesn't understand what's bothering you.
+    textRight: And to be honest, I don't understand what's@bothering you.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -414,7 +414,7 @@ story:
   - chara:
     - id: 302601
     nameLeft: Konoha
-    textLeft: We'll have this wonderful rice omulet together...
+    textLeft: We'll have this wonderful rice omelet together...
   - chara:
     - cheek: 0
       eyeClose: 1

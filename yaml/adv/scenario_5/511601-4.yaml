@@ -277,7 +277,7 @@ story:
       id: 801400
       motion: 0
     textLeft: '...Ahh, I forgot to say that.'
-  - textLeft: You are banned from Yoshaa Noodles.
+  - textLeft: You are banned from Woohoodles.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

@@ -231,7 +231,7 @@ story:
     nameLeft: Kako
     narrationEffect: out
     surround: 7001_birdsong
-    textLeft: Eh-...
+    textLeft: Eh...
   - bgm: bgm03_story02
     chara:
     - cheek: 0

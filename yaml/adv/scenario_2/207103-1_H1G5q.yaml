@@ -51,7 +51,7 @@ story:
       id: 302701
       pos: 2
     nameRight: Hazuki
-    textRight: Could that be Walnut's rice omulet?
+    textRight: Could that be Walnut's rice omelet?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -101,7 +101,7 @@ story:
     - id: 302801
       motion: 200
     nameLeft: Ayame
-    textLeft: I love Walnut's rice omulet too!
+    textLeft: I love Walnut's rice omelet too!
   - chara:
     - eyeClose: 1
       id: 302701

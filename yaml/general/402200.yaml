@@ -17,7 +17,7 @@ story:
     - eyeClose: 1
       id: 402200
       motion: 100
-      textHome: And at the end of my long journey@I met with light incarnate...Darc.
+      textHome: And at the end of my long journey@I met with light incarnate...Tart.
   - autoTurnFirst: 0.3
     chara:
     - eyeClose: 0
@@ -54,7 +54,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 402200
       motion: 1
-      textHome: Come, Darc and I will go together...@and we'll bring back light to
+      textHome: Come, Tart and I will go together...@and we'll bring back light to
         France!
   - autoTurnFirst: 3
     chara:
@@ -124,7 +124,7 @@ story:
     chara:
     - id: 402200
       motion: 1
-      textHome: Even before I met Darc, I traveled with him@for a long time, searching
+      textHome: Even before I met Tart, I traveled with him@for a long time, searching
         for a youth with@the potential to be a great hero.
   - autoTurnFirst: 3
     chara:
@@ -147,7 +147,7 @@ story:
       pos: 1
       voice: vo_char_4022_00_22
       textHome: Thank you... With this new strength,@I should be able to protect our
-        hope,@the light we know as Darc.
+        hope,@the light we know as Tart.
   - autoTurnFirst: 2
     chara:
     - eyeClose: 1
@@ -365,7 +365,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_29
-      textHome: Even though she's known as a holy maiden,@Darc still loses her focus
+      textHome: Even though she's known as a holy maiden,@Tart still loses her focus
         sometimes...
   - autoTurnFirst: 3
     chara:
@@ -496,7 +496,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_34
-      textHome: Darc possesses extraordinary@Magical Girl qualities.
+      textHome: Tart possesses extraordinary@Magical Girl qualities.
   - autoTurnFirst: 5
     chara:
     - id: 402200
@@ -541,7 +541,7 @@ story:
     chara:
     - id: 402200
       motion: 100
-      textHome: Darc calls him "Monsieur Angel",@and she has absolute faith in him.
+      textHome: Tart calls him "Monsieur Angel",@and she has absolute faith in him.
   - chara:
     - id: 402200
       textHomeStatus: Clear
@@ -566,7 +566,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 402200
       motion: 0
-      textHome: Darc may just be that maiden...
+      textHome: Tart may just be that maiden...
   - chara:
     - id: 402200
       textHomeStatus: Clear
@@ -583,7 +583,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_37
-      textHome: Melissa is Darc's maid, but she's@more like her close friend.
+      textHome: Melissa is Tart's maid, but she's@more like her close friend.
   - autoTurnFirst: 3
     chara:
     - id: 402200
@@ -626,7 +626,7 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_4022_00_38
-      textHome: Darc had a younger sister, Catherine.@
+      textHome: Tart had a younger sister, Catherine.@
   - autoTurnFirst: 4.5
     chara:
     - eyeClose: 1
@@ -679,7 +679,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_40
-      textHome: Darc is the light of hope...@That's why I chose to become@the shadow
+      textHome: Tart is the light of hope...@That's why I chose to become@the shadow
         that clings to that light.
   - autoTurnFirst: 4
     chara:
@@ -713,7 +713,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 402200
       motion: 100
-      textHome: 'Do you get all clingy like Darc@does when she has a drink? '
+      textHome: 'Do you get all clingy like Tart@does when she has a drink? '
   - autoTurnFirst: 4.5
     chara:
     - cheek: 1
@@ -1009,7 +1009,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_4022_00_16
-      textHome: During the time I spent in Darc's hometown,@I made precious memories
+      textHome: During the time I spent in Tart's hometown,@I made precious memories
         I'll never forget.@
   - autoTurnFirst: 5
     chara:
@@ -1034,7 +1034,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_4022_00_17
-      textHome: Darc possesses great power,@but the toll her magic takes is very harsh.
+      textHome: Tart possesses great power,@but the toll her magic takes is very harsh.
   - autoTurnFirst: 2.5
     chara:
     - id: 402200

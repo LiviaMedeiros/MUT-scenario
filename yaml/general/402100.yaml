@@ -10,7 +10,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4021_00_01
-      textHome: I am Darc... I heard the call of God's@emissary and was granted the
+      textHome: I am Tart... I heard the call of God's@emissary and was granted the
         power@to bring light to all of France.
   - autoTurnFirst: 4.5
     chara:
@@ -33,7 +33,7 @@ story:
     - face: mtn_ex_010.exp.json
       id: 402100
       motion: 100
-      textHome: If you were to call me Darc,@it would please me very much.
+      textHome: If you were to call me Tart,@it would please me very much.
   - autoTurnFirst: 2
     chara:
     - face: mtn_ex_011.exp.json
@@ -995,7 +995,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_4021_00_02
-      textHome: My name is Darc,@and it is a delight to meet you.
+      textHome: My name is Tart,@and it is a delight to meet you.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
@@ -1004,7 +1004,7 @@ story:
       id: 402100
       motion: 100
       pos: 1
-      textHome: '"Darc" is the name Monsieur Angel@bestowed upon me, and now all my@friends
+      textHome: '"Tart" is the name Monsieur Angel@bestowed upon me, and now all my@friends
         address me by it.'
   - autoTurnFirst: 2.1
     chara:

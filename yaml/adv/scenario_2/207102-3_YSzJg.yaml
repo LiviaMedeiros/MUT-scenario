@@ -32,7 +32,7 @@ story:
   - chara:
     - id: 300801
     nameRight: Akira
-    textRight: I think I can help everyone
+    textRight: I think I can help everyone,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

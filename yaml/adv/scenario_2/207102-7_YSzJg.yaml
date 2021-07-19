@@ -130,7 +130,7 @@ story:
   - chara:
     - id: 300501
     nameLeft: Nanaka
-    textLeft: I've always thought about what is best for the Magical @Girls in this
+    textLeft: I've always thought about what is best for the@Magical Girls in this
       city.
   - chara:
     - id: 300501
@@ -158,7 +158,7 @@ story:
       id: 302701
       motion: 300
     nameRight: Hazuki
-    textRight: Huhu...
+    textRight: '*Chuckle*...'
   - chara:
     - cheek: -1
       face: mtn_ex_050.exp.json

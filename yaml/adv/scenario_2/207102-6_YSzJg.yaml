@@ -120,11 +120,11 @@ story:
     - id: 300301
       motion: 100
     nameRight: Hinano
-    textRight: Besides, like this we can still share info and hang out
+    textRight: Besides, like this we can still share info@and hang out...
   - chara:
     - id: 300301
     nameRight: Hinano
-    textRight: with Magical Girl that don't want to join.
+    textRight: '...with Magical Girls that don''t want to join.'
   - chara:
     - id: 301201
       motion: 300
