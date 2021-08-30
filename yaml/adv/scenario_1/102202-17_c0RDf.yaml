@@ -297,7 +297,7 @@ story:
       pos: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-17-24
     nameLeft: Ui
-    textLeft: I knew it, it's just like what happened with@my sister.
+    textLeft: I knew it, it's just like what@happened with my sister.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -387,7 +387,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-17-35
       voiceFullStop: fullvoice/section_102202/vo_full_102202-17-34
     nameLeft: Chiharu
-    textLeft: Powerful magic...that's...
+    textLeft: Powerful magic...that could be...
   - chara:
     - id: 102601
       motion: 200
@@ -444,7 +444,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-17-42
       voiceFullStop: fullvoice/section_102202/vo_full_102202-17-41
-    textLeft: The girls who attacked us before were@after these too.
+    textLeft: The girls who attacked us before@were after these too.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json

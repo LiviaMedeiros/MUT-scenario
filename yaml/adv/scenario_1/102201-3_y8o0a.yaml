@@ -94,7 +94,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-3-7
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-6
-    textLeft: Haha... Well, that's true...
+    textLeft: Haha...@Well, that's true...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -109,7 +109,7 @@ story:
     - id: 300301
       voiceFull: fullvoice/section_102201/vo_full_102201-3-9
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-8
-    textRight: Drug development also takes months or years@until proper implementation.
+    textRight: Drug development also takes months or@years until proper implementation.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -157,7 +157,7 @@ story:
     - id: 100101
       voiceFull: fullvoice/section_102201/vo_full_102201-3-13
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-12
-    textLeft: About where the entrance to the Automatic@Purification System is...
+    textLeft: About where the entrance to the@Automatic Purification System is...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -182,7 +182,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-3-16
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-15
     nameLeft: userName
-    textLeft: Mokyu...
+    textLeft: Mokyuuu...
   - chara:
     - id: 101501
       voiceFull: fullvoice/section_102201/vo_full_102201-3-17
@@ -213,7 +213,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-3-20
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-19
     nameRight: Tsuruno
-    textRight: More importantly, there's something else@we want to ask about today!
+    textRight: More importantly, there's something@else we want to ask about today!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -247,7 +247,7 @@ story:
     - id: 101601
       voiceFull: fullvoice/section_102201/vo_full_102201-3-24
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-23
-    textRight: The one that attached to you after@defeating a Witch.
+    textRight: The one that attached to you@after defeating a Witch.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -300,7 +300,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-3-30
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-29
-    textRight: It was so strong that we couldn't have beaten it@if we hadn't all been
+    textRight: It was so strong that we couldn't have beaten@it if we hadn't all been
       there together...
   - autoTurnLast: 0.2
     chara:
@@ -353,12 +353,12 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-3-35
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-34
-    textRight: And yeah, it's true that we raised Witches@and made Uwasa.
+    textRight: And yeah, it's true that we@raised Witches and made Uwasa.
   - chara:
     - id: 304601
       voiceFull: fullvoice/section_102201/vo_full_102201-3-36
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-35
-    textRight: But I never heard anything about a being@that's a combination of those.
+    textRight: But I never heard anything about a@being that's a combination of those.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -366,7 +366,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-3-37
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-36
-    textRight: In other words, the only thing I'm sensing@is the smell of a scoop.
+    textRight: In other words, the only thing I'm@sensing is the smell of a scoop.
   - nameNarration: ""
     narration: '[flashEffect:flashWhite1][surround:7023_camera] *Click-click*'
     narrationEffect: in
@@ -383,7 +383,7 @@ story:
     - id: 304601
       voiceFull: fullvoice/section_102201/vo_full_102201-3-40
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-39
-    textRight: So there might not be a causal link between@the Witch and the Bracelet.
+    textRight: So there might not be a causal link@between the Witch and the Bracelet.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -411,7 +411,7 @@ story:
       id: 101601
       voiceFull: fullvoice/section_102201/vo_full_102201-3-43
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-42
-    textRight: I haven't heard of anyone encountering a Witch@like the one you've
+    textRight: I haven't heard of anyone encountering@a Witch like the one you've
       described.
   - chara:
     - id: 101601
@@ -433,7 +433,7 @@ story:
       id: 101601
       voiceFull: fullvoice/section_102201/vo_full_102201-3-46
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-45
-    textRight: I have indeed heard talk of people having@felt a strange magic.
+    textRight: I have indeed heard talk of people@having felt a strange magic.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -449,7 +449,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-3-48
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-47
-    textRight: Nothing at all, yet. We haven't been able@to determine its location.
+    textRight: Nothing at all, yet. We haven't been@able to determine its location.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -457,7 +457,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-3-49
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-48
-    textRight: There is, however, a chance that it is the same@as the one you witnessed.
+    textRight: There is, however, a chance that it is@the same as the one you witnessed.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -472,7 +472,7 @@ story:
     - id: 100301
       voiceFull: fullvoice/section_102201/vo_full_102201-3-51
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-50
-    textLeft: Even with all of us together we barely managed@to take it down!
+    textLeft: Even with all of us together we@barely managed to take it down!
   - chara:
     - id: 101601
       motion: 200
@@ -488,7 +488,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-3-53
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-52
     nameRight: Hinano
-    textRight: I'll get in touch with the Magical Girls in@the South, too.
+    textRight: I'll get in touch with the Magical Girls@in the South, too.
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

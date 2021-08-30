@@ -1,0 +1,550 @@
+---
+story:
+  group_1:
+  - autoTurnLast: 0.2
+    bg: bg_adv_21071.jpg
+    chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103701
+      motion: 1
+      pos: 1
+    turnChangeIn: fadeIn
+  - bgm: bgm03_story12
+    chara:
+    - eyeClose: 1
+      id: 103701
+    nameCenter: Nayuta
+    textCenter: '*Sigh*...'
+    turnChangeOut: fadeOut
+  - nameNarration: ""
+    narration: '*Flip...*'
+    narrationEffect: in
+  - chara:
+    - eyeClose: 0
+      id: 103701
+      lipSynch: 0
+    nameCenter: Nayuta
+    narrationEffect: out
+    textCenter: (It seems that Mitama is doing well after all,@but...)
+  - nameNarration: ""
+    narration: '*Flip...*'
+    narrationEffect: in
+  - chara:
+    - id: 103701
+      lipSynch: 0
+    nameCenter: Nayuta
+    narrationEffect: out
+    textCenter: (...apparently someone from Daito@has passed away...)
+  - nameNarration: ""
+    narration: '*Flip...*'
+    narrationEffect: in
+  - chara:
+    - id: 103701
+      lipSynch: 0
+      motion: 200
+    nameCenter: Nayuta
+    narrationEffect: out
+    textCenter: (I don't want the conflict in Kamihama to turn@more violent.)
+  - nameNarration: ""
+    narration: '*Flip...*'
+    narrationEffect: in
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 103701
+      lipSynch: 1
+      motion: 0
+    nameCenter: Nayuta
+    narrationEffect: out
+    textCenter: Hm...?
+  - nameNarration: Nayuta
+    narration: About Tasuke Satomi's behavior in Yukuni City.
+    narrationEffect: in
+  - chara:
+    - id: 103701
+    nameCenter: Nayuta
+    narrationEffect: out
+    textCenter: Mama began looking for Papa right after he disappeared...
+  - chara:
+    - id: 103701
+      motion: 300
+    nameCenter: Nayuta
+    textCenter: He should have been in Yukuni when he started the@last volume of his
+      book...
+  - chara:
+    - id: 103701
+    nameCenter: Nayuta
+    textCenter: but the time written here is when Papa@disappeared...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 103701
+      lipSynch: 0
+      motion: 400
+    nameCenter: Nayuta
+    textCenter: (As far as I know, there's no information about him being here at
+      this time of the year...!)
+  - autoTurnLast: 0.2
+    bg: bg_adv_21621.jpg
+    chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 103302
+      motion: 0
+      pos: 1
+    turnChangeIn: fadeIn
+  - nameNarration: ""
+    narration: '[se:7106_telmail]*Ring♪*'
+    narrationBg: bg_adv_21621.jpg
+    narrationEffect: in
+    turnChangeOut: fadeOut
+  - chara:
+    - id: 103302
+      lipSynch: 0
+    nameCenter: Rabi
+    narrationEffect: out
+    textCenter: …………
+  - chara:
+    - id: 103302
+      lipSynch: 0
+      motion: 300
+    nameCenter: Rabi
+    textCenter: (Everyone has become aware...)
+  - chara:
+    - id: 103302
+      lipSynch: 0
+    nameCenter: Rabi
+    textCenter: (Now, the only ones unconsciously resisting are@the Union's Magical
+      Girls...)
+  - chara:
+    - eyeClose: 1
+      id: 103302
+      lipSynch: 0
+    nameCenter: Rabi
+    textCenter: (The rest are starting to fall into place...)
+  - chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_030.exp.json
+      id: 103302
+      lipSynch: 1
+      motion: 0
+    nameCenter: Rabi
+    textCenter: '...Empty.'
+  - chara:
+    - eyeClose: 1
+      id: 103302
+      motion: 100
+    nameCenter: Rabi
+    textCenter: It seems that we really are just a part@of the universe...
+  - autoTurnLast: 0.2
+    chara:
+    - id: 103302
+      pos: 0
+    textClear: 1
+  - bgm: stop
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103701
+      motion: 0
+      pos: 2
+    nameRight: Nayuta
+    textRight: What are you talking about?
+  - chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_051.exp.json
+      id: 103302
+      lipSynch: 0
+      motion: 400
+    nameLeft: Rabi
+    textLeft: '[chara:103302:effect_emotion_surprise_0][se:7226_shock]!?'
+  - bgm: bgm03_story02
+    chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103302
+      lipSynch: 1
+    nameLeft: Rabi
+    textLeft: Lady Nayuta...@Did you have to startle me...?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103701
+      motion: 100
+      pos: 2
+    nameRight: Nayuta
+    textRight: I didn't mean to scare you.
+  - chara:
+    - id: 103701
+    nameRight: Nayuta
+    textRight: I've just gotten thirsty after going through all of this.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 103302
+      motion: 1
+      pos: 0
+    nameLeft: Rabi
+    textLeft: Shall I make some tea?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 103701
+      motion: 0
+      pos: 2
+    nameRight: Nayuta
+    textRight: No, I would like to drink some cold water.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_051.exp.json
+      id: 103302
+    nameLeft: Rabi
+    textLeft: That's unusually sportsy of you.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103701
+      motion: 200
+      pos: 2
+    nameRight: Nayuta
+    textRight: I've become fired up after taking a new step towards finding Papa!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 103302
+      motion: 100
+      pos: 0
+    nameLeft: Rabi
+    textLeft: That's wonderful.@Please let me know the details later.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103701
+    nameRight: Nayuta
+    textRight: I could tell you now.
+  - chara:
+    - id: 103302
+      motion: 0
+    nameLeft: Rabi
+    textLeft: I need to check the mailbox.
+  - autoTurnLast: 0.5
+    bg: bg_adv_11021.jpg
+    chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 103302
+      motion: 0
+      pos: 1
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 103302
+      lipSynch: 0
+    nameCenter: Rabi
+    textCenter: (Connections are being made little by little...@...as a result of
+      Lady Nayuta's efforts...)
+    turnChangeOut: fadeOut
+  - nameNarration: ""
+    narration: '*Rustle...*'
+    narrationEffect: in
+  - chara:
+    - id: 103302
+      motion: 300
+    nameCenter: Rabi
+    narrationEffect: out
+    textCenter: Addressed to Lady Nayuta...?
+  - bgm: stop
+    chara:
+    - cheek: 0
+      face: mtn_ex_051.exp.json
+      id: 103302
+    nameCenter: Rabi
+    textCenter: Oh...
+  - autoTurnLast: 0.2
+    bg: bg_adv_21621.jpg
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103701
+      motion: 0
+      pos: 0
+    turnChangeIn: rollInFast
+  - bgm: bgm03_story08
+    chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 103302
+      motion: 200
+      pos: 2
+    nameRight: Rabi
+    textRight: Lady Nayuta!
+    turnChangeOut: rollOutFast
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 103701
+      motion: 400
+      pos: 0
+    nameLeft: Nayuta
+    textLeft: W-what is it!?
+  - chara:
+    - id: 103302
+    nameRight: Rabi
+    textRight: Please open this quickly!
+  - chara:
+    - id: 103701
+      motion: 0
+    nameLeft: Nayuta
+    textLeft: An envelope? Addressed to me?
+  - chara:
+    - id: 103302
+      motion: 100
+    nameRight: Rabi
+    textRight: You are the only one to send mail to here,@Lady Nayuta.
+  - chara:
+    - id: 103302
+      motion: 400
+    nameRight: Rabi
+    textRight: But more importantly, it's from your father!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 103701
+      lipSynch: 0
+      motion: 200
+    nameLeft: Nayuta
+    textLeft: '[chara:103701:effect_emotion_surprise_0][se:7226_shock]!?'
+  - chara:
+    - id: 103701
+      lipSynch: 1
+    nameLeft: Nayuta
+    textLeft: This is certainly Papa's handwriting...@...the postmark...!?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103302
+      motion: 1
+      pos: 2
+    nameRight: Rabi
+    textRight: None... It was mailed directly...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103701
+      lipSynch: 0
+      motion: 400
+    nameLeft: Nayuta
+    textLeft: '...!'
+  - chara:
+    - id: 103701
+      lipSynch: 1
+    nameLeft: Nayuta
+    textLeft: I'll start reading it now.
+  - chara:
+    - id: 103302
+      motion: 100
+    nameRight: Rabi
+    textRight: '...Yes.'
+  - autoTurnLast: 0.2
+    chara:
+    - effect: fadeout
+      id: 103302
+    textClear: 1
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 103701
+      lipSynch: 0
+      motion: 0
+      pos: 1
+    nameCenter: Nayuta
+    textCenter: '...This stationery...'
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103701
+    nameCenter: Nayuta
+    textCenter: It's just a letter...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 103701
+      lipSynch: 0
+      motion: 1
+    nameCenter: Nayuta
+    textCenter: …………
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 103701
+      lipSynch: 0
+    nameCenter: Nayuta
+    textCenter: …………
+  - chara:
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 103701
+      lipSynch: 0
+    nameCenter: Nayuta
+    textCenter: …………[wait:0.8][chara:103701:lipSynch_1]No...this isn't...
+  - autoTurnLast: 0.2
+    chara:
+    - id: 103701
+      pos: 0
+    textClear: 1
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 103302
+      motion: 0
+      pos: 2
+    nameRight: Rabi
+    textRight: Lady Nayuta...?
+  - chara:
+    - cheek: 2
+      id: 103701
+      motion: 400
+    nameLeft: Nayuta
+    textBg: shout
+    textLeft: '...This...is not Papa!'
+  - autoTurnLast: 0.5
+    chara:
+    - effect: fadeout
+      id: 103701
+    textClear: 1
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103302
+      motion: 400
+      pos: 2
+    nameRight: Rabi
+    textRight: Lady Nayuta!@...You left the letter...
+  - chara:
+    - id: 103302
+      lipSynch: 0
+      motion: 0
+      pos: 1
+    nameCenter: Rabi
+    textCenter: …………[wait:1.0][chara:103302:cheek_0][chara:103302:face_mtn_ex_020.exp.json:motion_100][chara:103302:lipSynch_1]@Please
+      excuse me.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_051.exp.json
+      id: 103302
+      lipSynch: 0
+    nameCenter: Rabi
+    textCenter: …………
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103302
+      lipSynch: 0
+    nameCenter: Rabi
+    textCenter: …………[wait:1.0][chara:103302:cheek_0][chara:103302:motion_300][chara:103302:lipSynch_1]@This
+      is...dreadful...
+  - bg: black
+    bgm: stop
+    nameNarration: ""
+    narration: Nayuta, Papa has decided to give up.@There is no way to save Magical
+      Girls.
+    narrationBg: black
+    narrationEffect: in
+  - autoTurnLast: 2
+    bg: bg_adv_18081.jpg
+    chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 103301
+      motion: 0
+      pos: 1
+    narrationEffect: out
+    turnChangeIn: fadeIn
+    turnChangeInTime: 1
+  - bgm: bgm24_story07
+    chara:
+    - id: 103301
+    nameCenter: Rabi
+    textCenter: All of the [textYellow:Kimochi] stones have been gathered,@but not
+      without casualties.
+    turnChangeOut: fadeOut
+    turnChangeOutTime: 1
+  - chara:
+    - id: 103301
+      motion: 300
+    nameCenter: Rabi
+    textCenter: Each and every action made by the Magical Girls@gathered in Kamihama...
+  - chara:
+    - eyeClose: 1
+      id: 103301
+    nameCenter: Rabi
+    textCenter: advance the hands of this clock...
+  - autoTurnLast: 0.5
+    chara:
+    - effect: fadeout
+      id: 103301
+    textClear: 1
+  - autoTurnLast: 2
+    item:
+    - path: resource/scenario/img/part2_chapter1/102204_pocketwatch_four.png
+      posX: 0
+      posY: 0
+      visible: appear
+  - autoTurnLast: 2
+    item:
+    - path: resource/scenario/img/part2_chapter4/102505_pocketwatch_three.png
+      posX: 0
+      posY: 0
+      visible: appear
+    - path: resource/scenario/img/part2_chapter1/102204_pocketwatch_four.png
+      visible: hide
+  - autoTurnLast: 1
+    item:
+    - path: resource/scenario/img/part2_chapter4/102505_pocketwatch_three.png
+      visible: hide
+  - chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_030.exp.json
+      id: 103301
+      motion: 0
+      pos: 1
+    nameCenter: Rabi
+    textCenter: Is this how it should be...?
+  - chara:
+    - id: 103301
+      motion: 100
+    nameCenter: Rabi
+    textCenter: At the very least, if left alone,@we will all be beyond saving...
+  - autoTurnLast: 0.01
+    bg: black
+    item:
+    - path: resource/scenario/img/part2_chapter4/102505_pray_rabi.jpg
+      posX: 0
+      posY: 0
+      visible: appear
+    turnChangeIn: fadeIn
+  - nameNarration: Rabi
+    narration: Yet we can only watch over them.@We can only watch over their actions.
+    narrationAnchor: bottom
+    narrationCoverOpacity: 110
+    narrationEffect: in
+    narrationFontSize: 30
+    narrationLineMargin: 35
+    narrationLineSpace: 20
+    turnChangeOut: fadeOut
+  - narration: But should this world reject what we Magical Girls do,
+  - narration: then in order to continue watching over them,@in order to keep them
+      alive,
+  - narration: we will eventually be forced to take lives ourselves...
+  - autoTurnLast: 2
+    bgm: stop
+    item:
+    - path: resource/scenario/img/part2_chapter4/102505_pray_rabi.jpg
+      visible: hide
+    narrationEffect: out
+    turnChangeIn: fadeIn
+version: 3
+...

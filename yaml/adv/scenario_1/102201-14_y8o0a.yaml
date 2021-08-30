@@ -27,7 +27,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-14-2
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-1
     nameLeft: Mitama
-    textLeft: Welcome back. Did you find anything?
+    textLeft: Welcome back.@Did you find anything?
   - chara:
     - cheek: 1
       face: mtn_ex_060.exp.json
@@ -148,7 +148,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-14-17
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-16
     nameRight: Tsuruno
-    textRight: The people who attacked us, they weren't@the Wings of the Magius.
+    textRight: The people who attacked us,@they weren't the Wings of the Magius.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -156,7 +156,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-14-18
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-17
-    textRight: But they were just as strong as those of us@that have gotten adjusted...
+    textRight: But they were just as strong as@those of us that you enhanced...
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -174,7 +174,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-14-20
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-19
     nameRight: Sana
-    textRight: When you saw the picture and when@you touched Ui...
+    textRight: When you saw the picture and@when you touched Ui...
   - chara:
     - id: 100401
       voiceFull: fullvoice/section_102201/vo_full_102201-14-21
@@ -196,7 +196,7 @@ story:
       id: 100101
       voiceFull: fullvoice/section_102201/vo_full_102201-14-23
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-22
-    textRight: But you're the only person we know of@who can adjust Soul Gems...
+    textRight: But you're the only person we know @f who can tune up Soul Gems...
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json
@@ -221,7 +221,7 @@ story:
       id: 101501
       voiceFull: fullvoice/section_102201/vo_full_102201-14-26
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-25
-    textRight: Mitama... She really didn't know anything...!
+    textRight: Mitama...@She really didn't know anything...!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -242,7 +242,7 @@ story:
     - id: 101700
       voiceFull: fullvoice/section_102201/vo_full_102201-14-29
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-28
-    textLeft: After all, you all can't see into people@like I can...
+    textLeft: After all, you all can't@see into people like I can...
   - chara:
     - id: 101501
       motion: 0
@@ -261,7 +261,7 @@ story:
     - id: 101700
       voiceFull: fullvoice/section_102201/vo_full_102201-14-32
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-31
-    textLeft: If there's anything that you can tell me@about them, let me know.
+    textLeft: If there's anything that you can tell@me about them, let me know.
   - chara:
     - id: 101700
       motion: 200
@@ -292,7 +292,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-14-36
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-35
     nameRight: Yachiyo
-    textRight: Also, the place they hail from seems to@be called Futatsugi City.
+    textRight: Also, the place they hail from seems@to be called Futatsugi City.
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json
@@ -326,7 +326,7 @@ story:
       id: 101700
       voiceFull: fullvoice/section_102201/vo_full_102201-14-41
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-40
-    textLeft: It's fine, I've done enough terrible things to@merit your suspicion.
+    textLeft: It's fine, I've done enough terrible@things to merit your suspicion.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -361,7 +361,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-14-44
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-43
-    textLeft: There shouldn't be anyone except for Mitama@that can adjust Soul Gems,
+    textLeft: There shouldn't be anyone except for Mitama@that can enhance Soul Gems,
       right?
   - autoTurnLast: 0.2
     chara:
@@ -377,7 +377,7 @@ story:
       pos: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-14-45
     nameLeft: Mitama
-    textLeft: Yes...there shouldn't be anyone in this city@except for me that can
+    textLeft: Yes...there shouldn't be anyone in@this city except for me that can
       do it.
   - chara:
     - id: 101700
@@ -392,7 +392,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-14-47
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-46
     nameRight: Tsuruno
-    textRight: Eh, wait a second! Are there other Coordinators?!
+    textRight: Eh, wait a second!@Are there other Coordinators?!
   - chara:
     - id: 101700
       motion: 100
@@ -444,7 +444,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-14-52
     nameLeft: ???
-    textLeft: Alright, yer adjustment is finished.
+    textLeft: Alright, yer coordination is finished.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0

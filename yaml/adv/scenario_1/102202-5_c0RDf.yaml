@@ -46,7 +46,7 @@ story:
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-3
     enableSkipAutoTurn: 1
     textLeft: Just one more bite...and then another...@That's how you'll overcome
-      the wall!
+      this wall!
   - chara:
     - eyeClose: 0
       id: 100301
@@ -152,7 +152,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-5-13
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-12
-    textRight: I'll make you some egg porridge, Ui, alright...?
+    textRight: Ui, I'll make you some egg porridge, alright...?
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
@@ -163,7 +163,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-5-14
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-13
     nameLeft: Ui
-    textLeft: Yeah...
+    textLeft: Okay...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -190,7 +190,7 @@ story:
     - id: 100101
       voiceFull: fullvoice/section_102202/vo_full_102202-5-16
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-15
-    textLeft: I can probably make it a little more mild with@some vinegar or eggs.
+    textLeft: I can probably make it a little milder@with some vinegar or eggs.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -221,7 +221,7 @@ story:
     - id: 100201
       voiceFull: fullvoice/section_102202/vo_full_102202-5-19
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-18
-    textCenter: Hey, what is this smell? I feel like I'm@being steamed...
+    textCenter: Hold on, what is this smell?@I feel like I'm choking on it...
   - autoTurnLast: 0.2
     chara:
     - id: 100201
@@ -236,7 +236,7 @@ story:
       pos: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-5-20
     nameLeft: Tsuruno
-    textLeft: Oh no, what timing...!
+    textLeft: Urgh, what timing...!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -245,7 +245,8 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-5-21
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-20
     nameRight: Yachiyo
-    textRight: Please open the window... The room is going@to turn into chili peppers...
+    textRight: Please open the window...@It's like the room is made out of chilli
+      peppers...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -325,7 +326,7 @@ story:
     - id: 100201
       voiceFull: fullvoice/section_102202/vo_full_102202-5-30
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-29
-    textRight: If you're changing the seasoning,@I'll help you with that.
+    textRight: If you're adjusting the flavor,@I'll help you with that.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -356,7 +357,7 @@ story:
     - id: 100401
       voiceFull: fullvoice/section_102202/vo_full_102202-5-34
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-33
-    textLeft: We had some cold rice and eggs, so I'm making@something for Ui with
+    textLeft: We had some cold rice and eggs, so I'm@making something for Ui with
       that.
   - chara:
     - cheek: 0
@@ -427,7 +428,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-5-43
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-42
-    textLeft: Oh...
+    textLeft: Ah...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -443,7 +444,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-5-45
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-44
-    textLeft: Yes... I was going to meet with some people@tomorrow.
+    textLeft: Yes... I was going to meet@with some people tomorrow.
   - chara:
     - id: 100201
       motion: 0
@@ -455,7 +456,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-5-47
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-46
-    textLeft: No, with some girls we met at the@supermarket today.
+    textLeft: No, with some girls we met@at the supermarket today.
   - chara:
     - id: 100101
       voiceFull: fullvoice/section_102202/vo_full_102202-5-48
@@ -516,7 +517,7 @@ story:
       motion: 301
       voiceFull: fullvoice/section_102202/vo_full_102202-5-55
       voiceFullStop: fullvoice/section_102202/vo_full_102202-5-54
-    textRight: An elementary schooler meeting up with@strangers on her own...
+    textRight: An elementary schooler meeting@up with strangers on her own...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

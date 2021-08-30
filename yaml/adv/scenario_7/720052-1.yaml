@@ -15,7 +15,7 @@ story:
     - id: 200552
       motion: 103
     nameCenter: Mami
-    textCenter: '...Haa~... @...It''s cold...'
+    textCenter: '...*Sigh*... @...It''s cold...'
     turnChangeOut: fadeOut
   - chara:
     - id: 200552
@@ -38,7 +38,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 200552
       lipSynch: 0
-    textCenter: (hehe, this is what winter is all about, of course.)
+    textCenter: (Hehe, this is what winter is all about, of course.)
   - nameRight: Madoka's Voice
     textRight: Mami!
     turnEffect: stop
@@ -77,7 +77,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 200552
       motion: 200
-    textLeft: Good afternoon Madoka, Homura
+    textLeft: Good afternoon Madoka, Homura.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -104,7 +104,7 @@ story:
   - chara:
     - id: 200150
       motion: 300
-    textRight: Mami want to come join us?
+    textRight: Mami, want to come join us?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -140,7 +140,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 200552
-    textLeft: Hehe
+    textLeft: Hehe.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -208,7 +208,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 200552
-    textLeft: '...That sounds like fun'
+    textLeft: '...That sounds like fun.'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -245,7 +245,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Madoka
-    textRight: '*sniff*@...I think...it''s probably just too cold out...'
+    textRight: '*Sniff*@...I think...it''s probably just too cold out...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -286,7 +286,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 200150
       motion: 1
-    textRight: Waa! Is that okay?
+    textRight: Wha! Is that okay?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -297,7 +297,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200552
-    textLeft: It has spices in it that should warm you right up
+    textLeft: It has spices in it that should warm you right up.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -305,17 +305,17 @@ story:
       motion: 300
       pos: 2
     nameRight: Homura
-    textRight: S, spice...! @Um...is that...bitter?
+    textRight: S-spice...! @Um...is that...bitter?
   - chara:
     - id: 200552
       motion: 200
     textLeft: I think it should be fine.
   - chara:
     - id: 200552
-    textLeft: If I make it like milk tea it should be more mild
+    textLeft: If I make it like milk tea it should be more mild...
   - chara:
     - id: 200552
-    textLeft: since it has sugar and honey.
+    textLeft: '...since it has sugar and honey.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -336,7 +336,7 @@ story:
       pos: 1
     - id: 200351
       motion: 100
-    nameCenter: Madoka&Homura
+    nameCenter: Madoka & Homura
     textCenter: Yeah!
   - chara:
     - cheek: 0

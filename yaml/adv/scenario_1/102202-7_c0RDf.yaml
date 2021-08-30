@@ -50,7 +50,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-7-5
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-4
-    textRight: But looking at them now, it seems like it's all true...
+    textRight: But looking at them now,@it seems like it's all true...
   - chara:
     - id: 101501
       motion: 100
@@ -70,8 +70,8 @@ story:
     voiceFullStop: fullvoice/section_102202/vo_full_102202-7-6
   - bgm: bgm23_tokime03
     nameNarration: Shizuka
-    narration: ―Shizuka―@In front of us...behind us...on both sides of us...@There
-      are people flowing...
+    narration: ―Shizuka―@In front of us...behind us...@On both sides of us...people
+      are streaming by...
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -80,7 +80,7 @@ story:
     narrationLineSpace: 20
     turnChangeOut: fadeOut
     voiceFull: fullvoice/section_102202/vo_full_102202-7-7
-  - narration: ―Shizuka―@This is a river of humans...@A current of people...
+  - narration: ―Shizuka―@This is a river of humans...@A current made of people...
     voiceFull: fullvoice/section_102202/vo_full_102202-7-8
     voiceFullStop: fullvoice/section_102202/vo_full_102202-7-7
   - narration: ―Shizuka―@I feel like I’m being sucked into a whirlpool...!
@@ -90,7 +90,7 @@ story:
     narration: ―Sunao―@Shizuka, what are you saying?!@Come back to us!
     voiceFull: fullvoice/section_102202/vo_full_102202-7-10
     voiceFullStop: fullvoice/section_102202/vo_full_102202-7-9
-  - narration: ―Sunao―@Keep a grip on yourself, this is just a flow of people.
+  - narration: ―Sunao―@Keep hold of yourself,@these are just people passing by.
     voiceFull: fullvoice/section_102202/vo_full_102202-7-11
     voiceFullStop: fullvoice/section_102202/vo_full_102202-7-10
   - narration: ―Sunao―@You’ll get used to it eventually...!
@@ -143,7 +143,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102202/vo_full_102202-7-18
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-17
-    textLeft: That's right... Chiharu, are you okay?
+    textLeft: That's right...@Chiharu, are you okay?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -160,7 +160,7 @@ story:
       id: 102601
       voiceFull: fullvoice/section_102202/vo_full_102202-7-20
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-19
-    textRight: Taking some deep breaths helped me@calm down a bit.
+    textRight: Taking some deep breaths@helped me calm down a bit.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -178,7 +178,7 @@ story:
       pos: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-7-21
     nameCenter: Shizuka
-    textCenter: These are people...a flow of people...
+    textCenter: These are people...just people passing by...
   - chara:
     - id: 102501
       voiceFull: fullvoice/section_102202/vo_full_102202-7-22
@@ -188,14 +188,14 @@ story:
     - id: 102501
       voiceFull: fullvoice/section_102202/vo_full_102202-7-23
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-22
-    textCenter: It’s okay...it’s okay...
+    textCenter: Everything's okay...@I'm okay...
   - chara:
     - eyeClose: 0
       id: 102501
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-7-24
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-23
-    textCenter: If I got swallowed up by a flow of people like this...
+    textCenter: If I got swallowed up by@the flow of people like this...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -203,7 +203,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-7-25
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-24
-    textCenter: I wouldn’t be fulfilling my role as a member@of the head family!!
+    textCenter: I wouldn’t be living up to@the honor of the head family!!
   - autoTurnLast: 0.2
     chara:
     - id: 102501
@@ -264,7 +264,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Felicia
-    textRight: What is this...?
+    textRight: The hell is this...?
   - bgm: bgm03_story19
     chara:
     - cheek: 1
@@ -318,7 +318,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-7-36
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-35
     nameRight: Tsuruno
-    textRight: As a matter of fact, I asked Yachiyo for some@recommendations.
+    textRight: I asked Yachiyo for some sightseeing@recommendations, just in case..
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -332,14 +332,14 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-7-38
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-37
-    textRight: Nope, she apparently just hears about them@from people at work.
+    textRight: Nope, she apparently just hears@about them from people at work.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101501
       voiceFull: fullvoice/section_102202/vo_full_102202-7-39
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-38
-    textLeft: Huh.
+    textLeft: Huuuh.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -349,7 +349,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-7-40
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-39
     nameLeft: Felicia
-    textLeft: Yo, they have some tasty lookin' popcorn@over there!
+    textLeft: Yo, they have some tasty@lookin' popcorn over there!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -374,7 +374,7 @@ story:
       id: 102701
       voiceFull: fullvoice/section_102202/vo_full_102202-7-43
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-42
-    textRight: The popped kernel mascot is cute too!
+    textRight: The popped kernel mascot is adorable too!
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -404,7 +404,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-7-45
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-44
     nameRight: Sana
-    textRight: It looks like they'll be able to have fun without@any help...
+    textRight: It looks like they'll be able to@have fun without any help...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -412,7 +412,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-7-46
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-45
-    textLeft: Yeah, that's good!
+    textLeft: Yeah, that's wonderful
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -443,7 +443,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-7-48
       voiceFullStop: fullvoice/section_102202/vo_full_102202-7-47
     nameRight: Chiharu
-    textRight: Urgh...
+    textRight: Urp...
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

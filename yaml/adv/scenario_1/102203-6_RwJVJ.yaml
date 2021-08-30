@@ -21,7 +21,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-6-1
     nameLeft: ???
-    textLeft: Everyone, please! Don't let them through!
+    textLeft: Everyone, please!@Don't let them through!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:

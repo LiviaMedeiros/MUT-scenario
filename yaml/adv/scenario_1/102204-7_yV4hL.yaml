@@ -50,7 +50,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102204/vo_full_102204-7-4
       voiceFullStop: fullvoice/section_102204/vo_full_102204-7-3
-    textLeft: I guess this is what they mean by playing@with fire and getting burned...
+    textLeft: I guess this is what they mean by@playing with fire and getting burned...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json

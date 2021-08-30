@@ -41,7 +41,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-14-4
       voiceFullStop: fullvoice/section_102204/vo_full_102204-14-3
     nameCenter: Aru
-    textCenter: <That's what it looks like to see Magical Girls@fighting against destiny.>
+    textCenter: <That's what it looks like to see Magical@Girls fighting against destiny.>
   - chara:
     - id: 102001
       lipSynch: 0
@@ -141,7 +141,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102204/vo_full_102204-14-14
       voiceFullStop: fullvoice/section_102204/vo_full_102204-14-13
-    textLeft: That's amazing! You really got your hands on one!
+    textLeft: That's amazing!@You really got your hands on one!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -203,7 +203,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-14-20
       voiceFullStop: fullvoice/section_102204/vo_full_102204-14-19
     nameRight: Juri
-    textRight: What the hell? Don't tell me you're having@second thoughts now?
+    textRight: What the hell? Don't tell me you're@having second thoughts now?
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -451,7 +451,7 @@ story:
       id: 102301
       voiceFull: fullvoice/section_102204/vo_full_102204-14-47
       voiceFullStop: fullvoice/section_102204/vo_full_102204-14-46
-    textRight: I'd like to report our progress to Janomiya@and the rest.
+    textRight: I'd like to report our progress@to Janomiya and the rest.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

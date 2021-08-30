@@ -50,7 +50,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-9-3
       voiceFullStop: fullvoice/section_102203/vo_full_102203-9-2
     nameRight: ""
-    textRight: We're fighting so desperately, but you're@not even joining in...
+    textRight: We're fighting so desperately,@but you're not even joining in...
   - chara:
     - id: 102400
       motion: 1
@@ -63,7 +63,7 @@ story:
       id: 102400
       voiceFull: fullvoice/section_102203/vo_full_102203-9-5
       voiceFullStop: fullvoice/section_102203/vo_full_102203-9-4
-    textLeft: The Great Juri is saving up flames for the@extra boss.
+    textLeft: The Great Juri is saving up flames@for the extra boss.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -125,7 +125,7 @@ story:
       motion: 400
       voiceFull: fullvoice/section_102203/vo_full_102203-9-10
       voiceFullStop: fullvoice/section_102203/vo_full_102203-9-9
-    textLeft: I'm sure there are still some enemies left.@Get it together everyone.
+    textLeft: I'm sure there are still some enemies left.@Get it together, everyone.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -199,7 +199,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-9-17
       voiceFullStop: fullvoice/section_102203/vo_full_102203-9-16
     nameRight: ???
-    textRight: I've hated you Kamihama Magical Girls@from the very start.
+    textRight: I've hated you Kamihama Magical@Girls from the very start.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -261,7 +261,7 @@ story:
       pos: 0
     nameLeft: ???
     nameRight: ???
-    textRight: Especially those who are carrying on the@Wings of Magius~
+    textRight: Especially those who are carrying@on the Wings of Magius~
   - chara:
     - id: 102400
       motion: 300
@@ -272,7 +272,7 @@ story:
     - id: 102400
       voiceFull: fullvoice/section_102203/vo_full_102203-9-22
       voiceFullStop: fullvoice/section_102203/vo_full_102203-9-21
-    textLeft: You should consider yourselves lucky that@we don't kill you on sight.
+    textLeft: You should consider yourselves lucky@that we don't kill you on sight.
   - autoTurnLast: 0.2
     chara:
     - id: 102400
@@ -296,7 +296,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-9-24
       voiceFullStop: fullvoice/section_102203/vo_full_102203-9-23
     textBg: shout
-    textRight: I'm sayin' that what you did caused@a ton of suffering!
+    textRight: I'm sayin' that what you did@caused a ton of suffering!
   - autoTurnLast: 1
     bgm: stop
     flashEffect: flashWhite2
@@ -324,7 +324,7 @@ story:
       visible: appear
     nameCenter: ""
     textBg: shout
-    textCenter: '[bgEffect:shakeLarge]∵GRAaAAAA!!'
+    textCenter: '[bgEffect:shakeLarge]∵GRAaaAAA!!'
   - autoTurnLast: 0.2
     item:
     - path: resource/scenario/img/part2_chapter1/102203_kimochi_aquamarine.png
@@ -393,7 +393,7 @@ story:
     - id: 102400
       voiceFull: fullvoice/section_102203/vo_full_102203-9-31
       voiceFullStop: fullvoice/section_102203/vo_full_102203-9-30
-    textLeft: And on top of that, it's hittin' me with an emotion@that's so direct
+    textLeft: And on top of that, it's hittin' me with an@emotion that's so direct
       I'm getting chills.
   - chara:
     - cheek: 0
@@ -407,15 +407,15 @@ story:
     - id: 102400
       voiceFull: fullvoice/section_102203/vo_full_102203-9-33
       voiceFullStop: fullvoice/section_102203/vo_full_102203-9-32
-    textLeft: Juri the Great's just gonna have to hit it with an@emotion that's every
+    textLeft: Juri the Great's just gonna have to hit it with@an emotion that's every
       bit as strong.
   - chara:
     - id: 102400
       motion: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-9-34
       voiceFullStop: fullvoice/section_102203/vo_full_102203-9-33
-    textLeft: With all the anger that's been brewing for the Wings@of the Magius and
-      the flames I've been building up...
+    textLeft: With all the anger that's been brewing for the@Magius and the flames
+      I've been building up...
   - chara:
     - id: 102400
       motion: 100
@@ -460,7 +460,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-9-37
     nameLeft: Kanagi
     nameRight: Mifuyu
-    textLeft: Do you feel magic readings from the radio@telescope, Mifuyu?
+    textLeft: Do you feel magic readings@from the radio telescope, Azusa?
     turnChangeOut: fadeOut
   - chara:
     - id: 100600

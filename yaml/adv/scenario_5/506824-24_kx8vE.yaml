@@ -75,7 +75,7 @@ story:
       id: 102500
       lipSynch: 0
       motion: 400
-    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]--―!?'
+    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]―――!?'
   - chara:
     - id: 102500
     textRight: '------―'
@@ -165,7 +165,7 @@ story:
       id: 102500
       lipSynch: 0
       motion: 0
-    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]--―!?'
+    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]―――!?'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -310,7 +310,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102500
       lipSynch: 0
-    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]--―!?'
+    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]―――!?'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -348,13 +348,13 @@ story:
       id: 102500
       lipSynch: 0
       motion: 0
-    textRight: ―!!
+    textRight: '!!'
   - chara:
     - id: 102500
       motion: 400
       mouthOpen: 1
     textBg: shout
-    textRight: MIKOSHIBAAAAAA---!!
+    textRight: MIKOSHIBAAAAAA!!
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -369,7 +369,7 @@ story:
       lipSynch: 0
       motion: 0
       pos: 1
-    textCenter: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textCenter: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]!?'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -469,7 +469,7 @@ story:
       lipSynch: 0
     nameLeft: Mikoshiba
     nameRight: Chiharu
-    textLeft: -!?
+    textLeft: '!?'
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -531,7 +531,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102600
       lipSynch: 0
-    textCenter: '[chara:102600:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textCenter: '[chara:102600:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - id: 102600
     textCenter: A piece of cloth...?
@@ -574,7 +574,7 @@ story:
       face: mtn_ex_060.exp.json
       id: 102600
     nameCenter: Chiharu
-    textCenter: 'Chiharu: I''m falling...!'
+    textCenter: I'm falling...!
   - autoTurnLast: 2
     chara:
     - effect: fadeout
@@ -646,7 +646,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 102600
-    textCenter: 'Chiharu: I''m falling...!'
+    textCenter: I'm falling...!
   - select:
     - alternativeId: 7
       group: group_2

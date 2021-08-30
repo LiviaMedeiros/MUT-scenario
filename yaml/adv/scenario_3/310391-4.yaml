@@ -71,9 +71,9 @@ story:
       motion: 100
     surround: stop
     textLeft: It would appear her high spirits is due to@the fact that she was able
-      to share
+      to share...
     turnEffect: stop
-  - textLeft: with the person who purchased the book@and exchange contact information.
+  - textLeft: '...with the person who purchased the book@and exchange contact information.'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -93,7 +93,7 @@ story:
       id: 103901
       lipSynch: 0
       motion: 300
-    textRight: ' …………'
+    textRight: …………
   - chara:
     - id: 104101
       motion: 200

@@ -1,0 +1,62 @@
+---
+story:
+  group_1:
+  - autoTurnLast: 0.2
+    bg: bg_adv_18094.jpg
+    chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 102500
+      motion: 0
+      pos: 2
+    turnChangeIn: fadeIn
+  - bgm: bgm22_battle27
+    chara:
+    - id: 102500
+      lipSynch: 0
+      motion: 200
+    nameRight: Shizuka
+    textRight: (Shigure, Hagumu...)
+    turnChangeOut: fadeOut
+  - autoTurnLast: 0.2
+    chara:
+    - effect: fadeout
+      id: 102500
+    textClear: 1
+  - chara:
+    - id: 6017
+      name: sprite_0
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 770300
+      motion: 200
+      pos: 2
+    nameLeft: ""
+    textLeft: '[flashEffect:flashRed2][se:3001_chara_damage][bgEffect:shakeLarge][name:sprite_0:effect_shake]∵Ya＿Heeee―!?'
+  - chara:
+    - id: 770300
+      motion: 400
+    nameRight: ""
+    textRight: Shizuka! The Kimochi appears to be weakening!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 100400
+      motion: 200
+      pos: 2
+    nameRight: Sana
+    textRight: We'll bind the [textYellow:Kimochi] while we still can!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 102500
+      motion: 100
+      pos: 2
+    nameRight: Shizuka
+    textRight: Thanks, everyone!@I need time to prepare the finishing strike!
+  - autoTurnLast: 2
+    bgm: stop
+    turnChangeIn: fadeIn
+version: 3
+...

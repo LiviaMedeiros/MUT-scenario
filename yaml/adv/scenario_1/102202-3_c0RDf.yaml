@@ -57,7 +57,7 @@ story:
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-3
     enableSkipAutoTurn: 1
     textBg: shout
-    textLeft: We're going to use up ALL the chili peppers for@this dinner!!
+    textLeft: We're going to use up ALL the@chili peppers for this dinner!!
   - bgEffect: shakeLarge
     chara:
     - cheek: 1
@@ -81,7 +81,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102202/vo_full_102202-3-6
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-5
-    textRight: Um, that sounds like it'll make the food@really spicy...
+    textRight: Um, that sounds like it'll@make the food really spicy...
   - chara:
     - cheek: 1
       face: mtn_ex_001.exp.json
@@ -110,7 +110,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-3-10
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-9
-    textRight: Um...still, that sounds...a little bit spicy...
+    textRight: But still...um...you mean it'll only@be a little bit spicy, right...?
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -126,7 +126,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-3-12
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-11
-    textRight: Then we'll really...
+    textRight: Then you'll really...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -176,7 +176,7 @@ story:
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-16_tsuruno
     - id: 100501
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-16_felicia
-    textRight: Th-that's... I won't be able to eat that...
+    textRight: B-but that's...@I won't be able to eat that...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -186,7 +186,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-3-18
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-17
     nameLeft: Felicia
-    textLeft: Well, me either.
+    textLeft: Well, me neither.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -194,7 +194,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-3-19
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-18
-    textRight: Eh, eh...@I don't understand what you're saying...
+    textRight: Eh, eh...?@I don't understand what you're saying...
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -205,13 +205,13 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-3-20
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-19
     nameLeft: Tsuruno
-    textLeft: If you overcome spiciness,@it becomes deliciousness.
+    textLeft: If you overcome the spiciness,@it becomes deliciousness.
   - chara:
     - eyeClose: 1
       id: 100301
       voiceFull: fullvoice/section_102202/vo_full_102202-3-21
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-20
-    textLeft: Overcoming something is proof that you've@become stronger.
+    textLeft: Overcoming something is proof@that you've become stronger.
   - chara:
     - cheek: 1
       eyeClose: 0
@@ -220,7 +220,7 @@ story:
       motion: 101
       voiceFull: fullvoice/section_102202/vo_full_102202-3-22
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-21
-    textLeft: This will be one step towards becoming stronger@for both of you!
+    textLeft: Felicia, Sana, this'll be one step@towards becoming stronger for you!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -230,7 +230,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-3-23
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-22
     nameRight: Felicia
-    textRight: That's what Tsuruno's sayin', so I've decided@to eat it too!
+    textRight: That's what Tsuruno's sayin',@so I've decided to eat it too!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -257,7 +257,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-3-26
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-25
     textBg: shout
-    textLeft: Felicia! Put in the oil and the chili peppers!
+    textLeft: Felicia! Put in the oil and chili peppers!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -268,7 +268,7 @@ story:
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-26
     nameRight: Felicia
     textBg: shout
-    textRight: '[flashEffect:flashWhite1]On it!!'
+    textRight: '[flashEffect:flashWhite1]On it!!!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -303,7 +303,7 @@ story:
     - id: 101501
       voiceFull: fullvoice/section_102202/vo_full_102202-3-29
     nameCenter: Ui
-    textCenter: The heavy items like milk and potatoes go@in the bottom of the bag...
+    textCenter: The heavy items like milk and potatoes@go in the bottom of the bag...
     turnChangeOut: fadeOut
   - chara:
     - id: 101501
@@ -347,7 +347,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-3-34
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-33
-    textLeft: No, Tsuruno started making a super@spicy dinner...
+    textLeft: No, she said Tsuruno started@making a super spicy dinner...
   - chara:
     - id: 101501
       motion: 400
@@ -361,12 +361,12 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-3-36
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-35
-    textLeft: She said she convinced them to wait until@we're back from shopping.
+    textLeft: She convinced them to wait until@we're back from shopping.
   - chara:
     - id: 100101
       voiceFull: fullvoice/section_102202/vo_full_102202-3-37
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-36
-    textLeft: But I don't know what I'm gonna do about@the prep work...
+    textLeft: But Tsuruno wanted to start doing prep work.@I'm not sure what to do...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -407,7 +407,7 @@ story:
     narration: '*Beep*'
     narrationEffect: in
     voiceFullStop: fullvoice/section_102202/vo_full_102202-3-41
-  - narration: '*Ding*'
+  - narration: '*Bzzt*'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -447,7 +447,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-3-49
       voiceFullStop: fullvoice/section_102202/vo_full_102202-3-48
-    textCenter: One type is enough...
+    textCenter: One type should be enough!
   - chara:
     - id: 102501
       motion: 200
@@ -458,7 +458,7 @@ story:
     narration: '*Beep*'
     narrationEffect: in
     voiceFullStop: fullvoice/section_102202/vo_full_102202-3-50
-  - narration: '*Ding*'
+  - narration: '*Bzzt*'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -516,7 +516,7 @@ story:
       pos: 2
       voiceFull: fullvoice/section_102202/vo_full_102202-3-60
     nameRight: Iroha
-    textRight: I'm not an employee...
+    textRight: Oh, I'm not an employee...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

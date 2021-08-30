@@ -88,7 +88,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-4-6
       voiceFullStop: fullvoice/section_102203/vo_full_102203-4-5
     nameLeft: Kaede
-    textLeft: Yeah, aren't they locked down from transforming@right now...?
+    textLeft: Yeah, aren't they locked down@from transforming right now...?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -101,7 +101,7 @@ story:
       id: 101901
       motion: 0
     nameCenter: Tsukuyo
-    textCenter: Mifuyu and Kanagi are on their way presently,@so it should work out.
+    textCenter: Mifuyu and Kanagi are on their way@presently, so it should work out.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -125,7 +125,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102203/vo_full_102203-4-10
       voiceFullStop: fullvoice/section_102203/vo_full_102203-4-9
-    textCenter: Therefore we decided to focus on other@matters first.
+    textCenter: Therefore we decided to focus@on other matters first.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -143,7 +143,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-4-12
       voiceFullStop: fullvoice/section_102203/vo_full_102203-4-11
     nameLeft: Momoko
-    textLeft: I see, and that's the reason that you called us@out here, I take it.
+    textLeft: I see, and that's the reason that@you called us out here, I take it.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -212,7 +212,7 @@ story:
       pos: 2
       voiceFull: fullvoice/section_102203/vo_full_102203-4-19
     nameRight: Kaede
-    textRight: I'm scared of getting swarmed like@Iroha was before...
+    textRight: I'm scared of getting swarmed@like Iroha was before...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -222,7 +222,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-4-20
       voiceFullStop: fullvoice/section_102203/vo_full_102203-4-19
     nameLeft: Momoko
-    textLeft: There are some Magical Girls who have@their sights set on us...
+    textLeft: There are some Magical Girls who@have their sights set on us...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -232,7 +232,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-4-21
       voiceFullStop: fullvoice/section_102203/vo_full_102203-4-20
     nameLeft: Rena
-    textLeft: Those Magical Girl Supremacists sound@like trouble too.
+    textLeft: Those Magical Girl Supremacists@sound like trouble too.
   - chara:
     - id: 100901
       voiceFull: fullvoice/section_102203/vo_full_102203-4-22
@@ -328,7 +328,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-4-31
       voiceFullStop: fullvoice/section_102203/vo_full_102203-4-30
-    textCenter: For now, let's go check out this place you@reported about.
+    textCenter: For now, let's go check out this@place you reported about.
   - bgm: stop
     nameRight: Ryo's Voice
     textRight: Heeeey!
@@ -384,13 +384,13 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-4-37
       voiceFullStop: fullvoice/section_102203/vo_full_102203-4-36
     nameLeft: Tsukasa
-    textLeft: Is there a reason that she was trying to@get away from you?
+    textLeft: Is there a reason that she was@trying to get away from you?
   - chara:
     - id: 305301
       motion: 1
       voiceFull: fullvoice/section_102203/vo_full_102203-4-38
       voiceFullStop: fullvoice/section_102203/vo_full_102203-4-37
-    textRight: Actually, I told her about how the new Wings@of the Magius tried to
+    textRight: Actually, I told her about how the new@Wings of the Magius tried to
       recruit me...
   - chara:
     - id: 305301
@@ -412,7 +412,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-4-41
       voiceFullStop: fullvoice/section_102203/vo_full_102203-4-40
     nameLeft: Rena
-    textLeft: I thought she didn't believe that Alina@was a Magius?
+    textLeft: I thought she didn't believe@that Alina was a Magius?
   - chara:
     - eyeClose: 0
       id: 305301
@@ -434,7 +434,7 @@ story:
     - id: 101101
       voiceFull: fullvoice/section_102203/vo_full_102203-4-44
       voiceFullStop: fullvoice/section_102203/vo_full_102203-4-43
-    textRight: I'd do the same thing if Momoko and Rena@went missing.
+    textRight: I'd do the same thing if Momoko@and Rena-chan went missing.
   - chara:
     - eyeClose: 1
       id: 101101

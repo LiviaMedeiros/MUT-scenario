@@ -37,7 +37,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 103801
       motion: 100
-    narration: 「and if we can make it that far, then it’s a GOAL!」
+    narration: 「And if we can make it that far, then it’s a GOAL!」
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

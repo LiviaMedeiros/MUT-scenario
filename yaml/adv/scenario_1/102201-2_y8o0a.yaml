@@ -80,7 +80,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-2-6
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-5
     nameLeft: Touka
-    textLeft: I was running the numbers!
+    textLeft: I was running some numbers!
   - chara:
     - id: 100701
       voiceFull: fullvoice/section_102201/vo_full_102201-2-7
@@ -94,7 +94,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-2-8
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-7
-    textLeft: Come on, Mifuyu, put those brain cells to@good use!
+    textLeft: Come on, Mifuyu, put those@brain cells to good use!
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -149,7 +149,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-2-16
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-15
-    textLeft: Therefore, the corruption of Soul Gems is also@affected by a person's
+    textLeft: Therefore, the corruption of Soul Gems is@also affected by a person's
       surroundings.
   - chara:
     - cheek: 0
@@ -205,7 +205,7 @@ story:
     - id: 100601
       voiceFull: fullvoice/section_102201/vo_full_102201-2-23
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-22
-    textRight: determining how many Grief Seeds would be@needed seems difficult.
+    textRight: determining how many Grief Seeds@would be needed seems difficult.
   - chara:
     - id: 100601
       motion: 300
@@ -216,7 +216,7 @@ story:
     - id: 100601
       voiceFull: fullvoice/section_102201/vo_full_102201-2-25
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-24
-    textRight: That seems to be beyond even the brains@of the Magius, huh...
+    textRight: That seems to be beyond even@the brains of the Magius, huh...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -241,7 +241,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-2-28
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-27
-    textRight: We don't even know where in Kamihama it's@based, after all...
+    textRight: We don't even know where in@Kamihama it's based, after all...
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -262,18 +262,18 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100601
-    textLeft: My cortisol levels keep rising and I just@keep stressing out more!
+    textLeft: My cortisol levels keep rising and I@just keep stressing out more!
   - chara:
     - id: 100701
       motion: 400
       voiceFull: fullvoice/section_102201/vo_full_102201-2-31
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-30
-    textLeft: And I just want to collect energy as fast@as I caaaan!!
+    textLeft: And I just want to collect energy@as fast as I caaaan!!
   - chara:
     - id: 100701
       voiceFull: fullvoice/section_102201/vo_full_102201-2-32
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-31
-    textLeft: There's no choice, we'll just have to use@Magical Girls or Witches.
+    textLeft: There's no choice, we'll just have@to use Magical Girls or Witches.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -286,7 +286,7 @@ story:
     - id: 100601
       voiceFull: fullvoice/section_102201/vo_full_102201-2-34
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-33
-    textRight: Are you planning to start a fight with@Iroha and the rest again?!
+    textRight: Are you planning to start a fight@with Iroha and the rest again?!
   - chara:
     - id: 100701
       motion: 200
@@ -426,7 +426,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-2-50
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-49
-    textLeft: She is an Uwasa that was born for the@four of us, after all...
+    textLeft: She is an Uwasa that was born@for the four of us, after all...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

@@ -304,7 +304,7 @@ story:
       id: 103901
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: (Is it okay to just be protected like this all the time…?)
+    textCenter: (Is it okay to just be protected like this all the@time…?)
   - bgm: stop
     chara:
     - id: 103901
@@ -460,7 +460,7 @@ story:
   - chara:
     - id: 102400
     nameRight: Juri
-    textRight: Besides,
+    textRight: Besides...
   - chara:
     - id: 102400
     nameRight: Juri

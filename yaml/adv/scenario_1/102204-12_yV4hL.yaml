@@ -64,7 +64,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-12-8
       voiceFullStop: fullvoice/section_102204/vo_full_102204-12-7
     nameCenter: Aru
-    textCenter: <But Kagome, you decided on this, didn't you?>
+    textCenter: <But Kagome, you decided on this,@didn't you?>
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
@@ -252,7 +252,7 @@ story:
       pos: 0
     nameLeft: Mifuyu
     nameRight: Felicia
-    textRight: '[chara:100501:effect_emotion_joy_0][se:7222_happy]Whoooooaaa! That''s
+    textRight: '[chara:100501:effect_emotion_joy_0][se:7222_happy]Whoooooaaa!@That''s
       awesome!'
   - chara:
     - cheek: 1
@@ -412,7 +412,7 @@ story:
     - id: 101403
       voiceFull: fullvoice/section_102204/vo_full_102204-12-48
       voiceFullStop: fullvoice/section_102204/vo_full_102204-12-47
-    textLeft: And so, those two who had similar goals@ended up becoming one.
+    textLeft: And so, those two who had similar@goals ended up becoming one.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -545,7 +545,7 @@ story:
       soulGem: 0
       voiceFull: fullvoice/section_102204/vo_full_102204-12-63
     nameCenter: Kagome
-    textCenter: In any event, I'm going to work hard@and do my best.
+    textCenter: In any event, I'm going to@work hard and do my best.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -585,7 +585,7 @@ story:
       voiceFullStop: fullvoice/section_102204/vo_full_102204-12-65
     nameLeft: Mitama
     nameRight: Kanagi
-    textRight: Mitama? What are you doing here?
+    textRight: Yakumo? What are you doing here?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -598,7 +598,7 @@ story:
     - id: 101701
       voiceFull: fullvoice/section_102204/vo_full_102204-12-68
       voiceFullStop: fullvoice/section_102204/vo_full_102204-12-67
-    textLeft: You and Mifuyu disappeared together and@that was the last I heard of
+    textLeft: You and Mifuyu disappeared together@and that was the last I heard of
       you.
   - chara:
     - id: 101701

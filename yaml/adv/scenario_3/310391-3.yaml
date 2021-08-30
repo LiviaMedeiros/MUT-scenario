@@ -56,7 +56,7 @@ story:
       id: 103801
       lipSynch: 0
       tear: 1
-    textRight: ' …………'
+    textRight: …………
   - chara:
     - eyeClose: 1
       id: 103801
@@ -106,7 +106,7 @@ story:
     - id: 103901
       lipSynch: 0
       motion: 1
-    textLeft: ' …………'
+    textLeft: …………
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -216,12 +216,12 @@ story:
       id: 103901
       lipSynch: 0
       motion: 300
-    textLeft: ' …………'
+    textLeft: …………
   - chara:
     - id: 103801
       lipSynch: 0
       motion: 300
-    textRight: ' …………'
+    textRight: …………
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

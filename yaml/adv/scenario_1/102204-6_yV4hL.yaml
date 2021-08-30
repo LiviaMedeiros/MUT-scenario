@@ -124,7 +124,7 @@ story:
     - id: 102200
       voiceFull: fullvoice/section_102204/vo_full_102204-6-14
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-13
-    textRight: We know about becoming Witches, but we don't@know anything about Kyubey's
+    textRight: We know about becoming Witches, but we@don't know anything about Kyubey's
       intent.
   - chara:
     - cheek: 0
@@ -166,7 +166,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-6-18
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-17
     nameRight: Nemu
-    textRight: Hey, Touka, could you avoid stirring things up?
+    textRight: Hey, Touka, could you avoid agitating them?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -214,7 +214,7 @@ story:
       pos: 0
     nameLeft: Hagumu
     nameRight: Shigure
-    textRight: Yes... I, I remember.
+    textRight: Yes...I, I remember.
   - chara:
     - id: 103000
       motion: 100
@@ -247,7 +247,7 @@ story:
       id: 100701
       voiceFull: fullvoice/section_102204/vo_full_102204-6-25
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-24
-    textCenter: For those of you who don't know, I'll give you a@quick overview to
+    textCenter: For those of you who don't know, I'll give you@a quick overview to
       bring you up to speed.
   - autoTurnLast: 0.2
     chara:
@@ -373,7 +373,7 @@ story:
       pos: 1
       voiceFull: fullvoice/section_102204/vo_full_102204-6-34
     nameCenter: Touka
-    textCenter: We'll just set aside the matter of what@Kyubey is for the time being.
+    textCenter: We'll just set aside the matter of@what Kyubey is for the time being.
   - chara:
     - id: 100701
       voiceFull: fullvoice/section_102204/vo_full_102204-6-35
@@ -607,7 +607,7 @@ story:
       posY: 80
       voiceFull: fullvoice/section_102204/vo_full_102204-6-55
     nameCenter: Kyubey
-    textCenter: The truth is that your purpose is@to preserve the universe.
+    textCenter: The truth is that your purpose@is to preserve the universe.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -668,7 +668,7 @@ story:
     - id: 100100
       voiceFull: fullvoice/section_102204/vo_full_102204-6-60
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-59
-    textLeft: The reason why Kyubey wanted everyone@to come to this city...
+    textLeft: The reason why Kyubey wanted@everyone to come to this city...
   - chara:
     - id: 100200
       motion: 301
@@ -703,7 +703,7 @@ story:
     - id: 810002
       voiceFull: fullvoice/section_102204/vo_full_102204-6-64
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-63
-    textCenter: It's only natural that we'd be interested, since@our mission is to
+    textCenter: It's only natural that we'd be interested,@since our mission is to
       maintain the universe.
   - autoTurnLast: 2
     turnChangeIn: fadeIn

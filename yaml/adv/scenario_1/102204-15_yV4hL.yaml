@@ -38,7 +38,7 @@ story:
     voiceFull: fullvoice/section_102204/vo_full_102204-15-5
     voiceFullStop: fullvoice/section_102204/vo_full_102204-15-4
   - progressNarration: '[textBlack:Even the finest brush,]@[textBlack:when too many
-      pigments comingle,]@[textBlack:yields paintings in nothing but black...]'
+      pigments commingle,]@[textBlack:yields paintings in nothing but black...]'
     voiceFull: fullvoice/section_102204/vo_full_102204-15-6
     voiceFullStop: fullvoice/section_102204/vo_full_102204-15-5
   - autoTurnLast: 2
@@ -76,7 +76,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102204/vo_full_102204-15-8
       voiceFullStop: fullvoice/section_102204/vo_full_102204-15-7
-    textLeft: Now we can all join forces with the people of@Kamihama!
+    textLeft: Now we can all join forces@with the people of Kamihama!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -109,7 +109,7 @@ story:
       id: 102701
       voiceFull: fullvoice/section_102204/vo_full_102204-15-13
       voiceFullStop: fullvoice/section_102204/vo_full_102204-15-12
-    textRight: Shizuka said she's worried it'll cause a rift@if it gets discovered
+    textRight: Shizuka said she's worried it'll cause@a rift if it gets discovered
       later...
   - chara:
     - cheek: 0
@@ -174,7 +174,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-15-21
       voiceFullStop: fullvoice/section_102204/vo_full_102204-15-20
     enableSkipAutoTurn: 1
-    textLeft: I'm shocked too... But it doesn't change things.
+    textLeft: I'm shocked too...@But it doesn't change things.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -217,7 +217,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102204/vo_full_102204-15-26
       voiceFullStop: fullvoice/section_102204/vo_full_102204-15-25
-    textRight: Yes, I'm sure we can continue to@do our best by holding onto that pride.
+    textRight: Yes, I'm sure we can continue to do@our best by holding onto that pride.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -326,7 +326,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102204/vo_full_102204-15-37
       voiceFullStop: fullvoice/section_102204/vo_full_102204-15-36
-    textRight: If I hadn't come to the village, I probably would've@become a normal
+    textRight: If I hadn't come to the village, I probably@would've become a normal
       Magical Girl too.
   - chara:
     - cheek: 0

@@ -21,7 +21,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-3-1
     nameLeft: ""
     nameRight: ""
-    textLeft: Is this the area where the strong magical energy@was detected?
+    textLeft: Is this the area where the strong@magical energy was detected?
     turnChangeOut: fadeOut
   - autoTurnLast: 3
     enableSkipAutoTurn: 1
@@ -74,7 +74,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-3-8
       voiceFullStop: fullvoice/section_102203/vo_full_102203-3-7
-    textLeft: We'll have to work hard on our end to acquire@this energy as well.
+    textLeft: We'll have to work hard on our end@to acquire this energy as well.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -108,7 +108,7 @@ story:
       pos: 0
     nameLeft: ???
     nameRight: ???
-    textRight: Big Sis, this job might be more of an easy mode@than I thought~
+    textRight: Big Sis, this job might be more@of an easy mode than I thought~
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
@@ -121,7 +121,7 @@ story:
     - id: 102400
       voiceFull: fullvoice/section_102203/vo_full_102203-3-12
       voiceFullStop: fullvoice/section_102203/vo_full_102203-3-11
-    textLeft: Those robed figures look just like the ones@we captured.
+    textLeft: Those robed figures look just@like the ones we captured.
   - chara:
     - id: 102400
       voiceFull: fullvoice/section_102203/vo_full_102203-3-13
@@ -133,7 +133,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-3-14
       voiceFullStop: fullvoice/section_102203/vo_full_102203-3-13
-    textRight: It's the same direction as the point that@Hikaru and I found~
+    textRight: It's the same direction as the@point that Hikaru and I found~
   - chara:
     - id: 102400
       motion: 100
@@ -152,7 +152,7 @@ story:
     - id: 102300
       voiceFull: fullvoice/section_102203/vo_full_102203-3-17
       voiceFullStop: fullvoice/section_102203/vo_full_102203-3-16
-    textRight: No matter how you look at it that's the choice@that leads to a bad
+    textRight: No matter how you look at it that's@the choice that leads to a bad
       end~
   - chara:
     - cheek: 0
@@ -180,7 +180,7 @@ story:
     - id: 102300
       voiceFull: fullvoice/section_102203/vo_full_102203-3-21
       voiceFullStop: fullvoice/section_102203/vo_full_102203-3-20
-    textRight: At times like this, you gotta let them swim@ahead and follow in their
+    textRight: At times like this, you gotta let them@swim ahead and follow in their
       wake~
   - chara:
     - id: 102300
@@ -195,7 +195,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102203/vo_full_102203-3-23
       voiceFullStop: fullvoice/section_102203/vo_full_102203-3-22
-    textLeft: I get it. And if they find it we'll be@all set to give chase.
+    textLeft: I get it. And if they find it@we'll be all set to give chase.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

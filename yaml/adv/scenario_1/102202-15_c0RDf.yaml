@@ -20,7 +20,7 @@ story:
       name: sprite_0
     nameLeft: ""
     textBg: shout
-    textLeft: '[flashEffect:flashRed2][surround:3028A05][bgEffect:shakeLarge][name:sprite_0:effect_shake]｜G┐┗GIGOGO┤ZU!?｜'
+    textLeft: '[flashEffect:flashRed2][surround:3028A05][bgEffect:shakeLarge][name:sprite_0:effect_shake]｜G┐┗GGOGO┤Z!?｜'
     turnChangeOut: fadeOut
   - autoTurnLast: 1
     chara:
@@ -102,7 +102,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-15-7
       voiceFullStop: fullvoice/section_102202/vo_full_102202-15-6
     nameRight: Felicia
-    textRight: Oi, Tsuruno!@What're you just standing around for?!
+    textRight: Oi, Tsuruno!@What're you just standin' around for?!
   - chara:
     - id: 100300
       lipSynch: 1
@@ -125,8 +125,8 @@ story:
       lipSynch: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-15-10
       voiceFullStop: fullvoice/section_102202/vo_full_102202-15-9
-    textLeft: (Does that mean they're getting adjusted@somewhere, just like the girls
-      from Futatsugi City...?)
+    textLeft: (Does that mean they're receiving coordination@somewhere, just like
+      the Futatsugi girls...?)
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -165,7 +165,7 @@ story:
       posY: 0
       visible: appear
     nameCenter: ""
-    textCenter: ∵Mm～￣YEP＿uhuh
+    textCenter: ∵Mm～￣YEP＿uhuh.
   - autoTurnLast: 0.5
     item:
     - path: resource/scenario/img/part2_chapter1/102202_kimochi_ruby.png
@@ -211,7 +211,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-15-17
       voiceFullStop: fullvoice/section_102202/vo_full_102202-15-16
     nameLeft: Shizuka
-    textLeft: I suddenly froze up...and started breaking out@in cold sweat...
+    textLeft: I suddenly froze up...and started@breaking out in cold sweat...
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -266,7 +266,7 @@ story:
     - id: 102500
       voiceFull: fullvoice/section_102202/vo_full_102202-15-21
       voiceFullStop: fullvoice/section_102202/vo_full_102202-15-20
-    textLeft: After all, we can save people by hunting@this Devil down.
+    textLeft: After all, we can save people@by hunting this Devil down.
   - chara:
     - id: 102600
       motion: 200

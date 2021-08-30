@@ -10,7 +10,7 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: Also, the Kamihama Magia Union, @which was created to provide mutual
-      aid @for magical girls across Kamihama City, @seems to be settling into place...
+      aid @for Magical Girls across Kamihama City, @seems to be settling into place...
   - narration: Although, even though Kamihama is @returning to peace... @Magical Girls
       from outside have been @spotted in the city.
   - narration: Nothing has happened yet, @but all of us feel it...
@@ -277,7 +277,7 @@ story:
       id: 100501
       pos: 2
     nameRight: Felicia
-    textRight: Oh– @I gotta get goin'!
+    textRight: Oh— @I gotta get goin'!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

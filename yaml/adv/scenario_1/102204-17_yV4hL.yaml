@@ -201,7 +201,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102204/vo_full_102204-17-22
       voiceFullStop: fullvoice/section_102204/vo_full_102204-17-21
-    textLeft: Yes. Kyubey's investigation has given them their@chance.
+    textLeft: Yes. Kyubey's investigation@has given them their chance.
   - chara:
     - id: 100202
       voiceFull: fullvoice/section_102204/vo_full_102204-17-23
@@ -230,7 +230,7 @@ story:
       id: 100202
       voiceFull: fullvoice/section_102204/vo_full_102204-17-26
       voiceFullStop: fullvoice/section_102204/vo_full_102204-17-25
-    textLeft: Acting despite the uncertainty just proves@how strong their conviction
+    textLeft: Acting despite the uncertainty just@proves how strong their conviction
       is.
   - chara:
     - cheek: 0
@@ -239,7 +239,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102204/vo_full_102204-17-27
       voiceFullStop: fullvoice/section_102204/vo_full_102204-17-26
-    textRight: They certainly didn't bat an eyelash@at Kyubey's speech...
+    textRight: They certainly didn't bat an@eyelash at Kyubey's speech...
   - nameNarration: ""
     narration: ~~♪~~♪
     narrationBg: ""
@@ -739,7 +739,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102204/vo_full_102204-17-72
       voiceFullStop: fullvoice/section_102204/vo_full_102204-17-71
-    textCenter: It seems that my art, Alina's art, has been delivered.
+    textCenter: It seems that my art, Alina's art,@has been delivered.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
     voiceFullStop: fullvoice/section_102204/vo_full_102204-17-72

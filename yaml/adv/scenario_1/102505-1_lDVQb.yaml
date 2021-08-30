@@ -1,0 +1,492 @@
+---
+story:
+  group_1:
+  - autoTurnLast: 0.2
+    bg: black
+    item:
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
+      posX: 0
+      posY: 0
+      visible: appear
+    turnChangeIn: fadeIn
+  - bgm: bgm20_song10
+    nameNarration: Kagome
+    narrationCoverOpacity: 0
+    narrationEffect: in
+    narrationHAlignment: left
+    narrationPosX: 150
+    progressNarration: '[textBlack:Through the death of a single Magical Girl...@Through
+      the death of Ryou,@the Magical Girls lost their final chance@at joining hands
+      together...]'
+    turnChangeOut: fadeOut
+  - progressNarration: '[textBlack:This battle had been planned by Kyubey,@and any
+      Magical Girl involved@should have suspected that he was@pulling the strings.]'
+  - progressNarration: '[textBlack:And yet,@the feelings built up in each of them@prevented
+      them from ceasing this battle...]'
+  - progressNarration: '[textBlack:That is why we,@the outsiders that know the truth,@need
+      to take action@to stop the fighting.]'
+  - progressNarration: '[textBlack:However, in order to achieve this,@we would need
+      the help of the folklorist@"Tasuke Satomi" to make our story@more convincing.]'
+  - progressNarration: '[textBlack:Thus, while I reflected on the significance of@my
+      encounter with his daughter Nayuta Satomi,@that daughter herself had been@gathering
+      information about her father''s@whereabouts little by little...]'
+  - autoTurnLast: 1
+    bg: bg_adv_21081.jpg
+    bgm: stop
+    chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 103301
+      motion: 1
+      pos: 2
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103701
+      motion: 0
+      pos: 0
+    item:
+    - path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
+      visible: hide
+    narrationEffect: out
+    turnChangeIn: fadeIn
+  - bgm: bgm03_story06
+    chara:
+    - id: 103301
+    nameRight: Rabi
+    textRight: So how did your return back to your parents'@home go?
+    turnChangeOut: fadeOut
+  - chara:
+    - id: 103701
+      motion: 100
+    nameLeft: Nayuta
+    textLeft: The security camera had clearly shown Papa...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103301
+    nameRight: Rabi
+    textRight: Then the message came from home,@just as Lady Touka had informed us...
+  - chara:
+    - id: 103701
+      motion: 1
+    nameLeft: Nayuta
+    textLeft: Yes, it appears it was sent there...
+  - chara:
+    - id: 103301
+      motion: 300
+    nameRight: Rabi
+    textRight: '...Suppose he is intentionally hiding@from Lady Nayuta,'
+  - chara:
+    - id: 103301
+    nameRight: Rabi
+    textRight: wouldn't it be better to just leave him alone...?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 103701
+      motion: 200
+      pos: 0
+    nameLeft: Nayuta
+    textLeft: That is certainly not the case,@and I must ask what you mean by that.
+  - chara:
+    - id: 103301
+      motion: 100
+    nameRight: Rabi
+    textRight: '*Sigh*...So it''s like this...@You sound like a wife that is angry
+      about an affair.'
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103701
+      motion: 0
+      pos: 0
+    nameLeft: Nayuta
+    textLeft: But I'm the daughter...
+  - chara:
+    - id: 103301
+    nameRight: Rabi
+    textRight: I know.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 103701
+    - cheek: 0
+      face: mtn_ex_051.exp.json
+      id: 103301
+    nameCenter: Mikage's voice
+    textBg: shout
+    textCenter: NAAAAYUUUUTAAAAN!
+  - nameCenter: Mikage's voice
+    textBg: shout
+    textCenter: RAAAABIIIITAAAAN!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 103301
+    nameRight: Rabi
+    textRight: She's here.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103701
+      motion: 100
+      pos: 0
+    nameLeft: Nayuta
+    textLeft: Rabi,@you cannot help me search for Papa, can you?
+  - chara:
+    - id: 103301
+      motion: 1
+    nameRight: Rabi
+    textRight: Yes, I'm terribly sorry,@but I have to return to the agency.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103701
+    nameLeft: Nayuta
+    textLeft: I understand.
+  - chara:
+    - id: 103701
+      motion: 200
+    nameLeft: Nayuta
+    textLeft: I will report the results to you tonight.
+  - autoTurnLast: 1
+    bg: bg_adv_11021.jpg
+    bgm: stop
+    chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103801
+      motion: 0
+      pos: 2
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103701
+      motion: 1
+      pos: 0
+    turnChangeIn: fadeIn
+  - bgm: bgm01_anime03
+    chara:
+    - id: 103801
+      motion: 300
+    nameRight: Mikage
+    textRight: Whaaat? Rabitan can't come?
+    turnChangeOut: fadeOut
+  - chara:
+    - id: 103801
+    nameRight: Mikage
+    textRight: But I made matching pin badges for us.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 103701
+    nameLeft: Nayuta
+    textLeft: Pin badges?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 103801
+      motion: 100
+      pos: 2
+    nameRight: Mikage
+    textRight: For Nayutan's Papa Search Party.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103801
+    nameRight: Mikage
+    textRight: But, they're just simple ones made from@100-yen items, okay?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 103801
+      motion: 400
+      pos: 2
+    nameRight: Mikage
+    textRight: Here, one for Nayutan.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 103701
+      motion: 100
+      pos: 0
+    nameLeft: Nayuta
+    textLeft: Oh my, thank you for the cute ribbon.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 103801
+    nameRight: Mikage
+    textRight: '*Giggle* Mii made it because she likes it.'
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103801
+      motion: 1
+      pos: 2
+    nameRight: Mikage
+    textRight: So what are you doing today?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 103701
+      motion: 200
+    nameLeft: Nayuta
+    textLeft: The security camera at my home had Papa on it,
+  - chara:
+    - id: 103701
+    nameLeft: Nayuta
+    textLeft: so I'm going to give the footage to a specialist for analysis.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 103801
+      motion: 200
+      pos: 2
+    nameRight: Mikage
+    textRight: Hmm.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103801
+    nameRight: Mikage
+    textRight: I thought about talking to the nice painter foreigner again.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 103701
+      motion: 0
+      pos: 0
+    nameLeft: Nayuta
+    textLeft: The nice painter foreigner?
+  - autoTurnLast: 0.5
+    bg: bg_adv_19311.jpg
+    chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 100802
+      motion: 0
+      pos: 1
+    turnChangeIn: fadeIn
+    turnEffect: blackFrame
+  - chara:
+    - id: 100802
+      motion: 200
+    nameCenter: Alina
+    textCenter: If you get lost, just go back to the entrance.
+    turnChangeOut: fadeOut
+  - chara:
+    - id: 100802
+    nameCenter: Alina
+    textCenter: Because that's what Alina is doing right now.
+  - autoTurnLast: 0.5
+    bg: bg_adv_11021.jpg
+    chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 103701
+      motion: 0
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103801
+      motion: 0
+      pos: 2
+    turnChangeIn: fadeIn
+    turnEffect: stop
+  - chara:
+    - id: 103701
+    nameLeft: Nayuta
+    textLeft: Ahh, that person...?
+    turnChangeOut: fadeOut
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103701
+      motion: 300
+    nameLeft: Nayuta
+    textLeft: It was just a coincidence that she was useful...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103801
+      motion: 300
+      pos: 2
+    nameRight: Mikage
+    textRight: Is that sooo...
+  - chara:
+    - id: 103701
+      motion: 1
+    nameLeft: Nayuta
+    textLeft: Besides, I have mixed feelings about going back to Uncle's place...
+  - nameCenter: Tsukasa's voice
+    textCenter: '*Pant*...*huff*...'
+  - nameCenter: Tsukuyo's voice
+    textCenter: Mifuyu,@do you really intend to carry all of this by foot...!?
+  - nameCenter: Tsukasa's voice
+    textCenter: Riiight...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 103801
+      motion: 0
+      pos: 2
+    nameRight: Mikage
+    textRight: Hm?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103801
+      motion: 100
+      pos: 2
+    nameRight: Mikage
+    textRight: Ah, Nayutan, those people were at the hospital.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 103701
+      pos: 0
+    nameLeft: Nayuta
+    textLeft: Who were they?
+  - autoTurnLast: 0.2
+    chara:
+    - effect: fadeout
+      id: 103701
+    - effect: fadeout
+      id: 103801
+    textClear: 1
+  - autoTurnLast: 0.1
+    bg: bg_adv_11021.jpg
+    bgChangeEffect: cameraPan
+  - chara:
+    - cheek: 0
+      face: mtn_ex_040.exp.json
+      id: 100601
+      motion: 100
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 101901
+      motion: 0
+      pos: 2
+    nameLeft: Mifuyu
+    textLeft: Alina and Karin can't go outside,
+  - chara:
+    - id: 100601
+    nameLeft: Mifuyu
+    textLeft: so we have no choice but to do the shopping.
+  - chara:
+    - id: 101901
+      motion: 100
+    nameRight: Tsukasa
+    textRight: What about online shopping!?
+  - chara:
+    - eyeClose: 1
+      id: 100601
+    nameLeft: Mifuyu
+    textLeft: She wants it right now...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 101801
+      motion: 300
+      pos: 0
+    nameLeft: Tsukuyo
+    textLeft: So that's why there's so many painting supplies...
+  - chara:
+    - id: 101901
+      motion: 1
+    nameRight: Tsukasa
+    textRight: And even a canvas...
+  - chara:
+    - id: 101801
+    nameLeft: Tsukuyo
+    textLeft: Even after leaving the Wings of Magius,@we are still treated like slaves...
+  - chara:
+    - id: 101901
+      motion: 300
+    nameRight: Tsukasa
+    textRight: Riiight...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_040.exp.json
+      id: 100601
+      motion: 1
+      pos: 0
+    nameLeft: Mifuyu
+    textLeft: If that were true, I would have refused her...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 100601
+    nameLeft: Mifuyu
+    textLeft: But she's our only lead on how to defeat@the Mirrors Witch...
+  - autoTurnLast: 0.2
+    chara:
+    - effect: fadeout
+      id: 100601
+    - effect: fadeout
+      id: 101901
+    textClear: 1
+  - autoTurnLast: 0.1
+    bg: bg_adv_11021.jpg
+    bgChangeEffect: cameraPan
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 103801
+      motion: 400
+      pos: 2
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 103701
+      motion: 0
+      pos: 0
+    nameRight: Mikage
+    textRight: I remember her!@She's the big sis I was modeling with!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103801
+      motion: 1
+      pos: 2
+    nameRight: Mikage
+    textRight: Let's help them, Nayutan.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103701
+      motion: 300
+      pos: 0
+    nameLeft: Nayuta
+    textLeft: But, I have other matters toー
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 103801
+      lipSynch: 0
+    nameRight: Mikage
+    textRight: '*Staaare...*'
+  - chara:
+    - id: 103701
+      motion: 0
+    nameLeft: Nayuta
+    textLeft: Ugh, what is with you...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103801
+      motion: 300
+      pos: 2
+    nameRight: Mikage
+    textRight: They're in trouble, so I feel bad for them?
+  - chara:
+    - id: 103701
+      motion: 100
+    nameLeft: Nayuta
+    textLeft: I-I understand...
+  - autoTurnLast: 2
+    bgm: stop
+    turnChangeIn: fadeIn
+version: 3
+...

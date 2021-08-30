@@ -36,7 +36,7 @@ story:
     - id: 101501
       voiceFull: fullvoice/section_102202/vo_full_102202-12-3
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-2
-    textLeft: Sakurako wants to see me, so I should head@over when we're done here.
+    textLeft: Sakurako wants to see me, so I@should head over when we're done here.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -52,7 +52,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102202/vo_full_102202-12-5
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-4
-    textLeft: Probably.
+    textLeft: I think she probably is.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -107,7 +107,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-12-10
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-9
     nameLeft: Chiharu
-    textLeft: Yeah, it's fine. Sorry for being such a pain...
+    textLeft: Yeah, it's fine.@Sorry for being such a pain...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -117,7 +117,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-12-11
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-10
     nameRight: Ui
-    textRight: It's gotta be rough, getting sick from crowds...
+    textRight: It's gotta be rough, getting sick around crowds...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -142,7 +142,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-12-14
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-13
-    textLeft: Um, would there happen to be a lot of bad people@around where we just
+    textLeft: Um, would there happen to be a lot of@bad people around where we just
       were?
   - chara:
     - id: 100501
@@ -155,7 +155,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-12-16
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-15
-    textLeft: Like, people with bad intentions, or people who@might commit crimes...
+    textLeft: Like, people with bad intentions,@or people who might commit crimes...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -165,7 +165,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-12-17
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-16
     nameRight: Tsuruno
-    textRight: Who knows?
+    textRight: That's kind of hard to say?
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -173,13 +173,13 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102202/vo_full_102202-12-18
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-17
-    textRight: It's true that if you wander off the main path,@there are some shady
-      people around.
+    textRight: It's true that if you wander off the main path,@you can get approached
+      by some shady people.
   - chara:
     - id: 100301
       voiceFull: fullvoice/section_102202/vo_full_102202-12-19
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-18
-    textRight: That's dangerous for girls to do.
+    textRight: It's a dangerous place for girls to go to.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -226,7 +226,7 @@ story:
     - id: 102601
       voiceFull: fullvoice/section_102202/vo_full_102202-12-25
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-24
-    textLeft: I was able to control it a bit, even when there@were lots of people
+    textLeft: I was able to control it a bit, even when@there were lots of people
       around, but...
   - chara:
     - cheek: 1
@@ -242,7 +242,7 @@ story:
     - id: 100501
       voiceFull: fullvoice/section_102202/vo_full_102202-12-27
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-26
-    textRight: You're just like a superpowered investigator@from a mystery show!
+    textRight: You're just like a psychic detective@from a mystery show!
   - chara:
     - id: 102601
       motion: 0
@@ -305,7 +305,7 @@ story:
       id: 102501
       voiceFull: fullvoice/section_102202/vo_full_102202-12-34
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-33
-    textLeft: But anyways, you know about Magical Girls?!
+    textLeft: But anyways, you all know about Magical Girls?!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -315,7 +315,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-12-35
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-34
     nameRight: Tsuruno
-    textRight: We don't just know about them, we're Magical Girls@ourselves!
+    textRight: We don't just know about them,@we're Magical Girls ourselves!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -325,7 +325,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-12-36
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-35
     nameLeft: Sunao
-    textLeft: To think we were being guided by Kamihama@Magical Girls.
+    textLeft: To think we were being guided@by Kamihama Magical Girls.
   - chara:
     - cheek: 1
       eyeClose: 1
@@ -424,7 +424,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-12-44
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-43
-    textRight: If you're with them, I won't forgive you...!
+    textRight: If you're with them, I'll make you pay...!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -472,13 +472,13 @@ story:
       motion: 1
       pos: 0
     nameRight: Sunao
-    textRight: Um, what happened?!
+    textRight: Um, did something happen?!
   - chara:
     - id: 102601
       voiceFull: fullvoice/section_102202/vo_full_102202-12-49
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-48
     nameLeft: Chiharu
-    textLeft: We haven't done anything that would earn that@kind of resentment...!
+    textLeft: We haven't done anything that would@merit that kind of resentment...!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -515,7 +515,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-12-52
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-51
     nameLeft: Shizuka
-    textLeft: I don't know anything about that, I've never@heard those names before.
+    textLeft: I don't know anything about that.@I've never heard those names before.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -543,7 +543,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-12-55
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-54
     nameLeft: Shizuka
-    textLeft: Yeah, we came from Tokime Village in@Kirimine Town...!
+    textLeft: Yeah, we came from Tokime Village@in Kirimine Town...!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -590,7 +590,7 @@ story:
       id: 100501
       voiceFull: fullvoice/section_102202/vo_full_102202-12-59
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-58
-    textRight: If they were like the others, there's no way@we coulda had fun together...
+    textRight: If they were like the others, there's no@way we coulda had fun together...
   - chara:
     - eyeClose: 0
       id: 100501
@@ -605,12 +605,12 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-12-61
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-60
-    textLeft: Though, since you're Magical Girls, you should@be careful.
+    textLeft: Though, since you're Magical Girls,@you should be careful.
   - chara:
     - id: 100301
       voiceFull: fullvoice/section_102202/vo_full_102202-12-62
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-61
-    textLeft: The girls from Futatsugi City might attack you@for real.
+    textLeft: The girls from Futatsugi City@might attack you for real.
   - autoTurnLast: 0.2
     chara:
     - id: 100301
@@ -666,12 +666,12 @@ story:
     - id: 100301
       motion: 0
     nameLeft: Shizuka
-    textLeft: For now, I'm just glad we solved the@misunderstanding.
+    textLeft: For now, I'm just glad we solved@the misunderstanding.
   - chara:
     - id: 102501
       voiceFull: fullvoice/section_102202/vo_full_102202-12-69
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-68
-    textLeft: I'm honestly relieved you're all Kamihama@Magical Girls.
+    textLeft: I'm honestly relieved you're@all Kamihama Magical Girls.
   - bgm: stop
     chara:
     - cheek: 0
@@ -693,13 +693,13 @@ story:
     - id: 102501
       voiceFull: fullvoice/section_102202/vo_full_102202-12-72
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-71
-    textLeft: Among all these people here, I'm the only one@out of sync with the world.
+    textLeft: Among all these people here, I'm the@only one out of sync with the world.
   - chara:
     - id: 102501
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-12-73
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-72
-    textLeft: I was worried if I would be able to make@new friends...
+    textLeft: I was worried if I would be@able to make new friends...
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -724,7 +724,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-12-76
       voiceFullStop: fullvoice/section_102202/vo_full_102202-12-75
     nameRight: Ui
-    textRight: Yeah, we're all friends!
+    textRight: Yeah, definitely!@We're all friends!
   - autoTurnFirst: 1
     chara:
     - cheek: 1

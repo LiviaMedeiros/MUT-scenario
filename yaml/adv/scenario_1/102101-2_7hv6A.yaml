@@ -55,7 +55,7 @@ story:
     - id: 102001
       voiceFull: fullvoice/section_102101/vo_full_102101-2-4
       voiceFullStop: fullvoice/section_102101/vo_full_102101-2-3
-    textCenter: Witches and Familiars are dangerous beings that@bring harm to people.
+    textCenter: Witches and Familiars are dangerous@beings that bring harm to people.
   - chara:
     - eyeClose: 1
       id: 102001
@@ -110,7 +110,7 @@ story:
     - id: 102001
       voiceFull: fullvoice/section_102101/vo_full_102101-2-12
       voiceFullStop: fullvoice/section_102101/vo_full_102101-2-11
-    textCenter: When Kyubey makes a contract with a Magical Girl...
+    textCenter: When Kyubey makes a contract@with a Magical Girl...
   - chara:
     - id: 102001
       voiceFull: fullvoice/section_102101/vo_full_102101-2-13
@@ -188,7 +188,7 @@ story:
     - id: 810000
       voiceFull: fullvoice/section_102101/vo_full_102101-2-22
     nameRight: Kyubey
-    textRight: Are you really sure? Kagome Satori?
+    textRight: Are you really sure?@Kagome Satori?
     turnChangeOut: fadeOut
   - chara:
     - id: 102001
@@ -214,7 +214,7 @@ story:
     - id: 102001
       voiceFull: fullvoice/section_102101/vo_full_102101-2-26
       voiceFullStop: fullvoice/section_102101/vo_full_102101-2-25
-    textLeft: Besides...talking with you has given me@more things to convey.
+    textLeft: Besides...talking with you has given@me more things to convey.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -313,7 +313,7 @@ story:
       voiceFullStop: fullvoice/section_102101/vo_full_102101-2-36
     - effect: fadeout
       id: 800100
-    textCenter: (That they are being kept alive in exchange for@someone else sacrificing
+    textCenter: (That they are being kept alive in exchange@for someone else sacrificing
       their life...)
   - autoTurnLast: 0.5
     bg: black

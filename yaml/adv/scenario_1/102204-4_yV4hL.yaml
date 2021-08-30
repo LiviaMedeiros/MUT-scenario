@@ -20,14 +20,14 @@ story:
     - id: 102200
       voiceFull: fullvoice/section_102204/vo_full_102204-4-1
     nameRight: Hikaru
-    textRight: We've heard from Kyubey about@how to get it, now.
+    textRight: We've heard from Kyubey@about how to get it, now.
     turnChangeOut: fadeOut
   - chara:
     - id: 102200
       motion: 200
       voiceFull: fullvoice/section_102204/vo_full_102204-4-2
       voiceFullStop: fullvoice/section_102204/vo_full_102204-4-1
-    textRight: We don't need to stick around here@any longer, Yuna.
+    textRight: We don't need to stick around@here any longer, Yuna.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -118,7 +118,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102204/vo_full_102204-4-12
       voiceFullStop: fullvoice/section_102204/vo_full_102204-4-11
-    textCenter: None of them asked you how to acquire the@Automatic Purification System.
+    textCenter: None of them asked you how to acquire@the Automatic Purification System.
   - chara:
     - id: 101403
       voiceFull: fullvoice/section_102204/vo_full_102204-4-13
@@ -129,7 +129,7 @@ story:
     - id: 101403
       voiceFull: fullvoice/section_102204/vo_full_102204-4-14
       voiceFullStop: fullvoice/section_102204/vo_full_102204-4-13
-    textCenter: You have a purpose that goes beyond just@fulfilling their need, don't
+    textCenter: You have a purpose that goes beyond@just fulfilling their need, don't
       you?
   - chara:
     - id: 101403

@@ -220,7 +220,7 @@ story:
     - id: 103901
       lipSynch: 0
       motion: 100
-    nameRight: ' Sudachi'
+    nameRight: Sudachi
     textRight: …fu.
   - chara:
     - eyeClose: 1

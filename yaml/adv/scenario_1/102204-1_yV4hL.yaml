@@ -30,7 +30,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102204/vo_full_102204-1-2
       voiceFullStop: fullvoice/section_102204/vo_full_102204-1-1
-    textRight: But look at this girl, do you really think@she knows something?
+    textRight: But look at this girl, do you really@think she knows something?
   - chara:
     - id: 102400
       motion: 100
@@ -180,7 +180,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102204/vo_full_102204-1-21
       voiceFullStop: fullvoice/section_102204/vo_full_102204-1-20
-    textLeft: Hah? I'm the one who's asking questions here.
+    textLeft: Hah?@I'm the one who's asking questions here.
   - chara:
     - cheek: 1
       face: mtn_ex_060.exp.json
@@ -253,7 +253,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-1-29
       voiceFullStop: fullvoice/section_102204/vo_full_102204-1-28
     enableSkipAutoTurn: 0
-    textLeft: You should probably go home before@we change our minds.
+    textLeft: You should probably go home@before we change our minds.
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -574,7 +574,7 @@ story:
       pos: 1
       voiceFull: fullvoice/section_102204/vo_full_102204-1-51
     nameCenter: Momoko
-    textCenter: You're gonna come after us just like last time, huh...
+    textCenter: You're gonna come after us@just like last time, huh...
   - chara:
     - id: 101000
       voiceFull: fullvoice/section_102204/vo_full_102204-1-52
@@ -884,7 +884,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-1-77
       voiceFullStop: fullvoice/section_102204/vo_full_102204-1-76
     nameCenter: Iroha
-    textCenter: From Kyubey... We'll get the truth...
+    textCenter: From Kyubey...we'll get the truth...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

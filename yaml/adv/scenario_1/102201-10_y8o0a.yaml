@@ -37,7 +37,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-10-3
       voiceFullStop: fullvoice/section_102201/vo_full_102201-10-2
     nameLeft: Yachiyo
-    textLeft: They seem quite experienced at@fighting Magical Girls...
+    textLeft: They seem quite experienced@at fighting Magical Girls...
   - chara:
     - id: 100200
       motion: 201
@@ -123,7 +123,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-10-12
       voiceFullStop: fullvoice/section_102201/vo_full_102201-10-11
     nameLeft: ""
-    textLeft: Steal the Bracelet that crossbow girl@has on her wrist!
+    textLeft: Steal the Bracelet that crossbow@girl has on her wrist!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

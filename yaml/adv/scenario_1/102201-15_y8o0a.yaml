@@ -171,7 +171,7 @@ story:
       id: 102401
       voiceFull: fullvoice/section_102201/vo_full_102201-15-15
       voiceFullStop: fullvoice/section_102201/vo_full_102201-15-14
-    textLeft: That was supposed to be Juri the Great's@KO victory!
+    textLeft: That was supposed to be@Juri the Great's KO victory!
   - autoTurnFirst: 5.5
     chara:
     - cheek: 0
@@ -252,7 +252,7 @@ story:
     - id: 102401
       voiceFull: fullvoice/section_102201/vo_full_102201-15-22
       voiceFullStop: fullvoice/section_102201/vo_full_102201-15-21
-    textLeft: Don't just suddenly shove ice cream into@Juri the Great's mouth!
+    textLeft: Don't just suddenly shove ice cream@into Juri the Great's mouth!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -282,7 +282,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-15-25
       voiceFullStop: fullvoice/section_102201/vo_full_102201-15-24
     nameLeft: ???
-    textLeft: I don't wanna be told that by the people who@immediately went to pick
+    textLeft: I don't wanna be told that by the people@who immediately went to pick
       fights.
   - bgm: stop
     chara:
@@ -331,7 +331,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-15-30
       voiceFullStop: fullvoice/section_102201/vo_full_102201-15-29
     nameRight: Yuna
-    textRight: I think our second sister will be able@to enjoy herself.
+    textRight: I think our second sister will@be able to enjoy herself.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
@@ -346,7 +346,7 @@ story:
     - id: 102401
       voiceFull: fullvoice/section_102201/vo_full_102201-15-32
       voiceFullStop: fullvoice/section_102201/vo_full_102201-15-31
-    textLeft: So it'll be worth it for Juri the Great to@cook them well-done.
+    textLeft: So it'll be worth it for Juri the Great@to cook them well-done.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -356,7 +356,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-15-33
       voiceFullStop: fullvoice/section_102201/vo_full_102201-15-32
     nameRight: ???
-    textRight: Personally, I'd prefer it if we could settle@things peacefully, though~
+    textRight: Personally, I'd prefer it if we could@settle things peacefully, though~
   - autoTurnLast: 2
     bg: bg_adv_18081.jpg
     bgm: stop
@@ -650,7 +650,7 @@ story:
       pos: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-15-69
       voiceFullStop: fullvoice/section_102201/vo_full_102201-15-68
-    textLeft: I'm gonna go fetch a station attendant@real quick!
+    textLeft: I'm gonna go fetch a station@attendant real quick!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

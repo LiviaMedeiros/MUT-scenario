@@ -33,7 +33,7 @@ story:
     - id: 100601
       voiceFull: fullvoice/section_102202/vo_full_102202-10-3
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-2
-    textLeft: They came by late in the evening, on the day@when everyone cooked for
+    textLeft: They came by late in the evening,@on the day when everyone cooked for
       me.
   - chara:
     - id: 100601
@@ -54,7 +54,7 @@ story:
     - id: 101801
       motion: 300
     nameRight: Tsukasa
-    textRight: For us it was after we split up with@Yachiyo's group.
+    textRight: For us, it was after we split@up with Yachiyo's group.
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -75,14 +75,14 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-10-9
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-8
-    textLeft: But it seems those two were operating behind@the scenes...
+    textLeft: But it seems those two were@operating behind the scenes...
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 100601
       voiceFull: fullvoice/section_102202/vo_full_102202-10-10
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-9
-    textLeft: To think that they're making a new Wings@of the Magius...
+    textLeft: To think that they're making@a new Wings of the Magius...
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -105,7 +105,7 @@ story:
     - id: 101801
       voiceFull: fullvoice/section_102202/vo_full_102202-10-12
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-11
-    textRight: After all, we too are aiming for the liberation@of Magical Girls...
+    textRight: After all, we too are aiming for@the liberation of Magical Girls...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -136,7 +136,7 @@ story:
     - id: 100601
       voiceFull: fullvoice/section_102202/vo_full_102202-10-16
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-15
-    textLeft: They know that we still have the same goal of@liberating Magical Girls.
+    textLeft: They know that we still have the same@goal of liberating Magical Girls.
   - chara:
     - id: 101901
       motion: 300
@@ -148,7 +148,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102202/vo_full_102202-10-18
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-17
-    textLeft: If they're still turning against us, there must@be another reason...
+    textLeft: If they're still turning against us,@there must be another reason...
   - chara:
     - eyeClose: 1
       id: 100601
@@ -189,7 +189,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 101901
       motion: 0
-    textLeft: Then we'll meet up at the Coordinator's and@talk it through.
+    textLeft: Then we'll meet up at the Coordinator's@and talk it through.
   - autoTurnLast: 2
     bg: black
     bgm: stop
@@ -230,22 +230,22 @@ story:
     - id: 102400
       voiceFull: fullvoice/section_102202/vo_full_102202-10-28
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-27
-    textLeft: You're not struggling as hard as you can, and there's@still the light
-      of hope in the back of your eyes.
+    textLeft: You're not fighting back as hard as you@could, and I see hope smoldering
+      in the depths of your eyes.
   - chara:
     - id: 102400
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-10-29
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-28
-    textLeft: People who've given up, you know, their eyes@become like a desert at
-      night.
+    textLeft: Y'know, those that've actually given up,@their eyes become like a desert
+      at night.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770400
       voiceFull: fullvoice/section_102202/vo_full_102202-10-30
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-29
-    textRight: What kind of metaphor is that...
+    textRight: What kind of metaphor is that...?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -280,7 +280,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-10-34
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-33
     enableSkipAutoTurn: 0
-    textRight: '...'
+    textRight: '...!'
   - chara:
     - id: 102400
       voiceFull: fullvoice/section_102202/vo_full_102202-10-35
@@ -314,7 +314,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102202/vo_full_102202-10-37
     nameRight: ???
-    textRight: Aaah, doing the questioning is pretty exhausting@too...
+    textRight: Aaah, doing the questioning@is pretty exhausting too...
     turnChangeOut: fadeOut
   - chara:
     - id: 102101
@@ -336,7 +336,7 @@ story:
       id: 102401
       voiceFull: fullvoice/section_102202/vo_full_102202-10-40
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-39
-    textRight: I managed to find out what their current@objective is.
+    textRight: I managed to find out what@their current objective is.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -352,7 +352,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-10-42
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-41
-    textRight: She tried a few lies, but this one@I'm confident about.
+    textRight: She tried a few lies,@but this one I'm confident about.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -370,12 +370,12 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-10-44
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-43
-    textRight: Apparently there's a massive radio telescope@up in the mountains.
+    textRight: Apparently there's a massive radio@telescope up in the mountains.
   - chara:
     - id: 102401
       voiceFull: fullvoice/section_102202/vo_full_102202-10-45
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-44
-    textRight: It seems they're gathering their allies there.
+    textRight: It seems they're gathering@there looking to get backup.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -395,8 +395,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-10-48
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-47
-    textRight: If they're looking for help, I can only imagine@who they're meeting
-      with.
+    textRight: If they're looking for help, I can imagine@who they're meeting with.
   - chara:
     - eyeClose: 1
       id: 102101
@@ -409,7 +408,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-10-50
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-49
-    textLeft: Well, judging by the location, it's probably@the latter.
+    textLeft: Well, judging by the location,@it's probably the latter.
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -428,13 +427,13 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-10-52
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-51
     nameRight: Hikaru
-    textRight: Yuna, if you crush the head, the body@will stop moving.
+    textRight: Yuna, if you crush the head,@the body will stop moving.
   - chara:
     - id: 102101
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-10-53
       voiceFullStop: fullvoice/section_102202/vo_full_102202-10-52
-    textLeft: You're right. It seems our next target has been@decided...
+    textLeft: You're right.@It seems our next target has been decided...
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

@@ -178,7 +178,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-8-14
       voiceFullStop: fullvoice/section_102203/vo_full_102203-8-13
-    textCenter: There shouldn't be any left save for the@Eternal Sakura...
+    textCenter: There shouldn't be any left save@for the Eternal Sakura...
   - chara:
     - id: 770500
       voiceFull: fullvoice/section_102203/vo_full_102203-8-15
@@ -191,7 +191,7 @@ story:
       motion: 400
       voiceFull: fullvoice/section_102203/vo_full_102203-8-16
       voiceFullStop: fullvoice/section_102203/vo_full_102203-8-15
-    textLeft: Besides, I bet we have to beat it to find@what we're looking for.
+    textLeft: Besides, I bet we have to beat it@to find what we're looking for.
   - chara:
     - id: 770401
       voiceFull: fullvoice/section_102203/vo_full_102203-8-17
@@ -290,7 +290,7 @@ story:
     - id: 770401
       voiceFull: fullvoice/section_102203/vo_full_102203-8-25
       voiceFullStop: fullvoice/section_102203/vo_full_102203-8-24
-    textLeft: She matches the description we got from the@Feather that came back...
+    textLeft: She matches the description we got@from the Feather that came back...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -470,7 +470,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-8-40
       voiceFullStop: fullvoice/section_102203/vo_full_102203-8-39
-    textLeft: However, I'll never let you have what@you're looking for.
+    textLeft: However, I'll never let you@have what you're looking for.
   - chara:
     - id: 102400
       motion: 200

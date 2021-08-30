@@ -106,7 +106,7 @@ story:
     - id: 101201
       voiceFull: fullvoice/section_102201/vo_full_102201-5-10
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-9
-    textLeft: So, I want you to go home and stop@worrying about me.
+    textLeft: So, I want you to go home and@stop worrying about me.
   - chara:
     - id: 305301
       motion: 1
@@ -120,7 +120,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-5-12
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-11
-    textLeft: I'm not going to leave until the teacher@tells me to.
+    textLeft: I'm not going to leave until@the teacher tells me to.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -140,7 +140,7 @@ story:
       id: 101201
       voiceFull: fullvoice/section_102201/vo_full_102201-5-15
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-14
-    textLeft: If I go home early, Grandma will have to see@more of me being anxious...
+    textLeft: If I go home early, Grandma will have@to see more of me being anxious...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -160,7 +160,7 @@ story:
     - id: 101201
       voiceFull: fullvoice/section_102201/vo_full_102201-5-18
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-17
-    textLeft: Alina-senpai is strict, but she's super@important to me.
+    textLeft: Alina-senpai is strict,@but she's super important to me.
   - chara:
     - cheek: 0
       face: mtn_ex_022.exp.json
@@ -183,18 +183,18 @@ story:
       id: 101201
       voiceFull: fullvoice/section_102201/vo_full_102201-5-21
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-20
-    textLeft: This picture is one that Alina-senpai painted@with a theme of life.
+    textLeft: This picture is one that Alina-senpai@painted with a theme of life.
   - chara:
     - id: 101201
       motion: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-5-22
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-21
-    textLeft: Also, she said this woodcut was about@the brink of death.
+    textLeft: Also, she said this woodcut@was about the brink of death.
   - chara:
     - id: 101201
       voiceFull: fullvoice/section_102201/vo_full_102201-5-23
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-22
-    textLeft: And this, she told me this card game's theme@was transmigration.
+    textLeft: And this, she told me this card game's@theme was transmigration.
   - chara:
     - id: 101201
       voiceFull: fullvoice/section_102201/vo_full_102201-5-24
@@ -207,14 +207,14 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-5-25
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-24
-    textLeft: There's no way that Alina-senpai would@try to destroy the city!
+    textLeft: There's no way that Alina-senpai@would try to destroy the city!
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 101201
       voiceFull: fullvoice/section_102201/vo_full_102201-5-26
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-25
-    textLeft: I heard about Alina-senpai, but I still@don't believe it...
+    textLeft: I heard about Alina-senpai,@but I still don't believe it...
   - bgm: stop
     chara:
     - cheek: 0
@@ -302,7 +302,7 @@ story:
     - id: 101201
       voiceFull: fullvoice/section_102201/vo_full_102201-5-38
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-37
-    textLeft: She must have gotten so angry that she@stopped showing up here.
+    textLeft: She must have gotten so angry that@she stopped showing up here.
   - chara:
     - cheek: 1
       face: mtn_ex_022.exp.json
@@ -341,7 +341,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-5-43
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-42
     textRight: '[chara:305301:effect_emotion_joy_0][se:7222_happy]Kumi''s super heart
-      SPARKLE will make@you feel aaall better!'
+      SPARKLE will@make you feel aaall better!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -358,7 +358,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-5-45
       voiceFullStop: fullvoice/section_102201/vo_full_102201-5-44
-    textRight: You know, I think that people don't just@have one side to them...
+    textRight: You know, I think that people don't@just have one side to them...
   - chara:
     - eyeClose: 1
       id: 305301
@@ -486,7 +486,7 @@ story:
       lipSynch: 0
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-5-56
-    textCenter: (I'd heard the reports, but there really is@a mysterious Magical Girl...)
+    textCenter: (I'd heard the reports, but there really@is a mysterious Magical Girl...)
   - chara:
     - id: 101601
       lipSynch: 0

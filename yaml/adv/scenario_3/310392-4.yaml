@@ -67,7 +67,7 @@ story:
   - chara:
     - id: 103901
       lipSynch: 0
-    textLeft: ' …………'
+    textLeft: …………
     turnChangeOut: fadeOut
   - chara:
     - id: 103801
@@ -93,7 +93,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 103801
       lipSynch: 0
-    textRight: ' …………'
+    textRight: …………
   - chara:
     - id: 103801
       motion: 200
@@ -112,7 +112,7 @@ story:
       lipSynch: 0
       motion: 300
     narrationEffect: out
-    textRight: ' …………'
+    textRight: …………
   - chara:
     - id: 103801
       motion: 0
@@ -223,7 +223,7 @@ story:
     - id: 103901
       lipSynch: 0
     surround: stop
-    textLeft: ' …………'
+    textLeft: …………
   - chara:
     - id: 103801
       motion: 200
@@ -234,7 +234,7 @@ story:
       id: 103901
       lipSynch: 0
       motion: 0
-    textLeft: ' …………'
+    textLeft: …………
   - autoTurnLast: 0.2
     bg: bg_adv_21026.jpg
     chara:
@@ -501,7 +501,7 @@ story:
       of it!
   - narration: There should be plenty of kids in this class@who are noisier than me,@more
       violent than me,@more annoying than me...!
-  - narration: and yet…@why…why…
+  - narration: And yet…@why…why…
   - autoTurnLast: 0.2
     chara:
     - cheek: 0

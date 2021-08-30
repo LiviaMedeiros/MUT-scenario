@@ -108,7 +108,7 @@ story:
       pos: 0
     nameLeft: ???
     nameRight: Yachiyo
-    textRight: It's reckless to try to run away while carrying@someone.
+    textRight: It's reckless to try to run@away while carrying someone.
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -212,7 +212,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-7-13
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-12
-    textRight: You were just being carried, so there's no way@you could have gotten
+    textRight: You were just being carried, so there's no@way you could have gotten
       hurt, right?
   - chara:
     - cheek: 1
@@ -259,7 +259,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-7-17
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-16
     nameLeft: Nemu
-    textLeft: Yeah, well done. You can be proud of yourself.
+    textLeft: Yeah, well done.@You can be proud of yourself.
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -313,18 +313,18 @@ story:
       pos: 0
     nameLeft: Iroha
     nameRight: Yachiyo
-    textRight: Give up on Touka and Nemu and just@go home for today.
+    textRight: Give up on Touka and Nemu@and just go home for today.
   - chara:
     - id: 100200
       voiceFull: fullvoice/section_102203/vo_full_102203-7-21
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-20
-    textRight: Nothing good will come of trying to take@them by force...
+    textRight: Nothing good will come of trying@to take them by force...
   - chara:
     - id: 100100
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-7-22
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-21
-    textLeft: That's right, can't you see that they don't@want to go with you?
+    textLeft: That's right, can't you see that@they don't want to go with you?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -462,7 +462,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-7-30
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-29
     nameLeft: Iroha
-    textLeft: Yachiyo... The people over there...
+    textLeft: Yachiyo...@The people over there...
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -541,7 +541,7 @@ story:
       pos: 2
     nameLeft: Yuna
     nameRight: Hikaru
-    textLeft: Well, seems like Kamihama's Magical Girls@this time are pretty spineless.
+    textLeft: Well, seems like Kamihama's Magical@Girls this time are pretty spineless.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -683,7 +683,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-7-43
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-42
-    textLeft: Seems that this time we'll be doing@some babysitting...
+    textLeft: Seems that this time we'll be@doing some babysitting...
   - chara:
     - id: 102100
       voiceFull: fullvoice/section_102203/vo_full_102203-7-44
@@ -721,7 +721,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-7-47
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-46
     enableSkipAutoTurn: 0
-    textLeft: Hmph, you say some pretty terrible things@so easily.
+    textLeft: Hmph, you say some pretty@terrible things so easily.
   - chara:
     - id: 100200
       voiceFull: fullvoice/section_102203/vo_full_102203-7-48
@@ -766,7 +766,7 @@ story:
     - id: 103000
       voiceFull: fullvoice/section_102203/vo_full_102203-7-53
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-52
-    textLeft: There were two that we lost contact with@that didn't come home...
+    textLeft: There were two that we lost contact@with that didn't come home...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -810,7 +810,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-7-58
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-57
     nameRight: Hikaru
-    textRight: The one who gave us this location was@allowed to escape safely.
+    textRight: The one who gave us this location@was allowed to escape safely.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -926,7 +926,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102203/vo_full_102203-7-66
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-65
-    textLeft: Uh, of course... But, Iroha...
+    textLeft: Uh, of course...@But, Iroha...
   - chara:
     - id: 100100
       motion: 200
@@ -964,7 +964,7 @@ story:
     - id: 102900
       voiceFull: fullvoice/section_102203/vo_full_102203-7-69
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-68
-    textRight: I'll never hand over Lady Touka and Lady Nemu@to them...
+    textRight: I'll never hand over Lady Touka@and Lady Nemu to them...
   - chara:
     - id: 103000
       voiceFull: fullvoice/section_102203/vo_full_102203-7-70

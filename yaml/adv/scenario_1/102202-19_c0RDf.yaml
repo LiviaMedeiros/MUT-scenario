@@ -41,7 +41,7 @@ story:
       id: 304301
       motion: 0
     nameLeft: Touka
-    textLeft: Oookaay! I've finished collating all the data!
+    textLeft: Oookaay!@I've finished collating all the data!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -130,7 +130,7 @@ story:
       pos: 2
       voiceFull: fullvoice/section_102202/vo_full_102202-19-10
     nameRight: Nemu
-    textRight: Is it possible that it has to do with the [textBlue:Rumors]@that I
+    textRight: Is it possible that it has to do with@the [textBlue:Rumors] that I
       created?
   - chara:
     - cheek: 0
@@ -283,7 +283,7 @@ story:
     - id: 100701
       voiceFull: fullvoice/section_102202/vo_full_102202-19-23
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-22
-    textLeft: Though I am surprised you went as far as@making a new outfit.
+    textLeft: Though I am surprised you went@as far as making a new outfit.
   - chara:
     - id: 100701
       motion: 201
@@ -420,7 +420,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-19-38
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-37
-    textRight: It's that powerful magic inside of it that@we're after.
+    textRight: It's that powerful magic inside@of it that we're after.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -438,7 +438,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-19-40
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-39
     nameLeft: Tsuruno
-    textLeft: It doesn't seem like the kind of power we'd@be able to wield, though.
+    textLeft: It doesn't seem like the kind of power@we'd be able to wield, though.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -453,7 +453,7 @@ story:
     - id: 100401
       voiceFull: fullvoice/section_102202/vo_full_102202-19-42
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-41
-    textRight: Mitama said she couldn't use it for@adjusting either...
+    textRight: Mitama said she couldn't use it@for enhancement either...
   - autoTurnLast: 0.2
     chara:
     - id: 100401
@@ -482,7 +482,7 @@ story:
       id: 102501
       voiceFull: fullvoice/section_102202/vo_full_102202-19-45
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-44
-    textRight: The power to avoid becoming a Witch exists@here in Kamihama, right?
+    textRight: The power to avoid becoming a Witch@exists here in Kamihama, right?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -543,7 +543,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-19-51
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-50
     nameRight: Sunao
-    textRight: No, no, we just want to acquire a small share@of it for our village.
+    textRight: No, no, we just want to acquire@a small share of it for our village.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -553,7 +553,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-19-52
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-51
     nameRight: Chiharu
-    textRight: Yeah, yeah, we have absolutely no intention@of fighting!
+    textRight: Yeah, yeah, we have absolutely@no intention of fighting!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -573,7 +573,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-19-54
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-53
     nameRight: Sunao
-    textRight: Well, honestly, there's still a lot we don't@understand yet...
+    textRight: Well, honestly, there's still a lot@we don't understand yet...
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -764,7 +764,7 @@ story:
     - id: 102001
       voiceFull: fullvoice/section_102202/vo_full_102202-19-72
     nameCenter: Kagome
-    textCenter: Is it really here? This is the right place?
+    textCenter: Is it really here?@This is the right place?
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 1

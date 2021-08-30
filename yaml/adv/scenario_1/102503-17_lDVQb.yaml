@@ -1,0 +1,85 @@
+---
+story:
+  group_1:
+  - autoTurnLast: 0.2
+    bg: bg_adv_17213.jpg
+    chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 102300
+      motion: 0
+      pos: 2
+    turnChangeIn: fadeIn
+  - bgm: bgm22_battle08
+    chara:
+    - id: 102300
+      lipSynch: 0
+      motion: 200
+    nameRight: Ao
+    textRight: (Now I'm the only one who can stop Ryou Midori...!)
+    turnChangeOut: fadeOut
+  - chara:
+    - id: 102300
+      lipSynch: 0
+    nameRight: Ao
+    textRight: (I'm not letting you take that evidence home.)
+  - chara:
+    - id: 102300
+      lipSynch: 0
+      motion: 0
+    nameRight: Ao
+    textRight: (At the very least, I must break that camera...!)
+  - autoTurnLast: 0.2
+    chara:
+    - effect: fadeout
+      id: 102300
+    textClear: 1
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 304600
+      lipSynch: 0
+      motion: 300
+      pos: 0
+    nameLeft: Ryou
+    textLeft: (A battle axe is a really dangerous weapon,@but she swings it so fast!)
+  - chara:
+    - id: 304600
+      lipSynch: 0
+    nameLeft: Ryou
+    textLeft: (If she keeps coming at me like this,@I'm not going to be able to save
+      it...!)
+  - chara:
+    - id: 304600
+      lipSynch: 0
+      motion: 200
+    nameLeft: Ryou
+    textLeft: (Can I make it in time... I have to make it...!@I have to use my bazooka
+      at point-blank range...!)
+  - autoTurnLast: 1
+    chara:
+    - cheek: 1
+      face: mtn_ex_020.exp.json
+      id: 102300
+      motion: 400
+      mouthOpen: 1
+      pos: 2
+    nameRight: Ao
+    textBg: shout
+    textRight: '[surround:1023A03]YAAAAAAA!'
+  - autoTurnLast: 1
+    chara:
+    - id: 304600
+      lipSynch: 1
+      motion: 400
+      mouthOpen: 1
+    - id: 102300
+      mouthOpen: 0
+    nameLeft: Ryou
+    textBg: shout
+    textLeft: '[flashEffect:explosion][surround:3046A04]BRING IT OOOON!'
+  - autoTurnLast: 2
+    bgm: stop
+    turnChangeIn: whiteIn
+version: 3
+...

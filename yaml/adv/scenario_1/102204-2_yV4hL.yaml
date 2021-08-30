@@ -68,7 +68,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102204/vo_full_102204-2-5
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-4
-    textLeft: That's why Lady Touka and Lady Nemu are our@treasures. They're the ones
+    textLeft: That's why Lady Touka and Lady Nemu are@our treasures. They're the ones
       we need...
   - chara:
     - cheek: 0
@@ -412,7 +412,7 @@ story:
       posY: 80
       voiceFull: fullvoice/section_102204/vo_full_102204-2-27
     nameCenter: Kyubey
-    textCenter: You haven't interfered with me like this@since the first time we met.
+    textCenter: You haven't interfered with me like@this since the first time we met.
   - chara:
     - id: 810002
       voiceFull: fullvoice/section_102204/vo_full_102204-2-28
@@ -435,7 +435,7 @@ story:
       pos: 1
       voiceFull: fullvoice/section_102204/vo_full_102204-2-29
     nameCenter: Touka
-    textCenter: If I tried to take a look inside you, it would've@just destroyed all
+    textCenter: If I tried to take a look inside you,@it would've just destroyed all
       of my gear.
   - chara:
     - cheek: 0
@@ -476,7 +476,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-2-34
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-33
     nameCenter: Kyubey
-    textCenter: So then, is there something you@wanted to ask of me?
+    textCenter: So then, is there something@you wanted to ask of me?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -491,7 +491,7 @@ story:
       pos: 1
       voiceFull: fullvoice/section_102204/vo_full_102204-2-35
     nameCenter: Iroha
-    textCenter: That's right, Kyubey. There's a lot that@we want to ask you about.
+    textCenter: That's right, Kyubey. There's a lot@that we want to ask you about.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

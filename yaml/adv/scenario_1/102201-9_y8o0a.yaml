@@ -98,7 +98,7 @@ story:
       pos: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-9-6
     nameCenter: Felicia
-    textCenter: Yooo, Iroha! There's something cool over heeere!
+    textCenter: Yooo, Iroha!@There's something cool over heeere!
   - autoTurnLast: 0.2
     chara:
     - id: 100500
@@ -140,7 +140,7 @@ story:
       id: 100500
       voiceFull: fullvoice/section_102201/vo_full_102201-9-10
       voiceFullStop: fullvoice/section_102201/vo_full_102201-9-9
-    textRight: No but, isn't it amazing? Look, Sana!
+    textRight: No but, isn't it amazing?@Look, Sana!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -150,7 +150,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-9-11
       voiceFullStop: fullvoice/section_102201/vo_full_102201-9-10
     nameLeft: Sana
-    textLeft: H-hold on... Don't bring it near me!
+    textLeft: H-hold on...@Don't bring it near me!
   - autoTurnLast: 1
     bgm: stop
     chara:
@@ -204,7 +204,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Ui
-    textRight: It's the same as the magic Sana and@I felt yesterday!
+    textRight: It's the same as the magic@Sana and I felt yesterday!
   - chara:
     - id: 100100
       voiceFull: fullvoice/section_102201/vo_full_102201-9-16
@@ -260,7 +260,7 @@ story:
     - id: 770001
       voiceFull: fullvoice/section_102201/vo_full_102201-9-21
       voiceFullStop: fullvoice/section_102201/vo_full_102201-9-20
-    textRight: You know about it, don't you? You lot...
+    textRight: You know about it, don't you?@You lot...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -278,7 +278,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-9-23
       voiceFullStop: fullvoice/section_102201/vo_full_102201-9-22
     nameLeft: Yachiyo
-    textLeft: Who are you people? You're not from Kamihama,@are you?
+    textLeft: Who are you people?@You're not from Kamihama, are you?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -383,7 +383,7 @@ story:
       id: 100100
       voiceFull: fullvoice/section_102201/vo_full_102201-9-34
       voiceFullStop: fullvoice/section_102201/vo_full_102201-9-33
-    textLeft: W-what are you doing, suddenly@attacking like that?!
+    textLeft: W-what are you doing,@suddenly attacking like that?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -402,13 +402,13 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-9-36
       voiceFullStop: fullvoice/section_102201/vo_full_102201-9-35
     nameRight: ""
-    textRight: Our goal is the enormous amount of energy@that was in this place...
+    textRight: Our goal is the enormous amount@of energy that was in this place...
   - chara:
     - id: 770000
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-9-37
       voiceFullStop: fullvoice/section_102201/vo_full_102201-9-36
-    textRight: And the lives of you all, the Magical Girls@of Kamihama!!!
+    textRight: And the lives of you all,@the Magical Girls of Kamihama!!!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -482,7 +482,7 @@ story:
       motion: 0
       pos: 2
     nameCenter: ""
-    textCenter: If you're gonna fight, better make sure@you're ready to die.
+    textCenter: If you're gonna fight,@better make sure you're ready to die.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

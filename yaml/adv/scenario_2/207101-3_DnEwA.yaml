@@ -62,7 +62,7 @@ story:
       motion: 0
       pos: 1
     nameRight: ""
-    textRight: Are you Kamihama magical girls?
+    textRight: Are you Kamihama Magical Girls?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -96,7 +96,7 @@ story:
     - id: 770101
       motion: 400
     nameRight: ""
-    textRight: They really are Kamihama magical girls!
+    textRight: They really are Kamihama Magical Girls!
   - bgm: stop
     chara:
     - id: 770101
@@ -327,7 +327,7 @@ story:
       id: 770101
       motion: 400
     nameRight: ""
-    textRight: We'll never forgive the Kamihama magical girls @...remember that...
+    textRight: We'll never forgive the Kamihama Magical Girls @...remember that...
   - autoTurnLast: 1
     bgm: stop
     chara:
@@ -364,7 +364,7 @@ story:
       id: 302700
       motion: 300
     nameRight: Hazuki
-    textRight: Haa...that was dangerous...
+    textRight: '*Sigh*...That was dangerous...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -484,7 +484,7 @@ story:
     - id: 302800
       motion: 1
     nameRight: Ayame
-    textRight: Those guys, they were aiming for our soul gems, weren't they?
+    textRight: Those guys, they were aiming for our Soul Gems, weren't they?
   - chara:
     - id: 302800
     nameRight: Ayame

@@ -113,7 +113,7 @@ story:
       id: 102601
       motion: 0
       pos: 2
-    textLeft: But we can't let a Witch dye the Land of the@Rising Sun with curses...
+    textLeft: We can't let a Witch dye the Land@of the Rising Sun with curses...
   - chara:
     - id: 102601
       motion: 100
@@ -129,8 +129,8 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-13-9
       voiceFullStop: fullvoice/section_102202/vo_full_102202-13-8
     nameRight: Sunao
-    textRight: If we're not sure what it is, we need to keep all@possibilities in
-      mind.
+    textRight: Even if we're uncertain of its true nature,@we can't rule out that
+      it may be a Witch.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -150,7 +150,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-13-11
       voiceFullStop: fullvoice/section_102202/vo_full_102202-13-10
     nameLeft: Chiharu
-    textLeft: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]Whaa?! Why are
+    textLeft: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]Whaa?!@Why are
       you stopping us?!'
   - chara:
     - cheek: 0
@@ -198,7 +198,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-13-17
       voiceFullStop: fullvoice/section_102202/vo_full_102202-13-16
-    textRight: Um, this magic isn't from either a Witch@or an Uwasa.
+    textRight: Um, this magic isn't from@either a Witch or an Uwasa.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -233,12 +233,12 @@ story:
       motion: 101
       voiceFull: fullvoice/section_102202/vo_full_102202-13-20
       voiceFullStop: fullvoice/section_102202/vo_full_102202-13-19
-    textLeft: What's more, it was a serious threat even for@our whole team.
+    textLeft: What's more, it was a serious threat@even for our whole team.
   - chara:
     - id: 100301
       voiceFull: fullvoice/section_102202/vo_full_102202-13-21
       voiceFullStop: fullvoice/section_102202/vo_full_102202-13-20
-    textLeft: I think it's too dangerous to fight with just@the people here.
+    textLeft: I think it's too dangerous to fight@with just the people here.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -252,7 +252,7 @@ story:
     - id: 100401
       voiceFull: fullvoice/section_102202/vo_full_102202-13-23
       voiceFullStop: fullvoice/section_102202/vo_full_102202-13-22
-    textRight: It would be better to call in other Kamihama@Magical Girls...
+    textRight: It would be better to call in other@Kamihama Magical Girls...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -288,7 +288,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-13-27
       voiceFullStop: fullvoice/section_102202/vo_full_102202-13-26
     nameRight: Felicia
-    textRight: Instead of talking about this, let's go bust 'em up!
+    textRight: Instead of talkin' about this, let's go bust 'em up!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -312,8 +312,8 @@ story:
     - id: 102601
       voiceFull: fullvoice/section_102202/vo_full_102202-13-30
       voiceFullStop: fullvoice/section_102202/vo_full_102202-13-29
-    textLeft: But if we beat the Witch, the people under@its influence might go back
-      to normal.
+    textLeft: On the other hand, if we beat the Witch, the@people it influenced might
+      go back to normal.
   - chara:
     - id: 102601
       motion: 200
@@ -390,7 +390,7 @@ story:
     - id: 100301
       voiceFull: fullvoice/section_102202/vo_full_102202-13-38
       voiceFullStop: fullvoice/section_102202/vo_full_102202-13-37
-    textLeft: If it's come to this, we'll just somehow pull it off@together!
+    textLeft: If it's come to this, we'll just@somehow pull it off together!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -443,7 +443,7 @@ story:
       id: 102701
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-13-42
-    textRight: '...It''s no good, I can sense strong magic, but...'
+    textRight: '...It''s useless, I can sense strong magic, but...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -491,7 +491,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-13-46
       voiceFullStop: fullvoice/section_102202/vo_full_102202-13-45
-    textLeft: Is it just me...? I can kinda tell where it is.
+    textLeft: Is it just me...?@I can somehow tell where it is.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

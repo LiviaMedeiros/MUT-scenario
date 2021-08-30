@@ -103,7 +103,7 @@ story:
       visible: appear
     nameLeft: ""
     textBg: shout
-    textLeft: '[flashEffect:flashWhite2]∵MMhm―AYE＿uhuh'
+    textLeft: '[flashEffect:flashWhite2]∵MMhm―AYE＿uhuh.'
   - autoTurnFirst: 2
     chara:
     - cheek: 0
@@ -224,7 +224,7 @@ story:
     - id: 6012
       name: sprite_0
     nameLeft: ""
-    textLeft: ∵HUH～＿ya
+    textLeft: ∵HUH～＿ya.
     voiceFullStop: fullvoice/section_102202/vo_full_102202-16-17
   - chara:
     - cheek: 0
@@ -264,7 +264,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Ui
-    textLeft: Tsuruno! It faltered a bit!
+    textLeft: Tsuruno!@It faltered a bit!
   - chara:
     - id: 100300
       motion: 101
@@ -276,7 +276,7 @@ story:
     - id: 100300
       voiceFull: fullvoice/section_102202/vo_full_102202-16-23
       voiceFullStop: fullvoice/section_102202/vo_full_102202-16-22
-    textRight: Felicia, Sana, let's go!
+    textRight: Let's go!@Felicia, Sana!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -411,7 +411,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-16-35
       voiceFullStop: fullvoice/section_102202/vo_full_102202-16-34
     textBg: shout
-    textLeft: You three need to run! We have to regroup!!
+    textLeft: You three need to run!@We have to regroup!!
   - autoTurnLast: 0.1
     chara:
     - effect: fadeout
@@ -452,7 +452,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-16-38
       voiceFullStop: fullvoice/section_102202/vo_full_102202-16-37
     nameRight: Sunao
-    textRight: Charu, Shizuka! I'll carry you!
+    textRight: Charu, Shizuka!@I'll carry you!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -460,7 +460,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-16-39
       voiceFullStop: fullvoice/section_102202/vo_full_102202-16-38
-    textLeft: No...
+    textLeft: No need...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -488,7 +488,7 @@ story:
       id: 102500
       voiceFull: fullvoice/section_102202/vo_full_102202-16-43
       voiceFullStop: fullvoice/section_102202/vo_full_102202-16-42
-    textLeft: Unchanged, for hundreds of years...
+    textLeft: We who have stood unchanged,@for hundreds of years...
   - chara:
     - eyeClose: 0
       id: 102500
@@ -547,7 +547,7 @@ story:
     enableSkipAutoTurn: 1
     nameRight: Chiharu
     textBg: shout
-    textRight: Nuaaaaa!!
+    textRight: NuaaaAAA!!
   - chara:
     - effect: 7000_attack01
       id: 6012
@@ -592,7 +592,7 @@ story:
       id: 102600
       voiceFull: fullvoice/section_102202/vo_full_102202-16-52
       voiceFullStop: fullvoice/section_102202/vo_full_102202-16-51
-    textLeft: I won't let myself be beaten by a speck of malice@like this!
+    textLeft: I won't let myself be beaten by@a mere speck of malice like this!
   - chara:
     - id: 102600
       motion: 200
@@ -627,7 +627,7 @@ story:
   - flashEffect: flashWhiteSlow2
     jingle: 1027M04
     nameNarration: Sunao
-    narration: ―Sunao―@I'll heal you as much as I can, Shizuka.
+    narration: ―Sunao―@I'll heal you up as@much as I can, Shizuka.
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -636,7 +636,7 @@ story:
     narrationLineSpace: 20
     turnChangeOut: fadeOut
     voiceFull: fullvoice/section_102202/vo_full_102202-16-56
-  - narration: ―Sunao―@So with your sword of purifying light, strike!
+  - narration: ―Sunao―@So with your sword as a bolt@of purifying light, strike!
     voiceFull: fullvoice/section_102202/vo_full_102202-16-57
     voiceFullStop: fullvoice/section_102202/vo_full_102202-16-56
   - nameNarration: Shizuka

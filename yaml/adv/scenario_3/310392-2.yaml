@@ -285,7 +285,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 200
-    textRight: Ah, for Mii,@let me have a pack of the 「Heck Yeah!'men」
+    textRight: Ah, for Mii,@let me have a pack of the 「Woohoodles」.
   - textRight: For these, the winning snack bags@range from 10 to 100 yen.
   - chara:
     - cheek: 0
@@ -340,7 +340,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 103901
       lipSynch: 0
-    textCenter: (and this too,@this gummy also looks delicious…!)
+    textCenter: (And this too,@this gummy also looks delicious…!)
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -368,7 +368,7 @@ story:
       pos: 2
     nameLeft: Sudachi
     nameRight: Mikage
-    textRight: Granny...the Heck Yeah!'men…@she won’t sell them anymore…
+    textRight: Granny...the Woohoodles…@she won’t sell them anymore…
   - chara:
     - eyeClose: 1
       id: 103801

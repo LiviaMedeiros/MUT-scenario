@@ -86,7 +86,7 @@ story:
       id: 100101
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-8-11
-    textRight: We're not trying to destroy it, or hand it@over to anyone else...
+    textRight: We're not trying to destroy it,@or hand it over to anyone else...
   - textLeft: ∵HOOHOO￣HOO―HOOHOOO.
     voiceFullStop: fullvoice/section_102201/vo_full_102201-8-11
   - chara:
@@ -126,7 +126,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-8-15
       voiceFullStop: fullvoice/section_102201/vo_full_102201-8-14
     nameLeft: Iroha
-    textLeft: Hm? What do you mean?
+    textLeft: Hm?@What do you mean?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -166,7 +166,7 @@ story:
       id: 100101
       motion: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-8-19
-    textRight: It's not like I'm trying to give you@to someone else...
+    textRight: It's not like I'm trying to give@you to someone else...
   - textLeft: ∵KIH―AHEEHEE＿￣HOOHOOH.
     voiceFullStop: fullvoice/section_102201/vo_full_102201-8-19
   - chara:
@@ -180,7 +180,7 @@ story:
     - id: 100101
       voiceFull: fullvoice/section_102201/vo_full_102201-8-22
       voiceFullStop: fullvoice/section_102201/vo_full_102201-8-21
-    textRight: Even if she takes it off, it's just so she@can examine it.
+    textRight: Even if she takes it off,@it's just so she can examine it.
   - textLeft: ∵Gwaha―HAHA＿HEEHEEE.
     voiceFullStop: fullvoice/section_102201/vo_full_102201-8-22
   - chara:
@@ -381,7 +381,7 @@ story:
     - id: 100201
       voiceFull: fullvoice/section_102201/vo_full_102201-8-47
       voiceFullStop: fullvoice/section_102201/vo_full_102201-8-46
-    textLeft: Just because it means no harm, that doesn't@mean it's completely safe.
+    textLeft: Just because it means no harm,@that doesn't mean it's completely safe.
   - autoTurnFirst: 1.6
     chara:
     - cheek: 1
@@ -391,7 +391,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-8-48
       voiceFullStop: fullvoice/section_102201/vo_full_102201-8-47
     enableSkipAutoTurn: 1
-    textRight: The sooner the better! Let's go, Iroha!
+    textRight: The sooner the better!@Let's go, Iroha!
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -425,7 +425,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-8-50
       voiceFullStop: fullvoice/section_102201/vo_full_102201-8-49
     nameLeft: Iroha
-    textLeft: '...What you said before, Ui, it might@have been right.'
+    textLeft: '...What you said before, Ui,@it might have been right.'
   - chara:
     - id: 101501
       motion: 300
@@ -438,7 +438,7 @@ story:
       id: 100101
       voiceFull: fullvoice/section_102201/vo_full_102201-8-52
       voiceFullStop: fullvoice/section_102201/vo_full_102201-8-51
-    textLeft: Let's go back to the beginning and try@to figure it out.
+    textLeft: Let's go back to the beginning@and try to figure it out.
   - chara:
     - id: 101501
       motion: 0

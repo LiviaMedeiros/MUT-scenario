@@ -18,7 +18,7 @@ story:
     - id: 7006
       name: sprite_0
     nameLeft: ""
-    textLeft: '|ClickClack0=|>-☆|'
+    textLeft: ｜KKT 0=|⊃―☆｜
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -63,7 +63,8 @@ story:
       motion: 101
       voiceFull: fullvoice/section_102202/vo_full_102202-14-6
       voiceFullStop: fullvoice/section_102202/vo_full_102202-14-5
-    textLeft: Just that these are the underlings of the@dangerous boss at the end!
+    textLeft: We just know that these are the underlings@of the dangerous boss at
+      the end!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -73,7 +74,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-14-7
       voiceFullStop: fullvoice/section_102202/vo_full_102202-14-6
     nameRight: Shizuka
-    textRight: That means that just like Witches, they're enemies@to be fought and
+    textRight: That means that just like Witches,@they're enemies to be fought and
       defeated.
   - autoTurnLast: 0.2
     chara:
@@ -96,7 +97,7 @@ story:
     - id: 102500
       voiceFull: fullvoice/section_102202/vo_full_102202-14-9
       voiceFullStop: fullvoice/section_102202/vo_full_102202-14-8
-    textLeft: As Diviners, or rather, as Magical Girls@of the Tokime Clan...
+    textLeft: As Diviners, or rather,@as Magical Girls of the Tokime Clan...
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json

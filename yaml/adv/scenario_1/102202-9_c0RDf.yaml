@@ -22,7 +22,7 @@ story:
       pos: 2
       voiceFull: fullvoice/section_102202/vo_full_102202-9-1
     nameRight: ""
-    textRight: Miss Satomi! Wait!
+    textRight: One moment, Miss Satomi!@Stay right there!
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
@@ -43,12 +43,12 @@ story:
     - id: 800600
       voiceFull: fullvoice/section_102202/vo_full_102202-9-4
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-3
-    textRight: You're the only one who hasn't submitted their@homework!
+    textRight: You're the only one who hasn't@submitted their homework!
   - chara:
     - id: 800600
       voiceFull: fullvoice/section_102202/vo_full_102202-9-5
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-4
-    textRight: If you haven't done it, you need to stay and@get it done!
+    textRight: If you haven't done it,@you need to stay and get it done!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -56,7 +56,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-9-6
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-5
-    textLeft: I already finished and submitted that infantile@assignment.
+    textLeft: I already finished and submitted@that infantile assignment.
   - chara:
     - id: 800600
       voiceFull: fullvoice/section_102202/vo_full_102202-9-7
@@ -91,7 +91,7 @@ story:
     - id: 800600
       voiceFull: fullvoice/section_102202/vo_full_102202-9-11
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-10
-    textRight: More importantly, how do you know my email@address?!
+    textRight: More importantly, how do@you know my email address?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -114,7 +114,7 @@ story:
       motion: 201
       voiceFull: fullvoice/section_102202/vo_full_102202-9-14
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-13
-    textLeft: Just leave me alone and do your job!
+    textLeft: Just leave me alone and do your job already!
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -186,7 +186,7 @@ story:
       id: 100701
       voiceFull: fullvoice/section_102202/vo_full_102202-9-22
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-21
-    textRight: I think that's a fault with the Japanese education@system.
+    textRight: I think that's a fault with@the Japanese education system.
   - chara:
     - id: 100101
       motion: 0
@@ -218,7 +218,7 @@ story:
     - id: 100701
       voiceFull: fullvoice/section_102202/vo_full_102202-9-26
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-25
-    textRight: It's not like you can take it off, right?
+    textRight: Although it's not like you can take it off, right?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -234,7 +234,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-9-28
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-27
-    textRight: Today we're just investigating the pattern@of its magic.
+    textRight: Today we're just investigating its magical pattern.
   - chara:
     - id: 100701
       voiceFull: fullvoice/section_102202/vo_full_102202-9-29
@@ -249,14 +249,14 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-9-30
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-29
     nameLeft: Yachiyo
-    textLeft: We already figured out that it's different from@both Witches and Uwasa.
+    textLeft: We already figured out that it's different@from both Witches and Uwasa.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100201
       voiceFull: fullvoice/section_102202/vo_full_102202-9-31
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-30
-    textLeft: So I don't think we'll learn anything new from@its magical pattern...
+    textLeft: So I don't think we'll learn anything@new from its magical pattern...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -289,7 +289,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-9-35
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-34
-    textRight: Yep, Sakurako will take a look, and I'll figure@out the answers!
+    textRight: Yep, Sakurako will take a look,@and I'll figure out the answers!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -338,7 +338,7 @@ story:
   - narration: '| But Nemu changed the details. |'
     voiceFull: fullvoice/section_102202/vo_full_102202-9-40
     voiceFullStop: fullvoice/section_102202/vo_full_102202-9-39
-  - narration: '| As before, I am bound to the details of the [textBlue:Rumor]. |'
+  - narration: '| As before, I am bound to the contents of the [textBlue:Rumor]. |'
     voiceFull: fullvoice/section_102202/vo_full_102202-9-41
     voiceFullStop: fullvoice/section_102202/vo_full_102202-9-40
   - autoTurnLast: 0.01
@@ -390,7 +390,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-9-43
     nameLeft: Yachiyo
-    textLeft: So that lets you compare magic against the@patterns you know.
+    textLeft: So that lets you compare it to the@magical patterns you know.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -420,30 +420,31 @@ story:
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-45
     - id: 100201
       motion: 0
-    textRight: I already knew the Uwasa were magically@connected to Nemu's book.
+    textRight: We already knew the Uwasa are@magically linked to Nemu's book.
   - chara:
     - id: 100701
       voiceFull: fullvoice/section_102202/vo_full_102202-9-47
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-46
-    textRight: So I converted Sakurako's magic and connected@it to a server.
+    textRight: So I've been researching how Sakurako's magic@would be transformed
+      by her link to the server,
   - chara:
     - id: 100701
       voiceFull: fullvoice/section_102202/vo_full_102202-9-48
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-47
-    textRight: I've been doing some research on how to build@a database for it.
+    textRight: and what kind of database@would result from that process.
   - chara:
     - id: 100701
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-9-49
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-48
-    textRight: Which brings us back to the matter at hand.
+    textRight: Once we have that information, the rest is simple.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100701
       voiceFull: fullvoice/section_102202/vo_full_102202-9-50
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-49
-    textRight: All we have to do is execute the program I@wrote to make the comparison.
+    textRight: All we have to do is execute the program@I wrote to make the comparison.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -533,13 +534,13 @@ story:
       pos: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-9-58
     nameCenter: Eternal Sakura
-    textCenter: '| Neemmmmu. |'
+    textCenter: '| Neeeeemu. |'
   - chara:
     - id: 101403
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-9-59
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-58
-    textRight: Glad to see you're in a good mood today.
+    textRight: Glad to see you're in a good mood today, Sakurako.
   - chara:
     - id: 304301
       motion: 100
@@ -550,7 +551,7 @@ story:
     - id: 304301
       voiceFull: fullvoice/section_102202/vo_full_102202-9-61
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-60
-    textCenter: '| If Ui comes too, I''ll look at the Bracelet. |'
+    textCenter: '| Once Ui gets here too, I''ll look at the Bracelet. |'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -634,7 +635,7 @@ story:
       pos: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-9-67
     nameLeft: Iroha
-    textLeft: Hey, wait, Sakurako!
+    textLeft: H-hey, wait, Sakurako!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -647,7 +648,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-9-68
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-67
     nameLeft: Touka
-    textLeft: Ah, now she's sulking...
+    textLeft: Aaah, now she's sulking...
   - chara:
     - id: 101403
       motion: 200
@@ -697,7 +698,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-9-74
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-73
     nameLeft: Touka
-    textLeft: So, did you end up finding the [textBlue:Rumor]?
+    textLeft: So, did you end up finding that [textBlue:Rumor]?
   - bgm: bgm05_event07
     chara:
     - cheek: 0
@@ -708,7 +709,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-9-75
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-74
     nameRight: Yachiyo
-    textRight: '[textBlue:Rumor]?'
+    textRight: A [textBlue:Rumor]?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -741,8 +742,8 @@ story:
     turnChangeIn: fadeIn
     voiceFullStop: fullvoice/section_102202/vo_full_102202-9-77
   - nameNarration: Nemu
-    narration: '"When I faced off against Alina, I used all of my power, and,@prepared
-      to die, I created one last [textBlue:Rumor]."'
+    narration: '"When I faced off against Alina, I used all of my power,@and, prepared
+      to die,@I created one last [textBlue:Rumor]."'
     narrationCoverOpacity: 150
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -750,7 +751,7 @@ story:
   - narration: '"But I can''t find the [textBlue:Rumor] I created."'
     voiceFull: fullvoice/section_102202/vo_full_102202-9-79
     voiceFullStop: fullvoice/section_102202/vo_full_102202-9-78
-  - narration: '"The [textBlue:Rumor] is recorded in my book, that''s for certain,@but
+  - narration: '"The [textBlue:Rumor] is recorded in my book,@that''s for certain,@but
       I can''t detect it at all."'
     voiceFull: fullvoice/section_102202/vo_full_102202-9-80
     voiceFullStop: fullvoice/section_102202/vo_full_102202-9-79

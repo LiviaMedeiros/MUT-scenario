@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 304701
       lipSynch: 0
-    nameCenter: Chika
+    nameCenter: "\uFEFFChika"
     textCenter: '.....'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
@@ -30,7 +30,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Yuuna
-    textLeft: Let's see... @There is a Magical girl nearby.
+    textLeft: Let's see... @There is a Magical Girl nearby.
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -500,7 +500,7 @@ story:
       id: 100601
       motion: 100
       pos: 0
-    nameLeft: Mifiyu
+    nameLeft: Mifuyu
     textLeft: No way, but are you interested in the @Automatic Purification System?
   - chara:
     - cheek: 0
@@ -532,14 +532,14 @@ story:
       id: 100601
       motion: 0
       pos: 0
-    nameLeft: Mifiyu
+    nameLeft: Mifuyu
     textLeft: Um...
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 100601
       motion: 200
-    nameLeft: Mifiyu
+    nameLeft: Mifuyu
     textLeft: So, you want control of the Automatic Purification System, right?
   - chara:
     - cheek: 0
@@ -555,7 +555,7 @@ story:
       id: 100601
       motion: 0
       pos: 0
-    nameLeft: Mifiyu
+    nameLeft: Mifuyu
     textLeft: Eh?
   - chara:
     - cheek: 0
@@ -571,7 +571,7 @@ story:
       id: 100601
       motion: 100
       pos: 0
-    nameLeft: Mifiyu
+    nameLeft: Mifuyu
     textLeft: You don't know about that, yet you are still asking about the [textYellow:Kimochi]?
   - chara:
     - id: 301701
@@ -584,7 +584,7 @@ story:
       id: 100601
       motion: 300
       pos: 0
-    nameLeft: Mifiyu
+    nameLeft: Mifuyu
     textLeft: Let's see, you are from Kamihama so you know more than most.
   - chara:
     - cheek: 0
@@ -592,7 +592,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 100601
       pos: 0
-    nameLeft: Mifiyu
+    nameLeft: Mifuyu
     textLeft: The [textYellow:Kimochi] stones that you are all calling jewels...
   - autoTurnLast: 0.01
     chara:
@@ -626,7 +626,7 @@ story:
   - chara:
     - id: 100601
       motion: 200
-    nameLeft: Mifiyu
+    nameLeft: Mifuyu
     textLeft: Well, to put it simply, @yes.
   - chara:
     - cheek: 0

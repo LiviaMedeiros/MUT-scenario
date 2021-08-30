@@ -327,7 +327,7 @@ story:
       voiceFull: fullvoice/section_102101/vo_full_102101-8-28
       voiceFullStop: fullvoice/section_102101/vo_full_102101-8-27
     nameRight: Tsuruno
-    textRight: I can feel some strong magic, maybe that's@why it won't come off.
+    textRight: I can feel some strong magic,@maybe that's why it won't come off.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -341,7 +341,7 @@ story:
     - id: 100200
       voiceFull: fullvoice/section_102101/vo_full_102101-8-30
       voiceFullStop: fullvoice/section_102101/vo_full_102101-8-29
-    textLeft: Though, I don't feel comfortable leaving such a@mysterious object alone.
+    textLeft: Though, I don't feel comfortable leaving@such a mysterious object alone.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -419,7 +419,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102101/vo_full_102101-8-38
       voiceFullStop: fullvoice/section_102101/vo_full_102101-8-37
-    textLeft: Hm? What do you mean?
+    textLeft: Hm?@What do you mean?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -567,7 +567,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102101/vo_full_102101-8-59
       voiceFullStop: fullvoice/section_102101/vo_full_102101-8-58
-    textCenter: '...Aru, do you think I''m doing a proper job@writing this down...?'
+    textCenter: '...Aru, do you think I''m doing@a proper job writing this down...?'
   - chara:
     - id: 102001
       lipSynch: 0

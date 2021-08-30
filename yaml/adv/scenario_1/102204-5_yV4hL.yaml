@@ -133,7 +133,7 @@ story:
       id: 305300
       voiceFull: fullvoice/section_102204/vo_full_102204-5-11
       voiceFullStop: fullvoice/section_102204/vo_full_102204-5-10
-    textLeft: These girl aren't fighting like you would@against Witches...
+    textLeft: These girl aren't fighting like@you would against Witches...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -141,7 +141,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102204/vo_full_102204-5-12
       voiceFullStop: fullvoice/section_102204/vo_full_102204-5-11
-    textRight: It's more like they're specialized at@fighting against people...
+    textRight: It's more like they're specialized@at fighting against people...
   - autoTurnLast: 0.1
     chara:
     - effect: fadeout
@@ -441,7 +441,7 @@ story:
       id: 102300
       voiceFull: fullvoice/section_102204/vo_full_102204-5-31
       voiceFullStop: fullvoice/section_102204/vo_full_102204-5-30
-    textLeft: They're the ones who stole our Witches@and ruined our city.
+    textLeft: They're the ones who stole our@Witches and ruined our city.
   - chara:
     - id: 102300
       motion: 200
@@ -486,7 +486,7 @@ story:
       id: 101100
       voiceFull: fullvoice/section_102204/vo_full_102204-5-36
       voiceFullStop: fullvoice/section_102204/vo_full_102204-5-35
-    textRight: It's awful for Magical Girls to be fighting@each other like this...
+    textRight: It's awful for Magical Girls to be@fighting each other like this...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -596,7 +596,7 @@ story:
       posX: 0
       voiceFull: fullvoice/section_102204/vo_full_102204-5-46
       voiceFullStop: fullvoice/section_102204/vo_full_102204-5-45
-    textLeft: No way a scaredy-cat like her would@grab a tiger by the tail.
+    textLeft: No way a scaredy-cat like her@would grab a tiger by the tail.
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json

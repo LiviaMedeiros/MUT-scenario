@@ -92,7 +92,7 @@ story:
     narration: ―???―@I heard tell that ya broke yer neutrality, so I came over.
     voiceFull: fullvoice/section_102204/vo_full_102204-13-9
     voiceFullStop: fullvoice/section_102204/vo_full_102204-13-8
-  - narration: ―???―@Ye've done it now, tarnishin' the good name of Coordinators.
+  - narration: ―???―@Ye've done it now,@tarnishin' the good name of Coordinators.
     voiceFull: fullvoice/section_102204/vo_full_102204-13-10
     voiceFullStop: fullvoice/section_102204/vo_full_102204-13-9
   - autoTurnLast: 0.01
@@ -127,7 +127,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102204/vo_full_102204-13-12
       voiceFullStop: fullvoice/section_102204/vo_full_102204-13-11
-    textLeft: Don't tell me you're the ones going around@adjusting the other Magical
+    textLeft: Don't tell me you're the ones going around@enhancing the other Magical
       Girls...?
   - chara:
     - cheek: 0
@@ -535,7 +535,7 @@ story:
       id: 100101
       voiceFull: fullvoice/section_102204/vo_full_102204-13-59
       voiceFullStop: fullvoice/section_102204/vo_full_102204-13-58
-    textLeft: And yet, somehow that's led us to sowing@the field of war instead...
+    textLeft: And yet, somehow that's led us to@sowing the field of war instead...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

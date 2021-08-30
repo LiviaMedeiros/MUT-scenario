@@ -68,7 +68,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-11-6
     enableSkipAutoTurn: 1
-    textLeft: Hah... I'm done over here!
+    textLeft: Hah...@I'm done over here!
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -185,7 +185,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-11-13
       voiceFullStop: fullvoice/section_102201/vo_full_102201-11-12
     nameLeft: Yachiyo
-    textLeft: You know, I do keep a pretty cool head.
+    textLeft: This is hardly my first battle, you know.
   - chara:
     - id: 100200
       voiceFull: fullvoice/section_102201/vo_full_102201-11-14
@@ -208,7 +208,7 @@ story:
   - bgm: stop
     nameCenter: ???'s Voice
     textBg: shout
-    textCenter: March forth! Hikaru Army!!
+    textCenter: March forth!@Hikaru Army!!
     voiceFull: fullvoice/section_102201/vo_full_102201-11-17
     voiceFullStop: fullvoice/section_102201/vo_full_102201-11-16
   - chara:
@@ -276,7 +276,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-11-22
       voiceFullStop: fullvoice/section_102201/vo_full_102201-11-21
     nameRight: ???
-    textRight: I'm surprised that you're alright even after@I used my Hikaru Army.
+    textRight: I'm surprised that you're alright even@after I used my Hikaru Army.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -364,7 +364,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-11-29
       voiceFullStop: fullvoice/section_102201/vo_full_102201-11-28
     textBg: shout
-    textRight: I can't believe our lives were at the mercy@of someone like this!
+    textRight: I can't believe our lives were at@the mercy of someone like this!
   - autoTurnLast: 0.5
     chara:
     - effect: 7001_attack02
@@ -598,7 +598,7 @@ story:
       pos: 2
       voiceFull: fullvoice/section_102201/vo_full_102201-11-51
     nameRight: ???
-    textRight: We can't let you go, even if you're just@a single small fry.
+    textRight: We can't let you go, even if@you're just a single small fry.
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json

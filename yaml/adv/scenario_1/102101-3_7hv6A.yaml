@@ -35,7 +35,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Iroha
-    textLeft: Isn't this the same Uwasa from that time with@the Rule of Ending Friendships?
+    textLeft: Isn't this the same Uwasa from that time@with the Rule of Ending Friendships?
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -68,7 +68,7 @@ story:
       voiceFull: fullvoice/section_102101/vo_full_102101-3-6
       voiceFullStop: fullvoice/section_102101/vo_full_102101-3-5
     nameRight: Ui
-    textRight: I asked everyone to come since it felt different@from a Witch, but...
+    textRight: I asked everyone to come since it@felt different from a Witch, but...
   - chara:
     - id: 101500
       voiceFull: fullvoice/section_102101/vo_full_102101-3-7
@@ -112,7 +112,7 @@ story:
       voiceFull: fullvoice/section_102101/vo_full_102101-3-10
       voiceFullStop: fullvoice/section_102101/vo_full_102101-3-9
     nameRight: Felicia
-    textRight: It's fiiine! If we just try whaling on it,@we'll figure something out!
+    textRight: It's fiiine! If we just try whalin' on it,@we'll figure something out!
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout

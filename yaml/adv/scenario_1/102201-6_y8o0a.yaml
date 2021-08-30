@@ -34,12 +34,12 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-6-2
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-1
     nameRight: Kanagi
-    textRight: Indeed. I finally detected a reaction@like that myself.
+    textRight: Indeed. I finally detected a@reaction like that myself.
   - chara:
     - id: 101601
       voiceFull: fullvoice/section_102201/vo_full_102201-6-3
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-2
-    textRight: Have you noticed anything, Mitama?
+    textRight: Have you noticed anything, Yakumo?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -52,7 +52,7 @@ story:
     - id: 101700
       voiceFull: fullvoice/section_102201/vo_full_102201-6-5
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-4
-    textLeft: But I don't think any of them actually@saw something.
+    textLeft: But I don't think any of them@actually saw something.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -65,13 +65,13 @@ story:
     - id: 101601
       voiceFull: fullvoice/section_102201/vo_full_102201-6-7
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-6
-    textRight: To happen now, when things have been@looking up in the East...
+    textRight: To happen now, when things have@been looking up in the East...
   - chara:
     - eyeClose: 1
       id: 101601
       voiceFull: fullvoice/section_102201/vo_full_102201-6-8
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-7
-    textRight: I hope this doesn't become a situation@that will affect that...
+    textRight: I hope this doesn't become a@situation that will affect that...
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json
@@ -266,7 +266,7 @@ story:
     - id: 101601
       voiceFull: fullvoice/section_102201/vo_full_102201-6-26
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-25
-    textRight: If there are any problems, it'll be the@East dealing with it first.
+    textRight: If there are any problems,@it'll be the East dealing with it first.
   - chara:
     - id: 101700
       motion: 300
@@ -280,7 +280,7 @@ story:
       id: 101700
       voiceFull: fullvoice/section_102201/vo_full_102201-6-28
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-27
-    textLeft: Still, aside from that one rampage the other@day, it's calmed down these
+    textLeft: Still, aside from that one rampage the@other day, it's calmed down these
       days.
   - nameNarration: ""
     narration: '*Door opening*'
@@ -299,7 +299,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-6-31
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-30
-    textRight: You're earlier than expected, Yachiyo.
+    textRight: You're earlier than expected, Nanami.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json

@@ -69,7 +69,7 @@ story:
       id: 100100
       voiceFull: fullvoice/section_102204/vo_full_102204-3-5
       voiceFullStop: fullvoice/section_102204/vo_full_102204-3-4
-    textCenter: You won't tell us that it's something you@can't talk about, will you?
+    textCenter: You won't tell us that it's something@you can't talk about, will you?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -89,8 +89,8 @@ story:
     - id: 810002
       voiceFull: fullvoice/section_102204/vo_full_102204-3-7
       voiceFullStop: fullvoice/section_102204/vo_full_102204-3-6
-    textCenter: I may not be able to get into Kamihama, but I'm not@going to keep
-      secrets from you just because of that.
+    textCenter: I may not be able to enter Kamihama, but I'm won't@keep secrets from
+      you just because of that.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -110,7 +110,7 @@ story:
     - id: 101600
       voiceFull: fullvoice/section_102204/vo_full_102204-3-9
       voiceFullStop: fullvoice/section_102204/vo_full_102204-3-8
-    textCenter: How do we know you aren't secretly supporting@someone?
+    textCenter: How do we know you aren't@secretly supporting someone?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -291,19 +291,19 @@ story:
     - id: 100100
       voiceFull: fullvoice/section_102204/vo_full_102204-3-25
       voiceFullStop: fullvoice/section_102204/vo_full_102204-3-24
-    textCenter: All the Magical Girls here from outside of Kamihama@have been looking
+    textCenter: All the Magical Girls here from outside of@Kamihama have been looking
       for something.
   - chara:
     - id: 100100
       voiceFull: fullvoice/section_102204/vo_full_102204-3-26
       voiceFullStop: fullvoice/section_102204/vo_full_102204-3-25
-    textCenter: They've been searching for sources@of powerful energy.
+    textCenter: They've been searching for@sources of powerful energy.
   - chara:
     - id: 100100
       motion: 301
       voiceFull: fullvoice/section_102204/vo_full_102204-3-27
       voiceFullStop: fullvoice/section_102204/vo_full_102204-3-26
-    textCenter: Is it true that whoever has it can control the@Automatic Purification
+    textCenter: Is it true that whoever has it can control@the Automatic Purification
       System?
   - autoTurnLast: 0.2
     chara:
@@ -383,7 +383,7 @@ story:
     - id: 810002
       voiceFull: fullvoice/section_102204/vo_full_102204-3-35
       voiceFullStop: fullvoice/section_102204/vo_full_102204-3-34
-    textCenter: I expect that you already have an idea@of what it is, don't you?
+    textCenter: I expect that you already have an@idea of what it is, don't you?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -497,7 +497,7 @@ story:
     - id: 810002
       voiceFull: fullvoice/section_102204/vo_full_102204-3-45
       voiceFullStop: fullvoice/section_102204/vo_full_102204-3-44
-    textCenter: That said, I don't know exactly how@many you would need.
+    textCenter: That said, I don't know exactly@how many you would need.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

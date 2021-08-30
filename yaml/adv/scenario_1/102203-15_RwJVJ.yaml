@@ -30,7 +30,7 @@ story:
     - id: 102100
       voiceFull: fullvoice/section_102203/vo_full_102203-15-2
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-1
-    textRight: You've got a big brain to consider all sorts@of outcomes.
+    textRight: You've got a big brain to consider@all sorts of outcomes.
   - chara:
     - id: 102100
       voiceFull: fullvoice/section_102203/vo_full_102203-15-3
@@ -46,7 +46,7 @@ story:
     - id: 100701
       voiceFull: fullvoice/section_102203/vo_full_102203-15-5
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-4
-    textLeft: When I was a Magius, I didn't care about what@would be sacrificed.
+    textLeft: When I was a Magius,@I didn't care about what would be sacrificed.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -82,7 +82,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-15-9
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-8
     nameRight: Hikaru
-    textRight: It looks like it would be better to chop your@head into tiny pieces
+    textRight: It looks like it would be better to chop@your head into tiny pieces
       after all!
   - autoTurnLast: 0.1
     chara:
@@ -144,12 +144,12 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-15-14
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-13
-    textLeft: But if we hadn't stopped your plan, everything@might have really worked...
+    textLeft: But if we hadn't stopped your plan,@everything might have really worked...
   - chara:
     - id: 100100
       voiceFull: fullvoice/section_102203/vo_full_102203-15-15
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-14
-    textLeft: The Automatic Purification System could have@covered the entire world
+    textLeft: The Automatic Purification System could@have covered the entire world
       by now...
   - chara:
     - cheek: 0
@@ -163,7 +163,7 @@ story:
     - id: 100100
       voiceFull: fullvoice/section_102203/vo_full_102203-15-17
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-16
-    textLeft: I didn't know how many people could be@hurt if I did nothing.
+    textLeft: I didn't know how many people@could be hurt if I did nothing.
   - chara:
     - id: 100100
       voiceFull: fullvoice/section_102203/vo_full_102203-15-18
@@ -178,7 +178,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-15-19
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-18
     nameRight: Yuna
-    textRight: As a result, it was only Kamihama that was saved...?
+    textRight: As a result,@it was only Kamihama that was saved...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -234,12 +234,12 @@ story:
       motion: 301
       voiceFull: fullvoice/section_102203/vo_full_102203-15-27
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-26
-    textLeft: I know that a mere apology can never be@enough, and...
+    textLeft: I know that a mere apology@can never be enough, and...
   - chara:
     - id: 100100
       voiceFull: fullvoice/section_102203/vo_full_102203-15-28
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-27
-    textLeft: Maybe what I'm saying sounds baffling@to you, but...
+    textLeft: Maybe what I'm saying sounds@baffling to you, but...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -248,7 +248,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-15-29
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-28
-    textLeft: I want you to help us, to work together to@make it happen.
+    textLeft: I want you to help us,@to work together to make it happen.
   - chara:
     - id: 100100
       motion: 400
@@ -314,7 +314,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-15-37
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-36
-    textLeft: I'm sorry, Miss Tamaki. I'm a Magical Girl too.
+    textLeft: I'm sorry, Miss Tamaki.@I'm a Magical Girl too.
   - chara:
     - id: 102500
       voiceFull: fullvoice/section_102203/vo_full_102203-15-38
@@ -378,7 +378,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-15-44
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-43
-    textRight: Yeah, it's stuck tight to Big Sis's arm.
+    textRight: Yeah, it's stuck tight to your arm.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -407,7 +407,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102203/vo_full_102203-15-48
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-47
-    textLeft: It's thanks to you guys dealing with the earlier@one while I saved up
+    textLeft: It's thanks to you guys dealing with the@earlier one while I saved up
       power.
   - chara:
     - id: 102400
@@ -542,7 +542,7 @@ story:
       id: 102300
       motion: 0
       pos: 2
-    textLeft: The victors get the spoils, it belongs to@Juri the Great now.
+    textLeft: The victors get the spoils.@It belongs to Juri the Great now.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -662,13 +662,13 @@ story:
       id: 102300
       voiceFull: fullvoice/section_102203/vo_full_102203-15-67
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-66
-    textRight: Small fries aren't any use, but a hidden@character is another story.
+    textRight: Small fries aren't any use, but a@hidden character is another story.
   - chara:
     - id: 102400
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-15-68
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-67
-    textLeft: I'm on a roll, I want to keep this going@while I still can.
+    textLeft: I'm on a roll, I want to keep@this going while I still can.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
     voiceFullStop: fullvoice/section_102203/vo_full_102203-15-68

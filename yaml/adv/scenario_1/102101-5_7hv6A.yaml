@@ -140,7 +140,7 @@ story:
       id: 100400
       voiceFull: fullvoice/section_102101/vo_full_102101-5-14
       voiceFullStop: fullvoice/section_102101/vo_full_102101-5-13
-    textLeft: Since we defeated the core Uwasa, the Labyrinth@should disappear...
+    textLeft: Since we defeated the core Uwasa,@the Labyrinth should disappear...
   - chara:
     - id: 101500
       motion: 300
@@ -216,8 +216,8 @@ story:
     narration: ―Tsuruno―@Also, the strength of this magic isn't normal.
     voiceFull: fullvoice/section_102101/vo_full_102101-5-23
     voiceFullStop: fullvoice/section_102101/vo_full_102101-5-22
-  - narration: ―Tsuruno―@To think there would be this strong of a Witch even though
-      the@Wings of the Magius dissolved...
+  - narration: ―Tsuruno―@To think there would be this strong of a Witch even though@the
+      Wings of the Magius dissolved...
     voiceFull: fullvoice/section_102101/vo_full_102101-5-24
     voiceFullStop: fullvoice/section_102101/vo_full_102101-5-23
   - nameNarration: ""

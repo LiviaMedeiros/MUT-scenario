@@ -49,13 +49,13 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-12-4
       voiceFullStop: fullvoice/section_102203/vo_full_102203-12-3
     nameRight: Chiharu
-    textRight: Yeah, I feel a little bit, but it doesn't feel the@same as a villain
+    textRight: Yeah, I feel a little bit, but it doesn't@feel the same as a villain
       would...
   - chara:
     - id: 102600
       voiceFull: fullvoice/section_102203/vo_full_102203-12-5
       voiceFullStop: fullvoice/section_102203/vo_full_102203-12-4
-    textRight: Maybe it's a pure grudge, or something@like a duty...
+    textRight: Maybe it's a pure grudge,@or something like a duty...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -74,7 +74,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-12-7
       voiceFullStop: fullvoice/section_102203/vo_full_102203-12-6
-    textLeft: That said, I don't think they'll be able to keep@this up for much longer...
+    textLeft: That said, I don't think they'll be@able to keep this up for much longer...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -84,7 +84,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-12-8
       voiceFullStop: fullvoice/section_102203/vo_full_102203-12-7
     nameRight: Chiharu
-    textRight: Yeah. At this rate, everyone's going to@end up dead...
+    textRight: Yeah. At this rate, everyone's@going to end up dead...
   - autoTurnLast: 0.1
     chara:
     - effect: fadeout
@@ -148,7 +148,7 @@ story:
       pos: 0
     nameLeft: Yachiyo
     nameRight: Felicia
-    textRight: Yeesh! These guys just keep gettin' back up!
+    textRight: Yeesh!@These guys just keep gettin' back up!
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -156,7 +156,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-12-12
       voiceFullStop: fullvoice/section_102203/vo_full_102203-12-11
-    textLeft: Be careful, just because they're beaten doesn't@mean they can't still
+    textLeft: Be careful, just because they're beaten@doesn't mean they can't still
       hurt you!
   - autoTurnLast: 0.01
     chara:
@@ -395,7 +395,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-12-32
       voiceFullStop: fullvoice/section_102203/vo_full_102203-12-31
-    textRight: It's not a problem. I figured it out, to some extent.
+    textRight: It's not a problem.@I figured it out, to some extent.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
@@ -757,7 +757,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-12-58
       voiceFullStop: fullvoice/section_102203/vo_full_102203-12-57
     textBg: shout
-    textCenter: But no one wants to die here for nothing right now,@do they?!
+    textCenter: But no one wants to die here@for nothing right now, do they?!
   - chara:
     - id: 100100
       motion: 200
@@ -802,7 +802,7 @@ story:
     - id: 102200
       voiceFull: fullvoice/section_102203/vo_full_102203-12-63
       voiceFullStop: fullvoice/section_102203/vo_full_102203-12-62
-    textRight: If we all die here, we won't be able to face@our fallen comrades.
+    textRight: If we all die here, we won't be@able to face our fallen comrades.
   - chara:
     - cheek: 1
       face: mtn_ex_031.exp.json
@@ -909,7 +909,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-12-73
       voiceFullStop: fullvoice/section_102203/vo_full_102203-12-72
     nameRight: Ui
-    textRight: I'll be fine. How are Touka and Nemu?
+    textRight: I'll be fine.@How are Touka and Nemu?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -1004,7 +1004,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-12-79
     nameLeft: Iroha
     nameRight: Yuna
-    textLeft: Even now, are you still refusing to tell@us anything...?
+    textLeft: Even now, are you still refusing@to tell us anything...?
   - chara:
     - id: 102100
       lipSynch: 0

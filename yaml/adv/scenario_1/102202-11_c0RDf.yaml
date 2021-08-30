@@ -38,8 +38,8 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-11-4
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-3
     nameLeft: Kanagi
-    textLeft: I've said it many times before, but it's the same@as all the other customers
-      receive.
+    textLeft: I've said it many times before, but it's the same@as what all the other
+      customers receive.
   - chara:
     - id: 801100
       voiceFull: fullvoice/section_102202/vo_full_102202-11-5
@@ -50,8 +50,8 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-11-6
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-5
-    textLeft: I don't have any love for customers.@That feeling is just your money
-      speaking.
+    textLeft: I don't have any love for customers.@You’re just getting what you paid
+      for, alright?
   - chara:
     - id: 801100
       voiceFull: fullvoice/section_102202/vo_full_102202-11-7
@@ -124,7 +124,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102202/vo_full_102202-11-16
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-15
-    textLeft: That was Mitama's recipe, but I guess it's@better than I expected.
+    textLeft: That was Yakumo's recipe,@but I guess it's better than I expected.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -141,7 +141,7 @@ story:
       lipSynch: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-11-18
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-17
-    textRight: Kanagi, do you always treat your customers@like this...?
+    textRight: Kanagi, do you always treat@your customers like this...?
   - autoTurnFirst: 2.7
     chara:
     - id: 101602
@@ -149,7 +149,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-11-19
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-18
     enableSkipAutoTurn: 1
-    textLeft: Oh, what a rare guest.@I'll do my best to serve you as a master.
+    textLeft: Oh, what a rare guest.@I'll do my best to serve you, Master.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -170,12 +170,12 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-11-21
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-20
-    textLeft: Indeed, it seems that cake and tabasco go well@together.
+    textLeft: Indeed, it seems that cake@and tabasco go well together.
   - chara:
     - id: 101602
       voiceFull: fullvoice/section_102202/vo_full_102202-11-22
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-21
-    textLeft: Would you like some as well, Mifuyu?
+    textLeft: Would you like some as well, Azusa?
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp.json
@@ -206,7 +206,7 @@ story:
       motion: 400
       voiceFull: fullvoice/section_102202/vo_full_102202-11-26
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-25
-    textRight: No, I'm here because I need to inform you@of some urgent news...
+    textRight: No, I'm here because I need to@inform you of some urgent news...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -224,7 +224,7 @@ story:
       lipSynch: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-11-28
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-27
-    textLeft: '...That sounds concerning. What is it?'
+    textLeft: You seem unsettled.@What happened?
   - chara:
     - id: 100601
       motion: 1
@@ -235,7 +235,7 @@ story:
     - id: 100601
       voiceFull: fullvoice/section_102202/vo_full_102202-11-30
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-29
-    textRight: And not just a few, they're gathering quite@a number of girls...
+    textRight: And not just a few, they're gathering@quite a number of girls...
   - chara:
     - eyeClose: 1
       id: 101602
@@ -248,7 +248,7 @@ story:
       id: 101602
       voiceFull: fullvoice/section_102202/vo_full_102202-11-32
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-31
-    textLeft: Have you contacted Mitama?
+    textLeft: Have you contacted Yakumo?
   - chara:
     - id: 100601
       motion: 100
@@ -262,12 +262,12 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-11-34
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-33
-    textLeft: It makes sense now.
+    textLeft: Things make sense now.
   - chara:
     - id: 101602
       voiceFull: fullvoice/section_102202/vo_full_102202-11-35
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-34
-    textLeft: I got a call from Mitama earlier,@but couldn't answer.
+    textLeft: I got a call from Yakumo earlier,@but couldn't answer.
   - chara:
     - id: 101602
       motion: 300
@@ -281,7 +281,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-11-37
       voiceFullStop: fullvoice/section_102202/vo_full_102202-11-36
-    textRight: Then I'll go ahead and call Tsukuyo and@Tsukasa as well.
+    textRight: Then I'll go ahead and call Tsukuyo@and Tsukasa as well.
   - chara:
     - id: 100601
       voiceFull: fullvoice/section_102202/vo_full_102202-11-38

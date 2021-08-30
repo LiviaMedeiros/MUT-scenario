@@ -65,7 +65,7 @@ story:
   - chara:
     - id: 200451
       motion: 0
-    textRight: so let's head back to where Homura and the others @are...
+    textRight: So let's head back to where Homura and the others @are...
   - chara:
     - id: 200550
       lipSynch: 0
@@ -135,23 +135,23 @@ story:
   - chara:
     - id: 200550
     nameRight: Mami
-    textRight: Uhm.. Homura...
+    textRight: Uhm... Homura...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_110.exp.json
       id: 230000
     nameLeft: Homura
-    textLeft: Mami
+    textLeft: Mami...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 200151
       motion: 300
       pos: 0
-    nameLeft: madoka
-    textLeft: Welcome back! ...Huh?@[chara:200151:lipSynch_0][wait:0.8][chara:200151:cheek_0][chara:200151:face_mtn_ex_051.exp.json:motion_0][chara:200151:lipSynch_1]Where's
-      Sayaka...?
+    nameLeft: Madoka
+    textLeft: Welcome back!@[chara:200151:lipSynch_0][wait:0.8][chara:200151:cheek_0][chara:200151:face_mtn_ex_051.exp.json:motion_0][chara:200151:lipSynch_1]...Huh?
+      Where's Sayaka...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -177,7 +177,7 @@ story:
       id: 200151
       motion: 400
       pos: 0
-    nameLeft: madoka
+    nameLeft: Madoka
     textLeft: Woooow! @It's big~~!
   - chara:
     - id: 200151
@@ -218,11 +218,11 @@ story:
     - eyeClose: 1
       id: 230000
       motion: 1
-    textLeft: I, just... I'm just so happy that you cared, Mami
+    textLeft: I, just... I'm just so happy that you cared, Mami.
   - chara:
     - eyeClose: 0
       id: 230000
-    textLeft: So that's why... thank you very much, Mami
+    textLeft: So that's why... thank you very much, Mami.
   - chara:
     - id: 200550
       motion: 0
@@ -232,10 +232,10 @@ story:
       face: mtn_ex_020.exp.json
       id: 230000
       motion: 400
-    textLeft: Umm...uh,
+    textLeft: Umm... Uh...
   - chara:
     - id: 230000
-    textLeft: please don't worry about it anymore...
+    textLeft: Please don't worry about it anymore...
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -284,7 +284,7 @@ story:
       id: 200151
       motion: 0
       pos: 2
-    nameRight: madoka
+    nameRight: Madoka
     textRight: Is that okay with you? Homura.
   - chara:
     - cheek: 0
@@ -322,7 +322,7 @@ story:
       id: 200151
       motion: 100
       pos: 2
-    nameRight: madoka
+    nameRight: Madoka
     textRight: After all, the happiness of something "delicious" is @something you
       want to share with everyone, right?
   - chara:
@@ -338,7 +338,7 @@ story:
       id: 200550
       pos: 2
     nameRight: Mami
-    textRight: '...Humora...Madoka ... '
+    textRight: '...Homura...Madoka... '
   - chara:
     - eyeClose: 1
       id: 200550

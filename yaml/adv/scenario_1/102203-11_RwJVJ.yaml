@@ -78,7 +78,7 @@ story:
       motion: 400
       voiceFull: fullvoice/section_102203/vo_full_102203-11-7
       voiceFullStop: fullvoice/section_102203/vo_full_102203-11-6
-    textRight: I'm sorry, but I'm going to force the reason that@you're attacking
+    textRight: I'm sorry, but I'm going to force the@reason that you're attacking
       out of you.
   - chara:
     - cheek: 0

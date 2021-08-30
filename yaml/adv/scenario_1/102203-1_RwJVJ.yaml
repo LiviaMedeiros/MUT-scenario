@@ -144,7 +144,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-1-15
       voiceFullStop: fullvoice/section_102203/vo_full_102203-1-14
-    textLeft: I'm just wondering if he's got a purpose that@he's not telling us.
+    textLeft: I'm just wondering if he's got a@purpose that he's not telling us.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -159,7 +159,7 @@ story:
     - id: 102501
       voiceFull: fullvoice/section_102203/vo_full_102203-1-17
       voiceFullStop: fullvoice/section_102203/vo_full_102203-1-16
-    textRight: He possesses the incredible power that@made us into Magical Girls.
+    textRight: He possesses the incredible power@that made us into Magical Girls.
   - chara:
     - id: 102501
       voiceFull: fullvoice/section_102203/vo_full_102203-1-18
@@ -178,7 +178,7 @@ story:
     - id: 102501
       voiceFull: fullvoice/section_102203/vo_full_102203-1-20
       voiceFullStop: fullvoice/section_102203/vo_full_102203-1-19
-    textRight: That mysterious power that prevents us@from becoming Witches.
+    textRight: That mysterious power that prevents@us from becoming Witches.
   - chara:
     - eyeClose: 1
       id: 102501
@@ -233,7 +233,7 @@ story:
       pos: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-1-25
     nameLeft: Ui
-    textLeft: Oh, in that case, let's get Touka and the@others to hear you out!
+    textLeft: Oh, in that case, let's get Touka@and the others to hear you out!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -262,7 +262,7 @@ story:
       id: 100301
       voiceFull: fullvoice/section_102203/vo_full_102203-1-28
       voiceFullStop: fullvoice/section_102203/vo_full_102203-1-27
-    textRight: I'm sure you can get some answers@if you talk to her.
+    textRight: I'm sure you can get some@answers if you talk to her.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -372,7 +372,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-1-42
       voiceFullStop: fullvoice/section_102203/vo_full_102203-1-41
-    textRight: Hey, you don't think... Is it those guys again?!
+    textRight: Hey, you don't think...@Is it those guys again?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -646,7 +646,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-1-74
       voiceFullStop: fullvoice/section_102203/vo_full_102203-1-73
     nameLeft: ???
-    textLeft: We've inherited the ideals of Lady Touka and@Lady Nemu, and risen anew.
+    textLeft: We've inherited the ideals of Lady Touka@and Lady Nemu, and risen anew.
   - chara:
     - eyeClose: 1
       id: 103000
@@ -723,7 +723,7 @@ story:
     - id: 100701
       voiceFull: fullvoice/section_102203/vo_full_102203-1-81
       voiceFullStop: fullvoice/section_102203/vo_full_102203-1-80
-    textLeft: Yeah. There's just one thing that would@make sense...
+    textLeft: Yeah. There's just one thing@that would make sense...
   - autoTurnLast: 2
     turnChangeIn: fadeIn
     voiceFullStop: fullvoice/section_102203/vo_full_102203-1-81

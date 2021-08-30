@@ -115,7 +115,7 @@ story:
       lipSynch: 0
       motion: 0
     nameLeft: Sudachi
-    textLeft: (…Eh?…Because of me…?)
+    textLeft: (…Eh?@…Because of me…?)
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -172,7 +172,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 104101
     nameRight: Livia
-    textRight: an' I thought I could learn how to teach@by just reading a book.
+    textRight: An' I thought I could learn how to teach@by just reading a book.
   - chara:
     - id: 103901
       lipSynch: 0
@@ -249,7 +249,7 @@ story:
   - chara:
     - id: 104101
     nameRight: Livia
-    textRight: and you also did your best with Mikage@to collect information.
+    textRight: And you also did your best with Mikage@to collect information.
   - chara:
     - id: 104101
     nameRight: Livia
@@ -325,7 +325,7 @@ story:
     - eyeClose: 1
       id: 104101
     nameRight: Livia
-    textRight: and if ya do, I’ll praise ya even more.
+    textRight: And if ya do, I’ll praise ya even more.
   - chara:
     - id: 103901
       lipSynch: 0

@@ -69,7 +69,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Mitama
-    textLeft: Kanagi sensed them as well, but it seems@it wasn't just one...
+    textLeft: Kanagi sensed them as well,@but it seems it wasn't just one...
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -162,7 +162,7 @@ story:
     - id: 100101
       voiceFull: fullvoice/section_102201/vo_full_102201-7-11
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-10
-    textRight: But there have been several strange@incidents lately.
+    textRight: But there have been several@strange incidents lately.
   - chara:
     - id: 100101
       motion: 0
@@ -277,7 +277,7 @@ story:
       pos: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-7-24
     nameCenter: Mitama
-    textCenter: This picture though... You really can't make@out what they look like.
+    textCenter: This picture though... You really can't@make out what they look like.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -308,7 +308,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-7-27
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-26
     nameLeft: Mitama
-    textLeft: Could you just let me touch your Soul Gem@for a teensy moment?
+    textLeft: Could you just let me touch your@Soul Gem for a teensy moment?
   - chara:
     - id: 101501
       motion: 0
@@ -367,7 +367,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-7-32
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-31
     nameRight: Sana
-    textRight: I think she's looking for their magic signatures@in Ui's memories...
+    textRight: I think she's looking for their magic@signatures in Ui's memories...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -455,7 +455,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-7-39
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-38
-    textRight: For now let's at least circulate the@information we have.
+    textRight: For now let's at least circulate@the information we have.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -488,7 +488,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Mitama
-    textLeft: Other than that, there was also the matter of@Iroha's Bracelet, right?
+    textLeft: Other than that, there was also the matter@of Iroha's Bracelet, right?
   - chara:
     - id: 101700
       voiceFull: fullvoice/section_102201/vo_full_102201-7-42
@@ -513,14 +513,14 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-7-45
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-44
-    textLeft: Yes, of course, I'm happy to fulfill a@customer's needs.
+    textLeft: Yes, of course, I'm happy to@fulfill a customer's needs.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101700
       voiceFull: fullvoice/section_102201/vo_full_102201-7-46
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-45
-    textLeft: So then, first take off your clothes and@lie down, alright?
+    textLeft: So then, first take off your clothes@and lie down, alright?
   - chara:
     - cheek: 0
       face: mtn_ex_042.exp.json
@@ -540,7 +540,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-7-48
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-47
     enableSkipAutoTurn: 1
-    textLeft: Oh, how scary. I'm just joking.
+    textLeft: Oh, how scary.@I'm just joking.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -555,7 +555,7 @@ story:
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-48
     enableSkipAutoTurn: 0
     nameRight: Iroha
-    textRight: T-that joke isn't going to work on me anymore!
+    textRight: Th-that joke isn't going to work on me anymore!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -615,7 +615,7 @@ story:
     - id: 100101
       voiceFull: fullvoice/section_102201/vo_full_102201-7-55
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-54
-    textRight: It would be nice if we could at least figure@out how to take it off.
+    textRight: It would be nice if we could at least@figure out how to take it off.
   - chara:
     - eyeClose: 1
       id: 101700
@@ -677,7 +677,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-7-62
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-61
     nameRight: Kanagi
-    textRight: What's the matter, Mitama?
+    textRight: What's the matter, Yakumo?
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -690,7 +690,7 @@ story:
     - id: 101700
       voiceFull: fullvoice/section_102201/vo_full_102201-7-64
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-63
-    textLeft: There's an unbelievable amount of magic@contained within this...
+    textLeft: There's an unbelievable amount@of magic contained within this...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -706,7 +706,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-7-66
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-65
-    textLeft: If I used it for adjustment, I'm afraid my Soul Gem@wouldn't survive...
+    textLeft: If I used it for coordination,@I'm afraid my Soul Gem wouldn't survive...
   - chara:
     - id: 101700
       motion: 200

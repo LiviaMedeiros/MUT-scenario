@@ -18,7 +18,7 @@ story:
     - id: 100701
       voiceFull: fullvoice/section_102203/vo_full_102203-2-1
     nameCenter: Touka
-    textCenter: Can you elaborate on what you mean about@being special?
+    textCenter: Can you elaborate on what you@mean about being special?
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -64,7 +64,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-2-6
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-5
-    textLeft: So, we're here to ask the two of you to help.
+    textLeft: That's what we were taught by the two of you.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -74,7 +74,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-2-7
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-6
     nameRight: ???
-    textRight: Because we want everyone to acknowledge it.
+    textRight: And that's why we want@everyone to acknowledge it.
   - chara:
     - id: 102900
       voiceFull: fullvoice/section_102203/vo_full_102203-2-8
@@ -85,7 +85,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-2-9
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-8
-    textRight: That just makes sense, doesn't it?
+    textRight: Is there something wrong with that?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -126,15 +126,15 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-2-12
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-11
     nameLeft: Touka
-    textLeft: Looks like the ​​"Magical Girl Supremacy" philosophy@hasn't changed
-      that much, even now.
+    textLeft: My opinions on the Magical Girl Supremacy@philosophy haven't changed
+      much from back then.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100701
       voiceFull: fullvoice/section_102203/vo_full_102203-2-13
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-12
-    textLeft: Still, that's exactly the answer that@I had anticipated.
+    textLeft: In any case, that's precisely the@answer that I had anticipated.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -147,7 +147,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-2-14
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-13
     nameRight: Nemu
-    textRight: There was one discrepancy, though.
+    textRight: With one discrepancy, I note.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -160,20 +160,20 @@ story:
     - id: 100701
       voiceFull: fullvoice/section_102203/vo_full_102203-2-16
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-15
-    textLeft: It's not like we Magical Girls forced humanity@to evolve.
+    textLeft: It's not like we Magical Girls@forced humanity to evolve.
   - chara:
     - id: 100701
       motion: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-2-17
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-16
-    textLeft: If I had to put it one way or the other, I'd say@we supported their
+    textLeft: If I had to put it one way or the other,@I'd say we supported their
       development.
   - chara:
     - id: 100701
       motion: 1
       voiceFull: fullvoice/section_102203/vo_full_102203-2-18
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-17
-    textLeft: According to Kyubey, if it weren't for the@existence of Magical Girls,
+    textLeft: According to Kyubey, if it weren't@for the existence of Magical Girls,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -191,7 +191,7 @@ story:
     - id: 101403
       voiceFull: fullvoice/section_102203/vo_full_102203-2-21
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-20
-    textRight: We, Magical Girls, may have been involved@behind the scenes.
+    textRight: We, Magical Girls, may have been@involved behind the scenes.
   - chara:
     - id: 101403
       motion: 100
@@ -256,19 +256,19 @@ story:
       pos: 0
     nameLeft: ???
     nameRight: ???
-    textRight: Um... We'll take the Automatic Purification System...
+    textRight: Um...@We'll take the Automatic Purification System...
   - chara:
     - id: 102900
       voiceFull: fullvoice/section_102203/vo_full_102203-2-28
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-27
-    textRight: And make it available only to those who@believe in our ideals.
+    textRight: And make it available only to@those who believe in our ideals.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102900
       voiceFull: fullvoice/section_102203/vo_full_102203-2-29
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-28
-    textRight: Anyone that's no good won't be able to use it.
+    textRight: Anyone that doesn't won't be allowed to use it.
   - chara:
     - id: 102900
       motion: 400
@@ -291,12 +291,12 @@ story:
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-31
     - id: 102900
       motion: 0
-    textLeft: So, we'll become what Lady Touka and@Lady Nemu believe we can be.
+    textLeft: So, we'll become what Lady Touka@and Lady Nemu believe we can be.
   - chara:
     - id: 103000
       voiceFull: fullvoice/section_102203/vo_full_102203-2-33
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-32
-    textLeft: Magical Girls will help humanity to develop@in the right direction.
+    textLeft: Magical Girls will help humanity@to develop in the right direction.
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -336,7 +336,7 @@ story:
       pos: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-2-36
     nameLeft: Yachiyo
-    textLeft: But that's just so that you can eliminate anyone@that's in your way,
+    textLeft: But that's just so that you can eliminate@anyone that's in your way,
       right?
   - chara:
     - id: 100201
@@ -349,7 +349,7 @@ story:
       motion: 201
       voiceFull: fullvoice/section_102203/vo_full_102203-2-38
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-37
-    textLeft: You've really carried on all of their worst@aspects, haven't you...
+    textLeft: You've really carried on all of@their worst aspects, haven't you...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -379,13 +379,13 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-2-42
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-41
     nameLeft: Iroha
-    textLeft: You two are right that there are a lot of things@that Magical Girls
+    textLeft: You two are right that there are a lot@of things that Magical Girls
       are better at.
   - chara:
     - id: 100101
       voiceFull: fullvoice/section_102203/vo_full_102203-2-43
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-42
-    textLeft: Yet we're supported by our family, our friends,@the people around us...
+    textLeft: Yet we're supported by our family,@our friends, the people around us...
   - chara:
     - eyeClose: 1
       id: 100101
@@ -400,7 +400,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-2-45
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-44
-    textLeft: Would you place yourself above your mother@and father...?
+    textLeft: Would you place yourself above@your mother and father...?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -452,7 +452,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-2-50
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-49
-    textRight: I heard that we just need to gather powerful energy.
+    textRight: I heard that we just need@to gather powerful energy.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -485,7 +485,7 @@ story:
       pos: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-2-53
     se: 7205_magic_girl
-    textLeft: '| If you hurt Iroha and take her away from me,@I will eliminate you
+    textLeft: '| If you hurt Iroha and take her away@from me, I will eliminate you
       both. |'
   - chara:
     - cheek: 0
@@ -510,14 +510,14 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-2-56
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-55
     nameLeft: ???
-    textLeft: Hawawawa... Y-y-yeah, that's right...!
+    textLeft: Hawawawa...@Y-y-yeah, that's right...!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 103000
       voiceFull: fullvoice/section_102203/vo_full_102203-2-57
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-56
-    textLeft: We just want Lady Touka and Lady Nemu to@come with us!
+    textLeft: We just want Lady Touka and@Lady Nemu to come with us!
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

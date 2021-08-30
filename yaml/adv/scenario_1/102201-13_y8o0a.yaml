@@ -199,7 +199,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-13-12
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-11
-    textRight: '...It''s not like I want to pointlessly@take lives either...'
+    textRight: '...It''s not like I want to@pointlessly take lives either...'
   - nameCenter: Ui's Voice
     textBg: shout
     textCenter: Sis!
@@ -229,7 +229,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-13-14
     nameLeft: Rena
-    textLeft: What is this... What's happening...?!
+    textLeft: What is this...@What's happening...?!
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.01
     chara:
@@ -286,7 +286,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-13-18
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-17
     nameRight: ???
-    textRight: You're acting tough, but you're close to@your limit too...
+    textRight: You're acting tough,@but you're close to your limit too...
   - chara:
     - id: 100200
       motion: 100
@@ -471,12 +471,12 @@ story:
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-37
     - id: 100100
       motion: 0
-    textRight: We're Magical Girls who have exchanged@an oath of blood.
+    textRight: We're Magical Girls who have@exchanged an oath of blood.
   - chara:
     - id: 102100
       voiceFull: fullvoice/section_102201/vo_full_102201-13-39
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-38
-    textRight: After everything we went through because@of Kamihama...
+    textRight: After everything we went through@because of Kamihama...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -484,13 +484,13 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-13-40
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-39
-    textRight: We will make you suffer for our brethren@that have died.
+    textRight: We will make you suffer for@our brethren that have died.
   - chara:
     - id: 102100
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-13-41
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-40
-    textRight: We will take back what was made by spilling@our blood...
+    textRight: We will take back what you forged in our blood...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -618,7 +618,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-13-53
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-52
     nameLeft: Yachiyo
-    textLeft: It's fine, just by having you show up we@were able to discourage them.
+    textLeft: It's fine, just by having you show up@we were able to discourage them.
   - chara:
     - id: 100200
       voiceFull: fullvoice/section_102201/vo_full_102201-13-54
@@ -673,7 +673,7 @@ story:
     - id: 100300
       voiceFull: fullvoice/section_102201/vo_full_102201-13-60
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-59
-    textRight: We all got adjusted here in Kamihama, right...?
+    textRight: We all got enhanced by the Coordinator@here in Kamihama, right...?
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -681,7 +681,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-13-61
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-60
-    textRight: Anyone coming from Futatsugi shouldn't have@gotten any adjusting...
+    textRight: Anyone coming from Futatsugi shouldn't@have gotten that power-up...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -700,7 +700,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-13-63
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-62
     nameRight: Momoko
-    textRight: But, if they did get adjusted, the Coordinator@would know it, right?
+    textRight: But, if they did get enhanced,@the Coordinator would know it, right?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -710,12 +710,12 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-13-64
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-63
     nameLeft: Iroha
-    textLeft: When I asked her before, she said she@didn't know anything...
+    textLeft: When I asked her before,@she said she didn't know anything...
   - chara:
     - id: 100100
       voiceFull: fullvoice/section_102201/vo_full_102201-13-65
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-64
-    textLeft: Maybe there are other ways to get adjusted...
+    textLeft: Maybe there are other ways@to receive enhancement...
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json
@@ -808,7 +808,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-13-75
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-74
     nameLeft: Sana
-    textLeft: Now we just need to get Felicia some@good rest...
+    textLeft: Now we just need to get@Felicia some good rest...
   - autoTurnFirst: 1
     chara:
     - cheek: 1
@@ -840,7 +840,7 @@ story:
     - id: 100100
       voiceFull: fullvoice/section_102201/vo_full_102201-13-78
       voiceFullStop: fullvoice/section_102201/vo_full_102201-13-77
-    textLeft: Those people left, so you don't have to hold@it in anymore...
+    textLeft: Those people left, so you don't@have to hold it in anymore...
   - chara:
     - cheek: 2
       eyeClose: 1
@@ -871,7 +871,7 @@ story:
     - eyeClose: 0
       id: 100100
       voiceFull: fullvoice/section_102201/vo_full_102201-13-81
-    textLeft: With my healing magic, I hope I can at least@help you a little...
+    textLeft: With my healing magic, I hope@I can at least help you a little...
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

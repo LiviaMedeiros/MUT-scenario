@@ -20,7 +20,7 @@ story:
     - id: 102101
       voiceFull: fullvoice/section_102202/vo_full_102202-18-1
     nameLeft: Yuna
-    textLeft: A strong magic reaction appeared in East@Kamihama...
+    textLeft: A strong magic reaction appeared@in eastern Kamihama...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -56,12 +56,13 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-18-5
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-4
-    textLeft: I wonder how they located it.
+    textLeft: I wonder, how did you find it?
   - chara:
     - id: 102101
       voiceFull: fullvoice/section_102202/vo_full_102202-18-6
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-5
-    textLeft: Even though the magic is powerful, it shouldn't@be easy to detect.
+    textLeft: Even though the magic is powerful,@it's supposed to be difficult to
+      detect.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -74,13 +75,13 @@ story:
     - id: 102301
       voiceFull: fullvoice/section_102202/vo_full_102202-18-8
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-7
-    textRight: We ran into some Feather-looking girls again~
+    textRight: I ran into some Feather-looking girls again~
   - chara:
     - id: 102301
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-18-9
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-8
-    textRight: Then I suddenly sensed it, so it must've been@close by~
+    textRight: Then I suddenly sensed it,@so it must've been close by~
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -90,7 +91,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-18-10
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-9
     nameLeft: ???
-    textLeft: What, you came back without finding where@it actually is?
+    textLeft: What, you came back without@finding where it actually is?
   - chara:
     - id: 102401
       motion: 100
@@ -111,12 +112,12 @@ story:
       pos: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-18-12
     nameLeft: Yuna
-    textLeft: Second Sister, just having found it puts us@in a good spot.
+    textLeft: Second Sister, just having found@it puts us in a good spot.
   - chara:
     - id: 102101
       voiceFull: fullvoice/section_102202/vo_full_102202-18-13
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-12
-    textLeft: It'll allow us to obtain the necessary power to@achieve our objective.
+    textLeft: It'll allow us to obtain the necessary@power to achieve our objective.
   - chara:
     - id: 102401
       motion: 200
@@ -154,13 +155,13 @@ story:
     - id: 102101
       voiceFull: fullvoice/section_102202/vo_full_102202-18-18
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-17
-    textLeft: We're going to go and crush the heads of@Kamihama.
+    textLeft: We're going to go and crush@the heads of Kamihama.
   - chara:
     - id: 102101
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-18-19
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-18
-    textLeft: Second and Third Sisters, use that time to@secure the strong magical
+    textLeft: Second and Third Sisters, use that time@to secure the strong magical
       power.
   - chara:
     - cheek: 0
@@ -252,7 +253,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-18-31
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-30
     nameLeft: Yuna
-    textLeft: The only thing still bothering me are those@robed girls.
+    textLeft: The only thing still bothering@me are those robed girls.
   - chara:
     - id: 102201
       motion: 1
@@ -263,7 +264,7 @@ story:
     - id: 102201
       voiceFull: fullvoice/section_102202/vo_full_102202-18-33
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-32
-    textRight: We heard that the Wings of the Magius had@disbanded, after all.
+    textRight: We heard that the Wings of the@Magius had disbanded, after all.
   - autoTurnLast: 2
     bg: bg_adv_11061.jpg
     bgm: stop
@@ -292,7 +293,7 @@ story:
     - id: 304601
       voiceFull: fullvoice/section_102202/vo_full_102202-18-35
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-34
-    textLeft: To think they'd go around brazenly recruiting@at this point.
+    textLeft: To think they'd go around brazenly@recruiting at this point.
   - chara:
     - id: 305301
       motion: 300
@@ -304,7 +305,7 @@ story:
     - id: 305301
       voiceFull: fullvoice/section_102202/vo_full_102202-18-37
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-36
-    textRight: They casually came over to my place and tried@recruiting me as well...
+    textRight: They casually came over to my place@and tried recruiting me as well...
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -336,7 +337,7 @@ story:
       motion: 0
       pos: 2
     nameCenter: Tsukuyo
-    textCenter: The two that came to recruit me were former@Black Feathers.
+    textCenter: The two that came to recruit me@were former Black Feathers.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -378,12 +379,12 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-18-44
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-43
-    textLeft: What do you think, Mitama?
+    textLeft: What do you think, Yakumo?
   - chara:
     - id: 101601
       voiceFull: fullvoice/section_102202/vo_full_102202-18-45
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-44
-    textLeft: Though by Mifuyu's estimation,@that may not be easy.
+    textLeft: Though by Azusa's estimation,@that may not be easy.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -416,19 +417,19 @@ story:
     - id: 101700
       voiceFull: fullvoice/section_102202/vo_full_102202-18-48
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-47
-    textLeft: As Mifuyu said, I think persuading them would@be pretty difficult.
+    textLeft: As Mifuyu said, I think persuading@them would be pretty difficult.
   - chara:
     - id: 100601
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-18-49
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-48
-    textRight: Had you noticed anything, Mitama?
+    textRight: Is there anything you noticed anything,Mitama?
   - chara:
     - id: 101700
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-18-50
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-49
-    textLeft: I've seen inside those two while adjusting them@a couple of times.
+    textLeft: As the Coordinator I've seen inside@those two a couple of times.
   - chara:
     - id: 101700
       voiceFull: fullvoice/section_102202/vo_full_102202-18-51
@@ -443,7 +444,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-18-52
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-51
     nameRight: Kanagi
-    textRight: So why do you think it would be hard to@persuade them?
+    textRight: So why do you think it would@be hard to persuade them?
   - chara:
     - eyeClose: 1
       id: 101700
@@ -495,14 +496,14 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-18-58
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-57
     nameRight: Ryo
-    textRight: The Wing of the Magius' ideology was all about@liberation.
+    textRight: The Wing of the Magius' ideology@was all about liberation.
   - chara:
     - eyeClose: 1
       id: 101700
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-18-59
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-58
-    textLeft: What the two of them have is the value system@they got from Touka.
+    textLeft: What the two of them have is the value@system they got from Touka.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -512,7 +513,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-18-60
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-59
     nameRight: Mifuyu
-    textRight: What's that...?
+    textRight: Which is...?
   - chara:
     - eyeClose: 0
       id: 101700
@@ -530,7 +531,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-18-62
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-61
     enableSkipAutoTurn: 1
-    textRight: '...So that''s what this is about.'
+    textRight: '*Gasp*@So that''s what this is about.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -595,7 +596,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-18-66
       voiceFullStop: fullvoice/section_102202/vo_full_102202-18-65
     nameLeft: Kanagi
-    textLeft: I'll go too, Mifuyu!
+    textLeft: I'll go too, Azusa!
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

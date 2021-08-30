@@ -135,7 +135,7 @@ story:
     - eyeClose: 1
       id: 104101
     nameCenter: Livia
-    textCenter: and if ya do, I’ll praise ya even more.
+    textCenter: And if ya do, I’ll praise ya even more.
   - autoTurnLast: 0.01
     bg: bg_adv_14123.jpg
     chara:
@@ -309,7 +309,7 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - nameNarration: Sudachi
-    narration: and so…the day came@when I went to visit home.
+    narration: And so…the day came@when I went to visit home.
     narrationBg: bg_adv_14111.jpg
     narrationEffect: in
     turnChangeOut: fadeOut

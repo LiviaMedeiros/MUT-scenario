@@ -34,14 +34,14 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-8-3
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-2
-    textRight: Look how colorful and cute this popcorn is.
+    textRight: This popcorn is so colorful and cute.
   - chara:
     - id: 102501
       motion: 300
       voiceFull: fullvoice/section_102202/vo_full_102202-8-4
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-3
     nameLeft: Shizuka
-    textLeft: This...is edible?
+    textLeft: This is edible?
   - chara:
     - id: 102501
       voiceFull: fullvoice/section_102202/vo_full_102202-8-5
@@ -57,7 +57,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-8-6
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-5
     narrationEffect: out
-    textLeft: It's sweet and delicious, I've never had anything@like it before.
+    textLeft: It's sweet and delicious,@I've never had anything like it before.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -67,7 +67,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-8-7
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-6
     nameRight: Chiharu
-    textRight: Makes sense, we only had traditional sweets@in the village.
+    textRight: Makes sense, we only had traditional@sweets in the village.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -143,7 +143,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-8-15
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-14
-    textRight: Just kiddin'! Here, have a proper handful.
+    textRight: Just kiddin'!@Here, have a proper handful.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -173,7 +173,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-8-18
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-17
-    textRight: Tsuruno!! That's too much!!
+    textRight: Tsuruno!!@That's too much!!
   - autoTurnLast: 0.5
     bg: bg_adv_15021.jpg
     chara:
@@ -189,20 +189,20 @@ story:
       motion: 400
       voiceFull: fullvoice/section_102202/vo_full_102202-8-19
     nameCenter: Sunao
-    textCenter: '[chara:102701:effect_emotion_joy_0][se:7222_happy]This is so sweet
-      and delicious...!'
+    textCenter: '[chara:102701:effect_emotion_joy_0][se:7222_happy]This is sweet and
+      delicious too...!'
     turnChangeOut: fadeOut
   - chara:
     - id: 102701
       voiceFull: fullvoice/section_102202/vo_full_102202-8-20
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-19
-    textCenter: I don't know how long it's been since I last@had milk tea.
+    textCenter: I don't know how long it's been@since I last had milk tea.
   - chara:
     - id: 102701
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-8-21
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-20
-    textCenter: It's got such an addictive texture too.
+    textCenter: It's got such an addicting flavor to it.
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -249,7 +249,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-8-26
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-25
     nameRight: Sunao
-    textRight: '[chara:102701:effect_emotion_surprise_0][se:7226_shock]Wha, frogs?!'
+    textRight: '[chara:102701:effect_emotion_surprise_0][se:7226_shock]Huh, frogs?!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -259,7 +259,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-8-27
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-26
     nameRight: Chiharu
-    textRight: No Shizuka, it's called tapioca.
+    textRight: No, Shizuka, it's called tapioca.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -492,7 +492,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-8-50
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-49
     nameRight: Sana
-    textRight: If you have too much, you'll get scolded by Iroha...
+    textRight: If you have too much,@you'll get scolded by Iroha-san...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -560,13 +560,13 @@ story:
       motion: 0
       pos: 2
     nameLeft: Tsuruno
-    textLeft: Oohhh, I know! Let’s go look at some clothes!
+    textLeft: Oohhh, I know!@Let’s go look at some clothes!
   - chara:
     - id: 100301
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-8-55
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-54
-    textLeft: There’s a spot with a bunch of stores together!
+    textLeft: There’s a spot with a bunch of stores all together!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -613,7 +613,7 @@ story:
     - id: 102501
       voiceFull: fullvoice/section_102202/vo_full_102202-8-59
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-58
-    textLeft: This is amazing, there are so many different@kinds of clothes.
+    textLeft: This is amazing, there are so many@different kinds of clothes.
   - chara:
     - id: 100301
       motion: 100
@@ -641,7 +641,7 @@ story:
     - id: 102501
       voiceFull: fullvoice/section_102202/vo_full_102202-8-63
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-62
-    textLeft: I feel like I’ll lose track of time and won't@get to see everything.
+    textLeft: I feel like I’ll lose track of time@and won't get to see everything.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -659,7 +659,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-8-65
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-64
     enableSkipAutoTurn: 1
-    textLeft: Again... Haha, you’re right.
+    textLeft: Again...@Haha, you’re right.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -674,7 +674,7 @@ story:
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-65
     enableSkipAutoTurn: 0
     nameRight: Sunao
-    textRight: Shizuka, are you getting used to the city a bit?
+    textRight: Shizuka, are you starting to get used to the city?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -691,7 +691,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-8-68
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-67
     nameRight: Felicia
-    textRight: The plastic measurements were a success!
+    textRight: The plastic treasures were a success!
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -725,7 +725,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102202/vo_full_102202-8-71
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-70
-    textLeft: Sorry... I'm still not quite used to it...
+    textLeft: Sorry...@I'm still not quite used to it...
   - chara:
     - eyeClose: 1
       id: 102601
@@ -780,12 +780,12 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-8-77
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-76
-    textRight: If you might do us a favor, could we move to@another location?
+    textRight: If you might do us a favor,@could we move to another location?
   - chara:
     - id: 102701
       voiceFull: fullvoice/section_102202/vo_full_102202-8-78
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-77
-    textRight: It would be great if we could find a spot with@as few people as possible...
+    textRight: It would be great if we could find a@spot with as few people as possible...
   - chara:
     - id: 102501
       motion: 300
@@ -816,7 +816,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-8-82
       voiceFullStop: fullvoice/section_102202/vo_full_102202-8-81
     nameRight: Felicia
-    textRight: Yeah, don't worry about it! We gotta help each@other out in times like
+    textRight: Yeah, don't worry about it! We gotta help@each other out in times like
       these!
   - autoTurnLast: 0.2
     chara:

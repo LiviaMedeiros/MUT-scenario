@@ -280,7 +280,7 @@ story:
     - id: 102300
       voiceFull: fullvoice/section_102204/vo_full_102204-10-28
       voiceFullStop: fullvoice/section_102204/vo_full_102204-10-27
-    textLeft: Are you really in good enough shape@to come after us?
+    textLeft: Are you really in good enough@shape to come after us?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -310,7 +310,7 @@ story:
     textLeft: '...'
   - nameCenter: Juri's Voice
     textBg: shout
-    textCenter: Hey, Lil' Sis! Let's go!
+    textCenter: Hey, Lil' Sis!@Let's go!
     voiceFull: fullvoice/section_102204/vo_full_102204-10-32
     voiceFullStop: fullvoice/section_102204/vo_full_102204-10-31
   - chara:

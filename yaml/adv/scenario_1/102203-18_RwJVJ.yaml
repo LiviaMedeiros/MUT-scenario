@@ -92,7 +92,7 @@ story:
       pos: 2
       voiceFull: fullvoice/section_102203/vo_full_102203-18-7
     nameRight: Kanagi
-    textRight: Iroha...
+    textRight: Tamaki...
   - chara:
     - id: 101600
       motion: 200
@@ -114,7 +114,7 @@ story:
     - id: 100200
       voiceFull: fullvoice/section_102203/vo_full_102203-18-10
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-9
-    textRight: We can't change how the Futatsugi@Magical Girls feel...
+    textRight: We can't change how the@Futatsugi Magical Girls feel...
   - chara:
     - id: 100100
       motion: 100
@@ -133,7 +133,7 @@ story:
     - id: 100100
       voiceFull: fullvoice/section_102203/vo_full_102203-18-13
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-12
-    textLeft: We'll collect the strong energy contained@within the Bracelets.
+    textLeft: We'll collect the strong energy@contained within the Bracelets.
   - chara:
     - id: 100100
       motion: 200
@@ -165,7 +165,7 @@ story:
     - id: 102200
       voiceFull: fullvoice/section_102203/vo_full_102203-18-17
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-16
-    textRight: It's pointless if you're not going to@use it for anything.
+    textRight: It's pointless if you're not@going to use it for anything.
   - chara:
     - id: 100100
       voiceFull: fullvoice/section_102203/vo_full_102203-18-18
@@ -233,7 +233,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-18-26
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-25
     nameRight: Tsuruno
-    textRight: Something that Ui and userName have in common...
+    textRight: Something that Ui and userName@have in common...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -347,7 +347,7 @@ story:
     - id: 100701
       voiceFull: fullvoice/section_102203/vo_full_102203-18-41
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-40
-    textRight: So that crystallized power split off@and was scattered.
+    textRight: So that crystallized power split@off and was scattered.
   - chara:
     - id: 100701
       motion: 100
@@ -393,7 +393,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-18-46
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-45
     nameLeft: Iroha
-    textLeft: Then we have a reason to want to collect it@as well, don't we?
+    textLeft: Then we have a reason to want@to collect it as well, don't we?
   - chara:
     - id: 101403
       motion: 1
@@ -417,7 +417,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-18-49
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-48
     nameLeft: Touka
-    textLeft: It's the energy that originally belonged to@the Automatic Purification
+    textLeft: It's the energy that originally belonged@to the Automatic Purification
       System.
   - chara:
     - cheek: 0
@@ -469,7 +469,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102203/vo_full_102203-18-54
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-53
-    textLeft: We have a chance to save Magical Girls@all over the world.
+    textLeft: We have a chance to save Magical@Girls all over the world.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -676,7 +676,7 @@ story:
       id: 100701
       voiceFull: fullvoice/section_102203/vo_full_102203-18-75
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-74
-    textRight: Let's go ahead and come up with all the@questions we want answers to.
+    textRight: Let's go ahead and come up with all@the questions we want answers to.
   - autoTurnLast: 0.1
     turnChangeIn: fadeIn
     voiceFullStop: fullvoice/section_102203/vo_full_102203-18-75

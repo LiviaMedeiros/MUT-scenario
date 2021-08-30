@@ -15,13 +15,13 @@ story:
     - id: 810002
       voiceFull: fullvoice/section_102204/vo_full_102204-9-1
     nameCenter: Kyubey
-    textCenter: Do you understand now why I@told you about all this?
+    textCenter: Do you understand now why@I told you about all this?
     turnChangeOut: fadeOut
   - chara:
     - id: 810002
       voiceFull: fullvoice/section_102204/vo_full_102204-9-2
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-1
-    textCenter: About the energy you need to control the@Automatic Purification System?
+    textCenter: About the energy you need to control@the Automatic Purification System?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -61,7 +61,7 @@ story:
       posY: 80
       voiceFull: fullvoice/section_102204/vo_full_102204-9-5
     nameCenter: Kyubey
-    textCenter: I do wish you wouldn't interfere with@my signal like this, though.
+    textCenter: I do wish you wouldn't interfere@with my signal like this, though.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -151,7 +151,7 @@ story:
     - id: 102200
       voiceFull: fullvoice/section_102204/vo_full_102204-9-12
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-11
-    textRight: We'll have to tell the second and third sisters@when we get back.
+    textRight: We'll have to tell the second and@third sisters when we get back.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -284,7 +284,7 @@ story:
       pos: 0
     nameLeft: Touka
     nameRight: Kanagi
-    textRight: He wouldn't have chosen you if he thought@you could reconcile with
+    textRight: He wouldn't have chosen you if he@thought you could reconcile with
       us.
   - chara:
     - id: 100701
@@ -387,7 +387,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102204/vo_full_102204-9-33
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-32
-    textLeft: You didn't know anything about Kyubey, did you?
+    textLeft: You didn't know anything@about Kyubey, did you?
   - chara:
     - id: 102700
       motion: 300
@@ -587,7 +587,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102204/vo_full_102204-9-58
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-57
-    textLeft: We can still fight for both the Land of the@Rising Sun and the universe.
+    textLeft: We can still fight for both the Land@of the Rising Sun and the universe.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -692,7 +692,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102204/vo_full_102204-9-65
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-64
-    textCenter: That's right, we need to tell our friends@that are on the way.
+    textCenter: That's right, we need to tell our@friends that are on the way.
   - chara:
     - id: 102700
       voiceFull: fullvoice/section_102204/vo_full_102204-9-66

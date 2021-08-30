@@ -233,12 +233,12 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102204/vo_full_102204-11-25
       voiceFullStop: fullvoice/section_102204/vo_full_102204-11-24
-    textRight: I've been putting together a record@about Magical Girls...
+    textRight: I've been putting together a@record about Magical Girls...
   - chara:
     - id: 102001
       voiceFull: fullvoice/section_102204/vo_full_102204-11-26
       voiceFullStop: fullvoice/section_102204/vo_full_102204-11-25
-    textRight: So, when I heard that there were@Magical Girls here...
+    textRight: So, when I heard that there@were Magical Girls here...
   - chara:
     - id: 102001
       voiceFull: fullvoice/section_102204/vo_full_102204-11-27
@@ -502,7 +502,7 @@ story:
     - id: 101403
       voiceFull: fullvoice/section_102204/vo_full_102204-11-58
       voiceFullStop: fullvoice/section_102204/vo_full_102204-11-57
-    textLeft: I was willing to spend my life for it@in the final battle.
+    textLeft: I was willing to spend my life@for it in the final battle.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

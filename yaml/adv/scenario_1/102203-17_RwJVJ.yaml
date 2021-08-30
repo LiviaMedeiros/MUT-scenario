@@ -29,7 +29,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-17-2
       voiceFullStop: fullvoice/section_102203/vo_full_102203-17-1
-    textLeft: The roles of Magical Girls mean different things@in different places...
+    textLeft: The roles of Magical Girls mean@different things in different places...
   - chara:
     - id: 100300
       motion: 0
@@ -64,7 +64,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-17-5
       voiceFullStop: fullvoice/section_102203/vo_full_102203-17-4
     nameLeft: Shizuka
-    textLeft: It's a little discouraging to learn that it@isn't the norm, but...
+    textLeft: It's a little discouraging to learn@that it isn't the norm, but...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -77,7 +77,7 @@ story:
       id: 102100
       motion: 0
       pos: 2
-    textLeft: More importantly, I'm disappointed in you for@only using your power
+    textLeft: More importantly, I'm disappointed in you@for only using your power
       for revenge.
   - chara:
     - id: 102500
@@ -127,7 +127,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102203/vo_full_102203-17-13
       voiceFullStop: fullvoice/section_102203/vo_full_102203-17-12
-    textLeft: As a mere country girl, I don't mean to force@my views on you.
+    textLeft: As a mere country girl,@I don't mean to force my views on you.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -214,7 +214,7 @@ story:
     - id: 100100
       voiceFull: fullvoice/section_102203/vo_full_102203-17-22
       voiceFullStop: fullvoice/section_102203/vo_full_102203-17-21
-    textCenter: The Tokime Clan is willing to help us@for the sake of their pride...
+    textCenter: The Tokime Clan is willing to help@us for the sake of their pride...
   - chara:
     - eyeClose: 1
       id: 100100
@@ -361,7 +361,7 @@ story:
     - id: 102100
       voiceFull: fullvoice/section_102203/vo_full_102203-17-39
       voiceFullStop: fullvoice/section_102203/vo_full_102203-17-38
-    textLeft: It sounds like a noble goal, but I don't think@it'll work out for you.
+    textLeft: It sounds like a noble goal,@but I don't think it'll work out for you.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -381,7 +381,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-17-41
       voiceFullStop: fullvoice/section_102203/vo_full_102203-17-40
     nameLeft: Shigure
-    textLeft: What...? Then everyone else is...?!
+    textLeft: What...?@Then everyone else is...?!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

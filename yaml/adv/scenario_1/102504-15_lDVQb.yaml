@@ -1,0 +1,118 @@
+---
+story:
+  group_1:
+  - autoTurnLast: 0.2
+    bg: bg_adv_18092.jpg
+    chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 102500
+      motion: 0
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 103400
+      motion: 1
+      pos: 2
+    turnChangeIn: fadeIn
+  - bgm: bgm22_battle12
+    chara:
+    - id: 102500
+      motion: 400
+    nameLeft: Shizuka
+    textLeft: Another new trick...!?
+    turnChangeOut: fadeOut
+  - chara:
+    - id: 103400
+    nameRight: Asahi
+    textRight: Compared to the old Feathers, they seem capable.
+  - autoTurnLast: 0.2
+    chara:
+    - effect: fadeout
+      id: 103400
+    - effect: fadeout
+      id: 102500
+    textClear: 1
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103202
+      motion: 400
+      pos: 2
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103102
+      motion: 0
+      pos: 0
+    nameRight: ???
+    textRight: That is, that is only natural!
+  - chara:
+    - id: 103202
+      motion: 200
+    nameRight: ???
+    textRight: 'This person here''s a former educator of Feathers@from Fendt Hope:'
+  - chara:
+    - id: 103202
+    nameRight: ???
+    textRight: '"[textRed:San Kagura]"@She''s the Instructor...!'
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 102600
+      motion: 100
+      pos: 0
+    nameLeft: Chiharu
+    textLeft: We don't need the self-introduction!
+  - chara:
+    - id: 102600
+      motion: 200
+    nameLeft: Chiharu
+    textLeft: I'm not someone who can be taken down so easily either!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 103202
+      motion: 300
+      mouthOpen: 1
+    nameRight: ???
+    textBg: shout
+    textRight: HeeEEee...!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_000.exp.json
+      id: 103202
+      mouthOpen: 0
+    nameNarration: ""
+    narration: '*Shatter*'
+    narrationEffect: in
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 103102
+      motion: 0
+      pos: 0
+    - id: 103202
+      motion: 0
+    nameLeft: San
+    narrationEffect: out
+    textLeft: And she is "[textRed:Miyuri Yukari]".
+  - chara:
+    - id: 103102
+    nameLeft: San
+    textLeft: She gets extremely nervous quite easily, and when@she loses consciousness,
+      she becomes my doll.
+  - chara:
+    - id: 103102
+      motion: 200
+    nameLeft: San
+    textLeft: My right-hand woman, if you will.
+  - chara:
+    - id: 103202
+      lipSynch: 0
+    nameRight: Miyuri
+    textRight: …………
+  - autoTurnLast: 2
+    bgm: stop
+    turnChangeIn: fadeIn
+version: 3
+...

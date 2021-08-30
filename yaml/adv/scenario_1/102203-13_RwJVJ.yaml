@@ -23,7 +23,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-13-1
     nameLeft: Iroha
     nameRight: Yuna
-    textLeft: Even now, are you still refusing to tell@us anything...?
+    textLeft: Even now, are you still refusing@to tell us anything...?
     turnChangeOut: fadeOut
   - chara:
     - id: 102100
@@ -73,7 +73,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102203/vo_full_102203-13-7
       voiceFullStop: fullvoice/section_102203/vo_full_102203-13-6
-    textRight: My heart... What a nasty ability...
+    textRight: My heart...@What a nasty ability...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -261,7 +261,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-13-28
       voiceFullStop: fullvoice/section_102203/vo_full_102203-13-27
     nameLeft: Touka
-    textLeft: Now I understand why you wanted to know@who was gathering Witches.
+    textLeft: Now I understand why you wanted to@know who was gathering Witches.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -274,7 +274,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-13-29
       voiceFullStop: fullvoice/section_102203/vo_full_102203-13-28
     nameRight: Nemu
-    textRight: We needed an enormous amount of energy@to make Eve into a Witch.
+    textRight: We needed an enormous amount of@energy to make Eve into a Witch.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -284,7 +284,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-13-30
       voiceFullStop: fullvoice/section_102203/vo_full_102203-13-29
     nameRight: Mifuyu
-    textRight: It was necessary to spread the power to avoid@Witchification to the
+    textRight: It was necessary to spread the power to@avoid Witchification to the
       whole world...
   - chara:
     - cheek: 0
@@ -301,13 +301,13 @@ story:
     - id: 100200
       voiceFull: fullvoice/section_102203/vo_full_102203-13-32
       voiceFullStop: fullvoice/section_102203/vo_full_102203-13-31
-    textLeft: On the other end, we were troubled by@the sudden increase in Witches.
+    textLeft: On the other end, we were troubled@by the sudden increase in Witches.
   - chara:
     - eyeClose: 1
       id: 100200
       voiceFull: fullvoice/section_102203/vo_full_102203-13-33
       voiceFullStop: fullvoice/section_102203/vo_full_102203-13-32
-    textLeft: It was exactly the opposite of what was@happening outside the city...
+    textLeft: It was exactly the opposite of what@was happening outside the city...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -330,7 +330,7 @@ story:
       id: 102100
       voiceFull: fullvoice/section_102203/vo_full_102203-13-35
       voiceFullStop: fullvoice/section_102203/vo_full_102203-13-34
-    textCenter: The Wings of the Magius' liberation of Magical Girls.
+    textCenter: The Wings of the Magius'@liberation of Magical Girls.
   - chara:
     - id: 102100
       voiceFull: fullvoice/section_102203/vo_full_102203-13-36
@@ -407,7 +407,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-13-45
     nameCenter: Yuna
     textBg: shout
-    textCenter: The last cries of the Magical Girls that died@before my eyes...!
+    textCenter: The last cries of the Magical Girls@that died before my eyes...!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 1
@@ -416,13 +416,13 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102203/vo_full_102203-13-46
       voiceFullStop: fullvoice/section_102203/vo_full_102203-13-45
-    textCenter: And that's why, we're going to be taking your@Automatic Purification
+    textCenter: And that's why, we're going to be taking@your Automatic Purification
       System...
   - chara:
     - id: 102100
       voiceFull: fullvoice/section_102203/vo_full_102203-13-47
       voiceFullStop: fullvoice/section_102203/vo_full_102203-13-46
-    textCenter: It was made from our blood, so this will be@a symbol of your atonement.
+    textCenter: It was made from our blood, so this@will be a symbol of your atonement.
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -430,13 +430,13 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-13-48
       voiceFullStop: fullvoice/section_102203/vo_full_102203-13-47
-    textCenter: My sisters, with whom I have signed an oath@in blood, are at work
+    textCenter: My sisters, with whom I have signed an@oath in blood, are at work
       even now.
   - chara:
     - id: 102100
       voiceFull: fullvoice/section_102203/vo_full_102203-13-49
       voiceFullStop: fullvoice/section_102203/vo_full_102203-13-48
-    textCenter: Carrying our resentment and anger, in the hope@that we can be saved
+    textCenter: Carrying our resentment and anger, in the@hope that we can be saved
       from our past.
   - autoTurnLast: 2
     bgm: stop

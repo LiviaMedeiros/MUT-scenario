@@ -61,7 +61,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102203/vo_full_102203-19-6
       voiceFullStop: fullvoice/section_102203/vo_full_102203-19-5
-    textRight: The people that were here might have been@the Wings of the Magius.
+    textRight: The people that were here might@have been the Wings of the Magius.
   - chara:
     - cheek: 0
       face: mtn_ex_022.exp.json
@@ -102,7 +102,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-19-11
       voiceFullStop: fullvoice/section_102203/vo_full_102203-19-10
-    textLeft: Yeah, that's the name of that vile Magius@from the report.
+    textLeft: Yeah, that's the name of that@vile Magius from the report.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -152,7 +152,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-19-18
       voiceFullStop: fullvoice/section_102203/vo_full_102203-19-17
-    textRight: But look at this girl, do you really think@she knows something?
+    textRight: But look at this girl, do you really@think she knows something?
   - chara:
     - id: 102400
       motion: 100
@@ -262,7 +262,7 @@ story:
     - id: 104100
       voiceFull: fullvoice/section_102203/vo_full_102203-19-27
       voiceFullStop: fullvoice/section_102203/vo_full_102203-19-26
-    textCenter: Did ya come to see little old me because@ya felt that too?
+    textCenter: Did ya come to see little old@me because ya felt that too?
   - chara:
     - id: 104100
       motion: 0
@@ -296,7 +296,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-19-31
       voiceFullStop: fullvoice/section_102203/vo_full_102203-19-30
-    textLeft: So, y'think that hand of yer clock@is gonna move again?
+    textLeft: So, y'think that hand of yer@clock is gonna move again?
   - chara:
     - id: 103300
       motion: 300
@@ -325,7 +325,7 @@ story:
       id: 104100
       voiceFull: fullvoice/section_102203/vo_full_102203-19-35
       voiceFullStop: fullvoice/section_102203/vo_full_102203-19-34
-    textLeft: In that case, I s'pose we'd better go@say hello ourselves.
+    textLeft: In that case, I s'pose we'd better@go say hello ourselves.
   - chara:
     - id: 104100
       motion: 1
@@ -376,13 +376,13 @@ story:
     - id: 102001
       voiceFull: fullvoice/section_102203/vo_full_102203-19-41
       voiceFullStop: fullvoice/section_102203/vo_full_102203-19-40
-    textCenter: Are these the Magical Girls that I have@to learn about...?
+    textCenter: Are these the Magical Girls that@I have to learn about...?
   - chara:
     - id: 102001
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-19-42
       voiceFullStop: fullvoice/section_102203/vo_full_102203-19-41
-    textCenter: This is what we have to let everyone in@the world know about...?
+    textCenter: This is what we have to let everyone@in the world know about...?
   - chara:
     - id: 102001
       lipSynch: 0

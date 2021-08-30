@@ -28,7 +28,7 @@ story:
     - id: 770101
       voiceFull: fullvoice/section_102203/vo_full_102203-10-2
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-1
-    textRight: You couldn't even hurt a fly with a little@slingshot pellet like that.
+    textRight: You couldn't even hurt a fly with@a little slingshot pellet like that.
   - chara:
     - id: 770101
       motion: 200
@@ -293,13 +293,13 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102203/vo_full_102203-10-24
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-23
-    textLeft: Tell me, why do you hate the Magical Girls@of Kamihama so much...
+    textLeft: Tell me, why do you hate the Magical@Girls of Kamihama so much...
   - chara:
     - id: 102200
       motion: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-10-25
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-24
-    textRight: I won't take your life, but I will be taking@this Bracelet...
+    textRight: I won't take your life,@but I will be taking this Bracelet...
   - chara:
     - cheek: 0
       effect: shake
@@ -315,7 +315,7 @@ story:
       id: 102200
       voiceFull: fullvoice/section_102203/vo_full_102203-10-27
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-26
-    textRight: Looks like it really won't come off without@taking off your wrist...
+    textRight: Looks like it really won't come off@without taking off your wrist...
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp.json
@@ -329,7 +329,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102203/vo_full_102203-10-29
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-28
-    textRight: I don't like it either, so don't look at me like that...
+    textRight: I don't like it either,@so don't look at me like that...
   - autoTurnLast: 0.1
     chara:
     - effect: fadeout
@@ -379,7 +379,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-10-32
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-31
-    textLeft: I'll commend you for resisting this far@with just those numbers.
+    textLeft: I'll commend you for resisting this@far with just those numbers.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -464,18 +464,18 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-10-36
     nameLeft: Touka
     nameRight: Nemu
-    textLeft: We're so powerless when we can't even transform...
+    textLeft: We're so powerless when@we can't even transform...
     turnChangeOut: rollOutFast
   - chara:
     - id: 101403
       voiceFull: fullvoice/section_102203/vo_full_102203-10-37
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-36
-    textRight: It's frustrating, but there's nothing we can@do about it right now.
+    textRight: It's frustrating, but there's nothing@we can do about it right now.
   - chara:
     - id: 101403
       voiceFull: fullvoice/section_102203/vo_full_102203-10-38
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-37
-    textRight: It's our punishment to have our transformation@restricted.
+    textRight: It's our punishment to have@our transformation restricted.
   - chara:
     - id: 100701
       motion: 400
@@ -516,7 +516,7 @@ story:
     - id: 102100
       voiceFull: fullvoice/section_102203/vo_full_102203-10-43
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-42
-    textCenter: I can't believe these little girls are such important@people around
+    textCenter: I can't believe these little girls are@such important people around
       here.
   - autoTurnLast: 0.2
     chara:
@@ -564,7 +564,7 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-10-48
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-47
-    textRight: Who is the Magius that was gathering Witches@to Kamihama?
+    textRight: Who is the Magius that was@gathering Witches to Kamihama?
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0
