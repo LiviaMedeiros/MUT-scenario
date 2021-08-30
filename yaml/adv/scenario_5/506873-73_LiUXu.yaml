@@ -169,7 +169,7 @@ story:
     - id: 102601
     nameLeft: Shizuka's mother
     nameRight: Chiharu
-    textRight: Granny's dead? Really...？
+    textRight: Granny's dead? Really...?
     turnChangeOut: fadeOut
   - chara:
     - id: 801000
@@ -241,7 +241,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102701
       motion: 1
-    textRight: Sunao I'm sorry... I shouldn't have brought it up...
+    textRight: I'm sorry... I shouldn't have brought it up...
   - chara:
     - id: 102701
     textRight: I should've gotten more out of Mikoshiba first... @I could've waited...!

@@ -359,8 +359,8 @@ story:
       id: 102500
       motion: 400
       pos: 2
-    nameRight: ""
-    textRight: Shizuka Huh...!?
+    nameRight: Shizuka
+    textRight: Huh...!?
   - autoTurnLast: 2
     bg: bg_adv_21443.jpg
     bgm: stop

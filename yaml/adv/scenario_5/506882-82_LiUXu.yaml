@@ -317,7 +317,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_event_1068/vo_full_506882-82-34
       voiceFullStop: fullvoice/section_event_1068/vo_full_506882-82-33
-    textLeft: Of my life, that is
+    textLeft: Of my life, that is.
   - autoTurnLast: 0.01
     chara:
     - id: 102500

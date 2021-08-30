@@ -334,7 +334,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 102500
       motion: 100
-    textLeft: Yeah... Just one...！
+    textLeft: Yeah... Just one...!
   - autoTurnLast: 2
     bg: bg_adv_21441.jpg
     chara:
@@ -387,12 +387,12 @@ story:
     chara:
     - id: 102500
     nameLeft: Shizuka
-    nameRight: ""
+    nameRight: Chiharu
     textLeft: The Grand Shrine...!
     turnChangeOut: fadeOut
   - chara:
     - id: 102600
-    textRight: Chiharu; Where's that?
+    textRight: Where's that?
   - chara:
     - id: 102500
       motion: 1
@@ -403,7 +403,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102600
       motion: 200
-    textRight: The awful-smelling place...！
+    textRight: The awful-smelling place...!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

@@ -199,7 +199,7 @@ story:
   - select:
     - alternativeId: 9
       group: group_2
-      textSelect: '「I migh:  be overthinking it」'
+      textSelect: 「I might be overthinking it」
     - alternativeId: 10
       group: group_3
       textSelect: 「Maybe we should stop and think this through」
@@ -238,7 +238,7 @@ story:
   - select:
     - alternativeId: 9
       group: group_2
-      textSelect: '「I migh:  be overthinking it」'
+      textSelect: 「I might be overthinking it」
     - alternativeId: 10
       group: group_3
       textSelect: 「Maybe we should stop and think this through」

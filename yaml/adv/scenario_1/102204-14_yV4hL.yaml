@@ -48,7 +48,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-14-5
       voiceFullStop: fullvoice/section_102204/vo_full_102204-14-4
     textCenter: <The fact that there are girls from all walks@of life make it all
-      the more meaningful.
+      the more meaningful.>
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
