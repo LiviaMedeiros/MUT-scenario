@@ -62,7 +62,7 @@ story:
     textCenter: Well done! @You've defeated all the copies!
   - chara:
     - id: 304200
-    textCenter: And the three of you managed to collect more than double the campaign’s
+    textCenter: And the three of you managed to collect@more than double the campaign’s
       coin goal!
   - chara:
     - cheek: 0
@@ -101,7 +101,7 @@ story:
     - id: 100300
       motion: 200
     nameRight: Tsuruno
-    textRight: Sincere compliments really make me feel accomplished!@[chara:100300:lipSynch_0][wait:1.0][chara:100300:cheek_0][chara:100300:face_mtn_ex_011.exp.json][chara:100300:lipSynch_1]Yep
+    textRight: Sincere compliments really make me feel@accomplished!@[chara:100300:lipSynch_0][wait:1.0][chara:100300:cheek_0][chara:100300:face_mtn_ex_011.exp.json][chara:100300:lipSynch_1]Yep
       yep!
   - chara:
     - cheek: 0
@@ -116,8 +116,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 301200
       motion: 300
-    textLeft: But when every fight is this grueling, you couldn't @pay me to come
-      back...
+    textLeft: But when every fight is this grueling,@you couldn't pay me to come back...
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -132,12 +131,12 @@ story:
       motion: 100
       pos: 0
     nameLeft: Akira
-    textLeft: But the more I listen to Meguru's commentary, the more exciting it gets.
+    textLeft: But the more I listen to Meguru's commentary,@the more exciting it gets.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300800
-    textLeft: It was so cool. Well-organized, and the more I @listened the more I
+    textLeft: It was so cool, well-organized, and the more@I listened, the more I
       got into the fight!
   - chara:
     - cheek: 0
@@ -222,7 +221,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100300
       motion: 101
-    textRight: I think it's the ability to encourage anyone, ally or enemy!
+    textRight: I think it's the ability to encourage anyone,@ally or enemy!
   - chara:
     - id: 100300
     textRight: Momoko is good at encouraging the person she @wants to support.
