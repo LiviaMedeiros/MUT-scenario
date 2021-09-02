@@ -20,7 +20,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm23_tokime02
     nameNarration: Chika
-    narration: -Chika-@Aaaaaahhhh~~~~
+    narration: ―Chika―@Aaaaaahhhh~~~~
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -28,12 +28,12 @@ story:
     narrationLineMargin: 35
     narrationLineSpace: 20
     turnChangeOut: fadeOut
-  - narration: ―Chika-@Paradise, paradise～♪
-  - narration: -Chika-@This is the best, spending a sunny day ~in a drum bath~
-  - narration: -Chika-@But it's really part of my nature guide job...
-  - narration: -Chika-@I hope I can let the customers who come for the tour enjoy
+  - narration: ―Chika―@Paradise, paradise~♪
+  - narration: ―Chika―@This is the best, spending a sunny day~ in a drum bath~
+  - narration: ―Chika―@But it's really part of my nature guide job...
+  - narration: ―Chika―@I hope I can let the customers who come for the tour enjoy
       this.
-  - narration: -Chika-@I wonder if it would make my senpai upset.~
+  - narration: ―Chika―@I wonder if it would make my senpai upset~.
   - autoTurnLast: 0.01
     bg: bg_adv_19301.jpg
     chara:
@@ -58,7 +58,7 @@ story:
     - id: 304701
       lipSynch: 0
     nameCenter: Chika
-    textCenter: (Just have to finish the work now)
+    textCenter: (Just have to finish the work now.)
   - chara:
     - cheek: 0
       id: 304701
@@ -87,7 +87,7 @@ story:
       pos: 1
     nameCenter: Chika
     narrationEffect: out
-    textCenter: Hm? a message?
+    textCenter: Hm? A message?
   - chara:
     - id: 304701
       lipSynch: 0
@@ -128,7 +128,7 @@ story:
     - id: 304701
       lipSynch: 0
     nameCenter: Chika
-    textCenter: (Once, I've checked to make sure everything is taken care of...)
+    textCenter: (Once I've checked to make sure everything is taken care of...)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -174,7 +174,7 @@ story:
       id: 770200
       motion: 0
       pos: 0
-    nameLeft: Tokime Magical Girl
+    nameLeft: Tokime Girl
     textLeft: Sorry to bother you.
   - chara:
     - cheek: 0
@@ -194,11 +194,11 @@ story:
       id: 770200
       motion: 300
       pos: 0
-    nameLeft: Tokime Magical Girl
+    nameLeft: Tokime Girl
     textLeft: The village had cell signal in it.
   - chara:
     - id: 770200
-    nameLeft: Tokime Magical Girl
+    nameLeft: Tokime Girl
     textLeft: But nobody ever really used them since we were @always close to each
       other.
   - chara:
@@ -220,12 +220,12 @@ story:
       id: 770200
       motion: 1
       pos: 0
-    nameLeft: Tokime Magical Girl
+    nameLeft: Tokime Girl
     textLeft: But when working in Kamihama.
     turnEffect: stop
   - chara:
     - id: 770200
-    nameLeft: Tokime Magical Girl
+    nameLeft: Tokime Girl
     textLeft: We will need to be able to get in contact with each other from all over
       the city.
   - chara:
@@ -292,7 +292,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Shizuka
-    textLeft: Gi... gig...? gigs?...
+    textLeft: Gi... gig...? Gigs?...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -367,7 +367,7 @@ story:
       id: 770200
       motion: 0
       pos: 0
-    nameLeft: ""
+    nameLeft: Tokime Girl
     textLeft: Oh, but can a smartphone contract be signed by minors?
   - chara:
     - cheek: 0
@@ -392,7 +392,7 @@ story:
       id: 770200
       motion: 1
       pos: 0
-    nameLeft: ""
+    nameLeft: Tokime Girl
     textLeft: Oh okay.
   - chara:
     - cheek: 0

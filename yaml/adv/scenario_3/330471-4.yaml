@@ -63,7 +63,7 @@ story:
       pos: 2
     nameRight: Chika
     surround: 7202_telepathy
-    textRight: Ho-hold on a  minute.
+    textRight: Ho-hold on a minute.
     turnEffect: ef_adv_02
   - chara:
     - id: 304701
@@ -103,12 +103,12 @@ story:
       pos: 0
     nameRight: Shizuka
     surround: stop
-    textRight: Okay, Miss clerk, We'll take it.
+    textRight: Okay, Miss clerk, we'll take it.
     turnEffect: stop
   - chara:
     - id: 801000
     nameLeft: Clerk
-    textLeft: Then let's talk about the price plans for this model
+    textLeft: Then let's talk about the price plans for this model.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -207,7 +207,7 @@ story:
       pos: 0
     nameRight: Chika
     surround: stop
-    textRight: Excuse me, miss clerk?
+    textRight: Excuse me, Miss clerk?
     turnEffect: stop
   - chara:
     - id: 304701
@@ -418,7 +418,7 @@ story:
     - eyeClose: 1
       id: 304701
     nameRight: Chika
-    textRight: No, Thank you...
+    textRight: No, thank you...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

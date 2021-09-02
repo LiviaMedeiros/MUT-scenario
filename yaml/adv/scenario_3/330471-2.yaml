@@ -36,7 +36,7 @@ story:
       id: 304701
       motion: 100
     nameRight: Chika
-    textRight: I'm doing great! and my cabin is almost done too.
+    textRight: I'm doing great! And my cabin is almost done too.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -102,7 +102,7 @@ story:
   - chara:
     - id: 304701
     nameRight: Chika
-    textRight: Sankyoin has a big mall, So I've been here before to shop.
+    textRight: Sankyoin has a big mall, so I've been here before to shop.
   - chara:
     - cheek: 0
       eyeClose: 0

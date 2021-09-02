@@ -86,7 +86,7 @@ story:
     - id: 304701
       motion: 300
     nameLeft: Chika
-    textLeft: If I make a contract with you I will be a Magical girl right?
+    textLeft: If I make a contract with you, I will be a Magical girl right?
     turnChangeOut: fadeOut
   - chara:
     - id: 304701
@@ -187,7 +187,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Chika
-    textRight: Because of all the scary people coming here I wanted @to be in the
+    textRight: Because of all the scary people coming here, I wanted @to be in the
       forest.
   - chara:
     - id: 800600
@@ -256,7 +256,7 @@ story:
     chara:
     - id: 800700
     nameLeft: Chika's Father
-    textLeft: No way... You met Kyuube
+    textLeft: No way... You met Kyuube...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -294,7 +294,7 @@ story:
   - chara:
     - id: 304701
     nameRight: Chika
-    textRight: Why do you both know about kyuube!?
+    textRight: Why do you both know about Kyuube!?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -334,7 +334,7 @@ story:
       id: 800600
       pos: 0
     nameLeft: Chika's Mother
-    textLeft: To our parents house.
+    textLeft: To our parents' house.
   - chara:
     - id: 304701
       motion: 0
@@ -557,7 +557,7 @@ story:
       id: 304701
       pos: 1
     nameCenter: Chika
-    textCenter: I wonder if this is also fate ...
+    textCenter: I wonder if this is also fate...
   - chara:
     - id: 304701
       lipSynch: 0
@@ -580,7 +580,7 @@ story:
     - id: 304701
       motion: 100
     nameCenter: Chika
-    textCenter: I wonder why I came back to Kamihama ...
+    textCenter: I wonder why I came back to Kamihama...
   - autoTurnFirst: 6.1
     bg: bg_adv_narration.jpg
     bgm: stop

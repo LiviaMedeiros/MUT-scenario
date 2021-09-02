@@ -310,7 +310,7 @@ story:
     - id: 103401
       motion: 1
     nameRight: Asahi
-    textRight: I don't want to overstay my welcome, So let's get @ready to leave.
+    textRight: I don't want to overstay my welcome, so let's get @ready to leave.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -326,7 +326,7 @@ story:
       motion: 100
       pos: 1
     nameCenter: Chika
-    textCenter: Uh, Um.
+    textCenter: Uh, um.
   - autoTurnLast: 0.2
     chara:
     - id: 304701
@@ -567,7 +567,7 @@ story:
       pos: 1
       voice: vo_char_3047_00_05
     nameCenter: Chika
-    textCenter: With everyone in the Tokime clan I’ll...!
+    textCenter: With everyone in the Tokime clan, I'll...!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:

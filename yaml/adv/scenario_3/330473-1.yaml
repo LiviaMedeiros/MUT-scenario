@@ -15,12 +15,12 @@ story:
   - chara:
     - id: 304701
     nameCenter: Chika
-    textCenter: Huh ...
+    textCenter: Huh...
     turnChangeOut: fadeOut
   - chara:
     - id: 304701
     nameCenter: Chika
-    textCenter: Hold on.. I need to calm down...
+    textCenter: Hold on... I need to calm down...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -47,7 +47,7 @@ story:
     - id: 304701
       lipSynch: 0
     nameCenter: Chika
-    textCenter: (And even that is thanks to the generosity of St @Liliana Academy.)
+    textCenter: (And even that is thanks to the generosity of St. @Liliana Academy.)
   - chara:
     - id: 304701
       lipSynch: 0
@@ -148,7 +148,7 @@ story:
     - id: 304701
       motion: 1
     nameCenter: Chika
-    textCenter: Why?... my cabin... has collapsed...
+    textCenter: Why?... My cabin... has collapsed...
   - chara:
     - id: 304701
       lipSynch: 0

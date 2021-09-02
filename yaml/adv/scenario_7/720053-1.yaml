@@ -119,11 +119,11 @@ story:
     - id: 200701
       motion: 1
     nameRight: Nagisa
-    textRight: Nagisa's body is smaller than Mami,
+    textRight: Nagisa's body is smaller than Mami's,
   - chara:
     - id: 200701
     nameRight: Nagisa
-    textRight: so Nagisa can get into the small cracks that Mami @can't
+    textRight: so Nagisa can get into the small cracks that Mami @can't,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -211,7 +211,7 @@ story:
       lipSynch: 0
     nameCenter: Mami
     textCenter: '...[wait:0.8][chara:200501:cheek_0][chara:200501:face_mtn_ex_050.exp.json][chara:200501:motion_1][chara:200501:lipSynch_1]Huh,
-      she''s not here...? @Nagisa-chan...where...?'
+      she''s not here...? @Nagisa...where...?'
   - nameRight: Nagisa's Voice
     textRight: Here! In here!
   - chara:

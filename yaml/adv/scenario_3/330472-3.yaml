@@ -40,7 +40,7 @@ story:
     textRight: So, they are poisonous.
   - nameCenter: Chika's Father's voice
     textBg: shout
-    textCenter: Hahahahaha !! What even is that?!
+    textCenter: Hahahahaha!! What even is that?!
     turnEffect: stop
   - chara:
     - id: 304701
@@ -70,7 +70,7 @@ story:
     nameCenter: Chika's Father's voice
     textCenter: Don't worry! I'll take care of everything!
   - nameCenter: Chika's Father's voice
-    textCenter: ' You ain''t gotta worry about anything, you hear!'
+    textCenter: You ain't gotta worry about anything, you hear!
   - nameCenter: ""
     textCenter: Thank you... Thank you...
   - nameCenter: Chika & Chika's Mother
@@ -118,7 +118,7 @@ story:
       lipSynch: 0
       motion: 0
     nameLeft: Chika
-    textLeft: (Way to go dad).
+    textLeft: (Way to go dad.)
   - chara:
     - id: 304701
       lipSynch: 0
@@ -142,7 +142,7 @@ story:
     narrationBg: ""
     narrationEffect: in
     turnChangeOut: fadeOut
-  - nameRight: Debt Collectors voice
+  - nameRight: Debt Collector's voice
     narrationEffect: out
     textRight: Aoba, You're home aren't you?
   - chara:
@@ -183,9 +183,9 @@ story:
       soulGem: 0
     nameCenter: Chika
     textCenter: '......'
-  - nameRight: Debt Collectors voice
+  - nameRight: Debt Collector's voice
     textRight: Since no one can get a hold of him.
-  - nameRight: Debt Collectors voice
+  - nameRight: Debt Collector's voice
     textRight: The guarantor will need to pay, Mr. Aoba.
   - chara:
     - eyeClose: 1
@@ -204,9 +204,9 @@ story:
       id: 800700
       motion: 0
       pos: 1
-    nameRight: Debt Collectors voice
+    nameRight: Debt Collector's voice
     textRight: It's useless to run or hide.
-  - nameRight: Debt Collectors voice
+  - nameRight: Debt Collector's voice
     textRight: I will chase you to the end of the earth.
   - chara:
     - id: 800700

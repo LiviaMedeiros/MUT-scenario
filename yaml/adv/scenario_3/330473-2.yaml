@@ -54,10 +54,10 @@ story:
   - narration: ―Chika―@(Did I even manage to accomplish anything?...)
   - narration: ―Chika―@(No, this is my home in Kamihama.)
   - narration: ―Chika―@(I've had both people and nature... taken away from me...)
-  - narration: ―Chika―@(this is completely...)
+  - narration: ―Chika―@(This is completely...)
   - narration: ―Chika―@("Live obediently in Suitoku temple, for the sake of the Tokime.")
   - narration: ―Chika―@(I wonder what that means...)
-  - narration: ―Chika―@(Finish cleaning up the cabin tomorrow, then obediently go
+  - narration: ―Chika―@(Finish cleaning up the cabin tomorrow, then obediently@go
       to Suitoku temple.)
   - narration: ―Chika―@(Even though I already refused once...)
   - narration: ―Chika―@(If I bow my head and ask politely, they should let me stay.)
@@ -204,7 +204,7 @@ story:
     textCenter: '*Phew*... @Time for a break.'
     turnChangeOut: fadeOut
   - bgm: stop
-    nameRight: ？？？'s Voice
+    nameRight: ???'s Voice
     textRight: Oh?... @This is looking horrible.
   - chara:
     - cheek: 0
@@ -314,7 +314,7 @@ story:
     - id: 770200
       motion: 1
     nameRight: Tokime Girl
-    textRight: Didn't you get my text saying that "We are on our way?"
+    textRight: Didn't you get my text saying that@"We are on our way?"
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -338,7 +338,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Shizuka
-    textRight: Well,@[chara:102501:lipSynch_0][wait:1.0][chara:102501:cheek_0][chara:102501:face_mtn_ex_011.exp.json][chara:102501:lipSynch_1]Let's
+    textRight: Well...@[chara:102501:lipSynch_0][wait:1.0][chara:102501:cheek_0][chara:102501:face_mtn_ex_011.exp.json][chara:102501:lipSynch_1]Let's
       get to work!
   - chara:
     - id: 304701

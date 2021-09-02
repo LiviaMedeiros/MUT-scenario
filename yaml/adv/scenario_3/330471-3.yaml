@@ -67,7 +67,7 @@ story:
   - chara:
     - id: 800800
     nameRight: ""
-    textRight: This is a special "holy water” that contains twice as much hydrogen
+    textRight: This is a special "holy water" that contains twice as much hydrogen
       as oxygen!
   - chara:
     - cheek: 0
@@ -360,7 +360,7 @@ story:
       id: 102501
       motion: 400
     nameLeft: Shizuka
-    textLeft: Yeah, Yeah...
+    textLeft: Yeah, yeah...
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

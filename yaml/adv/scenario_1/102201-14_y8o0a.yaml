@@ -196,7 +196,7 @@ story:
       id: 100101
       voiceFull: fullvoice/section_102201/vo_full_102201-14-23
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-22
-    textRight: But you're the only person we know @f who can tune up Soul Gems...
+    textRight: But you're the only person we know@of who can tune up Soul Gems...
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json
