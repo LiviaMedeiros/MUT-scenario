@@ -5,7 +5,7 @@ story:
     bg: bg_adv_18094.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102500
       motion: 0
       pos: 2
@@ -15,6 +15,7 @@ story:
     - id: 102500
       lipSynch: 0
       motion: 200
+      voiceFullAuto: fullvoice/section_102502/vo_full_102502-10-1
     nameRight: Shizuka
     textRight: (Shigure, Hagumu...)
     turnChangeOut: fadeOut
@@ -28,7 +29,7 @@ story:
       name: sprite_0
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 770300
       motion: 200
       pos: 2
@@ -37,22 +38,25 @@ story:
   - chara:
     - id: 770300
       motion: 400
+      voiceFullAuto: fullvoice/section_102502/vo_full_102502-10-3
     nameRight: ""
     textRight: Shizuka! The Kimochi appears to be weakening!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100400
       motion: 200
       pos: 2
+      voiceFullAuto: fullvoice/section_102502/vo_full_102502-10-4
     nameRight: Sana
     textRight: We'll bind the [textYellow:Kimochi] while we still can!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102500
       motion: 100
       pos: 2
+      voiceFullAuto: fullvoice/section_102502/vo_full_102502-10-5
     nameRight: Shizuka
     textRight: Thanks, everyone!@I need time to prepare the finishing strike!
   - autoTurnLast: 2

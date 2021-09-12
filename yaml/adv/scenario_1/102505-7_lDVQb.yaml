@@ -5,7 +5,7 @@ story:
     bg: bg_adv_21073.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103701
       motion: 0
       pos: 1
@@ -13,6 +13,7 @@ story:
   - chara:
     - id: 103701
       motion: 300
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-1
     nameCenter: Nayuta
     textCenter: '*Sigh*...'
     turnChangeOut: fadeOut
@@ -20,41 +21,45 @@ story:
     bg: bg_adv_narration.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 800700
+      face: mtn_ex_020.exp3.json
+      id: 802300
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103701
       motion: 400
       pos: 0
     turnChangeIn: fadeIn
     turnEffect: blackFrame
   - chara:
-    - id: 800700
+    - id: 802300
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-2
     nameRight: Touka's father
     textRight: I will keep the same schedule three days from today,
     turnChangeOut: fadeOut
   - chara:
-    - id: 800700
+    - id: 802300
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-3
     textRight: so this is your homework.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103701
       motion: 0
       pos: 0
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-4
     nameLeft: Nayuta
     textLeft: W-what is...?
   - chara:
-    - id: 800700
+    - id: 802300
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-5
     textRight: Bring your own answer about what it's like to lose@a loved one.
   - autoTurnLast: 0.5
     bg: bg_adv_21073.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103701
       motion: 1
       pos: 1
@@ -64,6 +69,7 @@ story:
     chara:
     - id: 103701
       lipSynch: 0
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-6
     nameCenter: Nayuta
     textCenter: (Uncle wants my own answer,@but there is no right answer...)
     turnChangeOut: fadeOut
@@ -71,6 +77,7 @@ story:
   - chara:
     - id: 103701
       lipSynch: 0
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-7
     nameCenter: Nayuta
     textCenter: (So my current answer should be okay...)
   - chara:
@@ -78,6 +85,7 @@ story:
       id: 103701
       lipSynch: 1
       motion: 100
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-8
     nameCenter: Nayuta
     textCenter: '...but, what is this feeling?'
     turnEffect: stop
@@ -85,16 +93,20 @@ story:
     narration: The TV that had been left on had a drama playing.
     narrationBg: black
     narrationEffect: in
+    voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-9
   - narration: It was about two young adults and their budding love lives,@but they
       were currently undergoing hardships.
+    voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-10
   - narration: To separate... to not separate...
+    voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-11
   - narration: I see.@You don't have to die to lose someone,@no matter how long you've
       lived.
+    voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-12
   - autoTurnLast: 0.5
     bg: bg_adv_21221.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103801
       motion: 100
       pos: 1
@@ -103,11 +115,13 @@ story:
     turnEffect: blackFrame
   - chara:
     - id: 103801
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-13
     nameCenter: Mikage
     textCenter: But, it would be sad if Sis disappeared,
     turnChangeOut: fadeOut
   - chara:
     - id: 103801
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-14
     nameCenter: Mikage
     textCenter: and lonely if Nayutan and Rabitan were gone.
   - autoTurnLast: 0.5
@@ -115,7 +129,7 @@ story:
     bgm: stop
     chara:
     - cheek: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103701
       motion: 0
       pos: 1
@@ -123,11 +137,13 @@ story:
     turnEffect: stop
   - chara:
     - id: 103701
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-15
     nameCenter: Nayuta
     textCenter: Then...I knew all along...
     turnChangeOut: fadeOut
   - chara:
     - id: 103701
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-16
     nameCenter: Nayuta
     textCenter: If my answer will let me go see Mama...@the person that disappeared
       from my life...
@@ -135,18 +151,19 @@ story:
     - eyeClose: 1
       id: 103701
       motion: 200
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-17
     nameCenter: Nayuta
     textCenter: then...that answer won't be good enough...
   - autoTurnLast: 0.5
     bg: bg_adv_21461.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 800700
+      face: mtn_ex_030.exp3.json
+      id: 802400
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 800600
       motion: 0
       pos: 2
@@ -154,60 +171,75 @@ story:
     turnEffect: blackFrame
   - bgm: bgm03_story08
     chara:
-    - id: 800700
+    - id: 802400
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-18
     nameLeft: Nayuta's father
     textLeft: Even if you ask me to change,@just what am I supposed to do...?
     turnChangeOut: fadeOut
   - chara:
-    - id: 800700
+    - id: 802400
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-19
     textLeft: I've never changed in the past,@and I won't change now.
   - chara:
-    - id: 800700
+    - id: 802400
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-20
     textLeft: I'm still the same man addicted to folklore,@the man you've said you
       hated.
   - chara:
-    - id: 800700
+    - id: 802400
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-21
     textLeft: If anyone's changed, it's you.@You've become much calmer...
   - chara:
     - id: 800600
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-22
     nameRight: Nayuta's mother
     textRight: I know that, but I still can't help but wonder.
   - chara:
     - id: 800600
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-23
     textRight: I won't hit you like I did before,@and I won't dismiss you without
       listening to you.
   - chara:
     - id: 800600
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-24
     textRight: I've changed so much from my old self that cared@about the world that
       I seem miserable in comparison.
   - chara:
     - cheek: 1
       id: 800600
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-25
     textRight: But, even when we would argue,@we were still working together.
   - chara:
     - id: 800600
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-26
     textRight: I hated that part of you, but I love you...!
   - chara:
-    - id: 800700
+    - id: 802400
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-27
     textLeft: Even so, things can't go back to the way they were,@even if things have
       changed...
   - chara:
     - id: 800600
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-28
     textRight: How can you be so calm when I've changed so much@for you...!
   - chara:
-    - id: 800700
+    - id: 802400
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-29
     textLeft: Because I know the reason why.
   - chara:
     - id: 800600
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-30
     textRight: What...? What's the reason!?
   - chara:
-    - id: 800700
+    - id: 802400
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-31
     textLeft: It's a Magical Girl's wish.
   - chara:
     - cheek: 1
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 800600
       pos: 1
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-32
     nameCenter: Nayuta's mother
     textBg: shout
     textCenter: DON'T BE SO STUPID!
@@ -221,19 +253,22 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
     turnChangeOutTime: 0.01
+  - autoTurnLast: 0.1
+    narrationEffect: out
   - chara:
     - cheek: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103701
       motion: 0
       pos: 1
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-34
     nameCenter: Nayuta
-    narrationEffect: out
     textCenter: I know what separation is.@I know what loss is like...
   - chara:
     - cheek: 2
       eyeClose: 1
       id: 103701
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-35
     nameCenter: Nayuta
     textCenter: Because it's all my fault@that Papa and I lost Mama...
   - autoTurnLast: 0.2
@@ -248,15 +283,17 @@ story:
     narration: I hated Mama for being full of anger, unlike Papa...@I hated that Mama
       would deny Papa for everything he would do@and compare him to Uncle...
     narrationEffect: in
+    voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-36
   - narration: When I became a Magical Girl,@my family was everything I ever wanted.@But
       as I watched Papa and Mama become more distant,@little by little, I started
       to realize@I changed a gear that should not have been changed...
+    voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-37
   - autoTurnLast: 0.01
     bg: bg_adv_21073.jpg
     chara:
     - cheek: 2
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103701
       motion: 0
       pos: 1
@@ -267,6 +304,7 @@ story:
     - eyeClose: 1
       id: 103701
       tear: 1
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-38
     nameCenter: Nayuta
     textCenter: I'm sorry, Papa...@I'm sorry, Mama...
     turnChangeOut: fadeOut
@@ -275,6 +313,7 @@ story:
       id: 103701
       lipSynch: 0
       tear: 1
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-39
     nameCenter: Nayuta
     textCenter: …………
   - chara:
@@ -283,12 +322,14 @@ story:
       lipSynch: 0
       motion: 400
       tear: 1
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-40
     nameCenter: Nayuta
     textCenter: (When I lost Mama, whom I hated so much,@I had no attachment left...)
   - chara:
     - id: 103701
       lipSynch: 0
       tear: 1
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-41
     nameCenter: Nayuta
     textCenter: (But even though I hated her and finally lost her,@I could only feel
       sadness...)
@@ -297,6 +338,7 @@ story:
       id: 103701
       lipSynch: 0
       tear: 1
+      voiceFullAuto: fullvoice/section_102505/vo_full_102505-7-42
     nameCenter: Nayuta
     textCenter: (Even now I still hate her,@but she is the only Mama I have...so I
       feel sad...)

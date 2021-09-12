@@ -290,7 +290,7 @@ story:
   - chara:
     - id: 801501
     nameRight: ???
-    textRight: You should know, haven’t not finished me @this morning.
+    textRight: You should know, having not finished me @this morning.
   - chara:
     - id: 100501
       motion: 100
