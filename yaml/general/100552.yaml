@@ -652,6 +652,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1005_52_37
+      textHome: Ain't the worship ritual too complicated?
   - autoTurnFirst: 1.2
     chara:
     - cheek: 0
@@ -659,6 +660,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100552
       motion: 0
+      textHome: '"Watch how I do it"@is what Yachiyo said,'
   - autoTurnFirst: 2.1
     chara:
     - eyeClose: 0
@@ -667,11 +669,19 @@ story:
     chara:
     - id: 100552
       motion: 100
+      textHome: but as she was sayin' that,@she was also starin' and watchin'@the
+        person who went before her.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100552
+  - chara:
+    - id: 100500
+      textHomeStatus: Clear
+  - chara:
+    - id: 100500
+      textHomeStatus: Clear
   group_3:
   - autoTurnFirst: 2
     chara:
@@ -695,30 +705,41 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1005_52_38
+      textHome: Hey, hey!
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100552
       motion: 0
+      textHome: They're lifting a palanquin shrine over there!
   - autoTurnFirst: 1.9
     chara:
     - id: 100552
       motion: 100
+      textHome: We should try lifting it too!
   - autoTurnFirst: 0.4
     chara:
     - id: 100552
       motion: 0
+      textHome: Y'know...
   - autoTurnFirst: 0.5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100552
       motion: 400
+      textHome: Heave-ho! Heave-ho!@Don't you wanna say it too?
   - autoTurnFirst: 3.7
     chara:
     - id: 100552
       motion: 400
+  - chara:
+    - id: 100500
+      textHomeStatus: Clear
+  - chara:
+    - id: 100500
+      textHomeStatus: Clear
   group_31:
   - autoTurnFirst: 2.7
     chara:
@@ -729,19 +750,23 @@ story:
       motion: 1
       pos: 1
       voice: vo_char_1005_52_39
+      textHome: I promised to meet up with Kako@and the others, but...
   - autoTurnFirst: 3.1
     chara:
     - id: 100552
       motion: 100
+      textHome: there's no way I can go tree-climbing@in this outfit, can I?
   - autoTurnFirst: 2.6
     chara:
     - eyeClose: 1
       id: 100552
       motion: 300
+      textHome: But I don't wanna take the haregi off...
   - autoTurnFirst: 3.3
     chara:
     - id: 100552
       motion: 0
+      textHome: I gotta do that thing...@im...improve...?
   - autoTurnFirst: 0.5
     chara:
     - eyeClose: 0
@@ -752,6 +777,13 @@ story:
       face: mtn_ex_050.exp.json
       id: 100552
       motion: 400
+      textHome: Improvise!
+  - chara:
+    - id: 100500
+      textHomeStatus: Clear
+  - chara:
+    - id: 100500
+      textHomeStatus: Clear
   group_32:
   - autoTurnFirst: 4.2
     chara:
@@ -762,26 +794,37 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_1005_52_40
+      textHome: Goals for this year are@beating up Witches, obviously!
   - autoTurnFirst: 0.6
     chara:
     - id: 100552
       motion: 0
+      textHome: and after that,
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100552
       motion: 200
+      textHome: eat WAAAY more meat than last year!
   - autoTurnFirst: 0.8
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100552
       motion: 0
+      textHome: and also,
   - autoTurnFirst: 3.2
     chara:
     - id: 100552
       motion: 100
+      textHome: it would be nice if everyone@got to smile a little more!
+  - chara:
+    - id: 100500
+      textHomeStatus: Clear
+  - chara:
+    - id: 100500
+      textHomeStatus: Clear
   group_33:
   - autoTurnFirst: 3.8
     chara:

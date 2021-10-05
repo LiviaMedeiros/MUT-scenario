@@ -219,14 +219,14 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 304301
-    textRight: '| At that moment, |'
+    textRight: '| At that moment... |'
   - chara:
     - id: 304301
     textRight: '| I sensed magical energy acting upon Mikura. |'
   - chara:
     - id: 303801
       motion: 1
-    nameLeft: Temari
+    nameLeft: Mikura
     textLeft: '...So Kira''s magic canceled mine out?'
   - chara:
     - cheek: 0
@@ -274,7 +274,7 @@ story:
       pos: 0
     nameLeft: Mikura
     textLeft: We did notice some signs that our movie risked@relitigating the East-West
-      conflict
+      conflict...
   - chara:
     - eyeClose: 1
       id: 303801

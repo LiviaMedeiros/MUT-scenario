@@ -13,7 +13,7 @@ story:
   - narration: She usually takes the lead and pulls@us along behind her, but now...
   - bg: bg_adv_91181.jpg
     chara:
-    - face: mtn_ex_020.exp.json
+    - face: mtn_ex_020.exp3.json
       id: 301000
       lipSynch: 0
       motion: 0
@@ -23,7 +23,7 @@ story:
     textLeft: …………
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100100
       motion: 0
       pos: 2
@@ -75,7 +75,7 @@ story:
     chara:
     - effect: fadeout
       id: 101100
-    - id: 100990
+    - id: 100900
       lipSynch: 0
       motion: 0
       pos: 1
@@ -86,7 +86,7 @@ story:
   - bgm: bgm03_story01
     chara:
     - effect: fadeout
-      id: 100990
+      id: 100900
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100100
@@ -135,7 +135,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100990
+      id: 100900
       lipSynch: 0
       motion: 400
       pos: 0
@@ -229,14 +229,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100990
+      id: 100900
       motion: 400
       pos: 0
     nameLeft: Rena?
     textLeft: What... What're you...
   - chara:
     - face: mtn_ex_030.exp.json
-      id: 100990
+      id: 100900
       motion: 300
     textLeft: Please stop looking at me like that...
   - chara:
@@ -302,7 +302,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100990
+      id: 100900
       motion: 100
       pos: 0
     nameLeft: Rena?
@@ -314,7 +314,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100990
+      id: 100900
       motion: 400
     textLeft: What? @S-surely that's not true...
   - textRight: Last time we met up, you were the @only one who was late, and you said...
@@ -333,7 +333,7 @@ story:
     textRight: '...And then you were in a @bad mood the entire night...'
   - chara:
     - face: mtn_ex_030.exp.json
-      id: 100990
+      id: 100900
       motion: 0
     textLeft: Did I...really say that...?
   - chara:
@@ -345,7 +345,7 @@ story:
       attitude!
   - chara:
     - face: mtn_ex_030.exp.json
-      id: 100990
+      id: 100900
       motion: 300
       tear: 1
     textLeft: I-I'm so sorry!@*Sob!*
@@ -362,7 +362,7 @@ story:
     textRight: '...While you sit there and@poke...poke...poke my cheeks!'
   - chara:
     - face: mtn_ex_060.exp.json
-      id: 100990
+      id: 100900
       motion: 400
     textLeft: Kaede, no!@Don't poke my cheeks!
   - chara:
@@ -378,7 +378,7 @@ story:
       motion: 200
     textRight: See! Poke...hehehe...@Poke...poke...POKE!
   - chara:
-    - id: 100990
+    - id: 100900
       motion: 0
       tear: 1
     textLeft: I-I said I'm sorryyy!
@@ -432,5 +432,5 @@ story:
     textRight: '...Huh?@Who said that?'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

@@ -74,6 +74,188 @@ story:
   - chara:
     - id: 240000
       textHomeStatus: Clear
+  group_2:
+  - autoTurnFirst: 3.5
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp.json
+      id: 240000
+      motion: 0
+      pos: 1
+      voice: vo_char_2400_00_02
+      textHome: The list of things I want do for New Year's@is packed like crazy.
+  - autoTurnFirst: 2.6
+    chara:
+    - id: 240000
+      motion: 1
+      textHome: I want to change into my haregi,
+  - autoTurnFirst: 3.9
+    chara:
+    - id: 240000
+      motion: 200
+      textHome: and visit ALL the places@so that I don't regret anything.
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  group_3:
+  - autoTurnFirst: 3.8
+    chara:
+    - cheek: 1
+      eyeClose: 0
+      face: mtn_ex_040.exp.json
+      id: 240000
+      motion: 100
+      pos: 1
+      voice: vo_char_2400_00_03
+  - autoTurnFirst: 3.2
+    chara:
+    - eyeClose: 1
+      id: 240000
+  group_4:
+  - autoTurnFirst: 2.1
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_030.exp.json
+      id: 240000
+      motion: 300
+      pos: 1
+      voice: vo_char_2400_00_04
+  - autoTurnFirst: 3.4
+    chara:
+    - eyeClose: 1
+      id: 240000
+  group_5:
+  - autoTurnFirst: 2.8
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp.json
+      id: 240000
+      motion: 0
+      pos: 1
+      voice: vo_char_2400_00_05
+  - autoTurnFirst: 3.2
+    chara:
+    - id: 240000
+      motion: 201
+  group_6:
+  - autoTurnFirst: 2.4
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_050.exp.json
+      id: 240000
+      motion: 400
+      pos: 1
+      voice: vo_char_2400_00_13
+      textHome: Uoh!@Somehow, the brushtrokes are getting better.
+  - autoTurnFirst: 2.6
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 240000
+      motion: 201
+      textHome: Uoh!@Somehow, the brushtrokes are getting better!
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  group_7:
+  - autoTurnFirst: 2.2
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_020.exp.json
+      id: 240000
+      motion: 200
+      pos: 1
+      voice: vo_char_2400_00_14
+      textHome: If I can visualize writing it down in one pass,@I feel like I can
+        give birth to a piece of work@I can be proud of.
+  - autoTurnFirst: 2.8
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 240000
+      textHome: If I can visualize writing it down in one pass,@I feel like I can
+        give birth to a piece of work@I can be proud of.
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  group_8:
+  - autoTurnFirst: 3
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp.json
+      id: 240000
+      motion: 1
+      pos: 1
+      voice: vo_char_2400_00_15
+      textHome: Listen to this!@Something good already happened@this early in the
+        new year!
+  - autoTurnFirst: 2
+    chara:
+    - id: 240000
+      motion: 201
+      textHome: Listen to this!@Something good already happened@this early in the
+        new year!
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  group_9:
+  - autoTurnFirst: 3.5
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp.json
+      id: 240000
+      motion: 1
+      pos: 1
+      voice: vo_char_2400_00_16
+      textHome: I'm feeling REALLY good, so...
+  - autoTurnFirst: 3.3
+    chara:
+    - id: 240000
+      motion: 100
+      textHome: That's why I don't need to pull a fortune.
+  - autoTurnFirst: 1.1
+    chara:
+    - id: 240000
+      motion: 0
+      textHome: Today's...
+  - autoTurnFirst: 2.4
+    chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 240000
+      textHome: No, this year's new me
+  - autoTurnFirst: 2.7
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 240000
+      motion: 200
+      textHome: is in perfect shape after all.
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
   group_10:
   - autoTurnFirst: 5.5
     chara:
@@ -149,10 +331,18 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_2400_00_19
+      textHome: Having just taken a new step forward,
   - autoTurnFirst: 2.7
     chara:
     - id: 240000
       motion: 200
+      textHome: somehow it feels like@I'm brimming with energy!
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
+  - chara:
+    - id: 240000
+      textHomeStatus: Clear
   group_13:
   - autoTurnFirst: 3.3
     chara:
@@ -380,33 +570,6 @@ story:
       face: mtn_ex_010.exp.json
       id: 240000
       textHome: Here, try it!@It's delicious!
-  - chara:
-    - id: 240000
-      textHomeStatus: Clear
-  - chara:
-    - id: 240000
-      textHomeStatus: Clear
-  group_2:
-  - autoTurnFirst: 3.5
-    chara:
-    - cheek: 0
-      eyeClose: 0
-      face: mtn_ex_010.exp.json
-      id: 240000
-      motion: 0
-      pos: 1
-      voice: vo_char_2400_00_02
-      textHome: The list of things I want do for New Year's@is packed like crazy.
-  - autoTurnFirst: 2.6
-    chara:
-    - id: 240000
-      motion: 1
-      textHome: I want to change into my haregi,
-  - autoTurnFirst: 3.9
-    chara:
-    - id: 240000
-      motion: 200
-      textHome: and visit ALL the places@so that I don't regret anything.
   - chara:
     - id: 240000
       textHomeStatus: Clear
@@ -777,20 +940,6 @@ story:
   - chara:
     - id: 240000
       textHomeStatus: Clear
-  group_3:
-  - autoTurnFirst: 3.8
-    chara:
-    - cheek: 1
-      eyeClose: 0
-      face: mtn_ex_040.exp.json
-      id: 240000
-      motion: 100
-      pos: 1
-      voice: vo_char_2400_00_03
-  - autoTurnFirst: 3.2
-    chara:
-    - eyeClose: 1
-      id: 240000
   group_30:
   - autoTurnFirst: 4.2
     chara:
@@ -1055,146 +1204,5 @@ story:
     chara:
     - id: 240000
       motion: 201
-  group_4:
-  - autoTurnFirst: 2.1
-    chara:
-    - cheek: 0
-      eyeClose: 0
-      face: mtn_ex_030.exp.json
-      id: 240000
-      motion: 300
-      pos: 1
-      voice: vo_char_2400_00_04
-  - autoTurnFirst: 3.4
-    chara:
-    - eyeClose: 1
-      id: 240000
-  group_5:
-  - autoTurnFirst: 2.8
-    chara:
-    - cheek: 0
-      eyeClose: 0
-      face: mtn_ex_010.exp.json
-      id: 240000
-      motion: 0
-      pos: 1
-      voice: vo_char_2400_00_05
-  - autoTurnFirst: 3.2
-    chara:
-    - id: 240000
-      motion: 201
-  group_6:
-  - autoTurnFirst: 2.4
-    chara:
-    - cheek: 0
-      eyeClose: 0
-      face: mtn_ex_050.exp.json
-      id: 240000
-      motion: 400
-      pos: 1
-      voice: vo_char_2400_00_13
-      textHome: Uoh!@Somehow, the brushtrokes are getting better.
-  - autoTurnFirst: 2.6
-    chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 240000
-      motion: 201
-      textHome: Uoh!@Somehow, the brushtrokes are getting better!
-  - chara:
-    - id: 240000
-      textHomeStatus: Clear
-  - chara:
-    - id: 240000
-      textHomeStatus: Clear
-  group_7:
-  - autoTurnFirst: 2.2
-    chara:
-    - cheek: 0
-      eyeClose: 0
-      face: mtn_ex_020.exp.json
-      id: 240000
-      motion: 200
-      pos: 1
-      voice: vo_char_2400_00_14
-      textHome: If I can visualize writing it down in one pass,@I feel like I can
-        give birth to a piece of work@I can be proud of.
-  - autoTurnFirst: 2.8
-    chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 240000
-      textHome: If I can visualize writing it down in one pass,@I feel like I can
-        give birth to a piece of work@I can be proud of.
-  - chara:
-    - id: 240000
-      textHomeStatus: Clear
-  - chara:
-    - id: 240000
-      textHomeStatus: Clear
-  group_8:
-  - autoTurnFirst: 3
-    chara:
-    - cheek: 0
-      eyeClose: 0
-      face: mtn_ex_010.exp.json
-      id: 240000
-      motion: 1
-      pos: 1
-      voice: vo_char_2400_00_15
-      textHome: Listen to this!@Something good already happened@this early in the
-        new year!
-  - autoTurnFirst: 2
-    chara:
-    - id: 240000
-      motion: 201
-      textHome: Listen to this!@Something good already happened@this early in the
-        new year!
-  - chara:
-    - id: 240000
-      textHomeStatus: Clear
-  - chara:
-    - id: 240000
-      textHomeStatus: Clear
-  group_9:
-  - autoTurnFirst: 3.5
-    chara:
-    - cheek: 0
-      eyeClose: 0
-      face: mtn_ex_010.exp.json
-      id: 240000
-      motion: 1
-      pos: 1
-      voice: vo_char_2400_00_16
-      textHome: I'm feeling REALLY good, so...
-  - autoTurnFirst: 3.3
-    chara:
-    - id: 240000
-      motion: 100
-      textHome: That's why I don't need to pull a fortune.
-  - autoTurnFirst: 1.1
-    chara:
-    - id: 240000
-      motion: 0
-      textHome: Today's...
-  - autoTurnFirst: 2.4
-    chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 240000
-      textHome: No, this year's new me
-  - autoTurnFirst: 2.7
-    chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 240000
-      motion: 200
-      textHome: is in perfect shape after all.
-  - chara:
-    - id: 240000
-      textHomeStatus: Clear
-  - chara:
-    - id: 240000
-      textHomeStatus: Clear
 version: 3
 ...

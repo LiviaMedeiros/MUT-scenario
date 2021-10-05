@@ -40,7 +40,7 @@ story:
     - id: 102201
       motion: 200
       voiceFullAuto: fullvoice/section_102301/vo_full_102301-14-5
-    textLeft: There are a few other people in this train car.
+    textLeft: We've got a few of our allies in this train car.
   - chara:
     - id: 102201
       voiceFullAuto: fullvoice/section_102301/vo_full_102301-14-6
@@ -559,7 +559,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 100101
       voiceFullAuto: fullvoice/section_102301/vo_full_102301-14-66
-    textLeft: Kagome, I'm sorry for getting you involved today...
+    textLeft: Kagome-chan, I'm sorry for getting you involved today...
   - chara:
     - id: 100101
       motion: 301

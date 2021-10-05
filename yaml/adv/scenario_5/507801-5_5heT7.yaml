@@ -73,8 +73,8 @@ story:
       motion: 1
     textLeft: Then without further ado, Mihono shall return to@her film-viewing!
   - nameNarration: Temari
-    narration: Neither I nor Komachi interact all that much with others,@and we're
-      not fond of others trying to@get to know us in a hurry.@So we've gotten along
+    narration: Neither I nor Komachi interact all that much@with others, and we're
+      not fond of others@trying to get to know us in a hurry.@So we've gotten along
       well together for quite some time.
     narrationBg: bg_adv_21025.jpg
     narrationEffect: in
@@ -150,8 +150,8 @@ story:
   - chara:
     - id: 304001
       lipSynch: 0
-    textCenter: (...both Komachi and I got roped into Mihono's@film-making before
-      we even knew it, too.)
+    textCenter: (Both Komachi and I got roped into Mihono's@film-making before we
+      even knew it, too.)
   - autoTurnLast: 0.25
     bgm: stop
     chara:

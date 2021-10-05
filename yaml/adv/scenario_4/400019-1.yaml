@@ -110,7 +110,8 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100300
-    textLeft: Action... Oh, I gotcha!
+    textLeft: Action...@[chara:100300:lipSynch_0][wait:0.8][chara:100300:motion_0][chara:100300:cheek_0][chara:100300:face_mtn_ex_050.exp.json][chara:100300:lipSynch_1]Oh,
+      I gotcha!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -155,12 +156,13 @@ story:
       motion: 201
       mouthOpen: 1
     textBg: shout
-    textLeft: RAAAAAARGH!!!
+    textLeft: '[bgEffect:shakeSmall]RAAAAAARGH!!!'
   - chara:
     - id: 300300
       motion: 400
       mouthOpen: 1
-    textRight: Whoa, whoa, whoa!
+    textRight: '[chara:300300:effect_emotion_surprise_0][se:7226_shock]Whoa, whoa,
+      whoa!'
   - chara:
     - id: 300300
       mouthOpen: 0
@@ -252,6 +254,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 0
       pos: 1
     nameCenter: Rika
@@ -283,6 +286,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 1
       pos: 0
     nameLeft: Rika
@@ -299,9 +303,11 @@ story:
       that?!
   - chara:
     - id: 303100
+      live2dName: live2d_0
     textLeft: Miko-senpai...
   - chara:
     - id: 303100
+      live2dName: live2d_0
     textLeft: You should've just left me alone.
   - chara:
     - id: 300300
@@ -317,15 +323,18 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 0
     textLeft: A fake? Me?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303100
+      live2dName: live2d_0
     textLeft: That's so...mean...
   - chara:
     - id: 303100
+      live2dName: live2d_0
       motion: 400
     textLeft: You're so mean!
   - chara:
@@ -350,6 +359,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 100
       pos: 0
     nameLeft: Rika
@@ -403,6 +413,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 200
       pos: 0
     nameLeft: Rika
@@ -476,6 +487,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 303100
       lipSynch: 0
+      live2dName: live2d_0
       motion: 0
       pos: 0
     nameLeft: Rika
@@ -484,12 +496,14 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 303190
+      id: 303100
+      live2dName: live2d_1
       motion: 0
       pos: 2
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 303100
+      live2dName: live2d_0
     nameRight: Rika
     textRight: You're so mean, Miko-senpai.
   - chara:
@@ -515,26 +529,32 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 300
       pos: 1
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303190
+      id: 303100
+      live2dName: live2d_1
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303191
+      id: 303100
+      live2dName: live2d_2
       motion: 0
       pos: 2
     nameCenter: Rika
     textCenter: Miko-senpai... You're sooo mean.
   - chara:
     - id: 303100
+      live2dName: live2d_0
       motion: 200
-    - id: 303190
+    - id: 303100
+      live2dName: live2d_1
       motion: 400
-    - id: 303191
+    - id: 303100
+      live2dName: live2d_2
       motion: 100
     textCenter: Goodbye... Goodbye...
   - autoTurnLast: 0.01
@@ -546,12 +566,14 @@ story:
       pos: 1
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303190
+      id: 303100
+      live2dName: live2d_1
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303191
+      id: 303100
+      live2dName: live2d_2
       motion: 0
       pos: 2
     turnChangeIn: rollInFast
@@ -570,12 +592,14 @@ story:
       pos: 1
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303190
+      id: 303100
+      live2dName: live2d_1
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303191
+      id: 303100
+      live2dName: live2d_2
       motion: 0
       pos: 2
     turnChangeIn: rollInFast
@@ -594,12 +618,14 @@ story:
       pos: 1
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303190
+      id: 303100
+      live2dName: live2d_1
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303191
+      id: 303100
+      live2dName: live2d_2
       motion: 0
       pos: 2
     turnChangeIn: rollInFast
@@ -618,12 +644,14 @@ story:
       pos: 1
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303190
+      id: 303100
+      live2dName: live2d_1
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303191
+      id: 303100
+      live2dName: live2d_2
       motion: 0
       pos: 2
     turnChangeIn: rollInFast
@@ -638,25 +666,31 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 0
       pos: 1
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303190
+      id: 303100
+      live2dName: live2d_1
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303191
+      id: 303100
+      live2dName: live2d_2
       motion: 0
       pos: 2
     turnChangeIn: rollInFast
   - chara:
     - id: 303100
+      live2dName: live2d_0
       motion: 1
-    - id: 303190
+    - id: 303100
+      live2dName: live2d_1
       motion: 201
-    - id: 303191
+    - id: 303100
+      live2dName: live2d_2
       motion: 300
     nameCenter: Rika
     textCenter: Goodbye... Goodbye...

@@ -13,6 +13,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 1
       pos: 1
     nameCenter: Emiri
@@ -22,17 +23,20 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300600
-    textCenter: Maybe a squirrel monkey? [chara:300600:lipSynch_0][wait:0.8][chara:300600:motion_200][chara:300600:cheek_0][chara:300600:face_mtn_ex_011.exp.json][chara:300600:lipSynch_1]Cuz
+      live2dName: live2d_0
+    textCenter: Maybe a squirrel monkey? [live2dName:live2d_0:lipSynch_0][wait:0.8][live2dName:live2d_0:motion_200][live2dName:live2d_0:cheek_0][live2dName:live2d_0:face_mtn_ex_011.exp.json][live2dName:live2d_0:lipSynch_1]Cuz
       she's mega@cuuute!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300600
+      live2dName: live2d_0
     textCenter: And Rikki is all trim and polished. Like,@I'm always telling her...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 100
     textCenter: '"You''re totally it Girl!" She totally stands@out! Like in an amazing
       way!'
@@ -52,6 +56,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 0
       pos: 0
     nameLeft: Emiri
@@ -60,7 +65,8 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 300690
+      id: 300600
+      live2dName: live2d_1
       motion: 0
       pos: 2
     nameRight: Emiri 2
@@ -68,7 +74,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300699
+      id: 300600
       motion: 1
       pos: 2
     nameRight: Emiri 3
@@ -76,7 +82,8 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300690
+      id: 300600
+      live2dName: live2d_1
       motion: 100
       pos: 2
     nameRight: Emiri 4
@@ -85,9 +92,11 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 100
     - effect: fadeout
-      id: 300690
+      id: 300600
+      live2dName: live2d_1
     textLeft: Oui oui! Au revoir!
   - bg: bg_adv_91181.jpg
     nameNarration: Iroha
@@ -101,6 +110,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
@@ -116,6 +126,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300600
+      live2dName: live2d_0
     textLeft: I don't think they're that far away...
   - chara:
     - cheek: 0
@@ -127,6 +138,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300600
+      live2dName: live2d_0
     textLeft: Just a hunch?
   - chara:
     - cheek: 0
@@ -138,6 +150,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 200
       mouthOpen: 1
     textLeft: Ha ha ha!
@@ -145,6 +158,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
@@ -172,6 +186,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300600
+      live2dName: live2d_0
     textLeft: Ya okay? You've been, like, starin'@right into my face, all bug-eyed...
   - chara:
     - cheek: 0
@@ -185,8 +200,9 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300600
-    textLeft: '[chara:300600:effect_emotion_angry_0][se:7219_strain]Oh, wait, I got
-      it...!'
+      live2dName: live2d_0
+    textLeft: '[live2dName:live2d_0:effect_emotion_angry_0][se:7219_strain]Oh, wait,
+      I got it...!'
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -199,6 +215,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 400
     textLeft: Do I have a zit?! Did it just pop out@while I wasn't looking? Where
       is it?!
@@ -212,6 +229,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 0
     textLeft: Tsurupi! Tsurupi! One zit check, please!
   - chara:
@@ -235,11 +253,14 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300600
-    textLeft: '[chara:300600:effect_emotion_surprise_0][se:7226_shock]Really?! [chara:300600:lipSynch_0][wait:1.0][chara:300600:motion_200][chara:300600:cheek_0][chara:300600:face_mtn_ex_011.exp.json][chara:300600:lipSynch_1]Yay!'
+      live2dName: live2d_0
+    textLeft: '[live2dName:live2d_0:effect_emotion_surprise_0][se:7226_shock]Really?!
+      [live2dName:live2d_0:lipSynch_0][wait:1.0][live2dName:live2d_0:motion_200][live2dName:live2d_0:cheek_0][live2dName:live2d_0:face_mtn_ex_011.exp.json][live2dName:live2d_0:lipSynch_1]Yay!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
@@ -267,6 +288,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 400
     textLeft: Ah! That might be her!
   - chara:
@@ -279,12 +301,14 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 200
     textLeft: Uh huh! That voice...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300600
+      live2dName: live2d_0
     textLeft: That's Myako-senpai's voice!
   - bgm: bgm01_anime03
     chara:
@@ -298,12 +322,14 @@ story:
   - chara:
     - cheek: 0
       id: 300600
+      live2dName: live2d_0
       motion: 0
-    textLeft: '[chara:300600:effect_emotion_joy_0][se:7222_happy]Myaaakooo-seeenpaaaaaai!'
+    textLeft: '[live2dName:live2d_0:effect_emotion_joy_0][se:7222_happy]Myaaakooo-seeenpaaaaaai!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 200
     textLeft: I'm sooo sorry! I lost track of you@somehow...
   - chara:
@@ -317,8 +343,9 @@ story:
       face: mtn_ex_030.exp.json
       id: 300600
       lipSynch: 0
+      live2dName: live2d_0
       motion: 0
-    textLeft: '...? [chara:300600:lipSynch_0][wait:1.0][chara:300600:lipSynch_1]Uh...yeah...'
+    textLeft: '...? [live2dName:live2d_0:lipSynch_0][wait:1.0][live2dName:live2d_0:lipSynch_1]Uh...yeah...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -329,6 +356,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 1
     textLeft: Um... This here is Tsurupi...
   - chara:
@@ -343,6 +371,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 100
       pos: 0
     nameLeft: Emiri
@@ -366,6 +395,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 300600
       lipSynch: 0
+      live2dName: live2d_0
       motion: 0
       pos: 0
     textLeft: '...'
@@ -402,11 +432,12 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 400
       mouthOpen: 1
       pos: 0
     nameLeft: Emiri
-    textLeft: Uh [chara:300600:effect_emotion_surprise_0][se:7226_shock]oh...!
+    textLeft: Uh [live2dName:live2d_0:effect_emotion_surprise_0][se:7226_shock]oh...!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -418,19 +449,22 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 0
-    textLeft: '[chara:300600:effect_emotion_angry_0][se:7219_strain]Ehh!'
+    textLeft: '[live2dName:live2d_0:effect_emotion_angry_0][se:7219_strain]Ehh!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300600
       lipSynch: 0
+      live2dName: live2d_0
     textLeft: '...'
   - bgm: bgm03_story10
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300600
+      live2dName: live2d_0
     textLeft: Hey...
   - chara:
     - cheek: 0
@@ -442,6 +476,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 200
     textLeft: You're supposed to say it! Don't be lame!
   - chara:
@@ -465,12 +500,14 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 0
     textLeft: Oh my god, she's totally...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300600
+      live2dName: live2d_0
     textLeft: She's gotta be a copy.
   - autoTurnLast: 2
     turnChangeIn: fadeIn

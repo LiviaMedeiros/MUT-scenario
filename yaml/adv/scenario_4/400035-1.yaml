@@ -46,18 +46,18 @@ story:
       motion: 1
       pos: 2
     nameRight: Yachiyo
-    textRight: A witch's nature is to attack people, after all...
+    textRight: A Witch's nature is to attack people, after all...
   - chara:
     - id: 100200
       motion: 200
     nameRight: Yachiyo
-    textRight: But what do you mean "at least one?" Are you @thinking of a specific
+    textRight: But what do you mean "at least one"? Are you @thinking of a specific
       person...?
   - chara:
     - eyeClose: 1
       id: 101700
     nameLeft: Mitama
-    textLeft: Yes, I am. ...But it's no more than speculation on my part.
+    textLeft: Yes, I am. ...But it's no more than speculation@on my part.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -70,7 +70,7 @@ story:
     - id: 301200
       motion: 100
     nameLeft: Meiyui
-    textLeft: Our main issue right now is how to deal with this @pesky witch.
+    textLeft: Our main issue right now is how to deal with this @pesky Witch.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -78,7 +78,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Leila
-    textRight: The witch that's not at the Mirror Mansion is still @young, right?
+    textRight: The Witch that's not at the Mirror Mansion is still @young, right?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -86,7 +86,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Seika
-    textRight: Yeah... So maybe we could manage to actually find it?
+    textRight: Yeah... So maybe we could manage to actually@find it?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -94,7 +94,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Nanaka
-    textLeft: That being said, we're still within the same bizarrely complex mirror
+    textLeft: That being said, we're still within the same bizarrely@complex Mirror
       Labyrinth...
   - chara:
     - id: 300500
@@ -108,7 +108,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Yachiyo
-    textRight: And it'll only be more trouble if the witch moves @again in the meantime.
+    textRight: And it'll only be more trouble if the Witch moves @again in the meantime.
   - autoTurnLast: 0.2
     chara:
     - id: 100200
@@ -121,7 +121,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Himika
-    textRight: But if that's all true, then our only hope is to kill it in one shot...!
+    textRight: But if that's all true, then our only hope is to kill it in@one shot...!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -129,7 +129,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Himika
-    textRight: Some sort of big BOOM, to take out the whole Labyrinth with it!
+    textRight: Some sort of big BOOM, to take out the whole@Labyrinth with it!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -145,7 +145,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Hazuki
-    textRight: Yeah. A bomb big enough to take out a witch is hard @to imagine in
+    textRight: Yeah. A bomb big enough to take out a Witch is hard @to imagine in
       the first place.
   - chara:
     - cheek: 0
@@ -154,7 +154,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Konoha
-    textLeft: It might be possible if you imbued something with magic...
+    textLeft: It might be possible if you imbued something with@magic...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -210,7 +210,7 @@ story:
     - id: 101700
       motion: 200
     nameLeft: Mitama
-    textLeft: On top of that, I did manage to make a barrier with Mirrors coins to
+    textLeft: On top of that, I did manage to make a barrier with@Mirrors coins to
       pen it in...
     turnChangeOut: fadeOut
   - chara:
@@ -334,7 +334,7 @@ story:
     - id: 301500
       motion: 300
     nameRight: Mito
-    textRight: Yeah-- probably.
+    textRight: Yeah, probably.
   - chara:
     - id: 301300
       motion: 0
@@ -388,7 +388,7 @@ story:
       pos: 0
     nameLeft: Mitama
     narrationEffect: out
-    textLeft: '---?!'
+    textLeft: '...?!'
   - chara:
     - id: 101700
     nameLeft: Mitama
@@ -420,7 +420,7 @@ story:
   - chara:
     - id: 101700
     nameLeft: Mitama
-    textLeft: But if we factor in that it's a freshly-hatched witch...
+    textLeft: But if we factor in that it's a freshly-hatched Witch...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -532,7 +532,7 @@ story:
   - chara:
     - id: 100200
     nameRight: Yachiyo
-    textRight: When you tamper with the coins' magic to detonate them...
+    textRight: When you tamper with the coins' magic to detonate@them...
   - chara:
     - id: 100200
       motion: 100
@@ -623,7 +623,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Yachiyo
-    textRight: --All right! We have a plan, so let's make it happen! There's no time
+    textRight: All right! We have a plan, so let's make it happen!@There's no time
       to waste!
   - chara:
     - id: 100200
@@ -641,7 +641,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Mitama
-    textLeft: I'm the only one who can do this, so everyone else should get away first!
+    textLeft: I'm the only one who can do this, so everyone else@should get away first!
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -800,7 +800,7 @@ story:
     - id: 302701
       motion: 300
     nameLeft: Hazuki
-    textLeft: Neither Yachiyo-san nor Mitama-san has come back yet...
+    textLeft: Neither Yachiyo-san nor Mitama-san has come back@yet...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -816,7 +816,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Konoha
-    textLeft: In the first place, we wouldn't be able to tell whether they failed
+    textLeft: In the first place, we wouldn't be able to tell@whether they failed
       to trigger the explosion...
   - chara:
     - cheek: 0
@@ -825,7 +825,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Nanaka
-    textLeft: Or whether they got caught in the blast without destroying the Labyrinth...
+    textLeft: Or whether they got caught in the blast without@destroying the Labyrinth...
   - autoTurnLast: 0.2
     flashEffect: flashWhite2
   - autoTurnLast: 0.01
@@ -843,7 +843,7 @@ story:
       lipSynch: 0
       motion: 400
     nameCenter: Nanaka
-    textCenter: '[chara:300501:effect_emotion_surprise_0][se:7226_shock]---?!'
+    textCenter: '[chara:300501:effect_emotion_surprise_0][se:7226_shock]...?!'
     turnChangeOut: whiteOut
   - autoTurnLast: 0.2
     chara:
@@ -866,7 +866,7 @@ story:
       pos: 0
     nameRight: Yachiyo
     surround: 7003_wind
-    textRight: '*Pant, pant*... Whew...'
+    textRight: '*Pant, pant*...@Whew...'
   - chara:
     - id: 101700
       mouthOpen: 1

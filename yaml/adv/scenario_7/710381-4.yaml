@@ -80,12 +80,12 @@ story:
       id: 305901
       motion: 200
       pos: 2
-    nameRight: Kush Iremei
+    nameRight: Kush Irina
     textRight: Same here, thank you too!
   - chara:
     - id: 305901
       motion: 300
-    nameRight: Kush Iremei
+    nameRight: Kush Irina
     textRight: I love this author's books,@I've been searching for them all this time.
   - autoTurnLast: 0.01
     bg: bg_adv_21401.jpg

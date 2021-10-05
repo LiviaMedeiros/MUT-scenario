@@ -52,9 +52,9 @@ story:
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: We descended as far as we could, and in the place we reached in the
+  - narration: We descended as far as we could, and@in the place we reached in the
       end...
-  - narration: We could feel a mass of magic, so concentrated it seemed to be melting,
+  - narration: We could feel a mass of magic, so concentrated it seemed@to be melting,
       pressing in on us like heat.
   - bgm: stop
     narration: By the time we sensed the danger, we were already...
@@ -151,7 +151,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Konoha
-    textLeft: Right. This is an illusion... though I'm not sure what's causing it.
+    textLeft: Right. This is an illusion... though I'm not sure@what's causing it.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -263,7 +263,7 @@ story:
       id: 302800
       lipSynch: 0
       motion: 400
-    textRight: '[chara:302800:effect_emotion_surprise_0][se:7226_shock]---?!'
+    textRight: '[chara:302800:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 302800
       lipSynch: 1
@@ -275,7 +275,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Konoha
-    textRight: Why are those copy-making familiars here?!
+    textRight: Why are those copy-making Familiars here?!
   - autoTurnLast: 0.2
     chara:
     - id: 302600
@@ -288,7 +288,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Hazuki
-    textRight: I-I don't know... They're only supposed to show up in the back areas...!
+    textRight: I-I don't know... They're only supposed to show up in@the back areas...!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -303,7 +303,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Ayame
-    textRight: I am NEVER gonna forgive these familiars!
+    textRight: I am NEVER gonna forgive these Familiars!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -458,7 +458,7 @@ story:
     textRight: Look at Ayame! We've got to do something...!
   - chara:
     - id: 302600
-    textLeft: There's no end to Mirrors familiars, no matter how many you kill.
+    textLeft: There's no end to Mirrors Familiars, no matter how@many you kill.
   - chara:
     - id: 302600
       motion: 200
@@ -617,7 +617,7 @@ story:
     - id: 302700
       lipSynch: 0
       motion: 400
-    textRight: '[chara:302700:effect_emotion_surprise_0][se:7226_shock]---?!'
+    textRight: '[chara:302700:effect_emotion_surprise_0][se:7226_shock]...?!'
   - autoTurnLast: 1
     chara:
     - cheek: -1
@@ -702,7 +702,7 @@ story:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 301200
-    textLeft: Of course, the fact that we were saved is all well and good...
+    textLeft: Of course, the fact that we were saved is all well@and good...
   - chara:
     - id: 301200
       motion: 200
@@ -722,7 +722,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Ayame
-    textRight: Have we found the witch?!
+    textRight: Have we found the Witch?!
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -730,7 +730,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Konoha
-    textLeft: I don't think this door leads to the core where the @witch is.
+    textLeft: I don't think this door leads to the core where the @Witch is.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

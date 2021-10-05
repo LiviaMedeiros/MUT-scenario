@@ -20,6 +20,7 @@ story:
     - effect: fadeout
       id: 100200
       voiceFullStop: fullvoice/section_101103/vo_full_101103-3-1
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

@@ -15,25 +15,25 @@ story:
     - id: 100201
       motion: 301
     nameCenter: Yachiyo
-    textCenter: '...@Hello? It''s been a while.'
+    textCenter: '...Hello? It''s been a while.'
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 0
       id: 100201
-    textCenter: '...@Have you heard about Mitama? I see. @...Yeah.'
+    textCenter: '...Have you heard about Mitama? I see.@...Yeah.'
   - chara:
     - id: 100201
       motion: 0
-    textCenter: Well, I've received some information on where she @was sighted before
+    textCenter: Well, I've received some information on where@she was sighted before
       disappearing.
   - chara:
     - id: 100201
-    textCenter: In Nishimachi, Daitou Ward. @...Yes. Swindlers' Town...
+    textCenter: In Nishimachi, Daito Ward.@...Yes. Swindlers' Town...
   - chara:
     - cheek: -1
       face: mtn_ex_030.exp.json
       id: 100201
-    textCenter: I'm not familiar with the area, so I'd like to ask you some things.
+    textCenter: I'm not familiar with the area, so I'd like to ask you@some things.
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json
@@ -73,7 +73,7 @@ story:
       id: 100201
       motion: 100
     nameRight: Yachiyo
-    textRight: There's not many people I could ask to show me around.
+    textRight: There's not many people I could ask to show me@around.
   - chara:
     - cheek: -1
       face: mtn_ex_030.exp.json
@@ -82,13 +82,13 @@ story:
     textRight: This "Swindlers' Town" place, though...
   - chara:
     - id: 100201
-    textRight: This might not be the best way to say it, but it's quite unsettling.
+    textRight: This might not be the best way to say it,@but it's quite unsettling.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302001
       motion: 0
-    textLeft: Yeah. Even people from Daitou don't come here all @that often...
+    textLeft: Yeah. Even people from Daito don't come here all @that often...
   - autoTurnLast: 1
     flashEffect: flashWhite1
     textClear: 1
@@ -168,7 +168,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Leila
-    textLeft: C'mon, Mito, you can't get distracted while you're walking.
+    textLeft: C'mon, Mito, you can't get distracted while you're@walking.
   - chara:
     - id: 301301
     textLeft: You've gotta look where you're going...
@@ -203,7 +203,7 @@ story:
   - chara:
     - id: 301501
       motion: 1
-    textRight: Oh, well, we were just picking these up while we walked.
+    textRight: Oh, well, we were just picking these up while we@walked.
   - chara:
     - id: 100201
       lipSynch: 0
@@ -231,13 +231,13 @@ story:
       id: 100201
       lipSynch: 0
       motion: 0
-    textLeft: '[chara:100201:effect_emotion_surprise_0][se:7226_shock]---?!'
+    textLeft: '[chara:100201:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 301301
       motion: 1
-    textRight: It seems like she left her shop with a lot of coins on hand...
+    textRight: It seems like she left her shop with a lot of coins@on hand...
   - chara:
     - id: 301301
     textRight: And when we came here, we found a ton of those @coins lying on the
@@ -309,7 +309,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 100201
-    textRight: But there's a strong chance that Mitama put those coins there for a
+    textRight: But there's a strong chance that Mitama put those@coins there for a
       reason.
   - autoTurnLast: 0.2
     chara:
@@ -354,7 +354,7 @@ story:
     textLeft: There's probably not enough time to put them all @back.
   - chara:
     - id: 100201
-    textLeft: If she was forming a circle with them, that circle was likely meant
+    textLeft: If she was forming a circle with them, that circle@was likely meant
       to surround something.
   - chara:
     - id: 100201
@@ -375,7 +375,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Mito
-    textRight: Why not use our phones' maps instead? They're portable and all.
+    textRight: Why not use our phones' maps instead?@They're portable and all.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -400,7 +400,7 @@ story:
     - id: 100201
       motion: 301
     nameNarration: Yachiyo
-    narration: Just as Ibuki-san's group said, the coins had been arranged in a single
+    narration: Just as Ibuki-san's group said,@the coins had been arranged in a single
       circle...
     narrationBg: ""
     narrationEffect: in
@@ -409,11 +409,11 @@ story:
   - chara:
     - id: 100201
       motion: 200
-    narration: It almost seemed like a cage to keep something trapped inside.
+    narration: It almost seemed like a cage@to keep something trapped inside.
   - chara:
     - eyeClose: 1
       id: 100201
-    narration: At the center was a single apartment building, and an abandoned factory...
+    narration: At the center was a single apartment building,@and an abandoned factory...
   - autoTurnLast: 2
     bg: bg_adv_21163.jpg
     bgm: stop
@@ -462,7 +462,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Mitama
-    textLeft: '---?!@[wait:1.0][chara:101700:lipSynch_1]Yachiyo-san...?!'
+    textLeft: '...?!@[wait:1.0][chara:101700:lipSynch_1]Yachiyo-san...?!'
   - bgm: bgm03_story12
     chara:
     - cheek: -1
@@ -560,7 +560,7 @@ story:
   - chara:
     - id: 302001
       motion: 100
-    textRight: The Coordinator's done me more than enough favors already!
+    textRight: The Coordinator's done me more than enough@favors already!
   - chara:
     - cheek: -1
       face: mtn_ex_014.exp.json

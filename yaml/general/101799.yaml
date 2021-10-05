@@ -35,7 +35,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_game_0002_10
-      textHome: In twilight, when the curtain of@night begins to fall,@Magical Girls
+      textHome: In twilight, when the curtain@of night begins to fall,@Magical Girls
         begin to stir...
   - autoTurnFirst: 6
     chara:
@@ -47,7 +47,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 100
-      textHome: I have to do my best to be prepared@in case someone gets injured.
+      textHome: I have to do my best to@be prepared in case@someone gets injured.
   - autoTurnFirst: 5
     chara:
     - cheek: 1
@@ -77,7 +77,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 400
-      textHome: I'm sorry, I tend to get uneasy@late at night.
+      textHome: I'm sorry, I tend to get@uneasy late at night.
   - autoTurnFirst: 4
     chara:
     - cheek: -1
@@ -207,7 +207,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_game_0002_05
-      textHome: Your Coordinator is so thankful@for all your patronage!
+      textHome: Your Coordinator is so@thankful for all@your patronage!
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
@@ -227,7 +227,7 @@ story:
       motion: 1
       pos: 1
       voice: vo_game_0002_06
-      textHome: I've got some really special items@in stock right now!
+      textHome: I've got some really special@items in stock right now!
   - autoTurnFirst: 3
     chara:
     - id: 101700
@@ -306,7 +306,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_game_0002_09
-      textHome: The shop's not very busy@around noon. It's the best time@to take it
+      textHome: The shop's not very busy@around noon. It's the best@time to take it
         easy♪
   - autoTurnFirst: 1
     chara:
@@ -319,7 +319,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 100
-      textHome: '*Giggle*@Shall we have lunch together?'
+      textHome: '*Giggle*@Shall we have lunch@together?'
   - autoTurnFirst: 3.5
     chara:
     - cheek: 2

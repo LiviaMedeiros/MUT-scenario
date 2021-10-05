@@ -20,7 +20,7 @@ story:
     narrationEffect: out
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100100
       motion: 400
       mouthOpen: 1
@@ -327,8 +327,10 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100100
+      live2dName: live2d_0
       motion: 400
       mouthOpen: 1
+      pos: 2
     flashEffect: explosion
     nameLeft: ""
     textLeft: …
@@ -347,6 +349,7 @@ story:
     - cheek: 0
       face: mtn_ex_060.exp.json
       id: 100100
+      live2dName: live2d_0
       motion: 300
       mouthOpen: 1
     flashEffect: flashWhite2
@@ -365,6 +368,7 @@ story:
       name: sprite_0
     - effect: fadeout
       id: 100100
+      live2dName: live2d_0
     item:
     - path: resource/scenario/img/6211_winch_emblem.png
       visible: hide
@@ -377,13 +381,19 @@ story:
   - narration: '...What? ...I was...'
   - narration: I was just talking...@Talking to Mitama...
   - narration: '...And then...all of a sudden...@...Just like that...'
-  - narration: Wait, what happened?!
-  - bg: bg_adv_91181.jpg
-    bgChangeEffect: fade
-    chara:
+  - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100100
+      live2dName: live2d_0
+      motion: 0
+      pos: 2
+    narration: Wait, what happened?!
+  - bg: bg_adv_91181.jpg
+    bgChangeEffect: fade
+    chara:
+    - id: 100100
+      live2dName: live2d_0
       motion: 300
       pos: 2
     narrationEffect: out
@@ -393,11 +403,13 @@ story:
       face: mtn_ex_050.exp.json
       id: 100100
       lipSynch: 0
+      live2dName: live2d_0
       motion: 1
     textRight: '[chara:100100:lipSynch_0](Is this a Labyrinth?!)'
   - chara:
     - id: 100100
       lipSynch: 0
+      live2dName: live2d_0
     textRight: '[chara:100100:lipSynch_0](Something appeared in front@of me... Was
       that a Familiar...?)'
   - chara:
@@ -405,14 +417,16 @@ story:
       face: mtn_ex_030.exp.json
       id: 100100
       lipSynch: 0
+      live2dName: live2d_0
       motion: 1
     textRight: '[chara:100100:lipSynch_0](If it was...@Then it must have brought me
       here...)'
   - chara:
     - id: 100100
       lipSynch: 0
+      live2dName: live2d_0
     textRight: '[chara:100100:lipSynch_0](...What''s going on...?)'
-  - nameLeft: ???
+  - nameLeft: Iroha?
     nameNarration: ???
     narration: Hehe...hehehehe...
     narrationEffect: in
@@ -422,6 +436,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100100
       lipSynch: 1
+      live2dName: live2d_0
       motion: 0
     narrationEffect: out
     se: 7226_shock
@@ -429,12 +444,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100191
+      id: 100100
+      live2dName: live2d_1
       motion: 301
       pos: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100100
+      live2dName: live2d_0
       motion: 401
     nameLeft: Iroha?
     textLeft: Hehehehehehe!
@@ -442,12 +459,14 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100100
+      live2dName: live2d_0
     textRight: No way...
   - bgm: bgm01_anime08
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100100
+      live2dName: live2d_0
       motion: 400
       mouthOpen: 1
     textRight: Is that...me?!
@@ -458,10 +477,12 @@ story:
       effect: shake
       face: mtn_ex_060.exp.json
       id: 100100
+      live2dName: live2d_0
       motion: 400
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100191
+      id: 100100
+      live2dName: live2d_1
       motion: 100
       mouthOpen: 1
     flashEffect: flashRed1
@@ -472,28 +493,36 @@ story:
   - chara:
     - id: 100100
       lipSynch: 0
+      live2dName: live2d_0
     textRight: '[chara:100100:lipSynch_0](Sh-she attacked me...@Why would she do that?!)'
   - chara:
     - id: 100100
       lipSynch: 0
+      live2dName: live2d_0
     textRight: '[chara:100100:lipSynch_0](And are those...more fakes?)'
-  - nameLeft: Iroha?
+  - chara:
+    - id: 100100
+      live2dName: live2d_1
+    nameLeft: Iroha?
     textLeft: '*Chuckle*'
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
       id: 100100
       lipSynch: 1
+      live2dName: live2d_0
       motion: 301
     textRight: Ngh...!
   - chara:
     - id: 100100
       lipSynch: 0
+      live2dName: live2d_0
     textRight: '[chara:100100:lipSynch_0](I can tell my attacks are hitting@her...so
       this... This must be real!)'
   - chara:
     - id: 100100
       lipSynch: 0
+      live2dName: live2d_0
     textRight: '[chara:100100:lipSynch_0](This must be some kind of illusion,@making
       me think I can see myself...yeah...)'
   - chara:
@@ -501,14 +530,17 @@ story:
       face: mtn_ex_021.exp.json
       id: 100100
       lipSynch: 0
+      live2dName: live2d_0
       motion: 401
     - face: mtn_ex_011.exp.json
-      id: 100191
+      id: 100100
+      live2dName: live2d_1
     textRight: '[chara:100100:lipSynch_0](Stop trying to make sense of it!@I''ve got
       to fight back, or else...)'
   - chara:
     - id: 100100
       lipSynch: 0
+      live2dName: live2d_0
     textRight: '[chara:100100:lipSynch_0](Or else I''ll be dead meat...!)'
   - autoTurnLast: 2
     turnChangeIn: fadeIn

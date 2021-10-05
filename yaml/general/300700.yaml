@@ -200,24 +200,25 @@ story:
     chara:
     - id: 300700
       motion: 300
-      textHome: I'm still too uncertain to say for sure...@But, I want to be here.
+      textHome: I'm still too uncertain to say for sure...@But,
   - autoTurnFirst: 2.8
     chara:
     - id: 300700
       motion: 200
-      textHome: Because I think that as long as@I'm beside someone dear to me,
+      textHome: I want to be here.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300700
       motion: 0
-      textHome: I'll be able to put one foot@firmly in front of the other.
+      textHome: Because I think that as long as@I'm beside someone dear to me,
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 300700
+      textHome: I'll be able to put one foot@firmly in front of the other.
   - chara:
     - id: 300700
       textHomeStatus: Clear

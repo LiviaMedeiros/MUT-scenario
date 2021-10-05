@@ -473,6 +473,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 200
       pos: 0
     nameLeft: Emiri
@@ -494,12 +495,14 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 0
     textLeft: Hm...?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 100
     textLeft: Hey, is that Tsurupi? Whoa! It's been@FOREVER! How are ya?
   - chara:
@@ -532,6 +535,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 400
       pos: 0
     nameLeft: Emiri
@@ -541,17 +545,20 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 0
       pos: 0
       posX: -50
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300690
+      id: 300600
+      live2dName: live2d_1
       motion: 0
       pos: 1
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300699
+      id: 300600
+      live2dName: live2d_2
       motion: 0
       pos: 2
       posX: 50
@@ -562,6 +569,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300600
+      live2dName: live2d_0
       motion: 400
     nameLeft: Emiri 2
     textLeft: Yeah, no way, no way!
@@ -569,14 +577,16 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300690
+      id: 300600
+      live2dName: live2d_1
       motion: 100
     nameCenter: Emiri 3
     textCenter: We're totally friends!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300699
+      id: 300600
+      live2dName: live2d_2
       motion: 200
     nameRight: Emiri 4
     textRight: Like, didn't I say before? For real don't@call me "sensei" or whatever.

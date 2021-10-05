@@ -151,7 +151,8 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303190
+      id: 303100
+      live2dName: live2d_1
       motion: 100
       pos: 0
     nameLeft: Rika
@@ -235,17 +236,20 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303190
+      id: 303100
+      live2dName: live2d_1
       motion: 300
       pos: 1
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303191
+      id: 303100
+      live2dName: live2d_2
       motion: 400
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 100
       pos: 2
     nameCenter: Rika?
@@ -256,11 +260,14 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 303190
-    - effect: fadeout
-      id: 303191
+      id: 303100
+      live2dName: live2d_1
     - effect: fadeout
       id: 303100
+      live2dName: live2d_2
+    - effect: fadeout
+      id: 303100
+      live2dName: live2d_0
     textClear: 1
   - chara:
     - cheek: 0
@@ -298,17 +305,20 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303190
+      id: 303100
+      live2dName: live2d_1
       motion: 300
       pos: 1
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303191
+      id: 303100
+      live2dName: live2d_2
       motion: 400
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 100
       pos: 2
     nameCenter: Rika?
@@ -319,11 +329,14 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 303190
-    - effect: fadeout
-      id: 303191
+      id: 303100
+      live2dName: live2d_1
     - effect: fadeout
       id: 303100
+      live2dName: live2d_2
+    - effect: fadeout
+      id: 303100
+      live2dName: live2d_0
     textClear: 1
   - chara:
     - cheek: 0
@@ -381,18 +394,21 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303190
+      id: 303100
       lipSynch: 0
+      live2dName: live2d_1
       motion: 0
       pos: 1
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 303191
+      id: 303100
+      live2dName: live2d_2
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 0
       pos: 2
     nameCenter: Rika?
@@ -400,11 +416,14 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 303190
-    - effect: fadeout
-      id: 303191
+      id: 303100
+      live2dName: live2d_1
     - effect: fadeout
       id: 303100
+      live2dName: live2d_2
+    - effect: fadeout
+      id: 303100
+      live2dName: live2d_0
     textClear: 1
   - chara:
     - cheek: 0
@@ -459,6 +478,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
@@ -482,6 +502,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303100
+      live2dName: live2d_0
     textLeft: What? Ren...
   - chara:
     - cheek: 0
@@ -515,6 +536,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 100
       pos: 0
     nameLeft: Rika
@@ -538,11 +560,13 @@ story:
   - chara:
     - id: 303100
       lipSynch: 0
+      live2dName: live2d_0
     textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 1
     textLeft: Um...who are you?
   - nameNarration: Iroha
@@ -556,6 +580,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303100
+      live2dName: live2d_0
       motion: 0
       pos: 1
     nameCenter: Rika
@@ -565,25 +590,31 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 303100
+      live2dName: live2d_0
     textCenter: Before I got here I was wondering how my@makeup looked...
   - chara:
     - id: 303100
+      live2dName: live2d_0
       motion: 1
     textCenter: And there's tons of mirrors in this place,@ya know?
   - chara:
     - id: 303100
+      live2dName: live2d_0
     textCenter: So I thought I'd just do a little check in@one of them.
   - chara:
     - id: 303100
+      live2dName: live2d_0
     textCenter: Then I got kinda absorbed, checking one@little thing after another.
   - chara:
     - id: 303100
+      live2dName: live2d_0
       motion: 0
     textCenter: So I guess I must've stared into it@really deeply.
   - autoTurnLast: 0.01
     chara:
     - effect: fadeout
       id: 303100
+      live2dName: live2d_0
     turnChangeIn: fadeIn
   - bg: black
     bgm: bgm03_story13

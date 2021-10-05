@@ -34,14 +34,14 @@ story:
       motion: 100
       pos: 0
     nameLeft: Mitama
-    textLeft: Yes. My magic's all topped up, and I'm feeling juuust fine.
+    textLeft: Yes. My magic's all topped up, and I'm feeling@juuust fine.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101700
       pos: 0
     nameLeft: Mitama
-    textLeft: Honestly, when I was holding the witch back by myself...
+    textLeft: Honestly, when I was holding the Witch back@by myself...
   - chara:
     - id: 101700
       motion: 300
@@ -82,7 +82,7 @@ story:
   - chara:
     - id: 100201
     nameRight: Yachiyo
-    textRight: Feel free to tell us what you know about Endless Mirrors some time.
+    textRight: Feel free to tell us what you know about@Endless Mirrors some time.
   - autoTurnLast: 0.2
     bgm: stop
     chara:
@@ -103,7 +103,7 @@ story:
       motion: 300
     nameLeft: Mitama
     textLeft: There's something that I think.
-  - nameRight: 'Yachiyo '
+  - nameRight: Yachiyo
     textRight: Mitama?
   - chara:
     - id: 101700
@@ -160,7 +160,7 @@ story:
   - chara:
     - id: 100201
     nameRight: Yachiyo
-    textRight: So with all this about 'playing house', and about a specific person
+    textRight: So with all this about 'playing house', and about@a specific person
       dying...
     turnChangeOut: fadeOut
     turnChangeOutTime: 1
@@ -179,7 +179,7 @@ story:
     - id: 101700
       motion: 200
     nameLeft: Mitama
-    textLeft: But I believe that Endless Mirrors used to be a @Magical Girl from Daitou.
+    textLeft: But I believe that Endless Mirrors used to be a @Magical Girl from Daito.
   - chara:
     - cheek: -1
       face: mtn_ex_051.exp.json
@@ -187,7 +187,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Yachiyo
-    textRight: From Daitou...?
+    textRight: From Daito...?
   - chara:
     - id: 101700
       motion: 0
@@ -204,7 +204,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Yachiyo
-    textRight: But I imagine you still have a reason to believe it was her.
+    textRight: But I imagine you still have a reason to believe@it was her.
   - chara:
     - eyeClose: 1
       id: 101700
@@ -214,13 +214,13 @@ story:
     bg: bg_adv_17093.jpg
     turnChangeIn: fadeIn
   - nameNarration: Mitama
-    narration: It started when I became a Coordinator, @and learned about witch transformation.
+    narration: It started when I became a Coordinator, @and learned about Witch transformation.
     narrationBg: bg_adv_17093.jpg
     narrationCoverOpacity: 110
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: While I was looking into Magical Girls who'd gone missing in Kamihama,
-      @@I heard the name "Mikoto Sena" from Kanagi, and began investigating her.
+  - narration: While I was looking into Magical Girls@who'd gone missing in Kamihama,
+      @I heard the name "Mikoto Sena" from Kanagi,@and began investigating her.
   - autoTurnLast: 0.01
     bg: bg_adv_21393.jpg
     narrationEffect: out
@@ -230,15 +230,15 @@ story:
     narrationBg: bg_adv_21393.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: There was a single woman standing in front of Mikoto Sena's gravestone,
-      @where she'd been buried in Daitou's municipal graveyard. @I knew right away
-      that the woman was her mother.
+  - narration: There was a single woman standing@in front of Mikoto Sena's gravestone,@where
+      she'd been buried in Daito's municipal graveyard.@I knew right away that the
+      woman was her mother.
   - autoTurnLast: 0.01
     bg: bg_adv_17061.jpg
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameNarration: Mitama
-    narration: I told her mother that I'd been a close friend of her daughter, and
+    narration: I told her mother that@I'd been a close friend of her daughter,@and
       she invited me to her house. @She had a small Buddhist altar there.
     narrationBg: bg_adv_17061.jpg
     narrationEffect: in
@@ -250,21 +250,21 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameNarration: Mitama
-    narration: She'd written a few things about her time as a Magical Girl inside
-      it, @@but the majority of what she wrote was about her ideals and her regrets.
+    narration: She'd written a few things about@her time as a Magical Girl inside
+      it, @but the majority of what she wrote@was about her ideals and her regrets.
     narrationBg: bg_adv_17112.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: About how her household had fallen apart because of her wish. @About
-      how she wanted to have been raised by a more proper mother and father. @About
-      how she couldn't believe that her mother had run away..
+  - narration: About how her household had fallen apart@because of her wish. @About
+      how she wanted to have been raised by@a more proper mother and father. @About
+      how she couldn't believe that@her mother had run away...
   - autoTurnLast: 0.01
     bg: black
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameNarration: Mitama
-    narration: It seemed that she had been drawing out an ideal family in her head,
-      @and convincing herself that her real-world family were imposters.
+    narration: It seemed that she had been@drawing out an ideal family in her head,
+      @and convincing herself that her real-world family@were imposters.
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -288,7 +288,7 @@ story:
   - chara:
     - id: 101700
     nameLeft: Mitama
-    textLeft: Of course, she didn't literally write any of it down in those words.
+    textLeft: Of course, she didn't literally write any of it down in@those words.
     turnChangeOut: fadeOut
   - chara:
     - id: 101700
@@ -350,7 +350,7 @@ story:
     - id: 101700
       motion: 100
     nameLeft: Mitama
-    textLeft: '...if you were a witch that wanted to prevent people from seeing you
+    textLeft: '...if you were a Witch that wanted to prevent people@from seeing you
       as dangerous, right?'
   - chara:
     - cheek: -1
@@ -398,7 +398,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Yachiyo
-    textRight: You'd know whether it was Mikoto Sena based on @who the witch cursed?
+    textRight: You'd know whether it was Mikoto Sena based on @who the Witch cursed?
   - chara:
     - id: 101700
     nameLeft: Mitama
@@ -420,7 +420,7 @@ story:
     - id: 101700
       motion: 200
     nameLeft: Mitama
-    textLeft: If there was one person that the witch would resent, @despite being
+    textLeft: If there was one person that the Witch would resent, @despite being
       so reclusive...
   - chara:
     - id: 101700
@@ -437,7 +437,7 @@ story:
   - chara:
     - id: 100201
     nameRight: Yachiyo
-    textRight: '"The fact that her mother lives in Swindlers'' Town is what made your
+    textRight: '"The fact that her mother lives in Swindlers'' Town@is what made your
       hypothesis into reality."'
   - chara:
     - cheek: 0
@@ -464,7 +464,7 @@ story:
   - chara:
     - id: 100201
     nameRight: Yachiyo
-    textRight: The whole thing strikes me as a lot of circumstantial evidence being
+    textRight: The whole thing strikes me as a lot of circumstantial@evidence being
       forced together.
   - chara:
     - id: 100201
@@ -478,7 +478,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Mitama
-    textLeft: I'm sorry, @Yachiyo-san. I just felt the need to let it all out...
+    textLeft: I'm sorry, Yachiyo-san.@I just felt the need to let it all out...
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json
@@ -524,7 +524,7 @@ story:
   - chara:
     - id: 101700
     nameLeft: Mitama
-    textLeft: It would be best to resume activity after getting the whole situation
+    textLeft: It would be best to resume activity after getting@the whole situation
       sorted out for ourselves.
   - chara:
     - id: 100201
@@ -535,7 +535,7 @@ story:
     - id: 101700
       motion: 0
     nameLeft: Mitama
-    textLeft: I'll contact everyone and let them know some time soon~.
+    textLeft: I'll contact everyone and let them know some time@soon~.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -562,14 +562,14 @@ story:
     narrationCoverOpacity: 180
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: If that date in the notebook really is the date when she became a witch,
+  - narration: If that date in the notebook@really is the date when she became a Witch,
       @I'd be horrified...
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json
       id: 101700
       motion: 300
-    narration: ' Because the day that she became a witch...'
+    narration: ' Because the day that she became a Witch...'
   - chara:
     - eyeClose: 1
       id: 101700

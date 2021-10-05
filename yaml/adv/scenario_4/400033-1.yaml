@@ -46,7 +46,7 @@ story:
   - chara:
     - id: 101700
       motion: 200
-    textLeft: You see, one of the Mirror Witch's familiars reached maturity in this
+    textLeft: You see, one of the Mirror Witch's Familiars reached@maturity in this
       area.
   - chara:
     - cheek: 0
@@ -55,13 +55,13 @@ story:
     textLeft: We can't leave a new Mirror Witch's Labyrinth unattended...
   - chara:
     - id: 101700
-    textLeft: So as soon as I realized what happened, I tried to inform everyone.
+    textLeft: So as soon as I realized what happened, I tried to@inform everyone.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101700
       motion: 300
-    textLeft: But the original witch's signature suddenly got @larger...
+    textLeft: But the original Witch's signature suddenly got @larger...
   - chara:
     - id: 101700
     textLeft: I had to go and head it off right away.
@@ -70,7 +70,7 @@ story:
       face: mtn_ex_021.exp.json
       id: 100201
       motion: 301
-    textRight: Its signature got larger-- @does that mean it was moving this way?
+    textRight: Its signature got larger...@Does that mean it was moving this way?
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -112,7 +112,7 @@ story:
   - chara:
     - id: 301401
       motion: 300
-    textLeft: But Endless Mirrors was still over in the mirror @mansion just a while
+    textLeft: But Endless Mirrors was still over in the Mirror @Mansion just a while
       ago...
   - chara:
     - id: 301301
@@ -120,7 +120,7 @@ story:
     textCenter: Yeah.
   - chara:
     - id: 301301
-    textCenter: But the Coordinator thought the Mirror Witch was moving closer...
+    textCenter: But the Coordinator thought the Mirror Witch was@moving closer...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -150,10 +150,10 @@ story:
       motion: 300
     - id: 301501
       motion: 0
-    textLeft: But I'm sure I felt the Mirror Witch's magic signature gettting stronger.
+    textLeft: But I'm sure I felt the Mirror Witch's magic signature@getting stronger.
   - chara:
     - id: 101700
-    textLeft: And if it found out about Swindlers' Town thanks to @the new witch it
+    textLeft: And if it found out about Swindlers' Town thanks to @the new Witch it
       birthed...
   - chara:
     - cheek: 0
@@ -173,11 +173,11 @@ story:
   - chara:
     - id: 100201
       motion: 100
-    textRight: As far as the Endless Mirrors that Ibuki-san's group mentioned is concerned...
+    textRight: As far as the Endless Mirrors that Ibuki-san's group@mentioned is concerned...
   - chara:
     - id: 100201
-    textRight: It makes sense if you think of it as 'the Labyrinth growing large enough
-      to reach Daitou'.
+    textRight: It makes sense if you think of it as 'the Labyrinth@growing large enough
+      to reach Daito'.
   - chara:
     - cheek: -1
       eyeClose: 1
@@ -210,7 +210,7 @@ story:
   - chara:
     - id: 101700
       motion: 200
-    textLeft: On top of that, I did manage to make a barrier with Mirrors coins to
+    textLeft: On top of that, I did manage to make a barrier with@Mirrors coins to
       pen it in...
   - chara:
     - id: 101700
@@ -297,20 +297,20 @@ story:
     textLeft: So by lining a large number of them up...
   - chara:
     - id: 101700
-    textLeft: I was able to trick the witch into thinking that its @allies were forming
+    textLeft: I was able to trick the Witch into thinking that its @allies were forming
       a wall outside.
   - chara:
     - id: 101700
       motion: 200
     - id: 302001
       motion: 0
-    textLeft: If the coins were removed... the effect should be starting to wear off
+    textLeft: If the coins were removed... the effect should be@starting to wear off
       right about now.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101700
-    textLeft: Do you think there'll be enough time to pen it in again...?
+    textLeft: Do you think there'll be enough time to pen it in@again...?
   - chara:
     - cheek: -1
       face: mtn_ex_030.exp.json
@@ -318,10 +318,10 @@ story:
       motion: 301
       pos: 2
     nameRight: Yachiyo
-    textRight: We'll still need someone to constantly maintain that barrier.
+    textRight: We'll still need someone to constantly maintain@that barrier.
   - chara:
     - id: 100201
-    textRight: Are we supposed to just do the same thing if another familiar matures
+    textRight: Are we supposed to just do the same thing if@another familiar matures
       elsewhere?
   - autoTurnLast: 0.2
     chara:
@@ -390,7 +390,7 @@ story:
       idea to me...
   - chara:
     - id: 101700
-    textLeft: I feel like I can find a chance for us to defeat the witch, though.
+    textLeft: I feel like I can find a chance for us to defeat@the Witch, though.
   - chara:
     - id: 101700
       motion: 0
@@ -455,7 +455,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Leila
-    textLeft: But when you think about it, we're the first Magical Girls to actually
+    textLeft: But when you think about it, we're the first Magical@Girls to actually
       see the Mirror Witch.
   - chara:
     - cheek: 0
@@ -502,7 +502,7 @@ story:
   - chara:
     - id: 300500
     nameLeft: Nanaka
-    textLeft: More familiars?!@[chara:300500:lipSynch_0][wait:0.8][chara:300500:cheek_-1][chara:300500:face_mtn_ex_050.exp.json:motion_0][chara:300500:lipSynch_1]...No,
+    textLeft: More Familiars?!@[chara:300500:lipSynch_0][wait:0.8][chara:300500:cheek_-1][chara:300500:face_mtn_ex_050.exp.json:motion_0][chara:300500:lipSynch_1]...No,
       they don't seem like it.
   - chara:
     - cheek: -1

@@ -241,42 +241,46 @@ story:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 300600
-      textHome: Ah, somethin' HUGE just came to me...@Wanna know?
+      textHome: Phew... I'm like, getting super smart!
   - autoTurnFirst: 1
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300600
       motion: 0
+      textHome: Ah, somethin' HUGE just came to me...@Wanna know?
   - autoTurnFirst: 2
     chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 300600
       motion: 400
-      textHome: Don't use any money,@and you'll be rich in no time!
+      textHome: Ah, somethin' HUGE just came to me...@Wanna know?
   - autoTurnFirst: 1.5
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 300600
-      textHome: I'm like, a genius!@That's the secret to winning like,@everything,
-        isn't it?!
+      textHome: Ah, somethin' HUGE just came to me...@Wanna know?
   - autoTurnFirst: 2.5
     chara:
     - id: 300600
       motion: 1
+      textHome: Don't use any money,@and you'll be rich in no time!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       id: 300600
       motion: 200
+      textHome: Don't use any money,@and you'll be rich in no time!
   - autoTurnFirst: 4
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 300600
       motion: 100
+      textHome: I'm like, a genius!@That's the secret to winning like,@everything,
+        isn't it?!
   - chara:
     - id: 300600
       textHomeStatus: Clear

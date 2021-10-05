@@ -31,7 +31,7 @@ story:
     textRight: It's basically the same.
   - chara:
     - id: 301200
-    textRight: The witch still stubbornly refuses to move, and still shows no sign
+    textRight: The Witch still stubbornly refuses to move, and still@shows no sign
       of attacking people.
   - chara:
     - id: 300500
@@ -49,7 +49,7 @@ story:
     - eyeClose: 0
       id: 300500
       motion: 1
-    textLeft: Do you think that there can be several copies of the same soul?
+    textLeft: Do you think that there can be several copies of the@same soul?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -58,7 +58,7 @@ story:
     textRight: An even more sudden question...
   - chara:
     - id: 301200
-    textRight: If you'd like to ask pointless riddles, I suggest doing it another
+    textRight: If you'd like to ask pointless riddles, I suggest doing@it another
       time.
   - chara:
     - id: 300500
@@ -113,7 +113,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 300500
-    textLeft: The more floors we descend, the stronger the impurities become...
+    textLeft: The more floors we descend, the stronger the@impurities become...
     turnChangeOut: fadeOut
   - chara:
     - id: 301200
@@ -133,14 +133,14 @@ story:
     textRight: '...Don''t tell me. Is this what you meant?'
   - chara:
     - id: 301200
-    textRight: Are you trying to say that there's several copies of Mirrors?
+    textRight: Are you trying to say that there's several copies of@Mirrors?
   - chara:
     - id: 300500
       motion: 300
     textLeft: Indeed.
   - chara:
     - id: 300500
-    textLeft: It's hardly noticeable most of the time, but that's exactly how sinister
+    textLeft: It's hardly noticeable most of the time, but that's@exactly how sinister
       this feels.
   - chara:
     - id: 300500
@@ -233,7 +233,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300500
       motion: 0
-    textLeft: Well, you could have notified us of your arrival somewhat sooner.
+    textLeft: Well, you could have notified us of your arrival@somewhat sooner.
   - chara:
     - cheek: -1
       face: mtn_ex_020.exp.json
@@ -310,7 +310,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Nanaka
-    textLeft: I believe that particular scent is coming from *you*, Akira-san.
+    textLeft: I believe that particular scent is coming from *you*,@Akira-san.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -322,7 +322,7 @@ story:
   - chara:
     - id: 300500
       motion: 0
-    textLeft: You familiars...
+    textLeft: You Familiars...
   - chara:
     - id: 300500
     textLeft: Don't you ever dare impersonate those two again...!
@@ -360,7 +360,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Meiyui
-    textRight: They couldn't completely hide the signature they @gave off as familiars...
+    textRight: They couldn't completely hide the signature they @gave off as Familiars...
   - chara:
     - id: 301200
     textRight: I suppose that's just how far they'd matured already.
@@ -385,14 +385,14 @@ story:
       id: 301200
       lipSynch: 0
       motion: 400
-    textRight: '---?!'
+    textRight: '...?!'
   - chara:
     - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300500
       lipSynch: 0
       motion: 400
-    textLeft: '---?!'
+    textLeft: '...?!'
   - bgm: bgm05_event08
     chara:
     - cheek: 0
@@ -441,8 +441,8 @@ story:
       id: 801000
       motion: 0
       pos: 2
-    narration: '"If anyone starts makin'' noise, shut ''em up! If you find any valuables,
-      bring ''em over here!"'
+    narration: '"If anyone starts makin'' noise, shut ''em up!@If you find any valuables,@bring
+      ''em over here!"'
     narrationEffect: in
   - chara:
     - id: 801100

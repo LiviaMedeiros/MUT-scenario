@@ -8,14 +8,12 @@ story:
       face: mtn_ex_010.exp.json
       id: 101700
       motion: 1
-      mouthOpen: 0
       pos: 0
       voiceFull: fullvoice/section_101102/vo_full_101102-4-1
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100102
       motion: 1
-      mouthOpen: 0
       pos: 2
     nameLeft: Mitama
     nameRight: Iroha
@@ -124,11 +122,8 @@ story:
     turnChangeOut: fadeOut
     turnEffect: ef_adv_10
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 100102
+    - id: 100102
       lipSynch: 0
-      mouthOpen: 0
       voiceFull: fullvoice/section_101102/vo_full_101102-4-13
       voiceFullStop: fullvoice/section_101102/vo_full_101102-4-12
     textRight: (I can see it so much more clearly now.)
@@ -142,6 +137,7 @@ story:
       pos: 0
       soulGem: 0
       tear: 0
+    textClear: 1
     voiceFullStop: fullvoice/section_101102/vo_full_101102-4-13
   - chara:
     - cheek: 0
@@ -165,10 +161,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 101502
       motion: 100
-      mouthOpen: 0
-      tear: 0
+      voiceFullStop: fullvoice/section_101102/vo_full_101102-4-15
     textLeft: '...'
-    voiceFullStop: fullvoice/section_101102/vo_full_101102-4-15
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -193,8 +187,8 @@ story:
       motion: 300
       mouthOpen: 0
       tear: 0
+      voiceFullStop: fullvoice/section_101102/vo_full_101102-4-18
     textLeft: '...'
-    voiceFullStop: fullvoice/section_101102/vo_full_101102-4-18
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -226,8 +220,8 @@ story:
       motion: 0
       mouthOpen: 0
       tear: 0
+      voiceFullStop: fullvoice/section_101102/vo_full_101102-4-22
     textLeft: '...'
-    voiceFullStop: fullvoice/section_101102/vo_full_101102-4-22
   - chara:
     - cheek: 0
       id: 100102
@@ -238,7 +232,8 @@ story:
     chara:
     - effect: fadeout
       id: 101502
-    voiceFullStop: fullvoice/section_101102/vo_full_101102-4-24
+      voiceFullStop: fullvoice/section_101102/vo_full_101102-4-24
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
