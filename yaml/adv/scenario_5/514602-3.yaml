@@ -252,7 +252,7 @@ story:
     - id: 302300
       motion: 0
     nameLeft: Aimi
-    textLeft: Or rather, what's the point of telling this to the lord of the castle...
+    textLeft: Or rather, what's the point of telling this to the@lord of the castle...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

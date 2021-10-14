@@ -119,7 +119,7 @@ story:
     - id: 111600
       motion: 0
     nameLeft: Kanagi
-    textLeft: I unfortunately haven't reached that a myself...
+    textLeft: I unfortunately haven't reached that myself...
   - chara:
     - id: 111600
     nameLeft: Kanagi
@@ -352,7 +352,7 @@ story:
   - chara:
     - id: 111000
     nameRight: Momoko
-    textRight: The Coordinator entrusted her "prayer power" to me...
+    textRight: The Coordinator entrusted her "prayer power"@to me...
   - chara:
     - id: 111000
       motion: 200

@@ -467,19 +467,20 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3047_00_29
-      textHome: Whoa, as expected of Endless Mirrors, @it’s like a mirage.
+      textHome: Hokuyo Ward is treated as the@countryside of Kamihama isn’t it?
   - autoTurnFirst: 3.8
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 304700
       motion: 0
-      textHome: Have you ever seen a real mirage?
+      textHome: But since I’ve lived in@the real countryside before,
   - autoTurnFirst: 5.4
     chara:
     - id: 304700
       motion: 100
-      textHome: They can be impressive enough to @make you cry.
+      textHome: I think it’s pretty urban since@you don’t see tanuki roadkill.@So
+        it seems a lot like the city to me.
   - chara:
     - id: 304700
       textHomeStatus: Clear

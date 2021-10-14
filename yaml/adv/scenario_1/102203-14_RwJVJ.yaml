@@ -91,7 +91,7 @@ story:
     nameLeft: ""
     nameRight: ???
     textBg: shout
-    textLeft: GaaAAAa!!
+    textLeft: ∵GaaAAAa!!
   - chara:
     - id: 102400
       motion: 100
