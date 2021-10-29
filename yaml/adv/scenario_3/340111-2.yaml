@@ -14,7 +14,8 @@ story:
       split up!
   - narration: So I've been walking around the city,@trying to find them...@But this
       whole place is crazy!
-  - narration: My hair won't stop standing on end!
+  - bgm: stop
+    narration: My hair won't stop standing on end!
   - bg: bg_adv_47104.jpg
     bgm: bgm01_anime12
     chara:
@@ -37,8 +38,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 401101
       motion: 200
-    textRight: There ya are! Uuuh...what are you,[chara:401101:lipSynch_0][wait:1.0][chara:401101:cheek_0][chara:401101:face_mtn_ex_030.exp.json][chara:401101:lipSynch_1]
-      a@Familiar?
+    textRight: There ya are![chara:401101:lipSynch_0][wait:1.0][chara:401101:cheek_0][chara:401101:face_mtn_ex_030.exp.json][chara:401101:lipSynch_1]
+      Uuuh...what are you,@a Familiar?
   - chara:
     - cheek: 0
       effect: ef_adv_05
@@ -54,14 +55,10 @@ story:
     textBg: shout
     textLeft: 縺ｫ繧ゅж荳ｧ螳!!
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401100
+    - id: 401100
     textRight: I'll make this quick!
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401100
+    - id: 401100
       motion: 200
     flashEffect: flashWhite2
     textRight: '[flashEffect:flashWhite2][surround:4011A04]"Limiti Esterni!"'
@@ -80,6 +77,7 @@ story:
       id: 7104
       name: sprite_0
     se: 3102_enemy_dead
+    textClear: 1
   - autoTurnLast: 0.5
     bg: bg_adv_19041.jpg
     bgChangeEffect: exitWitchSpace
@@ -94,6 +92,8 @@ story:
       pos: 1
     nameCenter: Kazumi
     textCenter: Victory!
+  - autoTurnLast: 0.01
+    textClear: 1
   - chara:
     - cheek: 0
       effect: ef_adv_05
@@ -109,9 +109,7 @@ story:
       id: 401101
     textCenter: Huh?
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401101
+    - id: 401101
       lipSynch: 0
       motion: 300
     textCenter: (Aw, man... I'm starving...)
@@ -121,9 +119,7 @@ story:
       lipSynch: 0
     textCenter: '*Sigh*'
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401101
+    - id: 401101
       lipSynch: 0
       motion: 0
     textCenter: '...'
@@ -134,9 +130,7 @@ story:
       id: 401101
     textCenter: Hm?
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 401101
+    - id: 401101
       motion: 400
     textCenter: …MMM!
   - chara:
@@ -147,8 +141,7 @@ story:
     textCenter: Smells good... Onions frying in butter...@And a nice hunk of meat
       on the grill...
   - chara:
-    - cheek: 0
-      id: 401101
+    - id: 401101
     textCenter: Glistening with juice as it cooks...[chara:401101:lipSynch_0][wait:0.8][chara:401101:cheek_0][chara:401101:face_mtn_ex_020.exp.json][chara:401101:lipSynch_1]there!
   - chara:
     - cheek: 0
@@ -180,10 +173,9 @@ story:
       motion: 400
     textCenter: O-oh? What's this? My feet... They're just@moving on their own...
   - chara:
-    - cheek: 0
-      id: 401101
+    - id: 401101
     textCenter: I can't stop my hands from opening the door.
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

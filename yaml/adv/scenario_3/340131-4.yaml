@@ -5,7 +5,7 @@ story:
     bgm: bgm03_story02
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_050.exp.json
       id: 300201
       motion: 0
       pos: 0
@@ -16,14 +16,12 @@ story:
       pos: 2
     nameLeft: Natsuki
     nameRight: Kaoru
-    textRight: '... and when I came to, I realized Kazumi@and Umika weren''t there
+    textRight: '...and when I came to, I realized Kazumi@and Umika weren''t there
       anymore.'
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401301
+    - id: 401301
     textRight: I was just suddenly in this park, all on my@own.
   - chara:
     - cheek: 0
@@ -32,21 +30,15 @@ story:
       motion: 300
     textLeft: Wow, you went through a lot...
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300201
+    - id: 300201
     textLeft: It sounds like the work of a Witch. Don't you@think so too?
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401301
+    - id: 401301
       motion: 1
     textRight: I don't have any evidence, but I can't see@any other explanation for
       it.
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300201
+    - id: 300201
       motion: 0
     textLeft: You're really calm, considering all that's@happened to you...
   - chara:
@@ -56,14 +48,10 @@ story:
       motion: 100
     textRight: Well, it's always kinda like this for me.@I'm pretty used to it.
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401301
+    - id: 401301
     textRight: And I play soccer. That's how I keep sharp!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401301
+    - id: 401301
       motion: 1
     textRight: Both mentally and physically!
   - chara:
@@ -73,14 +61,10 @@ story:
       motion: 300
     textRight: Although I do mess up from time to time...
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401301
+    - id: 401301
     textRight: Hahaha...
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300201
+    - id: 300201
       motion: 300
     textLeft: It'd be great to have a friend like you@around, Kaoru...
   - chara:
@@ -102,9 +86,7 @@ story:
       motion: 0
     textRight: I'd be really grateful to have someone I can@count on!
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300201
+    - id: 300201
     textLeft: Yes...
   - chara:
     - cheek: 0
@@ -130,9 +112,7 @@ story:
       motion: 0
     textRight: This might feel a bit fast, but...could you@tell me more about Kamihama?
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401301
+    - id: 401301
     textRight: Like where lots of people tend to gather,@and the places that are more
       quiet...
   - chara:

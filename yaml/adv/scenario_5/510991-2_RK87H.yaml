@@ -15,7 +15,7 @@ story:
     turnChangeIn: fadeIn
   - bg: bg_adv_21252.jpg
     bgm: bgm03_story12
-    nameNarration: ""
+    nameNarration: ???
     narration: '...'
     narrationBg: bg_adv_21252.jpg
     narrationEffect: in
@@ -246,7 +246,7 @@ story:
       id: 401101
     textCenter: Wh-where?!
   - nameRight: Kaoru
-    textRight: Over...here
+    textRight: Over...here...!
   - chara:
     - id: 401101
       motion: 300
@@ -303,9 +303,12 @@ story:
     nameCenter: Kazumi
     textCenter: Puhhah!
     turnChangeOut: whiteOut
-  - chara:
+  - autoTurnLast: 0.2
+    chara:
     - id: 401101
       pos: 0
+    textClear: 1
+  - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 401201
@@ -347,13 +350,13 @@ story:
     - id: 401101
       motion: 0
       tear: 1
-    textLeft: I knew it! I knew I'd find you again!
+    textLeft: Umika, Kaoru! It took FOREVER for me@to find you!
   - chara:
     - cheek: 2
       face: mtn_ex_010.exp.json
       id: 401101
       tear: 1
-    textLeft: I never doubted that you'd come for me!
+    textLeft: I'm glad you guys are okay too!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -361,30 +364,33 @@ story:
       motion: 0
       pos: 2
     nameRight: Umika
-    textRight: Kazumi...
+    textRight: Yes, it's good that we could meet you safely.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 401201
       motion: 1
-    textRight: You know what! You attacked us over and@over!
+    textRight: As opposed to being defeated by 'you'...
   - chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 401101
       motion: 400
-    textLeft: Huh?! I-I attacked you?!
+    textLeft: Huh? Me, defeat you guys?
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 401201
-      motion: 100
-    textRight: Honestly...
+      face: mtn_ex_030.exp.json
+      id: 401101
+    textLeft: Uh-oh... as soon as I let out that sigh of@relief, my stomach started
+      growling...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 401201
-    textRight: Still, I'm so relieved!
+      id: 401301
+      motion: 1
+      pos: 2
+    nameRight: Kaoru
+    textRight: Hahaha! Yeah, that's our Kazumi, all right.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -408,7 +414,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 101700
       motion: 400
-    textLeft: Is this going to continue for a while? This@isn't easy you know...
+    textLeft: Is this going to continue for a while?@This isn't easy you know...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -463,7 +469,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 401101
       motion: 1
-    textLeft: What's going on?
+    textLeft: Ah, this food...
   - chara:
     - cheek: -1
       face: mtn_ex_011.exp.json
@@ -489,42 +495,31 @@ story:
       id: 100201
     textRight: We don't have much time, so I'll explain@as briefly as I can.
   - chara:
-    - id: 401101
-      motion: 0
-    textLeft: Explain what?
-  - chara:
-    - id: 100201
-    textRight: You were knocked unconscious by a Rumor.
-  - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_020.exp.json
       id: 401101
-    textLeft: I was unconscious?!
+      motion: 0
+    textLeft: Yes! I want to know exactly what happened!
   - chara:
     - cheek: -1
       face: mtn_ex_021.exp.json
       id: 100201
-      motion: 300
-    textRight: You were taken over by a doppelganger...
+      motion: 301
+    textRight: You were attacked by a [textBlue:Rumor], and your mind@was taken over
+      by a doppelganger.
   - chara:
     - id: 401101
-      motion: 400
-    textLeft: A doppelganger!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401101
-      lipSynch: 0
-      motion: 0
-    textLeft: (Is she talking about...that thing I ran@into on the street?!)
-    turnEffect: thinking
+      motion: 300
+    textLeft: A doppelganger... it must be the one@I met on that street.
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json
       id: 100201
+    textRight: I see you're already familiar with it.
+  - chara:
+    - id: 100201
       motion: 101
     textRight: So we borrowed some magic from Mitama here.
-    turnEffect: stop
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -547,7 +542,8 @@ story:
       motion: 200
       pos: 0
     nameLeft: Umika
-    textLeft: We wouldn't stop talking to you!
+    textLeft: If it had been a shouting competition,@I'm sure we'd have won first
+      place.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -555,7 +551,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Kaoru
-    textRight: We did it 'til our voices were cracking...
+    textRight: I've never had my voice crack that much,@even in a soccer match...
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -563,7 +559,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Kazumi
-    textLeft: You two...
+    textLeft: Umika, Kaoru...
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json
@@ -619,10 +615,10 @@ story:
     textRight: Or perhaps your memories of meeting@everyone lit the way back home.
   - chara:
     - cheek: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_011.exp.json
       id: 401101
-      motion: 300
-    textLeft: So that's how I...
+      motion: 100
+    textLeft: So it's thanks to all of you@that I was able to wake up!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -630,7 +626,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Umika
-    textRight: Yes!
+    textRight: We couldn't have called you back@with just the two of us.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -638,19 +634,17 @@ story:
       motion: 0
       pos: 2
     nameRight: Kaoru
-    textRight: That's how you woke up.
+    textRight: It's thanks to all the Magical Girls@we met in Kamihama working together.
   - chara:
     - id: 401101
-    textLeft: So that's what happened...
+      motion: 0
+    textLeft: Thank you, everyone!@Thank you so much!
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 401101
       motion: 200
-    textLeft: Th-thanks, everyone!
-  - chara:
-    - id: 401101
-    textLeft: I don't know how I can ever repay you.
+    textLeft: I've gotta pay you back with some cooking@of my own...!
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json
@@ -677,7 +671,8 @@ story:
       motion: 300
       pos: 2
     nameRight: Umika
-    textRight: You've only opened your eyes a little. If the@Rumor increases its influence...
+    textRight: You've only opened your eyes a little. If the@[textBlue:Rumor] increases
+      its influence...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -689,7 +684,7 @@ story:
   - chara:
     - id: 401101
       motion: 300
-    textLeft: N-no way! What do we do?
+    textLeft: If I'm STILL only half-awake after all that,@what else can we do?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -742,7 +737,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Kazumi
-    textLeft: What does she mean?
+    textLeft: Coordinator? Wage?@What the heck are you talking about?
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -805,7 +800,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 401201
       motion: 100
-    textLeft: I approve. Of course I do!
+    textLeft: My popularity hardly factors into it,@but I approve. Of course I do!
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -833,7 +828,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Kazumi
-    textLeft: Who...who's this?
+    textLeft: And who might you be? I don't think@I've met you yet...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -906,7 +901,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Kazumi
-    textLeft: I-I think so!
+    textLeft: Yeah! It's now or never!
   - chara:
     - cheek: -1
       face: mtn_ex_011.exp.json
@@ -918,10 +913,9 @@ story:
       fake.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_010.exp.json
       id: 401101
-      motion: 400
-    textLeft: Wha! B-but... You'll all...
+    textLeft: I know I'm repeating myself,@but thank you so much!
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json
@@ -936,7 +930,7 @@ story:
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Yup yup, sure is! Off we go!
+    textLeft: Yep yep, sure is! Off we go!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -973,7 +967,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 301000
       motion: 0
-    textRight: Wha? O-ohhh! @[chara:301000:lipSynch_0][wait:0.8][chara:301000:cheek_0][chara:301000:face_mtn_ex_010.exp.json][chara:301000:lipSynch_1]I'm
+    textRight: Wha? O-ohhh!@[chara:301000:lipSynch_0][wait:0.8][chara:301000:cheek_0][chara:301000:face_mtn_ex_010.exp.json][chara:301000:lipSynch_1]I'm
       counting on you!
   - chara:
     - cheek: 0
@@ -982,6 +976,13 @@ story:
       lipSynch: 0
     textRight: (Darn... Well, I've come this far, so it's@time to give it everything
       I got!)
+  - autoTurnLast: 0.2
+    chara:
+    - effect: fadeout
+      id: 301000
+    - effect: fadeout
+      id: 300601
+    textClear: 1
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json

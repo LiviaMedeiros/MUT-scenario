@@ -1,139 +1,151 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_13041.jpg
-    bgm: bgm03_story02
+  - autoTurnLast: 0.01
+    bg: bg_adv_13021.jpg
+    bgm: bgm03_story06
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
+      face: mtn_ex_030.exp.json
+      id: 300801
       motion: 0
       pos: 0
-    nameLeft: Kako
-    nameRight: ???
-    textRight: Kaaay! See you around!
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 301101
+      motion: 1
+      pos: 2
     turnChangeIn: fadeIn
+  - chara:
+    - id: 300801
+      motion: 300
+    nameLeft: Akira
+    textLeft: Whew... guess that tidies things up!
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 301101
-      motion: 400
-    textLeft: W-wait up!
+    - id: 301101
+    nameRight: Kako
+    textRight: I'm glad we could defeat the Witch before anyone@was hurt...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-    textLeft: Akira!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300801
+      face: mtn_ex_001.exp.json
+      id: 401201
       motion: 0
       pos: 2
-    nameRight: Akira
-    textRight: Huh?
+    nameRight: Umika
+    textRight: Indeed.
+  - chara:
+    - id: 300801
+      motion: 0
+    nameLeft: Akira
+    textLeft: '...How''d you notice the Witch faster than@either of us?'
+  - chara:
+    - id: 401201
+      motion: 1
+    nameRight: Umika
+    textRight: I was searching for the presence of Witches while@we were en route
+      to meet you.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 300801
+    nameLeft: Akira
+    textLeft: '''Cause one of them might have your friends@trapped?'
+  - chara:
+    - id: 401201
+    nameRight: Umika
+    textRight: There's that, yes... but a Magical Girl's duty is to@fight Witches,
+      isn't it?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 300801
+      motion: 200
+    nameLeft: Akira
+    textLeft: Y-yeah, a' course...
+  - chara:
+    - id: 401201
+      motion: 200
+    nameRight: Umika
+    textRight: '"Inaction is cowardice."'
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 300801
+    nameLeft: Akira
+    textLeft: Hey, that's...!
+  - chara:
+    - id: 401201
+      motion: 0
+    nameRight: Umika
+    textRight: My friend Kaoru was taught those words by@a martial artist during one
+      of her soccer camps.
+  - chara:
+    - id: 401201
+    nameRight: Umika
+    textRight: I'd be in for quite a scolding if I ignored people@in trouble to go
+      find my friends.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 300801
+      motion: 100
+    nameLeft: Akira
+    textLeft: U-Umika... that martial artist must've been my dad!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 401201
+      motion: 400
+    nameRight: Umika
+    textRight: Really?!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 300801
+      motion: 0
+    nameLeft: Akira
+    textLeft: I'm so sorry for doubting you!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300801
-      motion: 100
-    textRight: Ooh, Kako! Something up?
+    nameLeft: Akira
+    textLeft: But I'm sure I can trust you now. Positive.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 401201
-      motion: 0
-      pos: 0
-    nameLeft: Umika
-    textLeft: Is this the one you told me about?
-  - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 401201
+      face: mtn_ex_010.exp.json
+      id: 300801
       motion: 1
-    textLeft: So you're...Akira Shinobu?
+    nameLeft: Akira
+    textLeft: Ain't that right, Kako?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 301101
-      motion: 1
-      pos: 0
-    nameLeft: Kako
-    textLeft: Yeah, that's her!
+      motion: 200
+      pos: 2
+    nameRight: Kako
+    textRight: Exactly!
+  - chara:
+    - id: 301101
+    nameRight: Kako
+    textRight: Also, Umika is actually the author, Umika Misaki!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300801
-      motion: 0
-    textRight: Um...who are you?
-  - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 301101
-      motion: 1
-    textLeft: She's what I called and messaged you@about earlier!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300801
-      motion: 0
-    textRight: '[chara:300801:effect_emotion_surprise_0][se:7226_shock]Whoa! Sorry!'
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300801
-    textRight: I was helping out at the store, so I couldn't@check my phone...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_022.exp.json
-      id: 301101
       motion: 400
-    textLeft: I'll tell you about it now, then!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_022.exp.json
-      id: 301101
-    textLeft: We'd like you to help us out with something!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300801
-    textRight: You want my help?
-  - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 401201
-      motion: 0
-      pos: 0
-    nameLeft: Umika
-    textLeft: I apologize for asking out of the blue...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 401201
-      motion: 100
-    textLeft: But I'm looking for my friends!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300801
-      motion: 300
-    textRight: O-oh, okay...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300801
-    textRight: But first of all...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300801
-      motion: 0
-    textRight: Who are you, again?
-  - autoTurnFirst: 3.3
+      mouthOpen: 1
+    nameLeft: Akira
+    textBg: shout
+    textLeft: Huh? Wha...?@HUUUUUUUUUHHHHH?!
+  - autoTurnLast: 0.01
     bg: bg_adv_narration.jpg
     bgm: stop
+    turnChangeIn: fadeIn
+    turnEffect: stop
+  - autoTurnFirst: 3.3
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -142,10 +154,9 @@ story:
       pos: 1
       voice: vo_char_4012_00_04
     nameCenter: Umika
-    textCenter: If I were alone, I would be completely lost.@I can't thank her enough.
-    turnChangeIn: fadeIn
+    textCenter: If I were alone in this city, I would be completely lost.@I can't
+      thank her enough...!
     turnChangeOut: fadeOut
-    turnEffect: stop
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0

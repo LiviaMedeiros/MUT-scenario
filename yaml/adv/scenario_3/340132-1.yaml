@@ -33,15 +33,11 @@ story:
       motion: 1
     textRight: Cheer? That seems a little excessive for @this situation...
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300201
+    - id: 300201
       motion: 100
     textLeft: Go! Fight! Win!
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 401301
+    - id: 401301
       motion: 0
     textRight: '[chara:401301:effect_emotion_surprise_0][se:7226_shock]What?!'
   - chara:
@@ -63,9 +59,7 @@ story:
       motion: 100
     textRight: Oh, right! Soccer and cheerleading...@Can't have one without the other!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300201
+    - id: 300201
       motion: 100
     textLeft: Right?!
   - chara:
@@ -74,9 +68,7 @@ story:
       id: 300201
     textLeft: Hm? Wait a minute...@Soccer... Kaoru Maki...
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300201
+    - id: 300201
       motion: 400
       mouthOpen: 1
     textBg: shout
@@ -87,6 +79,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300201
       motion: 0
+      mouthOpen: 0
     textLeft: You're...Kaoru Maki!
   - chara:
     - cheek: 0
@@ -95,9 +88,7 @@ story:
       motion: 0
     textRight: Uh, yeah… I told you my name already.
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300201
+    - id: 300201
       motion: 100
     textLeft: No, no! I mean I saw you at the soccer@tournament!
   - chara:
@@ -107,9 +98,7 @@ story:
     textLeft: Our star player said Asu South's star@player was making a joke of our
       team...
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300201
+    - id: 300201
       motion: 300
     textLeft: It was hard work cheering them all up after@the game!
   - chara:
@@ -130,9 +119,7 @@ story:
       motion: 1
     textRight: Right, Sankyoin! We did play them!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401301
+    - id: 401301
     textRight: Yeah, come to think of it, I was really on@fire that day...
   - chara:
     - cheek: 0
@@ -141,9 +128,7 @@ story:
       motion: 100
     textRight: Well, I give it my all in every game! I can't@hold anything back.
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300201
+    - id: 300201
       motion: 100
     textLeft: Naturally! Our team gained a bunch from that@game.
   - chara:
@@ -169,9 +154,7 @@ story:
       id: 300201
     textLeft: Yeah! It's the same with cheering!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300201
+    - id: 300201
       motion: 200
     textLeft: Here goes! I'm gonna cheer my heart out@to help you find your friends!
   - chara:
@@ -180,9 +163,7 @@ story:
       id: 401301
     textRight: Natsuki...
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401301
+    - id: 401301
       motion: 100
     textRight: Thank you!
   - nameNarration: Kaoru

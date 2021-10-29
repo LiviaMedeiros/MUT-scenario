@@ -36,6 +36,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 100300
       motion: 400
+    - id: 301000
+      mouthOpen: 0
     textRight: Oh no! Princess Chia!
   - chara:
     - cheek: 0
@@ -181,7 +183,7 @@ story:
   - chara:
     - id: 401300
       motion: 300
-    textRight: What's the matter with her?! There's no way@this can be Kazumi, right?
+    textRight: Gaah...! You're... definitely not Kazumi...!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -204,7 +206,7 @@ story:
       id: 401300
       motion: 0
       pos: 2
-    textLeft: Why won't you say something?! Anything!
+    textLeft: It's no use pretending to be Kazumi...@you can't trick us.
     turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - chara:
@@ -389,6 +391,8 @@ story:
       id: 300601
       motion: 100
     textRight: Times like this, I'm just gonna follow @my instincts!
+  - autoTurnLast: 0.01
+    textClear: 1
   - chara:
     - cheek: 0
       effect: ef_adv_05

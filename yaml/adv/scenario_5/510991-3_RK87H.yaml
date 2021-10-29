@@ -43,7 +43,7 @@ story:
   - narration: And finally...
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51008_singleraid_kazumi/memoria_1146.png
+    - path: resource/scenario/img/51008_singleraid_kazumi/memoria_1146.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -56,9 +56,9 @@ story:
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
-    narrationFontSize: 28
+    narrationFontSize: 30
     narrationLineMargin: 35
-    narrationLineSpace: 10
+    narrationLineSpace: 20
     turnChangeOut: fadeOut
   - nameNarration: Kaoru
     narration: ―Kaoru―@Palla Di Cannone!
@@ -71,7 +71,7 @@ story:
   - narration: ―Kazumi―@Limity Esterni!
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51008_singleraid_kazumi/memoria_1146.png
+    - path: resource/scenario/img/51008_singleraid_kazumi/memoria_1146.jpg
       visible: hide
     narrationEffect: out
     turnChangeIn: fadeIn
@@ -100,6 +100,7 @@ story:
     - effect: fadeout
       id: 401102
     se: 3102_enemy_dead
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -220,7 +221,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Your knees are shaking right now, Princess@Rye.
+    textLeft: Your knees are shaking right now,@Princess Rye.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -268,11 +269,12 @@ story:
     textRight: Don't worry. It wasn't your fault.
   - chara:
     - id: 401101
-    textLeft: Still...
+    textLeft: Still, the doppelganger might not have attacked@them if I'd kept myself
+      together...
   - chara:
     - id: 100201
       motion: 100
-    textRight: Everyone just got mixed up in one of @the Rumors here.
+    textRight: Everyone just got mixed up in one of @the incidents here.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -288,13 +290,11 @@ story:
       motion: 1
       pos: 2
     nameRight: Kaoru
-    textRight: Anyway, you're safe! And that's the most@important thing!
+    textRight: If you're still bothered by it, you can always@pay 'em back some day.
   - chara:
-    - cheek: 1
-      face: mtn_ex_010.exp.json
-      id: 401101
+    - id: 401101
       motion: 0
-    textLeft: Thank you...@Sorry I put you through all this.
+    textLeft: '...Are you sure that''ll make things all right?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -435,20 +435,20 @@ story:
       face: mtn_ex_020.exp.json
       id: 401101
       motion: 0
-    textLeft: That's why even in my dream I could keep@going strong.
+    textLeft: Even if I was by myself, I wasn't alone.
   - chara:
     - id: 401101
-    textLeft: It told me that I had a place in this world,@that my friends were waiting
-      for me...
+    textLeft: As long as my stomach was rumbling, I could stay@alive. I could fight
+      as hard as I could...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 401101
       motion: 100
-    textLeft: That's why I could trust them!
+    textLeft: Because I have faith in everyone@who matters to me!
   - nameNarration: Kazumi
     narration: I learned later that I never actually@lost my memories. I only thought
-      I did@because an Uwasa took control of me@from within my own mind...
+      I did@because a [textBlue:Rumor] took control of me@from within my own mind...
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeIn: fadeIn
@@ -480,7 +480,7 @@ story:
     textLeft: 'You even said to me, "I''m a Magical Girl@too!" '
   - nameNarration: Kazumi
     narration: When I was following the voices, I was@in a place between reality and
-      the Rumor.
+      the [textBlue:Rumor].
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeIn: fadeIn
@@ -504,11 +504,8 @@ story:
     textLeft: The world we're in now, where we're together,@is the real world, Kazumi.
   - chara:
     - id: 401301
-    textRight: Sure is!
-  - chara:
-    - id: 401301
-      motion: 200
-    textRight: So everything's fine!
+    textRight: Even in a dream world, as long as all three@of us are together, we'll
+      be fine!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -516,7 +513,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Kazumi
-    textLeft: Okay!
+    textLeft: Yeah! As long as I have you two,@I've got nothing to fear!
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -541,8 +538,9 @@ story:
     narrationEffect: in
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
+    turnEffect: stop
   - narration: But before we did...
-  - bg: bg_adv_11083.jpg
+  - bg: bg_adv_11043.jpg
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -564,7 +562,6 @@ story:
       id: 401201
       motion: 100
     textLeft: It's a shame... That mushroom hotpot was @really delicious.
-    turnEffect: stop
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -612,8 +609,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 401201
       motion: 200
-    textRight: '...often have all kinds of ingredients you''ll@never see anywhere
-      else!'
+    textRight: '...are prime hiding places for new@ingredients and local delicacies!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -639,11 +635,11 @@ story:
     narrationEffect: in
   - narration: Our everyday Magical Girl life in Asunaro.
   - narration: But you know what? Whenever I cook@fried rice or Kamiha-mushroom soup...
-  - narration: '...it still reminds me of the crazy stuff@that happened in Kamihama
-      City.'
+  - narration: '...it reminds me that I''m not alone.@That Magical Girls can work
+      together...'
   - bg: black
-    narration: And it reminds me to keep going,@together with the friends I trust
-      most!
+    narration: And that's why I can face down Witches without@fear, together with
+      the friends I trust most!
   - autoTurnLast: 0.01
     item:
     - path: resource/scenario/img/51008_singleraid_kazumi/memoria_1145.jpg
@@ -652,18 +648,21 @@ story:
       visible: appear
     narrationEffect: out
     turnChangeIn: fadeIn
-  - autoTurnLast: 1.5
-    turnChangeOut: fadeOut
-  - item:
-    - path: resource/scenario/img/51008_singleraid_kazumi/51008_end.png
+  - turnChangeOut: fadeOut
+  - autoTurnLast: 0.1
+    item:
+    - path: resource/scenario/img/51008_singleraid_kazumi/51008_end.jpg
       posX: 0
       posY: 0
       visible: appear
+    - path: resource/scenario/img/51008_singleraid_kazumi/memoria_1145.jpg
+      visible: hide
+    turnChangeIn: fadeIn
+  - autoTurnLast: 2
+    turnChangeOut: fadeOut
   - autoTurnLast: 2
     item:
     - path: resource/scenario/img/51008_singleraid_kazumi/51008_end.jpg
-      visible: hide
-    - path: resource/scenario/img/51008_singleraid_kazumi/memoria_1145.jpg
       visible: hide
     turnChangeIn: fadeIn
 version: 3

@@ -13,7 +13,7 @@ story:
     - path: resource/scenario/img/51008_singleraid_kazumi/51008_memory06.jpg
       visible: hide
     turnChangeIn: fadeIn
-  - bg: bg_adv_21241.jpg
+  - bg: bg_adv_13111.jpg
     bgm: bgm03_story10
     chara:
     - cheek: 0
@@ -201,14 +201,17 @@ story:
       id: 300601
       motion: 0
     textLeft: That's totally sweet of you, but...
+  - autoTurnLast: 0.2
+    chara:
+    - id: 401101
+      pos: 0
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_041.exp.json
       id: 300401
       motion: 0
       pos: 2
-    - id: 401101
-      pos: 0
     nameRight: Sasara
     textRight: Sorry, but you've heard of Magical Girls,@right?
   - chara:
@@ -236,7 +239,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 401101
     narrationEffect: out
-    textLeft: I gotta go... I need to go!
+    textLeft: Someone's calling me... I need to go!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -246,8 +249,7 @@ story:
   - chara:
     - id: 401101
       motion: 200
-    textLeft: But...I really, really have to go! Something@bad's gonna happen if I
-      don't!
+    textLeft: I know that. But I really HAVE to go!
   - chara:
     - id: 401101
       motion: 0
@@ -312,7 +314,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Kazumi
-    textLeft: Yeah!
+    textLeft: Believe me, I'm TOTES serious!
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -341,12 +343,12 @@ story:
     textLeft: That should be cool, right? That work for@you, Kazumin?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_010.exp.json
       id: 401101
       motion: 100
       pos: 2
     nameRight: Kazumi
-    textRight: Um, yeah...
+    textRight: Yeah, sounds good!@Don't worry one bit about me!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

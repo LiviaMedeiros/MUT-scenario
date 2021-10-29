@@ -12,29 +12,27 @@ story:
     turnChangeOut: fadeOut
   - narration: We were fighting with a Witch like usual...@But while we were chasing
       it, we somehow@ended up in Kamihama City.
-  - narration: If that wasn't enough, the Witch caught@us off guard with a powerful
-      attack!@Before I knew it, we got split up...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 401301
-      lipSynch: 0
       motion: 0
       pos: 1
+    narration: If that wasn't enough, the Witch caught@us off guard with a powerful
+      attack!@Before I knew it, we got split up...
+  - chara:
+    - id: 401301
+      lipSynch: 0
     nameCenter: Kaoru
     narrationEffect: out
     textCenter: (Where'd I end up now? I'm way out of my@depth here...)
     turnEffect: thinking
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401301
+    - id: 401301
       lipSynch: 0
     textCenter: (I can't reach them through my Soul Gem,@either...)
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401301
+    - id: 401301
       lipSynch: 0
       motion: 300
     textCenter: (Eh, I'm sure Umika's fine. The real problem@is Kazumi...)
@@ -55,9 +53,7 @@ story:
       day.
   - narration: I better get it into gear and look for them.
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401301
+    - id: 401301
       lipSynch: 0
       motion: 0
     narrationEffect: out
@@ -66,11 +62,9 @@ story:
   - bgm: stop
     chara:
     - cheek: 0
-      effect: ef_adv_01
       face: mtn_ex_020.exp.json
       id: 401301
-    se: 7201_detect_magic
-    textCenter: Oh!
+    textCenter: '[chara:401301:effect_ef_adv_01][se:7201_detect_magic]Oh!'
     turnEffect: stop
   - bgm: bgm03_story10
     chara:
@@ -85,27 +79,19 @@ story:
       motion: 300
     textCenter: This means there's a Witch or Familiar@nearby...
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401301
+    - id: 401301
     textCenter: Could it be the one we were fighting? Or is@it another Witch from
       this town?
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401301
+    - id: 401301
       motion: 0
     textCenter: Not that it makes any difference...
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401301
+    - id: 401301
     textCenter: Fighting Witches and protecting the world@is what us Magical Girls
       were made for!
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401301
+    - id: 401301
       motion: 100
     textCenter: All right! Time for the kick-off!
   - autoTurnLast: 2

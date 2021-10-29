@@ -24,6 +24,11 @@ story:
     nameCenter: Himika
     textCenter: Hey, everyone! The mushroom hotpot's ready!
     turnChangeOut: fadeOut
+  - autoTurnLast: 0.2
+    chara:
+    - effect: fadeout
+      id: 302001
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -35,8 +40,6 @@ story:
       id: 801200
       motion: 0
       pos: 2
-    - effect: fadeout
-      id: 302001
     nameLeft: Himika's Brother
     nameRight: Himika's Sister
     textLeft: Woo hooo!
@@ -351,10 +354,6 @@ story:
       pos: 2
     textRight: Right when I finished exercising!@Good timing!
   - chara:
-    - id: 401301
-      motion: 1
-    textRight: How about you, ●●?
-  - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 401201
@@ -383,13 +382,12 @@ story:
       face: mtn_ex_011.exp.json
       id: 401101
       motion: 1
-    textLeft: When I woke up today, I decided to cook some @beef stroganoff!
+    textLeft: There was a special sale on meat today,@so I cooked some beef stroganoff!
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 401101
-    textLeft: I wanted to try and capture the taste from@when Mr. Tachibana made it
-      for me...
+    textLeft: I wanted to try and capture the taste@of Mr. Tachibana's recipe...
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -410,13 +408,14 @@ story:
       motion: 100
       pos: 2
     nameRight: ???
-    textRight: It's not too strong, but still flavorful...@The balance is great!
+    textRight: It's simmered to perfection. The flavor's rich,@the beef is tender...
+      just beef-eautiful!
   - chara:
     - cheek: 2
       face: mtn_ex_011.exp.json
       id: 401101
       motion: 100
-    textLeft: Hee hee!
+    textLeft: Beef-eautiful?! Ahaha!@Sounds like it's a success!
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json

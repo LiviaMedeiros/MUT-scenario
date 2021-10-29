@@ -1,11 +1,11 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19231.jpg
     bgm: bgm01_anime03
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_050.exp.json
       id: 300902
       motion: 0
       pos: 0
@@ -17,14 +17,12 @@ story:
     nameNarration: Kazumi
     narration: Manaka and I ended up working together to@make "inspirational cuisine"
       for Hinano!
-    narrationBg: bg_adv_21221.jpg
+    narrationBg: bg_adv_19231.jpg
     narrationEffect: in
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300902
+    - id: 300902
       motion: 1
     nameLeft: Manaka
     nameRight: Kazumi
@@ -53,10 +51,9 @@ story:
     turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300902
+    - id: 300902
       motion: 100
+      mouthOpen: 0
     textLeft: That's what we're going to cook?!
   - chara:
     - cheek: 0
@@ -76,9 +73,7 @@ story:
       motion: 1
     textRight: I've been inspired by it before, myself!
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300902
+    - id: 300902
       motion: 0
     textLeft: R-really?
   - chara:
@@ -88,28 +83,20 @@ story:
       motion: 200
     textRight: Really, really! Have a little faith!
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300902
+    - id: 300902
       motion: 300
     textLeft: Well...
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300902
+    - id: 300902
       lipSynch: 0
     textLeft: '...'
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300902
+    - id: 300902
       motion: 0
     textLeft: '"The mark of a pro is to follow through@no matter what task is handed
       to you."'
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300902
+    - id: 300902
     textLeft: That's what my dad taught me.
   - chara:
     - cheek: 0
@@ -137,9 +124,7 @@ story:
       motion: 0
     textLeft: Like I said before...
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 300902
+    - id: 300902
       motion: 400
     textLeft: You're no average girl! I trust your skills!
   - chara:
@@ -160,7 +145,8 @@ story:
       id: 300902
       motion: 1
     textLeft: Hah! Okay, sure!
-  - chara:
+  - bg: bg_adv_19221.jpg
+    chara:
     - effect: fadeout
       id: 401101
     - cheek: 0
@@ -170,7 +156,7 @@ story:
       pos: 0
     nameNarration: Kazumi
     narration: And so, Manaka and I@started to prep the food!
-    narrationBg: bg_adv_21221.jpg
+    narrationBg: bg_adv_19231.jpg
     narrationEffect: in
   - narration: And when we finished...
   - chara:
@@ -184,9 +170,7 @@ story:
     narrationEffect: out
     textRight: Sorry to keep you waiting!
   - chara:
-    - cheek: 0
-      face: mtn_ex_000.exp.json
-      id: 300301
+    - id: 300301
       motion: 200
     textLeft: Yes! I've been eager to find out!
   - chara:
@@ -213,9 +197,7 @@ story:
       motion: 0
     textLeft: '[chara:300301:effect_emotion_surprise_0][se:7226_shock]Mmn!'
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 300301
+    - id: 300301
     textLeft: '...Mmmnnn?'
   - chara:
     - cheek: 0
@@ -223,9 +205,7 @@ story:
       id: 300301
     textLeft: Mmmnnnnnn?!
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300301
+    - id: 300301
       motion: 400
     textLeft: Is this...the meal that's gonna break my@slump?!
   - autoTurnLast: 2

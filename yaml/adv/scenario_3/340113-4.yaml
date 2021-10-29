@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm01_anime03
     chara:
     - cheek: 0
@@ -36,16 +36,25 @@ story:
       id: 300301
       motion: 0
     nameNarration: Kaoru
-    narration: I'm Kaoru Maki! Nice to meet ya!
+    narration: '"I''m Kaoru Maki! Nice to meet ya!"'
     narrationBg: bg_adv_21141.jpg
     narrationEffect: in
-  - chara:
+    turnChangeIn: fadeIn
+    turnChangeOut: fadeOut
+  - autoTurnLast: 0.5
+    chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300301
+      motion: 0
+      pos: 1
     narrationEffect: out
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 300301
     textCenter: Even from a distance, I could sense it. The@enthusiasm you hear at
       sports matches.
+    turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -69,16 +78,12 @@ story:
     nameLeft: Kazumi
     textLeft: Wh-which park was this?!
   - chara:
-    - cheek: 0
-      face: mtn_ex_000.exp.json
-      id: 300301
+    - id: 300301
       motion: 0
     nameRight: Hinano
     textRight: Well, I've got a pen and paper. Let me draw@you a map.
   - chara:
-    - cheek: 0
-      face: mtn_ex_000.exp.json
-      id: 300301
+    - id: 300301
       motion: 200
     textRight: And you go this way from here...then this@direction...and there you
       are!
@@ -121,10 +126,11 @@ story:
       id: 401101
       motion: 100
     textLeft: See ya!
-  - autoTurnLast: 0.3
+  - autoTurnLast: 0.5
     chara:
     - effect: fadeout
       id: 401101
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -162,17 +168,15 @@ story:
       id: 300301
     textLeft: It's nothing other than...
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 300301
+    - id: 300301
       motion: 200
       mouthOpen: 1
     textLeft: The ultimate experiment:@"Turning Sugar into Salt"!
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300902
+    - id: 300902
       motion: 1
+    - id: 300301
+      mouthOpen: 0
     textRight: Sugar into salt?
   - chara:
     - cheek: 0
@@ -181,9 +185,7 @@ story:
       lipSynch: 0
     textRight: '...'
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300902
+    - id: 300902
       motion: 0
     textRight: Why not just use salt from the start?
   - chara:
@@ -199,9 +201,7 @@ story:
       lipSynch: 0
     textLeft: '...'
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300301
+    - id: 300301
       lipSynch: 0
       motion: 300
     textLeft: '...'
@@ -226,34 +226,32 @@ story:
   - bgm: stop
     narration: But when I got to the park...
   - narration: I couldn't find Kaoru,@no matter how hard I looked.
-  - bg: bg_adv_21141.jpg
+  - autoTurnLast: 0.01
+    bg: bg_adv_21141.jpg
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 401101
-      motion: 300
+      motion: 0
       pos: 1
-    nameCenter: Kazumi
     narrationEffect: out
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 401101
+      motion: 300
+    nameCenter: Kazumi
     surround: 7001_birdsong
     textCenter: '*Sigh* She must''ve already left...'
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401101
+    - id: 401101
     textCenter: Man, I'm beat all of a sudden.
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401101
+    - id: 401101
       motion: 1
     textCenter: I helped out at the restaurant, cooked@a meal, ran all the way here...
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401101
+    - id: 401101
     textCenter: Umika... Kaoru...
   - chara:
     - cheek: 0

@@ -464,16 +464,18 @@ story:
       id: 305201
       motion: 0
       pos: 1
-      tear: 1
       voice: vo_char_3052_00_05
-    nameCenter: Ashley Taylor
-    textCenter: I'm gonna take your words to heart.
+    nameCenter: Ashley
+    textCenter: I'm gonna take Daddy's words to heart@and live on.
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-  - autoTurnFirst: 1.3
+  - autoTurnFirst: 4
     chara:
-    - eyeClose: 1
+    - cheek: 2
+      eyeClose: 1
+      face: mtn_ex_011.exp.json
       id: 305201
+      tear: 1
   - chara:
     - id: 305201
   - autoTurnLast: 2

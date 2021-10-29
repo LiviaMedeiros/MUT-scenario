@@ -1,272 +1,283 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_narration.jpg
-    bgm: bgm01_anime03
-    nameNarration: Umika
-    narration: Kako Natsume, a Magical Girl, offered@to guide me through Kamihama.
-    narrationEffect: in
-    turnChangeIn: fadeIn
-    turnChangeOut: fadeOut
-  - narration: And it turned out that she already@knew my work as an author.
-  - bg: bg_adv_21081.jpg
+  - autoTurnLast: 0.01
+    bg: bg_adv_13091.jpg
+    bgm: bgm01_anime02
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 301101
-      motion: 100
+      face: mtn_ex_001.exp.json
+      id: 401201
+      motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 401201
+      face: mtn_ex_030.exp.json
+      id: 301101
       motion: 0
       pos: 2
-    nameLeft: Kako
-    nameRight: Umika
-    narrationEffect: out
-    textLeft: There are so many more Witches here lately.
     turnChangeIn: fadeIn
+  - nameNarration: Umika
+    narration: Though I was new to Kamihama,@I was offered guidance by Kako Natsume,@a
+      Magical Girl.
+    narrationBg: bg_adv_narration.jpg
+    narrationEffect: in
+    turnChangeOut: fadeOut
+  - narration: She was familiar with my work as an author,@which I was certainly happy
+      about, but...
+  - chara:
+    - id: 301101
+      motion: 300
+    nameRight: Kako
+    narrationEffect: out
+    textRight: '...There''s been quite the increase in Witches here,@lately.'
+  - chara:
+    - id: 301101
+    nameRight: Kako
+    textRight: Perhaps it has something to do with the Witch@you were chasing, Misaki-sensei...?
+  - chara:
+    - id: 401201
+    nameLeft: Umika
+    textLeft: Well, I wonder...@What do you think, Kako?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 301101
+      motion: 200
+    nameRight: Kako
+    textRight: Oh no, Misaki-sensei! I could hardly press my opinion@on you. I'm your
+      junior, after all...
+  - chara:
+    - id: 301101
+    nameRight: Kako
+    textRight: I can hardly theorize like the protagonists of your@detective novels,
+      either...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 401201
+      motion: 0
+      pos: 0
+    nameLeft: Umika
+    textLeft: Kako...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 301101
+    nameRight: Kako
+    textRight: What is it, Misaki-sensei?
+  - chara:
+    - id: 401201
+    nameLeft: Umika
+    textLeft: You... don't have to call me "Misaki-sensei".
+  - chara:
+    - id: 401201
+    nameLeft: Umika
+    textLeft: I'm just the Magical Girl Umika Misaki right now,@and you're the one
+      offering me help.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 301101
+      motion: 400
+    nameRight: Kako
+    textRight: Oh, goodness no! It's no trouble at all, really...
+  - chara:
+    - id: 401201
+      motion: 100
+    nameLeft: Umika
+    textLeft: Also, I'm actually rather uncomfortable being called@"sensei" unless
+      it's a joke.
+  - chara:
+    - id: 401201
+    nameLeft: Umika
+    textLeft: It's even part of a promise I made with my editor...
+  - chara:
+    - id: 401201
+      motion: 200
+    nameLeft: Umika
+    textLeft: '"No calling me ''sensei''."'
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 301101
+      motion: 1
+    nameRight: Kako
+    textRight: In that case... Umika!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 401201
+      motion: 0
+    nameLeft: Umika
+    textLeft: Yes, that's perfect! Once again, I'm very glad@to meet you, Kako.
+  - chara:
+    - id: 301101
+    nameRight: Kako
+    textRight: Y-yes!
+  - autoTurnLast: 0.01
+    bg: bg_adv_13091.jpg
+    turnChangeIn: fadeIn
+  - chara:
+    - cheek: 0
+      face: mtn_ex_001.exp.json
+      id: 401201
+      motion: 0
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 301101
+      motion: 0
+      pos: 2
+    nameNarration: Umika
+    narration: And thus, Kako and I began searching@for Kazumi and Kaoru.
+    narrationBg: bg_adv_narration.jpg
+    narrationEffect: in
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
-      id: 301101
-    textLeft: You mentioned a Witch fleeing from@Asunaro City too.
-  - chara:
-    - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 301101
-      motion: 0
-    textLeft: Maybe it's connected to whatever's@happening here...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_022.exp.json
-      id: 301101
-      motion: 400
-    textLeft: Don't you think so, Umika-sensei?
-  - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 401201
-      motion: 400
-    textRight: Oh, uh, do you think so?
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401201
-      motion: 1
-    textRight: By the way, I have a favor to ask...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_022.exp.json
-      id: 301101
-      motion: 0
-    textLeft: Yes, Umika-sensei?
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401201
-      motion: 300
-    textRight: Could you...perhaps not call me "sensei"?
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401201
-    textRight: Right now I'm Umika Misaki, the Magical@Girl, not the author...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401201
-      motion: 0
-    textRight: And you're actually the one helping me out@at the moment.
-  - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 301101
-      motion: 400
-    textLeft: Oh, no, not at all![chara:301101:lipSynch_0][wait:0.8][chara:301101:cheek_0][chara:301101:face_mtn_ex_030.exp.json][chara:301101:lipSynch_1]
-      It's my pleasure.
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401201
-      motion: 1
-    textRight: Unless it's a joke, I prefer not to be called@"sensei".
-  - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 401201
-    textRight: I know authors are typically called that,@but I even asked my editor
-      to promise.
-  - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 401201
-      motion: 0
-    textRight: There's really no need for it.
-  - chara:
-    - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 301101
-      motion: 0
-    textLeft: In that case...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-      motion: 1
-    textLeft: Umika!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401201
-      motion: 100
-    textRight: Yes, perfect!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401201
-      motion: 1
-    textRight: Once again, it's a delight to meet you, Kako.
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-      motion: 400
-    textLeft: Y-yes!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-      motion: 0
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 401201
-      motion: 0
-    nameNarration: Umika
-    narration: So then Kako and I began our search@for Kazumi and Kaoru...
-    narrationBg: bg_adv_21081.jpg
-    narrationEffect: in
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-      motion: 1
+    - id: 301101
+    nameRight: Kako
     narrationEffect: out
-    textLeft: First, I'll ask my other Magical Girl friends@if they know anything!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401201
-      motion: 100
-    textRight: Ah, the ones you mentioned earlier?
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-    textLeft: Yes!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-      motion: 0
-    textLeft: I'll let them know about your friends so@they can call us if they find
-      anything!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-      motion: 400
-    textLeft: In fact, it's possible they ran into them@already!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-    textLeft: After all, that's how we met!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401201
-      motion: 200
-    textRight: That's true... @It's not out of the realm of possibility!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-      motion: 1
-    textLeft: All right then, I'll call them!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401201
-      motion: 100
-    textRight: Thank you so much, Kako!
-  - textLeft: Not at all! Just give me a minute!
-  - autoTurnLast: 0.3
+    textRight: All right, you just wait here a moment.@I'll bring us some tea.
+  - autoTurnLast: 0.5
     chara:
     - effect: fadeout
       id: 301101
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401201
-      lipSynch: 0
-      motion: 0
-    textRight: (She's so kind... I'm really grateful I ran @into her.)
-    turnEffect: thinking
-  - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 401201
-      lipSynch: 0
-    textRight: (That sparkle in her eyes... It's just like@how Kazumi's eyes shine.)
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401201
-      lipSynch: 0
-      motion: 300
-    textRight: (Kazumi and Kaoru... Stay safe, okay?)
-  - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 401201
-      motion: 0
-    nameNarration: ""
-    narration: Five minutes later...
-    narrationBg: bg_adv_21081.jpg
-    narrationEffect: in
-    turnEffect: stop
-  - bgm: stop
-    chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 301101
-      motion: 0
-      pos: 0
-    narrationEffect: out
-    textLeft: Umika...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401201
-    textRight: What did they say?
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 301101
-      motion: 100
-    textLeft: Well, um...
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 401201
-    textRight: What? D-did something...
-  - chara:
-    - face: mtn_ex_050.exp.json
-      id: 401201
       motion: 400
-      tear: 0
-    textRight: Did something happen?!
+    nameLeft: Umika
+    textLeft: Huh? Wait...! I thought we were going to discuss@the search.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 401201
+      lipSynch: 0
+      motion: 0
+    nameLeft: Umika
+    textLeft: (Tea, of all things? We don't have any time to@sit and relax...)
+  - autoTurnLast: 2
+    chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 401201
+      motion: 1
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 301101
+      motion: 0
+      pos: 2
+    turnChangeIn: fadeIn
+  - nameNarration: ""
+    narration: Five minutes later...
+    narrationBg: bg_adv_narration.jpg
+    narrationEffect: in
+    turnChangeOut: fadeOut
+  - chara:
+    - id: 301101
+      motion: 400
+    nameRight: Kako
+    narrationEffect: out
+    textRight: Sorry to keep you waiting, Umika!@You drink coffee, right?
+  - chara:
+    - id: 301101
+    nameRight: Kako
+    textRight: You mentioned in the afterword of "Magical Girl@Detective" that you
+      drink it all the time...
+  - chara:
+    - id: 401201
+    nameLeft: Umika
+    textLeft: Kako... I appreciate your generosity, but we're@racing against the clock,
+      here.
+  - chara:
+    - id: 301101
+      motion: 0
+    nameRight: Kako
+    textRight: Yes! So you'd better drink your coffee while you@still can, right?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 401201
+      motion: 200
+    nameLeft: Umika
+    textLeft: Look, I HAVE to be searching for my missing friends@right now...!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 301101
+      motion: 1
+    nameRight: Kako
+    textRight: I'm sorry... it's just that none of my friends answered@my calls yet.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 401201
+      motion: 0
+    nameLeft: Umika
+    textLeft: Huh? Answer your calls...?
+  - chara:
+    - id: 301101
+    nameRight: Kako
+    textRight: I thought that some of my fellow Magical Girls@might've seen Kazumi
+      or Kaoru.
+  - chara:
+    - id: 301101
+    nameRight: Kako
+    textRight: So I tried phoning each of them...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 301101
+      motion: 300
+    nameRight: Kako
+    textRight: But it seems they're all busy right now, and none@of them picked up.
+  - chara:
+    - id: 401201
+    nameLeft: Umika
+    textLeft: Oh... I see.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 401201
+      motion: 1
+    nameLeft: Umika
+    textLeft: I'm sorry for raising my voice like that...@I didn't know.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 301101
+      motion: 400
+    nameRight: Kako
+    textRight: It's fine, really! But would it be all right to wait for@just a moment
+      right now?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 401201
+    nameLeft: Umika
+    textLeft: You're right...
+  - chara:
+    - id: 401201
+    nameLeft: Umika
+    textLeft: I certainly can't ignore such wonderful-smelling@coffee, either.
+  - chara:
+    - id: 301101
+      motion: 200
+    nameRight: Kako
+    textRight: '...Yes!'
+  - chara:
+    - id: 301101
+    nameRight: Kako
+    textRight: This coffee is actually a secret menu item of ours.@We only serve it
+      to our regular customers.
+  - chara:
+    - id: 401201
+      motion: 100
+    nameLeft: Umika
+    textLeft: Really?@Well, then... bottoms up!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

@@ -143,8 +143,8 @@ story:
   - chara:
     - id: 300601
     nameLeft: Emiri
-    textLeft: Huh? Somebody cut it for ya? [chara:300601:lipSynch_0][wait:1.0][chara:300601:motion_200][chara:300601:lipSynch_1]Wait,
-      did you@remember somethin'?!
+    textLeft: Huh? Somebody cut it for ya?@[chara:300601:lipSynch_0][wait:1.0][chara:300601:motion_200][chara:300601:lipSynch_1]...Wait,
+      did you remember somethin'?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -265,7 +265,7 @@ story:
   - chara:
     - id: 401101
       motion: 1
-    textLeft: You sure there isn't anything I can do to@help?
+    textLeft: It's still frustrating, though. I want@to help you guys too...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -287,17 +287,17 @@ story:
       face: mtn_ex_001.exp.json
       id: 300401
       motion: 200
-    textRight: Huh? What?
+    textRight: From inside the Labyrinth?
   - chara:
     - eyeClose: 1
       id: 401101
-    textLeft: Standing by this Labyrinth...@Something inside me is...
+    textLeft: No, something from inside me...
   - chara:
     - id: 401101
-    textLeft: There's something inside me, sleeping...
+    textLeft: I can hear it...@It feels familiar, and warm...
   - chara:
     - id: 401101
-    textLeft: '...and making sounds!'
+    textLeft: This echo that's giving me courage...
   - bgm: stop
     nameNarration: ""
     narration: <...Kazumi...Kazumi...>

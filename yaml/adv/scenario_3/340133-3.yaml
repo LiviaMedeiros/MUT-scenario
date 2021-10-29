@@ -21,47 +21,33 @@ story:
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401300
+    - id: 401300
       motion: 100
     nameLeft: Natsuki
     nameRight: Kaoru
     narrationEffect: out
     textRight: Natsuki! It's now or never!
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 300200
+    - id: 300200
     textLeft: Got it!
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 300200
+    - id: 300200
       motion: 200
     textLeft: '[flashEffect:flashWhite2][se:4061_landing_jump5]Take this!'
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401300
+    - id: 401300
       motion: 0
     textRight: Yeahhh!
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401300
+    - id: 401300
       motion: 200
     textRight: You opened a path! Let's rush through!
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 300200
+    - id: 300200
       motion: 1
     textLeft: Roger that!
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401300
+    - id: 401300
       lipSynch: 0
       motion: 0
     textRight: (We're in deep. The Witch could pop up at@any time!)
@@ -71,6 +57,7 @@ story:
     bgChangeEffect: enterWitchSpace
     bgm: stop
     se: 7208_wander_into
+    textClear: 1
     turnEffect: stop
   - bgm: stop
     chara:
@@ -84,15 +71,11 @@ story:
     textRight: (Like right about now!)
     turnEffect: thinking
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 401300
+    - id: 401300
     textRight: Huh?
     turnEffect: stop
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 401300
+    - id: 401300
       motion: 0
     textRight: No one's here?
   - chara:
@@ -169,8 +152,7 @@ story:
     textCenter: '[flashEffect:flashWhite2][se:4061_landing_jump5]...!'
     turnEffect: stop
   - chara:
-    - cheek: 0
-      id: 401300
+    - id: 401300
       lipSynch: 0
     textCenter: '...'
   - bg: bg_adv_46105.jpg
@@ -198,9 +180,7 @@ story:
       id: 401300
     textRight: Natsuki!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401300
+    - id: 401300
     textRight: You just saved my butt!
   - chara:
     - cheek: 0
@@ -209,9 +189,7 @@ story:
       motion: 200
     textLeft: I think my desire to protect you created @this defensive magic!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401300
+    - id: 401300
       motion: 100
     textRight: Too cool! You're awesome, Natsuki!
   - chara:
@@ -238,14 +216,10 @@ story:
       motion: 0
     textRight: Yup!
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401300
+    - id: 401300
     textRight: You just made it wide open for me!
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 401300
+    - id: 401300
       motion: 200
     textRight: I'll make sure this ends it!
   - autoTurnLast: 2

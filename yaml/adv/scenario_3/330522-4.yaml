@@ -238,7 +238,7 @@ story:
       tear: 0
       voice: vo_char_3052_00_04
     nameCenter: Ashley Taylor
-    textCenter: I've been bad... But still...
+    textCenter: Daddy... I've been bad...@But...but still...
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: stop

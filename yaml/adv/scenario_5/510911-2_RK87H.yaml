@@ -167,12 +167,15 @@ story:
       face: mtn_ex_030.exp.json
       id: 401101
       motion: 0
-    textLeft: Witches bring misery to people.[chara:401101:lipSynch_0][wait:0.8][chara:401101:cheek_0][chara:401101:face_mtn_ex_020.exp.json][chara:401101:lipSynch_1]
-      You're the@one who told me that, Kaoru!
+    textLeft: You told me all about it, right, Kaoru?
   - chara:
     - id: 401101
-    textLeft: If we just give up on fighting the Witch@now, [chara:401101:lipSynch_0][wait:0.5][chara:401101:cheek_0][chara:401101:face_mtn_ex_030.exp.json][chara:401101:lipSynch_1]someone
-      could get hurt...
+    textLeft: About how Witches bring misery@to people...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 401101
+    textLeft: There's no WAY I'd back down@while knowing that!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -228,7 +231,7 @@ story:
       mouthOpen: 1
       pos: 1
     nameCenter: Kazumi
-    textCenter: U-Umika! Kaoru! I-I'm scared!
+    textCenter: What the heck's going on?!@Umikaaa! Kaoruuu!!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -274,8 +277,8 @@ story:
     narrationEffect: in
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-  - narration: Somehow, the three of us were split up@and flung far away from each
-      other.@And we all ended up in different@parts of Kamihama City.
+  - narration: We'd each been flung away to different@parts of Kamihama City by some
+      mysterious force.
   - narration: I managed to meet up with Umika, but we still@have no idea where Kazumi
       is...
   - bg: bg_adv_14042.jpg
@@ -294,34 +297,32 @@ story:
     nameLeft: Umika
     nameRight: Kaoru
     narrationEffect: out
-    textLeft: Thinking about it, this city is incredibly@vast...
+    textLeft: This city is far too vast to search@with just the two of us.
     turnEffect: stop
   - chara:
     - id: 401201
-    textLeft: Searching haphazardly [chara:401201:lipSynch_0][wait:0.8][chara:401201:cheek_0][chara:401201:face_mtn_ex_030.exp.json][chara:401201:lipSynch_1]would
-      just be a @waste of our energy.
+    textLeft: If we move around separately too much,@we'll probably lose track of
+      each other again...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 401301
-    textRight: If we just had a clue to go off of...
+    textRight: If there were any food joints we knew here,@she could be at one of
+      those.
   - chara:
     - id: 401301
-    textRight: Well...if it's Kazumi we're looking for,@good food is the perfect place
-      to start.
+    textRight: But it's not like Mr. Tachibana would@somehow have a cafe in every
+      city...
   - chara:
     - id: 401301
       motion: 300
-    textRight: But she's new to this place too, so@she wouldn't know where to go...
+    textRight: Can't you use X File to read the city's@information?
+  - chara:
+    - id: 401201
+      motion: 100
+    textLeft: I tried that a little while ago, but it seems@like the city's affected
+      by some kind of magic...
   - bgm: stop
-    chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 401201
-      lipSynch: 0
-      motion: 400
-    textLeft: '...?!'
-  - bgm: bgm03_story10
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -340,7 +341,8 @@ story:
       id: 401301
       motion: 400
     textRight: '[flashEffect:flashWhite2][surround:4011A04][bgEffect:shakeLarge]Waaaaaah!'
-  - chara:
+  - bgm: bgm03_story10
+    chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 401201
@@ -349,24 +351,25 @@ story:
   - chara:
     - id: 401301
       motion: 0
-    textRight: Somehow I dodged it! That was close.
+    textRight: Yeah, I just barely dodged it.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 401201
       motion: 1
-    textLeft: That was out of nowhere... What was it?@A Familiar?
+    textLeft: That was out of nowhere...@What was it? A Familiar?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 401301
       motion: 200
-    textRight: Shoot! Where'd it come from?
+    textRight: Familiar or not... whether it's soccer or@battle, I'm not the type
+      to sit around waiting.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 401301
-    textRight: Like we'll let that happen again! Right,@[chara:401301:lipSynch_0][wait:0.8][chara:401301:lipSynch_1]Umika?
+    textRight: Umika!
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

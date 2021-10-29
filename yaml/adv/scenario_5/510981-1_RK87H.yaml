@@ -10,22 +10,24 @@ story:
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51007_tower_kokoro/memoria_1138.png
+    - path: resource/scenario/img/51008_singleraid_kazumi/51008_memory08.jpg
       visible: hide
     turnChangeIn: fadeIn
   - bgm: bgm01_battle02
     nameNarration: Kazumi
-    narration: Everyone get back! I'll finish it off!
+    narration: '"Everyone get back! I''ll finish it off!"'
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: Limity Esterni!
+  - narration: '"Limity Esterni!"'
     surround: 4011A04
   - autoTurnLast: 2
+    bg: bg_adv_13021.jpg
+    bgm: stop
+    narrationEffect: out
     surround: 4011A07
     turnChangeIn: whiteIn
-  - bg: bg_adv_13021.jpg
-    bgm: bgm01_anime03
+  - bgm: bgm01_anime03
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -39,7 +41,6 @@ story:
       pos: 0
     nameLeft: Emiri
     nameRight: Kazumi
-    narrationEffect: out
     textRight: Whew!
     turnChangeOut: whiteOut
   - chara:
@@ -254,7 +255,8 @@ story:
       motion: 100
       pos: 0
     nameLeft: Emiri
-    textLeft: Ohh! So, that's what happened! [chara:300601:lipSynch_0][wait:1.0][chara:300601:cheek_0][chara:300601:face_mtn_ex_011.exp.json][chara:300601:lipSynch_1]That's@great!
+    textLeft: Ohh! So, that's what happened!@[chara:300601:lipSynch_0][wait:1.0][chara:300601:cheek_0][chara:300601:face_mtn_ex_011.exp.json][chara:300601:lipSynch_1]That's
+      great!
   - chara:
     - id: 401101
       lipSynch: 0
@@ -404,11 +406,10 @@ story:
     textLeft: In that case, I have an idea! Consider this@my way of showing gratitude!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_020.exp.json
       id: 401101
       motion: 0
-    textRight: Really?! [chara:401101:lipSynch_0][wait:0.8][chara:401101:cheek_0][chara:401101:face_mtn_ex_020.exp.json][chara:401101:lipSynch_1]P-please
-      tell me!
+    textRight: Tell me your idea!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -522,6 +523,8 @@ story:
       id: 101301
       motion: 1
       pos: 0
+    - id: 401101
+      motion: 0
     nameLeft: Asuka
     textLeft: You could maybe call her...a chiropractor@for Magical Girls.
   - chara:
@@ -646,7 +649,7 @@ story:
       pos: 1
     nameCenter: Kazumi
     narrationEffect: out
-    textCenter: (Umika, Kaoru! I can't wait to see you@again!)
+    textCenter: (Umika, Kaoru! Wait for me...!@I'll be there soon!)
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -654,7 +657,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 401101
       lipSynch: 0
-    textCenter: (Oh...I better hurry!)
+    textCenter: (You two are the only family@I have right now, after all...)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

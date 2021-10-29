@@ -20,20 +20,14 @@ story:
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401301
+    - id: 401301
     textRight: Uh huh.
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401301
+    - id: 401301
       motion: 100
     textRight: When I was up front and you were supporting@me from behind.
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401301
+    - id: 401301
     textRight: You made it so much easier to fight when @you did that!
   - chara:
     - cheek: 0
@@ -42,32 +36,23 @@ story:
       motion: 301
     textLeft: I did?
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401301
+    - id: 401301
       motion: 1
     textRight: I usually fight with my friends by my side.
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401301
-    textRight: I believe that building a strong team is@super important.
+    - id: 401301
+    textRight: I know how important it is to build a@strong team... and how hard it
+      can be.
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401301
+    - id: 401301
       motion: 0
     textRight: But even though it was my first time ever@fighting with you...
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401301
+    - id: 401301
       motion: 100
     textRight: Everything was smooth and we synced up well.
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300201
+    - id: 300201
       motion: 0
     textLeft: It was? Really?!
   - chara:
@@ -106,14 +91,10 @@ story:
       motion: 0
     textRight: Yeah, that's it!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401301
+    - id: 401301
     textRight: The best teams have players for every @single role!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401301
+    - id: 401301
       motion: 100
     textRight: You should fight however helps your team@the most, Natsuki!
   - chara:
@@ -148,6 +129,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 401301
+      lipSynch: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300201
@@ -156,15 +138,11 @@ story:
     textRight: '[chara:401301:effect_ef_adv_01][se:7201_detect_magic]...?!'
   - bgm: bgm03_story10
     chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300201
+    - id: 300201
       motion: 400
     textLeft: My Soul Gem!
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 401301
+    - id: 401301
       motion: 400
     textRight: It's picking up something!
   - autoTurnFirst: 5.3

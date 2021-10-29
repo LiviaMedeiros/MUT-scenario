@@ -30,17 +30,20 @@ story:
       id: 100301
       motion: 101
     textCenter: I'm Kamihama's Mightiest Magical Girl!
+  - autoTurnLast: 0.2
+    chara:
+    - id: 100301
+      pos: 2
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 401201
       motion: 400
       pos: 0
-    - id: 100301
-      pos: 2
     nameLeft: Umika
     nameRight: Tsuruno
-    textLeft: Wh-what are you doing?
+    textLeft: What are you doing?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -73,7 +76,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Kaoru
-    textLeft: A-ah, w-wait!
+    textLeft: Ah, wait!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -102,7 +105,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Umika
-    textLeft: U-um!
+    textLeft: Um!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -130,6 +133,8 @@ story:
       face: mtn_ex_020.exp.json
       id: 100301
     textRight: 'All right... I''m ready when you are! '
+  - autoTurnLast: 0.01
+    textClear: 1
   - chara:
     - cheek: 0
       effect: ef_adv_05
@@ -205,13 +210,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Kaoru
-    textRight: Don't do anything! Please!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401301
-      motion: 300
-    textRight: The person attacking us, she's...!
+    textRight: Don't fight her! She's not our enemy!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

@@ -1,256 +1,263 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21081.jpg
-    bgm: bgm03_story02
+  - autoTurnLast: 0.01
+    bg: bg_adv_13091.jpg
+    bgm: bgm01_anime02
     chara:
-    - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 301101
-      motion: 0
-      pos: 1
-    nameNarration: Umika
-    narration: I came across a Magical Girl here...@Miss Kako Natsume.
-    narrationBg: bg_adv_21081.jpg
-    narrationEffect: in
-    turnChangeIn: fadeIn
-    turnChangeOut: fadeOut
-  - narration: When I asked her to tell me more about@Kamihama, she invited me to
-      her home...
-  - narration: And her home is called...Natsume Books.
-  - chara:
-    - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 301101
-    nameCenter: Kako
-    narrationEffect: out
-    textCenter: Sorry about the books piled all over the@place...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-      motion: 1
-    textCenter: Oh, and please, have a seat. I'll bring you@something to drink!
-  - autoTurnLast: 0.3
-    chara:
-    - effect: fadeout
-      id: 301101
-  - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 401201
-      motion: 100
-      pos: 1
-    nameCenter: Umika
-    textCenter: Oh, thank you, but you really don't need—
-  - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 401201
-      mouthOpen: 1
-    textCenter: Ah...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 401201
-      lipSynch: 0
-      motion: 0
-    textCenter: (She has one of my books...)
-    turnEffect: thinking
-  - chara:
-    - cheek: 1
-      face: mtn_ex_010.exp.json
-      id: 401201
-      lipSynch: 0
-    textCenter: '...'
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
       motion: 1
       pos: 0
-    - id: 401201
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 301101
+      motion: 0
       pos: 2
-    nameLeft: Kako
-    nameRight: Umika
-    textLeft: Is tea okay?
-    turnEffect: stop
+    turnChangeIn: fadeIn
+  - nameNarration: Umika
+    narration: I came across a Magical Girl here in Kamihama:@Miss Kako Natsume.
+    narrationBg: bg_adv_narration.jpg
+    narrationEffect: in
+    turnChangeOut: fadeOut
+  - narration: She offered to help me find my friends,@and invited me to her house@to
+      discuss things further...
+  - chara:
+    - id: 401201
+    nameLeft: Umika
+    narrationEffect: out
+    textLeft: '"Natsume Books"...@So your house is a bookstore.'
+  - chara:
+    - id: 301101
+      motion: 300
+    nameRight: Kako
+    textRight: Yes... used books, to be precise.@[chara:301101:lipSynch_0][wait:0.8][chara:301101:cheek_0][chara:301101:face_mtn_ex_011.exp.json][chara:301101:lipSynch_1]Are
+      you all right?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 401201
+    nameLeft: Umika
+    textLeft: All right? Why wouldn't I be?
+  - chara:
+    - id: 301101
+    nameRight: Kako
+    textRight: Used bookstores have a particular smell, so some@people don't like
+      them...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 401201
+      motion: 0
+    nameLeft: Umika
+    textLeft: Oh, don't worry about that.@Honestly, I quite like it.
+  - chara:
+    - cheek: 0
+      eyeClose: 1
+      face: mtn_ex_010.exp.json
+      id: 401201
+      pos: 0
+    nameLeft: Umika
+    textLeft: It's the scent of the feelings of every person involved@with these books.
+      Their authors, their readers...
+  - chara:
+    - id: 401201
+    nameLeft: Umika
+    textLeft: It makes me feel like I'm hiding in the pocket of@the god of books.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 301101
+      motion: 0
+    nameRight: Kako
+    textRight: The pocket of the god of books...
+  - chara:
+    - cheek: 1
+      eyeClose: 0
+      face: mtn_ex_030.exp.json
+      id: 401201
+      motion: 300
+    nameLeft: Umika
+    textLeft: Ah. That might've been a bit too dramatic.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 301101
+    nameRight: Kako
+    textRight: No, I thought it was quite nice. It reminded me of a@novel I read once...
+      I believe it was...
+  - chara:
+    - id: 301101
+      motion: 400
+    nameRight: Kako
+    textRight: Umika Misaki!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 401201
       motion: 400
-      mouthOpen: 1
-    textRight: '[chara:401201:effect_emotion_surprise_0][se:7226_shock]Whoa!'
+    nameLeft: Umika
+    textLeft: Oh, yes!@Umika Misaki!
+  - chara:
+    - id: 301101
+    nameRight: Kako
+    textRight: I KNEW it!
+  - chara:
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 401201
+      motion: 0
+    nameLeft: Umika
+    textLeft: Huh? N-no, I just—@I didn't mean...
+  - chara:
+    - id: 301101
+      motion: 200
+    nameRight: Kako
+    textRight: She's such a fascinating author!@I've read all her books!
+  - chara:
+    - cheek: 1
+      face: mtn_ex_050.exp.json
+      id: 401201
+      motion: 1
+    nameLeft: Umika
+    textLeft: Uh—@Huh? Have you?
+  - chara:
+    - id: 301101
+      motion: 0
+    nameRight: Kako
+    textRight: She's a young author who doesn't often appear in@public. It's amazing
+      to think that she's a professional,@despite still being in middle school like
+      me...
+  - chara:
+    - id: 301101
+    nameRight: Kako
+    textRight: I wonder what she looks like. There's rumors that@she's actually very
+      pretty...
+  - chara:
+    - id: 401201
+      motion: 400
+    nameLeft: Umika
+    textLeft: T-that's... those rumors are overblown. Really.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 301101
-      motion: 400
-    textLeft: '[chara:301101:effect_emotion_surprise_0][se:7226_shock]A-are you okay?!
-      [chara:301101:lipSynch_0][wait:0.8][chara:301101:cheek_0][chara:301101:face_mtn_ex_011.exp.json][chara:301101:lipSynch_1]I
-      didn''t mean to startle@you.'
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-      motion: 0
-    textLeft: Oh, were you looking at that book? Feel free@to read it if you like.
+    nameRight: Kako
+    textRight: Huh? Have you seen her in person?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 401201
-      motion: 0
-    textRight: Sorry about that... I was only flipping@through the pages.
+      motion: 300
+    nameLeft: Umika
+    textLeft: Oh, no, I mean... she said as much in an interview,@is all.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 301101
+    nameRight: Kako
+    textRight: Ah, I see.
+  - chara:
+    - id: 301101
       motion: 1
-    textLeft: Oh, Umika Misaki...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401201
-      motion: 100
-    textRight: Uhuh! Umika Misaki!
+    nameRight: Kako
+    textRight: She's very talented, though! Writing all those novels@while still attending
+      school...
   - chara:
     - cheek: 1
-      face: mtn_ex_050.exp.json
-      id: 401201
-      lipSynch: 0
-    textRight: (No! I didn't mean to say that...@I just reacted to my name.)
-    turnEffect: thinking
-  - chara:
-    - cheek: 1
-      face: mtn_ex_010.exp.json
+      eyeClose: 1
       id: 301101
-      motion: 400
-    textLeft: That book is so fascinating, isn't it?@I love it!
-    turnEffect: stop
+    nameRight: Kako
+    textRight: I imagine she's very stoic. I'd be so nervous@meeting her for real...
+  - chara:
+    - eyeClose: 1
+      id: 401201
+    nameLeft: Umika
+    textLeft: I think... she might be a much more average student@than you might assume.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 401201
-      motion: 0
-    textRight: Huh?
-  - chara:
-    - cheek: 1
-      face: mtn_ex_010.exp.json
-      id: 401201
-    textRight: O-oh, really?
-  - chara:
-    - cheek: 1
-      face: mtn_ex_010.exp.json
-      id: 301101
-      motion: 0
-    textLeft: Yes!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_011.exp.json
+      eyeClose: 0
       id: 301101
       motion: 200
-    textLeft: I haven't read all of her work just yet...
+    nameRight: Kako
+    textRight: We have all of Umika Misaki's books together@on this shelf here.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-    textLeft: But that one I have read!
-  - chara:
-    - cheek: 1
-      face: mtn_ex_010.exp.json
-      id: 301101
-      motion: 100
-    textLeft: Her prose is almost lyrical, so delicate.@I fell in love with it.
-  - chara:
-    - cheek: 1
-      face: mtn_ex_001.exp.json
-      id: 401201
-      lipSynch: 0
-    textRight: '...'
-  - chara:
-    - cheek: 2
-      face: mtn_ex_010.exp.json
-      id: 401201
-      lipSynch: 0
-      motion: 300
-    textRight: (I'm getting to hear a reader's thoughts @directly from them... I'm
-      so happy!)
-    turnEffect: thinking
-  - chara:
-    - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 301101
-      motion: 300
-    textLeft: '...Oh, sorry! I just went on and on about it.'
-    turnEffect: stop
-  - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
+      eyeClose: 0
+      face: mtn_ex_050.exp.json
       id: 401201
       motion: 0
-    textRight: No, no, that's fine.
+    nameLeft: Umika
+    textLeft: '...Right next to Daihachiro Furuyashiki-sensei''s@"Flying Squirrel"
+      series...'
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401201
-      lipSynch: 0
-    textRight: (That was so nice to hear!)
-    turnEffect: thinking
+    - id: 301101
+    nameRight: Kako
+    textRight: My father only puts his absolute favorite titles@on that shelf.
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-      motion: 1
-    textLeft: Anyway, you wanted to talk about Kamihama?
-    turnEffect: stop
-  - chara:
-    - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 301101
-    textLeft: Um, where to start...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 301101
-      motion: 0
-    textLeft: Hm? Now that I think about it...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 401201
-      motion: 1
-    textRight: Yes?
-  - chara:
-    - cheek: 0
-      face: mtn_ex_022.exp.json
-      id: 301101
+    - id: 301101
       motion: 400
-    textLeft: I never asked you what your name was!
+    nameRight: Kako
+    textRight: '"Umika Misaki''s characters embody the idea that@to eat is to live."'
+  - chara:
+    - id: 301101
+    nameRight: Kako
+    textRight: That's my father's "stance on Umika"!
+  - chara:
+    - cheek: 1
+      eyeClose: 1
+      face: mtn_ex_010.exp.json
+      id: 401201
+      motion: 300
+      tear: 1
+    nameLeft: Umika
+    textLeft: '...So there''s people who understand here, too...'
   - chara:
     - cheek: 0
+      eyeClose: 0
       face: mtn_ex_030.exp.json
+      id: 301101
+      motion: 0
+    nameRight: Kako
+    textRight: Um... did I say anything odd?
+  - chara:
+    - eyeClose: 0
       id: 401201
       motion: 0
-      mouthOpen: 1
-    textRight: Huh?
+      tear: 0
+    nameLeft: Umika
+    textLeft: No, no. I was just very happy to hear that.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 301101
+      motion: 1
+    nameRight: Kako
+    textRight: Ah... oh, now that I think about it.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 301101
+    nameRight: Kako
+    textRight: I still haven't asked you your name!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 401201
-      mouthOpen: 1
-    textRight: '[chara:401201:effect_emotion_surprise_0][se:7226_shock]Oh!'
+    nameLeft: Umika
+    textLeft: '...Oh!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 401201
-      motion: 300
-    textRight: Well... My name is...
+      motion: 1
+    nameLeft: Umika
+    textLeft: Well... My name is...
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 401201
-    textRight: My name...is...
+    - id: 401201
+    nameLeft: Umika
+    textLeft: My name... happens to be...
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

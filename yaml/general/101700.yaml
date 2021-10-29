@@ -5,7 +5,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
       pos: 1
@@ -14,32 +14,32 @@ story:
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 1
       textHome: This is your Coordinator and ally to all,@Mitama Yakumo.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 200
       textHome: I may not look it, but I'm still very young@and always ready to party.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
   - autoTurnFirst: 7.4
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       textHome: ' I can be found strengthening magic@with various items and selling@wares
@@ -47,16 +47,10 @@ story:
   - autoTurnFirst: 4.3
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 300
       textHome: Why not have a look?♪
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -65,7 +59,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -87,22 +81,16 @@ story:
   - autoTurnFirst: 4
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       textHome: If their magic energy is "N",@then my own is "S".
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
       textHome: I can touch it just fine!♪
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -111,7 +99,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -121,20 +109,14 @@ story:
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 1
   - autoTurnFirst: 3
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -143,7 +125,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -152,15 +134,9 @@ story:
   - autoTurnFirst: 4
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -169,7 +145,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101700
       motion: 200
       pos: 1
@@ -179,7 +155,7 @@ story:
   - autoTurnFirst: 3.4
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       textHome: I do wish to become strong enough to fend@for myself when Momoko and
@@ -191,18 +167,12 @@ story:
   - chara:
     - id: 101700
       textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   group_14:
   - autoTurnFirst: 6.8
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 300
       pos: 1
@@ -212,28 +182,22 @@ story:
   - autoTurnFirst: 6
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 0
       textHome: ' I''m absolutely not exploiting the others@to get Grief Seeds, nope...'
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 101700
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
       textHome: Ah, I just thought of a new business venture♪
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -242,7 +206,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -266,15 +230,9 @@ story:
   - autoTurnFirst: 4
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 100
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -283,7 +241,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 1
       pos: 1
@@ -292,27 +250,21 @@ story:
   - autoTurnFirst: 3
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101700
       textHome: You must have some nerve@to keep the Coordinator waiting.
   - autoTurnFirst: 2.1
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
   - autoTurnFirst: 4
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 100
       textHome: I'll have you keep me company@for the whole day!
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -321,7 +273,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101700
       motion: 300
       pos: 1
@@ -342,18 +294,12 @@ story:
   - chara:
     - id: 101700
       textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   group_18:
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -362,28 +308,22 @@ story:
   - autoTurnFirst: 1.2
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       textHome: Even with bad attendance,@my grades are always at the top.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 200
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
       textHome: I can't blame anyone for being jealous.
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -392,7 +332,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 300
       pos: 1
@@ -402,21 +342,15 @@ story:
   - autoTurnFirst: 1
     chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 101700
       textHome: Now, now,@don't touch anything on that shelf.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 200
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -425,7 +359,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -437,18 +371,12 @@ story:
   - chara:
     - id: 101700
       textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   group_20:
   - autoTurnFirst: 0.1
     chara:
     - cheek: 1
       eyeClose: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -471,28 +399,22 @@ story:
   - autoTurnFirst: 1.6
     chara:
     - cheek: 1
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       textHome: I'm done being Coordinator for today.
   - autoTurnFirst: 2
     chara:
     - cheek: 1
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
   - autoTurnFirst: 6
     chara:
     - cheek: 1
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 300
       textHome: That's the benefit of having@irregular business hours!
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -501,7 +423,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 200
       pos: 1
@@ -511,22 +433,16 @@ story:
   - autoTurnFirst: 4.8
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101700
       motion: 0
   - autoTurnFirst: 5
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 300
       textHome: Could you keep me company@for a little while?
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -535,7 +451,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -544,28 +460,22 @@ story:
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
       textHome: Good luck, everyone!
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 300
       textHome: If you take Felicia with you,@it'll be done in no time.
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -574,7 +484,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 200
       pos: 1
@@ -590,20 +500,14 @@ story:
   - autoTurnFirst: 0.8
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 100
   - autoTurnFirst: 4
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -612,7 +516,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 101700
       motion: 300
       pos: 1
@@ -620,13 +524,13 @@ story:
   - autoTurnFirst: 2
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 100
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
   - autoTurnFirst: 5
     chara:
@@ -635,18 +539,12 @@ story:
   - chara:
     - id: 101700
       textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   group_25:
   - autoTurnFirst: 4.3
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 1
       pos: 1
@@ -665,18 +563,12 @@ story:
   - chara:
     - id: 101700
       textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   group_26:
   - autoTurnFirst: 4.2
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 200
       pos: 1
@@ -691,15 +583,9 @@ story:
   - autoTurnFirst: 3.2
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -708,7 +594,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 200
       pos: 1
@@ -722,22 +608,16 @@ story:
   - autoTurnFirst: 3
     chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 101700
       textHome: Oh, I know!@It's not much of a punishment, but@why don't you cook
         with me?
   - autoTurnFirst: 4.7
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 200
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -746,7 +626,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -755,29 +635,23 @@ story:
   - autoTurnFirst: 2
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
   - autoTurnFirst: 4.1
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 300
       textHome: Once I'm there, I don't ever budge.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       textHome: Unless I need to go to the bathroom or@take a bath, I'm always in
         snuggle mode.
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -786,7 +660,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -800,15 +674,9 @@ story:
   - autoTurnFirst: 5
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       textHome: '*Chuckle*@It''s a great place to escape to, isn''t it?'
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -817,17 +685,11 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101700
       motion: 200
       pos: 1
       voice: vo_char_1017_00_04
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -836,7 +698,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101700
       motion: 300
       pos: 1
@@ -846,21 +708,15 @@ story:
   - autoTurnFirst: 3
     chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 101700
       textHome: But she's too nice,@I can't help depending on her.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -869,7 +725,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -889,15 +745,9 @@ story:
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -906,7 +756,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 101700
       motion: 100
       pos: 1
@@ -925,15 +775,9 @@ story:
   - autoTurnFirst: 7.4
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 300
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -942,7 +786,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -951,7 +795,7 @@ story:
   - autoTurnFirst: 0.6
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
   - autoTurnFirst: 0.7
@@ -965,14 +809,14 @@ story:
   - autoTurnFirst: 4.4
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       textHome: I hit pesky rascals like you in@places that weaken their magic!
   - autoTurnFirst: 1.2
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       textHome: '*Chuckle*@I''m only joking, of course!'
   - autoTurnFirst: 3.5
@@ -982,18 +826,12 @@ story:
   - chara:
     - id: 101700
       textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   group_34:
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 101700
       motion: 200
       pos: 1
@@ -1002,18 +840,12 @@ story:
   - chara:
     - id: 101700
       textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   group_35:
   - autoTurnFirst: 2.2
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 101700
       motion: 100
       pos: 1
@@ -1022,14 +854,8 @@ story:
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1038,7 +864,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101700
       motion: 300
       pos: 1
@@ -1047,18 +873,12 @@ story:
   - chara:
     - id: 101700
       textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   group_37:
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -1067,15 +887,9 @@ story:
   - autoTurnFirst: 3.5
     chara:
     - cheek: 1
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1084,7 +898,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 100
       pos: 1
@@ -1093,14 +907,8 @@ story:
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1109,7 +917,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -1121,18 +929,12 @@ story:
   - chara:
     - id: 101700
       textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   group_4:
   - autoTurnFirst: 1.2
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -1144,18 +946,12 @@ story:
   - chara:
     - id: 101700
       textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   group_40:
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 300
       pos: 1
@@ -1163,14 +959,8 @@ story:
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1179,7 +969,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 1
       pos: 1
@@ -1187,15 +977,9 @@ story:
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1204,17 +988,11 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 300
       pos: 1
       voice: vo_char_1017_00_66
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1223,7 +1001,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 101700
       motion: 400
       pos: 1
@@ -1232,7 +1010,7 @@ story:
   - autoTurnFirst: 5.9
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 200
   - autoTurnFirst: 2.9
@@ -1244,22 +1022,16 @@ story:
   - autoTurnFirst: 1
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       textHome: '*Giggle*'
   - autoTurnFirst: 4
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 100
       textHome: Well anyway, it's a pleasure to@make your acquaintance.
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1268,7 +1040,7 @@ story:
     chara:
     - cheek: 1
       eyeClose: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
       pos: 1
@@ -1277,19 +1049,13 @@ story:
   - autoTurnFirst: 2.3
     chara:
     - cheek: 1
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
   - autoTurnFirst: 3
     chara:
     - cheek: 1
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1298,7 +1064,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -1308,15 +1074,9 @@ story:
   - autoTurnFirst: 5
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 300
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1325,7 +1085,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 101700
       motion: 300
       pos: 1
@@ -1334,21 +1094,15 @@ story:
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       textHome: But I'll make an exception this time♪
   - autoTurnFirst: 3.5
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 200
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1357,7 +1111,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 1
       pos: 1
@@ -1367,38 +1121,32 @@ story:
   - autoTurnFirst: 2
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
   - autoTurnFirst: 1.8
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       textHome: Word of mouth alone has made@my business boom...
   - autoTurnFirst: 1
     chara:
     - cheek: 1
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
   - autoTurnFirst: 0.8
     chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 101700
   - autoTurnFirst: 5
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 200
       textHome: '*Giggle*@Nevermind, nothing♪'
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
-  - chara:
-    - id: 101700
-      textHomeStatus: Clear
   - chara:
     - id: 101700
       textHomeStatus: Clear
@@ -1407,7 +1155,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
       pos: 1
@@ -1416,31 +1164,719 @@ story:
   - autoTurnFirst: 4
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 1
       textHome: Due to that, magic energy condenses into@various crystals.
   - autoTurnFirst: 1.7
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101700
       textHome: Bring the crystals to me and I'll make them@into something useful
         for you.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
   - chara:
     - id: 101700
       textHomeStatus: Clear
+  group_44:
+  - autoTurnFirst: 1.8
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 100
+      pos: 1
+      voice: vo_game_0702_01
+      textHome: Trick or treat♪
+  - autoTurnFirst: 2.9
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      textHome: Those who don't buy@something may get@tricked... *Chuckle*
+  - autoTurnFirst: 2
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 0
   - chara:
     - id: 101700
       textHomeStatus: Clear
+  group_45:
+  - autoTurnFirst: 2.7
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 0
+      pos: 1
+      voice: vo_game_0702_02
+      textHome: We have pleeenty of@costumes at the@Coordinator's, too!
+  - autoTurnFirst: 1.8
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 100
+  - autoTurnFirst: 1.6
+    chara:
+    - cheek: 0
+      face: mtn_ex_030.exp3.json
+      id: 101700
+      textHome: '...or at least we would,@if I''d thought@that far ahead.'
+  - autoTurnFirst: 3
+    chara:
+    - id: 101700
+      motion: 300
   - chara:
     - id: 101700
       textHomeStatus: Clear
+  group_46:
+  - autoTurnFirst: 1.3
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 1
+      pos: 1
+      voice: vo_game_0702_03
+      textHome: Hi, welcome♪
+  - autoTurnFirst: 1.4
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      textHome: How about the@Coordinator's handmade@Jack-o'-lantern?
+  - autoTurnFirst: 1.9
+    chara:
+    - id: 101700
+      motion: 200
+  - autoTurnFirst: 2
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
+  group_47:
+  - autoTurnFirst: 3.5
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_030.exp3.json
+      id: 101700
+      motion: 300
+      pos: 1
+      voice: vo_game_0702_04
+      textHome: Unfortunately,@I have no candy left...
+  - autoTurnFirst: 2.3
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 400
+      textHome: Ahh, maybe I'm also@about to get tricked?
+  - autoTurnFirst: 1.8
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 1
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
+  group_48:
+  - autoTurnFirst: 3.4
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 200
+      pos: 1
+      voice: vo_game_0702_08
+      textHome: Since the morning,@I've been thinking on
+  - autoTurnFirst: 2.6
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      textHome: what kind of cute@customers will be@passing by today♪
+  - autoTurnFirst: 0.5
+    chara:
+    - cheek: 1
+      id: 101700
+      motion: 100
+      textHome: If one of them makes@my heart skip a beat,
+  - autoTurnFirst: 1.2
+    chara:
+    - cheek: 1
+      face: mtn_ex_010.exp3.json
+      id: 101700
+  - autoTurnFirst: 3.3
+    chara:
+    - cheek: 1
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 1
+      textHome: I might give them@some special service!
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
+  group_49:
+  - autoTurnFirst: 3.4
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_051.exp3.json
+      id: 101700
+      motion: 0
+      pos: 1
+      voice: vo_game_0702_09
+      textHome: I wonder what would@food for Halloween be?
+  - autoTurnFirst: 2.6
+    chara:
+    - id: 101700
+      motion: 300
+      textHome: Pumpkin Soup?
+  - autoTurnFirst: 5.4
+    chara:
+    - cheek: 0
+      face: mtn_ex_030.exp3.json
+      id: 101700
+      motion: 200
+      textHome: Offering lunch as a special@service would be nice,
+  - autoTurnFirst: 2.2
+    chara:
+    - id: 101700
+      textHome: but the color's not@very appealing.
+  - autoTurnFirst: 3
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 100
+      textHome: '...Maybe I''ll put@my own spin on it!'
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
+  group_50:
+  - autoTurnFirst: 5
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_001.exp3.json
+      id: 101700
+      motion: 0
+      pos: 1
+      voice: vo_game_0702_10
+      textHome: Enough joking.@You should buy something.
+  - autoTurnFirst: 5.6
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 300
+      textHome: Because on Halloween,@the real Witches@keep moving around.
+  - autoTurnFirst: 3
+    chara:
+    - id: 101700
+      motion: 200
+      textHome: Soon, it'll be the time@when they're most active.
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
+  group_51:
+  - autoTurnFirst: 3.8
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 1
+      pos: 1
+      voice: vo_game_0702_11
+      textHome: It's getting late,@so why don't you go@visit some houses?
+  - autoTurnFirst: 0.4
+    chara:
+    - id: 101700
+      lipSynch: 0
+  - autoTurnFirst: 1.8
+    chara:
+    - id: 101700
+      lipSynch: 1
+      motion: 0
+      textHome: I think a Magical Girl@outfit should look like a@costume, right? *Chuckle*
+  - autoTurnFirst: 3.6
+    chara:
+    - id: 101700
+      motion: 200
+  - autoTurnFirst: 2.4
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 100
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
+  group_52:
+  - autoTurnFirst: 1.5
+    chara:
+    - cheek: 1
+      eyeClose: 1
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 300
+      pos: 1
+      voice: vo_game_0702_12
+      textHome: I want to do it. A costume@party for Magical Girls; so@cute just thinking
+        about it♪
+  - autoTurnFirst: 3.1
+    chara:
+    - eyeClose: 0
+      id: 101700
+  - autoTurnFirst: 3.3
+    chara:
+    - cheek: 1
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 100
+  - autoTurnFirst: 1.6
+    chara:
+    - cheek: 1
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 200
+      textHome: Even if she makes@a fuss about it,
+  - autoTurnFirst: 2
+    chara:
+    - cheek: 1
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      textHome: I really want to dress@Momoko up in something.
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
+  group_53:
+  - autoTurnFirst: 4.3
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 300
+      pos: 1
+      voice: vo_game_0902_01
+  - autoTurnFirst: 1.5
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+  - autoTurnFirst: 4
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 1
+  group_54:
+  - autoTurnFirst: 4.2
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 0
+      pos: 1
+      voice: vo_game_0902_02
+  - autoTurnFirst: 5
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 100
+  group_55:
+  - autoTurnFirst: 5.5
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 0
+      pos: 1
+      voice: vo_game_0902_03
+  - autoTurnFirst: 1.8
+    chara:
+    - id: 101700
+      motion: 100
+  - autoTurnFirst: 4
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+  group_56:
+  - autoTurnFirst: 2
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 1
+      pos: 1
+      voice: vo_game_0902_04
+  - autoTurnFirst: 2.7
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 400
+  - autoTurnFirst: 2
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 100
+  group_57:
+  - autoTurnFirst: 6.4
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 300
+      pos: 1
+      voice: vo_game_0902_08
+  - autoTurnFirst: 1.8
+    chara:
+    - id: 101700
+      motion: 0
+  - autoTurnFirst: 4
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 200
+  group_58:
+  - autoTurnFirst: 1.2
+    chara:
+    - cheek: 0
+      eyeClose: 1
+      face: mtn_ex_030.exp3.json
+      id: 101700
+      motion: 0
+      pos: 1
+      voice: vo_game_0902_09
+  - autoTurnFirst: 0.2
+    chara:
+    - eyeClose: 0
+      id: 101700
+  - autoTurnFirst: 6.2
+    chara:
+    - id: 101700
+      motion: 300
+  - autoTurnFirst: 6
+    chara:
+    - eyeClose: 1
+      id: 101700
+      motion: 400
+  group_59:
+  - autoTurnFirst: 5
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 1
+      pos: 1
+      voice: vo_game_0902_10
+  - autoTurnFirst: 2.3
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 0
+  - autoTurnFirst: 6.2
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 300
+  - autoTurnFirst: 2
+    chara:
+    - id: 101700
+      motion: 200
+  group_60:
+  - autoTurnFirst: 2.6
+    chara:
+    - cheek: 0
+      eyeClose: 1
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 0
+      pos: 1
+      voice: vo_game_0902_11
+  - autoTurnFirst: 0.4
+    chara:
+    - eyeClose: 0
+      id: 101700
+  - autoTurnFirst: 5.6
+    chara:
+    - id: 101700
+      motion: 200
+  - autoTurnFirst: 1.9
+    chara:
+    - id: 101700
+      motion: 100
+  - autoTurnFirst: 5
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+  group_61:
+  - autoTurnFirst: 4.3
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 100
+      pos: 1
+      voice: vo_game_0902_12
+  - autoTurnFirst: 4.3
+    chara:
+    - eyeClose: 1
+      id: 101700
+      motion: 300
+  - autoTurnFirst: 2
+    chara:
+    - eyeClose: 0
+      id: 101700
+  group_62:
+  - autoTurnFirst: 1.2
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 100
+      pos: 1
+      voice: vo_game_1102_01
+  - autoTurnFirst: 4.4
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+  - autoTurnFirst: 3
+    chara:
+    - id: 101700
+      motion: 1
+  group_63:
+  - autoTurnFirst: 2.7
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 400
+      pos: 1
+      voice: vo_game_1102_02
+  - autoTurnFirst: 3.7
+    chara:
+    - id: 101700
+      motion: 0
+  - autoTurnFirst: 3.7
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 200
+  group_64:
+  - autoTurnFirst: 5.5
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_030.exp3.json
+      id: 101700
+      motion: 300
+      pos: 1
+      voice: vo_game_1102_03
+  - autoTurnFirst: 4
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 100
+  group_65:
+  - autoTurnFirst: 2.3
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_051.exp3.json
+      id: 101700
+      motion: 1
+      pos: 1
+      voice: vo_game_1102_04
+  - autoTurnFirst: 2.4
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+  - autoTurnFirst: 2
+    chara:
+    - id: 101700
+      motion: 300
+  group_66:
+  - autoTurnFirst: 1.9
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 200
+      pos: 1
+      voice: vo_game_1102_08
+  - autoTurnFirst: 3.7
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+  - autoTurnFirst: 4.8
+    chara:
+    - eyeClose: 1
+      id: 101700
+      motion: 300
+  - autoTurnFirst: 0.3
+    chara:
+    - eyeClose: 0
+      id: 101700
+  - autoTurnFirst: 4
+    chara:
+    - id: 101700
+      motion: 400
+  group_67:
+  - autoTurnFirst: 3.9
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 100
+      pos: 1
+      voice: vo_game_1102_09
+  - autoTurnFirst: 4.2
+    chara:
+    - cheek: 0
+      face: mtn_ex_051.exp3.json
+      id: 101700
+      motion: 0
+  - autoTurnFirst: 3.9
+    chara:
+    - id: 101700
+      motion: 300
+  - autoTurnFirst: 0.9
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+  - autoTurnFirst: 6
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 200
+  group_68:
+  - autoTurnFirst: 3.1
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 1
+      pos: 1
+      voice: vo_game_1102_10
+  - autoTurnFirst: 2.1
+    chara:
+    - id: 101700
+      motion: 400
+  - autoTurnFirst: 2.4
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 300
+  - autoTurnFirst: 2.8
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+  - autoTurnFirst: 1.2
+    chara:
+    - cheek: 0
+      face: mtn_ex_030.exp3.json
+      id: 101700
+      motion: 200
+  - autoTurnFirst: 4
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+  group_69:
+  - autoTurnFirst: 2.9
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 0
+      pos: 1
+      voice: vo_game_1102_11
+  - autoTurnFirst: 5.6
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
+      motion: 100
+  - autoTurnFirst: 5.6
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 1
+  group_70:
+  - autoTurnFirst: 4.5
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_030.exp3.json
+      id: 101700
+      motion: 300
+      pos: 1
+      voice: vo_game_1102_12
+  - autoTurnFirst: 5
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp3.json
+      id: 101700
+      motion: 0
+  - autoTurnFirst: 1.9
+    chara:
+    - id: 101700
+      motion: 100
+  - autoTurnFirst: 2
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp3.json
+      id: 101700
 version: 3
 ...

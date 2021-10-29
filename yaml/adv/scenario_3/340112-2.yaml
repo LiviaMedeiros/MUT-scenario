@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm01_anime03
     chara:
     - cheek: 0
@@ -11,7 +11,7 @@ story:
       pos: 1
     nameNarration: Kazumi
     narration: I realized something@while working at Walnut's.
-    narrationBg: bg_adv_21221.jpg
+    narrationBg: bg_adv_19221.jpg
     narrationEffect: in
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -33,9 +33,7 @@ story:
     nameRight: ""
     textRight: I just can't resist coming here!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300902
+    - id: 300902
       motion: 1
     nameLeft: Manaka
     textLeft: We're always glad to see you!
@@ -45,9 +43,7 @@ story:
       id: 800800
     textRight: I can't even remember how many times@I've come this week.
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300902
+    - id: 300902
       motion: 100
     textLeft: This'll be your third time!
   - chara:
@@ -61,26 +57,18 @@ story:
       id: 800800
     textRight: The food here has such a homey feel to it,@and it tastes so good.
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300902
+    - id: 300902
       motion: 400
     textLeft: Thank you!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300902
+    - id: 300902
       motion: 1
     textLeft: What would you like to have today?
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800800
+    - id: 800800
     textRight: Let's see... This time I'll get the spaghetti@marinara!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300902
+    - id: 300902
       motion: 100
       mouthOpen: 1
     textLeft: One spaghetti marinara, coming up!
@@ -94,7 +82,7 @@ story:
       pos: 2
     nameNarration: Kazumi
     narration: The food they serve at Walnut's@is really on another level!
-    narrationBg: bg_adv_21221.jpg
+    narrationBg: bg_adv_19221.jpg
     narrationEffect: in
   - narration: And it's not just that!@The atmosphere is so lovely!
   - narration: The customers are warm and friendly,@and Manaka does her best in return...
@@ -112,14 +100,10 @@ story:
       pos: 0
     textLeft: Something wrong? Your face is pale...
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 800700
+    - id: 800700
     textRight: Oh, Manaka, I've been so busy lately.
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 800700
+    - id: 800700
     textRight: '[chara:800700:effect_emotion_sad_0][se:7224_fall_into]Work has me
       doing back-to-back overtime, so@I don''t have a drop of energy left...'
   - chara:
@@ -129,9 +113,7 @@ story:
     textRight: But that's why I'm glad I can eat here!@It's always the highlight of
       my day.
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300902
+    - id: 300902
     textLeft: That sounds so rough...
   - chara:
     - cheek: 0
@@ -174,20 +156,14 @@ story:
     nameRight: ""
     textRight: Huh? What's this? I didn't order anything...
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300902
+    - id: 300902
       motion: 1
     textLeft: It's my special vegetable juice! Crammed@with nutrients and energy!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300902
+    - id: 300902
     textLeft: Please give it a try! It's on the house!
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 800700
+    - id: 800700
     textRight: What! Really?! Gosh, you're too kind... @Thank you!
   - chara:
     - cheek: 0
@@ -195,26 +171,18 @@ story:
       id: 800700
     textRight: I guess I'll drink it now!@*Glug* *Glug*
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800700
+    - id: 800700
     textRight: '[chara:800700:effect_emotion_joy_0][se:7222_happy]...Mmm, tasty! I
       feel supercharged now!'
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300902
+    - id: 300902
       motion: 400
     textLeft: I'm so glad!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800700
+    - id: 800700
     textRight: Thanks for the great food! I'll definitely be@back!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300902
+    - id: 300902
       motion: 0
       mouthOpen: 1
     - effect: fadeout
@@ -226,17 +194,16 @@ story:
       id: 401101
       motion: 100
       pos: 2
+    - id: 300902
+      mouthOpen: 0
     nameRight: Kazumi
     textRight: Wow! Talk about thinking on the spot!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300902
+    - id: 300902
       motion: 1
     textLeft: Nothing makes me happier than being able@to cheer up customers.
   - chara:
     - cheek: 1
-      face: mtn_ex_010.exp.json
       id: 300902
       motion: 100
     textLeft: Heh! That must sound kind of cheesy...
