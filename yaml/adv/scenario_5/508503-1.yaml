@@ -1,0 +1,471 @@
+---
+story:
+  group_1:
+  - autoTurnLast: 0.01
+    bg: bg_adv_21153.jpg
+    bgm: bgm23_promised04
+    chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 302100
+      motion: 0
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 305800
+      motion: 0
+      pos: 2
+    turnChangeIn: fadeIn
+    turnEffect: blackPromist
+  - chara:
+    - id: 302100
+    nameLeft: Ryouko
+    textLeft: '"Yo, I''ve been waiting for ya!"'
+    turnChangeOut: fadeOut
+  - chara:
+    - id: 302100
+      lipSynch: 0
+    textLeft: '...'
+  - chara:
+    - id: 302100
+      lipSynch: 0
+    textLeft: I won't hang out with you.
+  - chara:
+    - eyeClose: 1
+      id: 302100
+      lipSynch: 0
+      motion: 300
+    textLeft: Haha! I'm not here for that.
+  - chara:
+    - id: 302100
+      lipSynch: 0
+    textLeft: What...!
+  - chara:
+    - eyeClose: 0
+      id: 302100
+      lipSynch: 0
+    textLeft: Then...what are you here for?
+  - chara:
+    - id: 305800
+    nameRight: Ryouko
+    textRight: Well...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 305800
+    textRight: Uhh, what do I say... [chara:305801:lipSynch_0][wait:1.0][chara:305801:eyeClose_1][chara:305801:lipSynch_1]ahem...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_012.exp.json
+      id: 305800
+      motion: 200
+    textRight: I'm gonna kick your ass!
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 305800
+    textRight: Therefore, let's go to a riverbed where no one@will see us.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 302100
+      lipSynch: 0
+    textLeft: '...'
+  - chara:
+    - id: 302100
+      motion: 0
+    textLeft: (What the heck... I can't decipher this at all...)
+  - chara:
+    - id: 302100
+      motion: 400
+    textLeft: (But... maybe that's fine.)
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 305800
+      motion: 400
+    textRight: (If this is going to happen someday anyway...@better now, while it’s
+      not too late...)
+  - chara:
+    - id: 302100
+    textLeft: Fine.
+  - autoTurnLast: 1
+    chara:
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 305800
+      motion: 0
+      pos: 2
+    - cheek: 1
+      face: mtn_ex_020.exp.json
+      id: 302100
+      motion: 0
+      pos: 0
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 305800
+      motion: 300
+      mouthOpen: 1
+    - id: 302100
+      motion: 300
+    textRight: '...[wait:1.0][chara:302100:lipSynch_1]so, what do you want?'
+    turnChangeOut: fadeOut
+  - chara:
+    - id: 302100
+      mouthOpen: 1
+    - id: 305800
+      mouthOpen: 0
+    textLeft: '"It’s not too late yet"... you came with me ''cause@that''s what you
+      were thinking, yeah?'
+  - chara:
+    - cheek: 0
+      id: 305800
+    - cheek: 0
+      id: 302100
+      motion: 0
+      mouthOpen: 0
+    textRight: How do I say it...
+  - chara:
+    - id: 305800
+    textRight: Your shoes...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_012.exp.json
+      id: 305800
+      motion: 0
+    textRight: '...were in the shoe cupboard.'
+  - chara:
+    - id: 305800
+    textRight: Your shoe cupboard.
+  - chara:
+    - id: 305800
+    textRight: '[chara:302100:effect_emotion_surprise_0][se:7226_shock]―?!'
+  - chara:
+    - id: 302100
+    textLeft: You found them...
+  - chara:
+    - id: 305800
+      motion: 100
+    textRight: Also, your class has a group chat, doesn't it?
+  - chara:
+    - id: 302100
+    textLeft: There's a lotta malicious gossip about you going@on in there.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 305800
+      motion: 0
+    textRight: But most of it was just someone starting the gossip,@and everyone else
+      chiming in.
+  - chara:
+    - cheek: 1
+      id: 302100
+      motion: 100
+    textLeft: Just the same old flow of events, over and over.
+  - chara:
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 302100
+      lipSynch: 0
+    textLeft: But those who chimed in were mostly just@responding...
+  - chara:
+    - id: 302100
+      motion: 300
+    textLeft: The only one who’d write anything specific was@the first guy.
+  - chara:
+    - eyeClose: 1
+      id: 302100
+    textLeft: '...!'
+  - autoTurnLast: 0.01
+    bg: bg_adv_21075.jpg
+    bgm: stop
+    chara:
+    - cheek: 0
+      eyeClose: 1
+      face: mtn_ex_050.exp.json
+      id: 302101
+      motion: 0
+      pos: 1
+    turnChangeIn: whiteIn
+    turnEffect: stop
+  - chara:
+    - eyeClose: 0
+      id: 302101
+    nameCenter: Ryouko
+    textCenter: 'I can only guess... but that "first guy"... '
+    turnChangeOut: whiteOut
+    turnChangeOutTime: 0.2
+  - chara:
+    - cheek: 0
+      id: 302101
+      lipSynch: 0
+    textCenter: '...is you, right?'
+  - chara:
+    - cheek: 1
+      face: mtn_ex_020.exp.json
+      id: 302101
+      lipSynch: 0
+      motion: 300
+    textCenter: '...'
+  - chara:
+    - cheek: 1
+      eyeClose: 1
+      id: 302101
+      motion: 100
+    textCenter: In short, you’re the one who spread malicious@gossip about yourself...
+  - autoTurnLast: 0.01
+    bg: bg_adv_50075.jpg
+    bgm: stop
+    chara:
+    - cheek: 0
+      eyeClose: 1
+      face: mtn_ex_010.exp.json
+      id: 305801
+      motion: 0
+      pos: 1
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 305801
+      motion: 100
+      mouthOpen: 1
+    nameCenter: Ryouko
+    textCenter: And you're the one who hid your own shoes...
+    turnChangeOut: fadeOut
+  - autoTurnLast: 0.01
+    bg: bg_adv_47105.jpg
+    chara:
+    - id: 6105
+      name: sprite_0
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 302100
+      motion: 0
+      pos: 2
+    turnChangeIn: fadeIn
+    turnEffect: blackFrame
+  - bgm: bgm03_story03
+    chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 302100
+      motion: 400
+    nameRight: Sakuya
+    textRight: '...[wait:1.0][chara:302100:motion_200][chara:302100:cheek_0][chara:302100:face_mtn_ex_020.exp.json][chara:302100:lipSynch_1]huh?'
+    turnChangeOut: fadeOut
+  - autoTurnLast: 1
+    bgEffect: shakeSmall
+    chara:
+    - effect: 7003_damage02
+      id: 6105
+      name: sprite_0
+    surround: 3021A03
+    textClear: 1
+  - autoTurnLast: 0.01
+    chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 305800
+      motion: 0
+      pos: 1
+    turnChangeIn: rollInFast
+  - chara:
+    - id: 305800
+    textCenter: Do you even believe what’s coming out of your@own mouth?
+    turnChangeOut: rollOutFast
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 305800
+      lipSynch: 0
+      motion: 1
+    textCenter: What on earth would I gain by doing such things@to myself?
+  - chara:
+    - id: 305800
+    textCenter: '...a long time ago, there was a bullying incident@in my class.'
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 305800
+      motion: 400
+    textCenter: '...'
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 305800
+      motion: 0
+    textCenter: Well, the problem was solved when I beat the@shit out of that bully.
+  - chara:
+    - id: 305800
+      motion: 100
+    textCenter: But that’s beside the point...
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 305800
+      motion: 200
+    textCenter: There were plenty of students who noticed the@bullying before I did.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_012.exp.json
+      id: 305800
+      motion: 0
+    textCenter: So, what did those who noticed it first do...?
+  - autoTurnLast: 0.2
+    chara:
+    - effect: slideOutLeftFast
+      id: 305800
+    textClear: 1
+  - autoTurnLast: 0.01
+    bg: bg_adv_21131.jpg
+    chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 305801
+      motion: 0
+      pos: 2
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 302101
+      motion: 200
+      pos: 0
+    turnChangeIn: fadeIn
+  - chara:
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 305801
+      motion: 300
+    nameLeft: Ryouko
+    nameRight: Ryouko
+    textRight: Believe it or not... they all tried to stay the hell@out of it.
+    turnChangeOut: fadeOut
+  - chara:
+    - cheek: 1
+      face: mtn_ex_050.exp.json
+      id: 305801
+      pos: 1
+    nameCenter: Ryouko
+    textBg: shout
+    textCenter: What, was it because they didn't like the kid who@was being bullied?
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 302101
+      motion: 400
+      mouthOpen: 1
+    textBg: shout
+    textLeft: That’s not it at all.
+  - autoTurnLast: 0.2
+    chara:
+    - id: 302101
+      pos: 1
+    textClear: 1
+  - chara:
+    - cheek: 1
+      eyeClose: 1
+      face: mtn_ex_020.exp.json
+      id: 305801
+      motion: 100
+      pos: 0
+    nameLeft: Ryouko
+    textLeft: In fact, they were all rather sympathetic, hoping@someone would go to
+      help.
+  - chara:
+    - id: 305801
+      lipSynch: 0
+      motion: 300
+      pos: 2
+    textRight: But they were too scared to get involved@themselves.
+  - chara:
+    - id: 305801
+      lipSynch: 0
+    textRight: '"Guess that sorta stuff happens too", was what@I thought.'
+  - chara:
+    - id: 305801
+      lipSynch: 0
+    textRight: Though it actually seems like a pretty common@phenomenon.
+  - chara:
+    - id: 305801
+      lipSynch: 0
+    textRight: So what? That has nothing to do with this.
+  - chara:
+    - id: 305801
+      lipSynch: 0
+    textRight: No, I mean, let’s say someone has a special@situation where they’re
+      not allowed to stand out...
+  - chara:
+    - cheek: 2
+      id: 302101
+      motion: 100
+      mouthOpen: 0
+      pos: 0
+    nameLeft: Ryouko
+    textLeft: But they didn’t want to make any friends, either...
+  - chara:
+    - eyeClose: 1
+      id: 305801
+      lipSynch: 0
+      motion: 0
+      pos: 2
+      posY: 0
+    nameRight: Ryouko
+    textRight: Suppose that there is such a student...
+  - chara:
+    - cheek: 1
+      face: mtn_ex_010.exp.json
+      id: 305801
+    textRight: I figured mayyybe they would take advantage of@this phenomenon.
+  - chara:
+    - id: 305801
+      motion: 200
+    textRight: Well, I'm talking about you, buddy.
+  - autoTurnLast: 0.01
+    bg: bg_adv_50075.jpg
+    bgm: stop
+    chara:
+    - cheek: 0
+      eyeClose: 1
+      face: mtn_ex_050.exp.json
+      id: 305801
+      motion: 0
+      pos: 1
+    turnChangeIn: whiteIn
+    turnEffect: stop
+  - chara:
+    - eyeClose: 0
+      id: 305801
+    nameCenter: Ryouko
+    textCenter: In other words, you’re the one who did all that...
+    turnChangeOut: whiteOut
+    turnChangeOutTime: 0.2
+  - bgm: bgm23_tokime02
+    chara:
+    - id: 305801
+      lipSynch: 0
+    textCenter: '...[wait:1.0][chara:302100:lipSynch_1]Yeah, I am.'
+  - chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 305801
+    textCenter: I wanted to be isolated.
+  - chara:
+    - id: 305801
+      motion: 200
+      mouthOpen: 1
+    textCenter: I’ve been saying so from the beginning, y’know?@I had no choice but
+      to isolate myself.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 305801
+      motion: 0
+      mouthOpen: 0
+    textCenter: Which is why I pretended to be an outcast.
+  - chara:
+    - id: 305801
+      motion: 300
+    textCenter: For man, the surest path to isolation is to play as@an isolated character.
+  - autoTurnLast: 2
+    turnChangeIn: fadeIn
+version: 3
+...

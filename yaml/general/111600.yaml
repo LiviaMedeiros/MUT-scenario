@@ -29,7 +29,7 @@ story:
     chara:
     - id: 111600
       motion: 0
-      textHome: This way, as a magical girl, @ I can still fight Witches.
+      textHome: This way, as a Magical Girl, @ I can still fight Witches.
   - autoTurnFirst: 6
     chara:
     - id: 111600
@@ -224,7 +224,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 111600
       motion: 0
-      textHome: But I don't see it as a misfortune. @As a magical girl,
+      textHome: But I don't see it as a misfortune. @As a Magical Girl,
   - autoTurnFirst: 2.5
     chara:
     - eyeClose: 1
@@ -550,7 +550,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1116_00_29
-      textHome: Sometimes I don't even know who the hell I am.
+      textHome: Sometimes I don't even know@ who the hell I am.
   - autoTurnFirst: 3.7
     chara:
     - id: 111600
@@ -561,7 +561,7 @@ story:
     - eyeClose: 1
       id: 111600
       motion: 200
-      textHome: I'm a high school girl, a maid, @a magical girl, a vampire...
+      textHome: I'm a high school girl, a maid, @a Magical Girl, a vampire...
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
@@ -586,7 +586,7 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1116_00_30
-      textHome: A witch has appeared.
+      textHome: A Witch has appeared.
   - autoTurnFirst: 3.9
     chara:
     - id: 111600
@@ -811,7 +811,7 @@ story:
     chara:
     - id: 111600
       motion: 0
-      textHome: The eye patch is a natural part of the soul gem,
+      textHome: The eye patch is a natural part of the Soul Gem,
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
@@ -855,8 +855,8 @@ story:
       pos: 1
       tear: 0
       voice: vo_char_1116_00_37
-      textHome: It's dazzling to see a Young Artist doing@everything she can to do
-        what she loves.
+      textHome: It's dazzling to see the Young Artist doing@everything she can to
+        do what she loves.
   - autoTurnFirst: 4.6
     chara:
     - cheek: 0
