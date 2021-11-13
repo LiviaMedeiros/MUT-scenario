@@ -248,11 +248,11 @@ story:
       face: mtn_ex_010.exp.json
       id: 305801
       motion: 1
-    textLeft: No, I just was wondering if your Soul Gem might@be clouded
+    textLeft: No, I just was wondering if your Soul Gem might@be clouded...
   - chara:
     - id: 305801
-    textLeft: from all the unpleasant experiences you've had@with people hiding your
-      shoes, so...
+    textLeft: '...from all the unpleasant experiences you''ve had@with people hiding
+      your shoes, so...'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

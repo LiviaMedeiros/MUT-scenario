@@ -92,7 +92,7 @@ story:
       id: 800100
       motion: 0
     nameLeft: ""
-    textLeft: Good Morning!
+    textLeft: Good morning!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0

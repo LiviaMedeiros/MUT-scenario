@@ -34,7 +34,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 305801
       lipSynch: 0
-    textRight: (The Adjusters... would know better, right...?)
+    textRight: (The Coordinators... would know better, right...?)
   - chara:
     - id: 305801
       lipSynch: 0
@@ -44,7 +44,7 @@ story:
       lipSynch: 0
       motion: 0
     textRight: (And besides, the situation outside of Kamihama is@better known to
-      the recently arrived Adjusters...)
+      the recently arrived Coordinators...)
   - bgm: stop
     chara:
     - cheek: 0
@@ -52,7 +52,7 @@ story:
       id: 305801
       motion: 200
     textBg: shout
-    textRight: PLEASE, ADJUSTER!
+    textRight: PLEASE, COORDINATOR!
   - bgm: bgm23_puella02
     chara:
     - cheek: 0
@@ -60,7 +60,7 @@ story:
       id: 104000
       motion: 1
       pos: 0
-    textLeft: Welcome, miss Natsu.
+    textLeft: Welcome, Miss Natsu.
   - chara:
     - id: 104000
       motion: 400
@@ -90,7 +90,7 @@ story:
     - eyeClose: 1
       id: 104000
       motion: 100
-    textLeft: After all, you are a fine lady too, miss Natsu.
+    textLeft: After all, you are a fine lady too, Miss Natsu.
   - chara:
     - id: 305801
       motion: 1
@@ -104,7 +104,7 @@ story:
     textLeft: Oh, right. Would you like a cup of coffee?
   - chara:
     - id: 104000
-    textLeft: If I remember correctly, miss Natsu, you like it@hot.
+    textLeft: If I remember correctly, Miss Natsu, you like it@hot.
   - chara:
     - id: 104000
       motion: 1
@@ -154,7 +154,7 @@ story:
   - chara:
     - id: 104000
       motion: 300
-    textLeft: '...then, you heard the rumour about my new@sweets...?'
+    textLeft: '...Then, you heard the rumour about my new@sweets...?'
   - chara:
     - id: 305801
     textRight: That's not it, either.
@@ -185,7 +185,7 @@ story:
     textRight: I wanna know.
   - chara:
     - id: 305801
-    textRight: You're an Adjuster, you must've heard something,@right?!
+    textRight: You're an Coordinator, you must've heard@something, right?!
   - chara:
     - eyeClose: 1
       id: 305801
@@ -212,7 +212,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 305801
-    textRight: I want her to... find peace of mind... so she can@sleep!
+    textRight: I want her to... find peace of mind...@so she can sleep!
   - chara:
     - id: 104000
       lipSynch: 0
@@ -228,7 +228,7 @@ story:
   - chara:
     - id: 104000
       motion: 0
-    textLeft: Yozuru. No thanks, miss. I did it this morning.
+    textLeft: No thanks, miss. I did it this morning.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -271,7 +271,7 @@ story:
     - eyeClose: 0
       id: 104000
       motion: 100
-    textLeft: I do not know anything about miss Suzuka's past.
+    textLeft: I do not know anything about Miss Suzuka's past.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -323,7 +323,7 @@ story:
   - chara:
     - id: 304401
       motion: 300
-    textLeft: I just happened to be here today to get Adjusted,@but...
+    textLeft: I just happened to be here today to get adjusted,@but...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -348,7 +348,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Ranka
-    textLeft: '...that girl, she''s been kinda sick lately, right?'
+    textLeft: '...That girl, she''s been kinda sick lately, right?'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -377,8 +377,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 305801
-    textLeft: '...us Futatsugi Magical Girls were, well, divided@into three factions
-      at war'
+    textLeft: '...Us Futatsugi Magical Girls were, well, divided@into three factions
+      at war.'
   - chara:
     - id: 304401
       motion: 1

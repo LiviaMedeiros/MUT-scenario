@@ -40,10 +40,10 @@ story:
       face: mtn_ex_030.exp.json
       id: 305800
       motion: 100
-    textLeft: '...I guess so, buddy'
+    textLeft: '...Good question, buddy.'
   - chara:
     - id: 305800
-    textLeft: I don’t know
+    textLeft: What am I gonna do?
   - chara:
     - id: 305800
       motion: 300
@@ -102,7 +102,7 @@ story:
   - chara:
     - eyeClose: 0
       id: 305800
-    textLeft: I heard about it from a Magical Girl I happened@to meet,
+    textLeft: I heard about it from a Magical Girl I happened@to meet.
   - chara:
     - id: 305800
       motion: 0
@@ -224,7 +224,7 @@ story:
     textRight: You're the one who asked!
   - chara:
     - id: 302100
-    textRight: What do you mean, "I got it"?! You mean "I can't@stand to hear it"!?
+    textRight: What do you mean, "I got it"?! You mean "I can't@stand to hear it"?!
   - chara:
     - id: 302100
       motion: 100

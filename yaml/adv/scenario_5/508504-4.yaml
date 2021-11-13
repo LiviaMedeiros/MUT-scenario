@@ -23,7 +23,7 @@ story:
     nameLeft: Ryouko
     nameRight: Sakuya
     textBg: shout
-    textLeft: '[chara:305801:effect_emotion_joy_0][se:7222_happy]*Gasps for air*'
+    textLeft: '[chara:305801:effect_emotion_joy_0][se:7222_happy]Ahhhhh~!!'
     turnChangeOut: fadeOut
   - chara:
     - id: 305801
@@ -61,7 +61,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 302101
       motion: 0
-    textRight: You should’ve woken me up...
+    textRight: You should've woken me up...
   - chara:
     - cheek: 2
       id: 302101
@@ -84,8 +84,8 @@ story:
       face: mtn_ex_012.exp.json
       id: 305801
       motion: 1
-    textLeft: Well... I hadn't eaten or drank anything since this@morning. Looking
-      for shoes, going to the Adjusters'...
+    textLeft: Well, I hadn't eaten or drank anything since morning.@Looking for shoes,
+      going to the Coordinators'...
   - chara:
     - id: 305801
     textLeft: Guess I got a bit too hyped about it.
@@ -105,16 +105,16 @@ story:
       face: mtn_ex_030.exp.json
       id: 302101
       motion: 300
-    textRight: Y-yet I still couldn’t beat you...! Even when you’re@in such a state...!
+    textRight: Y-yet I still couldn't beat you...! Even when you're@in such a state...!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 305801
-    textLeft: There, there, don’t be discouraged.
+    textLeft: There, there, don't be discouraged.
   - chara:
     - id: 305801
       motion: 1
-    textLeft: I mean, being sleep-deprived, you weren’t in the@best shape either.
+    textLeft: I mean, being sleep-deprived, you weren't in the@best shape either.
   - chara:
     - eyeClose: 1
       id: 302101
@@ -134,7 +134,7 @@ story:
     textRight: Mhm.
   - chara:
     - id: 302101
-    textRight: I think I won’t have nightmares about that day@anymore.
+    textRight: I think I won't have nightmares about that day@anymore.
   - chara:
     - id: 305801
       motion: 100
@@ -143,7 +143,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 305801
-    textLeft: That’s a relief.
+    textLeft: That's a relief.
   - chara:
     - id: 302101
       lipSynch: 0
@@ -152,7 +152,7 @@ story:
   - chara:
     - id: 305801
       motion: 1
-    textLeft: Huh? What’s up?
+    textLeft: Huh? What's up?
   - chara:
     - id: 302101
     textRight: I know I said earlier that I'd become your friend,@but...
@@ -174,7 +174,7 @@ story:
     chara:
     - eyeClose: 1
       id: 302101
-    textRight: I’m sorry.
+    textRight: I'm sorry.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -184,11 +184,11 @@ story:
     textRight: But, after all, where we stand is just too different...
   - chara:
     - id: 302101
-    textRight: I’m not mentally prepared to overcome that and@start seeing you.
+    textRight: I'm not mentally prepared to overcome that and@start seeing you.
   - chara:
     - eyeClose: 0
       id: 302101
-    textRight: It’s an issue regarding feelings.
+    textRight: It's an issue regarding feelings.
   - chara:
     - id: 302101
       motion: 300
@@ -238,7 +238,7 @@ story:
     textRight: Don't worry.
   - chara:
     - id: 302101
-    textRight: Because, you’ve truly saved my heart.
+    textRight: Because, you've truly saved my heart.
   - chara:
     - id: 305801
     textLeft: Yeah, it wasn't a waste of time.
@@ -253,7 +253,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 302101
       motion: 0
-    textRight: Don’t put this in a misleading way, 'kay?
+    textRight: Don't put this in a misleading way, 'kay?
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -268,7 +268,7 @@ story:
       face: mtn_ex_012.exp.json
       id: 305801
       motion: 200
-    textLeft: That means we’re soul mates!
+    textLeft: That means we're soul mates!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -300,15 +300,15 @@ story:
   - nameNarration: Sakuya
     narration: ―Sakuya―@Oh, right.
   - nameNarration: Sakuya
-    narration: ―Sakuya―@Not that I’m saying this 'cause of your enthusiasm@just now,
+    narration: ―Sakuya―@Not that I'm saying this 'cause of your enthusiasm@just now,
       but... Until we leave this store today,
-  - narration: ―Sakuya―@Why don’t we be "ordinary best friends"?
+  - narration: ―Sakuya―@Why don't we be "ordinary best friends"?
   - nameNarration: Ryouko
     narration: ―Ryouko―@You sure?!
   - nameNarration: Sakuya
     narration: ―Sakuya―@Mhm, totally.
   - nameNarration: Ryouko
-    narration: ―Ryouko―@...you said "until we leave this store", right...?
+    narration: ―Ryouko―@...You said "until we leave this store", right...?
   - nameNarration: Sakuya
     narration: ―Sakuya―@Yeah, I did, but... What's the matter?@You're smirking...
   - bgm: stop
@@ -318,7 +318,7 @@ story:
     narration: ―Sakuya―@What?!
   - bgm: bgm01_anime03
     nameNarration: Ryouko
-    narration: ―Ryouko―@I’m still hungry!!
+    narration: ―Ryouko―@I'm still hungry!!
   - narration: ―Ryouko―@EXCUUUUSE ME! ANOOOTHER ONE!!
   - autoTurnLast: 0.01
     chara:
@@ -341,13 +341,13 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 305801
-    textLeft: We aren’t leaving this place for awhile!
+    textLeft: We aren't leaving this place for awhile!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302101
       motion: 200
-    textRight: I swear, Ryouko, you’re such a crazy lil’ dumbass...
+    textRight: I swear, Ryouko, you're such a crazy lil' dumbass...
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
@@ -357,13 +357,13 @@ story:
   - chara:
     - id: 302101
       motion: 300
-    textRight: I mean, aren’t you supposed to be a temple girl?@So why are you eating
+    textRight: I mean, aren't you supposed to be a temple girl?@So why are you eating
       so much junk food?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 305801
-    textLeft: It’s fine. I’m not a monk.
+    textLeft: It's fine. I'm not a monk.
   - chara:
     - id: 305801
     textLeft: For man, the sincerest act is savouring savoury@food.
@@ -374,7 +374,7 @@ story:
   - chara:
     - id: 302101
       motion: 1
-    textRight: Honestly, it’s kinda refreshing seeing you go@that far.
+    textRight: Honestly, it's kinda refreshing seeing you go@that far.
   - chara:
     - eyeClose: 1
       id: 302101
