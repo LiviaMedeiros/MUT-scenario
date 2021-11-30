@@ -457,8 +457,8 @@ story:
       to help her friends,@we started working as bodyguards.
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: Compared to the time when we were@maintaining neutrality by not getting
-      involved with anyone,@we face greater adversity, but...
+  - narration: Compared to the time when@we were maintaining neutrality@by not getting
+      involved with anyone,@we faced greater adversity, but...
   - narration: After being involved with other people,@and learning more about other
       Magical Girls,@we have a more positive outlook on our own change.
   - narration: '"I promise to change the way I live as a Magical Girl"...@I''ll never

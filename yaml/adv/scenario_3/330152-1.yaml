@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21241.jpg
+  - bg: bg_adv_11101.jpg
     bgm: bgm01_anime03
     chara:
     - cheek: 0
@@ -22,7 +22,7 @@ story:
     turnChangeOut: fadeOut
   - narration: Konomi helps out at this flower shop@called Blossom because she knows
       the@owner. I promised her@I'd come visit the store!
-    narrationBg: bg_adv_21241.jpg
+    narrationBg: bg_adv_11101.jpg
   - narration: Plus I had somethin' to talk to her about...
   - chara:
     - cheek: 0

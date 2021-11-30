@@ -296,6 +296,15 @@ story:
       motion: 201
       mouthOpen: 0
     textLeft: Best of SEVEN!
+  - autoTurnLast: 0.1
+    chara:
+    - effect: fadeout
+      id: 100550
+    - effect: fadeout
+      id: 100351
+    - effect: fadeout
+      id: 101051
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -324,6 +333,11 @@ story:
       mouthOpen: 0
     nameRight: Tsuruno
     textRight: B-but my road to becoming the Mightiest!
+  - autoTurnLast: 0.1
+    chara:
+    - effect: fadeout
+      id: 101051
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -367,6 +381,11 @@ story:
       id: 100351
       motion: 0
     textRight: Momoko, lend me that flag.
+  - autoTurnLast: 0.1
+    chara:
+    - effect: fadeout
+      id: 101150
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

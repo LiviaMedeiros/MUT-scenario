@@ -6,12 +6,12 @@ story:
     bgm: bgm05_event08
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_001.exp3.json
       id: 100300
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100100
       motion: 0
       pos: 0
@@ -631,7 +631,6 @@ story:
       id: 100301
       motion: 1
       voiceFull: fullvoice/section_102303/vo_full_102303-23-64
-    enableSkipAutoTurn: 1
     progressNarration: '[textBlack:  "I guess what I really wish for]@[textBlack:  is
       the happiness of@  everyone I meet!]@[textBlack:  After all, I want everyone@  I
       meet to be happy!"]'
@@ -647,7 +646,6 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102303/vo_full_102303-23-65
       voiceFullStop: fullvoice/section_102303/vo_full_102303-23-64
-    enableSkipAutoTurn: 0
     progressNarration: '[textBlack:  "And then! After I work to make@  everyone happy,
       ][textBlack:something will@  be born of my mightiness!"]'
   - autoTurnLast: 2
@@ -657,7 +655,6 @@ story:
       id: 100301
       motion: 101
       voiceFull: fullvoice/section_102303/vo_full_102303-23-66
-    enableSkipAutoTurn: 1
     progressNarration: '[textBlack:  "In other words, I want everyone@  to be happy,
       ][textBlack:and the one to make@  them happy will be me! ][textBlack:If I can@  make
       people happy, my@  greatness will be born!"]'
@@ -672,7 +669,6 @@ story:
       motion: 201
       voiceFullAuto: fullvoice/section_102303/vo_full_102303-23-67
       voiceFullStop: fullvoice/section_102303/vo_full_102303-23-66
-    enableSkipAutoTurn: 0
     progressNarration: '[textBlack:"And then the Mightiest Tsuruno Yui@will be compleeeeete!"]'
   - chara:
     - cheek: 0
@@ -697,7 +693,6 @@ story:
       id: 100301
       motion: 300
       voiceFull: fullvoice/section_102303/vo_full_102303-23-70
-    enableSkipAutoTurn: 1
     progressNarration: '[textBlack:  "And I''m sure that everyone''s daily]@[textBlack:  lives
       are just as precious and@  joyful. ][textBlack:A better, brighter@  tomorrow
       might just be around@  the corner."]'
@@ -712,7 +707,6 @@ story:
       motion: 201
       voiceFullAuto: fullvoice/section_102303/vo_full_102303-23-71
       voiceFullStop: fullvoice/section_102303/vo_full_102303-23-70
-    enableSkipAutoTurn: 0
     progressNarration: '[textBlack:  "And if someone were to come@  along to try and
       interfere with that...]@[textBlack:  Well, that''ll be when Tsuruno Yui,@  the
       Mightiest Magical Girl,]@[textBlack:  fights back and achieves@  greatness!"]'

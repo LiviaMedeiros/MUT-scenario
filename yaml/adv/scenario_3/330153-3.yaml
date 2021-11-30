@@ -178,7 +178,7 @@ story:
     textRight: But it's okay!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_010.exp.json
       id: 301100
       motion: 100
       pos: 0
@@ -197,7 +197,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303000
-      motion: 400
+      motion: 0
       pos: 0
     nameLeft: Konomi
     textLeft: What?!
@@ -218,9 +218,11 @@ story:
     textRight: Hwoh!
   - chara:
     - cheek: 0
-      id: 303000
-      motion: 301
+      face: mtn_ex_050.exp.json
+      id: 301100
+      motion: 400
       pos: 0
+    nameLeft: Konomi
     textLeft: Wah!
   - chara:
     - cheek: 0
@@ -233,7 +235,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 301100
+      id: 303000
       motion: 400
       pos: 0
     nameLeft: Kako

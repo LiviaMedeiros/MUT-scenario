@@ -234,9 +234,9 @@ story:
     turnChangeIn: fadeIn
     turnChangeInTime: 1
   - nameNarration: Konoha
-    narration: We decided to continue working as bodyguards in Kamihama@so that we
-      could change, even if it was hard,@but the thought I might lose Ayame and Hazuki
-      due to it@terrified me...
+    narration: We decided to continue@working as bodyguards in Kamihama@so that we
+      could change, even if it was hard,@but the thought I might lose Ayame and Hazuki@due
+      to it terrified me...
     narrationBg: ""
     narrationEffect: in
     turnChangeOut: fadeOut

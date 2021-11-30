@@ -316,7 +316,7 @@ story:
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: Enough of this nonsense... @[chara:770001:lipSynch_0][wait:1.0][chara:770001:cheek_0][chara:770001:motion_200][chara:770001:lipSynch_1][chara:302600:effect_7000_attack01][bgEffect:shakeSmall]Today's
+    textRight: Enough of this nonsense...@[chara:770001:lipSynch_0][wait:1.0][chara:770001:cheek_0][chara:770001:motion_200][chara:770001:lipSynch_1][chara:302600:effect_7000_attack01][bgEffect:shakeSmall]Today's
       the day we get payback...!
   - chara:
     - cheek: 0

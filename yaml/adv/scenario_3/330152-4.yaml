@@ -2,7 +2,7 @@
 story:
   group_1:
   - autoTurnLast: 0.01
-    bg: bg_adv_21241.jpg
+    bg: bg_adv_11101.jpg
     bgm: bgm03_story02
     chara:
     - cheek: 0

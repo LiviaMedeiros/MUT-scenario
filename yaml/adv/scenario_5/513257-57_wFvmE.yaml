@@ -146,16 +146,16 @@ story:
     turnChangeIn: fadeIn
   - nameNarration: Konoha
     narration: After officially quitting our work as bodyguards...@Ayame became afraid
-      of being involved in someone's death,@and began to stay cooped up at home.
+      of@being involved in someone's death,@and began to stay cooped up at home.
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: Because Ayame's Soul Gem became cloudy frequently,@the two of us spent
-      our days incessantly hunting Witches@for Grief Seeds...
+      our days@incessantly hunting Witches for Grief Seeds...
   - narration: As a result...@We were so busy getting through the day that we@naturally
       stopped associating with other Magical Girls@and returned to the original situation
       we were in@when we first moved to Kamihama...
-  - narration: At that time,@if we hadn't taken only Ayame's feelings into consideration,@discussed
+  - narration: At that time, if we hadn't taken@only Ayame's feelings into consideration,@discussed
       it amongst ourselves further,@and continued our work as bodyguards,@our lives
       might have been different...
   - autoTurnLast: 1

@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21241.jpg
+  - bg: bg_adv_11101.jpg
     bgm: bgm03_story09
     chara:
     - cheek: 0
@@ -17,7 +17,7 @@ story:
     nameNarration: Mito
     narration: The thing I wanted to ask Konomi about@was ideas for presents for Leila
       and Seika!
-    narrationBg: bg_adv_21241.jpg
+    narrationBg: bg_adv_11101.jpg
     narrationEffect: in
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
