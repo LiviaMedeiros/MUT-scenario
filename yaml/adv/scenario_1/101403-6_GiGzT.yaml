@@ -20,7 +20,7 @@ story:
   - autoTurnLast: 0.5
     bg: bg_adv_13021.jpg
     bgChangeEffect: exitWitchSpace
-    se: 7208_wander_into
+    se: 7209_gate_close
   - bgm: bgm03_story07
     chara:
     - cheek: 0

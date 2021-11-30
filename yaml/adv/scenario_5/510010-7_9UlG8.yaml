@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 304701
       lipSynch: 0
-    nameCenter: "\uFEFFChika"
+    nameCenter: Chika
     textCenter: '.....'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2

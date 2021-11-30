@@ -132,7 +132,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_101403/vo_full_101403-11-13
       voiceFullStop: fullvoice/section_101403/vo_full_101403-11-12
-    enableSkipAutoTurn: 1
+    enableSkipAutoTurn: 0
     textRight: What? I told you, I'm a mercenary.
   - chara:
     - cheek: 1
