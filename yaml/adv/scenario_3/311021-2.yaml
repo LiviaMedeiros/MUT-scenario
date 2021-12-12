@@ -11,8 +11,8 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: This is going on what I heard@from the shop owner afterward, but...
-  - narration: In order to keep me from learning about it,@the two of them got together
-      at that old sweets shop, the Tomorrow Shop,@to plan out a birthday gift, apparently.
+  - narration: In order to keep me from learning about it,@the two of them got together@at
+      that old sweets shop, the Tomorrow Shop,@to plan out a birthday gift, apparently.
   - autoTurnLast: 1.5
     bg: bg_adv_13161.jpg
     bgm: stop

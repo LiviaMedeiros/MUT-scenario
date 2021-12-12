@@ -78,7 +78,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 801000
       pos: 1
-    nameCenter: Yozuru
+    nameCenter: Yozuru's Mother
     narrationEffect: out
     textCenter: Noo... Yozuru...@Why....?
   - autoTurnLast: 0.2

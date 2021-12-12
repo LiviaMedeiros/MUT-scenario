@@ -502,7 +502,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100100
+      id: 101501
       motion: 100
       pos: 0
     - cheek: 0
@@ -520,14 +520,14 @@ story:
   - autoTurnLast: 1.3
     bgm: bgm90_nanoha02
     chara:
-    - id: 100100
+    - id: 101501
     - id: 301101
     - id: 303001
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100100
+      id: 101501
     - effect: fadeout
       id: 301101
     - effect: fadeout

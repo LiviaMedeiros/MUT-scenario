@@ -360,7 +360,7 @@ story:
       id: 110203
       pos: 0
     nameLeft: Yachiyo
-    textLeft: I made it for you...
+    textLeft: This is the dish I made for you...
   - autoTurnLast: 0.2
     chara:
     - id: 110203

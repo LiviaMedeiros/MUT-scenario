@@ -3,7 +3,7 @@ story:
   group_1:
   - bg: bg_adv_21141.jpg
     nameNarration: Kaoru
-    narration: Kazumi and Kaoru went missing@while we were chasing a Witch...
+    narration: Kazumi and Umika went missing@while we were chasing a Witch...
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeIn: fadeIn

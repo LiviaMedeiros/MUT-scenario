@@ -15,7 +15,7 @@ story:
       what to do.
   - narration: But after hearing that their big sis@was thinking about inviting the
       one she loved on a date,@they wanted to make sure it was a success,@so they
-      started talking more often with the adults around them.
+      started talking more often@with the adults around them.
   - autoTurnLast: 1.5
     bg: bg_adv_21442.jpg
     bgm: stop

@@ -178,10 +178,10 @@ story:
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: The cake we would have at birthday dinners had always been store-bought,
+  - narration: The cake we would have at birthday dinners@had always been store-bought,
       but this year,@those two were celebrating with a homemade cake.
   - narration: They had surely put all sorts of plans together,@but they hadn't expected
-      me to have a party somewhere else,@and after taking so much initiative,@it must
+      me@to have a party somewhere else,@and after taking so much initiative,@it must
       have hurt their feelings...
   - narration: I'd accidentally done something hurtful,@but if I told them then and
       there about how I'd noticed,@then that really would ruin their plans.
