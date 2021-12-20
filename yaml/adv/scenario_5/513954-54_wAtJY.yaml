@@ -394,7 +394,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Shizuka
-    textLeft: Sir! Is there anything we throw out to her?!
+    textLeft: Sir! Is there anything we can throw out to her?!
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
