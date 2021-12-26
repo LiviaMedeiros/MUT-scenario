@@ -7,7 +7,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -37,20 +37,20 @@ story:
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-2
     textRight: I'm sure you calculated the risks...
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-15-4
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-3
     textLeft: Weeell..
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-15-5
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-4
     textLeft: When I was a Magius,@I didn't care about what would be sacrificed.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-15-6
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-5
@@ -59,7 +59,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-15-7
       voiceFullStop: fullvoice/section_102203/vo_full_102203-15-6
     textLeft: I figured it didn't matter one bit!
@@ -128,7 +128,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1

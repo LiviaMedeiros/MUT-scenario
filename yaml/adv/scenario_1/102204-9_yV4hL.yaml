@@ -31,7 +31,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -43,14 +43,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102204/vo_full_102204-9-4
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-3
     textCenter: I'll be in touch if I need anything else.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-4
     textClear: 1
   - chara:
@@ -71,7 +71,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -83,7 +83,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-6
     textClear: 1
   - chara:
@@ -104,7 +104,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -116,7 +116,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-8
     textClear: 1
   - chara:
@@ -276,7 +276,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-9-24
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -287,7 +287,7 @@ story:
     textRight: He wouldn't have chosen you if he@thought you could reconcile with
       us.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 300
       voiceFull: fullvoice/section_102204/vo_full_102204-9-25
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-24
@@ -298,7 +298,7 @@ story:
       id: 101600
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-25
     - effect: fadeout
-      id: 100701
+      id: 100770
     textClear: 1
   - chara:
     - cheek: 0
@@ -733,7 +733,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -744,21 +744,21 @@ story:
     nameLeft: Nemu
     textLeft: What will you two do now?
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 1
       voiceFull: fullvoice/section_102204/vo_full_102204-9-70
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-69
     textLeft: I don't believe that you need to choose this@moment to make your ideals
       a reality.
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102204/vo_full_102204-9-71
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-70
     textLeft: Spreading the word about Magical Girls@to the world is no easy task.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       motion: 200
       voiceFull: fullvoice/section_102204/vo_full_102204-9-72
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-71
@@ -776,7 +776,7 @@ story:
       voiceFullStop: fullvoice/section_102204/vo_full_102204-9-73
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       motion: 0
     textClear: 1
   - chara:

@@ -139,7 +139,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -148,7 +148,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-2-11
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -158,13 +158,13 @@ story:
     nameRight: Nemu
     textLeft: But what you see before your eyes is the real deal!
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 201
       voiceFull: fullvoice/section_102204/vo_full_102204-2-12
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-11
     textLeft: Welcome to my radio telescope lab.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
       voiceFull: fullvoice/section_102204/vo_full_102204-2-13
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-12
@@ -192,7 +192,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -205,7 +205,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102204/vo_full_102204-2-17
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-16
     textLeft: '*Giggle*'
@@ -229,7 +229,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       voiceFull: fullvoice/section_102204/vo_full_102204-2-20
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-19
@@ -252,7 +252,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
       id: 304300
   - autoTurnLast: 2
@@ -382,7 +382,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -394,14 +394,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102204/vo_full_102204-2-26
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-25
     textCenter: It's been a while, Kyubey.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-26
     textClear: 1
   - chara:
@@ -427,7 +427,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -440,26 +440,26 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102204/vo_full_102204-2-30
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-29
     textCenter: Besides, this time I just wanted to have a@conversation with you from
       inside Kamihama.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 1
       voiceFull: fullvoice/section_102204/vo_full_102204-2-31
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-30
     textCenter: Incidentally, we can all see your image from here.
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102204/vo_full_102204-2-32
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-31
     textCenter: But I don't believe you can see@anything from your end.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-32
     textClear: 1
   - chara:
@@ -596,7 +596,7 @@ story:
       voiceFull: fullvoice/section_102204/vo_full_102204-2-42
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -606,12 +606,12 @@ story:
     nameRight: Yachiyo
     textRight: That's right.@All the girls you contacted have assembled.
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102204/vo_full_102204-2-43
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-42
     textLeft: That being the case, perhaps you could@share a few things with us?
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
       voiceFull: fullvoice/section_102204/vo_full_102204-2-44
       voiceFullStop: fullvoice/section_102204/vo_full_102204-2-43

@@ -51,7 +51,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -67,7 +67,7 @@ story:
     turnEffect: stop
   - bgm: bgm03_story02
     chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     nameRight: Touka
     textRight: Hey, Yachiyo, take the bones out of this fish.
@@ -89,19 +89,19 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       motion: 200
     nameRight: Touka
     textRight: What? This is just bullying!
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: Nemu would never be able to do this, she@was always in the hospital
       with me.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -112,7 +112,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       motion: 400
     nameRight: Touka
     textRight: '[chara:100701:effect_emotion_surprise_0][se:7226_shock]Nyaaah?!'
@@ -177,7 +177,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -192,16 +192,16 @@ story:
     nameLeft: Eternal Sakura
     textLeft: '| Touka, would you like me to do it? |'
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 200
     nameRight: Touka
     textRight: Nope, my amygdala was stimulated and now@adrenaline is being produced.
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: It's frustrating to fall behind Nemu.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 201
     nameRight: Touka
     textRight: I'll definitely do a better job than her at@removing the bones!
@@ -389,7 +389,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -399,11 +399,11 @@ story:
     textRight: Speaking of which, was there anything that@you were able to learn throughout
       this time?
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: Or at least whether it's suitable for a cherry@blossom viewing.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameRight: Nemu
     textRight: That's what you went to determine, right?

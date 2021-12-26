@@ -288,7 +288,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -301,7 +301,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-18-34
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-33
     textRight: I was going to tell you the results later,@but you beat me to it.
@@ -325,13 +325,13 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       motion: 201
       voiceFull: fullvoice/section_102203/vo_full_102203-18-38
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-37
     textRight: That's right! It's definitely a piece of Eve.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 1
       voiceFull: fullvoice/section_102203/vo_full_102203-18-39
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-38
@@ -339,17 +339,17 @@ story:
       motion: 0
     textRight: An emotionless Kyubey became its core.
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-18-40
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-39
     textRight: At that point, its emotional energy@could no longer be controlled.
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-18-41
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-40
     textRight: So that crystallized power split@off and was scattered.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-18-42
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-41
@@ -368,7 +368,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -379,7 +379,7 @@ story:
     nameRight: Nemu
     textRight: It's a huge crystal of condensed@individual emotions.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-18-45
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-44
@@ -395,20 +395,20 @@ story:
     nameLeft: Iroha
     textLeft: Then we have a reason to want@to collect it as well, don't we?
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 1
       voiceFull: fullvoice/section_102203/vo_full_102203-18-47
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-46
     textRight: That's right.
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102203/vo_full_102203-18-48
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-47
     textRight: This solves one of the big problems we were having.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -422,7 +422,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-18-50
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-49
     textLeft: It's just the thing to use for expanding@its effective range across
@@ -653,7 +653,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-18-73
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -665,7 +665,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-18-74
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-73
@@ -673,7 +673,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-18-75
       voiceFullStop: fullvoice/section_102203/vo_full_102203-18-74
     textRight: Let's go ahead and come up with all@the questions we want answers to.

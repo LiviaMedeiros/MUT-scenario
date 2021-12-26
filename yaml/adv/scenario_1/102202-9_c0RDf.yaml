@@ -6,7 +6,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -28,14 +28,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-9-2
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-1
     nameLeft: Touka
     textLeft: Jeez, what is it now?
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-9-3
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-2
     textLeft: Chasing after me isn't very time-efficient,@you know?
@@ -52,7 +52,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-9-6
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-5
@@ -65,7 +65,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       motion: 400
       voiceFull: fullvoice/section_102202/vo_full_102202-9-8
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-7
@@ -95,7 +95,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-9-12
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-11
@@ -110,7 +110,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       motion: 201
       voiceFull: fullvoice/section_102202/vo_full_102202-9-14
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-13
@@ -126,7 +126,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-9-16
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-15
@@ -141,7 +141,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -150,14 +150,14 @@ story:
     turnChangeIn: fadeIn
     turnEffect: stop
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-9-17
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-16
     nameRight: Touka
     textRight: And so that's why I'm late.
     turnChangeOut: fadeOut
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-9-18
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-17
     textRight: Sorry about that, Big Sis.
@@ -176,14 +176,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-9-21
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-20
     textRight: That kind of enforced uniformity is@a policy that belongs in the military.
   - chara:
     - eyeClose: 1
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-9-22
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-21
     textRight: I think that's a fault with@the Japanese education system.
@@ -208,14 +208,14 @@ story:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-9-25
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-24
     textRight: So, I take it you brought the Bracelet with you?
   - bgm: bgm03_story06
     chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-9-26
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-25
     textRight: Although it's not like you can take it off, right?
@@ -230,13 +230,13 @@ story:
     nameLeft: Iroha
     textLeft: Yeah. Please don't try to force it off.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-9-28
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-27
     textRight: Today we're just investigating its magical pattern.
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-9-29
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-28
     textRight: There won't be any need to take it off.
@@ -260,7 +260,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       motion: 400
       voiceFull: fullvoice/section_102202/vo_full_102202-9-32
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-31
@@ -268,7 +268,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-9-33
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-32
     textRight: We need to carefully analyze it and gather data.
@@ -285,7 +285,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-9-35
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-34
@@ -402,7 +402,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -415,25 +415,25 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-9-46
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-45
     - id: 100201
       motion: 0
     textRight: We already knew the Uwasa are@magically linked to Nemu's book.
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-9-47
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-46
     textRight: So I've been researching how Sakurako's magic@would be transformed
       by her link to the server,
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-9-48
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-47
     textRight: and what kind of database@would result from that process.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-9-49
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-48
@@ -441,7 +441,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-9-50
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-49
     textRight: All we have to do is execute the program@I wrote to make the comparison.
@@ -458,7 +458,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 400
       voiceFull: fullvoice/section_102202/vo_full_102202-9-52
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-51
@@ -477,12 +477,12 @@ story:
       id: 100101
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-53
     - effect: fadeout
-      id: 100701
+      id: 100770
     textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -492,13 +492,13 @@ story:
     nameCenter: Nemu
     textCenter: Oh, Touka?
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102202/vo_full_102202-9-55
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-54
     textCenter: You're back earlier than I expected.
   - autoTurnLast: 0.2
     chara:
-    - id: 101403
+    - id: 101471
       pos: 2
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-55
     textClear: 1
@@ -514,7 +514,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-9-57
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-56
@@ -536,7 +536,7 @@ story:
     nameCenter: Eternal Sakura
     textCenter: '| Neeeeemu. |'
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-9-59
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-58
@@ -558,7 +558,7 @@ story:
       id: 304301
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-61
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - chara:
     - cheek: 0
@@ -600,7 +600,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-9-64
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -608,7 +608,7 @@ story:
       pos: 2
     textCenter: '| What... |'
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102202/vo_full_102202-9-65
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-64
     nameRight: Nemu
@@ -639,7 +639,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -650,19 +650,19 @@ story:
     nameLeft: Touka
     textLeft: Aaah, now she's sulking...
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-9-69
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-68
     textRight: The four of us gathering is all she wants.@That part of the [textBlue:Rumor]
       won't change.
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102202/vo_full_102202-9-70
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-69
     textRight: Not even I can do anything about it.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-9-71
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-70
@@ -680,7 +680,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-9-73
       voiceFullStop: fullvoice/section_102202/vo_full_102202-9-72
@@ -689,7 +689,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -723,7 +723,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1

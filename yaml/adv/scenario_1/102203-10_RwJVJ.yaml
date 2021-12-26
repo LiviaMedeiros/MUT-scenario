@@ -144,7 +144,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -152,7 +152,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -160,7 +160,7 @@ story:
       pos: 2
     turnChangeIn: rollInFast
   - chara:
-    - id: 100701
+    - id: 100770
       lipSynch: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-10-13
     nameLeft: Touka
@@ -169,10 +169,10 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-13
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - chara:
     - cheek: 1
@@ -442,7 +442,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -450,7 +450,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -459,7 +459,7 @@ story:
     turnChangeIn: rollInFast
     voiceFullStop: fullvoice/section_102203/vo_full_102203-10-35
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 300
       voiceFull: fullvoice/section_102203/vo_full_102203-10-36
     nameLeft: Touka
@@ -467,30 +467,30 @@ story:
     textLeft: We're so powerless when@we can't even transform...
     turnChangeOut: rollOutFast
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102203/vo_full_102203-10-37
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-36
     textRight: It's frustrating, but there's nothing@we can do about it right now.
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102203/vo_full_102203-10-38
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-37
     textRight: It's our punishment to have@our transformation restricted.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 400
       voiceFull: fullvoice/section_102203/vo_full_102203-10-39
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-38
     textLeft: We really should have died after all.
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-10-40
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-39
     textLeft: Maybe it's better this way.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-10-41
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-40
@@ -498,9 +498,9 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-41
     textClear: 1
   - chara:
@@ -527,7 +527,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -554,7 +554,7 @@ story:
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-45
     textRight: I'd like to ask you just one question.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-10-47
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-46
@@ -569,7 +569,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -583,7 +583,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -604,7 +604,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -894,7 +894,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -902,7 +902,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -926,13 +926,13 @@ story:
     textRight: Phew... There...
     turnChangeOut: rollOutFast
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 400
       voiceFull: fullvoice/section_102203/vo_full_102203-10-75
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-74
     textLeft: Um, thank you, Sana.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 300
       voiceFull: fullvoice/section_102203/vo_full_102203-10-76
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-75
@@ -940,10 +940,10 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
       voiceFullStop: fullvoice/section_102203/vo_full_102203-10-76
     - effect: fadeout
-      id: 100701
+      id: 100770
     textClear: 1
   - autoTurnLast: 0.2
     chara:

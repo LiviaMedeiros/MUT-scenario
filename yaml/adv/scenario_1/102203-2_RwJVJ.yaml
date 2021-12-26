@@ -7,7 +7,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -15,7 +15,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-2-1
     nameCenter: Touka
     textCenter: Can you elaborate on what you@mean about being special?
@@ -23,7 +23,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-1
     textClear: 1
   - chara:
@@ -117,7 +117,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -131,14 +131,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-2-13
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-12
     textLeft: In any case, that's precisely the@answer that I had anticipated.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -151,25 +151,25 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-2-15
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-14
     textLeft: True.
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-2-16
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-15
     textLeft: It's not like we Magical Girls@forced humanity to evolve.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-2-17
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-16
     textLeft: If I had to put it one way or the other,@I'd say we supported their
       development.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 1
       voiceFull: fullvoice/section_102203/vo_full_102203-2-18
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-17
@@ -177,30 +177,30 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-2-19
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-18
     textLeft: we humans would still be living in caves.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 1
       voiceFull: fullvoice/section_102203/vo_full_102203-2-20
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-19
     textRight: If you look at the feats of any of the@wise men throughout human history...
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102203/vo_full_102203-2-21
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-20
     textRight: We, Magical Girls, may have been@involved behind the scenes.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-2-22
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-21
     textRight: Though I did give a speech about it, I didn't@intend to advocate so
       strongly for the idea.
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102203/vo_full_102203-2-23
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-22
     textRight: I never expected there to be Magical Girls@that would devote themselves
@@ -218,7 +218,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -229,7 +229,7 @@ story:
     nameRight: Touka
     textRight: By the way, have you decided@what you want to do?
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-2-26
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-25
     textRight: You've come all the way here to invite me,@so you must have a plan,
@@ -240,7 +240,7 @@ story:
       id: 100101
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-26
     - effect: fadeout
-      id: 100701
+      id: 100770
     textClear: 1
   - chara:
     - cheek: 0
@@ -404,7 +404,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -416,7 +416,7 @@ story:
     textLeft: In the first place, is there even a way to get your@hands on the Automatic
       Purification System?
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-2-47
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-46
     textLeft: I don't even know where it is.
@@ -433,7 +433,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102203/vo_full_102203-2-48
     textClear: 1
   - autoTurnLast: 0.2

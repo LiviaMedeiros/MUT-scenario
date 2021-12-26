@@ -30,7 +30,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -39,14 +39,14 @@ story:
     nameLeft: Kanagi
     textLeft: With the collapse of the Wings of Magius,@Witches have been weakening.
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: Nobody is raising them anymore, and there's@no environment for them
       to grow.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
       id: 101601
     textClear: 1
@@ -92,7 +92,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -101,7 +101,7 @@ story:
     nameRight: Nemu
     textRight: We'll see how things develop, but there's@no need to worry that much.
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: The Kamihama Magia Union also serves as@a mutual aid organization.
   - chara:
@@ -113,7 +113,7 @@ story:
     textLeft: All right, let's just keep an eye on things for@now and discuss it in
       the future.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameRight: Nemu
     textRight: That's it for our discussion, but is there@anything else?
@@ -152,7 +152,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -203,7 +203,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -293,7 +293,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -314,7 +314,7 @@ story:
     nameLeft: Iroha
     textLeft: Are you not happy about it, Touka?
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     nameRight: Touka
     textRight: I don't mind a social gathering, but I don't think@we should host it
@@ -325,12 +325,12 @@ story:
     nameLeft: Iroha
     textLeft: Why?
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 1
     nameRight: Touka
     textRight: I want to keep it as a secret shelter for us.
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: Nemu and I have our transformation restricted,@so we need a safe zone.
   - chara:
@@ -438,7 +438,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -513,7 +513,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -532,19 +532,19 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 1
     nameRight: Touka
     textRight: Sakurako should see for herself if the sakura@tree in Sankyo is suitable
       for a viewing party.
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: Then she can make the decision herself.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -553,22 +553,22 @@ story:
     nameLeft: Nemu
     textLeft: That's quite interesting.
   - chara:
-    - id: 101403
+    - id: 101471
     nameLeft: Nemu
     textLeft: While you're at it, why don't you see if you@can make that tree's cherry
       blossoms bloom?
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 1
     nameLeft: Nemu
     textLeft: We can't rule out the possibility that you@have an unknown ability to
       make flowers bloom.
   - chara:
-    - id: 101403
+    - id: 101471
     nameLeft: Nemu
     textLeft: It's also an opportunity to broaden your@horizons.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     nameRight: Touka
     textRight: That's right, you've become more talkative@since you've started going
@@ -576,17 +576,17 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
     nameRight: Touka
     textRight: It's another chance to grow!
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 1
     nameLeft: Nemu
     textLeft: How about it, Iroha?
   - autoTurnLast: 0.2
     chara:
-    - id: 101403
+    - id: 101471
       pos: 2
     textClear: 1
   - chara:

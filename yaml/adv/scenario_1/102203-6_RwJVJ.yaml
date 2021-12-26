@@ -34,7 +34,7 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_060.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -43,7 +43,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-6-2
     - cheek: 1
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -53,7 +53,7 @@ story:
     nameRight: Nemu
     textLeft: Hah, nooo!
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
       voiceFull: fullvoice/section_102203/vo_full_102203-6-3
       voiceFullStop: fullvoice/section_102203/vo_full_102203-6-2
@@ -61,9 +61,9 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
       voiceFullStop: fullvoice/section_102203/vo_full_102203-6-3
     textClear: 1
   - chara:

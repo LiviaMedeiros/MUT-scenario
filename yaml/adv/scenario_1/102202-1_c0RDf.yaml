@@ -484,7 +484,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -498,7 +498,7 @@ story:
     turnChangeIn: fadeIn
     voiceFullStop: fullvoice/section_102202/vo_full_102202-1-52
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 400
       voiceFull: fullvoice/section_102202/vo_full_102202-1-53
     nameLeft: Touka
@@ -516,21 +516,21 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-1-55
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-54
     textLeft: Well, I did arrange for your essentials so you'd have@the leeway to
       work for the Wings of the Magius.
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-1-56
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-55
     textLeft: I arranged for you to have your scholarship@and housing, you know?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-1-57
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-56
     textLeft: Getting into the pharmaceutical department is an@essential condition,
@@ -538,7 +538,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       motion: 100
       voiceFull: fullvoice/section_102202/vo_full_102202-1-58
       voiceFullStop: fullvoice/section_102202/vo_full_102202-1-57

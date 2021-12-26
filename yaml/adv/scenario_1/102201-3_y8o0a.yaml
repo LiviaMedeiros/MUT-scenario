@@ -6,7 +6,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -14,7 +14,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102201/vo_full_102201-3-1
     nameNarration: Touka
     narration: '■Report #1@　The Automatic Purification System is@continuing to harvest
@@ -26,14 +26,14 @@ story:
     narrationPosX: 150
     turnChangeOut: fadeOut
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102201/vo_full_102201-3-2
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-1
     narration: '■Report #2@　Since it was formed by a Kyubey without@emotions taking
       Ui''s place as Eve''s core, we''re@assuming it to be a purely conceptual entity@that
       is neither Magical Girl nor Witch.'
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-3-3
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-2
@@ -43,7 +43,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-3-4
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-3
@@ -53,7 +53,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
   - autoTurnLast: 0.8
     bg: bg_adv_12101.jpg
     chara:

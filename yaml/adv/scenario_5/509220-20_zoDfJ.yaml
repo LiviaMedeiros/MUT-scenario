@@ -149,7 +149,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -160,7 +160,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -177,19 +177,19 @@ story:
     nameRight: Ui
     textRight: Touka, Nemu...are you sure about this...?
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     nameLeft: Touka
     textLeft: Once an Uwasa makes a decision, it won't@ever change, right?
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
     textLeft: If she realizes they're dead but still decides@to wait, there'll never
       be an end to it.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -198,34 +198,34 @@ story:
     nameRight: Nemu
     textRight: Unless a miracle happens...
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: She might keep waiting like the loyal dog,@Hachiko...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       motion: 200
-    - id: 100701
+    - id: 100770
       motion: 1
     nameRight: Nemu
     textRight: That's why I, as her parent, have to correct@her course at some point.
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: In the past, the Uwasa of the Anonymous A.I...
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: Tried to go against the content of her rumor@for Sana.
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: Even Sakurako can be led astray from her@content.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       motion: 0
     nameRight: Nemu
     textRight: That's what I'm afraid of...
@@ -238,7 +238,7 @@ story:
     nameLeft: Ryo
     textLeft: So you're saying that Sakurako could destroy@herself...
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: That's right...
   - chara:
@@ -251,7 +251,7 @@ story:
     textLeft: If she doesn't give up in the next five minutes,@you're going to force
       her to come home?
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameRight: Nemu
     textRight: That's what I promised Sakurako.
@@ -310,7 +310,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -321,14 +321,14 @@ story:
     narrationBg: black
     narrationEffect: in
   - chara:
-    - id: 100701
+    - id: 100770
     nameCenter: Touka
     narrationEffect: out
     textCenter: As an Uwasa, she's always been very@devoted to us.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -339,7 +339,7 @@ story:
     narrationBg: black
     narrationEffect: in
   - chara:
-    - id: 101403
+    - id: 101471
     nameCenter: Nemu
     narrationEffect: out
     textCenter: I don't think it's wrong for her to pursue@her own happiness.

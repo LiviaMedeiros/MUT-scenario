@@ -611,7 +611,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -701,7 +701,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -710,7 +710,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-1-80
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -720,7 +720,7 @@ story:
     nameRight: Nemu
     textRight: I see. I think I know what they mean...
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102203/vo_full_102203-1-81
       voiceFullStop: fullvoice/section_102203/vo_full_102203-1-80
     textLeft: Yeah. There's just one thing@that would make sense...

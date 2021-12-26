@@ -273,7 +273,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -302,30 +302,30 @@ story:
     nameRight: Hinano
     textRight: This is probably the cause, isn't it?
   - chara:
-    - id: 101403
+    - id: 101471
     nameLeft: Nemu
     textLeft: Most likely...
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
     nameLeft: Nemu
     textLeft: Now Sakurako's comment about not letting@the cherry blossoms bloom makes
       sense.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 0
     nameLeft: Nemu
     textLeft: 'If the photos and descriptions in the article of@"Tracks of Cherry
       Blossom" are true... '
   - chara:
-    - id: 101403
+    - id: 101471
     nameLeft: Nemu
     textLeft: Sakurako's been through a lot of new meetings@and partings over a short
       period of time.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -339,10 +339,10 @@ story:
     nameLeft: Touka
     textLeft: It even made her associate cherry blossoms@blooming with separation.
   - chara:
-    - id: 100701
+    - id: 100770
     textLeft: She must have received too many shocks.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     textLeft: Just like an experiment where an animal is@conditioned to do something.
   - chara:
@@ -357,7 +357,7 @@ story:
     - effect: fadeout
       id: 300301
     - effect: fadeout
-      id: 100701
+      id: 100770
     textClear: 1
   - chara:
     - cheek: 0
@@ -431,7 +431,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -442,7 +442,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -464,7 +464,7 @@ story:
     nameRight: Hinano
     textRight: Sakurako's impression of it might change...
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameLeft: Nemu
     textLeft: In addition to that, we should show her how@there are different forms
@@ -490,7 +490,7 @@ story:
       id: 304601
       motion: 0
       pos: 2
-    - id: 101403
+    - id: 101471
       motion: 0
     nameRight: Ryo
     textRight: I didn't expect to see the Midori Report play@such an active role...

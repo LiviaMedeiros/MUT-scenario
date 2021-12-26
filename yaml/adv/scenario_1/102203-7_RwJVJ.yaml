@@ -12,7 +12,7 @@ story:
       pos: 0
     - cheek: 1
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -27,7 +27,7 @@ story:
     textLeft: '*Pant*... *Pant*...'
     turnChangeOut: fadeOut
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 201
       voiceFull: fullvoice/section_102203/vo_full_102203-7-2
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-1
@@ -76,7 +76,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -88,7 +88,7 @@ story:
   - autoTurnLast: 0.1
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-6
     textClear: 1
   - autoTurnLast: 0.1
@@ -139,7 +139,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -152,7 +152,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -160,7 +160,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -169,7 +169,7 @@ story:
     turnChangeIn: fadeIn
     voiceFullStop: fullvoice/section_102203/vo_full_102203-7-9
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 400
       voiceFull: fullvoice/section_102203/vo_full_102203-7-10
     nameLeft: Touka
@@ -177,7 +177,7 @@ story:
     textLeft: Big Sis!
     turnChangeOut: fadeOut
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
       voiceFull: fullvoice/section_102203/vo_full_102203-7-11
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-10
@@ -185,9 +185,9 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-11
     textClear: 1
   - chara:
@@ -217,7 +217,7 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -250,7 +250,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -271,7 +271,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     - effect: fadeout
       id: 304300
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-18
@@ -596,7 +596,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       lipSynch: 0
       live2dParam:
         name: PARAM_BRACELET
@@ -606,7 +606,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-7-36
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -617,7 +617,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       motion: 300
       voiceFull: fullvoice/section_102203/vo_full_102203-7-37
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-36
@@ -625,7 +625,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       motion: 0
       voiceFull: fullvoice/section_102203/vo_full_102203-7-38
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-37
@@ -643,7 +643,7 @@ story:
     textRight: '| Iroha, Yachiyo, and I are here to protect you,@so do not worry.
       |'
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 1
       voiceFull: fullvoice/section_102203/vo_full_102203-7-40
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-39
@@ -654,7 +654,7 @@ story:
     - effect: fadeout
       id: 304300
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-40
     textClear: 1
   - chara:
@@ -837,7 +837,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -866,7 +866,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     - effect: fadeout
       id: 304300
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-63
@@ -903,7 +903,7 @@ story:
       voiceFull: fullvoice/section_102203/vo_full_102203-7-65
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -912,7 +912,7 @@ story:
       posX: -50
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -922,7 +922,7 @@ story:
     nameRight: Iroha
     textRight: Both of you, stay back.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 300
       voiceFull: fullvoice/section_102203/vo_full_102203-7-66
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-65
@@ -939,9 +939,9 @@ story:
     - effect: fadeout
       id: 100100
     - effect: fadeout
-      id: 101403
+      id: 101471
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102203/vo_full_102203-7-67
     textClear: 1
   - bgm: bgm23_magus06

@@ -6,7 +6,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -33,7 +33,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 400
       voiceFull: fullvoice/section_102202/vo_full_102202-19-2
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-1
@@ -90,7 +90,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-19-7
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -102,27 +102,27 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-19-8
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-7
     nameRight: Touka
     textRight: You're so impatient, Miss Veteran.
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-19-9
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-8
     textRight: Just wait a bit!
   - autoTurnLast: 0.2
     chara:
-    - id: 100701
+    - id: 100770
       pos: 0
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-9
     textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -135,14 +135,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       motion: 1
       voiceFull: fullvoice/section_102202/vo_full_102202-19-11
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-10
     nameLeft: Touka
     textLeft: Hmmm, I don't think it's an Uwasa.
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-19-12
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-11
     textLeft: Uwasa are based on your magic, so there would@be magical patterns resembling
@@ -150,7 +150,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 400
       voiceFull: fullvoice/section_102202/vo_full_102202-19-13
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-12
@@ -158,10 +158,10 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-13
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - chara:
     - cheek: 0
@@ -262,7 +262,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -271,7 +271,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-19-22
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -280,42 +280,42 @@ story:
     nameLeft: Touka
     textLeft: Jeez, how many of you does this make?
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-19-23
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-22
     textLeft: Though I am surprised you went@as far as making a new outfit.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 201
       voiceFull: fullvoice/section_102202/vo_full_102202-19-24
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-23
     textLeft: If you mean to install us as Magius, please leave.
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102202/vo_full_102202-19-25
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-24
     nameRight: Nemu
     textRight: Agreed.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
       voiceFull: fullvoice/section_102202/vo_full_102202-19-26
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-25
     textRight: It's nice that you're in high spirits.
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102202/vo_full_102202-19-27
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-26
     textRight: But I have as much intention of rebuilding the@Wings of the Magius
       as I do of swearing off books.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 0
       voiceFull: fullvoice/section_102202/vo_full_102202-19-28
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-27
     textLeft: Yeah, yeah.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 400
       voiceFull: fullvoice/section_102202/vo_full_102202-19-29
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-28
@@ -324,18 +324,18 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102202/vo_full_102202-19-30
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-29
     textLeft: You're welcome to join us.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       motion: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       motion: 0
     nameNarration: ???
     narration: '"We don''t mean to just aim for liberation."'
@@ -348,7 +348,7 @@ story:
     voiceFull: fullvoice/section_102202/vo_full_102202-19-32
     voiceFullStop: fullvoice/section_102202/vo_full_102202-19-31
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102202/vo_full_102202-19-33
     narrationEffect: out
     textRight: You're...?
@@ -356,9 +356,9 @@ story:
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102202/vo_full_102202-19-33
     textClear: 1
   - chara:

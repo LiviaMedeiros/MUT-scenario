@@ -139,7 +139,7 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -150,14 +150,14 @@ story:
     nameLeft: Touka
     textLeft: Pffft!
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102204/vo_full_102204-6-17
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-16
     textLeft: You all don't even know about that?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -180,7 +180,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       motion: 100
       voiceFull: fullvoice/section_102204/vo_full_102204-6-20
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-19
@@ -188,7 +188,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102204/vo_full_102204-6-21
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-20
     textLeft: You two are Feathers, so you understand@the whole picture, right?
@@ -197,7 +197,7 @@ story:
     - effect: fadeout
       id: 101600
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-21
     textClear: 1
   - chara:
@@ -232,7 +232,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -244,21 +244,21 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       voiceFull: fullvoice/section_102204/vo_full_102204-6-25
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-24
     textCenter: For those of you who don't know, I'll give you@a quick overview to
       bring you up to speed.
   - autoTurnLast: 0.2
     chara:
-    - id: 100701
+    - id: 100770
       pos: 0
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-25
     textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       voiceFull: fullvoice/section_102204/vo_full_102204-6-26
     - cheek: 0
@@ -301,7 +301,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
       id: 100200
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-29
@@ -324,7 +324,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -336,7 +336,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 201
       voiceFull: fullvoice/section_102204/vo_full_102204-6-32
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-31
@@ -344,7 +344,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-32
     textClear: 1
   - chara:
@@ -365,7 +365,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -375,7 +375,7 @@ story:
     nameCenter: Touka
     textCenter: We'll just set aside the matter of@what Kyubey is for the time being.
   - chara:
-    - id: 100701
+    - id: 100770
       voiceFull: fullvoice/section_102204/vo_full_102204-6-35
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-34
     textCenter: Let's start by talking about Kyubey's@purpose and motives, shall we?
@@ -545,7 +545,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -553,7 +553,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -563,7 +563,7 @@ story:
     turnChangeIn: fadeIn
     voiceFullStop: fullvoice/section_102204/vo_full_102204-6-50
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
       voiceFull: fullvoice/section_102204/vo_full_102204-6-51
     nameLeft: Touka
@@ -571,12 +571,12 @@ story:
     textLeft: Do you understand?
     turnChangeOut: fadeOut
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102204/vo_full_102204-6-52
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-51
     textRight: In the end, we were born to provide@sustenance for the universe.
   - chara:
-    - id: 101403
+    - id: 101471
       voiceFull: fullvoice/section_102204/vo_full_102204-6-53
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-52
     textRight: Our wishes are granted for the deliberate@purpose of bringing us to
@@ -594,7 +594,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
       id: 102500
       voiceFullStop: fullvoice/section_102204/vo_full_102204-6-54

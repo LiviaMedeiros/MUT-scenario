@@ -277,7 +277,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -636,7 +636,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -647,7 +647,7 @@ story:
   - autoTurnLast: 1
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - autoTurnLast: 2
     bg: bg_adv_21021.jpg

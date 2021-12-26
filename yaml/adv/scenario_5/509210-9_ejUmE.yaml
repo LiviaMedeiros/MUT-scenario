@@ -16,7 +16,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -32,7 +32,7 @@ story:
     textLeft: Hmmmm...
     turnChangeOut: fadeOut
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
     nameRight: Nemu
     textRight: I won't understand what you came to consult@me about if you continue
@@ -48,7 +48,7 @@ story:
     nameLeft: Ryo
     textLeft: '...Is it possible for Uwasa to become@emotionally attached to people?'
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameRight: Nemu
     textRight: By emotional attachment, do you mean in the@sense one might feel towards
@@ -66,7 +66,7 @@ story:
     textLeft: You remember how Sakurako went to Sankyo@for the cherry blossom viewing
       spot?
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 0
     nameRight: Nemu
     textRight: Of course
@@ -91,7 +91,7 @@ story:
     nameLeft: Ryo
     textLeft: Isn't it really unusual for Sakurako to open up@to people so much?
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 1
     nameRight: Nemu
     textRight: By that logic, I'm sure she's emotionally attached@to all the other
@@ -283,7 +283,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -300,7 +300,7 @@ story:
     textLeft: That's all, what do you think? I'm starting to@get a little worried...
     turnChangeOut: fadeOut
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 300
     nameRight: Nemu
     textRight: To be honest, I'm not sure either.
@@ -310,22 +310,22 @@ story:
     nameLeft: Ryo
     textLeft: Is it unnatural for her to get attached to@ordinary people?
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameRight: Nemu
     textRight: I can't tell what's natural or not for her.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 1
     nameRight: Nemu
     textRight: 'As long as it doesn''t go against the contents of@her [textBlue:Rumor],
       it''s within the scope of her behavior. '
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: Her original purpose changed, and her@priorities have shifted.
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: It doesn't mean there's any difference from the@original story that
       Iroha and I created.
@@ -338,7 +338,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       motion: 200
     nameRight: Nemu
     textRight: That's right.
@@ -358,12 +358,12 @@ story:
     nameLeft: Ryo
     textLeft: Uwasa are free to do whatever they want@outside of it.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 0
     nameRight: Nemu
     textRight: And unlike other Uwasa, Sakurako is connected@to a server.
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: We don't know what she'll be interested in or@how much she can change.
   - chara:
@@ -375,14 +375,14 @@ story:
     textLeft: Is there anything we should be paying@attention to?
   - chara:
     - eyeClose: 1
-      id: 101403
+      id: 101471
     nameRight: Nemu
     textRight: Well, this is just my hypothesis, but...
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       motion: 300
     nameRight: Nemu
     textRight: If I had to guess, I'd say "change"...
@@ -396,30 +396,30 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       motion: 0
     nameRight: Nemu
     textRight: Uwasa strictly follow their [textBlue:Rumor]. They aren't@good at coping
       with changes in circumstances.
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: Even if it's something as trivial as a change@in the location of an
       object.
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: Or perhaps even a change in temperature.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       motion: 100
     nameRight: Nemu
     textRight: That's why, if there are additional factors in@Sakurako's life she
       wishes to remain constant...
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: Things could become a little tricky.
   - chara:
