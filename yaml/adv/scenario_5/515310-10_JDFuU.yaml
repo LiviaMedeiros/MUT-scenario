@@ -423,12 +423,12 @@ story:
   - chara:
     - id: 800600
     nameCenter: Mikage's Mother
-    textCenter: That's not to say it isn't hard raising@two children...
+    textCenter: That may be so...but it's hard to raise@two children.
     turnChangeOut: fadeOut
   - chara:
     - id: 800600
     nameCenter: Mikage's Mother
-    textCenter: We don't even have any money...
+    textCenter: We just don't have the money...
   - autoTurnLast: 0.01
     bg: bg_adv_17041.jpg
     chara:
