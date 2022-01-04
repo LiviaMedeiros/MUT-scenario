@@ -298,7 +298,7 @@ story:
   - chara:
     - id: 103300
     nameLeft: Rabi
-    textLeft: One of the Hundred Schools of Thought,@philanthropism​ and pacifism.
+    textLeft: One of the Hundred Schools of Thought,@philanthropism and pacifism.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

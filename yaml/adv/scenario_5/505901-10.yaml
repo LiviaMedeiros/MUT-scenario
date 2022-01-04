@@ -1,8 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_20052.jpg
-    bgm: bgm01_anime05
+  - autoTurnLast: 0.01
     chara:
     - id: 810000
       motion: 0
@@ -15,23 +14,37 @@ story:
       motion: 0
       pos: 2
       soulGem: 0
+    turnChangeIn: fadeIn
+  - bg: bg_adv_20052.jpg
+    bgm: bgm01_anime05
+    chara:
+    - id: 810000
+      motion: 0
+      pos: 0
+      posX: -50
+      posY: 0
+    - id: 302601
+      soulGem: 0
     nameLeft: Kyubey
     textLeft: I'm glad all three of you decided to make@a contract with me!
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - textLeft: Now, please tell me your wish.
-  - nameNarration: Hazuki
+  - bg: bg_adv_20052.jpg
+    nameNarration: Hazuki
     narration: We were gonna make a contract with@Kyubey and become Magical Girls...
     narrationBg: bg_adv_20052.jpg
     narrationEffect: in
-  - narration: Each one of us had a wish coming.@We had to decide what to use them
-      on.
-  - bg: bg_adv_20052.jpg
-    chara:
+  - chara:
     - face: mtn_ex_011.exp.json
       id: 302801
-      motion: 200
+      motion: 0
       pos: 2
+      soulGem: 0
+    narration: Each one of us had a wish coming.@We had to decide what to use them
+      on.
+  - chara:
+    - id: 302801
+      motion: 200
       soulGem: 0
     nameRight: Ayame
     narrationEffect: out

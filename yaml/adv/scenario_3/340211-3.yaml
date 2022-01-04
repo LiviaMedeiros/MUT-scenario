@@ -4,7 +4,7 @@ story:
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402100
       motion: 0
       pos: 1
@@ -35,17 +35,20 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
+      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 760090
+      id: 760000
+      live2dName: live2d_1
       motion: 0
       pos: 2
     textBg: shout
     textRight: ББЯЯяяяяяЯЯ!!!!
   - chara:
     - id: 760000
+      live2dName: live2d_0
     textBg: shout
     textLeft: БЯЯЯЯЯяЯЯЯ!!!!!
   - chara:
@@ -177,6 +180,7 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
+      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
@@ -198,12 +202,14 @@ story:
   - autoTurnLast: 0.5
     chara:
     - id: 760000
+      live2dName: live2d_0
     textBg: shout
     textLeft: '[flashEffect:flashRed2][surround:4021A05][bgEffect:shakeSmall][chara:760000:effect_shake]БЯяяяяЯ…'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
       id: 760000
+      live2dName: live2d_0
     se: 3002_chara_dead
     textClear: 1
   - chara:
@@ -238,6 +244,7 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
+      live2dName: live2d_0
       motion: 0
       pos: 1
     nameCenter: ""
@@ -247,6 +254,7 @@ story:
     chara:
     - effect: fadeout
       id: 760000
+      live2dName: live2d_0
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

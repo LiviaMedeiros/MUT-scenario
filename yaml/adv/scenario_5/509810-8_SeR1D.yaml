@@ -327,12 +327,12 @@ story:
     item:
     - action:
         moveTo:
-          duration: 0.4
+          duration: 0.3
           posY: 0
       path: resource/scenario/img/adv_roll_fade.png
       posX: 0
       posY: 1000
-      scale: 4
+      scale: 6
       setVisible: 1
       zOrder: messageFront
   - autoTurnLast: 0.1

@@ -36,7 +36,7 @@ story:
       lipSynch: 0
     textCenter: '...'
   - autoTurnLast: 0.01
-    bg: bg_adv_21025.jpg
+    bg: bg_adv_21491.jpg
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json

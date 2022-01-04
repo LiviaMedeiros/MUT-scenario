@@ -1,8 +1,8 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_46103.jpg
-    bgm: bgm01_anime08
+  - autoTurnLast: 0.01
+    bg: bg_adv_46103.jpg
     chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
@@ -10,9 +10,13 @@ story:
       motion: 0
       pos: 1
       tear: 1
+    turnChangeIn: fadeIn
+  - bgm: bgm01_anime08
+    chara:
+    - id: 302800
+      tear: 1
     nameCenter: Ayame
     textCenter: I...I...
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: blackPromist
   - textCenter: '...don''t wanna...be alone...'
@@ -273,6 +277,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 302701
       motion: 0
+      pos: 2
     nameRight: Hazuki
     textRight: Hm? Where's your spoon?
   - chara:

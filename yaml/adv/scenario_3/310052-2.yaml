@@ -1,20 +1,31 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21131.jpg
-    bgm: bgm03_story02
+  - autoTurnLast: 0.01
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100501
-      lipSynch: 0
       motion: 1
       mouthOpen: 0
       pos: 1
+    turnChangeIn: fadeIn
+  - bg: bg_adv_21131.jpg
+    bgm: bgm03_story02
+    chara:
+    - id: 100501
+      lipSynch: 0
     nameCenter: Felicia
     textCenter: …
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
+  - autoTurnLast: 0.2
+    chara:
+    - cheek: 0
+      effect: ef_adv_01
+      face: mtn_ex_050.exp.json
+      id: 100501
+    se: 7201_detect_magic
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -33,7 +44,11 @@ story:
       id: 100501
       mouthOpen: 0
     textCenter: Now I just have to wait for some@Magical Girls to come fight it.
-  - nameNarration: ""
+  - chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 100501
+    nameNarration: ""
     narration: One Hour Later
     narrationBg: bg_adv_21131.jpg
     narrationEffect: in
@@ -42,7 +57,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100501
-      motion: 0
+      motion: 1
       mouthOpen: 1
       tear: 1
     nameCenter: Felicia
@@ -57,9 +72,15 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100501
-      motion: 1
+      motion: 0
       mouthOpen: 0
     textCenter: Let's see...
+  - autoTurnLast: 0.2
+    chara:
+    - effect: ef_adv_01
+      id: 100501
+    se: 7201_detect_magic
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -88,7 +109,7 @@ story:
       id: 100501
       mouthOpen: 0
     textCenter: Huh?![chara:100501:effect_emotion_surprise_0][se:7226_shock]
-  - bg: bg_adv_21132.jpg
+  - autoTurnLast: 0.01
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -96,6 +117,9 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 0
+    turnChangeIn: rollInFast
+  - bg: bg_adv_21132.jpg
+    chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101301
@@ -105,7 +129,6 @@ story:
     nameLeft: Felicia
     nameRight: Asuka
     textRight: Whoa!
-    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -264,5 +287,5 @@ story:
   - autoTurnLast: 2
     surround: stop
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

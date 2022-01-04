@@ -31,7 +31,6 @@ story:
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 100
-      mouthOpen: 1
     textLeft: But... How can I...?
   - chara:
     - id: 810000
@@ -41,10 +40,9 @@ story:
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 300
-      mouthOpen: 1
     textLeft: I... I...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
       motion: 0
@@ -61,7 +59,7 @@ story:
       motion: 100
     textLeft: Huh? Nanaka!
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
       motion: 300
@@ -73,13 +71,13 @@ story:
       motion: 0
     textLeft: You can do that?
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
       motion: 0
     textRight: Listen to me, Kako.@Do not worry about me.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
     textRight: You have to decide what you want@to do for yourself, and no one else.
@@ -88,15 +86,14 @@ story:
       face: mtn_ex_030.exp.json
       id: 301101
       motion: 300
-      mouthOpen: 1
     textLeft: I...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
     textRight: Do not lament over your situation,@think about what you want to do.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
       motion: 300
@@ -117,7 +114,6 @@ story:
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 400
-      mouthOpen: 1
     textLeft: '[chara:300500:effect_fadeout]Nanaka!'
     turnEffect: stop
   - chara:
@@ -144,14 +140,12 @@ story:
       face: mtn_ex_022.exp.json
       id: 301101
       motion: 300
-      mouthOpen: 1
     textLeft: I want to see my family smiling again!
   - chara:
     - cheek: 2
       face: mtn_ex_022.exp.json
       id: 301101
       motion: 400
-      mouthOpen: 1
     textLeft: Like we did before...@I want Natsume Books back again!
   - chara:
     - cheek: 2
@@ -197,5 +191,5 @@ story:
     textRight: Your destiny resides within it.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

@@ -362,7 +362,7 @@ story:
   - chara:
     - id: 101001
     textRight: I'm pretty nervous about passing all my@classes.
-  - autoTurnLast: 0.01
+  - autoTurnLast: 0.2
     chara:
     - effect: fadeout
       id: 100602

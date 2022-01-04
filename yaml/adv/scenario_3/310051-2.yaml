@@ -1,8 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_46103.jpg
-    bgm: bgm01_anime15
+  - autoTurnLast: 0.01
     chara:
     - id: 6103
       name: sprite_0
@@ -13,18 +12,18 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 2
+    turnChangeIn: fadeIn
+  - bg: bg_adv_46103.jpg
+    bgm: bgm01_anime15
     nameLeft: ""
     nameRight: Felicia
     textBg: shout
     textLeft: GZJGG◎◇▼☆☆ー![se:6054_hit_strike_03_vh][flashEffect:flashRed1][bgEffect:shakeLarge][name:sprite_0:effect_shake]
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       id: 100500
       mouthOpen: 1
-    flashEffect: flashWhite2
-    se: 6053_hit_strike_03_s
     textBg: shout
     textRight: C'mon!
   - chara:
@@ -32,17 +31,12 @@ story:
       id: 100500
       motion: 200
       mouthOpen: 0
-    flashEffect: flashWhite2
-    se: 6053_hit_strike_03_s
     textBg: shout
     textRight: Take this, and this, and THIS!
-  - bgEffect: shakeLarge
-    chara:
+  - chara:
     - effect: shake
       id: 6103
       name: sprite_0
-    flashEffect: flashRed2
-    se: 6054_hit_strike_03_vh
     textBg: shout
     textLeft: ZSYHHH▲◇◎☆☆ー!
   - chara:
@@ -64,8 +58,7 @@ story:
     nameRight: Felicia
     textRight: Oh!
   - chara:
-    - effect: shake
-      id: 6103
+    - id: 6103
       name: sprite_0
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -73,7 +66,6 @@ story:
       motion: 200
       mouthOpen: 1
       pos: 2
-    flashEffect: flashWhite2
     nameRight: Akira
     textBg: shout
     textRight: HAAAH![se:6059_hit_strike_06_h]
@@ -87,15 +79,13 @@ story:
     nameRight: Meiyui
     textRight: I'll follow up for you!
   - chara:
-    - effect: shake
-      id: 6103
+    - id: 6103
       name: sprite_0
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 301200
       motion: 100
       mouthOpen: 1
-    flashEffect: flashWhite2
     textBg: shout
     textRight: HYAH![se:4061_landing_jump5]
   - chara:
@@ -212,26 +202,36 @@ story:
       pos: 0
     nameLeft: Akira
     textLeft: Hold that thought!@It's attacking again!
-  - bg: bg_adv_46103.jpg
+  - autoTurnLast: 0.01
     chara:
     - id: 6103
       name: sprite_0
       pos: 1
+    turnChangeIn: rollInFast
+  - bg: bg_adv_46103.jpg
     nameCenter: ""
     textCenter: ZJRZJR...◇...☆...
-    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
-  - bg: bg_adv_46103.jpg
+  - autoTurnLast: 0.01
     chara:
+    - cheek: 0
+      face: mtn_ex_001.exp.json
+      id: 301200
+      motion: 0
+      mouthOpen: 0
+      pos: 0
     - cheek: 1
       face: mtn_ex_020.exp.json
       id: 100500
       motion: 0
       mouthOpen: 0
       pos: 2
+    turnChangeIn: rollInFast
+  - bg: bg_adv_46103.jpg
+    chara:
+    - id: 100500
     nameRight: Felicia
     textRight: I...I...
-    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 1
@@ -239,15 +239,13 @@ story:
       id: 100500
       motion: 200
       mouthOpen: 1
-    flashEffect: flashWhite1
+    flashEffect: flashWhite2
     textRight: I'm gonna smash each and every@Witch into a million pieces!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 301200
-      motion: 0
-      mouthOpen: 0
-      pos: 0
+      lipSynch: 0
     nameLeft: Meiyui
     textLeft: '!@[chara:301200:effect_emotion_surprise_0][se:7226_shock][chara:301200:lipSynch_0][freeze:0.7][chara:301200:motion_200][chara:301200:cheek_0][chara:301200:face_mtn_ex_020.exp.json][chara:301200:lipSynch_1]Get
       back, Akira!'
@@ -265,12 +263,9 @@ story:
       id: 100500
       motion: 200
       mouthOpen: 1
-    flashEffect: flashWhite2
-    se: 6053_hit_strike_03_s
     textBg: shout
     textRight: Stupid Witch!
-  - bgEffect: shakeLarge
-    chara:
+  - chara:
     - cheek: 1
       effect: slideOutLeftFast
       id: 100500
@@ -278,14 +273,14 @@ story:
       mouthOpen: 0
     - cheek: 0
       effect: shake
+      eyeClose: 1
       face: mtn_ex_030.exp.json
       id: 300800
       motion: 400
       mouthOpen: 0
-    flashEffect: flashRed2
     textBg: shout
     textRight: TAKE THIIIS![se:3001_chara_damage]
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

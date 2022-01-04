@@ -25,7 +25,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -33,7 +33,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -42,18 +42,18 @@ story:
     nameCenter: Touka & Nemu
     textCenter: …
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
     nameRight: Nemu
     textRight: It can even take the electric train…
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
     textLeft: Isn’t this getting a free ride?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       motion: 100
       pos: 2
     nameRight: Nemu
@@ -61,7 +61,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       pos: 0
     nameLeft: Touka
@@ -69,26 +69,26 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       motion: 1
       pos: 2
     nameRight: Nemu
     textRight: That’s how things are…
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
     nameRight: Nemu
     textRight: Actually, normal people can’t see it in the end…
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: It’s like trying to collect train tickets from a ghost.
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     - effect: fadeout
-      id: 100701
+      id: 100770
     textClear: 1
   - autoTurnLast: 0.1
     bg: bg_adv_21631.jpg
@@ -198,7 +198,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -206,7 +206,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -215,7 +215,7 @@ story:
     nameRight: Nemu
     textRight: userName has quite a few connections…
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 300
       pos: 0
     nameLeft: Touka
@@ -226,9 +226,9 @@ story:
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     narrationEffect: out
   - chara:
     - id: 810100
@@ -258,7 +258,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -266,7 +266,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -275,7 +275,7 @@ story:
     nameRight: Nemu
     textRight: Touka…
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
       pos: 0
     nameLeft: Touka
@@ -442,7 +442,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -450,7 +450,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -459,34 +459,34 @@ story:
     nameLeft: Touka
     textLeft: '...Ha, the area it operates in is even bigger than we thought, nyaa…'
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
     nameRight: Nemu
     textRight: It’s practically all of Kamihama…
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       pos: 2
     nameRight: Nemu
     textRight: Even a tiger with a large territory wouldn’t travel @this much.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 101403
+      id: 101471
       motion: 1
       pos: 2
     nameRight: Nemu
     textRight: And it seems to have interacted with many @magical girls…
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     nameLeft: Touka
     textLeft: What exactly is its goal...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       motion: 0
       pos: 2
     nameRight: Nemu
@@ -494,9 +494,9 @@ story:
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - autoTurnLast: 1.2
     chara:
@@ -510,7 +510,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -518,7 +518,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -527,13 +527,13 @@ story:
     nameRight: Nemu
     textRight: userName got on the bus…
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
     textLeft: Eh!? Um…
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       motion: 400
     nameLeft: Touka
     textLeft: Taxiii!
@@ -550,7 +550,7 @@ story:
     narrationEffect: out
     textRight: It's just you young ladies on this trip?
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 201
       pos: 0
     nameLeft: Touka

@@ -40,12 +40,12 @@ story:
       zOrder: bgFront
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 200
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -58,19 +58,19 @@ story:
     textLeft: I’m going in!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301700
       motion: 200
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
     nameRight: Nanase Yukika
     textRight: Ah... Please wait a moment!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301700
     nameRight: Nanase Yukika
     textRight: I thought of a good idea.
@@ -91,12 +91,12 @@ story:
     bgChangeEffect: cameraPan
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -116,7 +116,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301700
       motion: 0
       pos: 1
@@ -124,7 +124,7 @@ story:
     textCenter: 'Please let me handle '
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 301700
       motion: 400
     nameCenter: Nanase Yukika
@@ -140,7 +140,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301700
       motion: 0
       pos: 2
@@ -164,12 +164,12 @@ story:
     bg: bg_adv_20645.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -203,7 +203,7 @@ story:
     textRight: It’s coming from the comms...!
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -211,7 +211,7 @@ story:
     textLeft: Saying something like “probably” is really ominous, @you know!?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 200
       pos: 2
@@ -252,12 +252,12 @@ story:
     bg: bg_adv_14051.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -282,13 +282,13 @@ story:
     textRight: We’re at the Central Tower!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: Where’s the entrance...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -297,7 +297,7 @@ story:
       be a frontal assault!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 201
       pos: 0
@@ -328,12 +328,12 @@ story:
     bg: bg_adv_16052.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103000
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 304200
       motion: 0
       pos: 2
@@ -356,7 +356,7 @@ story:
     textLeft: They did it...!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 304200
       motion: 200
       pos: 2
@@ -364,7 +364,7 @@ story:
     textRight: Increased output level confirmed! It’s ready to use!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 0
       pos: 0
@@ -398,7 +398,7 @@ story:
     textLeft: Hibiki-san!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 304200
       motion: 400
       pos: 2
@@ -413,12 +413,12 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 304200
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 0
       pos: 0
@@ -438,13 +438,13 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
     nameLeft: Shigure
     textLeft: All that’s left... is to wait for results...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 200
       pos: 2
@@ -452,7 +452,7 @@ story:
     textRight: Ah... Awawa... We have a problem!
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 102900
       motion: 0
       pos: 0
@@ -460,7 +460,7 @@ story:
     textLeft: '...What’s wrong?'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
     nameRight: Hagumu
     textRight: Where’s Nanase-san? We lost contact halfway @through...
@@ -471,7 +471,7 @@ story:
     textLeft: She should have a communicator...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 100
     nameRight: Hagumu
@@ -488,7 +488,7 @@ story:
     narrationEffect: in
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 304200
       motion: 0
       pos: 2
@@ -507,7 +507,7 @@ story:
     textCenter: '...Ehhh?'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 304200
       motion: 400
     - id: 102900

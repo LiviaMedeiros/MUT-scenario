@@ -81,6 +81,8 @@ story:
     narration: Worry not. The one you await is coming.@What you have lost will be
       found close by.@Look forward to a profit in business.
     narrationEffect: in
+    narrationHAlignment: left
+    narrationPosX: 300
   - chara:
     - id: 101601
     narrationEffect: out

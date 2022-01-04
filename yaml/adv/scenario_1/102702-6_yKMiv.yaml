@@ -12,7 +12,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     nameRight: Touka's voice
     textRight: Okaay, keep studying until we meet next time,@byebyyye.

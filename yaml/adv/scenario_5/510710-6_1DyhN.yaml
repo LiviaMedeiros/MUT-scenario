@@ -107,7 +107,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -115,7 +115,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -124,20 +124,20 @@ story:
     nameRight: Nemu
     textRight: Turning it into an aquarium...
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: I could temporarily alter it by adding more content to the [textBlue:Rumor].
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 200
     nameLeft: Touka
     textLeft: Adjusting the server is no problem for me.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - chara:
     - cheek: 0
@@ -170,7 +170,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -178,7 +178,7 @@ story:
       pos: 1
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -187,9 +187,9 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - chara:
     - cheek: 0
@@ -338,7 +338,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -348,7 +348,7 @@ story:
     textLeft: '...Sakurako is an [textBlue:Uwasa] influenced by the@contents of her
       rumor.'
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameLeft: Nemu
     textLeft: I believe it would be difficult for her to open@her heart to anyone
@@ -465,7 +465,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -473,7 +473,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -482,18 +482,18 @@ story:
     nameLeft: Touka
     textLeft: Sakurako seems really motivated, but I wonder@if she'll be okay?
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
     textLeft: Aren't Uwasa really bad at change?
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: '...But even if she''s not good with it, one can''t@remain the same
       forever.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       motion: 100
     nameRight: Nemu
     textRight: She's determined to do this. We should watch@her grow.
@@ -557,7 +557,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100750
+      id: 100771
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -568,7 +568,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100750
+      id: 100771
     nameRight: Touka
     textRight: I can't wait for Ui and Iroha to see this.
   - chara:
@@ -583,7 +583,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101450
+      id: 101472
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -600,7 +600,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101450
+      id: 101472
     nameRight: Nemu
     textRight: Perhaps they won't enjoy it as much as we@thought they would.
   - chara:
@@ -614,14 +614,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101450
+      id: 101472
       motion: 0
     nameRight: Nemu
     textRight: I do have my concerns.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101450
+      id: 101472
     nameRight: Nemu
     textRight: But I want Sakurako to experience what it's@like to accomplish something.
   - chara:
@@ -634,7 +634,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101450
+      id: 101472
       motion: 100
     nameRight: Nemu
     textRight: '*Chuckle* Real experience is the greatest@treasure of all.'
@@ -643,7 +643,7 @@ story:
     - effect: fadeout
       id: 304650
     - effect: fadeout
-      id: 101450
+      id: 101472
     textClear: 1
   - chara:
     - cheek: 1
@@ -668,7 +668,7 @@ story:
       pos: 0
     - cheek: 1
       face: mtn_ex_011.exp.json
-      id: 100750
+      id: 100771
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -676,7 +676,7 @@ story:
       pos: 1
     - cheek: 1
       face: mtn_ex_011.exp.json
-      id: 101450
+      id: 101472
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -688,9 +688,9 @@ story:
     chara:
     - id: 101550
       motion: 200
-    - id: 100750
+    - id: 100771
       motion: 200
-    - id: 101450
+    - id: 101472
       motion: 100
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
@@ -698,9 +698,9 @@ story:
     - effect: fadeout
       id: 101550
     - effect: fadeout
-      id: 100750
+      id: 100771
     - effect: fadeout
-      id: 101450
+      id: 101472
   - autoTurnLast: 1.5
     chara:
     - cheek: 1

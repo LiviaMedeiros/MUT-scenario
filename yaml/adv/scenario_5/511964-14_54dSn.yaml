@@ -27,12 +27,12 @@ story:
   - bgm: bgm05_event12
     chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 0
       pos: 2
@@ -61,7 +61,7 @@ story:
     textRight: Y-Yeah... Will anyone come help us...?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -69,21 +69,21 @@ story:
     textLeft: Everything will be fine!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: In all of my travels across the world... everyone I’ve @met has been
       a good person!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 1
     nameRight: Hagumu
     textRight: Ah... I believe there’s a lot of good people... but...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 300
       pos: 0
@@ -91,7 +91,7 @@ story:
     textLeft: The question is whether anyone will be able to @hear this broadcast...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 400
       pos: 0
@@ -99,7 +99,7 @@ story:
     textLeft: This side’s the problem!?
   - chara:
     - cheek: 0
-      face: mtn_ex_041.exp.json
+      face: mtn_ex_041.exp3.json
       id: 103000
       motion: 0
       pos: 2
@@ -107,7 +107,7 @@ story:
     textRight: Well... It’s about time for me to go to Hibiki-san’s booth...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -115,7 +115,7 @@ story:
     textLeft: Thanks for taking over for Yukika-chan!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 300
       pos: 2
@@ -123,7 +123,7 @@ story:
     textRight: Me as an assistant... I wonder if I can pull it off?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 1
       pos: 0
@@ -132,7 +132,7 @@ story:
       will hear...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -140,7 +140,7 @@ story:
     textLeft: Yup yup, so relax!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -148,7 +148,7 @@ story:
     textRight: '...Oi, ’bout time for us to head out too!'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
     nameLeft: Tsuruno
@@ -159,7 +159,7 @@ story:
     textLeft: We just gotta search for the right components in @stores using the memo.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102900
       motion: 100
       pos: 2
@@ -167,7 +167,7 @@ story:
     textRight: Yeah, please do... Once there’s time, I’ll be able to @come help too.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 201
       pos: 0
@@ -175,7 +175,7 @@ story:
     textLeft: Leave it to us! Felicia, let’s go!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 200
       pos: 2
@@ -209,12 +209,12 @@ story:
     autoTurnLast: 0.01
     chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 120301
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -232,7 +232,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 100
     nameLeft: Tsuruno
@@ -248,7 +248,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -256,7 +256,7 @@ story:
     textRight: '...Ohh! Perfect match!'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 101
     nameLeft: Tsuruno
@@ -264,12 +264,12 @@ story:
   - autoTurnLast: 2
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 1
       pos: 2
@@ -291,7 +291,7 @@ story:
     textRight: They all look like pieces of junk... @Are they really gonna be useful?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 0
     item:
@@ -301,7 +301,7 @@ story:
     textLeft: We just have to trust Shigure-chan’s expertise.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
     nameRight: Felicia
@@ -313,7 +313,7 @@ story:
     textLeft: Mhm, only to be expected!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
     nameRight: Felicia
     textRight: I guess in the end, to cross the End of the World,
@@ -334,28 +334,28 @@ story:
     - id: 120301
       motion: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
     nameLeft: Tsuruno
     textLeft: But I’ve already chosen a name!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 201
     nameLeft: Tsuruno
     textLeft: 'It’ll be Super Reindeer-san #2 (reworked)!'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 300
     nameRight: Felicia
     textRight: '...Ain’t there anythin’ else?'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: It should be easy to understand, right?
@@ -366,7 +366,7 @@ story:
     textLeft: 'Come on, let’s keep gathering parts! It’s for our @vehicle after all. '
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 200
     nameRight: Felicia
@@ -376,12 +376,12 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 304200
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 0
       pos: 2
@@ -400,7 +400,7 @@ story:
     textRight: Eh... eh!? @It appears... we received a call?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 304200
       motion: 100
     nameLeft: Hibiki Meguru
@@ -422,7 +422,7 @@ story:
     textRight: Wah wah... Um, is the button for phone-ins over @here?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 304200
       motion: 400
       pos: 0
@@ -431,14 +431,14 @@ story:
     textLeft: Oh no, Player Hagumu! She’s mistakenly pressed the mute bu-
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 200
     nameRight: Hagumu
     textRight: Ah... Awawawa, the broadcast’s stopped!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 1
     nameRight: Hagumu
@@ -449,8 +449,6 @@ story:
     narrationEffect: in
   - autoTurnLast: 1
     bg: bg_adv_21512.jpg
-    deleteArmatureList:
-    - 1
     narrationEffect: out
     turnChangeIn: fadeIn
   - armatureList:
@@ -462,17 +460,17 @@ story:
     autoTurnLast: 0.01
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 301100
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303800
       motion: 1
       pos: 1
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 304000
       motion: 0
       pos: 2
@@ -492,7 +490,7 @@ story:
     textRight: One-hundred percent a broadcasting mishap.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301100
       motion: 400
     nameLeft: Natsume Kako
@@ -504,7 +502,7 @@ story:
     textLeft: Hello! Can you hear us...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 303800
       motion: 100
     nameCenter: Komachi Mikura
@@ -520,6 +518,9 @@ story:
     deleteArmatureList:
     - 3
     turnChangeIn: fadeIn
+  - autoTurnLast: 0.1
+    deleteArmatureList:
+    - 1
   - armatureList:
     - animation:
       - action
@@ -531,7 +532,7 @@ story:
   - autoTurnLast: 1
     bg: bg_adv_21075.jpg
     deleteArmatureList:
-    - 1
+    - 2
     turnChangeIn: fadeIn
   - armatureList:
     - animation:
@@ -539,15 +540,16 @@ story:
       armatureId: 1
       filePath: resource/image_native/effect/story/general/3501_vr_frame.ExportJson
       zOrder: messageBack
-    autoTurnLast: 0.01
+    autoTurnLast: 0.1
+  - autoTurnLast: 0.2
     chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 102900
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103000
       motion: 1
       pos: 2
@@ -568,7 +570,7 @@ story:
     textRight: This is... the memo summarizing their information.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
     nameLeft: Shigure
@@ -576,12 +578,12 @@ story:
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 102900
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 1
       pos: 2
@@ -593,7 +595,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102900
       motion: 100
     nameLeft: Shigure
@@ -614,14 +616,14 @@ story:
     textLeft: as a transmission system to send energy to the @Wishing Star.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 103000
       motion: 300
     nameRight: Hagumu
     textRight: Hooray, Shigure-chan...!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 304200
       motion: 200
       pos: 2
@@ -629,12 +631,12 @@ story:
     textRight: By the way, requests for help were sent to others @from Library Town...!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -657,7 +659,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 101
     nameLeft: Tsuruno
@@ -669,7 +671,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103000
       motion: 400
       pos: 0
@@ -677,14 +679,14 @@ story:
     textLeft: Oh... These are the parts you found...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 100
     nameRight: Tsuruno
     textRight: Yep, we collected a ton, right?
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 102900
       motion: 1
       pos: 0
@@ -697,7 +699,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 304200
       motion: 1
       pos: 2
@@ -705,7 +707,7 @@ story:
     textRight: We also just had some Big News!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 103000
       motion: 100
       pos: 0
@@ -714,7 +716,7 @@ story:
       Tower!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 200
       pos: 2
@@ -722,7 +724,7 @@ story:
     textRight: Oooh!?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102900
       motion: 200
       pos: 0
@@ -730,7 +732,7 @@ story:
     textLeft: Starting tomorrow... we’ll have to begin the motorcycle’s remodeling...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 201
     nameRight: Tsuruno

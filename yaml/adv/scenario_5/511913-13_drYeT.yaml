@@ -23,19 +23,19 @@ story:
       visible: hide
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102500
       motion: 200
       mouthOpen: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102700
       motion: 100
       mouthOpen: 1
       pos: 1
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 200
       mouthOpen: 1
@@ -62,12 +62,12 @@ story:
   - bgm: bgm01_anime02
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 102500
       motion: 300
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 305800
       motion: 1
       pos: 2
@@ -79,7 +79,7 @@ story:
     textRight: A trowel? @...No, a shovel I guess?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 100
       pos: 0
@@ -92,7 +92,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 300
       pos: 0
@@ -100,7 +100,7 @@ story:
     textLeft: I’m not sure either,
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -117,7 +117,7 @@ story:
     textRight: everyone will become billionaires?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 200
       pos: 0
@@ -125,7 +125,7 @@ story:
     textLeft: '...Oi! Were ya listenin’ to anythin’ we said!?'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 305800
       motion: 100
       pos: 2
@@ -133,7 +133,7 @@ story:
     textRight: Haha, that was a joke. @That brought out some smiles, eh?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -141,7 +141,7 @@ story:
     textLeft: Yup, just like that!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 102500
       motion: 200
       pos: 0
@@ -149,7 +149,7 @@ story:
     textLeft: Just what is this used for...?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 1
       pos: 2
@@ -157,7 +157,7 @@ story:
     textRight: Umm... I think it’s for digging in soil.
   - chara:
     - cheek: 1
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102500
       motion: 100
     nameLeft: Shizuka
@@ -165,12 +165,12 @@ story:
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102500
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 1
       pos: 2
@@ -192,7 +192,7 @@ story:
     textRight: I suppose so...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 200
       pos: 2
@@ -200,7 +200,7 @@ story:
     textRight: Let’s try it out somewhere random?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -220,12 +220,12 @@ story:
     bg: bg_adv_50021.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102500
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 1
       pos: 2
@@ -249,7 +249,7 @@ story:
     textRight: does not appear anything will turn up.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -262,7 +262,7 @@ story:
     textLeft: We’re just aimlessly digging everywhere...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -270,7 +270,7 @@ story:
     textRight: '...This entire place has been filled with holes!'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102500
       motion: 200
       pos: 2
@@ -290,7 +290,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 120301
       lipSynch: 0
       motion: 300
@@ -300,7 +300,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       lipSynch: 1
       motion: 200
@@ -310,7 +310,7 @@ story:
   - bgm: bgm01_anime03
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 102700
       motion: 100
       pos: 2
@@ -321,13 +321,13 @@ story:
     textRight: Oh... That’s it!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102700
     nameRight: Sunao
     textRight: We can bury a time capsule...!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 102500
       motion: 1
       pos: 0
@@ -335,7 +335,7 @@ story:
     textLeft: A time capsule...?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 305800
       motion: 0
       pos: 2
@@ -343,7 +343,7 @@ story:
     textRight: Ahh, my senpais once said
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 100
     nameRight: Natsu Ryoko
@@ -354,7 +354,7 @@ story:
     textRight: We would place it in a durable container and then @bury that deep underground.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 1
       pos: 2
@@ -365,7 +365,7 @@ story:
     textRight: but Shizuka came to the village right after and we completely forgot.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102500
       motion: 300
       pos: 0
@@ -373,7 +373,7 @@ story:
     textLeft: What would be written on them...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102700
       motion: 100
       pos: 2
@@ -388,7 +388,7 @@ story:
       of lives they led.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 102700
     nameRight: Sunao
     textRight: If they could know, wouldn’t that be wonderful?
@@ -399,7 +399,7 @@ story:
     textLeft: What if no one ever reads them...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102700
       motion: 1
       pos: 2
@@ -408,7 +408,7 @@ story:
       map.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 102500
       motion: 0
       pos: 0
@@ -417,7 +417,7 @@ story:
       this works!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -428,7 +428,7 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 102500
       motion: 0
       pos: 1
@@ -442,7 +442,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 102500
     nameCenter: Shizuka
     textCenter: Are Ryoko and Sunao...?
@@ -453,12 +453,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102700
       motion: 0
       pos: 0
@@ -471,7 +471,7 @@ story:
     textLeft: We’d already contemplated what we would write @some time back.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102500
       motion: 1
       pos: 0
@@ -479,7 +479,7 @@ story:
     textLeft: '...For me, this was a good chance to sort out my thoughts.'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102500
     nameLeft: Shizuka
     textLeft: Even now, I’m the newest resident.
@@ -494,7 +494,7 @@ story:
     textLeft: is something I have never pondered...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 305800
       motion: 100
       pos: 2
@@ -502,7 +502,7 @@ story:
     textRight: Then that's very good!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 102500
       motion: 1
     nameLeft: Shizuka
@@ -522,7 +522,7 @@ story:
     textLeft: ' “this person once existed”?'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102700
       motion: 1
       pos: 2
@@ -530,7 +530,7 @@ story:
     textRight: 'Fufu... Maybe so. '
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -538,7 +538,7 @@ story:
     textLeft: If that’s the case, everything you’ve done has @meant something.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -546,7 +546,7 @@ story:
     textRight: Welp, it’s gettin’ late...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
     nameRight: Felicia
     textRight: Let’s bury it tomorrow!

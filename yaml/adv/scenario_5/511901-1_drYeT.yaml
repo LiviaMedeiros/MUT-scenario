@@ -22,12 +22,12 @@ story:
     bg: bg_adv_21041.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -42,13 +42,13 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
     nameRight: Felicia
     textRight: '...No one’s here.'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -56,7 +56,7 @@ story:
     textLeft: Well, that’s usually how it is.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 300
       pos: 2
@@ -64,7 +64,7 @@ story:
     textRight: Towns with no people ain’t unusual...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 300
       pos: 0
@@ -72,7 +72,7 @@ story:
     textLeft: What exactly is this town called again...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -84,7 +84,7 @@ story:
     textRight: Lessee…
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -97,7 +97,7 @@ story:
     textLeft: What’s “also known as” supposed to mean!?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
     nameRight: Felicia
     textRight: I dunno…
@@ -105,12 +105,12 @@ story:
     bg: bg_adv_21401.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -123,13 +123,13 @@ story:
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: It says we can feel free to take anything!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 200
       pos: 2
@@ -137,7 +137,7 @@ story:
     textRight: Awesome! So that’s how it’s a town fulla candy.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -145,7 +145,7 @@ story:
     textRight: …But without people around we can’t do our job as Santas.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -156,12 +156,12 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303500
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103800
       motion: 0
       pos: 2
@@ -184,7 +184,7 @@ story:
     textLeft: Woah… Mikage-chan’s amazing!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 103800
       motion: 100
       pos: 2
@@ -192,7 +192,7 @@ story:
     textRight: Eheheeh. Let’s have some.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 303500
       motion: 100
       pos: 0
@@ -213,12 +213,12 @@ story:
     bgChangeEffect: cameraPan
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 100
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -226,7 +226,7 @@ story:
     textLeft: '[chara:120301:effect_emotion_surprise_0][se:7226_shock]Hoh!?'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 200
       pos: 2
@@ -241,13 +241,13 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303500
       lipSynch: 0
       motion: 400
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103800
       motion: 400
       pos: 2
@@ -259,7 +259,7 @@ story:
     textRight: '...W-What is it!?'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -267,7 +267,7 @@ story:
     textLeft: This might be out of the blue, but is there anything @you really want?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 0
@@ -280,7 +280,7 @@ story:
     textRight: Eh? @…H-Huh??
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -289,7 +289,7 @@ story:
       be confusing!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -321,12 +321,12 @@ story:
     bg: bg_adv_21031.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303500
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 0
@@ -343,13 +343,13 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
     nameLeft: Felicia
     textLeft: That's right!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 201
       pos: 0
@@ -357,13 +357,13 @@ story:
     textLeft: 'Coincidentally, my sweet ride’s name is Super Reindeer-san #2!'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: It’s a magic motorcycle that runs on magical power!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 103800
       motion: 100
       pos: 2
@@ -371,7 +371,7 @@ story:
     textRight: Ahaha, what a funny name~
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303500
       motion: 0
       pos: 2
@@ -379,11 +379,11 @@ story:
     textRight: Number 2 means that… there was a number 1?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 300
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 300
       pos: 2
@@ -391,7 +391,7 @@ story:
     textCenter: '.....@.....'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303500
       lipSynch: 0
       motion: 200
@@ -400,7 +400,7 @@ story:
     textRight: '[chara:303500:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 303500
       lipSynch: 1
       motion: 300
@@ -408,14 +408,14 @@ story:
     textRight: …I-I’m sorry, I must have said something bad.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 100
     nameLeft: Tsuruno
     textLeft: Nah, we just don’t really remember much about number 1!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 300
       pos: 0
@@ -423,7 +423,7 @@ story:
     textLeft: For some reason, the only thing I remember is @“there was a number 1”…
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103800
       lipSynch: 0
       motion: 1
@@ -432,14 +432,14 @@ story:
     textRight: '...?'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103800
       lipSynch: 1
     nameRight: Mikage
     textRight: I don’t really get it…
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303500
       motion: 200
       pos: 2
@@ -447,7 +447,7 @@ story:
     textRight: E-Either way, you two are really Santas?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 200
       pos: 0
@@ -455,7 +455,7 @@ story:
     textLeft: Yea! Is there anythin’ ya want?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 0
       pos: 0
@@ -463,7 +463,7 @@ story:
     textLeft: We’ll make ya smile with a magic present.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103800
       motion: 0
       pos: 2
@@ -471,7 +471,7 @@ story:
     textRight: A present you say…
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103800
       motion: 100
       pos: 2
@@ -479,7 +479,7 @@ story:
     textRight: We can ask for anything...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 0
@@ -487,7 +487,7 @@ story:
     textLeft: Yeah, leave it to us!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 103800
       motion: 200
       pos: 2
@@ -495,7 +495,7 @@ story:
     textRight: '[chara:103800:effect_emotion_joy_0][se:7222_happy]Yaay!'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103800
       motion: 1
       pos: 2
@@ -508,7 +508,7 @@ story:
     textLeft: Ohh, tell us.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 103800
       motion: 400
       pos: 2
@@ -523,7 +523,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 100
       pos: 0

@@ -1,25 +1,29 @@
 ---
 story:
   group_1:
-  - bg: black
+  - autoTurnLast: 0.01
+    bg: black
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 302700
-      lipSynch: 0
       motion: 0
       pos: 0
-    nameLeft: Hazuki
-    textLeft: '...'
-    turnChangeIn: fadeIn
-    turnChangeOut: fadeOut
-  - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 302600
-      lipSynch: 0
       motion: 0
       pos: 2
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 302700
+      lipSynch: 0
+    nameLeft: Hazuki
+    textLeft: '...'
+    turnChangeOut: fadeOut
+  - chara:
+    - id: 302600
+      lipSynch: 0
     nameRight: Konoha
     textRight: '...'
   - chara:
@@ -87,8 +91,14 @@ story:
     surround: 3028A01
     textBg: shout
     textCenter: Hyaaa!
-  - bg: bg_adv_46104.jpg
-    bgEffect: shakeSmall
+  - autoTurnLast: 0.01
+    bg: bg_adv_46104.jpg
+    chara:
+    - id: 6104
+      name: sprite_0
+      pos: 1
+    turnChangeIn: whiteIn
+  - bgEffect: shakeSmall
     bgm: bgm01_battle03
     chara:
     - cheek: 0
@@ -96,13 +106,11 @@ story:
     - effect: shake
       id: 6104
       name: sprite_0
-      pos: 1
     flashEffect: flashRed1
     nameCenter: ""
     surround: 3028A05
     textBg: shout
     textCenter: '...!'
-    turnChangeIn: whiteIn
     turnChangeOut: whiteOut
   - chara:
     - face: mtn_ex_030.exp.json

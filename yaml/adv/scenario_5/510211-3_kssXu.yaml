@@ -495,7 +495,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831400
+      id: 412100
       motion: 1
       pos: 0
     nameNarration: ""
@@ -510,14 +510,14 @@ story:
     nameRight: Minou
     textRight: There was no need for you to come in person.
   - chara:
-    - id: 831400
+    - id: 412100
       motion: 100
     nameLeft: Isabeau
     textLeft: Ça va. (It's fine.)
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 831400
+      id: 412100
     - effect: fadeout
       id: 402400
     narrationBg: bg_adv_20091.jpg

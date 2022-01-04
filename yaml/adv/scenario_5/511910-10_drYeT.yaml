@@ -11,12 +11,12 @@ story:
     bg: bg_adv_20644.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -35,7 +35,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 200
       pos: 2
@@ -44,7 +44,7 @@ story:
       up. '
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -53,7 +53,7 @@ story:
       go straight ahead here... right?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -96,12 +96,12 @@ story:
     bg: bg_adv_50031.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -117,7 +117,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 300
       pos: 0
@@ -131,14 +131,14 @@ story:
     textRight: We can’t even hear the usual radio now.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 0
     nameLeft: Tsuruno
     textLeft: That noisy Pirate Radio Central!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -147,7 +147,7 @@ story:
       we go!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
     nameRight: Felicia
     textRight: Anyway... @Ain’t there any buildings anywhere here?
@@ -164,17 +164,17 @@ story:
   - autoTurnLast: 2
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102500
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102700
       motion: 1
       pos: 1
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 1
       pos: 2
@@ -190,12 +190,12 @@ story:
   - bgm: bgm01_anime02
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 200
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -204,7 +204,7 @@ story:
     textRight: '...Oh, there’s some people!'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 101
     nameLeft: Tsuruno
@@ -212,12 +212,12 @@ story:
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102500
       motion: 1
       pos: 0
@@ -234,7 +234,7 @@ story:
     textLeft: For a long time this has been a village of only three villagers...
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -242,7 +242,7 @@ story:
     textLeft: Well these days all of the towns have been lonely, @huh!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 305800
       motion: 200
       pos: 2
@@ -250,18 +250,16 @@ story:
     textRight: It’s not the same thing at all!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
       pos: 0
     nameLeft: Tsuruno
     textLeft: Huuh?
-  - bgm: stop
-    chara:
+  - chara:
     - id: 305800
       motion: 100
     nameRight: Natsu Ryoko
-    surround: 7001_birdsong
     textRight: It’s as if the capacity is fixed.
   - chara:
     - id: 305800
@@ -269,18 +267,18 @@ story:
     textRight: There are always exactly three villagers.
   - autoTurnLast: 1.5
     bg: bg_adv_50071.jpg
+    bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 0
       pos: 2
-    surround: stop
     turnChangeIn: fadeIn
   - bgm: bgm03_story06
     chara:
@@ -295,7 +293,7 @@ story:
     textRight: Yes, that’s what we call it.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102500
       motion: 300
       pos: 0
@@ -303,7 +301,7 @@ story:
     textLeft: When a new resident appears, someone vanishes @in their place...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 305800
       motion: 100
       pos: 2
@@ -311,13 +309,13 @@ story:
     textRight: And so, there are always three villagers!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
     nameRight: Natsu Ryoko
     textRight: Guests like you guys are an exception, though!
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 300
       pos: 0
@@ -325,7 +323,7 @@ story:
     textLeft: I wonder why...?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102500
       motion: 1
       pos: 2
@@ -334,7 +332,7 @@ story:
       way...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 1
       pos: 0
@@ -342,7 +340,7 @@ story:
     textLeft: '...Heard?'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 305800
       motion: 1
       pos: 2
@@ -354,7 +352,7 @@ story:
     textRight: so it’s not like she’s actually experienced it herself.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 100
       pos: 0
@@ -368,34 +366,34 @@ story:
     bg: bg_adv_50011.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 304200
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102700
       motion: 0
       pos: 1
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 1
       pos: 2
     turnChangeIn: fadeIn
-    turnEffect: blackFrame
+    turnEffect: sepiaFrame
   - autoTurnLast: 2
     turnChangeOut: fadeOut
   - autoTurnLast: 0.5
     bg: bg_adv_50071.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102700
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 1
       pos: 2
@@ -418,7 +416,7 @@ story:
     textRight: She was always reporting live on something or @another, like-
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 305800
       motion: 200
       pos: 2
@@ -439,7 +437,7 @@ story:
     textRight: “Finally, finally! Be knocked out of the ring...!?”
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 102700
       motion: 100
       pos: 0
@@ -454,12 +452,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -479,12 +477,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102500
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 305800
       motion: 0
       pos: 2
@@ -505,7 +503,7 @@ story:
     textRight: Meguru vanished into thin air.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -524,7 +522,7 @@ story:
     textLeft: the number of villagers remained the same @at three...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 300
       pos: 2

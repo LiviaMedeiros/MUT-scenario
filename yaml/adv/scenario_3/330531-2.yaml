@@ -95,7 +95,7 @@ story:
     textRight: '[chara:800203:effect_emotion_joy_0][se:7222_happy]All right, let''s
       gooo! We''re going shopping!'
   - autoTurnLast: 0.5
-    bg: bg_adv_21041.jpg
+    bg: bg_adv_21401.jpg
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

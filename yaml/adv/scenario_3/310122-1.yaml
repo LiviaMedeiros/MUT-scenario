@@ -1,11 +1,11 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21025.jpg
+  - bg: bg_adv_21491.jpg
     bgm: bgm03_story08
     nameNarration: Karin
     narration: '"Phantom Thief Magical Kirin"@has always been my favorite manga.'
-    narrationBg: bg_adv_21025.jpg
+    narrationBg: bg_adv_21491.jpg
     narrationEffect: in
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -67,7 +67,7 @@ story:
     - id: 100201
     textRight: Earn things through your own efforts, then@share them with the people
       around you.
-  - bg: bg_adv_21025.jpg
+  - bg: bg_adv_21491.jpg
     bgm: bgm03_story07
     chara:
     - cheek: 0

@@ -97,7 +97,6 @@ story:
     - id: 810000
       pos: 2
       posX: 40
-      posY: 0
     item:
     - path: resource/scenario/img/51015_singleraid_tart/memoria_1171.jpg
       visible: hide
@@ -152,7 +151,6 @@ story:
     - id: 810000
       pos: 2
       posX: 40
-      posY: 0
     narration: Because I thought that's what@Catherine would have wanted...
   - narration: But...
   - narration: I'd be lying if I said I had no regrets.
@@ -198,7 +196,6 @@ story:
     - id: 810000
       pos: 2
       posX: 40
-      posY: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 402201

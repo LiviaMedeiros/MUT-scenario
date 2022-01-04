@@ -15,7 +15,6 @@ story:
     - id: 810000
       pos: 2
       posX: 40
-      posY: 0
     turnChangeIn: fadeIn
   - chara:
     - eyeClose: 0
@@ -66,7 +65,6 @@ story:
     - id: 810000
       pos: 2
       posX: 40
-      posY: 0
     - cheek: 0
       id: 402201
       motion: 1

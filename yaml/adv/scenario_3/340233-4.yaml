@@ -418,7 +418,6 @@ story:
       id: 810000
       motion: 0
       pos: 2
-      posY: 0
     nameRight: Qube
     textRight: Everyone seems to like them, huh.
   - chara:
@@ -441,7 +440,6 @@ story:
       id: 810000
       motion: 0
       pos: 2
-      posY: 0
     nameRight: Qube
     textRight: I was listening to the troops, Melissa.
   - chara:

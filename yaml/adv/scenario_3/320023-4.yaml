@@ -19,7 +19,8 @@ story:
     turnChangeIn: fadeIn
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/32002_homura_story/32002_soulgem_homura.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/32002_homura_story/32002_soulgem_homura.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -176,7 +177,8 @@ story:
     turnEffect: stop
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/32002_homura_story/32002_soulgem_homura.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/32002_homura_story/32002_soulgem_homura.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -472,7 +474,8 @@ story:
     narrationEffect: out
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/32002_homura_story/32002_soulgem_homura.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/32002_homura_story/32002_soulgem_homura.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -495,11 +498,11 @@ story:
         - fadeTo:
             duration: 0.1
             opacity: 0
+      iPhoneXScale: 1
       opacity: 255
-      path: resource/scenario/img/purple.jpg
+      path: resource/scenario/img/purple.png
       posX: 0
       posY: 0
-      scale: 1
       setVisible: 1
     se: 3214_ban
   - autoTurnLast: 0.01

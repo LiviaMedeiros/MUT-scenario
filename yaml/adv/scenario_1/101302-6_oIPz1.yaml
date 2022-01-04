@@ -178,7 +178,7 @@ story:
     bg: black
     bgm: stop
     item:
-    - path: resource/scenario/img/adv_souljem_01.png
+    - path: resource/scenario/img/adv_souljem_01.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -187,7 +187,7 @@ story:
     voiceFullStop: fullvoice/section_101302/vo_full_101302-6-17
   - autoTurnLast: 2
     item:
-    - path: resource/scenario/img/adv_souljem_01.png
+    - path: resource/scenario/img/adv_souljem_01.jpg
       visible: hide
     turnChangeIn: fadeIn
 version: 3

@@ -48,7 +48,6 @@ story:
       face: mtn_ex_021.exp.json
       id: 100200
       motion: 400
-      mouthOpen: 0
       pos: 0
       voiceFull: fullvoice/section_101863/vo_full_101802-21-4
       voiceFullStop: fullvoice/section_101863/vo_full_101802-21-3
@@ -79,7 +78,6 @@ story:
       face: mtn_ex_010.exp.json
       id: 100200
       motion: 100
-      mouthOpen: 0
       voiceFull: fullvoice/section_101863/vo_full_101802-21-6
       voiceFullStop: fullvoice/section_101863/vo_full_101802-21-5
     enableSkipAutoTurn: 0
@@ -150,8 +148,9 @@ story:
       path: resource/scenario/img/adv_roll_fade.png
       posX: 0
       posY: 3000
-      scale: 4
+      scale: 6
       setVisible: 1
+      zOrder: messageFront
   - armatureList:
     - animation:
       - action
@@ -284,7 +283,7 @@ story:
       voiceFullStop: fullvoice/section_101863/vo_full_101802-21-17
     textBg: shout
     textCenter: Now shatter into dust!
-  - autoTurnLast: 0.01
+  - autoTurnLast: 0.1
     bg: black
     chara:
     - effect: fadeout
@@ -294,21 +293,17 @@ story:
     flashEffect: explosion
     textClear: 1
     voiceFullStop: fullvoice/section_101863/vo_full_101802-21-18
-  - autoTurnLast: 0.01
-    nameNarration: Mami
+  - nameNarration: Mami
     narration: Tiro Finale Holy Night!
+    narrationBg: ""
     narrationEffect: in
     narrationFontSize: 50
-  - bgEffect: shakeLarge
-    flashEffect: flashWhite2
     voiceFull: fullvoice/section_101863/vo_full_101802-21-19
   - autoTurnLast: 0.01
     nameNarration: Yachiyo
     narration: Absolute Rain!
-    voiceFullStop: fullvoice/section_101863/vo_full_101802-21-19
-  - bgEffect: shakeLarge
-    flashEffect: flashWhite2
     voiceFull: fullvoice/section_101863/vo_full_101802-21-20
+    voiceFullStop: fullvoice/section_101863/vo_full_101802-21-19
   - chara:
     - cheek: 2
       face: mtn_ex_021.exp.json

@@ -22,12 +22,12 @@ story:
     bg: bg_adv_21075.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -48,7 +48,7 @@ story:
     textLeft: I wouldn’t have thought the Wishing Star was a @door to another world.
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -56,7 +56,7 @@ story:
     textLeft: I wonder what kind of world the Three Magi live @in...?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -71,7 +71,7 @@ story:
     textRight: but we still... can’t make out anything other than @bits and pieces.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 100
       pos: 2
@@ -84,7 +84,7 @@ story:
     textRight: That song we received at the Central Tower also @came from there.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 1
       pos: 0
@@ -92,7 +92,7 @@ story:
     textLeft: Are the Three Magi Sayu-Sayu fans...?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 100
       pos: 2
@@ -104,7 +104,7 @@ story:
     textRight: We’ve found out some amazing things, like secrets about this world.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -112,7 +112,7 @@ story:
     textLeft: Can we hear too?
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -120,14 +120,14 @@ story:
     textRight: Yeah...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
     nameRight: Shigure
     textRight: Since it was all obtained from decoding signals, @this knowledge is
       a little unreliable, but...
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 200
     nameRight: Shigure
@@ -152,7 +152,7 @@ story:
     textRight: which allow for interaction between this world and @that world.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 100
       pos: 0
@@ -174,7 +174,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
     nameRight: Shigure
     textRight: ourselves in other words, should be possible.
@@ -186,12 +186,12 @@ story:
   - bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 400
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 400
       pos: 2
@@ -200,7 +200,7 @@ story:
   - bgm: bgm01_anime03
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 200
       pos: 2
@@ -208,7 +208,7 @@ story:
     textRight: Oi, that’s friggin’ awesome!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
     nameLeft: Tsuruno
@@ -222,12 +222,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 0
       pos: 2
@@ -249,7 +249,7 @@ story:
     textRight: We’re currently experimenting on delivering @something smaller.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 100
       pos: 0
@@ -257,7 +257,7 @@ story:
     textLeft: But even that... requires an absurd amount of @energy.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 1
       pos: 0
@@ -265,14 +265,14 @@ story:
     textLeft: What do ya mean by somethin’ smaller?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103000
       motion: 0
     nameRight: Hagumu
     textRight: Our voices.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 1
       pos: 0
@@ -280,7 +280,7 @@ story:
     textLeft: Voices...? Ah, that would be...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 304200
       motion: 200
       pos: 2
@@ -288,7 +288,7 @@ story:
     textRight: Yup, your favorite Pirate Radio Central!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301700
       motion: 100
       pos: 0
@@ -300,7 +300,7 @@ story:
     textLeft: to continue experimenting with sending signals to various places.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -308,7 +308,7 @@ story:
     textLeft: That was what the broadcast was for!?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 304200
       motion: 100
       pos: 2
@@ -316,7 +316,7 @@ story:
     textRight: Yes! The yessest of Yesses!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 100
       pos: 0
@@ -324,7 +324,7 @@ story:
     textLeft: Huh? You’re not sendin’ them to the other side of @the End of the World...?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -333,7 +333,7 @@ story:
       now, we don’t have enough output.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 200
       pos: 2
@@ -345,7 +345,7 @@ story:
     textRight: We’re continuing broadcasting testing in the form of Pirate Radio.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 304200
       motion: 200
       pos: 2
@@ -355,7 +355,7 @@ story:
     textRight: Well, half of it is Meguru’s hobby!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 200
       pos: 0
@@ -370,12 +370,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 100
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301700
       motion: 1
       pos: 2
@@ -392,7 +392,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 304200
       motion: 0
       pos: 2
@@ -400,7 +400,7 @@ story:
     textRight: I’m using the old railyard in Junk City as a studio.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 304200
       motion: 100
       pos: 2
@@ -408,7 +408,7 @@ story:
     textRight: That area’s also very dangerous, so I asked for her protection!
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 301700
       motion: 300
       pos: 0
@@ -420,7 +420,7 @@ story:
     textLeft: I think it would be safer if we were not together...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 304200
       motion: 400
       pos: 2
@@ -428,7 +428,7 @@ story:
     textRight: I’m still alive today, so it’s A-OK, there’s no problem!
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 300
       pos: 0
@@ -436,7 +436,7 @@ story:
     textLeft: There are a few problems with that...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -448,7 +448,7 @@ story:
     textRight: Ain’t this the Reindeer Santas’ turn to shine?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -456,7 +456,7 @@ story:
     textLeft: Yeah it is!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -464,7 +464,7 @@ story:
     textLeft: Let’s bring smiles to everyone in the Junk House!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 200
       pos: 2
@@ -477,13 +477,13 @@ story:
     textRight: Looks like it’s time to use this guy!
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 102900
       lipSynch: 0
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 1
       pos: 2

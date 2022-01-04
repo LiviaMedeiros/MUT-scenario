@@ -224,7 +224,7 @@ story:
     - cheek: 2
       eyeClose: 1
       face: mtn_ex_020.exp.json
-      id: 831400
+      id: 412100
       lipSynch: 0
       motion: 100
       pos: 1
@@ -233,7 +233,7 @@ story:
   - autoTurnLast: 0.25
     chara:
     - effect: fadeout
-      id: 831400
+      id: 412100
     textClear: 1
   - chara:
     - cheek: 0

@@ -33,12 +33,12 @@ story:
     bg: bg_adv_19261.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -64,7 +64,7 @@ story:
     textRight: '...Uoh!? @This town is kinda amazin’!'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
     nameLeft: Tsuruno
@@ -84,12 +84,12 @@ story:
     bgChangeEffect: cameraPan
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103700
       motion: 200
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103300
       motion: 1
       pos: 2
@@ -106,11 +106,11 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103700
       motion: 1
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 0
@@ -118,7 +118,7 @@ story:
     textRight: Is this your first time in this town?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 0
@@ -133,12 +133,12 @@ story:
     bg: bg_adv_19271.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 103300
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 1
       pos: 0
@@ -159,7 +159,7 @@ story:
     textLeft: Whoa, it really is a library town.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 200
       pos: 0
@@ -168,7 +168,7 @@ story:
       of!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103700
       motion: 100
       pos: 2
@@ -177,13 +177,13 @@ story:
       anywhere else.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103700
     nameRight: Nayuta
     textRight: Although...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 0
@@ -196,7 +196,7 @@ story:
     textRight: The majority of the archives are personal diaries.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -204,7 +204,7 @@ story:
     textLeft: Diaries?
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 103300
       motion: 1
       pos: 2
@@ -235,7 +235,7 @@ story:
     textLeft: '...I see.'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 300
       pos: 0
@@ -246,7 +246,7 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103700
       motion: 0
       pos: 1
@@ -265,17 +265,17 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301100
       motion: 200
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303800
       motion: 1
       pos: 1
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 304000
       motion: 0
       pos: 2
@@ -303,7 +303,7 @@ story:
       pos: 2
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 0
@@ -311,7 +311,7 @@ story:
     textLeft: Hm... You there...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 301100
       motion: 100
       pos: 2
@@ -333,7 +333,7 @@ story:
     textRight: '...but I think this is probably our first time meeting...'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 0
       pos: 0
@@ -341,7 +341,7 @@ story:
     textLeft: Hmm, you’re right, my bad!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -349,7 +349,7 @@ story:
     textLeft: So you’re librarians, that’s amazing!
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -372,7 +372,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 303800
       motion: 0
       pos: 2
@@ -386,14 +386,14 @@ story:
       in...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 303800
       motion: 300
     nameRight: Komachi Mikura
     textRight: We’ve even searched all over town for the key.
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -401,7 +401,7 @@ story:
     textLeft: That’s not even a librarian’s job anymore...
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 304000
       motion: 1
       pos: 2
@@ -409,7 +409,7 @@ story:
     textRight: The three of us aren’t official librarians.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -417,7 +417,7 @@ story:
     textLeft: Hoh? Is that so...?
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 303800
       motion: 1
       pos: 2
@@ -435,7 +435,7 @@ story:
       books and other materials.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -450,12 +450,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103700
       motion: 0
       pos: 2
@@ -467,19 +467,19 @@ story:
     textLeft: are like the library proprietress and her servant or somethin’?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103700
     nameRight: Nayuta
     textRight: Eh.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103700
       motion: 300
     textRight: I’m just a library visitor... Within this group, I’m the @latest newcomer.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 304000
       motion: 200
       pos: 0
@@ -491,7 +491,7 @@ story:
     textLeft: it might seem that way.
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 103300
       motion: 0
       pos: 2
@@ -499,7 +499,7 @@ story:
     textRight: I’m a newcomer, just like Nayuta-sama.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 1
       pos: 0
@@ -512,7 +512,7 @@ story:
     textRight: Because Nayuta-sama saved my life.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 1
       pos: 0
@@ -534,7 +534,7 @@ story:
     textRight: she was my guardian angel.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103700
       motion: 100
       pos: 0
@@ -542,7 +542,7 @@ story:
     textLeft: All I did was call out to her... @To say I saved her life is an exaggeration.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103700
       motion: 200
       pos: 0
@@ -555,7 +555,7 @@ story:
       journey.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -563,7 +563,7 @@ story:
     textLeft: What kind of journey?
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 103300
       motion: 0
       pos: 2
@@ -571,7 +571,7 @@ story:
     textRight: A journey to find a missing person.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -579,7 +579,7 @@ story:
     textLeft: Hoh?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 103700
       motion: 1
       pos: 2

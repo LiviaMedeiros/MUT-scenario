@@ -12,7 +12,7 @@ story:
     - id: 810000
       motion: 0
       pos: 0
-      posX: 0
+      posX: -50
       posY: 0
     nameNarration: Iroha
     narration: So the "Monsieur Angel" who@turned Tart into a Magical Girl...
@@ -33,7 +33,7 @@ story:
     - id: 810000
       motion: 0
       pos: 0
-      posX: 0
+      posX: -50
       posY: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -204,7 +204,7 @@ story:
     - id: 810000
       motion: 0
       pos: 0
-      posX: 0
+      posX: -50
       posY: 0
     nameRight: Iroha
     narrationEffect: out
@@ -300,7 +300,7 @@ story:
     - id: 810000
       motion: 0
       pos: 0
-      posX: 0
+      posX: -50
       posY: 0
     - cheek: 0
       face: mtn_ex_010.exp.json

@@ -334,7 +334,7 @@ story:
     narrationCoverOpacity: 110
     narrationEffect: in
     narrationFontSize: 30
-    narrationLineMargin: 25
+    narrationLineMargin: 15
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - narration: ― Darc ―@No matter what happens...

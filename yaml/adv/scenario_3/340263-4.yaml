@@ -133,7 +133,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 402900
+      id: 831100
       motion: 0
       pos: 2
     - cheek: 0
@@ -144,12 +144,12 @@ story:
     textRight: I'd thought it impossible for Familiars from@France to infiltrate the
       Order's stronghold.
   - chara:
-    - id: 402900
+    - id: 831100
     textRight: What could have set such an advanced trap as@that...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 402900
+      id: 831100
     textRight: You did well to discover it, my lady.
   - chara:
     - cheek: 0
@@ -180,8 +180,8 @@ story:
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_041.exp.json
-      id: 402900
+      face: mtn_ex_050.exp.json
+      id: 831100
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
@@ -219,14 +219,14 @@ story:
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_041.exp.json
-      id: 402900
+      face: mtn_ex_050.exp.json
+      id: 831100
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
     turnEffect: stop
   - chara:
-    - id: 402900
+    - id: 831100
     textRight: Ah ha... That's what you meant.
     turnChangeOut: fadeOut
   - chara:
@@ -275,7 +275,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 402900
+      id: 831100
       motion: 0
       pos: 0
     nameLeft: Perenelle
@@ -283,7 +283,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 402900
+      id: 831100
     textLeft: Could someone have lured them here all the@way from France?
   - chara:
     - cheek: 0

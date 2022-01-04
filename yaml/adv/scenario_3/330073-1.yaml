@@ -1,19 +1,21 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21203.jpg
-    bgm: bgm03_story07
+  - autoTurnLast: 0.5
+    bg: bg_adv_21203.jpg
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300701
-      lipSynch: 0
       motion: 300
-      mouthOpen: 0
       pos: 1
+    turnChangeIn: fadeIn
+  - bgm: bgm03_story07
+    chara:
+    - id: 300701
+      lipSynch: 0
     nameCenter: Shizuku
     textCenter: (The place...@...Could it be this house?)
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: thinking
   - chara:
@@ -21,32 +23,23 @@ story:
       face: mtn_ex_030.exp.json
       id: 300701
       lipSynch: 0
-      mouthOpen: 0
     textCenter: (No...)
   - chara:
-    - cheek: 0
-      id: 300701
+    - id: 300701
       lipSynch: 0
-      mouthOpen: 0
     textCenter: (Iroha and Tsuruno...)
   - chara:
-    - cheek: 0
-      id: 300701
+    - id: 300701
       lipSynch: 0
-      mouthOpen: 0
     textCenter: (Felicia, Sana, and Yachiyo...)
   - chara:
-    - cheek: 0
-      id: 300701
+    - id: 300701
       lipSynch: 0
       motion: 0
-      mouthOpen: 0
     textCenter: (I'm sure that [textRed:the place] @where they belong is...)
   - chara:
-    - cheek: 0
-      id: 300701
+    - id: 300701
       lipSynch: 0
-      mouthOpen: 0
     textCenter: (Within each other's hearts...)
   - chara:
     - cheek: 0
@@ -54,41 +47,45 @@ story:
       id: 300701
       lipSynch: 0
       motion: 401
-      mouthOpen: 0
     textCenter: (Maybe [textRed:the place] where a person belongs@is within someone
       special to them...)
-  - bg: bg_adv_21012.jpg
+  - autoTurnLast: 0.5
+    bg: bg_adv_21012.jpg
     chara:
-    - face: mtn_ex_010.exp.json
+    - cheek: 0
+      face: mtn_ex_010.exp.json
       id: 801100
       motion: 0
       pos: 1
+    turnChangeIn: fadeIn
+    turnEffect: stop
+  - chara:
+    - id: 801100
     nameCenter: Mr. R
     textCenter: I'm glad...@Now I can...go to sleep...in peace...
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - textCenter: '...I''ve...inally foun...it...@Thank...Shizu...'
-  - chara:
-    - effect: fadeout
-      id: 801100
-    nameNarration: Mr. R
-    narration: '"I''ve finally found it.@[textRed:My place]."'
-    narrationBg: white
-    narrationEffect: in
-    turnChangeIn: whiteIn
-    turnChangeOut: whiteOut
-    turnEffect: stop
-  - narration: '"Thank you, Shizuku.@Now I can go to sleep in peace."'
-  - bg: bg_adv_21203.jpg
+  - autoTurnLast: 0.3
+    bg: bg_adv_21203.jpg
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300701
+      motion: 0
+      pos: 1
+    turnChangeIn: whiteIn
+    turnEffect: stop
+  - nameNarration: Mr. R
+    narration: '"I''ve finally found it.@[textRed:My place]."'
+    narrationBg: white
+    narrationEffect: in
+    turnChangeOut: whiteOut
+  - narration: '"Thank you, Shizuku.@Now I can go to sleep in peace."'
+  - chara:
+    - id: 300701
       lipSynch: 0
       motion: 400
-      mouthOpen: 0
-      pos: 1
     nameCenter: Shizuku
     narrationEffect: out
     textCenter: (...!@Mr. R's [textRed:place] was...)
@@ -97,44 +94,39 @@ story:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 300701
-      lipSynch: 0
+      lipSynch: 1
       motion: 0
-      mouthOpen: 0
     textCenter: Within my heart...?
     turnEffect: stop
   - chara:
     - cheek: 2
       id: 300701
+      lipSynch: 0
       motion: 300
       mouthOpen: 0
       tear: 1
     textCenter: '*Sniff*@*Sniff* *Sniff*'
-  - bg: white
-    nameNarration: Shizuku
+  - nameNarration: Shizuku
     narration: I...@I finally understand.
-    narrationBg: narration
+    narrationBg: bg_adv_narration.jpg
     narrationEffect: in
-    turnChangeIn: fadeIn
-    turnChangeOut: fadeOut
   - narration: I finally understand the meaning@of your last words to me.
-  - bg: bg_adv_21161.jpg
+  - autoTurnLast: 0.5
+    bg: bg_adv_21161.jpg
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 300700
       motion: 0
-      mouthOpen: 0
       pos: 1
-    nameCenter: Shizuku
-    nameRight: ""
     narrationEffect: out
-    textRight: Okay, here's your pay.
     turnChangeIn: fadeIn
+  - nameCenter: Shizuku
+    nameRight: ""
+    textRight: Okay, here's your pay.
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
-      id: 300700
-      mouthOpen: 0
+    - id: 300700
     textCenter: Thanks.@Bye!
   - textRight: Don't you want to hear about the next job?
   - chara:
@@ -142,12 +134,9 @@ story:
       face: mtn_ex_030.exp.json
       id: 300700
       motion: 101
-      mouthOpen: 0
     textCenter: Why?
   - chara:
-    - cheek: 0
-      id: 300700
-      mouthOpen: 0
+    - id: 300700
     textCenter: What do you want me to use my power for?
   - textRight: You're really asking that, now?@I told you, you don't get to know details.
   - textRight: Well... @If you become one of us I might be able to…
@@ -156,37 +145,25 @@ story:
       face: mtn_ex_000.exp.json
       id: 300700
       motion: 200
-      mouthOpen: 0
     textCenter: If you won't tell me, fine.
   - textRight: What's up with you all of a sudden?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300700
-      mouthOpen: 0
     textCenter: I don't think you'll be hearing from @me again...
   - textRight: What?@You mean you don't wanna help us anymore?
   - chara:
-    - cheek: 0
-      id: 300700
+    - id: 300700
       motion: 0
-      mouthOpen: 0
     textCenter: …I guess I don't.
   - chara:
-    - cheek: 0
-      id: 300700
-      mouthOpen: 0
+    - id: 300700
     textCenter: I… I think I'm going to stop@working with you from now on.
-  - bg: white
-    chara:
-    - effect: fadeout
-      id: 300701
-    nameNarration: Shizuku
+  - nameNarration: Shizuku
     narration: Mr. R.@I wonder if I can@find [textRed:my place] too...
-    narrationBg: narration
+    narrationBg: bg_adv_narration.jpg
     narrationEffect: in
-    turnChangeIn: fadeIn
-    turnChangeOut: fadeOut
   - narration: Like how you found [textRed:this place]@within my heart...
   - narration: I wonder...@If it's okay for me to be here.
   - autoTurnLast: 2

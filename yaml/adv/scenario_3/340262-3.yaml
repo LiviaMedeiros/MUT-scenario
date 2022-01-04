@@ -27,7 +27,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 402900
+      id: 831100
       motion: 0
       pos: 2
     nameRight: Perenelle
@@ -48,22 +48,22 @@ story:
     textLeft: '...into becoming a Magical Girl.'
   - chara:
     - cheek: 0
-      face: mtn_ex_041.exp.json
-      id: 402900
+      face: mtn_ex_050.exp.json
+      id: 831100
     textRight: Sweet-talked? Please, you make it sound@so nefarious.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 402900
+      id: 831100
     textRight: Your noble parentage and history mired@in trouble...
   - chara:
-    - id: 402900
+    - id: 831100
     textRight: You were a young child, but you held a@very rare quality.
   - chara:
-    - id: 402900
+    - id: 831100
     textRight: And to think, after you became a Magical@Girl...
   - chara:
-    - id: 402900
+    - id: 831100
     textRight: I gifted you with my prized weapon that I@specially forged.
   - bgm: stop
     chara:
@@ -138,8 +138,8 @@ story:
     textClear: 0
   - chara:
     - cheek: 2
-      face: mtn_ex_041.exp.json
-      id: 402900
+      face: mtn_ex_050.exp.json
+      id: 831100
       motion: 0
       mouthOpen: 1
       pos: 2
@@ -160,7 +160,7 @@ story:
       id: 402601
     - cheek: 2
       face: mtn_ex_030.exp.json
-      id: 402900
+      id: 831100
       mouthOpen: 0
     textLeft: Don't worry, I missed... [chara:402601:lipSynch_0][wait:1.2][chara:402601:lipSynch_1]The
       vital parts, at@least.
@@ -179,7 +179,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 402900
+      id: 831100
       motion: 0
       pos: 2
     - cheek: 0
@@ -190,7 +190,7 @@ story:
       pos: 0
     turnChangeIn: rollInFast
   - chara:
-    - id: 402900
+    - id: 831100
       mouthOpen: 0
     textRight: Thank goodness. It appears to have just@grazed him.
     turnChangeOut: rollOutFast
@@ -201,13 +201,13 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 402900
+      id: 831100
       mouthOpen: 0
     textRight: Yes, all preparations are made.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 402900
+      id: 831100
     textRight: '...But before that.'
   - autoTurnLast: 0.01
     chara:
@@ -221,7 +221,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 402900
+      id: 831100
       motion: 0
       pos: 2
     - cheek: 0
@@ -231,13 +231,13 @@ story:
       pos: 0
     turnChangeIn: rollInFast
   - chara:
-    - id: 402900
+    - id: 831100
     textRight: Come here, Qube.
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 402900
+      id: 831100
     textRight: I'll heal that wound.
   - autoTurnLast: 2
     turnChangeIn: fadeIn

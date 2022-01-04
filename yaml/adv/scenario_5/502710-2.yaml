@@ -367,9 +367,9 @@ story:
     narrationAnchor: bottom
     narrationCoverOpacity: 150
     narrationEffect: in
-    narrationFontSize: 26
+    narrationFontSize: 30
     narrationLineMargin: 20
-    narrationLineSpace: 6
+    narrationLineSpace: 15
     turnChangeOut: fadeOut
   - narration: — Kanagi —@I'd like to thank you@again for what you did.
   - nameNarration: Mifuyu

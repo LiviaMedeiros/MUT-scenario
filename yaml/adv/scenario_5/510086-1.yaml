@@ -13,7 +13,7 @@ story:
     - path: resource/scenario/img/51008_singleraid_kazumi/51008_memory06.jpg
       visible: hide
     turnChangeIn: fadeIn
-  - bg: bg_adv_21241.jpg
+  - bg: bg_adv_13111.jpg
     bgm: bgm03_story10
     chara:
     - cheek: 0
@@ -201,14 +201,17 @@ story:
       id: 300601
       motion: 0
     textLeft: That's totally sweet of you, but...
+  - autoTurnLast: 0.2
+    chara:
+    - id: 401101
+      pos: 0
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_041.exp.json
       id: 300401
       motion: 0
       pos: 2
-    - id: 401101
-      pos: 0
     nameRight: Sasara
     textRight: Sorry, but you've heard of Magical Girls,@right?
   - chara:
@@ -341,7 +344,7 @@ story:
     textLeft: That should be cool, right? That work for@you, Kazumin?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_010.exp.json
       id: 401101
       motion: 100
       pos: 2

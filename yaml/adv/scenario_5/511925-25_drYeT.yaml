@@ -12,12 +12,12 @@ story:
     bgm: bgm05_event12
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -44,7 +44,7 @@ story:
     textRight: Woah! The voice’s close!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -61,14 +61,14 @@ story:
     textRight: Uh, the nearest town from here is...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 0
     nameRight: Felicia
     textRight: Mech Junk City.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -76,14 +76,14 @@ story:
     textLeft: Then let’s go there next!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       lipSynch: 0
     nameRight: Felicia
     textRight: '...'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 1
       pos: 0
@@ -96,13 +96,13 @@ story:
     textRight: Nah, Junk City is comin’ up soon.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
     nameRight: Felicia
     textRight: Jus’... the map from the navi device cuts off right @after it.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 200
       pos: 2
@@ -110,7 +110,7 @@ story:
     textRight: Ain’t that mean... the End of the World could be @right ahead!?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -119,7 +119,7 @@ story:
       after that point.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -127,7 +127,7 @@ story:
     textLeft: It would be exciting if it was land where no one’s @ever been before!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -135,7 +135,7 @@ story:
     textRight: '...I knew it, we’re gettin’ close to the End of the @World!'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: It really feels like it!
@@ -175,12 +175,12 @@ story:
     bg: bg_adv_16141.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103000
       motion: 1
       pos: 2
@@ -199,13 +199,13 @@ story:
     textLeft: Have new junk parts... arrived?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 103000
     nameRight: Hagumu
     textRight: Yeah, a couple.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103000
       motion: 0
       pos: 2
@@ -213,7 +213,7 @@ story:
     textRight: A meter I’ve never seen before... And, um... [chara:103000:lipSynch_0][wait:1.2][chara:103000:cheek_0][chara:103000:face_mtn_ex_050.exp.json:motion_400][chara:103000:lipSynch_1]@Hawawa!?
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 102900
       motion: 0
       pos: 0
@@ -221,7 +221,7 @@ story:
     textLeft: '...What’s wrong?'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 300
       pos: 2
@@ -233,7 +233,7 @@ story:
     textRight: Where could that memo be, maybe I left it in a @store...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102900
       motion: 200
       pos: 0
@@ -247,12 +247,12 @@ story:
   - autoTurnLast: 0.2
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -273,12 +273,12 @@ story:
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 102900
       motion: 400
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 400
       pos: 2
@@ -308,12 +308,12 @@ story:
   - bgm: bgm01_anime02
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 200
       pos: 2
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -336,7 +336,7 @@ story:
     textLeft: Sure, it may be beat up and worn out,
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -344,7 +344,7 @@ story:
     textLeft: but it’s arguable if it’s really junk or not!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 300
       pos: 2
@@ -352,7 +352,7 @@ story:
     textRight: If ya say it like that, ya make it sound like it’s @half-junk...
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -360,7 +360,7 @@ story:
     textRight: Eh... W-Who...??
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 1
       pos: 2
@@ -368,7 +368,7 @@ story:
     textRight: U-Um...
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -376,7 +376,7 @@ story:
     textLeft: Ah, I’m sorry! Did we scare you?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 300
       pos: 2
@@ -384,7 +384,7 @@ story:
     textRight: Y-Yeah...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 300
       pos: 2
@@ -403,13 +403,13 @@ story:
     textLeft: We’re Santas on a journey to the End of the World.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: This time, we’ve come to bring smiles to Mech @Junk City!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 0
       pos: 2
@@ -417,7 +417,7 @@ story:
     textRight: On a journey...
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 102900
       motion: 100
       pos: 2
@@ -425,7 +425,7 @@ story:
     textRight: '...to the End of the World?'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 200
       pos: 0
@@ -433,13 +433,13 @@ story:
     textLeft: 'Yea! On this Reindeer-san #2!'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
     nameRight: Shigure
     textRight: '...Hagumun...'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 300
       pos: 2
@@ -447,7 +447,7 @@ story:
     textRight: '...Yeah.'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 0
@@ -455,7 +455,7 @@ story:
     textLeft: Hm? Wassup?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -463,7 +463,7 @@ story:
     textRight: '...the same...'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -481,7 +481,7 @@ story:
     textLeft: By “the same” you mean...
   - chara:
     - cheek: 0
-      face: mtn_ex_031.exp.json
+      face: mtn_ex_031.exp3.json
       id: 103000
       motion: 1
       pos: 2
@@ -496,7 +496,7 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -518,7 +518,7 @@ story:
     textLeft: Even though we’re inside the dome!?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 0
       pos: 2

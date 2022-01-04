@@ -10,11 +10,11 @@ story:
       id: 200352
       pos: 1
     item:
-    - opacity: 90
-      path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      opacity: 90
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
-      scale: 1
       setVisible: 1
       zOrder: charaFront
     turnChangeIn: fadeIn
@@ -52,11 +52,11 @@ story:
       id: 200352
       pos: 1
     item:
-    - opacity: 90
-      path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      opacity: 90
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
-      scale: 1
       setVisible: 1
       zOrder: charaFront
     turnChangeIn: whiteIn
@@ -76,7 +76,7 @@ story:
     textCenter: (Was that...a dream?)
   - autoTurnLast: 2
     item:
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/black.png
       setVisible: 0
     turnChangeIn: fadeIn
 version: 3

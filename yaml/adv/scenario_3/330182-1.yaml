@@ -166,6 +166,7 @@ story:
       eyeClose: 0
       face: mtn_ex_050.exp.json
       id: 301800
+      lipSynch: 0
     textRight: (Crap! There's one behind me?!)
     turnEffect: thinking
   - chara:

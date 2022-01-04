@@ -1,8 +1,8 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_12021.jpg
-    bgm: bgm03_story05
+  - autoTurnLast: 0.01
+    bg: bg_adv_12021.jpg
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -10,9 +10,13 @@ story:
       lipSynch: 0
       motion: 0
       pos: 1
+    turnChangeIn: fadeIn
+  - bgm: bgm03_story05
+    chara:
+    - id: 302701
+      lipSynch: 0
     nameCenter: Hazuki
     textCenter: (Now then, what to buy...)
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -28,16 +32,19 @@ story:
       lipSynch: 1
       motion: 0
     textCenter: Ayame?
-  - chara:
+  - autoTurnLast: 0.01
+    chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302801
-      lipSynch: 0
       motion: 0
       pos: 0
+    turnChangeIn: rollIn
+  - chara:
+    - id: 302801
+      lipSynch: 0
     nameLeft: Ayame
     textLeft: '...'
-    turnChangeIn: rollIn
     turnChangeOut: rollOut
   - chara:
     - cheek: 0
@@ -162,21 +169,26 @@ story:
       id: 302801
       motion: 300
     textLeft: Well, ya see, I was just...
-  - chara:
+  - autoTurnLast: 0.01
+    chara:
+    - face: mtn_ex_030.exp.json
+      id: 302801
+      motion: 0
+      pos: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 302701
       motion: 0
       pos: 2
+    turnChangeIn: rollIn
+  - chara:
+    - id: 302701
     nameRight: Hazuki
     textRight: Let me guess, Kako Natsume. The girl who@was with Nanaka Tokiwa?
-    turnChangeIn: rollIn
     turnChangeOut: rollOut
   - chara:
-    - face: mtn_ex_030.exp.json
-      id: 302801
+    - id: 302801
       motion: 300
-      pos: 0
     nameLeft: Ayame
     textLeft: Yeah, her...
   - textRight: So you met her again in town after they@approached us the other day.

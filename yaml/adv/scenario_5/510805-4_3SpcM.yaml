@@ -46,7 +46,7 @@ story:
     narrationCoverOpacity: 110
     narrationEffect: in
     narrationFontSize: 30
-    narrationLineMargin: 35
+    narrationLineMargin: 10
     narrationLineSpace: 20
   - nameNarration: Homura
     narration: -Homura-@It’s beautiful!
@@ -243,7 +243,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -261,7 +261,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       motion: 100
       pos: 0
     nameLeft: Touka
@@ -271,7 +271,7 @@ story:
     - effect: fadeout
       id: 101601
     - effect: fadeout
-      id: 100701
+      id: 100770
     textClear: 1
   - chara:
     - cheek: 0

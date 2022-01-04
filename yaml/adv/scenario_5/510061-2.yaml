@@ -9,7 +9,7 @@ story:
     turnChangeOut: fadeOut
   - narration: I'm gonna try not to worry about it...
   - narration: Only Kaede thinks that...
-  - bg: bg_adv_21025.jpg
+  - bg: bg_adv_21491.jpg
     bgm: bgm03_story07
     chara:
     - cheek: 0

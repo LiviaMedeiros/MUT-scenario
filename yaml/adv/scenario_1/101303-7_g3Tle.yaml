@@ -212,14 +212,14 @@ story:
     voiceFullStop: fullvoice/section_101303/vo_full_101303-7-21
   - bg: black
     item:
-    - path: resource/scenario/img/adv_souljem_02.png
+    - path: resource/scenario/img/adv_souljem_02.jpg
       posX: 0
       posY: 0
       visible: appear
     turnChangeOut: fadeOut
   - autoTurnLast: 2
     item:
-    - path: resource/scenario/img/adv_souljem_02.png
+    - path: resource/scenario/img/adv_souljem_02.jpg
       visible: hide
     turnChangeIn: fadeIn
 version: 3

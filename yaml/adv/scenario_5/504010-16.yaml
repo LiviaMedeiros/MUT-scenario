@@ -291,7 +291,8 @@ story:
     textRight: I... I just...
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -321,7 +322,8 @@ story:
       Mom...
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -455,7 +457,8 @@ story:
     textRight: …………
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -479,7 +482,8 @@ story:
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -494,7 +498,8 @@ story:
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -508,7 +513,8 @@ story:
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -522,7 +528,8 @@ story:
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -536,7 +543,8 @@ story:
     turnChangeOut: fadeOut
   - autoTurnLast: 2
     item:
-    - path: resource/scenario/img/51040_tower_nagisa/51040_starry-sky.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51040_tower_nagisa/51040_starry-sky.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -619,7 +627,8 @@ story:
     turnChangeOut: whiteOut
   - autoTurnLast: 2
     item:
-    - path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
       posX: 0
       posY: 0
       visible: appear

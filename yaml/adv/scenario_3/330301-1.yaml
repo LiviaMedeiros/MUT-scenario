@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21241.jpg
+  - bg: bg_adv_11101.jpg
     bgm: bgm03_story09
     chara:
     - cheek: 0
@@ -51,7 +51,7 @@ story:
       id: 301101
     nameNarration: Konomi
     narration: I work part-time here at Blossom,@a flower shop.
-    narrationBg: bg_adv_21241.jpg
+    narrationBg: bg_adv_11101.jpg
     narrationEffect: in
   - narration: I didn't start working at@a flower shop because I needed money...
   - narration: I always wanted to work in a flower shop...@This flower shop, especially!@That's
@@ -94,7 +94,7 @@ story:
     - effect: fadeout
       id: 301101
     narration: The reason I wanted to @work at this shop is because...
-    narrationBg: bg_adv_21241.jpg
+    narrationBg: bg_adv_11101.jpg
     narrationEffect: in
   - narration: The woman who owns Blossom...@She taught me the true beauty@of flowers.
   - chara:
@@ -249,5 +249,5 @@ story:
   - autoTurnLast: 2
     narrationEffect: out
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

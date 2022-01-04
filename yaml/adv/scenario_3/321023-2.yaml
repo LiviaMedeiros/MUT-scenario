@@ -53,7 +53,7 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m3_0a.jpg
-      visible: hide
+      setVisible: 0
   - item:
     - action:
         spawn:
@@ -149,7 +149,7 @@ story:
       scale: 2
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m3_1a.jpg
-      visible: hide
+      setVisible: 0
     turnChangeIn: fadeIn
   - autoTurnLast: 0.1
     item:
@@ -177,9 +177,9 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m3_2b.jpg
-      visible: hide
+      setVisible: 0
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m3_2c1.png
-      visible: hide
+      setVisible: 0
     nameNarration: Madoka-senpai
     narration: PERHAPS THERE'S ONLY A NEW GAME+@WITH A HIGHER DIFFICULTY AWAITING
       US?@I JUST DON'T KNOW...
@@ -207,7 +207,7 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m3_3b.jpg
-      visible: hide
+      setVisible: 0
     nameNarration: Iroha
     narration: IT'S DANGEROUS TO GO ALONE! TAKE THIS!
     narrationLineSpace: 2000
@@ -277,9 +277,9 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m3_4c1.png
-      visible: hide
+      setVisible: 0
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m3_4b.jpg
-      visible: hide
+      setVisible: 0
     nameNarration: Homura
     narration: YOUR MUSCLES ARE GOING TO SCREAM@IN AGONY!
     narrationLineSpace: 2000
@@ -368,7 +368,7 @@ story:
   - autoTurnLast: 1
     item:
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m3_4a.jpg
-      visible: hide
+      setVisible: 0
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m3_5b.jpg
       posX: 0
       posY: 0

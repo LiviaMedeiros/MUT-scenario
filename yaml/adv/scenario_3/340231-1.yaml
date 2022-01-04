@@ -303,7 +303,6 @@ story:
     - cheek: 0
       id: 810000
       pos: 2
-      posY: 0
     nameRight: Qube
     textRight: She's been taking care of the soldiers@ever since she was young.
   - chara:
@@ -378,7 +377,6 @@ story:
     - cheek: 0
       id: 810000
       pos: 2
-      posY: 0
     nameRight: Qube
     textRight: That’s right. She has the potential to become@a Magical Girl.
   - chara:

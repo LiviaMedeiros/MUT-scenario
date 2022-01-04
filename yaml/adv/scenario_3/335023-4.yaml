@@ -17,7 +17,7 @@ story:
     - cheek: 2
       eyeClose: 1
       face: mtn_ex_031.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -27,7 +27,7 @@ story:
     - cheek: 2
       eyeClose: 1
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -39,10 +39,10 @@ story:
     - id: 101501
       motion: 300
       mouthOpen: 1
-    - id: 100701
+    - id: 100770
       motion: 300
       mouthOpen: 1
-    - id: 101403
+    - id: 101471
       motion: 300
       mouthOpen: 1
     nameCenter: Everyone
@@ -52,9 +52,9 @@ story:
   - chara:
     - id: 101501
       mouthOpen: 0
-    - id: 100701
+    - id: 100770
       mouthOpen: 0
-    - id: 101403
+    - id: 101471
       mouthOpen: 0
     nameCenter: Touka
     nameLeft: Ui
@@ -63,25 +63,25 @@ story:
   - chara:
     - cheek: 2
       eyeClose: 0
-      id: 100701
+      id: 100770
       motion: 200
     textCenter: This is unscientific...!@Ghosts aren't real...
   - chara:
     - eyeClose: 1
-      id: 100701
+      id: 100770
     textBg: shout
     textCenter: Eeeeek...!
   - chara:
-    - id: 101403
+    - id: 101471
       lipSynch: 0
       motion: 0
     textRight: '.........[wait:0.8][chara:101403:lipSynch_1]Ah...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     - effect: fadeout
       id: 101501
     textClear: 1
@@ -142,7 +142,7 @@ story:
   - chara:
     - cheek: 2
       face: mtn_ex_031.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -158,7 +158,7 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -172,7 +172,7 @@ story:
     - effect: fadeout
       id: 304301
     - effect: fadeout
-      id: 101403
+      id: 101471
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 101501
@@ -191,7 +191,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -200,7 +200,7 @@ story:
     narration: '"Can we open the door?"'
   - bgm: bgm05_event08
     chara:
-    - id: 101403
+    - id: 101471
       motion: 200
     nameCenter: Nemu
     narrationEffect: out
@@ -209,7 +209,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - chara:
     - cheek: 0
@@ -219,7 +219,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -232,7 +232,7 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_031.exp.json
-      id: 100701
+      id: 100770
       motion: 300
       mouthOpen: 1
     - cheek: 1
@@ -244,20 +244,20 @@ story:
     textBg: shout
     textCenter: Aaaaaahhhhh?!
   - chara:
-    - id: 100701
+    - id: 100770
       mouthOpen: 0
     - id: 101501
       motion: 0
       mouthOpen: 0
     textLeft: It's real this time?!
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 400
     textRight: No way, no way no waaaay!!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
       id: 101501
     textClear: 1
@@ -276,7 +276,7 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_031.exp.json
-      id: 100701
+      id: 100770
       motion: 0
     - cheek: 1
       face: mtn_ex_031.exp.json
@@ -291,7 +291,7 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_031.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -313,7 +313,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -323,7 +323,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story02
     chara:
-    - id: 100701
+    - id: 100770
       motion: 200
     textCenter: '...So, what''s your excuse?'
     turnChangeOut: fadeOut
@@ -378,7 +378,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -389,23 +389,23 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       motion: 0
     textCenter: You didn't just bring us a story.
   - textCenter: You were earnest in your attempt to scare us.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 400
     textCenter: I appreciate that.
   - autoTurnLast: 0.2
     chara:
-    - id: 101403
+    - id: 101471
       pos: 2
     textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -415,12 +415,12 @@ story:
     textLeft: Nemu, you too!
   - textLeft: You knew what you were doing at the end!
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 1
     nameRight: Nemu
     textRight: I was simply repeating what I had just heard.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     textLeft: Nyaaaaaagh!
   - chara:
@@ -467,7 +467,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -476,7 +476,7 @@ story:
     nameCenter: Touka
     textCenter: Anyway...
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 200
     textCenter: The four of you who scared me have to go@stand outside in the sea
       breeze for a while.
@@ -484,7 +484,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     textClear: 1
   - chara:
     - cheek: 0

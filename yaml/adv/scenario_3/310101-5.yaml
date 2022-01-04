@@ -2,10 +2,13 @@
 story:
   group_1:
   - bg: bg_adv_47001.jpg
-    bgm: bgm04_movie08
+    bgm: bgm01_anime12
     chara:
+    - id: 7001
+      name: sprite_0
+      pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_020.exp.json
       id: 101000
       motion: 1
       pos: 2
@@ -14,12 +17,10 @@ story:
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 101000
+    - id: 101000
       motion: 200
     textRight: I'm gonna end this quick!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

@@ -422,18 +422,7 @@ story:
     nameNarration: Meguru Hibiki
     narration: ―Meguru―@They're delivering smiles to the End of the World!@This is
       the first, and probably the last, Space Flight!!
-  - armatureList:
-    - animation:
-      - action
-      armatureId: 3
-      filePath: resource/image_native/effect/story/general/3000_snow_messageback.ExportJson
-      zOrder: messageBack
-    - animation:
-      - action
-      armatureId: 4
-      filePath: resource/image_native/effect/story/general/6000_snow_bgfront.ExportJson
-      zOrder: bgFront
-    autoTurnLast: 1
+  - autoTurnLast: 1
     bg: bg_adv_24013.jpg
     chara:
     - cheek: 0
@@ -467,12 +456,6 @@ story:
   - autoTurnLast: 1
     bg: bg_adv_21483.jpg
     turnChangeIn: fadeIn
-  - autoTurnLast: 0.01
-    deleteArmatureList:
-    - 3
-  - autoTurnLast: 0.01
-    deleteArmatureList:
-    - 4
   - armatureList:
     - animation:
       - action
@@ -502,18 +485,7 @@ story:
     nameLeft: Kako
     textLeft: Now!
     turnChangeOut: fadeOut
-  - armatureList:
-    - animation:
-      - action
-      armatureId: 3
-      filePath: resource/image_native/effect/story/general/3000_snow_messageback.ExportJson
-      zOrder: messageBack
-    - animation:
-      - action
-      armatureId: 4
-      filePath: resource/image_native/effect/story/general/6000_snow_bgfront.ExportJson
-      zOrder: bgFront
-    autoTurnLast: 0.01
+  - autoTurnLast: 0.01
     bg: bg_adv_19141.jpg
     deleteArmatureList:
     - 5
@@ -561,8 +533,6 @@ story:
   - autoTurnLast: 1.3
     bg: bg_adv_16052.jpg
     bgm: stop
-    deleteArmatureList:
-    - 4
     turnChangeIn: whiteIn
     turnChangeInTime: 2
   - autoTurnLast: 2
@@ -582,8 +552,6 @@ story:
       id: 304200
       motion: 0
       pos: 2
-    deleteArmatureList:
-    - 3
     se: 6200_hit_explosion_01_vh
   - chara:
     - id: 103000

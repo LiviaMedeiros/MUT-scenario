@@ -17,7 +17,7 @@ story:
   - nameNarration: Alina
     narration: After hearing those words,@I realized I had nothing.
   - autoTurnLast: 1
-    bg: bg_adv_21025.jpg
+    bg: bg_adv_21491.jpg
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -30,7 +30,7 @@ story:
   - nameNarration: Alina
     narration: Even traveling the world and seeing about @all there is to see didn't
       fix that.
-    narrationBg: bg_adv_21025.jpg
+    narrationBg: bg_adv_21491.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: Over this past month, I haven't changed.

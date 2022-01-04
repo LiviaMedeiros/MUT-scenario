@@ -12,7 +12,7 @@ story:
       tear: 1
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       motion: 0
       pos: 0
     nameLeft: Manaka
@@ -24,25 +24,25 @@ story:
     - cheek: 1
       effect: emotion_surprise_0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
     se: 7226_shock
     textLeft: Huh?!@[chara:300900:cheek_1:face_mtn_ex_030.exp.json:motion_400]Wh-what's
       wrong?!
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
     textLeft: They're just bentos!@Are you for real?!
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     textLeft: What're you crying for?!
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
     textLeft: '...I mean, seriously, who likes@to eat THAT much anyway?!'
   - chara:
     - cheek: 1
@@ -63,7 +63,7 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       motion: 400
     textLeft: W-woah…
   - chara:
@@ -100,7 +100,7 @@ story:
       motion: 300
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     nameLeft: Manaka
     nameRight: Sana
@@ -121,7 +121,7 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       motion: 300
     textLeft: Oh dear...
   - autoTurnLast: 2

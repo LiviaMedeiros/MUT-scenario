@@ -1,8 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21161.jpg
-    bgm: bgm03_story02
+  - autoTurnLast: 0.01
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -17,10 +16,14 @@ story:
       mouthOpen: 0
       pos: 2
       tear: 0
+    turnChangeIn: fadeIn
+  - bg: bg_adv_21161.jpg
+    bgm: bgm03_story02
+    chara:
+    - id: 301201
     nameLeft: Meiyui
     surround: 7005_construction
     textLeft: Here.
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -173,6 +176,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 301201
+      lipSynch: 0
       motion: 400
       mouthOpen: 0
       pos: 2
@@ -192,6 +196,11 @@ story:
       motion: 0
       mouthOpen: 0
     textLeft: Here I come!@Sorry! Behind you...![freeze:1][chara:100301:effect_slideOutRight]
+  - autoTurnLast: 1
+    chara:
+    - effect: slideOutLeftFast
+      id: 100301
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -245,5 +254,5 @@ story:
     textRight: The Blue Seas Family has @always been so good to us!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

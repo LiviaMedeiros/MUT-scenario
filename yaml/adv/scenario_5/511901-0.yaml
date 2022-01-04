@@ -61,12 +61,12 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 1
       pos: 2
@@ -83,14 +83,14 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 101
     nameLeft: Tsuruno
     textLeft: I’ll get it to a perfect 100 points in due time!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -98,7 +98,7 @@ story:
     textRight: '...Ha?'
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 200
       pos: 2
@@ -106,7 +106,7 @@ story:
     textRight: Why are ya suddenly talkin’ so cool!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 1
       pos: 0
@@ -118,7 +118,7 @@ story:
     textLeft: on an epic trip to the “End of the World”.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -126,7 +126,7 @@ story:
     textLeft: Wouldn’t you wanna try talking cool?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -141,12 +141,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -154,20 +154,20 @@ story:
     textLeft: '...Well, that’s enough talking, get on the back!'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: Our objective’s that town over there!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 0
     nameLeft: Tsuruno
     textLeft: It’s covered by a magic dome… @Look, you see it right?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 200
       pos: 2
@@ -178,7 +178,7 @@ story:
     textRight: Alright! @Let’s go with a vroom vroom!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 201
       pos: 0
@@ -190,7 +190,7 @@ story:
     textLeft: It’s Christmas season! @So the sun’s going down soon.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 1
       pos: 2
@@ -202,7 +202,7 @@ story:
     textRight: It’s always Christmas in this world.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120301
       motion: 101
     nameLeft: Tsuruno
@@ -210,7 +210,7 @@ story:
       But don’t worry about it!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -218,7 +218,7 @@ story:
     textLeft: Come on, let’s go deliver some smiles!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 100
       mouthOpen: 1

@@ -17,7 +17,7 @@ story:
     chara:
     - cheek: 1
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100501
       motion: 0
       pos: 1
@@ -42,7 +42,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101501
       motion: 200
       pos: 0
@@ -50,14 +50,14 @@ story:
     textLeft: Ah, morning, Felicia-san!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100501
       motion: 100
     nameRight: Felicia
     textRight: Yo, Ui.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100201
       motion: 100
       pos: 0
@@ -65,7 +65,7 @@ story:
     textLeft: You’re late, come eat breakfast.
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 100401
       motion: 1
       pos: 0
@@ -73,7 +73,7 @@ story:
     textLeft: '...I’m sorry... We ate already...'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100501
       motion: 0
     nameRight: Felicia
@@ -81,12 +81,12 @@ story:
   - autoTurnLast: 2
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100101
       motion: 0
       pos: 2
@@ -99,14 +99,14 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101501
       motion: 200
     nameLeft: Ui
     textLeft: Yeah!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 0
     nameLeft: Ui
@@ -117,7 +117,7 @@ story:
     textLeft: It’s a game where you just watch everyone’s @avatars.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101501
       motion: 100
     nameLeft: Ui
@@ -129,7 +129,7 @@ story:
     textRight: Wow...!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100401
       motion: 100
       pos: 2
@@ -142,11 +142,11 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 200
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100501
       motion: 0
       pos: 2
@@ -154,33 +154,33 @@ story:
     textLeft: Ah, that’s right, Felicia-san!
   - chara:
     - cheek: 0
-      face: mtn_ex_041.exp.json
+      face: mtn_ex_041.exp3.json
       id: 101501
       motion: 0
     nameLeft: Ui
     textLeft: '...What happened afterwards?'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 100
     nameRight: Felicia
     textRight: Ahh, wait a sec, I havn’t looked yet.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100501
     nameRight: Felicia
     textRight: After eatin’ dinner, I went to bed.
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_041.exp.json
+      face: mtn_ex_041.exp3.json
       id: 101501
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 0
       pos: 2
@@ -193,14 +193,14 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 0
     nameLeft: Ui
     textLeft: What happened?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100501
       motion: 300
     nameRight: Felicia
@@ -217,14 +217,14 @@ story:
     textRight: That’s right.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 100
     nameLeft: Ui
     textLeft: I wonder how it is with Tsuruno-san...?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100501
       motion: 0
     nameRight: Felicia
@@ -244,12 +244,12 @@ story:
     bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100501
       motion: 0
       pos: 2
@@ -263,14 +263,14 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 300
     nameLeft: Ui
     textLeft: I wonder what’s going on...?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100501
       motion: 100
     nameRight: Felicia
@@ -278,14 +278,14 @@ story:
       the settings?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 101501
       motion: 0
     nameLeft: Ui
     textLeft: I’ll ask her and see.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 1
       pos: 0
@@ -306,14 +306,14 @@ story:
     textLeft: Eh...!? What does this mean...!?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 400
     nameRight: Felicia
     textRight: What’s up? Did somethin’ happen to your phone?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 200
     nameLeft: Ui
@@ -346,12 +346,12 @@ story:
     bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 0
       pos: 2
@@ -384,7 +384,7 @@ story:
     textLeft: T-That’s not it! This isn’t the game screen!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100501
       motion: 300
     nameRight: Felicia
@@ -407,7 +407,7 @@ story:
     textLeft: They just... left behind stardust and then went somewhere else...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       lipSynch: 0
       motion: 0
@@ -423,7 +423,7 @@ story:
     textRight: They came to this side from the game world
   - chara:
     - id: 100501
-      motion: 200
+      motion: 300
     nameRight: Felicia
     textRight: and they can freely go anywhere on the ’net?
   - chara:
@@ -433,14 +433,14 @@ story:
     textLeft: '...That seems like the only possibility.'
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100501
       motion: 200
     nameRight: Felicia
     textRight: That Touka was so confident!
   - chara:
     - cheek: 0
-      face: mtn_ex_041.exp.json
+      face: mtn_ex_041.exp3.json
       id: 101501
       motion: 100
     nameLeft: Ui
@@ -454,17 +454,17 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100401
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100101
       motion: 0
       pos: 1
     - cheek: 0
-      face: mtn_ex_014.exp.json
+      face: mtn_ex_014.exp3.json
       id: 100201
       motion: 0
       pos: 0
@@ -486,12 +486,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100501
       motion: 200
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 0
       pos: 0
@@ -499,14 +499,14 @@ story:
     textRight: Fat chance.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 101501
       motion: 200
     nameLeft: Ui
     textLeft: Yeah, definitely not!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100101
       motion: 400
       pos: 2

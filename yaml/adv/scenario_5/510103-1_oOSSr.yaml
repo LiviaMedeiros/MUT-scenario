@@ -229,14 +229,14 @@ story:
       soulGem: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 402900
+      id: 831100
       motion: 0
       pos: 2
     surround: 7202_telepathy
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - chara:
-    - id: 402900
+    - id: 831100
     nameRight: Perenelle
     textRight: Elisa and Ui, you should accompany them to@Loches.
     turnChangeOut: fadeOut
@@ -330,19 +330,19 @@ story:
       soulGem: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 402900
+      id: 831100
       motion: 0
       pos: 2
     surround: 7202_telepathy
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - chara:
-    - id: 402900
+    - id: 831100
     nameRight: Perenelle
     textRight: You will have to pass through multiple gates.
     turnChangeOut: fadeOut
   - chara:
-    - id: 402900
+    - id: 831100
     textRight: But it should not take very much time.
   - chara:
     - id: 810000

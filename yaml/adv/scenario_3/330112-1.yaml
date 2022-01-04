@@ -17,7 +17,7 @@ story:
   - narration: That was when the girl appeared@before me once more...
   - bg: bg_adv_13023.jpg
     chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 0
@@ -35,18 +35,18 @@ story:
     nameLeft: Kako
     textLeft: O-oh, I remember you, from...[chara:301101:cheek_1:face_mtn_ex_030.exp.json]
   - chara:
-    - cheek: 0
+    - cheek: -1
       id: 300501
     textRight: My apologies.@I haven't introduced myself yet, have I?
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_010.exp.json
       id: 300501
       motion: 300
     nameRight: Nanaka
     textRight: My name is [textRed:Nanaka Tokiwa].
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_010.exp.json
       id: 300501
       motion: 0
@@ -63,10 +63,9 @@ story:
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 400
-      mouthOpen: 1
     textLeft: Whoa. It really does talk!
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 0
@@ -74,7 +73,7 @@ story:
     nameRight: Nanaka
     textRight: Calm down.@I'll explain everything.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
     textRight: But first, may I ask your name?
@@ -85,7 +84,7 @@ story:
     textLeft: Huh?[chara:301101:cheek_0:face_mtn_ex_050.exp.json] Oh, it's Kako...
       [chara:301101:cheek_1:face_mtn_ex_030.exp.json:motion_300]Kako Natsume...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 100
@@ -97,7 +96,7 @@ story:
       motion: 0
     textLeft: Oh, uh, you too...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 0
@@ -108,7 +107,7 @@ story:
       id: 301101
     textLeft: Yes... It was my home...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
     textRight: I heard it was a fire.@Did they catch the person who started it?
@@ -118,12 +117,12 @@ story:
       id: 301101
     textLeft: Not yet...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_030.exp.json
       id: 300501
     textRight: I see...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
     textRight: Do you want to catch the person responsible?
@@ -145,10 +144,9 @@ story:
       face: mtn_ex_030.exp.json
       id: 301101
       motion: 300
-      mouthOpen: 1
     textLeft: Y-yes! Of course...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
     textRight: Well... You heard her, Kyubey.
@@ -174,5 +172,5 @@ story:
     textRight: I want you to make a contract@with me and become a Magical Girl.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

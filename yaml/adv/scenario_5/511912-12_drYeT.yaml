@@ -11,12 +11,12 @@ story:
     bg: bg_adv_50071.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 0
@@ -38,7 +38,7 @@ story:
     textRight: A curse like this has existed every generation.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 100
       pos: 0
@@ -46,7 +46,7 @@ story:
     textLeft: Was it always like this?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 305800
       motion: 100
       pos: 2
@@ -60,14 +60,14 @@ story:
       us, '
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 305800
     nameRight: Natsu Ryoko
     textRight: but it’s getting close to the time when I wouldn’t @be surprised if
       new people appeared.
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -75,7 +75,7 @@ story:
     textLeft: So you’re saying...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 0
       pos: 2
@@ -83,7 +83,7 @@ story:
     textRight: At that time, the next one to disappear will most @likely be me.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 305800
       motion: 200
       pos: 2
@@ -91,7 +91,7 @@ story:
     textRight: Given that I’m the most senior resident!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102500
       lipSynch: 0
       motion: 1
@@ -105,7 +105,7 @@ story:
     textLeft: I think, it’s better if it stays the three of us.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 305800
       motion: 100
       pos: 2
@@ -117,7 +117,7 @@ story:
     textRight: At first, I was pretty shocked...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 400
       pos: 2
@@ -131,7 +131,7 @@ story:
     textLeft: But... when I think of my appearance causing @someone else to disappear...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 305800
       motion: 1
       pos: 2
@@ -143,7 +143,7 @@ story:
     textRight: they weren’t really scared, more relieved in fact.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 100
       pos: 0
@@ -156,7 +156,7 @@ story:
     textRight: Mmm, it seems we all have some day we’ll @disappear.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 100
       pos: 2
@@ -164,7 +164,7 @@ story:
     textRight: Probably that way in the other towns too?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 1
       pos: 0
@@ -176,7 +176,7 @@ story:
     textLeft: where you disappear and give someone else your @spot...
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102500
       motion: 0
       pos: 2
@@ -184,7 +184,7 @@ story:
     textRight: We all unexpectedly appeared in this world and will likewise disappear...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102500
       motion: 200
       pos: 2
@@ -201,7 +201,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 305800
       motion: 0
       pos: 2
@@ -211,7 +211,7 @@ story:
   - bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 305800
       motion: 400
       pos: 2
@@ -220,13 +220,13 @@ story:
   - bgm: bgm03_story02
     chara:
     - cheek: 0
-      face: mtn_ex_012.exp.json
+      face: mtn_ex_012.exp3.json
       id: 305800
     nameRight: Natsu Ryoko
     textRight: How about I disappear from this village?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 102500
       motion: 400
       pos: 0
@@ -234,7 +234,7 @@ story:
     textLeft: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]Ehh?'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 305800
       motion: 200
       pos: 2
@@ -242,7 +242,7 @@ story:
     textRight: I can get a ride on the guests’ vehicle!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 400
       pos: 2
@@ -250,7 +250,7 @@ story:
     textRight: Three on the bike at once!?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -258,7 +258,7 @@ story:
     textLeft: Umm, that’d go over the seating capacity...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 200
       pos: 0
@@ -266,7 +266,7 @@ story:
     textLeft: And then what, if you leave?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 1
       pos: 2
@@ -280,7 +280,7 @@ story:
       some new faces!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102500
       motion: 100
       pos: 0
@@ -302,7 +302,7 @@ story:
     textRight: Then, Sunao?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 1
       pos: 0
@@ -314,7 +314,7 @@ story:
     textLeft: I can somewhat see where Ryoko is coming from...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 305800
       motion: 300
       pos: 2
@@ -329,12 +329,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102500
       motion: 300
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 0
@@ -345,7 +345,7 @@ story:
     textRight: We’re having such an unsightly quarrel in front @of our guests.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 0
@@ -353,7 +353,7 @@ story:
     textLeft: Hm, not really? I just see that ya have a great relationship?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -361,7 +361,7 @@ story:
     textLeft: After all, you’re not arguing because you hate @each other!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 305800
       motion: 100
       pos: 2
@@ -369,7 +369,7 @@ story:
     textRight: Well, that’s true.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 1
       pos: 2
@@ -386,7 +386,7 @@ story:
     textRight: and Sunao gives the impression we can only leave things as they are.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102700
       motion: 100
       pos: 0
@@ -408,12 +408,12 @@ story:
   - bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -430,7 +430,7 @@ story:
   - bgm: bgm01_anime03
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 200
       pos: 2
@@ -438,7 +438,7 @@ story:
     textRight: 'It’s ’bout this guy’s time to shine? '
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 102500
       motion: 0
       pos: 2
@@ -451,7 +451,7 @@ story:
     textLeft: It’s for delivering smiles to everyone.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 201
       pos: 0
@@ -460,12 +460,12 @@ story:
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 102500
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -481,7 +481,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -490,7 +490,7 @@ story:
       during our travels!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102700
       motion: 100
       pos: 2
@@ -498,12 +498,12 @@ story:
     textRight: Traveling to the End of the World, how amazing...!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 0
     nameRight: Felicia
@@ -519,7 +519,7 @@ story:
     textRight: their wishes ain’t aligned, yeah?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 300
       pos: 0
@@ -528,14 +528,14 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: Though thinking through the result...
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 200
     nameLeft: Tsuruno
@@ -546,7 +546,7 @@ story:
     textLeft: wouldn’t a present that can make everyone happy come out?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102500
       motion: 100
       pos: 2
@@ -561,12 +561,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102700
       motion: 200
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 0
       pos: 2
@@ -574,7 +574,7 @@ story:
     textLeft: Indeed!
   - chara:
     - cheek: 0
-      face: mtn_ex_012.exp.json
+      face: mtn_ex_012.exp3.json
       id: 305800
       motion: 100
     nameRight: Natsu Ryoko
@@ -598,19 +598,19 @@ story:
       visible: hide
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102500
       motion: 200
       mouthOpen: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102700
       motion: 100
       mouthOpen: 1
       pos: 1
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_010.exp3.json
       id: 305800
       motion: 200
       mouthOpen: 1

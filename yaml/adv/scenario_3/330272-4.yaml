@@ -57,9 +57,7 @@ story:
       posX: 50
     turnChangeIn: rollInFast
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 302701
+    - id: 302701
       motion: 0
     nameCenter: Akira
     nameLeft: Hazuki
@@ -73,9 +71,7 @@ story:
       motion: 100
     textCenter: Got it!
   - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 301201
+    - id: 301201
       motion: 100
     textRight: Understood.
   - chara:
@@ -84,7 +80,7 @@ story:
       id: 302601
       motion: 0
       pos: 0
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 100
@@ -95,9 +91,7 @@ story:
     turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 302601
+    - id: 302601
       lipSynch: 0
       motion: 1
     textLeft: '...'
@@ -116,7 +110,7 @@ story:
       motion: 100
     textLeft: There...everything's set! I'll see all of you@tomorrow!
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_010.exp.json
       id: 300501
       motion: 0
@@ -149,9 +143,7 @@ story:
     nameLeft: Ayame
     textLeft: All riiight! Din-din-dinner!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300501
+    - id: 300501
       motion: 1
     textRight: Ah...I see.
   - chara:
@@ -205,7 +197,7 @@ story:
     nameRight: Meiyui
     textRight: See you soon...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_010.exp.json
       id: 300501
       motion: 0
@@ -213,14 +205,12 @@ story:
     nameLeft: Nanaka
     textLeft: Yes, until next time...
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300501
+    - id: 300501
       lipSynch: 0
     textLeft: '...'
   - bgm: bgm03_story08
     chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 100
@@ -267,7 +257,7 @@ story:
     nameRight: Kako
     textRight: She's really kind, too!
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 300
@@ -275,9 +265,7 @@ story:
     nameLeft: Nanaka
     textLeft: I see...
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 300501
+    - id: 300501
       lipSynch: 0
     textLeft: '...'
   - chara:
@@ -313,7 +301,7 @@ story:
       id: 300801
     textRight: Guys...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 0
@@ -328,18 +316,16 @@ story:
       motion: 300
     textRight: Are we...uh, just gonna stay here?
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300501
+    - id: 300501
     textLeft: '[chara:300501:effect_emotion_surprise_0][se:7226_shock]What? [chara:300501:lipSynch_0][wait:0.8][chara:300501:motion_100][chara:300501:lipSynch_1]Oh!
       Right!'
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_010.exp.json
       id: 300501
     textLeft: Please, go ahead and head on home.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 0

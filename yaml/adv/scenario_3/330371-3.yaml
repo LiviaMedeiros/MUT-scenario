@@ -55,6 +55,7 @@ story:
     flashEffect: flashRed2
     surround: 1016A05
   - autoTurnLast: 0.5
+    bgm: stop
     chara:
     - effect: fadeout
       id: 7000
@@ -63,7 +64,6 @@ story:
   - autoTurnLast: 0.5
     bg: bg_adv_17021.jpg
     bgChangeEffect: exitWitchSpace
-    bgm: stop
     se: 7209_gate_close
   - chara:
     - eyeClose: 1
@@ -92,6 +92,8 @@ story:
       pos: 0
     nameLeft: Kanagi
     textLeft: The Witch ran off.
+  - autoTurnLast: 0.1
+    textClear: 1
   - chara:
     - cheek: 0
       effect: ef_adv_05
@@ -101,6 +103,8 @@ story:
       pos: 0
     se: 7205_magic_girl
     textLeft: We wasted our magic for nothing.
+  - autoTurnLast: 0.1
+    textClear: 1
   - chara:
     - cheek: 0
       effect: ef_adv_05

@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm03_story01
     chara:
     - cheek: 0
@@ -339,7 +339,7 @@ story:
       pos: 0
     turnChangeIn: fadeIn
     turnEffect: stop
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     chara:
     - id: 300902
       motion: 100
@@ -392,7 +392,7 @@ story:
       pos: 0
     turnChangeIn: fadeIn
     turnEffect: stop
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     chara:
     - id: 300902
       motion: 200

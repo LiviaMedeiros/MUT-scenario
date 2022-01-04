@@ -29,12 +29,12 @@ story:
   - bgm: bgm05_event07
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 100
       pos: 2
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -47,7 +47,7 @@ story:
     textLeft: So that’s why you said we needed our weapons.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 1
       pos: 2
@@ -59,7 +59,7 @@ story:
     textRight: The closer we get to the Central Tower, the more enemies there’ll be.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 200
       pos: 0
@@ -67,7 +67,7 @@ story:
     textLeft: I think it’s probably... the tower’s defense system.
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 301700
       motion: 1
       pos: 2
@@ -75,7 +75,7 @@ story:
     textRight: As long as we stay away from the tower, @we should be fine but...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301700
       pos: 2
     - id: 102900
@@ -84,7 +84,7 @@ story:
     textRight: The area surrounding Mech Junk City is not @completely safe either.
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 301700
       motion: 300
       pos: 2
@@ -96,7 +96,7 @@ story:
     textRight: rain and snow will blow in...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 200
       pos: 0
@@ -104,7 +104,7 @@ story:
     textLeft: So the rain just now was their fault!
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 300
       pos: 0
@@ -112,7 +112,7 @@ story:
     textLeft: It looks like its defenses are really kicking in.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 100
       pos: 2
@@ -144,12 +144,12 @@ story:
     bg: bg_adv_20645.jpg
     chara:
     - cheek: 1
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 1
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -167,7 +167,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 1
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 200
       mouthOpen: 0
@@ -177,7 +177,7 @@ story:
     textRight: The Wishin’ Star... It’s really right above us!
   - chara:
     - cheek: 1
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -185,7 +185,7 @@ story:
     textLeft: I’m feeling a bit swept up just seeing it...!
   - chara:
     - cheek: 1
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 1
       pos: 2
@@ -198,7 +198,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 100
       pos: 2
@@ -207,12 +207,12 @@ story:
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -230,7 +230,7 @@ story:
     narrationEffect: in
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -239,7 +239,7 @@ story:
     textRight: Oh? Looks like the navi’s map jus’ updated.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -247,7 +247,7 @@ story:
     textLeft: Let me see...@[chara:120301:lipSynch_0][wait:1.0][chara:120301:cheek_0][chara:120301:face_mtn_ex_050.exp.json:motion_400][chara:120301:lipSynch_1][chara:120301:mouthOpen_1]Ahhh!?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 300
       pos: 2
@@ -258,7 +258,7 @@ story:
       tower...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -271,14 +271,14 @@ story:
     textLeft: If we go straight ahead... we’ll be back at Banbanzai!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 400
     nameRight: Felicia
     textRight: Uoh, for reals!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 300
       pos: 2
@@ -291,13 +291,13 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 102900
       motion: 0
       pos: 1
       posX: 30
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 0
       pos: 2
@@ -310,7 +310,7 @@ story:
     textCenter: Shigumu?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -319,12 +319,12 @@ story:
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 301700
       motion: 1
       pos: 2
@@ -337,7 +337,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -353,7 +353,7 @@ story:
   - bgm: bgm03_story06
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 304200
       motion: 1
       pos: 2
@@ -370,7 +370,7 @@ story:
     textRight: That much is as clear as day!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 400
       pos: 0
@@ -378,7 +378,7 @@ story:
     textLeft: This place is that dangerous!?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 100
       pos: 0
@@ -386,7 +386,7 @@ story:
     textLeft: What the hell are you guys even tryna do?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -422,14 +422,14 @@ story:
       live.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       lipSynch: 0
     nameLeft: Felicia
     textLeft: '...!'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 0
       pos: 2
@@ -446,7 +446,7 @@ story:
     textRight: but also an infinite stream of signals leaking from @the angels’ world.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 1
       pos: 0
@@ -454,7 +454,7 @@ story:
     textLeft: Signals...?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -472,7 +472,7 @@ story:
     textRight: we can recreate signals that produce the angels’ @words and music.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 1
       pos: 0
@@ -484,7 +484,7 @@ story:
     textRight: Yeah.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 300
       pos: 2
@@ -496,7 +496,7 @@ story:
     textRight: I became absorbed with making the receiver.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -504,7 +504,7 @@ story:
     textLeft: Ah... so that’s why you were in Junk City?
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 1
       pos: 2
@@ -518,13 +518,13 @@ story:
     textRight: and because it’s close to the Central Tower.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102900
     nameRight: Shigure
     textRight: I asked Hagumun to help me assemble it...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103000
       motion: 200
       pos: 2
@@ -532,7 +532,7 @@ story:
     textRight: Ah... yes, my only strong point is in detail-oriented work.
   - chara:
     - cheek: 0
-      face: mtn_ex_041.exp.json
+      face: mtn_ex_041.exp3.json
       id: 103000
     nameRight: Hagumu
     textRight: Although I don’t know why I had so many screws @left over after finishing
@@ -544,7 +544,7 @@ story:
     textLeft: The angels’ words and music...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -552,7 +552,7 @@ story:
     textLeft: That’s amazing...! They’re way ahead of us.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 300
       pos: 0
@@ -560,7 +560,7 @@ story:
     textLeft: For us, just gettin’ here took a ridiculous amount of time.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -568,7 +568,7 @@ story:
     textRight: '...We used to live in a town near here...'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 400
       pos: 0
@@ -576,7 +576,7 @@ story:
     textLeft: Our starting points were different!
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -589,7 +589,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103000
       motion: 1
       pos: 2
@@ -597,7 +597,7 @@ story:
     textRight: Afterwards, Shigure-chan succeeded in making a receiver...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102900
       motion: 200
     nameLeft: Shigure
@@ -615,12 +615,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -633,7 +633,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -658,7 +658,7 @@ story:
     textRight: It’s a bit clunky but... try attaching this to the radio.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 200
       pos: 0
@@ -668,12 +668,12 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -689,7 +689,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 103000
       motion: 200
       pos: 2
@@ -709,7 +709,7 @@ story:
     surround: stop
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 400
       pos: 0
@@ -718,7 +718,7 @@ story:
     textLeft: '...Oi, this is!'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 304200
       motion: 100
       pos: 2
@@ -726,7 +726,7 @@ story:
     textRight: Yep, it’s that top hit song from the angels’ town Kamihama City!
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 301700
       motion: 100
       pos: 0

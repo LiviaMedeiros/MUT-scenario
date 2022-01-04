@@ -19,6 +19,8 @@ story:
       pos: 1
     nameCenter: Mel
     textCenter: '...'
+  - autoTurnLast: 0.1
+    textClear: 1
   - bgm: bgm03_story03
     chara:
     - cheek: 0
@@ -34,6 +36,7 @@ story:
   - autoTurnLast: 0.01
     chara:
     - id: 303701
+      mouthOpen: 0
       pos: 2
     textClear: 1
   - chara:
@@ -51,6 +54,8 @@ story:
       motion: 400
     nameRight: Mel
     textRight: W-wait. Where am I?!
+  - autoTurnLast: 0.1
+    textClear: 1
   - chara:
     - cheek: 0
       effect: ef_adv_05

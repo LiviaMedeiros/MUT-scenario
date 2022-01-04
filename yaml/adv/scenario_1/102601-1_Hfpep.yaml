@@ -150,7 +150,7 @@ story:
     narrationEffect: in
     narrationFontSize: 30
     narrationHAlignment: left
-    narrationLineMargin: 80
+    narrationLineMargin: 60
     narrationLineSpace: 20
     narrationPosX: 150
     progressNarration: 'Kamihama Magia Union:'
@@ -179,7 +179,7 @@ story:
     narrationEffect: in
     narrationFontSize: 30
     narrationHAlignment: left
-    narrationLineMargin: 80
+    narrationLineMargin: 60
     narrationLineSpace: 20
     narrationPosX: 150
     progressNarration: 'Promised Blood:'
@@ -207,7 +207,7 @@ story:
     narrationEffect: in
     narrationFontSize: 30
     narrationHAlignment: left
-    narrationLineMargin: 80
+    narrationLineMargin: 60
     narrationLineSpace: 20
     narrationPosX: 150
     progressNarration: 'Tokime Clan:'
@@ -236,7 +236,7 @@ story:
     narrationEffect: in
     narrationFontSize: 30
     narrationHAlignment: left
-    narrationLineMargin: 80
+    narrationLineMargin: 60
     narrationLineSpace: 20
     narrationPosX: 150
     progressNarration: 'Neo Magius:'
@@ -265,7 +265,7 @@ story:
     narrationEffect: in
     narrationFontSize: 30
     narrationHAlignment: left
-    narrationLineMargin: 80
+    narrationLineMargin: 60
     narrationLineSpace: 20
     narrationPosX: 150
     progressNarration: And the last group I have seen...
@@ -288,7 +288,7 @@ story:
     narrationEffect: in
     narrationFontSize: 30
     narrationHAlignment: left
-    narrationLineMargin: 30
+    narrationLineMargin: 10
     narrationLineSpace: 20
     narrationPosX: 150
     progressNarration: What I do know at this point is that each@group of 12 Magical

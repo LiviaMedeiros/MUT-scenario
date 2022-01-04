@@ -421,7 +421,7 @@ story:
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
-    turnEffect: blackFrame
+    turnEffect: stop
   - chara:
     - id: 305400
       lipSynch: 0

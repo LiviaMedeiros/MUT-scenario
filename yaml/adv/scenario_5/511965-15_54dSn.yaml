@@ -12,12 +12,12 @@ story:
     bgm: bgm24_story08
     chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 1
       pos: 2
@@ -34,7 +34,7 @@ story:
     textRight: Yea?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 200
       pos: 2
@@ -42,7 +42,7 @@ story:
     textRight: With how you look, did you...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102900
       motion: 400
     item:
@@ -54,7 +54,7 @@ story:
     textLeft: '...Yeah, with this... the remodeling’s finished...!'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 304200
       motion: 1
       pos: 2
@@ -62,7 +62,7 @@ story:
     textRight: Woah!? It appears it’s completed at last!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 304200
     nameRight: Hibiki Meguru
     textRight: 'The Reindeer Santas’ Super Reindeer-san #2 (reworked)!'
@@ -73,7 +73,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103000
       motion: 1
       pos: 2
@@ -87,20 +87,20 @@ story:
     textRight: It said after Nanase-san and them deliver the @necessary energy,
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 103000
       motion: 100
     nameRight: Hagumu
     textRight: we can start at any time...!
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 102900
     nameLeft: Shigure
     textLeft: Really...? That went faster... than I expected.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102900
       motion: 1
     nameLeft: Shigure
@@ -115,12 +115,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -128,7 +128,7 @@ story:
     textLeft: So that means...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 200
     nameLeft: Tsuruno
@@ -136,14 +136,14 @@ story:
       at any moment!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 100
     nameRight: Felicia
     textRight: '...Even though things got really blown up this time.'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 100
     nameLeft: Tsuruno
@@ -155,7 +155,7 @@ story:
       used?
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 100
       pos: 0
@@ -167,7 +167,7 @@ story:
     textLeft: we’re repurposing the observatory discovered @through the shared intelligence.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 200
       pos: 2
@@ -183,7 +183,7 @@ story:
     bg: bg_adv_21076.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
       pos: 1
@@ -210,12 +210,12 @@ story:
     bg: bg_adv_21076.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -246,7 +246,7 @@ story:
     textLeft: using the Central Tower...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
       pos: 2
@@ -254,7 +254,7 @@ story:
     textRight: Then afterwards, we can use the transmission beam
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
     nameRight: Tsuruno
     textRight: to shoot straight through to the other side of the @End of the World,
@@ -277,7 +277,7 @@ story:
     - id: 102900
       motion: 200
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 0
     nameLeft: Shigure
@@ -289,7 +289,7 @@ story:
     textLeft: as long as you can cross the singularity in the boundary... then surely...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -301,14 +301,14 @@ story:
     textRight: before we actually do it, yeah?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 1
     nameLeft: Shigure
     textLeft: '...Yeah... With our knowledge... we can’t predict @what will happen.'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 100
       pos: 2
@@ -321,7 +321,7 @@ story:
     textLeft: '...Yeah, just as I said before.'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 300
       pos: 0
@@ -329,14 +329,14 @@ story:
     textLeft: '...A-Are you really not scared...?'
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 0
     nameRight: Tsuruno
     textRight: '...Yeah, that’s a good point.'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
     nameRight: Tsuruno
@@ -344,13 +344,13 @@ story:
       believe
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
     nameRight: Tsuruno
     textRight: 'in the Super Reindeer-san #2 that Shigure-chan remodeled for us!'
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 102900
       motion: 200
       pos: 0
@@ -358,7 +358,7 @@ story:
     textLeft: '...Y-Yeah...'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -366,7 +366,7 @@ story:
     textRight: We’ve already made up our minds ’bout this, @no point in frettin’ now!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 200
       pos: 2
@@ -374,7 +374,7 @@ story:
     textRight: Yup yup!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       lipSynch: 0
       motion: 0
@@ -384,7 +384,7 @@ story:
       that’s true.'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 200
       pos: 2
@@ -392,7 +392,7 @@ story:
     textRight: All what’s left is waitin’ for Yukika!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
       pos: 0

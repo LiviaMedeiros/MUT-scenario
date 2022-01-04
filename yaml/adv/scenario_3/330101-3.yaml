@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm01_anime03
     chara:
     - cheek: 0
@@ -85,7 +85,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
     turnEffect: promist
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm03_story01
     chara:
     - id: 300902
@@ -105,7 +105,7 @@ story:
       motion: 0
       pos: 1
     turnChangeIn: fadeIn
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     nameNarration: Ria
     narration: Manaka happened to be struck by my@glorious good looks. I inspired
       her.
@@ -143,7 +143,7 @@ story:
     - id: 301001
     textCenter: That request was the start of it all.
   - autoTurnLast: 0.01
-    bg: bg_adv_21221.jpg
+    bg: bg_adv_19221.jpg
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

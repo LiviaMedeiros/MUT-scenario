@@ -468,7 +468,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100750
+      id: 100771
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -479,12 +479,12 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100750
+      id: 100771
     textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101450
+      id: 101472
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -493,19 +493,19 @@ story:
     nameCenter: Nemu
     textCenter: I can get around underwater without a@wheelchair, but...
   - chara:
-    - id: 101450
+    - id: 101472
     nameCenter: Nemu
     textCenter: It doesn't change the fact that I can't move@my legs.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101450
+      id: 101472
       motion: 100
     nameCenter: Nemu
     textCenter: Could you not lump me in with you?
   - autoTurnLast: 0.2
     chara:
-    - id: 101450
+    - id: 101472
       pos: 0
     textClear: 1
   - chara:
@@ -519,19 +519,19 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101450
+      id: 101472
       motion: 0
       pos: 0
     nameLeft: Nemu
     textLeft: That's a very kind offer, but...
   - chara:
-    - id: 101450
+    - id: 101472
     nameLeft: Nemu
     textLeft: You can't just stay with me the whole time,@can you?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101450
+      id: 101472
       motion: 100
     nameLeft: Nemu
     textLeft: You have to take care of everyone.
@@ -558,7 +558,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101450
+      id: 101472
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -575,7 +575,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100750
+      id: 100771
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -586,18 +586,18 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100750
+      id: 100771
     nameLeft: Touka
     textLeft: It can't be helped, we'll pull you along.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101450
+      id: 101472
       motion: 100
     nameRight: Nemu
     textRight: '...*Chuckle* Then I''ll take you up on that.'
   - chara:
-    - id: 100750
+    - id: 100771
       motion: 400
     nameLeft: Touka
     textLeft: '*Giggle* Now our dream has perfectly come@true!'
@@ -621,7 +621,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100750
+      id: 100771
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -633,7 +633,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_011.exp.json
-      id: 101450
+      id: 101472
       lipSynch: 0
       live2dParam:
         name: PARAM_BRACELET
@@ -647,7 +647,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -672,7 +672,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100750
+      id: 100771
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -682,7 +682,7 @@ story:
     textLeft: '...Our own way...'
   - chara:
     - eyeClose: 1
-      id: 101403
+      id: 101471
     textRight: Capturing the two of you in my lens and@decorating you with my words...
   - autoTurnLast: 0.01
     bg: bg_adv_20611.jpg
@@ -694,7 +694,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100750
+      id: 100771
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -702,7 +702,7 @@ story:
       pos: 1
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101450
+      id: 101472
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -711,7 +711,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: stop
   - chara:
-    - id: 101450
+    - id: 101472
       motion: 300
     nameRight: Nemu
     textRight: I believe that's beautiful and unique to us.
@@ -726,21 +726,21 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100750
+      id: 100771
       motion: 201
     nameCenter: Touka
     textCenter: I want the dolphin!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101450
+      id: 101472
       motion: 100
     nameRight: Nemu
     textRight: I'm with you. I think it'd be fun to ride one.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100750
+      id: 100771
       motion: 400
     nameCenter: Touka
     textCenter: What?! It's more fun to swim beside them!
@@ -749,9 +749,9 @@ story:
     - effect: fadeout
       id: 101550
     - effect: fadeout
-      id: 101450
+      id: 101472
     - effect: fadeout
-      id: 100750
+      id: 100771
     textClear: 1
   - chara:
     - cheek: 1

@@ -69,7 +69,7 @@ story:
     nameLeft: Akira
     textLeft: I really like the parfaits here.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
       lipSynch: 0
@@ -148,7 +148,7 @@ story:
     textLeft: '[chara:300801:effect_emotion_surprise_0][se:7226_shock]Oh, um... [chara:300801:lipSynch_0][wait:0.7][chara:300801:cheek_2][chara:300801:face_mtn_ex_030.exp.json][chara:100501:lipSynch_1]I
       guess I do come here quite a bit...'
   - chara:
-    - cheek: 1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 200
@@ -220,7 +220,7 @@ story:
       id: 302701
       motion: 0
       pos: 0
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 0
@@ -229,7 +229,7 @@ story:
     nameRight: Nanaka
     textRight: We are gathered here today to discuss@something...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
     textRight: Is that not correct, Hazuki?
@@ -240,13 +240,13 @@ story:
       motion: 1
     textLeft: Yes, that's right... I guess we kinda@drifted off topic!
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 1
     textRight: Then please, Hazuki.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
     textRight: You arranged this meeting, so I would@love for you to explain why we

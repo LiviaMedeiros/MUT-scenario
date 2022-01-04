@@ -6,31 +6,35 @@ skipTransitionList:
   from: group_5
 story:
   group_1:
-  - bg: bg_adv_narration.jpg
-    nameNarration: Konoha
-    narration: The big turning point for us@came when we met her...
-    narrationEffect: in
+  - autoTurnLast: 0.01
     turnChangeIn: fadeIn
-    turnChangeOut: fadeOut
-  - bg: bg_adv_21163.jpg
-    bgm: bgm03_story10
-    chara:
+  - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 302700
       motion: 0
       pos: 0
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 300500
+      motion: 0
+      pos: 2
+    nameNarration: Konoha
+    narration: The big turning point for us@came when we met her...
+    narrationBg: bg_adv_narration.jpg
+    narrationEffect: in
+    turnChangeOut: fadeOut
+  - bg: bg_adv_21163.jpg
+    bgm: bgm03_story10
+    chara:
+    - id: 302700
     nameLeft: Hazuki
     narrationEffect: out
     textLeft: So...
   - textLeft: Miss Nanaka Tokiwa...
   - textLeft: That's your name, isn't it?
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300500
-      motion: 0
-      pos: 2
+    - id: 300500
     nameRight: Nanaka
     textRight: Yes, I am Nanaka Tokiwa.
   - chara:
@@ -67,6 +71,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300500
+      motion: 0
       pos: 2
     nameLeft: Konoha
     textLeft: '...'
@@ -419,7 +424,8 @@ story:
     nameLeft: Konoha
     textLeft: Better how?
   - chara:
-    - face: mtn_ex_020.exp.json
+    - cheek: 0
+      face: mtn_ex_020.exp.json
       id: 300500
       motion: 0
       pos: 2
@@ -696,17 +702,22 @@ story:
     surround: stop
     turnEffect: stop
   group_2:
-  - bg: bg_adv_21163.jpg
+  - autoTurnLast: 0.01
+    bg: bg_adv_21163.jpg
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 302600
       lipSynch: 0
-      motion: 100
+      motion: 0
       pos: 1
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 302600
+      lipSynch: 0
+      motion: 100
     nameCenter: Konoha
     textCenter: (What should we do...?)
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -717,50 +728,61 @@ story:
   - autoTurnLast: 2
     turnChangeIn: fadeIn
   group_3:
-  - bg: bg_adv_21163.jpg
+  - autoTurnLast: 0.01
+    bg: bg_adv_21163.jpg
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 302600
       motion: 0
       pos: 1
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 302600
     nameCenter: Konoha
     textCenter: Okay...I've decided.
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - textCenter: I'll answer them.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
   group_4:
-  - bg: bg_adv_21163.jpg
+  - autoTurnLast: 0.01
+    bg: bg_adv_21163.jpg
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 302600
       motion: 0
       pos: 1
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 302600
     nameCenter: Konoha
     textCenter: I've got it.
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - textCenter: Hazuki, you handle this.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
   group_5:
-  - bg: bg_adv_21163.jpg
+  - autoTurnLast: 0.01
+    bg: bg_adv_21163.jpg
     chara:
     - face: mtn_ex_020.exp.json
       id: 302600
-      motion: 100
+      motion: 0
       pos: 0
     - face: mtn_ex_020.exp.json
       id: 302700
       motion: 1
       pos: 2
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 302600
+      motion: 100
+    - id: 302700
     nameLeft: Konoha
     narrationEffect: out
     textLeft: Yes...
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: ef_adv_02
   - select:

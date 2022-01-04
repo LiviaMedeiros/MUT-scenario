@@ -491,7 +491,7 @@ story:
     narrationEffect: in
     narrationFontSize: 30
     narrationLineMargin: 20
-    narrationLineSpace: 5
+    narrationLineSpace: 15
     turnChangeOut: fadeOut
   - narration: — Kanagi —@Remember...
   - narration: — Kanagi —@Just let Maid Nagitan take care@of all your problems...got

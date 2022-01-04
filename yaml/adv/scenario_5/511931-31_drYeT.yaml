@@ -11,7 +11,7 @@ story:
     bg: bg_adv_16051.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 0
       pos: 1
@@ -39,7 +39,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
       pos: 2
@@ -61,7 +61,7 @@ story:
     textLeft: I'll control it this time, so Hibiki-san can focus on broadcasting.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 304200
       motion: 100
       pos: 2
@@ -69,7 +69,7 @@ story:
     textRight: Leave it to me!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103000
       motion: 200
       pos: 0
@@ -78,13 +78,13 @@ story:
       in our way.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
     nameLeft: Hagumu
     textLeft: Will you really... be okay...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301700
       motion: 100
       pos: 2
@@ -93,7 +93,7 @@ story:
       with three people...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 300
       pos: 0
@@ -105,7 +105,7 @@ story:
     textLeft: I'm about to make you do something really @dangerous...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -113,7 +113,7 @@ story:
     textRight: No worries! I’m always livin’ life on the edge!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 300
       pos: 0
@@ -121,7 +121,7 @@ story:
     textLeft: I'm sorry...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 0
       pos: 2
@@ -139,7 +139,7 @@ story:
     textRight: I just need to set this mana cartridge, right?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 0
       pos: 0
@@ -156,7 +156,7 @@ story:
       rest.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 1
       pos: 2
@@ -169,7 +169,7 @@ story:
     textRight: If it doesn’t work this time... we'll wait for the next chance.
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 301700
       motion: 300
       pos: 2
@@ -178,7 +178,7 @@ story:
       element of this plan?'
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 102900
       motion: 1
       pos: 0
@@ -187,18 +187,20 @@ story:
       be statistically impossible...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102900
     nameLeft: Shigure
     textLeft: But she returns alive 100% of the time.
   - chara:
-    - id: 301700
+    - cheek: 0
+      face: mtn_ex_050.exp3.json
+      id: 301700
       motion: 200
     nameRight: Nanase Yukika
     textRight: If it was not 100%, I would not be here right now.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -206,7 +208,7 @@ story:
     textLeft: '...It''s about time.'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 304200
       motion: 0
       pos: 2
@@ -236,12 +238,12 @@ story:
     bg: bg_adv_16052.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 304200
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 0
       pos: 0
@@ -260,7 +262,7 @@ story:
     textLeft: All we can do... is pray for their safety.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 300
       pos: 2
@@ -287,13 +289,13 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103000
     nameRight: Hagumu
     textRight: and bring our wishes... to the other side of the End @of the World.
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 102900
       motion: 100
       pos: 0
@@ -307,7 +309,7 @@ story:
     textRight: Yeah.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 100
     nameRight: Hagumu
@@ -336,12 +338,12 @@ story:
     bg: bg_adv_20645.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301700
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -354,7 +356,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -362,7 +364,7 @@ story:
     textLeft: I see it! The Central Tower!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 200
       pos: 0
@@ -370,7 +372,7 @@ story:
     textLeft: We're gonna charge through all at once!
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 301700
       motion: 300
       pos: 2
@@ -406,17 +408,17 @@ story:
       name: sprite_0
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 400
       pos: 1
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301700
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -424,13 +426,13 @@ story:
     textCenter: Woah!?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 301700
     nameRight: Nanase Yukika
     textRight: I knew it...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120301
       motion: 200
     nameLeft: Tsuruno

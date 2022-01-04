@@ -5,12 +5,12 @@ story:
     bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 0
       pos: 0
@@ -29,7 +29,7 @@ story:
     textRight: Was there something that caused this?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 100301
     nameLeft: Tsuruno
     textLeft: There was definitely some sort of bug.
@@ -45,7 +45,7 @@ story:
     textLeft: I heard that was the cause of people leaving.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 0
       pos: 2
@@ -63,7 +63,7 @@ story:
     textLeft: I wasn’t either...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 0
       pos: 2
@@ -80,7 +80,7 @@ story:
     textRight: If I remember correctly, both time and everyone’s memories were reset...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100501
       motion: 100
       pos: 0
@@ -92,7 +92,7 @@ story:
     textLeft: went nyooom and got tossed in the bin.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100301
       motion: 300
       pos: 0
@@ -106,7 +106,7 @@ story:
     textRight: That’s why the number of players dropped...
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 100301
       motion: 1
       pos: 0
@@ -122,7 +122,7 @@ story:
     textLeft: Once again, another wave of people will quit.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 0
       pos: 2
@@ -131,7 +131,7 @@ story:
       World, without getting discouraged.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 100
       pos: 0
@@ -139,7 +139,7 @@ story:
     textLeft: Mhm, to the Wishing Star right above the End of @the World...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101501
       motion: 200
       pos: 2
@@ -147,7 +147,7 @@ story:
     textRight: Yeah, just watching them makes me want to cheer @for them!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 101
       pos: 0
@@ -159,7 +159,7 @@ story:
     textLeft: and see if they can reach the End of the World,
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 100301
       motion: 200
       pos: 0
@@ -167,7 +167,7 @@ story:
     textLeft: without us controlling them like how we did before!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 0
       pos: 2
@@ -175,7 +175,7 @@ story:
     textRight: I wonder if they can really make it there...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 100
       pos: 0
@@ -183,7 +183,7 @@ story:
     textLeft: Can’tcha just ask?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 400
       pos: 2
@@ -191,7 +191,7 @@ story:
     textRight: Eh, who?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100501
     nameLeft: Felicia
     textLeft: The kid who made this game.
@@ -200,15 +200,15 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 100701
+      face: mtn_ex_050.exp3.json
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 0
       pos: 0
@@ -216,7 +216,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: thinking
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     surround: stop
     textRight: '...A wishing star at the end of the world...?@[chara:100701:lipSynch_0][wait:1.0][chara:100701:cheek_0][chara:100701:face_mtn_ex_010.exp.json:motion_100][chara:100701:lipSynch_1]Ahh,
@@ -233,15 +233,15 @@ story:
     bg: bg_adv_narration.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 100701
+      face: mtn_ex_030.exp3.json
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 0
       pos: 0
@@ -249,14 +249,14 @@ story:
     turnEffect: stop
   - bgm: bgm03_story06
     chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: That’s actually a bug.
     turnChangeOut: fadeOut
     turnEffect: thinking
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 400
       mouthOpen: 1
@@ -265,8 +265,8 @@ story:
     textLeft: Wh... Whaaat!?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 100701
+      face: mtn_ex_011.exp3.json
+      id: 100770
       motion: 200
       pos: 2
     - id: 101501
@@ -275,23 +275,23 @@ story:
     textRight: Kuhuhu. [chara:100701:lipSynch_0][wait:1.0][chara:100701:cheek_0][chara:100701:face_mtn_ex_010.exp.json][chara:100701:lipSynch_1]@Simply
       put, its coordinates are topological.
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: In other words...
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 1
     nameRight: Touka
     textRight: it’s a singularity that can’t be plugged, similar to @a hole,
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 100701
+      face: mtn_ex_011.exp3.json
+      id: 100770
     nameRight: Touka
     textRight: so light leaks through from there.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 100
       pos: 0
@@ -299,7 +299,7 @@ story:
     textLeft: Least “light leaks through” made sense.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100301
       motion: 300
       pos: 0
@@ -307,20 +307,20 @@ story:
     textLeft: So it wasn’t a star...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 100701
+      face: mtn_ex_010.exp3.json
+      id: 100770
       motion: 100
       pos: 2
     nameRight: Touka
     textRight: Fixing it would’ve been a hassle, so I asked Nemu to write a poem for
       me
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: calling it the star at the end of the world.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 300
       pos: 0
@@ -328,28 +328,28 @@ story:
     textLeft: Maybe I would’ve been better off not asking...
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 100701
+      face: mtn_ex_001.exp3.json
+      id: 100770
       motion: 0
       pos: 2
     nameRight: Touka
     textRight: It’s a pretty annoying bug, or rather, @a design mistake.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 100701
+      face: mtn_ex_030.exp3.json
+      id: 100770
       motion: 300
       pos: 2
     nameRight: Touka
     textRight: It’s also involved in coordinate calculations, so the @world even began
       to break down because of it.
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: There was one time where I had to rush to reset the server...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 200
       pos: 0
@@ -357,7 +357,7 @@ story:
     textLeft: '...Wait, so that’s the truth behind the “Great Void” incident!?'
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100501
       motion: 300
       pos: 2
@@ -372,13 +372,13 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 100
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 100701
+      face: mtn_ex_010.exp3.json
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -388,7 +388,7 @@ story:
     textLeft: Ah... So then, Touka-chan.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
     nameLeft: Ui
     textLeft: The conversation got sidetracked, but what I @wanted to ask about was
@@ -404,20 +404,20 @@ story:
     textLeft: I was wondering if that was true or not.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 100701
+      face: mtn_ex_001.exp3.json
+      id: 100770
       motion: 100
       pos: 2
     nameRight: Touka
     textRight: Hmm, it depends on your definition of the ends of @a world...
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: It’s a non-Euclidean plane, so there are no large cliffs @or anything
       like that.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 0
       pos: 0
@@ -425,13 +425,13 @@ story:
     textLeft: Non... Euclide...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 100701
+      face: mtn_ex_010.exp3.json
+      id: 100770
       motion: 1
     nameRight: Touka
     textRight: For example, since the Earth is round,
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: there is no end of the world... isn’t that right?
   - chara:
@@ -441,17 +441,17 @@ story:
     textLeft: Like how if you were to keep moving in a straight @line, you’ll eventually
       return to the same place...?
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 200
     nameRight: Touka
     textRight: Yup, the land in that world isn’t spherical like Earth’s,
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: but it’s similar to that nyaa.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 300
     nameLeft: Ui

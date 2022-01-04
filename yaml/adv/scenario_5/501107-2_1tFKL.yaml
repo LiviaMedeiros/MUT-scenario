@@ -660,7 +660,7 @@ story:
       a great year together!'
   - autoTurnLast: 1
     item:
-    - path: resource/scenario/img/51011_tower_ny/51011_end.png
+    - path: resource/scenario/img/51011_tower_ny/51011_end.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -669,7 +669,7 @@ story:
     turnChangeOutTime: 1
   - autoTurnLast: 2
     item:
-    - path: resource/scenario/img/51011_tower_ny/51011_end.png
+    - path: resource/scenario/img/51011_tower_ny/51011_end.jpg
       visible: hide
     turnChangeIn: fadeIn
     turnChangeInTime: 1

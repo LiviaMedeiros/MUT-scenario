@@ -35,12 +35,12 @@ story:
     bg: bg_adv_21076.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -56,7 +56,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 200
     nameRight: Felicia
@@ -69,7 +69,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -86,13 +86,13 @@ story:
     textRight: for our plan to transmit our voices beyond the End @of the World...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
     nameLeft: Felicia
     textLeft: The End of the World?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -100,7 +100,7 @@ story:
     textLeft: So that’s why you said you’re just like us!
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 1
       pos: 2
@@ -112,7 +112,7 @@ story:
     textRight: You’re also... aiming for the End of the World...?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -120,7 +120,7 @@ story:
     textLeft: Yup!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 200
       pos: 0
@@ -129,7 +129,7 @@ story:
       Star.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 0
       pos: 2
@@ -137,7 +137,7 @@ story:
     textRight: '...Eh...? At the base of... the Wishing Star?'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 100
       pos: 0
@@ -145,7 +145,7 @@ story:
     textLeft: Yea! Ya think there’s somethin’ funny about that?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       lipSynch: 0
       motion: 300
@@ -154,7 +154,7 @@ story:
     textLeft: '...'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 300
       pos: 2
@@ -167,7 +167,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 1
       pos: 0
@@ -187,7 +187,7 @@ story:
     textRight: '...the End of the World... isn’t at the base of @the Wishing Star.'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       lipSynch: 0
       motion: 0
@@ -220,12 +220,12 @@ story:
     bg: bg_adv_21076.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -243,7 +243,7 @@ story:
     textLeft: Just now, you said it’s nearby!?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 0
       pos: 2
@@ -251,7 +251,7 @@ story:
     textRight: Yeah... It’s not more than a few hours away.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 200
       pos: 0
@@ -259,7 +259,7 @@ story:
     textLeft: Then that means the End of the World is right @ahead!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -271,14 +271,14 @@ story:
     textRight: '...Beyond that, the land goes on forever.'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 100
     nameLeft: Felicia
     textLeft: Huh...? Ain’t there a cliff?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 1
       pos: 2
@@ -296,7 +296,7 @@ story:
     textLeft: Then what happens?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 200
       pos: 2
@@ -310,7 +310,7 @@ story:
     textLeft: '[chara:120302:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 0
       pos: 2
@@ -318,7 +318,7 @@ story:
     textRight: Beyond that... if you continue traveling much, much further...
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 0
       pos: 0
@@ -327,7 +327,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 300
       pos: 2
@@ -336,7 +336,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 100
     nameRight: Shigure
@@ -344,7 +344,7 @@ story:
       from...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 400
       mouthOpen: 1
@@ -353,7 +353,7 @@ story:
     textLeft: Ehh!?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 200
       pos: 0
@@ -361,7 +361,7 @@ story:
     textLeft: I don’t believe that!
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -369,7 +369,7 @@ story:
     textRight: After this... let’s go to the tower. You’ll understand @once you see.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 200
       pos: 2
@@ -378,7 +378,7 @@ story:
       end.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -386,7 +386,7 @@ story:
     textLeft: '...You’re sure about this, aren’t you?'
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -395,7 +395,7 @@ story:
   - bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 200
       pos: 0
@@ -404,7 +404,7 @@ story:
   - bgm: bgm05_event07
     chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 1
       pos: 2
@@ -418,7 +418,7 @@ story:
     textRight: but instead shaped like a huge egg or even a donut?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 100
       pos: 0
@@ -427,7 +427,7 @@ story:
       point?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -442,7 +442,7 @@ story:
     textRight: In that case... where is the end of the world?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       lipSynch: 0
       motion: 0
@@ -451,7 +451,7 @@ story:
     textRight: '...'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 200
       pos: 0
@@ -465,7 +465,7 @@ story:
     textRight: What’s up?
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -480,12 +480,12 @@ story:
     bg: bg_adv_19271.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 301100
       motion: 100
       pos: 2
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 120302
       motion: 0
       pos: 0
@@ -501,12 +501,12 @@ story:
     bg: bg_adv_21076.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
       pos: 2
@@ -523,7 +523,7 @@ story:
     textRight: Yeah... maybe...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 102900
       motion: 100
       pos: 2
@@ -531,7 +531,7 @@ story:
     textRight: Maybe she came from the other side of the tower.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120301
       motion: 300
       pos: 0
@@ -540,14 +540,14 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       pos: 2
     nameRight: Shigure
     textRight: I... don’t think it does on this world’s surface.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       lipSynch: 0
       motion: 0

@@ -15,7 +15,7 @@ story:
     bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 0
       pos: 1
@@ -40,7 +40,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 100301
       motion: 101
       pos: 0
@@ -48,7 +48,7 @@ story:
     textLeft: I’ll be coming in, Ui-chan!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
     nameLeft: Tsuruno
     textLeft: Are you house-sitting with Felicia today?
@@ -59,7 +59,7 @@ story:
     textRight: Yup, Onee-chan is out shopping with Sana-san.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100501
       motion: 100
       pos: 0
@@ -67,7 +67,7 @@ story:
     textLeft: Yachiyo has magazine work, so great timin’, @Tsuruno.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101501
       motion: 200
       pos: 2
@@ -75,7 +75,7 @@ story:
     textRight: It won’t be as lonely with three people!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 1
       pos: 0
@@ -83,7 +83,7 @@ story:
     textLeft: Do y’all want to play something?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 300
       pos: 2
@@ -91,13 +91,13 @@ story:
     textRight: Yeah, sure.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 100301
     nameLeft: Tsuruno
     textLeft: Cards? Sugoroku[e]?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100501
       motion: 0
       pos: 2
@@ -105,7 +105,7 @@ story:
     textRight: Ain’t those childish?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 100
       pos: 2
@@ -114,13 +114,13 @@ story:
       before?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
     nameRight: Ui
     textRight: Do you all still play it...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100501
       motion: 200
       pos: 0
@@ -128,7 +128,7 @@ story:
     textLeft: Ohhh, hells yeah I do! Ya wanna play together, Ui?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101501
       motion: 400
       pos: 2
@@ -136,7 +136,7 @@ story:
     textRight: Yeah!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 100
       pos: 0
@@ -166,12 +166,12 @@ story:
     bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 0
       pos: 2
@@ -186,7 +186,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100501
       motion: 100
       pos: 2
@@ -212,12 +212,12 @@ story:
     bg: bg_adv_20644.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 120302
       motion: 0
       pos: 2
@@ -236,7 +236,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -254,18 +254,18 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 103800
       lipSynch: 0
       motion: 100
       pos: 1
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 303500
       motion: 100
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 103900
       motion: 0
       pos: 2
@@ -273,7 +273,7 @@ story:
     textCenter: Yeah!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 103900
       lipSynch: 0
       motion: 100
@@ -297,12 +297,12 @@ story:
     bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 0
       pos: 0
@@ -328,7 +328,7 @@ story:
     textRight: I don’t know this game...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 200
       pos: 0
@@ -336,7 +336,7 @@ story:
     textLeft: That’s because it’s invite-only.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100501
       motion: 100
       pos: 2
@@ -349,7 +349,7 @@ story:
     textLeft: The game hasn’t officially launched and is still in @beta testing.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 300
       pos: 0
@@ -357,7 +357,7 @@ story:
     textLeft: So it’s still going...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 1
       pos: 2
@@ -369,7 +369,7 @@ story:
     textRight: What kind of game is it?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100501
       motion: 0
       pos: 0
@@ -377,7 +377,7 @@ story:
     textLeft: '...You can only watch...'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 400
       pos: 2
@@ -385,7 +385,7 @@ story:
     textRight: Eh?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 100301
       motion: 101
       pos: 0
@@ -393,7 +393,7 @@ story:
     textLeft: It’s just as Felicia said!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 1
       pos: 0
@@ -405,14 +405,14 @@ story:
     textLeft: AI that look just like us move around on their own.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 100
     nameRight: Ui
     textRight: That sounds kind of interesting!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100501
       motion: 100
       pos: 0
@@ -420,7 +420,7 @@ story:
     textLeft: Really...? @I already got bored of it.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 0
       pos: 2
@@ -428,7 +428,7 @@ story:
     textRight: Is the world inside the game similar to ours?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 100
       pos: 0
@@ -454,7 +454,7 @@ story:
     textLeft: and the entire world’s covered in a huge field of @snow.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100501
       motion: 0
       pos: 2
@@ -467,13 +467,13 @@ story:
     textLeft: Yup, the places where people live are covered by @magic domes.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 100301
     nameLeft: Tsuruno
     textLeft: Each town has its own unique characteristics.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 0
       pos: 0
@@ -485,7 +485,7 @@ story:
     textLeft: People aren’t “born” but just suddenly appear one @day in town.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       lipSynch: 0
       motion: 0
@@ -494,7 +494,7 @@ story:
     textRight: '...'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 100
       pos: 0
@@ -512,7 +512,7 @@ story:
     textRight: Do you know who made this game...?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 100
       pos: 0
@@ -520,7 +520,7 @@ story:
     textLeft: Hohh? @I don’t know.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 200
       pos: 1
@@ -533,7 +533,7 @@ story:
     textRight: It’s just a hunch, but...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 100
       pos: 2
@@ -542,12 +542,12 @@ story:
   - bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 400
       mouthOpen: 1
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 400
       mouthOpen: 1

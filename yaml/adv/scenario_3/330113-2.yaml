@@ -4,7 +4,7 @@ story:
   - bg: bg_adv_47105.jpg
     bgm: bgm01_anime12
     chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
       motion: 100
@@ -28,13 +28,13 @@ story:
     nameLeft: Kako
     textLeft: Wh-what should we do...?
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_030.exp.json
       id: 300500
       motion: 0
     textRight: It's simple.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
       motion: 300
@@ -46,20 +46,20 @@ story:
       motion: 400
     textLeft: But...there's so many of them!
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
       motion: 0
     textRight: Their numbers do not matter.@It is either defeat or be defeated.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
       motion: 300
     textRight: That's what it means to take your life,@your destiny, into your own
       hands.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
       motion: 0
@@ -71,7 +71,7 @@ story:
       motion: 300
     textLeft: '...Into your...own hands...'
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
     textRight: You stay here, all right?
@@ -82,12 +82,12 @@ story:
       motion: 1
     textLeft: O-okay...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
     textRight: Now then...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300500
       mouthOpen: 1
@@ -127,7 +127,6 @@ story:
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 100
-      mouthOpen: 1
       pos: 0
       soulGem: 0
     nameLeft: Kako
@@ -150,7 +149,6 @@ story:
       face: mtn_ex_030.exp.json
       id: 301101
       motion: 300
-      mouthOpen: 1
     textLeft: If I...become a Magical Girl...
   - chara:
     - id: 810000
@@ -167,7 +165,6 @@ story:
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 100
-      mouthOpen: 1
     textLeft: But... How can I...?
   - chara:
     - id: 810000
@@ -177,9 +174,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 300
-      mouthOpen: 1
     textLeft: I... I...!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

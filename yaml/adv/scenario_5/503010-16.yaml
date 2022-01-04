@@ -21,10 +21,10 @@ story:
       pos: 2
     item:
     - opacity: 90
-      path: resource/scenario/img/black.jpg
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
-      scale: 1
+      scale: 2
       setVisible: 1
       zOrder: charaFront
     turnChangeIn: fadeIn
@@ -40,12 +40,13 @@ story:
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/black.png
       setVisible: 0
     turnChangeIn: fadeIn
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -68,7 +69,8 @@ story:
     turnChangeIn: fadeIn
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -111,10 +113,10 @@ story:
       pos: 1
     item:
     - opacity: 90
-      path: resource/scenario/img/black.jpg
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
-      scale: 1
+      scale: 2
       setVisible: 1
       zOrder: charaFront
     narration: I take what she offers without thanks,@then I start complaining to
@@ -394,7 +396,7 @@ story:
     textLeft: I barely even eat popsicles anymore, you@know?
   - autoTurnLast: 2
     item:
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/black.png
       setVisible: 0
     surround: stop
     turnChangeIn: fadeIn

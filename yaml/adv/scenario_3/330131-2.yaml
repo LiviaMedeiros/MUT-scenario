@@ -9,7 +9,7 @@ story:
       motion: 0
       pos: 1
     turnChangeIn: fadeIn
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm01_anime03
     chara:
     - cheek: 0

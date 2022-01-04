@@ -3,7 +3,7 @@ story:
   group_1:
   - bg: bg_adv_21221.jpg
     chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 0
@@ -20,9 +20,7 @@ story:
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 302701
+    - id: 302701
     textRight: Well....
   - bgm: bgm01_anime03
     chara:
@@ -32,13 +30,11 @@ story:
       motion: 0
     textRight: I definitely didn't manipulate anyone!
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 300501
+    - id: 300501
       lipSynch: 0
     textLeft: '...'
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_030.exp.json
       id: 300501
       motion: 300
@@ -49,21 +45,17 @@ story:
       id: 302701
     textRight: I just...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 0
     textLeft: Yes?
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 302701
+    - id: 302701
       motion: 1
     textRight: It's just...Konoha, you know. She's pretty@introverted.
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 302701
+    - id: 302701
     textRight: She's not big on socializing, though she's@better than she was.
   - chara:
     - cheek: 0
@@ -73,15 +65,11 @@ story:
     textRight: Anyway, this whole thing, I thought it might@be a good way to get her
       to open up...
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300501
+    - id: 300501
       motion: 1
     textLeft: Care to elaborate?
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 302701
+    - id: 302701
       motion: 1
     textRight: It was the first time we fought with@people other than just our group
       of three.
@@ -98,9 +86,7 @@ story:
     textRight: Saying things like, "We should just stick@to our group" and "Can't
       we call it all off?"
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300501
+    - id: 300501
       motion: 100
     textLeft: I see...
   - chara:
@@ -110,9 +96,7 @@ story:
       motion: 0
     textRight: But since we fought that Witch together,@Konoha's changed a little.
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 302701
+    - id: 302701
     textRight: She talked with you and the others, and@fought alongside you all.
   - chara:
     - cheek: 0
@@ -126,7 +110,7 @@ story:
       id: 302701
     textRight: She seemed like she had a good time!@That's what I think, at least.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_030.exp.json
       id: 300501
       motion: 0
@@ -144,15 +128,13 @@ story:
       id: 302701
     textRight: I definitely got the vibe that she really@enjoyed it, somehow.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
       lipSynch: 0
     textLeft: '...'
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 302701
+    - id: 302701
     textRight: Also, I think it's a good thing for us to@connect with other Kamihama
       Magical Girls.
   - chara:

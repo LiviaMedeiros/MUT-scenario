@@ -423,13 +423,13 @@ story:
       motion: 400
       pos: 2
     - id: 6001
-      name: Yukika
+      name: sprite_0
       pos: 0
     nameRight: Yukika
     textRight: '[chara:6001:effect_7000_attack01][surround:3017A03]Eh...!'
   - chara:
     - id: 6001
-      name: ""
+      name: sprite_0
       pos: 0
     nameLeft: ""
     textBg: shout
@@ -438,7 +438,7 @@ story:
     chara:
     - effect: fadeout
       id: 6001
-      name: Yukika
+      name: sprite_0
     textClear: 1
   - chara:
     - cheek: 0
@@ -501,7 +501,7 @@ story:
     bgm: stop
     chara:
     - id: 6001
-      name: Yukika
+      name: sprite_0
       pos: 1
     turnChangeIn: fadeIn
   - autoTurnLast: 0.5
@@ -510,14 +510,14 @@ story:
     chara:
     - effect: shake
       id: 6001
-      name: Yukika
+      name: sprite_0
     flashEffect: flashRed2
     se: 3001_chara_damage
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
       id: 6001
-      name: Yukika
+      name: sprite_0
     se: 3102_enemy_dead
     textClear: 1
   - autoTurnLast: 0.5

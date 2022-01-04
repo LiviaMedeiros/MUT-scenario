@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19231.jpg
     bgm: bgm03_story09
     chara:
     - cheek: 0
@@ -89,7 +89,7 @@ story:
     textLeft: Hmph...@you don't give up, do you?
   - nameNarration: Manaka
     narration: This is my home.@The restaurant, Walnut's!
-    narrationBg: bg_adv_21221.jpg
+    narrationBg: bg_adv_19221.jpg
     narrationEffect: in
   - narration: Ever since I was a little girl,@I spent hours in this place...@There's
       so many memories here...@I grew up watching my father cook,@all while improving
@@ -161,7 +161,7 @@ story:
     textLeft: '...and made enough food for a small party.'
   - bgm: bgm03_story02
     narration: Our restaurant, Walnut's...@Was once a popular place@to eat among celebrities...
-    narrationBg: bg_adv_21221.jpg
+    narrationBg: bg_adv_19221.jpg
     narrationEffect: in
   - narration: But at some point, I don't know...@Something changed.@Now, instead
       of attracting@celebrities, the only thing our@restaurant attracts is dust...
@@ -240,5 +240,5 @@ story:
     textRight: A new, big opportunity?
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

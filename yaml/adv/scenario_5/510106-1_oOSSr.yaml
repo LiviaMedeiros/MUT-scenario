@@ -262,13 +262,13 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 402900
+      id: 831100
       motion: 0
       pos: 2
     nameRight: Perenelle
     textRight: Yes. Though I'm certain the church is now a@nesting ground for Witches.
   - chara:
-    - id: 402900
+    - id: 831100
     textRight: Take precautions.
   - chara:
     - id: 402101

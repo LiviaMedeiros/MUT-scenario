@@ -78,7 +78,7 @@ story:
     - id: 810000
       motion: 0
       pos: 0
-      posX: 0
+      posX: -50
       posY: 0
     nameLeft: Qube
     textLeft: There are French forces north of Orléans@as well.
@@ -113,7 +113,7 @@ story:
     - id: 810000
       motion: 0
       pos: 0
-      posX: 0
+      posX: -50
       posY: 0
     nameLeft: Qube
     textLeft: She may not be a Magical Girl, but she does@have the potential.

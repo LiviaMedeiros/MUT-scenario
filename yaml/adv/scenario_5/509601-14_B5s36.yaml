@@ -117,11 +117,11 @@ story:
         - fadeTo:
             duration: 0.8
             opacity: 0
+      iPhoneXScale: 1
       opacity: 255
-      path: resource/scenario/img/black.jpg
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
-      scale: 1
       setVisible: 1
       zOrder: messageFront
     se: 7211_souljem_02

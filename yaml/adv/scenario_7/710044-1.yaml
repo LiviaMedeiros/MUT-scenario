@@ -582,7 +582,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_011.exp3.json
-      id: 100201
+      id: 100202
       lipSynch: 0
       motion: 0
       pos: 1
@@ -614,7 +614,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp3.json
-      id: 100201
+      id: 100202
       motion: 200
       pos: 1
     nameCenter: Yachiyo

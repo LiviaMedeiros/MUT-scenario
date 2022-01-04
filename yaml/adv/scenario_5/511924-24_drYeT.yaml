@@ -5,15 +5,15 @@ story:
     bg: bg_adv_narration.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 100701
+      face: mtn_ex_010.exp3.json
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 0
       pos: 0
@@ -36,15 +36,15 @@ story:
     textLeft: you’ll never reach it?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 100701
+      face: mtn_ex_050.exp3.json
+      id: 100770
       motion: 100
       pos: 2
     nameRight: Touka
     textRight: Hmm, I mean you can go directly underneath it.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 0
       pos: 0
@@ -52,8 +52,8 @@ story:
     textLeft: Eh...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 100701
+      face: mtn_ex_011.exp3.json
+      id: 100770
       motion: 200
       pos: 2
     nameRight: Touka
@@ -61,8 +61,8 @@ story:
       special at all!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 100701
+      face: mtn_ex_010.exp3.json
+      id: 100770
     nameRight: Touka
     textRight: It’s more like the base of Polaris.
   - chara:
@@ -72,11 +72,11 @@ story:
     textLeft: Polaris is the star that can always be seen in the @north, right...?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 1
       pos: 0
-    - id: 100701
+    - id: 100770
       motion: 0
     nameLeft: Tsuruno
     textLeft: '...From what I recall, if you keep going straight @towards Polaris,'
@@ -86,7 +86,7 @@ story:
     textLeft: Polaris will seem to gradually rise higher and higher @in the sky
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 100
     nameLeft: Tsuruno
@@ -94,51 +94,51 @@ story:
       above you.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 100701
+      face: mtn_ex_011.exp3.json
+      id: 100770
       motion: 201
       pos: 2
     nameRight: Touka
     textRight: Just like that! So the North Pole is at the base of @Polaris.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 1
     nameRight: Touka
     textRight: Kuhu...[chara:100701:lipSynch_0][wait:0.8][chara:100701:cheek_0][chara:100701:face_mtn_ex_010.exp.json][chara:100701:lipSynch_1]and
       now a question for you! Is the North Pole the end of the world?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 1
       pos: 0
     nameLeft: Ui
     textLeft: The end of the world, or rather... huh? @Maybe kinda... the middle-ish?
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: It is a unique point, but it’s neither the end nor the middle.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     nameRight: Touka
     textRight: Well, the coordinates of the Wishing Star are @incredibly close to
       the ground surface.
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: When you get closer, it won’t look nearly as high up @as Polaris would,
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 100701
+      face: mtn_ex_011.exp3.json
+      id: 100770
       motion: 200
       pos: 2
     nameRight: Touka
     textRight: but you can get to the base of the Wishing Star.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 100
       pos: 0
@@ -152,7 +152,7 @@ story:
   - bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100301
       motion: 300
       pos: 0
@@ -160,7 +160,7 @@ story:
     textLeft: Is that really... a good thing?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 0
       pos: 2
@@ -179,8 +179,8 @@ story:
     textLeft: It’s just a place at the base of the Wishing Star, @isn’t it?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 100701
+      face: mtn_ex_011.exp3.json
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -190,7 +190,7 @@ story:
     textRight: Correct~! @As expected of Ms. Mightiest.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 300
       pos: 2
@@ -218,7 +218,7 @@ story:
     textLeft: Isn’t that way too cruel...?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100501
       lipSynch: 0
       motion: 300
@@ -227,8 +227,8 @@ story:
     textRight: '...'
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 100701
+      face: mtn_ex_001.exp3.json
+      id: 100770
       motion: 1
       pos: 2
     - id: 100301
@@ -237,7 +237,7 @@ story:
     textRight: The story about the Wishing Star at the End of the World is based on
       Nemu’s poem.
   - chara:
-    - id: 100701
+    - id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -247,12 +247,12 @@ story:
     bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100301
       motion: 0
       pos: 0
@@ -282,7 +282,7 @@ story:
     textLeft: They must have been traveling for an incredibly @long time...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100501
       motion: 100
       pos: 2
@@ -290,7 +290,7 @@ story:
     textRight: And they look just like us too.
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 100301
       motion: 100
       pos: 0
@@ -302,7 +302,7 @@ story:
     textRight: Jus’ the kinda game that kid could make.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 100
       pos: 2
@@ -315,7 +315,7 @@ story:
       a magical girl...?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 0
       pos: 0
@@ -323,7 +323,7 @@ story:
     textLeft: Ah, maybe-
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 100301
       motion: 101
       pos: 0
@@ -331,7 +331,7 @@ story:
     textLeft: The game itself could be magical.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 101501
       motion: 200
     nameRight: Ui
@@ -346,12 +346,12 @@ story:
     narrationEffect: in
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 400
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 400
       pos: 2
@@ -360,7 +360,7 @@ story:
     textCenter: '!?'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100501
       motion: 0
       pos: 0
@@ -381,7 +381,7 @@ story:
       Onee-chan.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 100
     nameRight: Ui
@@ -396,7 +396,7 @@ story:
   - bgm: bgm03_story01
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 200
       pos: 0
@@ -405,7 +405,7 @@ story:
     textLeft: Was that your ringtone?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 1
       pos: 2
@@ -413,7 +413,7 @@ story:
     textRight: You’re a fan? Didn’t know that.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 0
       pos: 2
@@ -422,7 +422,7 @@ story:
       up as my incoming ringtone.'
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 100301
       motion: 0
       pos: 0
@@ -430,7 +430,7 @@ story:
     textLeft: You don’t have to do what Rena says...
   - chara:
     - cheek: 1
-      face: mtn_ex_041.exp.json
+      face: mtn_ex_041.exp3.json
       id: 101501
       motion: 100
       pos: 2
@@ -440,12 +440,12 @@ story:
     bg: bg_adv_21111.jpg
     chara:
     - cheek: 1
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101501
       motion: 1
       pos: 0
     - cheek: 1
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 100901
       motion: 200
       pos: 2
@@ -457,12 +457,12 @@ story:
     bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 0
       pos: 0
     - cheek: 1
-      face: mtn_ex_041.exp.json
+      face: mtn_ex_041.exp3.json
       id: 101501
       motion: 0
       pos: 2
@@ -477,7 +477,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 100
       pos: 2

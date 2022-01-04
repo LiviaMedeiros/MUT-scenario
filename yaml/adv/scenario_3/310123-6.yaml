@@ -200,7 +200,7 @@ story:
     narration: Now I can fight my battles,@armed with my true feelings!
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
-  - bg: bg_adv_21025.jpg
+  - bg: bg_adv_21491.jpg
     bgm: bgm03_story02
     chara:
     - cheek: 0

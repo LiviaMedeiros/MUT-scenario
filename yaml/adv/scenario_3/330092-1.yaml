@@ -186,6 +186,7 @@ story:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 300901
+      lipSynch: 0
       motion: 0
     textLeft: '*Gasp*'
   - chara:
@@ -228,5 +229,5 @@ story:
     textRight: I'm glad to hear that.@But I'm not a rabbit.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

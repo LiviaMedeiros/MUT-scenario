@@ -12,12 +12,12 @@ story:
     bgm: bgm03_story13
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 0
       pos: 2
@@ -39,14 +39,14 @@ story:
     textLeft: '...Woah, you’re right!'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120302
       motion: 200
     nameLeft: Felicia
     textLeft: Our strategy was a total success!?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 304200
       motion: 200
       pos: 2
@@ -60,7 +60,7 @@ story:
     textRight: It’s only one small step, but it’s a giant first leap!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 304200
       motion: 1
       mouthOpen: 0
@@ -68,7 +68,7 @@ story:
     textRight: '...That’s for sure!'
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 100
       pos: 0
@@ -80,14 +80,14 @@ story:
     textLeft: but I believe...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 102900
       motion: 200
     nameLeft: Shigure
     textLeft: ' our actions prompted a reaction from the Three @Magi.'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -95,7 +95,7 @@ story:
     textLeft: That’s really amazing!
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 301700
       motion: 100
       pos: 2
@@ -103,7 +103,7 @@ story:
     textRight: But... isn’t it somewhat frightening too?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       motion: 0
       pos: 0
@@ -120,7 +120,7 @@ story:
     textRight: that would mean it doesn’t want us approaching it, correct?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 100
       pos: 0
@@ -137,7 +137,7 @@ story:
     textRight: has not happened many times before.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 100
       pos: 0
@@ -160,7 +160,7 @@ story:
       world.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 0
       pos: 2
@@ -168,14 +168,14 @@ story:
     textRight: Ah...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 103000
       motion: 1
     nameRight: Hagumu
     textRight: And yet this time... they instantly stopped time...?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 301700
       motion: 200
       pos: 0
@@ -184,13 +184,13 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301700
     nameLeft: Nanase Yukika
     textLeft: into forbidden territory that should not be @touched...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 103000
       motion: 400
     nameRight: Hagumu
@@ -201,7 +201,7 @@ story:
     textRight: If that really is the case... what’s going to @happen to us?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 102900
       motion: 300
       pos: 0
@@ -209,7 +209,7 @@ story:
     textLeft: '...It’s unclear... but...'
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
     nameLeft: Shigure
@@ -221,7 +221,7 @@ story:
     textRight: Eh...? What do you mean?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120301
       motion: 101
       pos: 0
@@ -229,7 +229,7 @@ story:
     textLeft: '...Ah, that makes sense!'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 120302
       motion: 100
       pos: 2
@@ -237,7 +237,7 @@ story:
     textRight: What are ya two randomly goin’ on about now?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 120301
       motion: 0
     nameLeft: Tsuruno
@@ -253,14 +253,14 @@ story:
     textLeft: then by now, they’ve decided on a solution, yeah?
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 120301
       motion: 201
     nameLeft: Tsuruno
     textLeft: Because time has restarted for us!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 120302
       lipSynch: 0
       motion: 400
@@ -268,7 +268,7 @@ story:
     textRight: '[chara:120302:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102900
       motion: 0
       pos: 2

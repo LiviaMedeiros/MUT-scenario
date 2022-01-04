@@ -75,7 +75,7 @@ story:
     textCenter: It was there from the beginning.
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
-    bg: bg_adv_21025.jpg
+    bg: bg_adv_21491.jpg
     chara:
     - cheek: 0
       eyeClose: 1

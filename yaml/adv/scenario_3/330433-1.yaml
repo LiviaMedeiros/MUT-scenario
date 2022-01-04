@@ -63,7 +63,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -79,17 +79,17 @@ story:
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     textRight: Yup!
   - chara:
-    - id: 100701
+    - id: 100770
     textRight: Since the Liberty Academy is pretty global,@there'll be lots of different
       people there.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       motion: 200
     textRight: Sakurako will blend in just fine!
   - chara:
@@ -109,7 +109,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -118,10 +118,10 @@ story:
     nameRight: Nemu
     textRight: I think she's better off if she doesn't know@anyone at school.
   - chara:
-    - id: 101403
+    - id: 101471
     textRight: If she had a friend there, she would rely on@them too much.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
     textRight: It's best to avoid parental interference if@she is going to become
       independent.

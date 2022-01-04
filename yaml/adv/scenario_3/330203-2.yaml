@@ -162,7 +162,7 @@ story:
     textLeft: You don't have to be a Magical Girl to@learn this magic.
     turnEffect: ef_adv_02
   - autoTurnLast: 0.1
-    bg: bg_adv_21241.jpg
+    bg: bg_adv_11101.jpg
     surround: stop
     turnChangeIn: fadeIn
     turnEffect: stop

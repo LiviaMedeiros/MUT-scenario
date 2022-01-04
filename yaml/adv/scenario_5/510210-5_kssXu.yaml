@@ -346,7 +346,8 @@ story:
       motion: 1
     flashEffect: explosion
     item:
-    - path: resource/scenario/img/51065_singleraid_tart2/51065_minou_magic_circle.png
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51065_singleraid_tart2/51065_minou_magic_circle.png
       posX: 0
       posY: 0
       visible: appear

@@ -274,7 +274,7 @@ story:
     - id: 810000
       motion: 0
       pos: 0
-      posX: 0
+      posX: -50
       posY: 0
     nameLeft: ???
     textLeft: That would be me.
@@ -305,7 +305,7 @@ story:
     - id: 810000
       motion: 0
       pos: 0
-      posX: 0
+      posX: -50
       posY: 0
     nameLeft: Qube
     textLeft: My name is Qube.

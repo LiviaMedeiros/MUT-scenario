@@ -20,11 +20,11 @@ story:
       pos: 0
       soulGem: 0
     item:
-    - opacity: 120
-      path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      opacity: 120
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
-      setVisible: 1
       zOrder: messageBack
     turnChangeIn: fadeIn
   - chara:
@@ -102,7 +102,7 @@ story:
       motion: 0
       pos: 2
     item:
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/black.png
       visible: hide
     turnChangeIn: whiteIn
     turnEffect: blackPromist
@@ -245,8 +245,9 @@ story:
       soulGem: 0
       tear: 1
     item:
-    - opacity: 120
-      path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      opacity: 120
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
       setVisible: 1

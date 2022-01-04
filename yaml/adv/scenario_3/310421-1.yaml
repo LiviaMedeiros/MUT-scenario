@@ -7,7 +7,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -15,7 +15,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -23,7 +23,7 @@ story:
       pos: 0
     turnChangeIn: fadeIn
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
       pos: 2
     nameRight: Nemu
@@ -31,7 +31,7 @@ story:
       one side of the situation.'
     turnChangeOut: fadeOut
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 200
       pos: 0
     nameLeft: Touka
@@ -39,7 +39,7 @@ story:
       stand out.
   - autoTurnLast: 0.3
     chara:
-    - id: 101403
+    - id: 101471
       pos: 1
     textClear: 1
   - chara:
@@ -53,14 +53,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       motion: 300
     nameCenter: Nemu
     textCenter: '...Onee-san. I’m sorry we disturbed you.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 100
       pos: 0
     nameLeft: Touka
@@ -86,27 +86,27 @@ story:
       id: 100101
       motion: 0
       pos: 2
-    - id: 100701
+    - id: 100770
       motion: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       motion: 0
     nameRight: Iroha
     textRight: What are you talking about today?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       pos: 0
     nameLeft: Touka
     textLeft: Well, it’s about userName…
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     - effect: fadeout
       id: 100101
     textClear: 1
@@ -128,7 +128,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -137,14 +137,14 @@ story:
     nameRight: Iroha
     textRight: '...userName?'
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 400
     nameLeft: Touka
     textLeft: That’s right. For example, isn’t Onee-sama curious
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       pos: 0
     nameLeft: Touka
     textLeft: about questions like how userName came to exist or @why it’s in this
@@ -152,7 +152,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -161,7 +161,7 @@ story:
     nameLeft: Nemu
     textLeft: Its role as a container for Ui’s soul should be over.
   - chara:
-    - id: 101403
+    - id: 101471
     nameLeft: Nemu
     textLeft: Of course, it still can’t be a regular Kyubey.
   - chara:
@@ -180,7 +180,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -191,7 +191,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 100
       pos: 0
     nameLeft: Touka
@@ -215,25 +215,25 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 0
       pos: 2
-    - id: 100701
+    - id: 100770
       motion: 1
     nameRight: Nemu
     textRight: Then let’s do observational research.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       pos: 0
     nameLeft: Touka
     textLeft: If that’s how it has to be~
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 400
       pos: 0
     nameLeft: Touka
@@ -241,13 +241,13 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       pos: 0
     nameLeft: Touka
     textLeft: can also yield fruitful information.
   - chara:
     - cheek: 0
-      id: 101403
+      id: 101471
       pos: 2
     nameRight: Nemu
     textRight: To sum it up…
@@ -257,7 +257,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       motion: 100
       pos: 2
     nameRight: Nemu
@@ -266,7 +266,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       pos: 0
     nameLeft: Touka
@@ -274,9 +274,9 @@ story:
   - autoTurnLast: 0.1
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     - effect: fadeout
-      id: 100701
+      id: 100770
     textClear: 1
   - autoTurnLast: 0.1
     bg: bg_adv_21201.jpg
@@ -285,7 +285,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -316,7 +316,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       motion: 1
       pos: 0
     nameLeft: Nemu
@@ -324,7 +324,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -352,7 +352,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -360,7 +360,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -369,19 +369,19 @@ story:
     nameRight: Nemu
     textRight: Good, it hasn’t gotten that far.
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
     textLeft: Leisurely strolling along, just like a stray cat.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       lipSynch: 0
       pos: 2
     nameRight: Nemu
     textRight: …
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
       pos: 2
     nameRight: Nemu
@@ -389,18 +389,18 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       motion: 100
       pos: 0
     nameLeft: Touka
     textLeft: '...Are you saying,'
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
     textLeft: because userName contained Ui’s soul, there’s a chance @it was influenced
       by that?
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 0
       pos: 2
     nameRight: Nemu
@@ -408,25 +408,25 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       pos: 0
     nameLeft: Touka
     textLeft: The probability isn’t zero, but it’s too early to form @any conclusions.
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: That is true.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       motion: 200
     nameRight: Nemu
     textRight: But it spontaneously going for a walk is something that’s inherently
       interesting.
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: This could be evidence it has feelings and free will.
   - autoTurnLast: 0.3
@@ -435,7 +435,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -443,7 +443,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -451,21 +451,21 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - chara:
-    - id: 100701
+    - id: 100770
       lipSynch: 0
     nameLeft: Touka
     textLeft: …[wait:0.8][chara:100701:cheek_0][chara:100701:lipSynch_1]Um.
     turnChangeOut: fadeOut
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
     textLeft: This is the place that userName wanted to visit with its @free will?
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - autoTurnLast: 1.5
     chara:
@@ -507,7 +507,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -515,7 +515,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -526,24 +526,24 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       motion: 200
       pos: 2
     nameRight: Nemu
     textRight: This is also very interesting, isn’t it?
   - chara:
-    - id: 101403
+    - id: 101471
       pos: 2
     nameRight: Nemu
     textRight: Compared to the Kyubeys that disregard everything unrelated to their
       goal of collecting energy,
   - chara:
-    - id: 101403
+    - id: 101471
       pos: 2
     nameRight: Nemu
     textRight: it’s different…
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 0
       pos: 2
     nameRight: Nemu
@@ -551,19 +551,19 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101403
+      id: 101471
       motion: 100
       pos: 2
     nameRight: Nemu
     textRight: Being willing to watch a comedy show is evidence it @has emotions.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
       pos: 0
     nameLeft: Touka
     textLeft: Is that really it, nyaa?
   - chara:
-    - id: 100701
+    - id: 100770
       pos: 0
     nameLeft: Touka
     textLeft: You can’t deny it might have been attracted to the magic coming from
@@ -571,9 +571,9 @@ story:
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - chara:
     - cheek: 0
@@ -609,7 +609,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -617,7 +617,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -626,13 +626,13 @@ story:
     nameLeft: Touka
     textLeft: And it’s definitely not laughing.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 300
       pos: 2
     nameRight: Nemu
     textRight: Well… you see…
   - chara:
-    - id: 101403
+    - id: 101471
       pos: 2
     nameRight: Nemu
     textRight: Maybe that’s because it’s not what userName finds @funny…
@@ -686,7 +686,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -694,7 +694,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -705,7 +705,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       motion: 200
       pos: 2
     nameRight: Nemu

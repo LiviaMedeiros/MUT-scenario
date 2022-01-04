@@ -26,7 +26,7 @@ story:
       motion: 100
     textLeft: A...Magical Girl?
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_030.exp.json
       id: 300501
       motion: 0
@@ -45,11 +45,10 @@ story:
       id: 301101
     textLeft: I thought that only happened in books@and manga...?
   - chara:
-    - cheek: 0
-      id: 300501
+    - id: 300501
     textRight: Oh no. It happens in reality as well.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 300
@@ -62,7 +61,7 @@ story:
     textLeft: You are?!@[chara:301101:cheek_1:face_mtn_ex_030.exp.json]But, I don't
       know...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 0
@@ -74,19 +73,18 @@ story:
       motion: 300
     textLeft: Th-that's, uh...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_030.exp.json
       id: 300501
       motion: 100
     textRight: Well, I will not ask you to believe@everything all at once.
   - chara:
-    - cheek: 0
-      id: 300501
+    - id: 300501
       motion: 0
     textRight: Just know that what we are about to tell@you all comes from objective
       observation.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
     textRight: So please keep that in mind.
@@ -97,12 +95,12 @@ story:
       motion: 0
     textLeft: Okay... I will...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
     textRight: We Magical Girls spend day and@night fighting against a certain enemy...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 300
@@ -123,7 +121,7 @@ story:
     - id: 810000
     textRight: Basically, they are the source of@all that is wrong with the world.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 0
@@ -131,12 +129,12 @@ story:
     nameRight: Nanaka
     textRight: It is up to us Magical Girls to defeat them.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_030.exp.json
       id: 300501
     textRight: There are many Witches currently causing@trouble here in Kamihama...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
     textRight: I think one of them might have been involved@in burning down your home.
@@ -146,7 +144,7 @@ story:
       id: 301101
     textLeft: They helped[chara:301101:cheek_1:motion_100] burn down my home?!
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
     textRight: From what my friends and I have seen,@it seems likely...
@@ -157,7 +155,7 @@ story:
       motion: 300
     textLeft: No way...
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
     textRight: Anyway, that is the truth of the matter.
@@ -183,7 +181,6 @@ story:
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 400
-      mouthOpen: 1
     textLeft: Oh! A-Are you saying I should...@Become a Magical Girl?
   - chara:
     - cheek: 1
@@ -208,7 +205,7 @@ story:
       motion: 100
     textLeft: Really?!@I could...wish my home back?
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 0
@@ -216,7 +213,7 @@ story:
     nameRight: Nanaka
     textRight: If you become a Magical Girl, it is possible.
   - chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 100
@@ -228,11 +225,11 @@ story:
     textLeft: But what?
   - bgm: stop
     chara:
-    - cheek: 0
+    - cheek: -1
       face: mtn_ex_020.exp.json
       id: 300501
     textRight: Are you willing to sacrifice your life@for it?
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...
