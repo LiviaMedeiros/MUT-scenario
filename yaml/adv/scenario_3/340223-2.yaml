@@ -13,6 +13,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     turnChangeIn: fadeIn
   - bgm: bgm03_story10
     chara:
@@ -108,6 +109,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     turnChangeIn: fadeIn
     turnEffect: stop
   - autoTurnLast: 0.5
@@ -185,6 +187,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     - id: 402200
       pos: 0
     nameRight: Qube
@@ -206,6 +209,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     turnChangeIn: fadeIn
     turnEffect: stop
   - autoTurnLast: 0.01

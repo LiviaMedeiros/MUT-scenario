@@ -445,7 +445,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -459,21 +459,21 @@ story:
     textLeft: Hello...
     turnChangeOut: fadeOut
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 100
     nameRight: Nemu
     textRight: My apologies, I’d like to continue our conversation @from earlier.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       motion: 1
       pos: 2
     nameRight: Nemu
     textRight: For the most part, authors directly meet with @editors to discuss.
   - bgm: bgm24_story08
     chara:
-    - id: 101471
+    - id: 101403
     nameRight: Nemu
     textRight: However, there’s also a way which doesn’t require @that.
   - chara:
@@ -485,17 +485,17 @@ story:
     nameLeft: Sana
     textLeft: '...Eh…?'
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 200
     nameRight: Nemu
     textRight: In Japan, it’s customary for the author and publisher @to communicate
       directly with each other,
   - chara:
-    - id: 101471
+    - id: 101403
     nameRight: Nemu
     textRight: but overseas, a system of agents exists.
   - chara:
-    - id: 101471
+    - id: 101403
     nameRight: Nemu
     textRight: It would be the agent, not the author, who’d correspond with the publisher.
   - chara:
@@ -507,13 +507,13 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       motion: 0
       pos: 2
     nameRight: Nemu
     textRight: Mhm, it might be difficult without the right work @to show,
   - chara:
-    - id: 101471
+    - id: 101403
     nameRight: Nemu
     textRight: but I think publishing in Japan isn’t impossible.
   - chara:
@@ -543,7 +543,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       motion: 1
       pos: 2
     nameRight: Nemu
@@ -551,14 +551,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
     - eyeClose: 0
       id: 100401
       motion: 0
     nameRight: Nemu
     textRight: Still, paving the way will become a way to @help others.
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 200
     nameRight: Nemu
     textRight: People will try to live in the same manner that @pioneer did.
@@ -569,7 +569,7 @@ story:
     nameLeft: Sana
     textLeft: Someone would… for my life...
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 100
     nameRight: Nemu
     textRight: Therefore, isn’t that why you wanted to create @picture books?

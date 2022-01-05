@@ -18,7 +18,6 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
-      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
@@ -34,7 +33,6 @@ story:
   - chara:
     - effect: fadeout
       id: 760000
-      live2dName: live2d_0
     - effect: fadeout
       id: 830400
     - cheek: 0
@@ -70,13 +68,11 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
-      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 760000
-      live2dName: live2d_1
+      id: 760090
       motion: 0
       pos: 2
     textBg: shout
@@ -85,10 +81,8 @@ story:
     chara:
     - effect: fadeout
       id: 760000
-      live2dName: live2d_0
     - effect: fadeout
-      id: 760000
-      live2dName: live2d_1
+      id: 760090
     textClear: 1
   - chara:
     - cheek: 0
@@ -106,7 +100,6 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
-      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
@@ -147,7 +140,6 @@ story:
     chara:
     - effect: fadeout
       id: 760000
-      live2dName: live2d_0
   - nameLeft: ???
     textLeft: Aww, leaving so soon?
   - chara:
@@ -244,7 +236,6 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
-      live2dName: live2d_0
       motion: 0
       pos: 0
     nameLeft: ""
@@ -267,7 +258,6 @@ story:
     chara:
     - effect: shake
       id: 760000
-      live2dName: live2d_0
     flashEffect: flashRed2
     se: 6256_hit_spike_02_v
     textBg: shout
@@ -276,7 +266,6 @@ story:
     chara:
     - effect: fadeout
       id: 760000
-      live2dName: live2d_0
     se: 3102_enemy_dead
   - armatureList:
     - animation:
@@ -319,7 +308,6 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
-      live2dName: live2d_0
       motion: 0
       pos: 0
     nameLeft: ""
@@ -406,13 +394,11 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
-      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 760000
-      live2dName: live2d_1
+      id: 760090
       motion: 0
       pos: 2
   - chara:

@@ -1,7 +1,8 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 0.01
+  - bg: bg_adv_21161.jpg
+    bgm: bgm03_story04
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -9,21 +10,16 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 0
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
-      motion: 0
+      motion: 200
       mouthOpen: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_21161.jpg
-    bgm: bgm03_story04
-    chara:
-    - id: 300501
-      motion: 200
     nameLeft: Felicia
     nameRight: Nanaka
     textRight: This is the last time we @will ever fight by your side.
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -32,7 +28,7 @@ story:
       mouthOpen: 1
     textLeft: What the?! Wait a second!@I beat that Witch, didn't I?!
   - chara:
-    - cheek: -1
+    - cheek: 0
       id: 300501
       motion: 0
       mouthOpen: 0
@@ -41,24 +37,24 @@ story:
     - cheek: 1
       face: mtn_ex_020.exp.json
       id: 100501
-      motion: 200
+      motion: 0
       mouthOpen: 0
     textLeft: Why?!@Why not?!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300501
       mouthOpen: 0
     textRight: A win is a win, but consider the situation.
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 1
       mouthOpen: 0
     textRight: We didn't function as a team at all.
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300501
       mouthOpen: 0
@@ -67,7 +63,6 @@ story:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 100501
-      motion: 0
       mouthOpen: 0
     textLeft: Ngh...
   - chara:
@@ -78,7 +73,7 @@ story:
       mouthOpen: 0
     textRight: You're powerful.@I'll grant you that.
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 100
@@ -140,7 +135,7 @@ story:
       mouthOpen: 0
     textLeft: Fine, have it your way...
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300501
       motion: 0
@@ -166,7 +161,7 @@ story:
       mouthOpen: 0
     textLeft: So don't call me if some super@duper powerful Witch shows up!
   - chara:
-    - cheek: -1
+    - cheek: 0
       id: 300501
       motion: 1
       mouthOpen: 0
@@ -181,7 +176,7 @@ story:
       mouthOpen: 0
     textLeft: HMPH!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 100
@@ -222,7 +217,7 @@ story:
     nameLeft: Kako
     textLeft: Nanaka...@I'm... I'm worried about her.
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300501
       motion: 0
@@ -231,12 +226,12 @@ story:
     nameRight: Nanaka
     textRight: Understandably... @She's unpredictable. That's worrisome...
   - chara:
-    - cheek: -1
+    - cheek: 0
       id: 300501
       mouthOpen: 0
     textRight: But fighting alongside her@would only invite more trouble...
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       mouthOpen: 0

@@ -1,7 +1,8 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 0.01
+  - bg: bg_adv_13021.jpg
+    bgm: bgm03_story02
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -9,25 +10,18 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_13021.jpg
-    bgm: bgm03_story02
     nameRight: Akira
     textRight: Did you find it?
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-  - autoTurnLast: 0.2
-    chara:
+  - chara:
     - cheek: 0
-      effect: slideInLeftFast
+      effect: slideInLeft
       face: mtn_ex_020.exp.json
       id: 100301
       motion: 0
       mouthOpen: 0
       pos: 0
-    textClear: 1
-  - chara:
-    - id: 100301
-      motion: 200
     nameLeft: Tsuruno
     textLeft: No I haven't!
   - chara:
@@ -40,7 +34,6 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100301
-      motion: 0
       mouthOpen: 0
     textLeft: You do this all the time,@right Akira-sensei?
   - chara:
@@ -149,12 +142,13 @@ story:
       mouthOpen: 0
     textLeft: Leave it to me!@[chara:100301:lipSynch_0][freeze:0.8][chara:100301:mouthOpen_1][chara:100301:lipSynch_1]Just
       wait right here!
-  - autoTurnLast: 0.5
-    chara:
-    - effect: slideOutLeftFast
-      id: 100301
-    textClear: 1
   - chara:
+    - cheek: 0
+      effect: slideOutLeft
+      face: mtn_ex_010.exp.json
+      id: 100301
+      motion: 0
+      mouthOpen: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300801
@@ -164,7 +158,7 @@ story:
   - bgEffect: shakeLarge
     chara:
     - cheek: 0
-      effect: slideInRightFast
+      effect: slideInRight
       face: mtn_ex_021.exp.json
       id: 100301
       motion: 0
@@ -191,13 +185,14 @@ story:
       motion: 200
       mouthOpen: 0
     textLeft: Ugh, it's too fast! Darn...!
-  - autoTurnLast: 0.2
-    chara:
-    - effect: slideOutLeftFast
-      id: 100301
-    textClear: 1
   - bgEffect: shakeLarge
     chara:
+    - cheek: 0
+      effect: slideOutLeft
+      face: mtn_ex_010.exp.json
+      id: 100301
+      motion: 0
+      mouthOpen: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300801
@@ -230,22 +225,16 @@ story:
       it''s no good...[chara:300801:effect_emotion_sad_0][se:7224_fall_into]'
     turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
-  - autoTurnLast: 0.01
-    chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 100301
-      motion: 0
-      mouthOpen: 0
-      pos: 0
-    turnChangeIn: rollInFast
   - chara:
-    - face: mtn_ex_011.exp.json
+    - cheek: 0
+      face: mtn_ex_011.exp.json
       id: 100301
       motion: 200
+      mouthOpen: 0
       pos: 0
     nameLeft: Tsuruno
     textLeft: Come here YOU!@I got it! YAAAAAAY!
+    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -267,5 +256,5 @@ story:
     textRight: '...What should I do...'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

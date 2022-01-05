@@ -16,12 +16,12 @@ story:
     bg: bg_adv_20643.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -51,14 +51,14 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120302
       motion: 0
     nameRight: Felicia
     textRight: Aight, onto the next town...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 101
       pos: 0
@@ -87,12 +87,12 @@ story:
     bg: bg_adv_20642.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 1
       pos: 0
@@ -112,7 +112,7 @@ story:
     textRight: Heey, Tsuruno! Look at that!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -131,7 +131,7 @@ story:
     textRight: The Wishin’ Star... @Ain’t it kinda awfully close?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       lipSynch: 0
       motion: 400
@@ -140,7 +140,7 @@ story:
       really is!'
   - chara:
     - cheek: 1
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 200
     nameLeft: Tsuruno
@@ -164,12 +164,12 @@ story:
     bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 101501
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100301
       motion: 0
       pos: 0
@@ -183,7 +183,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 101501
       motion: 100
       pos: 2
@@ -191,7 +191,7 @@ story:
     textRight: somehow puts me on the edge of my seat!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 100301
       motion: 100
       pos: 0
@@ -199,7 +199,7 @@ story:
     textLeft: I feel a little embarrassed when I think of how @that’s my other self.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 100501
       motion: 200
       pos: 2
@@ -207,7 +207,7 @@ story:
     textRight: Hold up, why am I even paired with Tsuruno!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100301
       motion: 101
       pos: 0
@@ -216,7 +216,7 @@ story:
       town?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 100501
       motion: 0
       pos: 2
@@ -224,7 +224,7 @@ story:
     textRight: You’re probably right...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 101501
       motion: 300
       pos: 2
@@ -258,7 +258,7 @@ story:
     textLeft: It’s the first village you pass through.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100501
       motion: 100
       pos: 2
@@ -266,7 +266,7 @@ story:
     textRight: Before the main game begins and ya enter any @towns!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 101501
       motion: 400
       pos: 2
@@ -280,7 +280,7 @@ story:
     textRight: Was that all?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 100301
       motion: 101
       pos: 0
@@ -289,7 +289,7 @@ story:
       you disappointed?
   - chara:
     - cheek: 0
-      face: mtn_ex_041.exp3.json
+      face: mtn_ex_041.exp.json
       id: 101501
       motion: 300
       pos: 2
@@ -297,7 +297,7 @@ story:
     textRight: Yeah, a little...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100301
       motion: 1
       pos: 0
@@ -305,13 +305,13 @@ story:
     textLeft: How it works is newbies and senpais are put in @groups of three
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 100301
     nameLeft: Tsuruno
     textLeft: and when a new player joins, the oldest one leaves.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 101501
       motion: 100
       pos: 2
@@ -320,7 +320,7 @@ story:
       once?'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100301
       motion: 200
       pos: 0
@@ -329,7 +329,7 @@ story:
       processing or something like that.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100501
       motion: 100
       pos: 2
@@ -341,7 +341,7 @@ story:
     textRight: Me and Tsuruno were in the same town as Kako.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 100301
       motion: 101
       pos: 0
@@ -349,7 +349,7 @@ story:
     textLeft: Kako-chan introduced us to this game after all!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100301
       motion: 1
       pos: 0
@@ -361,7 +361,7 @@ story:
     textLeft: your other selves will usually get along if you’re @close in real life.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 101501
       motion: 300
       pos: 2
@@ -369,7 +369,7 @@ story:
     textRight: Because of... compatible personalities?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 100301
       motion: 200
       pos: 0
@@ -395,7 +395,7 @@ story:
     textRight: “I can hear the voice of an angel”?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100301
       motion: 0
       pos: 0
@@ -403,7 +403,7 @@ story:
     textLeft: Maybe they’re calling our real-life selves “angels”.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 100301
     nameLeft: Tsuruno
     textLeft: The Three Magi are probably
@@ -414,7 +414,7 @@ story:
     textLeft: Touka-chan, Nemu-chan, and Ui-chan?
   - chara:
     - cheek: 1
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 101501
       motion: 300
       pos: 2
@@ -422,7 +422,7 @@ story:
     textRight: But all I did was say that I liked Christmas...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 100501
       motion: 1
       pos: 0
@@ -434,7 +434,7 @@ story:
     textLeft: What’s up with the drop in number of people who @can hear angels’ voices?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 101501
       motion: 100
       pos: 2
@@ -442,7 +442,7 @@ story:
     textRight: Um... Because there’s nobody playing anymore...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100501
       motion: 100
       pos: 0
@@ -450,7 +450,7 @@ story:
     textLeft: I see, well I got bored and quit too!
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 100301
       motion: 0
       pos: 0
@@ -468,7 +468,7 @@ story:
     textRight: Although it looks like there are new characters too.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100301
       motion: 100
     nameLeft: Tsuruno

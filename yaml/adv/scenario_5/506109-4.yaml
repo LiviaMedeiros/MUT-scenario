@@ -7,7 +7,7 @@ story:
     - id: 810000
       motion: 0
       pos: 0
-      posX: -50
+      posX: 0
       posY: 0
     - cheek: 0
       face: mtn_ex_030.exp.json

@@ -10,7 +10,7 @@ story:
       pos: 1
       soulGem: 0
     turnChangeIn: fadeIn
-  - bg: bg_adv_21491.jpg
+  - bg: bg_adv_21025.jpg
     bgm: bgm03_story06
     chara:
     - id: 100801

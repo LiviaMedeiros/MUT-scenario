@@ -1,33 +1,27 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 0.01
-    bg: bg_adv_11082.jpg
+  - bg: bg_adv_11082.jpg
+    bgm: bgm03_story09
     chara:
-    - cheek: 0
+    - cheek: 1
       face: mtn_ex_010.exp.json
       id: 101000
-      motion: 0
+      motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_050.exp.json
       id: 100900
       motion: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - bgm: bgm03_story09
-    chara:
-    - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 101000
-      motion: 1
     nameLeft: Momoko
     nameRight: Rena
     textLeft: I did it!@Witch gone!
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_050.exp.json
       id: 100900
     textRight: Whew...
   - chara:
@@ -38,62 +32,65 @@ story:
     textLeft: High five, Rena!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_050.exp.json
       id: 100900
       motion: 100
     textRight: Yeah.
-  - nameNarration: ""
+  - chara:
+    - effect: fadeout
+      id: 101000
+    - effect: fadeout
+      id: 100900
+    nameNarration: ""
     narration: '*Slap!*'
     narrationBg: bg_adv_21172.jpg
     narrationEffect: in
-  - autoTurnLast: 1
-    bgm: stop
-    chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 101001
-      motion: 0
-      pos: 0
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 100901
-      motion: 0
-      pos: 2
-    turnChangeIn: fadeIn
   - bg: bg_adv_21132.jpg
     bgm: bgm03_story02
     chara:
-    - id: 101001
-      motion: 100
-    nameLeft: Momoko
-    nameRight: Rena
-    narrationEffect: out
-    textLeft: Man, oh, man!
-    turnChangeOut: fadeOut
-  - chara:
-    - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 101001
-    textLeft: Our teamwork today was on point!
-  - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101001
       motion: 1
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 100901
+      motion: 1
+      pos: 2
+    nameLeft: Momoko
+    nameRight: Rena
+    narrationEffect: out
+    textLeft: Man, oh, man!
+    turnChangeIn: fadeIn
+    turnChangeOut: fadeOut
+  - chara:
+    - cheek: 0
+      effect: emotion_joy_0
+      face: mtn_ex_011.exp.json
+      id: 101001
+    se: 7222_happy
+    textLeft: Our teamwork today was on point!
+  - chara:
+    - cheek: 0
+      id: 101001
+      motion: 200
     textLeft: Just like a puzzle piece fittin' into place!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
       id: 101001
+      motion: 100
     textLeft: It's great fightin' with you, Rena!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100901
-      motion: 1
     textRight: You mean you were missing a piece...
   - chara:
-    - id: 100901
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 100901
+      motion: 200
     textRight: And my backup was that piece?
   - chara:
     - cheek: 0
@@ -105,7 +102,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100901
-      motion: 100
+      motion: 1
     textRight: Heheh...@What does that even mean?[chara:100901:cheek_0:face_mtn_ex_010.exp.json]
   - chara:
     - cheek: 0
@@ -115,19 +112,19 @@ story:
     textLeft: Hah...!@Nothin' like a hard day's work!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_010.exp.json
       id: 100901
-      motion: 1
     textRight: You sound like an old man @when you say stuff like that.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_050.exp.json
       id: 101001
-      motion: 100
+      motion: 1
     textLeft: Yeah, yeah, I'm a middle-aged@high school girl. I get it.
   - chara:
-    - id: 100901
-      motion: 0
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 100901
     textRight: I'm being serious here.
   - chara:
     - cheek: 0
@@ -152,14 +149,17 @@ story:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 101001
-      lipSynch: 0
       motion: 0
     textLeft: Hey!
   - chara:
-    - id: 101001
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 101001
     textLeft: No!@Err, [chara:101001:motion_300]well...
   - chara:
-    - id: 100901
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 100901
       motion: 0
     textRight: You don't have to make that face at me...
   - chara:
@@ -168,32 +168,45 @@ story:
       id: 100901
     textRight: Before, you said that your@complex was your problem…
   - chara:
-    - id: 100901
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 100901
+      motion: 300
+      mouthOpen: 1
     textRight: And that you have a hard time getting@up the confidence to really try,
       right?
   - chara:
-    - id: 100901
-      motion: 300
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 100901
+      motion: 0
     textRight: '...But, Momoko, I believe in you.@I know you can do it.'
   - chara:
-    - id: 101001
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 101001
       motion: 0
     textLeft: Rena...
   - chara:
-    - id: 100901
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 100901
       motion: 1
     textRight: You do kinda act like an old dude, but...
   - chara:
-    - id: 100901
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 100901
     textRight: You're friendly...social...
   - chara:
-    - id: 100901
-      motion: 300
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 100901
     textRight: If you didn't try so hard, @I think you'd be fine.
   - bgm: bgm03_story07
     chara:
     - cheek: 1
-      face: mtn_ex_060.exp.json
+      face: mtn_ex_030.exp.json
       id: 101001
       motion: 200
     textLeft: Okay, okay! @Enough, no more!
@@ -207,26 +220,30 @@ story:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 101001
-      motion: 100
+      motion: 0
     textLeft: I mean...@It's over and done with anyway...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100901
-      motion: 100
     textRight: Over?@What do you mean?
   - chara:
-    - id: 101001
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 101001
       motion: 1
     textLeft: '...I said I was havin'' problems with@my love life, but...'
   - chara:
-    - id: 101001
+    - cheek: 1
+      face: mtn_ex_030.exp.json
+      id: 101001
     textLeft: I didn't tell you how things ended...
   - chara:
-    - id: 100901
-      motion: 0
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 100901
     textRight: How it ended...?
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

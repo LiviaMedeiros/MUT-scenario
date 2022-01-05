@@ -18,7 +18,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -36,19 +36,19 @@ story:
     textLeft: She does?
     turnChangeOut: fadeOut
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 400
     nameRight: Touka
     textRight: Yes. Even I know that sometimes my plans@can be too risky.
   - chara:
-    - id: 100770
+    - id: 100701
     textRight: That's why Nemu set up a password, as a@fail-safe.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
       id: 715000
     - effect: fadeout
-      id: 100770
+      id: 100701
     textClear: 1
   - chara:
     - cheek: 0
@@ -58,7 +58,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -67,11 +67,11 @@ story:
     nameLeft: White Feather
     textLeft: Are you lying?
   - chara:
-    - id: 101471
+    - id: 101403
     nameRight: Nemu
     textRight: It is not a lie... Not a small lie, or even a@cryptic one...
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 100
     textRight: Just the honest truth.
   - chara:
@@ -151,7 +151,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       lipSynch: 0
       live2dParam:
         name: PARAM_BRACELET
@@ -169,14 +169,14 @@ story:
       effect: shake
       eyeClose: 1
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       lipSynch: 0
       motion: 300
     textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -216,7 +216,7 @@ story:
     narrationCoverOpacity: 110
     narrationEffect: in
     narrationFontSize: 30
-    narrationLineMargin: 10
+    narrationLineMargin: 25
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - nameNarration: Felicia
@@ -309,7 +309,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -323,14 +323,14 @@ story:
     turnChangeIn: fadeIn
     turnEffect: blackFrame
   - chara:
-    - id: 101471
+    - id: 101403
     nameLeft: Nemu
     surround: 7202_telepathy
     textLeft: You might be able to buy some time by causing@an argument.
     turnChangeOut: fadeOut
     turnEffect: ef_adv_02
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 100
     textLeft: Can you get me out of here while they're@distracted?
   - chara:
@@ -351,7 +351,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100770
+      id: 100701
       motion: 200
       pos: 0
     nameLeft: Touka
@@ -359,7 +359,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -405,7 +405,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -413,7 +413,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -422,29 +422,29 @@ story:
     nameRight: Touka
     textRight: Okay, Nemu. Enter the password!
   - chara:
-    - id: 101471
+    - id: 101403
     nameLeft: Nemu
     textLeft: Let's see.
   - chara:
-    - id: 101471
+    - id: 101403
       lipSynch: 0
       motion: 1
     textLeft: '...'
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 0
     textLeft: There we go.
   - bgm: stop
     chara:
-    - id: 100770
+    - id: 100701
       motion: 0
     textRight: All right. [chara:100701:lipSynch_0][wait:1.0][chara:100701:motion_201][chara:100701:cheek_0][chara:100701:face_mtn_ex_020.exp.json][chara:100701:lipSynch_1]Annnd...SEND!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100770
+      id: 100701
     - effect: fadeout
-      id: 101471
+      id: 101403
     textClear: 1
   - chara:
     - cheek: 0
@@ -537,7 +537,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -545,7 +545,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -554,7 +554,7 @@ story:
     nameLeft: Nemu
     textLeft: Touka...
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 300
     nameRight: Touka
     textRight: Hmm...
@@ -569,22 +569,22 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100770
+      id: 100701
       motion: 201
     nameRight: Touka
     textRight: I wasn't anticipating the Witch cutting off@the Labyrinth!
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 300
     textRight: I'm not sure but...maybe it's because the@Labyrinth is now smaller.
   - chara:
-    - id: 100770
+    - id: 100701
     textRight: Perhaps the space itself has become warped@and the radio waves can't
       reach the device.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100770
+      id: 100701
     - effect: fadeout
       id: 101500
     textClear: 1
@@ -602,7 +602,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -619,14 +619,14 @@ story:
     turnChangeIn: fadeIn
     turnEffect: blackFrame
   - chara:
-    - id: 100770
+    - id: 100701
     nameRight: Touka
     textRight: I have a backup plan just in case something@goes wrong, though!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       motion: 200
     textRight: Don't underestimate me. I'm a genius!
   - chara:
@@ -639,7 +639,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100770
+      id: 100701
       motion: 201
     textRight: '[chara:100701:effect_emotion_angry_0][se:7219_strain]What did you
       just say?'

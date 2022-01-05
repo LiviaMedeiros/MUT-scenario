@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21491.jpg
+  - bg: bg_adv_21025.jpg
     bgm: bgm03_story07
     nameNarration: Karin
     narration: And so Phantom Thief Karin became aware@of her own sins, and resolved
@@ -32,7 +32,7 @@ story:
     narrationEffect: in
   - narration: That's why, from now on, I'm going to team@up with my friends and save
       everyone.
-  - bg: bg_adv_21491.jpg
+  - bg: bg_adv_21025.jpg
     bgm: stop
     chara:
     - cheek: 0

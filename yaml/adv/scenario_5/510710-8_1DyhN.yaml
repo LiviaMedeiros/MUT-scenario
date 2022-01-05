@@ -199,7 +199,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101472
+      id: 101450
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -207,7 +207,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100771
+      id: 100750
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -216,33 +216,33 @@ story:
     nameRight: Nemu
     textRight: Now, it's our turn to have some fun.
   - chara:
-    - id: 100771
+    - id: 100750
     nameLeft: Touka
     textLeft: I thought putting on a show was childish, but...
   - chara:
-    - id: 100771
+    - id: 100750
     nameLeft: Touka
     textLeft: With my technology...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100771
+      id: 100750
       motion: 100
     nameLeft: Touka
     textLeft: The holograms make it fun to watch!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101472
+      id: 101450
       motion: 0
     nameRight: Nemu
     textRight: It's only in the [textBlue:Rumor's] space that@they're so clear, though.
   - autoTurnLast: 0.1
     chara:
     - effect: fadeout
-      id: 100771
+      id: 100750
     - effect: fadeout
-      id: 101472
+      id: 101450
     textClear: 1
   - autoTurnLast: 0.1
     bg: bg_adv_20621.jpg

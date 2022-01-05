@@ -40,10 +40,10 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 120302
+      id: 102302
       live2dName: live2d_0
     - effect: fadeout
-      id: 120302
+      id: 102302
       live2dName: live2d_1
     textClear: 1
   - chara:

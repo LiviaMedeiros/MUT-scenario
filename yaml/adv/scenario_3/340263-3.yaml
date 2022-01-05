@@ -6,17 +6,17 @@ story:
     bgm: bgm05_event09
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 830300
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_020.exp.json
       id: 830400
       motion: 0
       pos: 1
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_030.exp.json
       id: 830500
       motion: 0
       pos: 2
@@ -193,14 +193,14 @@ story:
       pos: 0
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 831100
+      face: mtn_ex_041.exp.json
+      id: 402900
       motion: 0
       pos: 2
     narration: '*Click*'
   - bgm: bgm05_event03
     chara:
-    - id: 831100
+    - id: 402900
     nameRight: Perenelle
     narrationEffect: out
     textRight: Um... You're going to shoot them here?
@@ -338,8 +338,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 760000
-      live2dName: live2d_1
+      id: 760090
       motion: 0
       pos: 2
     - cheek: 0
@@ -350,7 +349,6 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
-      live2dName: live2d_0
       motion: 0
       pos: 0
     nameCenter: ""
@@ -359,13 +357,11 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 760000
-      live2dName: live2d_1
+      id: 760090
     - effect: fadeout
       id: 760100
     - effect: fadeout
       id: 760000
-      live2dName: live2d_0
     textClear: 1
   - chara:
     - cheek: 0
@@ -388,8 +384,8 @@ story:
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 831100
+      face: mtn_ex_041.exp.json
+      id: 402900
       motion: 0
       pos: 2
     nameRight: Perenelle
@@ -405,7 +401,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 831100
+      id: 402900
     textClear: 1
   - autoTurnLast: 0.2
     chara:
@@ -657,7 +653,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 0
     nameLeft: Perenelle
@@ -670,8 +666,8 @@ story:
     textRight: Whatever it's called. You know what I mean.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 831100
+      face: mtn_ex_041.exp.json
+      id: 402900
     textLeft: Very well... You work me like a dog, you@know.
   - autoTurnLast: 1
     bgEffect: shakeLarge
@@ -683,13 +679,12 @@ story:
     - effect: fadeout
       id: 402600
     - effect: fadeout
-      id: 831100
+      id: 402900
     textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 760000
-      live2dName: live2d_1
+      id: 760090
       motion: 0
       pos: 2
     - cheek: 0
@@ -700,7 +695,6 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
-      live2dName: live2d_0
       motion: 0
       pos: 0
     flashEffect: explosion

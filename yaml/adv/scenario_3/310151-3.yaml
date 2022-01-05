@@ -36,7 +36,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -44,7 +44,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -57,14 +57,14 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - chara:
-    - id: 100770
+    - id: 100701
     nameCenter: Ui
     nameLeft: Touka
     nameRight: Nemu
     textLeft: She seems busy.
     turnChangeOut: fadeOut
   - chara:
-    - id: 101471
+    - id: 101403
     textRight: She has excellent technique. Do you think@she helps everyday?
   - chara:
     - cheek: 0
@@ -77,7 +77,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -85,7 +85,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -106,9 +106,9 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100770
+      id: 100701
     - effect: fadeout
-      id: 101471
+      id: 101403
     - id: 101501
       pos: 2
     textClear: 1
@@ -238,7 +238,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -246,7 +246,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -262,7 +262,7 @@ story:
     nameRight: Nemu
     textLeft: Oh, Tsukasa.
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 100
     textRight: Hello.
   - chara:
@@ -274,9 +274,9 @@ story:
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
-      id: 101471
+      id: 101403
     - effect: fadeout
-      id: 100770
+      id: 100701
     - id: 101501
       pos: 0
     textClear: 1
@@ -353,7 +353,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -366,11 +366,11 @@ story:
     textLeft: Really?
   - autoTurnLast: 0.2
     chara:
-    - id: 101471
+    - id: 101403
       pos: 0
     textClear: 1
   - chara:
-    - id: 101471
+    - id: 101403
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101901
@@ -379,7 +379,7 @@ story:
     nameLeft: Nemu
     textLeft: You though, Tsukasa. Perhaps you need@to hurry a bit more.
   - chara:
-    - id: 101471
+    - id: 101403
     textLeft: You're much older than us after all.
   - chara:
     - cheek: 0
@@ -391,7 +391,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -400,7 +400,7 @@ story:
     nameLeft: Touka
     textLeft: Are you sureee? Tsukasa looks after the@workshop.
   - chara:
-    - id: 100770
+    - id: 100701
     textLeft: Won't she inherit the family business,@like Riko is going to do?
   - chara:
     - cheek: 0

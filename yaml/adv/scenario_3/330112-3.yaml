@@ -4,7 +4,7 @@ story:
   - bg: bg_adv_13023.jpg
     bgm: stop
     chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 0
@@ -21,14 +21,14 @@ story:
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 100
     textRight: But...
   - bgm: bgm01_anime10
     chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
     textRight: Are you willing to sacrifice your life@for it?
@@ -37,6 +37,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 100
+      mouthOpen: 1
     textLeft: My life?@You mean, I could die...?!
   - chara:
     - id: 810000
@@ -46,7 +47,7 @@ story:
     nameRight: ' Kyubey'
     textRight: Nanaka...
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300501
       motion: 0
@@ -54,10 +55,11 @@ story:
     nameRight: Nanaka
     textRight: Oh, my apologies.
   - chara:
-    - id: 300501
+    - cheek: 0
+      id: 300501
     textRight: There is the chance you could@die in battle with a Witch.
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300501
     textRight: That is the truth of the matter.
@@ -68,7 +70,7 @@ story:
       motion: 0
     textLeft: I-I see...
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 300
@@ -82,7 +84,7 @@ story:
     nameRight: ' Kyubey'
     textRight: Yeah...@I'm not in any particular hurry either.
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 0
@@ -96,7 +98,7 @@ story:
       motion: 300
     textLeft: What I want...
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300501
     textRight: If you say yes, that's fine.@If you say no, that's also your decision...
@@ -105,9 +107,10 @@ story:
       face: mtn_ex_030.exp.json
       id: 301101
       motion: 100
+      mouthOpen: 1
     textLeft: Um... Miss Tokiwa...
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300501
     textRight: Nanaka, please.
@@ -118,7 +121,7 @@ story:
       motion: 0
     textLeft: Oh, okay, then, what would you@do, if you were me, Nanaka?
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 100
@@ -130,18 +133,18 @@ story:
       motion: 100
     textLeft: I-I'm sorry!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
     textRight: That said...
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 300
     textRight: If it were up to me, I would do@anything to accomplish my goal...
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 0
@@ -159,12 +162,12 @@ story:
       motion: 300
     textLeft: Um... Thank you...
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300501
     textRight: Don't mention it.
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 100
@@ -186,7 +189,7 @@ story:
     - id: 810000
     textRight: The potential to become a Magical Girl.
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 0
@@ -207,5 +210,5 @@ story:
   - autoTurnLast: 2
     narrationEffect: out
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

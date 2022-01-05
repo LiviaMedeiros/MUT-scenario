@@ -13,12 +13,12 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 102900
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103000
       motion: 0
       pos: 2
@@ -49,14 +49,14 @@ story:
     textRight: I don’t know what I should be looking for anymore...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102900
       motion: 300
     nameLeft: Shigure
     textLeft: '...Yeah... Me too...'
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 102900
       motion: 1
     nameLeft: Shigure
@@ -72,7 +72,7 @@ story:
     textRight: Even though they have nowhere to go...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102900
       motion: 100
     nameLeft: Shigure
@@ -89,7 +89,7 @@ story:
     bgChangeEffect: cameraPan
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 301700
       motion: 0
       pos: 1
@@ -102,7 +102,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103000
       motion: 0
       pos: 0
@@ -110,28 +110,28 @@ story:
     textLeft: Oh? You’re not with Hibiki-san?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 301700
       motion: 1
     nameRight: Nanase Yukika
     textRight: Because the pirate radio broadcast is also on @hiatus today...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103000
       motion: 300
     nameLeft: Hagumu
     textLeft: Hibiki-san can’t work up the will either...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 301700
     nameRight: Nanase Yukika
     textRight: Yes...
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102900
       motion: 300
       pos: 0
@@ -152,7 +152,7 @@ story:
     textLeft: It’s already...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103000
       motion: 1
       pos: 2
@@ -167,12 +167,12 @@ story:
     bg: bg_adv_21076.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 1
       pos: 2
@@ -184,7 +184,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 102900
       motion: 100
       pos: 2
@@ -197,7 +197,7 @@ story:
     textLeft: Yeah...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 304200
       motion: 1
       pos: 0
@@ -205,7 +205,7 @@ story:
     textLeft: Everyone has nothing left to do after all!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103000
       motion: 400
       pos: 2
@@ -213,7 +213,7 @@ story:
     textRight: Is there really... no choice but to give up?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102900
       motion: 300
       pos: 0
@@ -221,7 +221,7 @@ story:
     textLeft: I... have no idea what to do at this point...
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 301700
       motion: 400
       pos: 2
@@ -233,7 +233,7 @@ story:
     textRight: could there be more sources of usable energy?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102900
       motion: 100
       pos: 0
@@ -249,7 +249,7 @@ story:
     textLeft: in energy collection efficiency doesn’t exist...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 301700
       motion: 300
     nameRight: Nanase Yukika
@@ -270,7 +270,7 @@ story:
       of...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103000
       motion: 300
       pos: 2
@@ -301,7 +301,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
       motion: 0
       pos: 0
@@ -313,21 +313,21 @@ story:
     textLeft: the energy we used last time still wouldn’t be @enough... yeah?
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 102900
       motion: 0
     nameRight: Shigure
     textRight: Yeah.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 100
     nameLeft: Felicia
     textLeft: '...Even if ya say “one million times”, I dunno how @much that is.'
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 301700
       motion: 1
       pos: 2
@@ -335,7 +335,7 @@ story:
     textRight: 100 x 100 x 100 is exactly one million.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       lipSynch: 0
       motion: 300
@@ -343,7 +343,7 @@ story:
     textLeft: '...??'
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -362,7 +362,7 @@ story:
   - bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -370,7 +370,7 @@ story:
     textLeft: Hm...?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 0
       pos: 2

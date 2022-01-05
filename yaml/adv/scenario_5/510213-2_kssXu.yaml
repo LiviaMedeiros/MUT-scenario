@@ -181,7 +181,7 @@ story:
     - cheek: 2
       eyeClose: 1
       face: mtn_ex_020.exp.json
-      id: 412100
+      id: 831400
       lipSynch: 0
       motion: 0
       pos: 0
@@ -205,7 +205,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 1
-      id: 412100
+      id: 831400
       lipSynch: 0
     nameLeft: Isabeau
     textLeft: '...@...'
@@ -214,7 +214,7 @@ story:
     - effect: fadeout
       id: 402401
     - effect: fadeout
-      id: 412100
+      id: 831400
     textClear: 1
   - autoTurnLast: 0.1
     bg: bg_adv_20091.jpg

@@ -9,15 +9,14 @@ story:
       zOrder: messageBack
     autoTurnLast: 0.2
     bg: bg_adv_21031.jpg
-    bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103800
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 303500
       motion: 1
       pos: 0
@@ -30,12 +29,11 @@ story:
     nameNarration: ""
     narration: JACKPOT!
     narrationEffect: in
-    narrationFontSize: 37
     turnChangeOut: fadeOut
   - bgm: bgm03_story16
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103800
       motion: 400
       pos: 2
@@ -48,7 +46,7 @@ story:
     textLeft: Amazing...!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103800
     nameRight: Mikage
     textRight: '[chara:103800:effect_emotion_joy_0][se:7222_happy]Ehehe, Mii is so
@@ -68,12 +66,12 @@ story:
     narrationEffect: out
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 200
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -87,12 +85,12 @@ story:
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103800
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 0
       pos: 0
@@ -115,7 +113,7 @@ story:
     textLeft: It’s spillin’ all over the floor...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 101
       pos: 0
@@ -133,13 +131,13 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103900
       lipSynch: 0
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 303500
       motion: 0
       pos: 0
@@ -170,12 +168,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
       motion: 100
       pos: 2
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -188,36 +186,22 @@ story:
     textLeft: It’s almost about to reach the wall too... @Unbelievable.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103800
       motion: 100
       pos: 2
     nameRight: Mikage
     textRight: It must be a magic game machine!
-  - autoTurnLast: 0.2
-    chara:
+  - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103800
     nameNarration: ""
     narration: JACKPOT CHANCE!
     narrationEffect: in
-    narrationFontSize: 37
-    textClear: 1
-  - autoTurnLast: 0.1
-    flashEffect: flashWhite1
-  - autoTurnLast: 0.1
-    flashEffect: flashWhite1
-  - autoTurnLast: 0.1
-    flashEffect: flashWhite1
-  - autoTurnLast: 0.1
-    flashEffect: flashWhite1
-  - chara:
-    - id: 103800
-    - id: 120301
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -225,14 +209,15 @@ story:
     - effect: fadeout
       id: 120301
     narrationEffect: out
-  - chara:
+  - autoTurnLast: 1
+    chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 303500
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 1
       pos: 0
@@ -244,7 +229,7 @@ story:
     textLeft: What’s that written on there?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 101
       pos: 0
@@ -259,12 +244,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103800
       motion: 400
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103900
       lipSynch: 0
       motion: 1
@@ -273,13 +258,13 @@ story:
     textLeft: Awesome~! @Mii will get more and more!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103800
     nameLeft: Mikage
     textLeft: By putting everything in, Mii can win enough for a lifetime!
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 103900
       lipSynch: 0
     nameRight: Sudachi
@@ -292,7 +277,7 @@ story:
     narrationPosX: 180
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103800
       motion: 200
       pos: 0
@@ -313,7 +298,7 @@ story:
     narrationPosX: 180
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103800
       motion: 300
       pos: 0
@@ -327,7 +312,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 303500
       motion: 300
       pos: 0
@@ -335,14 +320,14 @@ story:
     textLeft: Ummm... While it is a big chance,
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 303500
       motion: 0
     nameLeft: Chiaki Riko
     textLeft: isn’t it better to bet a little at a time instead of all at once...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103900
       lipSynch: 0
       motion: 100
@@ -356,7 +341,7 @@ story:
     narrationPosX: 180
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103800
       motion: 200
       pos: 1
@@ -365,7 +350,7 @@ story:
     textCenter: '...Good idea, we’ll do what the winner says!'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 303500
       motion: 100
       pos: 0
@@ -381,24 +366,24 @@ story:
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103800
       motion: 0
       pos: 1
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 303500
       motion: 300
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103900
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103800
       motion: 400
       pos: 1
@@ -407,18 +392,18 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103800
     nameCenter: Mikage
     textCenter: We’re betting all the candy~
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 303500
       motion: 200
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103900
     nameLeft: Chiaki Riko
     textLeft: Got it, we promised!
@@ -433,12 +418,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 400
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -454,17 +439,17 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103800
       motion: 0
       pos: 1
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 303500
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103900
       motion: 0
       pos: 2
@@ -510,7 +495,7 @@ story:
       pos: 2
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 100
       pos: 0
@@ -519,7 +504,7 @@ story:
   - bgm: bgm03_story09
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 101
       pos: 0
@@ -528,7 +513,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103800
       motion: 200
       pos: 2
@@ -536,7 +521,7 @@ story:
     textRight: The three present bags... including the candy inside?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 303500
       motion: 1
       pos: 2
@@ -548,7 +533,7 @@ story:
     textRight: We gave that to Tsuruno onee-san and Felicia @onee-san, didn’t we?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -556,14 +541,14 @@ story:
     textLeft: That’s right!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: Because I had a hunch it’d end up like this, I made @sure to save enough
       for three!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 100
       pos: 0
@@ -572,7 +557,7 @@ story:
       future!
   - chara:
     - cheek: 1
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 303500
       motion: 200
       pos: 2
@@ -581,18 +566,18 @@ story:
   - autoTurnLast: 0.2
     chara:
     - cheek: 1
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 303500
       pos: 0
     textClear: 1
   - chara:
     - cheek: 1
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103800
       motion: 100
       pos: 1
     - cheek: 1
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103900
       motion: 0
       pos: 2
@@ -600,7 +585,7 @@ story:
     textCenter: Thank you!
   - chara:
     - cheek: 1
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103900
       lipSynch: 0
       motion: 100
@@ -617,12 +602,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120301
       motion: 200
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -645,13 +630,13 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120302
       motion: 100
     textRight: Nice, it’s completely charged!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103800
       motion: 0
       pos: 2
@@ -659,7 +644,7 @@ story:
     textRight: Eh... What’s that?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 100
       pos: 0
@@ -667,7 +652,7 @@ story:
     textLeft: It’s a fuel cylinder for our motorcycle.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -685,13 +670,13 @@ story:
     textLeft: The magic energy produced by a heartfelt smile
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: is our real reward for these presents.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 303500
       motion: 0
       pos: 2
@@ -699,7 +684,7 @@ story:
     textRight: So that’s how it is...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 300
       pos: 0
@@ -717,12 +702,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103800
       motion: 0
       pos: 2
@@ -734,14 +719,14 @@ story:
     textLeft: gave three present bags at first...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 101
     nameLeft: Tsuruno
     textLeft: is because more than just candy,
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       pos: 0
     nameLeft: Tsuruno
@@ -760,13 +745,13 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103900
       lipSynch: 0
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 303500
       motion: 0
       pos: 0
@@ -774,7 +759,7 @@ story:
     textRight: Fumu, fumu!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 303500
       motion: 100
       pos: 0
@@ -789,12 +774,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -802,12 +787,12 @@ story:
     textLeft: Yeah, those are great smiles!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 200
       pos: 0
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120302
       motion: 100
     nameLeft: Tsuruno

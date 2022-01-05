@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_47112.jpg
+  - bg: bg_adv_47104.jpg
     bgm: bgm03_story10
     chara:
     - cheek: 0
@@ -44,21 +44,13 @@ story:
       voiceFullStop: fullvoice/section_101604/vo_full_101604-4-3
     nameLeft: Yachiyo
     textLeft: Then don't do it!
-  - autoTurnLast: 0.2
-    chara:
-    - effect: fadeout
-      id: 100200
-    textClear: 1
-    voiceFullStop: fullvoice/section_101604/vo_full_101604-4-4
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 304900
       motion: 1
       voiceFull: fullvoice/section_101604/vo_full_101604-4-5
-    - id: 6112
-      name: sprite_0
-      pos: 0
+      voiceFullStop: fullvoice/section_101604/vo_full_101604-4-4
     textRight: You took me in...
   - chara:
     - cheek: 0
@@ -87,7 +79,6 @@ story:
       face: mtn_ex_021.exp.json
       id: 100200
       motion: 201
-      pos: 0
       voiceFull: fullvoice/section_101604/vo_full_101604-4-9
       voiceFullStop: fullvoice/section_101604/vo_full_101604-4-8
     textLeft: Kanae!

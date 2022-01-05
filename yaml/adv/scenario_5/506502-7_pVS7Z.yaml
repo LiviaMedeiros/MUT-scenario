@@ -50,25 +50,25 @@ story:
       soulGem: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     surround: 7202_telepathy
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - chara:
-    - id: 831100
+    - id: 402900
     nameRight: Perenelle
     textRight: I've found La Pucelle's current location.
     turnChangeOut: fadeOut
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: She is presently camping with the French@army.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: The Magical Girl named Liz is with her.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: She is helping La Pucelle save France.
   - chara:
     - cheek: 0
@@ -361,8 +361,8 @@ story:
       *Cough* I mean,@pure of heart.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 831100
+      face: mtn_ex_041.exp.json
+      id: 402900
       motion: 0
       pos: 2
     nameRight: Perenelle

@@ -11,12 +11,12 @@ story:
     bg: bg_adv_50071.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 305800
       motion: 1
       pos: 2
@@ -39,7 +39,7 @@ story:
     textRight: It would seem so, wouldn’t it.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102700
       motion: 300
       pos: 0
@@ -51,7 +51,7 @@ story:
     textLeft: we have only heard about that...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 305800
       motion: 100
       pos: 2
@@ -65,34 +65,34 @@ story:
     bg: bg_adv_50041.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 302100
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 304200
       motion: 1
       pos: 1
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 305800
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
-    turnEffect: sepiaFrame
+    turnEffect: blackFrame
   - autoTurnLast: 2
     turnChangeOut: fadeOut
   - autoTurnLast: 0.5
     bg: bg_adv_50071.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 305800
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102700
       motion: 1
       pos: 0
@@ -108,7 +108,7 @@ story:
     textLeft: Out of all of us here, only Ryoko-san knew her...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 305800
       motion: 300
     nameRight: Natsu Ryoko
@@ -124,13 +124,13 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_012.exp3.json
+      face: mtn_ex_012.exp.json
       id: 305800
       motion: 100
     textRight: She was like my great senpai in life.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102500
       motion: 1
       pos: 0
@@ -148,12 +148,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -166,7 +166,7 @@ story:
     textLeft: Are you guys dependent on well water here?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 305800
       motion: 100
       pos: 2
@@ -179,7 +179,7 @@ story:
       garden.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 305800
       motion: 200
       pos: 2
@@ -187,7 +187,7 @@ story:
     textRight: At night, for a bath, we boil water in a cauldron @using firewood.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 400
       pos: 0
@@ -195,7 +195,7 @@ story:
     textLeft: '[chara:120301:effect_emotion_surprise_0][se:7226_shock]...Ehh!?'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 400
       pos: 2
@@ -208,7 +208,7 @@ story:
     textLeft: So what do you do for food and stuff?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102500
       motion: 100
       pos: 2
@@ -220,7 +220,7 @@ story:
     textRight: and then we cook and eat those.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102700
       motion: 100
       pos: 2
@@ -234,14 +234,14 @@ story:
     textRight: how do people live their lives there?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       pos: 0
     nameLeft: Tsuruno
     textLeft: Well, it depends on the town.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 100
       pos: 2
@@ -249,14 +249,14 @@ story:
     textRight: For water and baths, ya twist a faucet and water @comes out.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120302
       pos: 2
     nameRight: Felicia
     textRight: When you’re out on the road, if ya go into a store @ya can get food.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102700
       motion: 1
       pos: 2
@@ -264,7 +264,7 @@ story:
     textRight: Does the food in the store eventually run out...?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 300
       pos: 0
@@ -272,7 +272,7 @@ story:
     textLeft: I’ve never seen a store run out of stock...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102500
       motion: 300
       pos: 2
@@ -285,7 +285,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       lipSynch: 0
     nameLeft: Tsuruno
@@ -293,7 +293,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       lipSynch: 1
       motion: 101
@@ -301,7 +301,7 @@ story:
     textLeft: Look, isn’t this ceiling light pretty much the same?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 305800
       motion: 0
       pos: 2
@@ -309,7 +309,7 @@ story:
     textRight: That’s true, it lights up automatically as soon as the room gets dark.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102700
       motion: 100
       pos: 2
@@ -317,7 +317,7 @@ story:
     textRight: Is it the same in other towns?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -325,7 +325,7 @@ story:
     textLeft: Yup, the towns are always lit up even when no one’s around!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102500
       motion: 1
       pos: 2
@@ -333,14 +333,14 @@ story:
     textRight: If I consider that, it really is unbelievable...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102500
       pos: 2
     nameRight: Shizuka
     textRight: Who in the world made the towns and villages @this way?
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -348,7 +348,7 @@ story:
     textLeft: There’s a legend that three sages created this @world...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 305800
       motion: 1
       pos: 2
@@ -356,14 +356,14 @@ story:
     textRight: I’ve heard that before too, from the experienced @senpai I just mentioned.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 305800
     nameRight: Natsu Ryoko
     textRight: '...Though it seems senpai got it from her senpai @who got it from
       a traveller!'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102500
       lipSynch: 0
       motion: 1
@@ -372,7 +372,7 @@ story:
     textLeft: '..... @.....'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 305800
       motion: 300
       pos: 2
@@ -392,12 +392,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -411,7 +411,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 100
     nameLeft: Tsuruno
@@ -419,7 +419,7 @@ story:
       the group?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 305800
       motion: 1
       pos: 2

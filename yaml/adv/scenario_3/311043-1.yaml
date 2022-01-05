@@ -38,7 +38,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -47,7 +47,7 @@ story:
     nameRight: Uwasa of the Eternal Sakura
     textRight: '| Welcome. |'
   - chara:
-    - id: 101471
+    - id: 101403
     nameLeft: Nemu
     textLeft: Going out of your way to visit, how unusual.
   - chara:
@@ -61,7 +61,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       motion: 100
       pos: 0
     nameLeft: Nemu
@@ -69,7 +69,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       motion: 1
       pos: 0
     nameLeft: Nemu
@@ -88,7 +88,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101471
+      id: 101403
       motion: 200
       pos: 0
     nameLeft: Nemu
@@ -111,7 +111,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       lipSynch: 0
       motion: 0
     nameLeft: Nemu
@@ -136,7 +136,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -166,7 +166,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       motion: 200
       pos: 0
     nameLeft: Nemu
@@ -179,7 +179,7 @@ story:
     nameRight: Sana
     textRight: '...Huh…?'
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 100
     nameLeft: Nemu
     textLeft: You have my thanks, Sana.
@@ -194,20 +194,20 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       motion: 300
       pos: 0
     nameLeft: Nemu
     textLeft: 'I do wish that the stories I’ve created will be passed down forever, '
   - chara:
-    - id: 101471
+    - id: 101403
     nameLeft: Nemu
     textLeft: but on the other hand, one could say it’s destiny for them to disappear
       with me, their creator...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
     nameLeft: Nemu
     textLeft: I’d already given up hope on preserving the [textBlue:Rumors].
   - chara:
@@ -221,13 +221,13 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       motion: 1
       pos: 0
     nameLeft: Nemu
     textLeft: Therefore, I’m happy you wished to preserve Ai, @Sana.
   - chara:
-    - id: 101471
+    - id: 101403
     nameLeft: Nemu
     textLeft: Thank you.
   - chara:
@@ -275,7 +275,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -296,7 +296,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       motion: 0
       pos: 0
     - cheek: 0
@@ -329,7 +329,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       motion: 200
       pos: 0
     nameLeft: Nemu
@@ -338,17 +338,17 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       motion: 1
       pos: 0
     nameLeft: Nemu
     textLeft: However, just creating something isn’t enough to attract people’s attention,
   - chara:
-    - id: 101471
+    - id: 101403
     nameLeft: Nemu
     textLeft: 'so do you want to eventually commercially publish '
   - chara:
-    - id: 101471
+    - id: 101403
     nameLeft: Nemu
     textLeft: to expose many more people to your works?
   - chara:
@@ -357,18 +357,18 @@ story:
     nameRight: Sana
     textRight: Yeah…!
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 0
     nameLeft: Nemu
     textLeft: When I was posting my novels online, a publishing company contacted
       me.
   - chara:
-    - id: 101471
+    - id: 101403
     nameLeft: Nemu
     textLeft: However, it would be foolish to just wait if you are actually aiming
       for that goal.
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 200
     nameLeft: Nemu
     textLeft: It’s best to approach publishers yourself to @get ahold of opportunities.
@@ -380,7 +380,7 @@ story:
     nameRight: Sana
     textRight: How would you approach them…?
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 0
     nameLeft: Nemu
     textLeft: There are two main methods.
@@ -399,30 +399,30 @@ story:
     narrationEffect: out
     textRight: Bringing… my work…!?
   - chara:
-    - id: 101471
+    - id: 101403
     nameLeft: Nemu
     textLeft: Since the second route is quite difficult without concrete achievements,
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 100
     nameLeft: Nemu
     textLeft: I recommend the first method to get a sense @of what you’re capable
       of.
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 1
     - id: 100401
       motion: 0
     nameLeft: Nemu
     textLeft: Supposing you don’t place but your work still @appears promising,
   - chara:
-    - id: 101471
+    - id: 101403
     nameLeft: Nemu
     textLeft: I expect you could attract an editor
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
     nameLeft: Nemu
     textLeft: to help you refine the contents, with an eye @towards eventual publication.
   - chara:
@@ -436,7 +436,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       motion: 200
     nameLeft: Nemu
     textLeft: I believe there would also be just as much talking @on the phone or
@@ -461,7 +461,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       motion: 300
       pos: 0
     nameLeft: Nemu
@@ -475,7 +475,7 @@ story:
     nameRight: Sana
     textRight: '...That’s impossible for me...'
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 0
     nameLeft: Nemu
     textLeft: No, we don’t know that for sure.
@@ -513,7 +513,7 @@ story:
     nameRight: Sana
     textRight: I came here to ask you something and you even @gave me advice...
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 200
     nameLeft: Nemu
     textLeft: No worries, but-
@@ -528,7 +528,7 @@ story:
       id: 100401
     textClear: 1
   - chara:
-    - id: 101471
+    - id: 101403
       lipSynch: 0
       motion: 0
     nameLeft: Nemu

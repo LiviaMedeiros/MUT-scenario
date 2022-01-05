@@ -10,7 +10,7 @@ story:
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51008_singleraid_kazumi/51008_memory08.jpg
+    - path: resource/scenario/img/51007_tower_kokoro/memoria_1138.png
       visible: hide
     turnChangeIn: fadeIn
   - bgm: bgm01_battle02
@@ -22,12 +22,10 @@ story:
   - narration: Limity Esterni!
     surround: 4011A04
   - autoTurnLast: 2
-    bg: bg_adv_13021.jpg
-    bgm: stop
-    narrationEffect: out
     surround: 4011A07
     turnChangeIn: whiteIn
-  - bgm: bgm01_anime03
+  - bg: bg_adv_13021.jpg
+    bgm: bgm01_anime03
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -41,6 +39,7 @@ story:
       pos: 0
     nameLeft: Emiri
     nameRight: Kazumi
+    narrationEffect: out
     textRight: Whew!
     turnChangeOut: whiteOut
   - chara:
@@ -405,7 +404,7 @@ story:
     textLeft: In that case, I have an idea! Consider this@my way of showing gratitude!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_050.exp.json
       id: 401101
       motion: 0
     textRight: Really?! [chara:401101:lipSynch_0][wait:0.8][chara:401101:cheek_0][chara:401101:face_mtn_ex_020.exp.json][chara:401101:lipSynch_1]P-please
@@ -523,8 +522,6 @@ story:
       id: 101301
       motion: 1
       pos: 0
-    - id: 401101
-      motion: 0
     nameLeft: Asuka
     textLeft: You could maybe call her...a chiropractor@for Magical Girls.
   - chara:

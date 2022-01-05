@@ -67,9 +67,8 @@ story:
     bgChangeEffect: enterWitchSpace
     bgm: stop
     item:
-    - iPhoneXScale: 1
-      opacity: 30
-      path: resource/scenario/img/black.png
+    - opacity: 30
+      path: resource/scenario/img/black.jpg
       posX: 0
       posY: 0
       setVisible: 1

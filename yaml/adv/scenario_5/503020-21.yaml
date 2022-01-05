@@ -77,8 +77,7 @@ story:
     textLeft: Did I actually toss and turn this far out@of bed?!
   - autoTurnLast: 3
     item:
-    - iPhoneXScale: 1
-      path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
+    - path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
       posX: 0
       posY: 0
       visible: appear

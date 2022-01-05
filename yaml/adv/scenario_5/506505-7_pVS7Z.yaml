@@ -44,14 +44,14 @@ story:
       soulGem: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     surround: 7202_telepathy
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - chara:
-    - id: 831100
+    - id: 402900
     nameRight: Perenelle
     textRight: I think so, too.
     turnChangeOut: fadeOut
@@ -63,13 +63,13 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
     textRight: La Pucelle, listen carefully.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: In the future Ui is from...
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: It is known history that you saved France.
   - autoTurnLast: 0.01
     bg: bg_adv_20083.jpg

@@ -87,7 +87,6 @@ story:
     textLeft: You mind if we think it over a little more?
   - chara:
     - id: 800200
-      lipSynch: 0
     nameRight: Miyo
     textRight: '...'
   - chara:

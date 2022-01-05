@@ -120,7 +120,7 @@ story:
   - autoTurnLast: 2
     bg: black
     item:
-    - path: resource/scenario/img/adv_prologue_04.jpg
+    - path: resource/scenario/img/adv_prologue_04.png
       posX: 0
       posY: 0
       visible: appear
@@ -143,7 +143,7 @@ story:
       mouthOpen: 0
       pos: 2
     item:
-    - path: resource/scenario/img/adv_prologue_04.jpg
+    - path: resource/scenario/img/adv_prologue_04.png
       visible: hide
     turnChangeIn: fadeIn
   - bg: bg_adv_12052.jpg

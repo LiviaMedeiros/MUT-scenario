@@ -442,7 +442,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -453,7 +453,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       motion: 200
     textLeft: I mean, that power wasn't even from this@universe after all.
   - chara:
@@ -463,17 +463,17 @@ story:
       motion: 0
     textRight: Huh? Not from this universe?
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 0
     textLeft: Kyubey observed some kind of interference@during that battle against
       Walpurgisnacht.
   - chara:
-    - id: 100770
+    - id: 100701
     textLeft: That was when we felt that sudden power.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       motion: 400
     textLeft: Kyubey can't lie so I'm pretty sure my@hypothesis is correct.
   - chara:
@@ -489,7 +489,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       motion: 0
     textLeft: We can't connect the two worlds using any@technology that exists today.
   - chara:
@@ -501,35 +501,35 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       motion: 100
     textLeft: That's why I'm using Endless Mirrors.
   - chara:
-    - id: 100770
+    - id: 100701
     textLeft: Magical Girls and Witches have a power that@is beyond our understanding.
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 1
     textLeft: Energy conversion, space fusion, invisibility,@time manipulation...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       motion: 201
     textLeft: There are so many different ones!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       motion: 0
     textLeft: I've decided to use the power that Witches@wield.
   - chara:
-    - id: 100770
+    - id: 100701
     textLeft: I'm going to combine modern technology @with the power of the fantastical.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
     textLeft: '*Giggle*'
   - autoTurnLast: 3
     bgm: stop

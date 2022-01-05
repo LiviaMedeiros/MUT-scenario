@@ -25,8 +25,7 @@ story:
       motion: 0
       pos: 1
     item:
-    - iPhoneXScale: 1
-      path: resource/scenario/img/chapter9/101907_mami_ribbon.png
+    - path: resource/scenario/img/chapter9/101907_mami_ribbon.png
       posX: 0
       posY: 0
       visible: appear

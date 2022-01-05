@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_19221.jpg
+  - bg: bg_adv_21221.jpg
     bgm: bgm03_story01
     chara:
     - cheek: 0
@@ -200,5 +200,5 @@ story:
       thought. It''s inedible...'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

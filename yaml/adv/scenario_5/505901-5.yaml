@@ -1,48 +1,40 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 0.01
-    bg: bg_adv_narration.jpg
-    turnChangeIn: fadeIn
-  - bgm: bgm03_story04
+  - bg: bg_adv_narration.jpg
+    bgm: bgm03_story04
     nameNarration: Hazuki
     narration: '"The Azalea House is going to be torn down."'
     narrationEffect: in
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - narration: When Konoha first told me@that, I couldn't believe it...
   - narration: But I could tell from her@expression that it wasn't a joke.@She would
       never joke about that.
   - narration: So it had to be true...
   - narration: Once I understood that, I blindly@threw my anger at Konoha ...
-  - autoTurnLast: 0.01
-    bg: bg_adv_20051.jpg
+  - bg: bg_adv_20051.jpg
     chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
       id: 302701
-      motion: 0
+      motion: 400
+      mouthOpen: 1
       pos: 0
       soulGem: 0
+    nameLeft: Hazuki
+    narrationEffect: out
+    textBg: shout
+    textLeft: Why?! Why would something like this@happen?!
+    turnChangeIn: whiteIn
+    turnChangeOut: whiteOut
+  - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302601
+      lipSynch: 0
       motion: 0
       pos: 2
-      soulGem: 0
-    narrationEffect: out
-    turnChangeIn: fadeIn
-  - chara:
-    - id: 302701
-      motion: 400
-      mouthOpen: 1
-      soulGem: 0
-    nameLeft: Hazuki
-    textBg: shout
-    textLeft: Why?! Why would something like this@happen?!
-    turnChangeOut: fadeOut
-  - chara:
-    - id: 302601
-      lipSynch: 0
       soulGem: 0
     nameRight: Konoha
     textRight: '...'

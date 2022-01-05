@@ -91,7 +91,6 @@ story:
       motion: 100
     textRight: '| Sure, let''s go. |'
   - autoTurnLast: 0.2
-    bg: bg_adv_21401.jpg
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

@@ -4,7 +4,7 @@ story:
   - bg: bg_adv_21221.jpg
     bgm: bgm03_story10
     chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 300
@@ -20,10 +20,14 @@ story:
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
     textLeft: Especially me...
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
       motion: 0
     textLeft: I was quite impressed with your trick.
   - chara:
@@ -33,15 +37,21 @@ story:
       motion: 400
     textRight: Hang on, now! Enough with calling it that!
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
       motion: 1
     textLeft: No, I think it's the right word.
   - chara:
-    - id: 302701
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 302701
       motion: 0
     textRight: Huh?
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
       motion: 200
     textLeft: You have a "trick" to your methods.
   - chara:
@@ -51,29 +61,43 @@ story:
       lipSynch: 0
     textRight: '...'
   - chara:
-    - id: 302701
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 302701
       motion: 300
     textRight: Uhhh...
   - chara:
-    - id: 302701
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 302701
     textRight: Mind explaining what you mean?
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
       motion: 1
     textLeft: Everything played out exactly as you@anticipated...
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
     textLeft: Am I wrong?
   - chara:
-    - id: 302701
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 302701
       motion: 1
     textRight: You think I had it planned out?
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
       motion: 0
     textLeft: The first time all of us met here...
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
     textLeft: Once you saw how stubborn Meiyui@was being, you prompted Ayame to talk...
   - autoTurnLast: 0.01
     chara:
@@ -107,7 +131,7 @@ story:
       happen!
   - autoTurnLast: 0.01
     chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 0
@@ -120,7 +144,9 @@ story:
     turnChangeIn: fadeIn
     turnEffect: stop
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
     nameLeft: Nanaka
     nameRight: Hazuki
     textLeft: That derailed the entire conversation,@and it veered off in a new direction...
@@ -149,7 +175,7 @@ story:
     textCenter: '...with a little rock, paper, scissors@contest, right here!'
   - autoTurnLast: 0.01
     chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 0
@@ -162,33 +188,47 @@ story:
     turnChangeIn: fadeIn
     turnEffect: stop
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
       motion: 1
     nameLeft: Nanaka
     nameRight: Hazuki
     textLeft: Then we were guided back on track.@Weren't we, Hazuki?
     turnChangeOut: fadeOut
   - chara:
-    - id: 302701
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 302701
       motion: 300
     textRight: Now, c'mon, that's not...
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
     textLeft: Any time the flow of the conversation@broke down, you would reset it.
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
       motion: 100
     textLeft: Come to think of it, something similar@happened when we first met.
   - chara:
-    - id: 302701
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 302701
       motion: 1
     textRight: Did it?
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
       motion: 0
     textLeft: Once you convinced us that we needed a@different solution...
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
     textLeft: '...you presented us with a new idea.'
   - autoTurnLast: 0.01
     chara:
@@ -198,28 +238,31 @@ story:
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 301201
+      face: mtn_ex_010.exp.json
+      id: 300801
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
     turnEffect: blackFrame
   - chara:
-    - id: 302701
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 302701
       motion: 1
     nameLeft: Hazuki
     nameRight: Akira
     textLeft: Two different groups meet up in front of@the same Witch...
     turnChangeOut: fadeOut
   - chara:
-    - id: 302701
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 302701
     textLeft: And then...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300801
       motion: 0
-      pos: 2
     textRight: And then?
   - chara:
     - cheek: 0
@@ -251,7 +294,7 @@ story:
     textLeft: Exactly.
   - autoTurnLast: 0.01
     chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 0
@@ -264,45 +307,65 @@ story:
     turnChangeIn: fadeIn
     turnEffect: stop
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
     nameLeft: Nanaka
     nameRight: Hazuki
     textLeft: That's the outcome you planned from the@beginning...
     turnChangeOut: fadeOut
   - chara:
-    - id: 302701
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 302701
       lipSynch: 0
     textRight: '...'
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
       motion: 200
     textLeft: What I don't understand is, why you exerted@the effort to manipulate
       us so?
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
     textLeft: That's what I called you here today for.@I wanted to ask you that.
   - chara:
-    - id: 302701
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 302701
       lipSynch: 0
     textRight: '...'
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
       motion: 0
     textLeft: Please, do explain it to me.
   - chara:
-    - id: 302701
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 302701
       lipSynch: 0
     textRight: '...'
   - chara:
-    - id: 300501
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300501
     textLeft: Well?
   - chara:
-    - id: 302701
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 302701
       lipSynch: 0
       motion: 300
     textRight: '...'
   - chara:
-    - id: 302701
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 302701
     textRight: Well....
   - autoTurnLast: 2
     turnChangeIn: fadeIn

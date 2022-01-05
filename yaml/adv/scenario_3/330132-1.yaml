@@ -16,7 +16,7 @@ story:
       motion: 0
       pos: 1
     narration: The day of the class went like this...
-  - bg: bg_adv_19221.jpg
+  - bg: bg_adv_21221.jpg
     chara:
     - id: 300902
     nameCenter: Manaka
@@ -126,9 +126,11 @@ story:
     textCenter: (Okay so I just put this in here, and...)
   - autoTurnLast: 0.2
     chara:
-    - id: 301301
+    - cheek: 1
+      face: mtn_ex_011.exp.json
+      id: 301301
+      motion: 100
       pos: 0
-    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

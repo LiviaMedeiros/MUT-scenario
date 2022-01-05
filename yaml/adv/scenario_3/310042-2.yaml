@@ -152,9 +152,12 @@ story:
   - se: 7101_catvoice
     textLeft: Meooow!
   - chara:
-    - id: 100401
+    - cheek: 1
+      face: mtn_ex_040.exp.json
+      id: 100401
       motion: 1
       mouthOpen: 0
+      tear: 1
     textRight: I'm sorry... I know...
   - chara:
     - cheek: 1
@@ -162,7 +165,6 @@ story:
       id: 100401
       motion: 300
       mouthOpen: 0
-      tear: 1
     textRight: Humans can't live there, can they?
   - autoTurnLast: 2
     turnChangeIn: fadeIn

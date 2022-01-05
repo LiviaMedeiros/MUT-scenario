@@ -132,14 +132,18 @@ story:
     textLeft: Who are you?
   - bgm: bgm03_story06
     chara:
-    - id: 300500
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 300500
       motion: 100
     nameRight: Nanaka
     surround: stop
     textRight: Excuse me for not introducing myself@right away... My name is [textRed:Nanaka
       Tokiwa].
   - chara:
-    - id: 300500
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 300500
     textRight: I too am a Magical Girl.@[chara:300500:cheek_0:face_mtn_ex_030.exp.json:motion_000]It's
       a pleasure to meet you.
   - narration: '[textRed:Nanaka] explains to Meiyui what@was going on...'
@@ -159,21 +163,25 @@ story:
       motion: 400
     textLeft: A Witch is involved in the@land shark situation?!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300500
     nameRight: Nanaka
     textRight: Yes.@We're trying to catch her.
   - chara:
-    - id: 300500
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300500
       motion: 300
     textRight: Witches are using people's bad intentions @to try to bring chaos into
       the world...
   - chara:
-    - id: 300500
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300500
     textRight: What's happening here is not unusual,@...but it is a special case nonetheless.
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300500
       motion: 0
@@ -185,15 +193,17 @@ story:
       motion: 0
     textLeft: So then...@It was you who set that up?
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300500
     textRight: Yes...@We had to ask for some favors...
   - chara:
-    - id: 300500
+    - cheek: 0
+      id: 300500
     textRight: Then we sent Kako to act as a bodyguard.
   - chara:
-    - id: 300500
+    - cheek: 0
+      id: 300500
       motion: 100
     textRight: Akira and I were in charge of support@and information gathering...
   - chara:
@@ -203,7 +213,7 @@ story:
       lipSynch: 0
     textLeft: (Who is she…?)
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300500
       motion: 0
@@ -215,16 +225,18 @@ story:
       motion: 200
     textLeft: You heard that I'm a Magical Girl…?
   - chara:
-    - id: 300500
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 300500
     textRight: Yes, I heard about you from another@Magical Girl.
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300500
       motion: 100
     textRight: So please forgive me, but I decided@we should give you a test...
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300500
     textRight: '...to see how capable you are.'
@@ -252,7 +264,7 @@ story:
       motion: 0
     textLeft: What was the purpose of this test?
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300500
       motion: 0
@@ -260,7 +272,9 @@ story:
     nameRight: Nanaka
     textRight: I'll get straight to the point.
   - chara:
-    - id: 300500
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 300500
     textRight: Will you help us track down the @Witch behind the land sharking?
   - chara:
     - cheek: 0
@@ -269,19 +283,21 @@ story:
       lipSynch: 0
     textLeft: '@[chara:301200:lipSynch_1]So you want to team up.'
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300500
       motion: 300
     textRight: Exactly.
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300500
       motion: 0
     textRight: For this special case, @I'd like to  fight together.
   - chara:
-    - id: 300500
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300500
     textRight: What do you say?
   - chara:
     - cheek: 0

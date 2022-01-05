@@ -131,7 +131,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101472
+      id: 101450
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -147,7 +147,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101472
+      id: 101450
       motion: 400
     nameRight: Nemu
     textRight: Wait, wait a moment...! I'm not looking for@speed...
@@ -156,7 +156,7 @@ story:
     - effect: slideOutRightFast
       id: 100351
     - effect: slideOutRightFast
-      id: 101472
+      id: 101450
     textClear: 1
   - chara:
     - cheek: 0
@@ -166,7 +166,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100771
+      id: 100750
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -177,7 +177,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100771
+      id: 100750
       motion: 400
       pos: 2
     nameRight: Touka
@@ -191,7 +191,7 @@ story:
     textBg: shout
     textLeft: Because I can swim as fast as the slide!
   - chara:
-    - id: 100771
+    - id: 100750
     nameRight: Touka
     textRight: There's no way a human could swim that fast...
   - autoTurnLast: 0.8
@@ -199,7 +199,7 @@ story:
     - effect: slideOutRightFast
       id: 100550
     - effect: slideOutRightFast
-      id: 100771
+      id: 100750
     textClear: 1
   - nameCenter: Touka's voice
     textBg: shout
@@ -591,7 +591,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
-      id: 100771
+      id: 100750
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -600,7 +600,7 @@ story:
     narrationEffect: out
     turnChangeIn: rollInFast
   - chara:
-    - id: 100771
+    - id: 100750
       motion: 300
     nameRight: Touka
     textRight: Geeze...I'm exhausted from being dragged@around...
@@ -613,7 +613,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101472
+      id: 101450
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -632,7 +632,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100771
+      id: 100750
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -652,7 +652,7 @@ story:
     - effect: fadeout
       id: 100550
     - effect: fadeout
-      id: 100771
+      id: 100750
     textClear: 1
   - chara:
     - cheek: 0
@@ -693,7 +693,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_060.exp.json
-      id: 100771
+      id: 100750
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -704,7 +704,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101472
+      id: 101450
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -739,7 +739,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101472
+      id: 101450
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -747,7 +747,7 @@ story:
       pos: 1
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100771
+      id: 100750
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -761,7 +761,7 @@ story:
     nameCenter: Nemu
     textCenter: That does sound logical, but...
   - chara:
-    - id: 100771
+    - id: 100750
       motion: 300
     nameLeft: Touka
     textLeft: I want something sweet...
@@ -773,9 +773,9 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101472
+      id: 101450
     - effect: fadeout
-      id: 100771
+      id: 100750
     - effect: fadeout
       id: 100550
     textClear: 1

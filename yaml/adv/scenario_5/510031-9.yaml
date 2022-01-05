@@ -1,7 +1,8 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 0.2
+  - bg: bg_adv_21162.jpg
+    bgm: bgm01_anime03
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -13,14 +14,10 @@ story:
       id: 303101
       motion: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_16102.jpg
-    bgm: bgm01_anime03
-    chara:
-    - id: 300101
     nameLeft: Kanoko
     nameRight: Rika
     textLeft: Name-engraved colored pencils?
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -34,7 +31,9 @@ story:
       motion: 1
     textLeft: I don't know...@We are a factory, but...
   - chara:
-    - id: 300101
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 300101
     textLeft: We do metal plating...@Woodwork is a totally different thing...
   - chara:
     - cheek: 0
@@ -49,7 +48,9 @@ story:
       motion: 100
     textRight: I want to engrave pictures and stuff into@the pencil case too!
   - chara:
-    - id: 300101
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 300101
       motion: 300
     textLeft: Oh...well, in that case, the pencil case@part would be metalworking,
       but...
@@ -63,7 +64,9 @@ story:
     textRight: Oh, c'mon, Kano-chin! Don't be like that!@You could make anything you
       want!
   - chara:
-    - id: 300601
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 300601
       motion: 1
     textRight: You have like, totally amazing fingers!@Your fingers are like—
   - chara:
@@ -104,11 +107,15 @@ story:
       id: 300101
     textLeft: Okay, but you better be ready.@As the only daughter of Yayoi Plating...
   - chara:
-    - id: 300101
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300101
       motion: 100
     textLeft: I refuse to let you do anything half assed.
   - chara:
-    - id: 300101
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300101
       motion: 200
     textLeft: I'm going to be a stern teacher, all right?!@Think of this as an extra
       class.
@@ -119,7 +126,9 @@ story:
       motion: 1
     textRight: So then...@You'll help me?
   - chara:
-    - id: 300101
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300101
       motion: 1
     textLeft: Of course.
   - chara:
@@ -128,7 +137,9 @@ story:
       id: 300101
     textLeft: Don’t underestimate us factory workers'@capacity for empathy!
   - chara:
-    - id: 300101
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 300101
       motion: 200
     textLeft: Turning down a friend would be@impossible for me, got it?
   - chara:
@@ -152,7 +163,9 @@ story:
       motion: 1
     textLeft: Just remember one thing...@I'm your "teacher" now, okay?
   - chara:
-    - id: 300101
+    - cheek: 0
+      face: mtn_ex_001.exp.json
+      id: 300101
     textLeft: I only teach. You have to do all the@actual work. All of it. Got it,
       Rika?
   - chara:
@@ -171,28 +184,24 @@ story:
       pos: 0
     nameLeft: Emiri
     textLeft: Woohoo! This is awesome!@Even I'm getting excited here!
-  - autoTurnLast: 1
-    bg: bg_adv_16102.jpg
+  - bg: bg_adv_21162.jpg
+    bgm: bgm03_story09
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300101
-      motion: 0
+      motion: 400
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 303101
       motion: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - bgm: bgm03_story09
-    chara:
-    - id: 300101
-      motion: 400
     nameLeft: Kanoko
     nameRight: Rika
     surround: 7005_construction
     textLeft: Ah!@No! You're using too much strength!
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -207,7 +216,9 @@ story:
       motion: 200
     textRight: L-like this?
   - chara:
-    - id: 300101
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 300101
       motion: 1
     textLeft: Yes, yes!@Try to remember how that feels, okay?
   - chara:
@@ -216,22 +227,18 @@ story:
       id: 303101
       motion: 0
     textRight: Okay!
-  - autoTurnLast: 0.2
-    bg: bg_adv_16102.jpg
+  - bg: bg_adv_21162.jpg
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300601
-      motion: 0
-      pos: 1
-    turnChangeIn: rollInFast
-  - chara:
-    - id: 300601
       motion: 200
+      pos: 1
     nameCenter: Emiri
     textCenter: Heyooooo!@I brought some refreshments!
+    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
-  - autoTurnLast: 0.2
+  - bg: bg_adv_21162.jpg
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -241,19 +248,17 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 303101
-      motion: 0
-      pos: 2
-    turnChangeIn: rollInFast
-  - bg: bg_adv_16102.jpg
-    chara:
-    - id: 303101
       motion: 100
+      pos: 2
     nameLeft: Kanoko
     nameRight: Rika
     textRight: Whew, thanks!@I'm sweating like crazy!
+    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - chara:
-    - id: 300101
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 300101
       motion: 1
     textLeft: Right? It's pretty tough work.
   - chara:
@@ -263,11 +268,12 @@ story:
       motion: 201
     textRight: Totally...@I've got mad respect for you now...
   - chara:
-    - id: 300101
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 300101
       motion: 100
     textLeft: '*Giggle*'
-  - autoTurnLast: 1
-    bg: bg_adv_16102.jpg
+  - bg: bg_adv_21163.jpg
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -279,12 +285,10 @@ story:
       id: 303101
       motion: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - chara:
-    - id: 300101
     nameLeft: Kanoko
     nameRight: Rika
     textLeft: '...Okay, good...@Now that just needs to be filed down...'
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -312,11 +316,15 @@ story:
       motion: 200
     textRight: Yeah...thanks!@I did my best!
   - chara:
-    - id: 300101
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 300101
       motion: 100
     textLeft: Oof...you got metal dust all over your uniform!
   - chara:
-    - id: 300101
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 300101
       motion: 0
     textLeft: Here, brush it off with this.
   - chara:
@@ -327,5 +335,5 @@ story:
     textRight: Hee hee.@Okay, thanks.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

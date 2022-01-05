@@ -104,7 +104,7 @@ story:
   - autoTurnLast: 0.2
     bg: bg_adv_20311.jpg
     turnChangeIn: rollInFast
-  - autoTurnLast: 0.2
+  - autoTurnFirst: 0.7
     chara:
     - cheek: 1
       effect: slideInRightFast
@@ -120,8 +120,7 @@ story:
     chara:
     - effect: slideOutLeftFast
       id: 100351
-    textClear: 1
-  - autoTurnLast: 0.2
+  - autoTurnFirst: 0.4
     chara:
     - cheek: 1
       effect: slideInRightFast
@@ -136,7 +135,6 @@ story:
     chara:
     - effect: slideOutLeftFast
       id: 100550
-    textClear: 1
   - autoTurnLast: 0.5
     bg: bg_adv_20251.jpg
     bgm: stop

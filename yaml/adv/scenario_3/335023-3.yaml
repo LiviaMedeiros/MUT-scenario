@@ -6,7 +6,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -17,13 +17,13 @@ story:
   - textCenter: '...and the man didn''t return...'
     turnChangeOut: fadeOut
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 300
     textCenter: He was never seen again...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101471
+      id: 101403
     textClear: 1
   - bgm: bgm05_event07
     chara:
@@ -55,7 +55,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -65,12 +65,12 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101471
+      id: 101403
     textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -84,13 +84,13 @@ story:
     nameLeft: Touka
     textRight: That was so scary...
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 300
     textLeft: I'm just a little creeped out too...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -101,31 +101,31 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100770
+      id: 100701
       motion: 200
     textLeft: I'm not THAT scared!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101471
+      id: 101403
       motion: 0
     textRight: '*Chuckle*... Well, it''s fine.'
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 100
     textRight: The look on your face says everything.
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 100
     textLeft: Mrrrgh! Sakurako's story is the last one!
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 0
     textLeft: Hurry up and start!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       motion: 0
     textRight: What kind of story have you prepared for us?
   - chara:
@@ -156,7 +156,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -191,7 +191,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -211,7 +211,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -220,7 +220,7 @@ story:
     nameRight: Touka
     textRight: Hmph... I see...
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 0
     textLeft: '| And then, just before dark... When they@decided to go swimming one
       last time... |'
@@ -245,7 +245,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -253,7 +253,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -263,15 +263,15 @@ story:
     nameRight: Nemu
     textRight: I'm impressed that you included a@performance...
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 300
     textLeft: I'm impressed, too. I wonder how it@will end...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100770
+      id: 100701
     - effect: fadeout
-      id: 101471
+      id: 101403
     textClear: 1
   - chara:
     - cheek: 0
@@ -311,7 +311,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -319,7 +319,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -329,15 +329,15 @@ story:
     nameRight: Nemu
     textRight: From outside...?!
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 400
     textLeft: There's something glowing behind the door...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100770
+      id: 100701
     - effect: fadeout
-      id: 101471
+      id: 101403
     textClear: 1
   - chara:
     - cheek: 0
@@ -366,7 +366,7 @@ story:
       pos: 0
     - cheek: 1
       face: mtn_ex_050.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -374,7 +374,7 @@ story:
       pos: 1
     - cheek: 1
       face: mtn_ex_050.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -385,10 +385,10 @@ story:
   - chara:
     - id: 101501
       motion: 200
-    - id: 100770
+    - id: 100701
       lipSynch: 0
       motion: 100
-    - id: 101471
+    - id: 101403
       motion: 300
     nameCenter: Everyone
     textCenter: '...?!'
@@ -439,7 +439,7 @@ story:
   - chara:
     - cheek: 2
       face: mtn_ex_031.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -447,7 +447,7 @@ story:
       pos: 0
     - cheek: 2
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -487,7 +487,7 @@ story:
     - cheek: 2
       eyeClose: 1
       face: mtn_ex_031.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -497,7 +497,7 @@ story:
     - cheek: 2
       eyeClose: 1
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -514,10 +514,10 @@ story:
     - id: 101501
       motion: 300
       mouthOpen: 1
-    - id: 100770
+    - id: 100701
       motion: 300
       mouthOpen: 1
-    - id: 101471
+    - id: 101403
       motion: 300
       mouthOpen: 1
     nameCenter: Everyone
@@ -527,9 +527,9 @@ story:
   - chara:
     - id: 101501
       mouthOpen: 0
-    - id: 100770
+    - id: 100701
       mouthOpen: 0
-    - id: 101471
+    - id: 101403
       mouthOpen: 0
     nameCenter: Touka
     nameLeft: Ui
@@ -538,25 +538,25 @@ story:
   - chara:
     - cheek: 2
       eyeClose: 0
-      id: 100770
+      id: 100701
       motion: 200
     textCenter: This is unscientific...!@Ghosts aren't real...
   - chara:
     - eyeClose: 1
-      id: 100770
+      id: 100701
     textBg: shout
     textCenter: Eeeeek...!
   - chara:
-    - id: 101471
+    - id: 101403
       lipSynch: 0
       motion: 0
     textRight: '.........[wait:0.8][chara:101403:lipSynch_1]Ah...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100770
+      id: 100701
     - effect: fadeout
-      id: 101471
+      id: 101403
     - effect: fadeout
       id: 101501
     textClear: 1

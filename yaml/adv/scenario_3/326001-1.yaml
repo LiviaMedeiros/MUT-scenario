@@ -352,7 +352,7 @@ story:
     narrationCoverOpacity: 110
     narrationEffect: in
     narrationFontSize: 30
-    narrationLineMargin: 10
+    narrationLineMargin: 30
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - narration: ― Kyoko ―@Lookin' at the ocean while chowin'@down makes food taste

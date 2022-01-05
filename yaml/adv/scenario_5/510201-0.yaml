@@ -111,7 +111,6 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
-      live2dName: live2d_0
       motion: 0
       pos: 0
     nameLeft: ""
@@ -121,8 +120,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 760000
-      live2dName: live2d_1
+      id: 760090
       motion: 0
       pos: 2
     textBg: shout
@@ -187,13 +185,11 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
-      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 760000
-      live2dName: live2d_1
+      id: 760090
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
@@ -202,7 +198,6 @@ story:
     chara:
     - effect: shake
       id: 760000
-      live2dName: live2d_0
     flashEffect: flashRed2
     nameLeft: ""
     se: 3001_chara_damage
@@ -213,14 +208,12 @@ story:
     chara:
     - effect: fadeout
       id: 760000
-      live2dName: live2d_0
     se: 3102_enemy_dead
   - autoTurnLast: 0.5
     bgEffect: shakeLarge
     chara:
     - effect: shake
-      id: 760000
-      live2dName: live2d_1
+      id: 760090
     flashEffect: flashRed2
     nameRight: ""
     se: 3001_chara_damage
@@ -229,8 +222,7 @@ story:
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
-      id: 760000
-      live2dName: live2d_1
+      id: 760090
     se: 3102_enemy_dead
   - armatureList:
     - animation:

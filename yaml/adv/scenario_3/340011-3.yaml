@@ -46,7 +46,7 @@ story:
     narrationBg: black
     narrationEffect: in
   - autoTurnLast: 0.1
-    bg: white
+    bg: white.jpg
     narrationEffect: out
     turnChangeIn: fadeIn
   - narration: Yes, [textRed:Kirika Kure]...@You, too, shall help @me achieve my goal.
@@ -205,7 +205,7 @@ story:
     narrationBg: black
     narrationEffect: in
   - autoTurnLast: 0.1
-    bg: white
+    bg: white.jpg
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameNarration: Oriko
@@ -234,7 +234,7 @@ story:
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - autoTurnLast: 0.1
-    bg: white
+    bg: white.jpg
     turnChangeIn: fadeIn
     turnEffect: stop
   - narration: That beast's only been protecting @me so he can get what he desires.

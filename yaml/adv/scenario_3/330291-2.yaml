@@ -378,8 +378,8 @@ story:
   - chara:
     - cheek: 0
       id: 302901
-      lipSynch: 0
       motion: 0
+      mouthOpen: 0
     textRight: '[chara:302901:lipSynch_0]...@[freeze:1][chara:302901:lipSynch_1]What
       is that supposed to mean?'
   - chara:
@@ -436,5 +436,5 @@ story:
     textLeft: Oh...@Now that's the Masara I know.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

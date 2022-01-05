@@ -358,8 +358,8 @@ story:
       you came from.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 831100
+      face: mtn_ex_041.exp.json
+      id: 402900
       motion: 0
       pos: 2
     nameRight: Perenelle

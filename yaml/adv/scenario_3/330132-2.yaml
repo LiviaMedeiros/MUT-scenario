@@ -16,7 +16,7 @@ story:
       motion: 0
       pos: 1
     narration: Or at least, that's what I thought...@Then, out of nowhere...!
-  - bg: bg_adv_19221.jpg
+  - bg: bg_adv_21221.jpg
     chara:
     - id: 300902
     nameCenter: Manaka

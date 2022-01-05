@@ -253,8 +253,7 @@ story:
     - effect: fadeout
       id: 200500
     item:
-    - iPhoneXScale: 1
-      path: resource/scenario/img/black.png
+    - path: resource/scenario/img/black.jpg
       posX: 0
       posY: 0
       visible: appear

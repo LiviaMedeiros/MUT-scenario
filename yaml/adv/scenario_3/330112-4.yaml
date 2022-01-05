@@ -104,6 +104,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 400
+      mouthOpen: 1
     flashEffect: flashWhite2
     textBg: shout
     textRight: Ahhh...!@Wh-what... What's going on?!
@@ -111,18 +112,21 @@ story:
     - cheek: -1
       face: mtn_ex_050.exp.json
       id: 301101
+      mouthOpen: 1
     textRight: Huh? What?!
   - chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 100
+      mouthOpen: 1
     textRight: Wh-What is this place?
   - chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 300
+      mouthOpen: 1
     textRight: Where am I...?!
   - autoTurnFirst: 4.3
     bg: bg_adv_narration.jpg

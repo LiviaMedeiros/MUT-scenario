@@ -14,9 +14,9 @@ story:
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
-    narrationFontSize: 30
-    narrationLineMargin: 10
-    narrationLineSpace: 20
+    narrationFontSize: 25
+    narrationLineMargin: 30
+    narrationLineSpace: 10
     turnChangeOut: fadeOut
     voiceFull: fullvoice/section_102004/vo_full_102004-9-1
   - nameNarration: Rena

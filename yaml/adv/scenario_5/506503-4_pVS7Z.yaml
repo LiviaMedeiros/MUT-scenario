@@ -12,19 +12,19 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     surround: 7202_telepathy
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - chara:
-    - id: 831100
+    - id: 402900
     nameRight: Perenelle
     textRight: La Hire was a mercenary who was well-known@for his bravery.
     turnChangeOut: fadeOut
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: Another hero meant to save France has passed@away.
   - chara:
     - id: 101500
@@ -51,13 +51,13 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     nameRight: Perenelle
     textRight: Yes. Keep moving forward, Elisa and Ui.
   - chara:
-    - id: 831100
+    - id: 402900
     textRight: There should be a True History Fragment@in the castle that the Witch
       was guarding.
   - chara:

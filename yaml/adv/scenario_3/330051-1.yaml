@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21441.jpg
+  - bg: bg_adv_21082.jpg
     bgm: bgm01_anime07
     chara:
     - cheek: 0
@@ -70,7 +70,7 @@ story:
       id: 301101
     nameNarration: Nanaka
     narration: I am [textRed:Nanaka Tokiwa], and@I am a Magical Girl.
-    narrationBg: bg_adv_21441.jpg
+    narrationBg: bg_adv_21082.jpg
     narrationEffect: in
   - narration: I made my contract to become@one after a certain event...@Well, we
       can discuss that later.
@@ -122,7 +122,7 @@ story:
     - effect: fadeout
       id: 301201
     narration: I have been asking them to fight@with me for quite some time.
-    narrationBg: bg_adv_21441.jpg
+    narrationBg: bg_adv_21082.jpg
     narrationEffect: in
   - narration: But this was the first time@I brought them all together...
   - chara:
@@ -290,5 +290,5 @@ story:
     textLeft: There is one Witch that connects us all...
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

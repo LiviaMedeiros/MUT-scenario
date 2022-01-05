@@ -188,7 +188,7 @@ story:
       path: resource/scenario/img/adv_roll_fade.png
       posX: 0
       posY: 3000
-      scale: 6
+      scale: 4
       setVisible: 1
       zOrder: messageFront
     voiceFullStop: fullvoice/section_102005/vo_full_102005-10-15

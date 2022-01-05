@@ -80,7 +80,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -90,13 +90,13 @@ story:
     textRight: Whaaat’s going on? Is this about us?
   - autoTurnLast: 0.2
     chara:
-    - id: 100770
+    - id: 100701
       pos: 0
     textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -105,23 +105,23 @@ story:
     nameRight: Nemu
     textRight: That would be vexing.
   - chara:
-    - id: 101471
+    - id: 101403
     nameRight: Nemu
     textRight: I would be unconcerned if it was only about Touka, @but I can’t accept
       being considered as on the @same level as her.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100770
+      id: 100701
       motion: 400
     nameLeft: Touka
     textLeft: Nyaa!! Why is everyone out to get me!?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101471
+      id: 101403
     - effect: fadeout
-      id: 100770
+      id: 100701
     textClear: 1
   - chara:
     - cheek: 0

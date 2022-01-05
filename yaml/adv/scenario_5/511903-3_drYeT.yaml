@@ -11,12 +11,12 @@ story:
     bg: bg_adv_21031.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 303500
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103800
       motion: 0
       pos: 2
@@ -34,7 +34,7 @@ story:
     textRight: Does this mean we have to win the candy @and bag it?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 100
       pos: 0
@@ -47,7 +47,7 @@ story:
     textRight: Then it's the same as before Santa-san got here!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 303500
       motion: 200
       pos: 0
@@ -55,7 +55,7 @@ story:
     textLeft: We've got lots of time, so let's do our best!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103800
       motion: 0
       pos: 2
@@ -64,12 +64,12 @@ story:
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 303500
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 103800
       motion: 0
       pos: 2
@@ -85,32 +85,32 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103800
       motion: 100
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 303500
     nameRight: Mikage
     narrationEffect: out
     textRight: Riko-tan did great!
   - chara:
     - cheek: 1
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 303500
       motion: 100
     nameLeft: Chiaki Riko
     textLeft: Ehehe...
   - chara:
     - cheek: 1
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 303500
     nameLeft: Chiaki Riko
     textLeft: Doing what Tsuruno onee-san said made it work.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 100
       pos: 0
@@ -118,7 +118,7 @@ story:
     textLeft: But even though ya doubled it, there still ain’t @enough for one bag.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103800
       motion: 300
       pos: 2
@@ -126,7 +126,7 @@ story:
     textRight: Yeah... Mii wants lots more~
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 300
       pos: 0
@@ -148,7 +148,7 @@ story:
   - bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 103900
       lipSynch: 0
       motion: 0
@@ -163,12 +163,12 @@ story:
   - bgm: bgm03_story06
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 303500
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 1
       pos: 0
@@ -180,7 +180,7 @@ story:
     textLeft: Who's that girl?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 303500
       motion: 300
       pos: 2
@@ -188,7 +188,7 @@ story:
     textRight: Um... That girl showed up in this town recently.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103800
       motion: 200
       pos: 2
@@ -203,7 +203,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103900
       lipSynch: 0
       motion: 300
@@ -217,12 +217,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 100
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 303500
       motion: 0
       pos: 2
@@ -241,7 +241,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103900
       lipSynch: 0
       motion: 1
@@ -255,12 +255,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -274,7 +274,7 @@ story:
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103900
       motion: 0
       pos: 2
@@ -290,7 +290,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 100
       pos: 0
@@ -299,7 +299,7 @@ story:
     textLeft: Is that a medal game?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103900
       lipSynch: 0
       motion: 400
@@ -307,7 +307,7 @@ story:
     textRight: '[chara:103900:effect_emotion_surprise_0][se:7226_shock]...Fumu!?'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 200
       pos: 0
@@ -324,7 +324,7 @@ story:
     textRight: '..... @.....'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103900
       lipSynch: 0
       motion: 300
@@ -332,7 +332,7 @@ story:
     textRight: Fumu...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 100
       pos: 0
@@ -340,7 +340,7 @@ story:
     textLeft: Hoh? Could it be...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -348,7 +348,7 @@ story:
     textLeft: Felicia, lend her the navi device.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 100
       pos: 0
@@ -356,7 +356,7 @@ story:
     textLeft: Sure thing, here.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103900
       lipSynch: 0
       motion: 0
@@ -364,7 +364,7 @@ story:
     textRight: '...?'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 300
       pos: 0
@@ -377,7 +377,7 @@ story:
     textLeft: Hey, do you know how to type?
   - chara:
     - cheek: 1
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103900
       lipSynch: 0
       motion: 100
@@ -385,7 +385,7 @@ story:
     textRight: '...!'
   - chara:
     - cheek: 1
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103900
     nameNarration: Sudachi
     narration: Yeah!
@@ -397,12 +397,12 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103900
       motion: 0
       pos: 2
@@ -432,7 +432,7 @@ story:
     textRight: Fumu...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103800
       motion: 100
       pos: 0
@@ -440,7 +440,7 @@ story:
     textLeft: Sorry for not realizing...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 303500
       motion: 300
       pos: 0
@@ -448,7 +448,7 @@ story:
     textLeft: Me too...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103900
       lipSynch: 0
       motion: 200
@@ -456,7 +456,7 @@ story:
     textRight: Fumumumu mu!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 303500
       motion: 0
     nameNarration: Sudachi
@@ -474,7 +474,7 @@ story:
       alright!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -482,7 +482,7 @@ story:
     textLeft: Now that you've made lots of friends,
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -490,7 +490,7 @@ story:
     textLeft: teach us how to play the medal game!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103900
       lipSynch: 0
       motion: 100

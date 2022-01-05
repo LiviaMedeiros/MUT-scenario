@@ -148,7 +148,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -157,14 +157,14 @@ story:
     nameRight: Kako
     textRight: Oh... Goodness... Um...
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 200
     nameLeft: Touka
     textLeft: Something sure is strange here! As strange@as strange can be!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -233,7 +233,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -245,7 +245,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -256,9 +256,9 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100770
+      id: 100701
     - effect: fadeout
-      id: 101471
+      id: 101403
     textClear: 1
   - chara:
     - cheek: 0
@@ -382,7 +382,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -393,7 +393,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
     textLeft: Why don't you think on things a while before@you open your mouth?
   - chara:
     - cheek: 0
@@ -446,7 +446,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -458,16 +458,16 @@ story:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
     textLeft: It is common practice in Kamihama to form a @mutually beneficial pact
       to hunt Witches.
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 100
     textLeft: Beyond that, it's standard in any field that@one learns from those experienced
       in it.
   - chara:
-    - id: 101471
+    - id: 101403
     textLeft: Consider understanding this as criterion for@engaging us in discussion
       on the matter.
   - chara:
@@ -481,7 +481,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_052.exp.json
-      id: 101471
+      id: 101403
       motion: 0
     textLeft: Don't try to blame your ignorance on me.
   - chara:
@@ -555,7 +555,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -563,7 +563,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -574,7 +574,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       motion: 400
     nameLeft: Touka
     textLeft: Hmm. So this is a call for attention because@you're not getting enough
@@ -582,9 +582,9 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101471
+      id: 101403
     - effect: fadeout
-      id: 100770
+      id: 100701
     textClear: 1
   - chara:
     - cheek: 1
@@ -611,7 +611,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -619,7 +619,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -631,7 +631,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_052.exp.json
-      id: 101471
+      id: 101403
       motion: 300
     nameRight: Nemu
     textRight: I would be too ashamed to be able to do what@you're doing right now.
@@ -649,7 +649,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101471
+      id: 101403
     - effect: fadeout
       id: 101501
     textClear: 1
@@ -702,7 +702,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -710,7 +710,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -719,15 +719,15 @@ story:
     nameLeft: Touka
     textLeft: Excuses now? How unsightly.
   - chara:
-    - id: 101471
+    - id: 101403
     nameRight: Nemu
     textRight: I wouldn't even call that an excuse.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100770
+      id: 100701
     - effect: fadeout
-      id: 101471
+      id: 101403
     textClear: 1
   - chara:
     - cheek: 2

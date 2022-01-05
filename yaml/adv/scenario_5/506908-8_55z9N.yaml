@@ -478,7 +478,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -493,7 +493,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100770
+      id: 100701
       motion: 0
     nameRight: Touka
     textRight: Yep, there it is. It's appeared.
@@ -509,12 +509,12 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
     textRight: Of course.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       motion: 100
     textRight: Hey, Feathers. Can you please give Nemu back?
   - chara:
@@ -526,7 +526,7 @@ story:
     nameLeft: Black Feather
     textLeft: We're still not convinced...
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 200
     textRight: Nemu knows the password to disable the@device.
   - autoTurnLast: 2

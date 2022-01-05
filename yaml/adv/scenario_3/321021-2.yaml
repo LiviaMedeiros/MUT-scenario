@@ -82,7 +82,7 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m1_0a.jpg
-      setVisible: 0
+      visible: hide
   - item:
     - action:
         spawn:
@@ -204,7 +204,7 @@ story:
       scale: 0
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m1_1a.jpg
-      setVisible: 0
+      visible: hide
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - autoTurnLast: 0.5
@@ -232,7 +232,7 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m1_2b.jpg
-      setVisible: 0
+      visible: hide
     nameNarration: Madoka-senpai
     narration: SHE USES HER CRAB CLAWS@TO SCARE HER ENEMIES AWAY.
     narrationLineSpace: 2000
@@ -259,7 +259,7 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m1_2a.jpg
-      setVisible: 0
+      visible: hide
     nameNarration: Madoka-senpai
     narration: THEY ARE GIVEN FORM BY @MY DESIRE TO AVOID@POINTLESS CONFLICT.
     narrationLineSpace: 2000
@@ -270,9 +270,9 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m1_3b.jpg
-      setVisible: 0
+      visible: hide
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m1_3c1.png
-      setVisible: 0
+      visible: hide
     nameNarration: Iroha
     narration: RIGHT, SURE...
     narrationLineSpace: 2000
@@ -300,7 +300,7 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m1_3a.jpg
-      setVisible: 0
+      visible: hide
   - autoTurnLast: 0.01
     item:
     - action:
@@ -326,7 +326,7 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m1_4a.jpg
-      setVisible: 0
+      visible: hide
   - autoTurnLast: 0.01
     item:
     - action:

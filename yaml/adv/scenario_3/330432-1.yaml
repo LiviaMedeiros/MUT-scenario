@@ -64,7 +64,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -72,7 +72,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -83,11 +83,11 @@ story:
     textRight: Some of your speech is still a little@problematic, but overall you're
       okay.
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 200
     textLeft: That's no surprise!
   - chara:
-    - id: 100770
+    - id: 100701
     textLeft: I rewrote her data, after all!
   - chara:
     - cheek: 0
@@ -98,14 +98,14 @@ story:
     nameLeft: Ui
     textLeft: This girl is the Uwasa of the Eternal Sakura?
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 100
     textRight: Her role as judge is over, so we changed her@data so she can adapt
       to everyday life.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -115,16 +115,16 @@ story:
     textRight: I told you I connected to her server and@installed some general knowledge,
       right?
   - chara:
-    - id: 100770
+    - id: 100701
     textRight: I actually altered the data on there a@little bit.
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 100
     textRight: We're running some tests starting today.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
     textRight: I want to see if she can use that data@properly.
   - chara:
     - cheek: 0
@@ -137,7 +137,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -146,7 +146,7 @@ story:
     nameRight: Nemu
     textRight: Basically, we'd like you to take Sakurako for@three days or so.
   - chara:
-    - id: 101471
+    - id: 101403
     textRight: We want her to learn about everyday life@through practice in the real
       world.
   - chara:
@@ -173,7 +173,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -191,13 +191,13 @@ story:
     textLeft: But seeing how it's your experiment, I think@you two should be taking
       care of her.
   - chara:
-    - id: 101471
+    - id: 101403
     nameRight: Nemu
     textRight: We have preconceptions about her, so our@judgments would be biased.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -206,25 +206,25 @@ story:
     nameLeft: Touka
     textLeft: Yup, exactly.
   - chara:
-    - id: 100770
+    - id: 100701
     textLeft: Besides, we're busy doing other things!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100770
+      id: 100701
       motion: 400
     textLeft: So please, do this for us, Ui and Iroha!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       motion: 300
     textRight: Since it's your house, Yachiyo, we know it@would be an imposition on
       you, as well...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       motion: 0
     textRight: But we could really use your help.
   - chara:
@@ -262,7 +262,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -273,7 +273,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1

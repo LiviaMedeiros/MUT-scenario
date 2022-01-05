@@ -22,8 +22,7 @@ story:
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     item:
-    - iPhoneXScale: 1
-      path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
+    - path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -66,8 +65,7 @@ story:
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     item:
-    - iPhoneXScale: 1
-      path: resource/scenario/img/51030_fishing_homura/51030_yu_dairy.jpg
+    - path: resource/scenario/img/51030_fishing_homura/51030_yu_dairy.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -98,8 +96,7 @@ story:
     narrationPosX: 0
   - autoTurnLast: 0.01
     item:
-    - iPhoneXScale: 1
-      path: resource/scenario/img/51030_fishing_homura/51030_yu_dairy.jpg
+    - path: resource/scenario/img/51030_fishing_homura/51030_yu_dairy.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -127,8 +124,7 @@ story:
     narrationPosX: 0
   - autoTurnLast: 0.01
     item:
-    - iPhoneXScale: 1
-      path: resource/scenario/img/51030_fishing_homura/51030_yu_dairy.jpg
+    - path: resource/scenario/img/51030_fishing_homura/51030_yu_dairy.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -157,8 +153,7 @@ story:
     narrationPosX: 0
   - autoTurnLast: 0.01
     item:
-    - iPhoneXScale: 1
-      path: resource/scenario/img/51030_fishing_homura/51030_yu_dairy.jpg
+    - path: resource/scenario/img/51030_fishing_homura/51030_yu_dairy.jpg
       posX: 0
       posY: 0
       visible: appear

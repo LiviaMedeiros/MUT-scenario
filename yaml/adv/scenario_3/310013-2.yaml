@@ -1,9 +1,10 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 0.01
+  - bg: bg_adv_21201.jpg
+    bgm: bgm03_story09
     chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100201
       motion: 0
@@ -11,17 +12,12 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100301
-      motion: 0
-      pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_21201.jpg
-    bgm: bgm03_story09
-    chara:
-    - id: 100301
       motion: 100
+      pos: 2
     nameLeft: Yachiyo
     nameRight: Tsuruno
     textRight: Well...!@We better get going!
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -32,7 +28,7 @@ story:
     nameRight: Felicia
     textRight: Yeah, see ya guys later!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_014.exp.json
       id: 100201
     textLeft: Mmhm.@Stay safe out there.
@@ -45,20 +41,15 @@ story:
     nameLeft: Iroha
     textLeft: See you when you get back!
   - chara:
-    - cheek: 0
+    - cheek: 1
       face: mtn_ex_010.exp.json
       id: 100401
       motion: 1
       pos: 0
     nameLeft: Sana
     textLeft: Take care![chara:100501:effect_fadeout]
-  - autoTurnLast: 1
-    chara:
-    - effect: fadeout
-      id: 100501
-    textClear: 1
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100201
       motion: 201
@@ -66,35 +57,31 @@ story:
     nameRight: Yachiyo
     textRight: '...What a relief.'
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_014.exp.json
       id: 100201
     textRight: Now we can have two rare days @of complete peace and quiet…
-  - autoTurnLast: 1
+  - bg: bg_adv_21202.jpg
+    bgm: bgm03_story02
     chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 100101
-      motion: 0
-      pos: 0
-    - cheek: -1
-      face: mtn_ex_051.exp.json
-      id: 100201
-      motion: 0
-      pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_21202.jpg
-    bgm: bgm03_story02
-    chara:
-    - id: 100101
+      lipSynch: 0
       motion: 401
+      mouthOpen: 1
+      pos: 0
     nameLeft: Iroha
     textLeft: '[chara:100101:lipSynch_0](Oops!)@[wait:0.8][chara:100101:effect_emotion_surprise_0:lipSynch_1][se:7226_shock]Oh
       no...!'
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
-    - id: 100201
+    - cheek: 0
+      face: mtn_ex_051.exp.json
+      id: 100201
       motion: 100
+      pos: 2
     nameRight: Yachiyo
     textRight: What's wrong?
   - chara:
@@ -104,10 +91,9 @@ story:
       motion: 301
     textLeft: I just ended up doing what I always...
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100201
-      motion: 1
     textRight: Aah, I see.@You cut up two onions?
   - chara:
     - cheek: 1
@@ -126,13 +112,13 @@ story:
     nameLeft: Sana
     textLeft: Ah...![chara:100401:effect_emotion_surprise_0][se:7226_shock]
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_051.exp.json
       id: 100201
       motion: 0
     textRight: Huh?
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100201
     textRight: '...You opened two packets of chicken,@didn''t you.'
@@ -143,7 +129,7 @@ story:
       motion: 1
     textLeft: I-I'm sorry...!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100201
       motion: 1
@@ -189,6 +175,7 @@ story:
   - chara:
     - cheek: 0
       id: 100201
+      motion: 1
     textRight: So that means five servings.
   - chara:
     - cheek: 0
@@ -198,15 +185,6 @@ story:
       pos: 0
     nameLeft: Iroha
     textLeft: Hehe...yeah.
-  - autoTurnLast: 0.01
-    bgm: stop
-    chara:
-    - cheek: 1
-      face: mtn_ex_010.exp.json
-      id: 100104
-      motion: 0
-      pos: 0
-    turnChangeIn: fadeIn
   - bg: bg_adv_21203.jpg
     bgm: bgm03_story02
     chara:
@@ -215,9 +193,15 @@ story:
       id: 100202
       motion: 1
       pos: 2
+    - cheek: 1
+      face: mtn_ex_010.exp.json
+      id: 100104
+      motion: 0
+      pos: 0
     nameLeft: Iroha
     nameRight: Yachiyo
     textRight: The bath is free.
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 1
@@ -228,7 +212,7 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 100402
+      id: 100401
       motion: 0
       pos: 0
     nameLeft: Sana
@@ -266,7 +250,7 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_040.exp.json
-      id: 100402
+      id: 100401
       motion: 400
       pos: 0
     nameLeft: Sana
@@ -275,7 +259,7 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_040.exp.json
-      id: 100402
+      id: 100401
     textLeft: Oh, but...@Tsuruno isn't...here...
   - chara:
     - cheek: 0
@@ -307,61 +291,59 @@ story:
       id: 100104
       motion: 0
     textLeft: Yes.
-  - autoTurnLast: 0.01
-    bgm: stop
+  - bgm: bgm03_story03
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100104
       motion: 0
       pos: 0
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100202
       motion: 1
       pos: 2
-    turnChangeIn: fadeIn
-  - bgm: bgm03_story03
     nameLeft: Iroha
     nameRight: Yachiyo
     textLeft: It's over...
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
+    - cheek: 1
       face: mtn_ex_040.exp.json
-      id: 100402
+      id: 100401
       motion: 1
       pos: 0
     nameLeft: Sana
     textLeft: It was kind of...
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100202
     textRight: '...boring, this time.'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_050.exp.json
       id: 100104
       motion: 301
       pos: 0
     nameLeft: Iroha
     textLeft: R-right...
   - chara:
-    - cheek: -1
+    - cheek: 0
       id: 100202
       motion: 100
     textRight: I feel like it was way more fun when@we watched it with everyone together...
   - chara:
-    - cheek: 0
+    - cheek: 1
       face: mtn_ex_030.exp.json
-      id: 100402
+      id: 100401
       motion: 1
       pos: 0
     nameLeft: Sana
     textLeft: I think so too...
   - chara:
-    - cheek: -1
+    - cheek: 0
       id: 100202
       motion: 300
     textRight: I didn't realize it would be this quiet@with both of them gone...

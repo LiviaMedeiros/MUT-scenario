@@ -50,7 +50,7 @@ story:
     textCenter: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 2
-    bg: bg_adv_21491.jpg
+    bg: bg_adv_21025.jpg
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

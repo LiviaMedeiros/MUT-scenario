@@ -141,7 +141,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Emiri
-    textLeft: Then your nickname's...Sudacchan...@Su...Suda...Suda...[chara:300651:lipSynch_0][wait:0.8][chara:300651:motion_100][chara:300651:cheek_0][chara:300651:face_mtn_ex_011.exp.json][chara:300651:lipSynch_1]Sudacheru!
+    textLeft: Then your nickname's...Sudacchan...@Su...Suda...[chara:300651:lipSynch_0][wait:0.8][chara:300651:motion_100][chara:300651:cheek_0][chara:300651:face_mtn_ex_011.exp.json][chara:300651:lipSynch_1]Sudacheru!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -235,7 +235,7 @@ story:
       id: 300651
       motion: 0
     nameLeft: Emiri
-    textLeft: Livia...?@Ahh, Mitamaccho's teacher?
+    textLeft: Livia...?@Ahh, Mitamaccho's sensei?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -264,7 +264,7 @@ story:
       lipSynch: 0
       motion: 100
     nameRight: Sudachi
-    textRight: Fuumun!
+    textRight: Fu-mun!
   - chara:
     - id: 300651
       motion: 300
@@ -302,7 +302,7 @@ story:
       lipSynch: 0
       motion: 1
     nameRight: Sudachi
-    textRight: Fu-mufumumu!
+    textRight: Fu mufumumu!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -316,7 +316,7 @@ story:
       id: 103950
       lipSynch: 0
     nameRight: Sudachi
-    textRight: Fuumunmu, funmunmu...?
+    textRight: Fuumunmu funmunmu...?
   - chara:
     - id: 300651
       motion: 200
@@ -360,7 +360,7 @@ story:
       id: 103950
       lipSynch: 0
     nameRight: Sudachi
-    textRight: Fumumumu, mu-mumu!
+    textRight: Fumumumu, mu mumu!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json

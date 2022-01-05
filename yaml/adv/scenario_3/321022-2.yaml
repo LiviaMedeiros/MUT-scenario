@@ -76,7 +76,7 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_0a.jpg
-      setVisible: 0
+      visible: hide
   - item:
     - action:
         spawn:
@@ -197,7 +197,7 @@ story:
       scale: 4
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_1a.jpg
-      setVisible: 0
+      visible: hide
     turnChangeIn: fadeIn
   - autoTurnLast: 0.5
     item:
@@ -215,7 +215,7 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_2b.jpg
-      setVisible: 0
+      visible: hide
     nameNarration: Madoka-senpai
     narration: MADOKANNON IS A SUPER@BEEFED UP VERSION OF ME.@IT CAN ATTACK MORE ENEMIES@AT
       ONCE THAN MADOKANCER.
@@ -243,7 +243,7 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_2a.jpg
-      setVisible: 0
+      visible: hide
     nameNarration: Madoka-senpai
     narration: PLUS YOU DON'T EVEN HAVE TO WIELD YOUR@WEAPON DIRECTLY LIKE IN NORMAL
       COMBAT!@JUST A PUSH OF A LITTLE BUTTON, AND...
@@ -255,9 +255,9 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_3b.jpg
-      setVisible: 0
+      visible: hide
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_3c1.png
-      setVisible: 0
+      visible: hide
     nameNarration: Madoka-senpai
     narration: THIS IS HOW PEOPLE GET NUMB TO THE FACT@THAT THEY'RE HURTING PEOPLE,
       ISN'T IT?
@@ -312,7 +312,7 @@ story:
             posY: 0
       path: resource/scenario/img/32102_madokasenpai_story/32102_m2_4b.jpg
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_3a.jpg
-      setVisible: 0
+      visible: hide
   - item:
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_4c1.png
       posX: 0
@@ -320,7 +320,7 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_2a.jpg
-      setVisible: 0
+      visible: hide
     nameNarration: Homura
     narration: NEVER CHANGE, MADOKA!
     narrationLineSpace: 2000
@@ -341,11 +341,11 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_4b.jpg
-      setVisible: 0
+      visible: hide
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_4c1.png
-      setVisible: 0
+      visible: hide
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_4c2.png
-      setVisible: 0
+      visible: hide
     nameNarration: Madoka-senpai
     narration: HOMURA...
     narrationLineSpace: 2000
@@ -373,7 +373,7 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_4a.jpg
-      setVisible: 0
+      visible: hide
   - item:
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_5c1.png
       posX: 0
@@ -390,9 +390,9 @@ story:
       scale: 1
       setVisible: 1
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_5c1.png
-      setVisible: 0
+      visible: hide
     - path: resource/scenario/img/32102_madokasenpai_story/32102_m2_5b.jpg
-      setVisible: 0
+      visible: hide
     nameNarration: ""
     narration: HOMULAUNCHER
     narrationLineSpace: 2000

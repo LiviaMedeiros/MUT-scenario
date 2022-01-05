@@ -11,12 +11,12 @@ story:
     bg: bg_adv_50011.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 102500
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102700
       motion: 0
       pos: 2
@@ -32,17 +32,15 @@ story:
       motion: 100
     nameLeft: Shizuka
     narrationEffect: out
-    textBg: shout
     textLeft: Ryokooo!
   - chara:
     - id: 102700
       motion: 400
     nameRight: Sunao
-    textBg: shout
     textRight: Where are you?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
       motion: 200
       pos: 2
@@ -50,14 +48,14 @@ story:
     textRight: '...Ryoko’s gone?'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102500
       motion: 0
     nameLeft: Shizuka
     textLeft: That’s right.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102700
       motion: 300
       pos: 2
@@ -81,7 +79,7 @@ story:
     textRight: Exactly like when Meguru-san went missing.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102500
     nameLeft: Shizuka
     textLeft: Eh...?
@@ -90,7 +88,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 305800
       motion: 300
       pos: 1
@@ -106,12 +104,12 @@ story:
     bg: bg_adv_50011.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102500
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102700
       motion: 1
       pos: 2
@@ -133,7 +131,7 @@ story:
     textRight: '...That’s how it appeared to me.'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102500
       motion: 400
       pos: 0
@@ -141,10 +139,10 @@ story:
     textLeft: No way... Then...!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102500
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102700
     nameCenter: Tsuruno’s Voice
     textBg: shout
@@ -156,7 +154,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
       motion: 200
       pos: 2
@@ -164,7 +162,7 @@ story:
     textRight: Oi...!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 102700
       motion: 200
     nameLeft: Sunao
@@ -173,12 +171,12 @@ story:
     bg: bg_adv_50031.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102600
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -191,7 +189,7 @@ story:
       id: 102600
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102500
       motion: 0
       pos: 2
@@ -205,13 +203,13 @@ story:
       here.'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102500
     nameRight: Shizuka
     textRight: Which is to say...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 102700
       motion: 200
       pos: 0
@@ -219,13 +217,13 @@ story:
     textLeft: Yes, there’s no question.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 102700
     nameLeft: Sunao
     textLeft: 'She is the newest resident to appear, @Ryoko’s replacement. '
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102600
       motion: 1
       pos: 0
@@ -240,7 +238,7 @@ story:
     textRight: '...'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102700
       motion: 0
       pos: 0
@@ -254,7 +252,7 @@ story:
   - bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102600
       lipSynch: 0
       motion: 0
@@ -279,7 +277,7 @@ story:
   - bgm: bgm24_story08
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102500
       motion: 200
       pos: 2
@@ -288,7 +286,7 @@ story:
     textRight: '...It’s okay, Sunao. I can understand.'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102700
       motion: 0
       pos: 0
@@ -301,7 +299,7 @@ story:
     textRight: This is what Ryoko wanted.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102600
       motion: 1
       pos: 0
@@ -310,7 +308,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102500
       motion: 100
     nameRight: Shizuka
@@ -321,7 +319,7 @@ story:
     textRight: Can I ask what your name is?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102600
       motion: 0
       pos: 0
@@ -329,7 +327,7 @@ story:
     textLeft: '...Yeah. '
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102600
       motion: 100
       pos: 0
@@ -337,7 +335,7 @@ story:
     textLeft: I’m Hiroe Chiharu! @...You can call me Charu!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 102500
       motion: 1
       pos: 2
@@ -345,13 +343,13 @@ story:
     textRight: I’m happy to have you, Charu. @Let’s get along from now on!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 102600
     nameLeft: Chiharu
     textLeft: '...Yeah!'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102700
       motion: 300
       pos: 2
@@ -380,12 +378,12 @@ story:
     bg: bg_adv_50072.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102500
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102700
       motion: 0
       pos: 2
@@ -406,14 +404,14 @@ story:
     textLeft: for Sunao’s and my sake.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102700
       motion: 200
     nameRight: Sunao
     textRight: Yes... I feel so too.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102500
       motion: 300
     nameLeft: Shizuka
@@ -427,7 +425,7 @@ story:
     bg: bg_adv_50071.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 305800
       motion: 1
       pos: 1
@@ -443,12 +441,12 @@ story:
     bg: bg_adv_50072.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -471,7 +469,7 @@ story:
     textLeft: Yeah... maybe we did something wrong.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102500
       motion: 200
       pos: 2
@@ -500,7 +498,7 @@ story:
   - autoTurnLast: 1.5
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102600
       motion: 0
       pos: 1
@@ -511,12 +509,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102700
       motion: 100
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102500
       motion: 1
       pos: 0
@@ -534,7 +532,7 @@ story:
     textRight: The “Village Curse” is not a true curse after all...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102500
     - eyeClose: 0
       id: 102700
@@ -542,7 +540,7 @@ story:
     textLeft: Indeed… The three of us all wished for different @things,
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102500
       motion: 200
       pos: 0
@@ -554,7 +552,7 @@ story:
     textLeft: fulfilled the most fervent wish among us.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102700
       motion: 1
       pos: 2
@@ -580,7 +578,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102700
       motion: 200
     nameRight: Sunao
@@ -592,7 +590,7 @@ story:
     textRight: I do believe even now Ryoko is smiling.
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 100
       pos: 0
@@ -609,13 +607,13 @@ story:
     textRight: She will appear in some other town.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 102700
     nameRight: Sunao
     textRight: She might be reuniting with Sakuya-san right about now.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
     nameLeft: Tsuruno
@@ -625,7 +623,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 305800
       motion: 300
       pos: 1
@@ -637,12 +635,12 @@ story:
     bg: bg_adv_50072.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 102700
       motion: 100
       pos: 2
@@ -656,7 +654,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 102500
       motion: 100
       pos: 2
@@ -664,7 +662,7 @@ story:
     textRight: That was why! Santas, thank you.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102500
       motion: 0
     nameRight: Shizuka
@@ -680,7 +678,7 @@ story:
     textRight: After all, one day I’ll become the last person to have known Ryoko!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 102600
       motion: 0
       pos: 0
@@ -688,7 +686,7 @@ story:
     textLeft: Huh…? I’m not too clear on what’s going on,
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 102600
       motion: 100
     textLeft: but please… don’t give me too much to chew!
@@ -700,7 +698,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 102700
       motion: 0
       pos: 2
@@ -708,13 +706,13 @@ story:
     textRight: Hah.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 102500
     nameCenter: Shizuka
     textCenter: Fufufufu.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102500
       motion: 100
     textCenter: Come, take these smiles as your reward, while @there’s still time!
@@ -729,12 +727,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 200
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -747,7 +745,7 @@ story:
   - autoTurnLast: 2
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 200
     flashEffect: explosion
@@ -761,13 +759,13 @@ story:
     - id: 120302
       motion: 100
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
     nameRight: Felicia
     textRight: '...Aight, refuelling’s done.'
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 300
       pos: 0
@@ -775,12 +773,12 @@ story:
     textLeft: All sorts of stuff happened this time, but...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 200
       pos: 0
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120302
     nameLeft: Tsuruno
     textLeft: The delivery’s complete… [chara:120301:lipSynch_0][wait:0.8][chara:120301:cheek_0][chara:120301:face_mtn_ex_011.exp.json:motion_101][chara:120301:lipSynch_1]@Another
@@ -789,17 +787,17 @@ story:
     bg: bg_adv_50011.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102700
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102500
       motion: 0
       pos: 1
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102600
       motion: 1
       pos: 0
@@ -819,14 +817,14 @@ story:
     textCenter: let’s go bury the time capsule we weren’t able to before?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 102500
       motion: 100
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 102600
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 102700
     textCenter: Be sure to help, Charu!
   - autoTurnLast: 2

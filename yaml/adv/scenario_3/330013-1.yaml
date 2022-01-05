@@ -26,7 +26,7 @@ story:
     textCenter: These designs are way past my ability@to judge!
     turnChangeOut: fadeOut
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 1
@@ -223,5 +223,5 @@ story:
       Ah...!@It's you...!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

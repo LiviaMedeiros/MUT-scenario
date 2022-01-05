@@ -41,7 +41,8 @@ story:
   - chara:
     - id: 810000
       pos: 0
-      posX: -50
+      posX: 0
+      posY: 0
     nameLeft: Qube
     textLeft: The only thing that's clear is that we are@very far away from where
       we were.
@@ -125,7 +126,8 @@ story:
   - chara:
     - id: 810000
       pos: 0
-      posX: -50
+      posX: 0
+      posY: 0
     nameLeft: Qube
     textLeft: Be careful! I sense some magic.
   - chara:
@@ -164,7 +166,8 @@ story:
       pos: 2
     - id: 810000
       pos: 0
-      posX: -50
+      posX: 0
+      posY: 0
     turnChangeIn: whiteIn
   - chara:
     - id: 402201

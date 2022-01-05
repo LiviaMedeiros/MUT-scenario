@@ -121,7 +121,7 @@ story:
       id: 110701
       motion: 0
     nameLeft: Touka
-    textLeft: '...Certainly...'
+    textLeft: '...Certainly​...'
   - autoTurnLast: 0.2
     item:
     - path: resource/scenario/img/51120_touka_nemu_christmas/51120_magicalbook2.png

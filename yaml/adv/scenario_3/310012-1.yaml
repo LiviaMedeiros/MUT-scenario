@@ -44,16 +44,18 @@ story:
       motion: 200
     textRight: Awesome!@It was Unreal!
   - chara:
-    - cheek: 1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100301
       motion: 201
+      mouthOpen: 1
     textLeft: Whoooa!@You must've been going crazy!
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
       id: 100501
       motion: 0
+      mouthOpen: 1
     textRight: I wasn't just going crazy!
   - chara:
     - cheek: 1
@@ -89,7 +91,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100301
       motion: 400
-      mouthOpen: 0
+      mouthOpen: 1
     textLeft: Wow!@Are you for real?
   - chara:
     - cheek: 0
@@ -114,7 +116,6 @@ story:
       motion: 200
       mouthOpen: 1
     se: 7218_anger
-    textBg: shout
     textLeft: Whoooaah!!! You are for real!@It's got ten points and everything!
   - chara:
     - cheek: -1
@@ -164,9 +165,9 @@ story:
     textLeft: (It's nice she got us something, but...)
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_050.exp.json
       id: 100501
-      motion: 200
+      motion: 100
     textRight: Well...@All that excitement made me hungry!!
   - chara:
     - cheek: 0
@@ -177,18 +178,16 @@ story:
   - chara:
     - cheek: 0
       effect: emotion_surprise_0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_020.exp.json
       id: 100501
-      lipSynch: 0
       motion: 400
-      mouthOpen: 0
+      mouthOpen: 1
     se: 7226_shock
     textRight: You serious?!@Iroha's cookin' tonight?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100101
-      motion: 0
     textLeft: W-well, yes...
   - chara:
     - cheek: 0
@@ -222,7 +221,6 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100101
-      mouthOpen: 0
     textLeft: W-waste...?
   - chara:
     - cheek: 0
@@ -236,7 +234,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 100501
       motion: 300
-      mouthOpen: 0
+      mouthOpen: 1
     textRight: It'd be mean to put Iroha's bland@cooking into it...!
   - chara:
     - cheek: -1
@@ -331,7 +329,7 @@ story:
       way...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_050.exp.json
       id: 100101
       motion: 200
       pos: 2
@@ -347,16 +345,16 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100101
-      motion: 401
+      motion: 1
     textRight: Um... It's not that I don't feel@like cooking anymore, but...!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_050.exp.json
       id: 100101
     textRight: It's just...now that she's @mentioned it...I realized...
   - chara:
     - cheek: 0
-      face: mtn_ex_041.exp.json
+      face: mtn_ex_050.exp.json
       id: 100101
       motion: 200
     textRight: We hardly go out to eat together.@So maybe...
@@ -372,7 +370,6 @@ story:
       effect: emotion_surprise_0
       face: mtn_ex_050.exp.json
       id: 100501
-      lipSynch: 0
       motion: 0
       pos: 2
     nameRight: Felicia
@@ -385,10 +382,9 @@ story:
       motion: 201
     textLeft: However.
   - chara:
-    - cheek: 0
+    - cheek: 1
       face: mtn_ex_050.exp.json
       id: 100501
-      lipSynch: 0
       motion: 400
     textRight: —?!
   - chara:
@@ -419,9 +415,8 @@ story:
       what's on the menu?@Is there anything you want to eat, Felicia?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_010.exp.json
       id: 100501
-      motion: 200
     textRight: Somethin' with [chara:100501:motion_200:face_mtn_ex_011.exp.json:cheek_0]"WOAH"
       and "BABANG"!
   - chara:
@@ -450,5 +445,5 @@ story:
     textLeft: Did you really understand her?!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

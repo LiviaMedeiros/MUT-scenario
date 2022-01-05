@@ -1,7 +1,8 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 0.01
+  - bg: bg_adv_47103.jpg
+    bgm: bgm01_anime15
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -9,19 +10,9 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 0
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 300400
-      motion: 0
-      mouthOpen: 0
-      pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_47103.jpg
-    bgm: bgm01_anime15
-    chara:
-    - id: 101300
     nameLeft: Asuka
     textLeft: Phew...
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -30,8 +21,12 @@ story:
       mouthOpen: 0
     textLeft: I think that was the last of the Familiars.
   - chara:
-    - id: 300400
-      motion: 200
+    - cheek: 0
+      face: mtn_ex_001.exp.json
+      id: 300400
+      motion: 0
+      mouthOpen: 0
+      pos: 2
     nameRight: Sasara
     textRight: Looks like it.@That leaves…
   - chara:
@@ -50,22 +45,20 @@ story:
       motion: 200
       mouthOpen: 1
     textLeft: The Witch!
-  - autoTurnLast: 0.01
+  - bg: bg_adv_47103.jpg
     chara:
     - id: 6103
       name: sprite_0
       pos: 1
-    turnChangeIn: rollInFast
-  - bg: bg_adv_47103.jpg
     nameCenter: ""
     textCenter: ZJRZJR...ZJRZ
+    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - bg: bg_adv_47103.jpg
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101300
-      lipSynch: 0
       motion: 0
       mouthOpen: 0
       pos: 2
@@ -91,10 +84,11 @@ story:
     nameRight: Felicia
     textBg: shout
     textRight: HRRAAAAAH!
-  - autoTurnLast: 1
-    bgm: stop
+  - bg: bg_adv_21142.jpg
+    bgm: bgm03_story07
     chara:
     - id: 810000
+      motion: 0
       pos: 0
       posX: -50
       posY: 0
@@ -104,12 +98,10 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_21142.jpg
-    bgm: bgm03_story07
     nameLeft: Kyubey
     nameRight: Kako
     textLeft: Felicia Mitsuki's parents are dead.
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -176,52 +168,43 @@ story:
       motion: 0
       mouthOpen: 0
     textRight: Altered how?
-  - autoTurnLast: 1
-    bgm: stop
+  - bg: bg_adv_47103.jpg
+    bgm: bgm01_anime15
     chara:
     - id: 6103
       name: sprite_0
       pos: 0
     - cheek: 0
+      effect: shake
       face: mtn_ex_030.exp.json
       id: 101300
-      motion: 0
+      motion: 400
       mouthOpen: 1
       pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_47103.jpg
-    bgm: bgm01_anime15
-    chara:
-    - id: 101300
-      motion: 400
     nameRight: Asuka
     textBg: shout
     textRight: Ungh![se:3001_chara_damage][flashEffect:flashRed2][bgEffect:shakeLarge][chara:101300:effect_shake]
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300400
-      motion: 201
+      motion: 0
       mouthOpen: 1
       pos: 1
     nameCenter: Sasara
     textCenter: Asuka!
-  - autoTurnLast: 0.2
+  - bgEffect: shakeLarge
     chara:
     - cheek: 0
-      eyeClose: 1
       face: mtn_ex_050.exp.json
       id: 300400
-      motion: 400
-      mouthOpen: 1
+      motion: 0
+      mouthOpen: 0
+    flashEffect: flashRed2
     textBg: shout
     textCenter: '...Gyah![se:3001_chara_damage][chara:300400:effect_slideOutRightFast]'
-  - autoTurnLast: 1
-    bgEffect: shakeLarge
-    chara:
-    - effect: slideOutRightFast
-      id: 300400
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -287,27 +270,21 @@ story:
     nameRight: Asuka
     textRight: Hngh!
   - autoTurnLast: 0.5
-    flashEffect: explosion
-    textClear: 1
-  - autoTurnLast: 1.5
+    bg: white
+    turnChangeIn: whiteIn
+  - bg: bg_adv_47103.jpg
     bgm: stop
     chara:
     - id: 6103
       name: sprite_0
       pos: 0
     - cheek: 0
-      eyeClose: 1
       face: mtn_ex_030.exp.json
       id: 101300
-      motion: 400
+      lipSynch: 0
+      motion: 0
       mouthOpen: 0
       pos: 2
-    turnChangeIn: whiteIn
-  - bg: bg_adv_47103.jpg
-    chara:
-    - eyeClose: 0
-      id: 101300
-      lipSynch: 0
     nameRight: Asuka
     textRight: '...'
     turnChangeOut: whiteOut
@@ -317,9 +294,8 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101300
-      lipSynch: 0
-      motion: 0
-      mouthOpen: 0
+      lipSynch: 1
+      mouthOpen: 1
     nameRight: Asuka
     textRight: Felicia, no!
   - chara:
@@ -336,15 +312,16 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300400
-      motion: 400
+      motion: 0
       mouthOpen: 0
       pos: 2
     nameRight: Sasara
     textRight: So much power... Incredible... @How can this be?!
-  - autoTurnLast: 1
-    bgm: stop
+  - bg: bg_adv_21142.jpg
+    bgm: bgm03_story07
     chara:
     - id: 810000
+      motion: 0
       pos: 0
       posX: -50
       posY: 0
@@ -354,12 +331,10 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_21142.jpg
-    bgm: bgm03_story07
     nameLeft: Kyubey
     nameRight: Kako
     textLeft: In the chaos of that fire, she made her wish.
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - id: 810000
@@ -412,8 +387,8 @@ story:
   - chara:
     - id: 810000
     textLeft: Grew deep in her heart.
-  - autoTurnLast: 1
-    bgm: stop
+  - bg: bg_adv_47103.jpg
+    bgm: bgm03_story10
     chara:
     - id: 6103
       name: sprite_0
@@ -425,58 +400,61 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_47103.jpg
-    bgm: bgm03_story10
     nameRight: Felicia
     textRight: I'll kill, kill! KILL THEM ALL!@I'll kill every last Witch!
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-  - chara:
+  - bgEffect: shakeLarge
+    chara:
     - effect: ef_adv_07
       id: 100500
       motion: 200
       mouthOpen: 1
+    flashEffect: flashWhite2
+    se: 6053_hit_strike_03_s
     textBg: shout
     textRight: YOU'RE DEAAAD!
-  - autoTurnLast: 1
+  - autoTurnLast: 0.5
+    bgEffect: shakeLarge
+    flashEffect: flashRed2
     nameLeft: ""
     textBg: shout
     textLeft: ZSYHHH☆●△▼◇ー![se:6054_hit_strike_03_vh][chara:6103:effect_shake]
-  - autoTurnLast: 0.01
+  - bg: bg_adv_47103.jpg
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101300
-      motion: 0
+      motion: 400
       mouthOpen: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_001.exp.json
       id: 300400
       motion: 0
       mouthOpen: 0
       pos: 2
-    turnChangeIn: rollInFast
-  - bg: bg_adv_47103.jpg
-    chara:
-    - id: 101300
-      motion: 400
+    flashEffect: flashWhite2
     nameLeft: Asuka
     nameRight: Sasara
     textLeft: Ngh!
+    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - chara:
-    - id: 300400
-      motion: 201
+    - cheek: 0
+      face: mtn_ex_020.exp.json
+      id: 300400
+      motion: 400
       mouthOpen: 1
     textRight: Get down, Asuka!
   - autoTurnLast: 0.5
-    bgm: stop
-    flashEffect: explosion
-    textClear: 1
-  - autoTurnLast: 2
+    bg: white
+    turnChangeIn: whiteIn
+  - bg: bg_adv_21142.jpg
+    bgm: bgm03_story07
     chara:
     - id: 810000
+      motion: 0
       pos: 0
       posX: -50
       posY: 0
@@ -486,9 +464,6 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 2
-    turnChangeIn: whiteIn
-  - bg: bg_adv_21142.jpg
-    bgm: bgm03_story07
     nameLeft: Kyubey
     nameRight: Kako
     textLeft: Have you heard enough about Felicia?
@@ -499,71 +474,83 @@ story:
       motion: 300
       mouthOpen: 0
     textRight: '...More than enough.'
-  - textLeft: What will you do now that you know the truth?
   - chara:
-    - id: 301101
+    - id: 810000
+    textLeft: What will you do now that you know the truth?
+  - chara:
+    - cheek: 0
+      id: 301101
+      lipSynch: 0
+      motion: 0
+      mouthOpen: 0
     textRight: '...'
   - chara:
-    - id: 301101
+    - cheek: 0
+      id: 301101
+      lipSynch: 1
+      mouthOpen: 0
     textRight: Nothing, for now... I'll just...
-  - textRight: Keep it inside.
+  - chara:
+    - cheek: 0
+      face: mtn_ex_022.exp.json
+      id: 301101
+      motion: 300
+      mouthOpen: 0
+    textRight: Keep it inside.
   - chara:
     - id: 810000
     textLeft: Good idea.
-  - textLeft: Telling an amnesiac the truth would@only cause them more pain, after
+  - chara:
+    - id: 810000
+      pos: 0
+    textLeft: Telling an amnesiac the truth would@only cause them more pain, after
       all.
-  - textRight: That, and...
+  - chara:
+    - cheek: 0
+      id: 301101
+      motion: 0
+      mouthOpen: 0
+    textRight: That, and...
   - chara:
     - id: 810000
     textLeft: Yes?
-  - autoTurnLast: 1
+  - bg: bg_adv_12061.jpg
     bgm: stop
     chara:
     - cheek: 0
-      eyeClose: 1
       face: mtn_ex_050.exp.json
       id: 101300
+      lipSynch: 0
       motion: 0
       mouthOpen: 0
       pos: 0
-    - cheek: 0
-      eyeClose: 1
-      face: mtn_ex_020.exp.json
-      id: 300400
-      motion: 201
-      pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_12061.jpg
-    chara:
-    - eyeClose: 0
-      id: 101300
-      lipSynch: 0
-    - cheek: 0
-      eyeClose: 0
-      face: mtn_ex_050.exp.json
-      id: 300400
     nameLeft: Asuka
-    surround: 7003_wind
     textLeft: '...'
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101300
+      lipSynch: 1
       motion: 300
       mouthOpen: 0
+    surround: 7003_wind
     textLeft: Phew...@You saved me...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300400
       motion: 0
+      mouthOpen: 0
+      pos: 2
     nameRight: Sasara
     textRight: '...Protecting you is my job...'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 300400
+      mouthOpen: 0
     textRight: Where's Felicia?
   - chara:
     - cheek: 0
@@ -630,7 +617,6 @@ story:
       lipSynch: 1
       motion: 100
       mouthOpen: 0
-    surround: stop
     textRight: She's asleep...
   - chara:
     - cheek: 0
@@ -665,10 +651,11 @@ story:
       pos: 2
     nameRight: Asuka
     textRight: Wow is right...@This is… A little inconvenient, isn't it?
-  - autoTurnLast: 1
-    bgm: stop
+  - bg: bg_adv_21142.jpg
+    bgm: bgm03_story03
     chara:
     - id: 810000
+      motion: 0
       pos: 0
       posX: -50
       posY: 0
@@ -678,14 +665,12 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 2
-    surround: stop
-    turnChangeIn: fadeIn
-  - bg: bg_adv_21142.jpg
-    bgm: bgm03_story03
     nameLeft: Kyubey
     nameRight: Kako
+    surround: stop
     textRight: '...Next time I see her I''ll ask her what@I didn''t get around to
       asking last time...'
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - effect: fadeout
@@ -696,7 +681,7 @@ story:
     narration: I'll ask her to be my friend...
     narrationBg: bg_adv_21142.jpg
     narrationEffect: in
-  - autoTurnFirst: 4.8
+  - autoTurnFirst: 4.4
     bg: bg_adv_narration.jpg
     bgm: stop
     chara:

@@ -5,12 +5,12 @@ story:
     bg: bg_adv_21375.jpg
     chara:
     - cheek: 1
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 103701
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 103301
       motion: 0
       pos: 2
@@ -33,7 +33,7 @@ story:
     textLeft: Papa has been imprisoned!
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp3.json
+      face: mtn_ex_051.exp.json
       id: 103301
     nameRight: Rabi
     textRight: '...Huh?'
@@ -44,7 +44,7 @@ story:
     textLeft: Uncle took Papa!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103301
       motion: 200
     nameRight: Rabi
@@ -59,12 +59,12 @@ story:
     bg: bg_adv_19312.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103701
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103301
       motion: 0
       pos: 2
@@ -101,7 +101,7 @@ story:
     textRight: (This is a completely unexpected crisis...@But...in this situation...)
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 103301
       lipSynch: 0
     nameRight: Rabi
@@ -113,7 +113,7 @@ story:
     textRight: There is one more indirect thing,@though I can only make a guess.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103701
       motion: 1
       pos: 0
@@ -121,7 +121,7 @@ story:
     textLeft: What is it...?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103301
     nameRight: Rabi
     textRight: There was one remark that could not be taken as@denying him...
@@ -143,7 +143,7 @@ story:
     textLeft: Then why would he capture Papa...?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 103301
       motion: 0
     nameRight: Rabi
@@ -165,7 +165,7 @@ story:
       be basking in the limelight.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103701
       motion: 1
     nameLeft: Nayuta
@@ -178,14 +178,14 @@ story:
       ill of folklore.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103701
       lipSynch: 0
     nameLeft: Nayuta
     textLeft: '[chara:103701:effect_emotion_surprise_0][se:7226_shock]!?'
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 103301
       motion: 1
     nameRight: Rabi
@@ -201,14 +201,14 @@ story:
     textRight: If she asks anything of you, you should be careful.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 103701
       motion: 0
     nameLeft: Nayuta
     textLeft: Uncle is denying Father,@or trying to steal his accomplishments...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 103301
       motion: 0
       pos: 2
@@ -216,14 +216,14 @@ story:
     textRight: Either way, something bad is happening.
   - chara:
     - cheek: 1
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103701
       motion: 100
     nameLeft: Nayuta
     textLeft: And if Touka is supporting this...@But, Touka was different last time!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103301
       pos: 2
     nameRight: Rabi
@@ -239,7 +239,7 @@ story:
     textLeft: You think she may be lying...?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 103301
       motion: 200
     nameRight: Rabi
@@ -249,7 +249,7 @@ story:
     bg: bg_adv_21461.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 100702
       motion: 0
       pos: 1
@@ -267,7 +267,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100702
     narration: Papa is a doctor@and can help looots of people,@and I'm a genius, too,@so
       I can help looots of people,
@@ -283,19 +283,19 @@ story:
     narration: I didn't believe what Papa said,@but when I saw this, I thought "Ohhh!"
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 100702
       motion: 400
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 100702
       motion: 0
     enableSkipAutoTurn: 0
     narration: 'Magical Girls: Their Hope and Despair'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 100702
       motion: 201
     narration: Do people that work with folklore read too much manga?
@@ -303,12 +303,12 @@ story:
     bg: bg_adv_19312.jpg
     chara:
     - cheek: 1
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103701
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 103301
       motion: 0
       pos: 2
@@ -324,7 +324,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103301
       lipSynch: 0
     nameRight: Rabi

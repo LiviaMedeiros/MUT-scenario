@@ -228,7 +228,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -242,7 +242,7 @@ story:
       soulGem: 0
     turnChangeIn: fadeIn
   - chara:
-    - id: 100770
+    - id: 100701
     nameLeft: Touka
     textLeft: So did you take any photos of the fight@at the old subway?
     turnChangeOut: fadeOut
@@ -253,7 +253,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       motion: 400
       pos: 0
     nameLeft: Touka
@@ -274,7 +274,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -283,60 +283,60 @@ story:
     nameRight: Nemu
     textRight: What Kagome Satori said.
   - chara:
-    - id: 101471
+    - id: 101403
     nameRight: Nemu
     textRight: If the police find out, Big Sis Iroha and everyone@will be taken away.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       motion: 200
     nameLeft: Touka
     textLeft: They're all minors, they're fiiine.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
     nameLeft: Touka
     textLeft: Better yet, this is our chance to let the whole world@know that Magical
       Girls exist!
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 200
     nameRight: Nemu
     textRight: In an endlessly negative image, yes.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       motion: 100
     nameRight: Nemu
     textRight: This isn't like you.@You seem to be a little impatient, Touka.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100770
+      id: 100701
       motion: 1
     nameLeft: Touka
     textLeft: This is just the start,@so I wasn't really paying attention,
   - chara:
-    - id: 100770
+    - id: 100701
     nameLeft: Touka
     textLeft: but the reactions on social media would be@pretty mixed, meow...
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 100
     nameLeft: Touka
     textLeft: I also found the account of a girl@who seems to be a Magical Girl,
   - chara:
-    - id: 100770
+    - id: 100701
     nameLeft: Touka
     textLeft: but despite all the flashy content,@she doesn't get much of a reaction
       out of people...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       motion: 1
     nameRight: Nemu
     textRight: Isn't there a problem with the discrepancy between@the public's interest
@@ -344,31 +344,31 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100770
+      id: 100701
       motion: 201
     nameLeft: Touka
     textLeft: That's why I'm doing my part as a genius creator@to attract interest.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100770
+      id: 100701
     nameLeft: Touka
     textLeft: There are people that seem interested, but only at about one-tenth of
       the reactions I was expecting...
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 300
     nameLeft: Touka
     textLeft: '...By the way,@there is one terrible hypothesis, buuut...'
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 100
     nameRight: Nemu
     textRight: What would that be?
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100770
+      id: 100701
       motion: 0
       pos: 0
     nameLeft: Touka
@@ -383,7 +383,7 @@ story:
     nameRight: Kagome
     textRight: Y-yes...!?
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 100
     nameLeft: Touka
     textLeft: Can you provide me information about Futatsugi@and Tokime?
@@ -398,7 +398,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       motion: 200
       pos: 0
     nameLeft: Touka
@@ -411,13 +411,13 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
     nameLeft: Touka
     textLeft: Of course, I'll keep their backgrounds and@upbringings a secret!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -428,7 +428,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100770
+      id: 100701
       motion: 1
       pos: 0
     nameLeft: Touka

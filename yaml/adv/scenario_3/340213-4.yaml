@@ -36,7 +36,8 @@ story:
     chara:
     - id: 810000
       pos: 0
-      posX: -50
+      posX: 0
+      posY: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402301

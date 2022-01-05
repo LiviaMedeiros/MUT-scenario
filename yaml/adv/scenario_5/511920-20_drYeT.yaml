@@ -11,12 +11,12 @@ story:
     bg: bg_adv_21511.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_051.exp3.json
+      face: mtn_ex_051.exp.json
       id: 103300
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103700
       motion: 0
       pos: 0
@@ -30,7 +30,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103700
       motion: 200
       pos: 0
@@ -45,12 +45,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 200
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -94,12 +94,12 @@ story:
     bg: bg_adv_21511.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 304000
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 303800
       motion: 1
       pos: 0
@@ -120,7 +120,7 @@ story:
     textLeft: Does that ring any bells?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103700
       motion: 0
       pos: 2
@@ -142,7 +142,7 @@ story:
     textRight: But I don’t think Rabi-san and I have ever been lost together...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 301100
       motion: 200
       pos: 0
@@ -150,7 +150,7 @@ story:
     textLeft: '...Can you show us your diary, Rabi-san?'
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 103300
       motion: 0
       pos: 2
@@ -187,12 +187,12 @@ story:
     bg: bg_adv_21511.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -221,12 +221,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 301100
       motion: 100
       pos: 0
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 304000
       motion: 0
       pos: 2
@@ -247,12 +247,12 @@ story:
   - bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103700
       motion: 400
       pos: 0
     - cheek: 0
-      face: mtn_ex_051.exp3.json
+      face: mtn_ex_051.exp.json
       id: 103300
       motion: 400
       pos: 2
@@ -274,7 +274,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -288,7 +288,7 @@ story:
     textRight: We’ve been friends for much, much longer than this,
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103700
     nameRight: Nayuta
     textRight: from even before I met the lost Rabi.
@@ -312,17 +312,17 @@ story:
     bg: bg_adv_20644.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103300
       motion: 300
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103700
       motion: 1
       pos: 2
     turnChangeIn: fadeIn
-    turnEffect: sepiaFrame
+    turnEffect: blackFrame
   - nameNarration: Nayuta
     narration: “At some point, I took a wrong turn, @and we ended up lost in the snowfield.”
     narrationCoverOpacity: 150
@@ -334,19 +334,19 @@ story:
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_051.exp3.json
+      face: mtn_ex_051.exp.json
       id: 103300
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103700
     flashEffect: explosion
     narrationEffect: out
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 103300
       motion: 0
       pos: 1
@@ -361,7 +361,7 @@ story:
     turnChangeOutTime: 1.2
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103700
       motion: 1
       pos: 1
@@ -370,12 +370,12 @@ story:
     bg: bg_adv_21511.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 301100
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103300
       motion: 0
       pos: 2
@@ -406,7 +406,7 @@ story:
     textRight: Because it was an unfamiliar place, I thought I @became lost.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103700
       motion: 100
       pos: 0
@@ -429,7 +429,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 101
       pos: 0
@@ -443,7 +443,7 @@ story:
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103700
       motion: 0
       pos: 1
@@ -458,12 +458,12 @@ story:
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103700
       motion: 1
       pos: 2
@@ -477,7 +477,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -490,7 +490,7 @@ story:
     textLeft: You didn’t use honorifics with each other back then, @did you?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103700
       motion: 400
       pos: 2
@@ -498,13 +498,13 @@ story:
     textRight: Yes...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103700
     nameRight: Nayuta
     textRight: And we often got lost together.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 301100
       motion: 400
       pos: 0
@@ -521,7 +521,7 @@ story:
     textRight: Yes... it was Rabi-san!
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp3.json
+      face: mtn_ex_051.exp.json
       id: 103300
       motion: 0
       pos: 2
@@ -529,7 +529,7 @@ story:
     textRight: '...It was Nayuta-sama.'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 100
       pos: 0
@@ -537,7 +537,7 @@ story:
     textLeft: What the heck... Ya were right by each other’s side @all along!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 303800
       motion: 300
       pos: 2
@@ -545,7 +545,7 @@ story:
     textRight: I’m sorry, I started talking about things like past lives and family...
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 304000
       motion: 0
       pos: 2
@@ -553,7 +553,7 @@ story:
     textRight: Apologies for the confusion.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 101
       pos: 0
@@ -562,7 +562,7 @@ story:
       two found the person you were searching for!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103300
       motion: 100
       pos: 2
@@ -570,7 +570,7 @@ story:
     textRight: '...That’s for sure.'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103700
       motion: 200
       pos: 0
@@ -587,12 +587,12 @@ story:
   - bgm: bgm03_story09
     chara:
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 120301
       motion: 200
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -601,7 +601,7 @@ story:
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120302
       motion: 200
       pos: 2
@@ -614,7 +614,7 @@ story:
     textRight: '[flashEffect:explosion]Here we go!'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 201
       pos: 0
@@ -627,7 +627,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 301100
       motion: 200
       pos: 2
@@ -635,7 +635,7 @@ story:
     textRight: Is that...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 100
       pos: 0
@@ -643,13 +643,13 @@ story:
     textLeft: In exchange for delivering smiles,
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120302
     nameLeft: Felicia
     textLeft: we Reindeer Santas receive this magical energy!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 101
       pos: 0
@@ -657,7 +657,7 @@ story:
     textLeft: This product of delivering smiles is our reward!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 301100
       motion: 100
       pos: 2
@@ -665,7 +665,7 @@ story:
     textRight: '...So that’s how it works!'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -681,7 +681,7 @@ story:
     textLeft: It made you smile, didn’t it?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103300
       motion: 0
       pos: 2
@@ -689,7 +689,7 @@ story:
     textRight: '...Yeah, when you put it that way...'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103700
       motion: 100
       pos: 2
@@ -699,12 +699,12 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103700
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 103300
       motion: 1
       pos: 2
@@ -737,7 +737,7 @@ story:
     textRight: That’s right.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 103700
       motion: 100
       pos: 0
@@ -746,7 +746,7 @@ story:
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 103300
       motion: 1
       pos: 1
@@ -768,12 +768,12 @@ story:
     chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 103700
       motion: 100
       pos: 0
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 103300
       motion: 1
       pos: 2
@@ -788,7 +788,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103700
     nameLeft: Nayuta
     textLeft: I was the only one who felt we were close...?
@@ -799,7 +799,7 @@ story:
     textRight: '..... @.....'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103300
       lipSynch: 1
       motion: 300
@@ -812,7 +812,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 103300
       pos: 2
     nameRight: Rabi
@@ -825,7 +825,7 @@ story:
     textRight: I would never say that to your face...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103700
       lipSynch: 0
       motion: 0
@@ -833,7 +833,7 @@ story:
     textLeft: '..... @.....'
   - chara:
     - cheek: 1
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 103700
       lipSynch: 1
       motion: 400
@@ -850,12 +850,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 100
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -863,7 +863,7 @@ story:
     textRight: Uh-oh...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 100
     nameLeft: Tsuruno

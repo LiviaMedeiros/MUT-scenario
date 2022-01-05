@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_11101.jpg
+  - bg: bg_adv_21241.jpg
     bgm: bgm01_anime03
     chara:
     - cheek: 0
@@ -83,7 +83,7 @@ story:
     nameNarration: Konomi
     narration: The shop is doing well now, but...@Just a short time ago, it was on
       the@verge of closing forever.
-    narrationBg: bg_adv_11101.jpg
+    narrationBg: bg_adv_21241.jpg
     narrationEffect: in
     surround: stop
   - chara:
@@ -205,7 +205,7 @@ story:
     - effect: fadeout
       id: 303001
     narration: That's right.@Auntie had just gotten out of the hospital.
-    narrationBg: bg_adv_11101.jpg
+    narrationBg: bg_adv_21241.jpg
     narrationEffect: in
   - bg: bg_adv_11041.jpg
     bgm: bgm03_story07
@@ -228,7 +228,7 @@ story:
       id: 303001
       motion: 1
     textCenter: I need to hurry!
-  - bg: bg_adv_11101.jpg
+  - bg: bg_adv_21241.jpg
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -277,7 +277,7 @@ story:
     turnChangeOut: fadeOut
   - narration: Auntie's illness... It wasn't the kind of@thing you can recover from
       right away.
-    narrationBg: bg_adv_11101.jpg
+    narrationBg: bg_adv_21241.jpg
     narrationEffect: in
   - bg: bg_adv_21012.jpg
     chara:
@@ -318,5 +318,5 @@ story:
   - narration: But I was just a high school student...@There was nothing I could do.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

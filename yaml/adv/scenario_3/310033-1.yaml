@@ -1,7 +1,8 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 0.01
+  - bg: bg_adv_18021.jpg
+    bgm: bgm03_story02
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -15,13 +16,9 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_18021.jpg
-    bgm: bgm03_story02
-    chara:
-    - id: 301201
     nameLeft: Meiyui
     textLeft: Training?
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -278,5 +275,5 @@ story:
     textLeft: I'm not sure if I'll be able to help@you, but I'll think of something.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

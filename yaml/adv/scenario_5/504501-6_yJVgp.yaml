@@ -70,7 +70,7 @@ story:
       lipSynch: 0
     textCenter: (But that's the price I must pay for use@of the classroom. Oh well.)
   - autoTurnLast: 2
-    bg: bg_adv_21491.jpg
+    bg: bg_adv_21025.jpg
     enableSkipAutoTurn: 0
     surround: stop
     turnChangeIn: fadeIn
@@ -88,7 +88,7 @@ story:
       pos: 2
     nameNarration: ""
     narration: '*Rattle* *Slide*'
-    narrationBg: bg_adv_21491.jpg
+    narrationBg: bg_adv_21025.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
   - bgm: bgm03_story20

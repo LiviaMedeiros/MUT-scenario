@@ -26,6 +26,7 @@ story:
       pos: 2
     nameRight: Akira
     narrationEffect: out
+    surround: 7003_wind
     textRight: We did it, Kako!@We beat the Witch!
   - chara:
     - cheek: 1
@@ -73,7 +74,6 @@ story:
       motion: 0
       pos: 0
     nameLeft: Meiyui
-    surround: 7003_wind
     textLeft: …
   - chara:
     - cheek: 0
@@ -130,7 +130,6 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 301200
-    surround: stop
     textLeft: '...She is quite good...'
   - chara:
     - cheek: 0
@@ -310,6 +309,7 @@ story:
       pos: 1
       voice: vo_char_3005_00_04
     nameCenter: Nanaka
+    surround: stop
     textCenter: This city seems to be full of our enemies...
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut

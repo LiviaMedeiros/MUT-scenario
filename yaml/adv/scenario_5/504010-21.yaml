@@ -342,8 +342,7 @@ story:
   - narration: Answer me...@Nagisa.
   - autoTurnLast: 2
     item:
-    - iPhoneXScale: 1
-      path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
+    - path: resource/scenario/img/51040_tower_nagisa/51040_picture-book.jpg
       posX: 0
       posY: 0
       visible: appear

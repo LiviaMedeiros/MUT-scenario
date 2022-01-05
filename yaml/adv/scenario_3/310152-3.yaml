@@ -39,7 +39,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_052.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -51,7 +51,7 @@ story:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_020.exp.json
-      id: 101471
+      id: 101403
     textLeft: It looks like they need to be put in their@place.
   - chara:
     - cheek: 0
@@ -75,7 +75,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -84,7 +84,7 @@ story:
     nameLeft: Touka
     textLeft: I don't need to transform.
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 200
     textLeft: I can support Ui with my brilliant intellect@alone.
   - chara:
@@ -241,7 +241,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -250,18 +250,18 @@ story:
     nameLeft: Touka
     textLeft: Pardon?
   - chara:
-    - id: 100770
+    - id: 100701
     textLeft: You were jealous of Ui and started a fight@with her like little children.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       motion: 100
     textLeft: I'm sure that's what you meant to say.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -270,7 +270,7 @@ story:
     nameLeft: Nemu
     textLeft: In the end, they couldn't face the truth and@turned to violence.
   - chara:
-    - id: 101471
+    - id: 101403
     textLeft: Don't forget that part.
   - chara:
     - cheek: 0
@@ -283,7 +283,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101471
+      id: 101403
     - effect: fadeout
       id: 100500
     textClear: 1
@@ -437,7 +437,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -446,7 +446,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_020.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -463,12 +463,12 @@ story:
     nameRight: Iroha
     textRight: All right. I think I understand what@happened...
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 201
     nameLeft: Touka
     textLeft: They're the ones who tried to start a fight@first!
   - chara:
-    - id: 100770
+    - id: 100701
     textLeft: We didn't do anything wrong!
   - chara:
     - id: 100101
@@ -482,14 +482,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100770
+      id: 100701
       lipSynch: 0
       motion: 300
     textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -498,7 +498,7 @@ story:
     nameLeft: Nemu
     textLeft: We shouldn't have let them pick a fight@with us.
   - chara:
-    - id: 101471
+    - id: 101403
     textLeft: That much I think we should also be sorry@for.
   - chara:
     - cheek: 0
@@ -624,7 +624,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -636,7 +636,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1

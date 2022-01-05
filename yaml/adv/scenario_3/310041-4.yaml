@@ -52,7 +52,7 @@ story:
     textLeft: Sana.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_020.exp.json
       id: 100401
       motion: 400
       mouthOpen: 0
@@ -80,7 +80,6 @@ story:
     - cheek: 0
       face: mtn_ex_052.exp.json
       id: 100401
-      lipSynch: 0
       mouthOpen: 0
     textRight: Wh-what do you mean?
   - chara:

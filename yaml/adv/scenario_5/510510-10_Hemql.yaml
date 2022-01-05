@@ -469,7 +469,7 @@ story:
     narrationCoverOpacity: 110
     narrationEffect: in
     narrationFontSize: 30
-    narrationLineMargin: 10
+    narrationLineMargin: 35
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - nameNarration: Rena

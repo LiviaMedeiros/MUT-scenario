@@ -42,13 +42,11 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
-      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 760000
-      live2dName: live2d_1
+      id: 760090
       motion: 0
       pos: 2
     textBg: shout
@@ -148,13 +146,11 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
-      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 760000
-      live2dName: live2d_1
+      id: 760090
       motion: 0
       pos: 2
     nameLeft: ""
@@ -262,13 +258,11 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
-      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 760000
-      live2dName: live2d_1
+      id: 760090
       motion: 0
       pos: 2
     nameLeft: ""

@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 0.01
+  - bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -15,13 +15,10 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_21201.jpg
-    chara:
-    - id: 100201
     nameLeft: Yachiyo
     nameRight: Rena
     textLeft: How'd I know that@Rena ate the donut...?
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -151,8 +148,8 @@ story:
     narration: That's pretty much how the day@went. It was a very relaxed time.
     narrationBg: bg_adv_21201.jpg
     narrationEffect: in
-  - autoTurnLast: 0.01
-    bgm: stop
+  - bg: bg_adv_21202.jpg
+    bgm: bgm03_story02
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -160,18 +157,10 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 0
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 101101
-      motion: 0
-      mouthOpen: 0
-      pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_21202.jpg
-    bgm: bgm03_story02
     nameLeft: Momoko
     narrationEffect: out
     textLeft: Well... It's gettin' late.@I think it's time we headed home.
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -184,6 +173,9 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101101
+      motion: 0
+      mouthOpen: 0
+      pos: 2
     nameRight: Kaede
     textRight: And thank you for the food!
   - chara:

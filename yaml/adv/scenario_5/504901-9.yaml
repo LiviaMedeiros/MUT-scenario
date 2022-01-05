@@ -59,11 +59,11 @@ story:
         - fadeTo:
             duration: 0.5
             opacity: 0
-      iPhoneXScale: 1
       opacity: 255
-      path: resource/scenario/img/purple.png
+      path: resource/scenario/img/purple.jpg
       posX: 0
       posY: 0
+      scale: 1
       setVisible: 1
     se: 7211_souljem_02
     textClear: 1

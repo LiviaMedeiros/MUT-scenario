@@ -13,6 +13,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     turnChangeIn: fadeIn
   - bgEffect: shakeLarge
     bgm: bgm03_story10
@@ -20,6 +21,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     - cheek: 0
       effect: ef_adv_01
       face: mtn_ex_020.exp.json
@@ -207,6 +209,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     - cheek: 0
       effect: ef_adv_05
       face: mtn_ex_020.exp.json

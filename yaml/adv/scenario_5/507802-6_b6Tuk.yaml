@@ -42,7 +42,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -51,18 +51,18 @@ story:
     nameRight: Nemu
     textRight: On the surface, yes.
   - chara:
-    - id: 101471
+    - id: 101403
     textRight: But there's cases where a girl's magic activates@without her consciously
       realizing.
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 100
     textRight: Because she gave acting directions to the@performers...
   - chara:
-    - id: 101471
+    - id: 101403
     textRight: '...telling them all to "truly inhabit their role"...'
   - chara:
-    - id: 101471
+    - id: 101403
     textRight: The cast members all behaved in a way that@faithfully replicated their
       characters.
   - autoTurnLast: 1.5
@@ -177,7 +177,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -200,12 +200,12 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101471
+      id: 101403
     nameRight: Nemu
     textRight: From my perspective as an observer, I too could@clearly see how strange
       it was.
   - chara:
-    - id: 101471
+    - id: 101403
     textRight: Magic must have been involved.
   - chara:
     - cheek: 0
@@ -240,7 +240,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -250,7 +250,7 @@ story:
     textRight: Precisely.@I shall explain the second factor now.
   - chara:
     - eyeClose: 1
-      id: 101471
+      id: 101403
     textRight: Piece number two...
   - autoTurnLast: 0.2
     chara:
@@ -262,7 +262,7 @@ story:
     nameLeft: Mikura
   - chara:
     - eyeClose: 0
-      id: 101471
+      id: 101403
     textRight: '...is the effect of your magic, Mikura Komachi.'
   - chara:
     - cheek: 0
@@ -335,7 +335,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -344,12 +344,12 @@ story:
     nameRight: Nemu
     textRight: After hearing about this, I formed a hypothesis.
   - chara:
-    - id: 101471
+    - id: 101403
     textRight: This was most likely the result of a more@sophisticated magic...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101471
+      id: 101403
       motion: 200
     textRight: Namely, the power to "restore" things that have@been lost.
   - chara:
@@ -467,7 +467,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -478,15 +478,15 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101471
+      id: 101403
     textRight: What comes next is the real issue...
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 300
     textRight: If we suppose that what happened in Sakurako's@database...
   - chara:
     - eyeClose: 1
-      id: 101471
+      id: 101403
     textRight: Was also occurring within each performer's own@brain...
   - chara:
     - cheek: 0
@@ -521,7 +521,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1

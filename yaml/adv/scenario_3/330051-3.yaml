@@ -43,7 +43,7 @@ story:
   - narration: My father died of his illness...and despair.@Then my relatives took
       me in.
     narrationBg: bg_adv_13013.jpg
-  - bg: bg_adv_21441.jpg
+  - bg: bg_adv_21082.jpg
     chara:
     - cheek: -1
       face: mtn_ex_020.exp.json
@@ -116,7 +116,7 @@ story:
       id: 300501
       mouthOpen: 1
     textLeft: Witches...
-  - bg: bg_adv_21441.jpg
+  - bg: bg_adv_21082.jpg
     chara:
     - cheek: -1
       face: mtn_ex_020.exp.json
@@ -238,5 +238,5 @@ story:
     textLeft: Hi there, everybody.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

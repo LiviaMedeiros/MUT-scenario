@@ -2,7 +2,7 @@
 story:
   group_1:
   - autoTurnLast: 0.01
-    bg: bg_adv_21491.jpg
+    bg: bg_adv_21025.jpg
     chara:
     - cheek: 0
       eyeClose: 1
@@ -236,7 +236,7 @@ story:
       motion: 300
     textRight: I refuse...
   - autoTurnLast: 0.01
-    bg: bg_adv_21491.jpg
+    bg: bg_adv_21025.jpg
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

@@ -180,7 +180,7 @@ story:
       id: 402700
       motion: 400
       pos: 1
-      posX: -90
+      posX: -150
   - chara:
     - id: 402700
     textCenter: You're sooo sweet! I love you, Corbeau!

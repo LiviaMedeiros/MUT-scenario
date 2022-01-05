@@ -135,7 +135,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -144,7 +144,7 @@ story:
     - cheek: 1
       eyeClose: 1
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -155,17 +155,17 @@ story:
     turnChangeIn: fadeIn
     turnEffect: ef_adv_10
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 100
     textLeft: Pffft—
     turnChangeOut: fadeOut
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 200
     textLeft: This isn't a scary story, it's a surreal comedy!
   - chara:
     - eyeClose: 0
-      id: 101471
+      id: 101403
       motion: 100
     textRight: '*Chuckle*...@I couldn''t have come up with that myself.'
   - autoTurnLast: 0.2

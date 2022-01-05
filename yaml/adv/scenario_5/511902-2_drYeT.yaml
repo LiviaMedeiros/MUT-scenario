@@ -11,12 +11,12 @@ story:
     bg: bg_adv_21031.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103800
       motion: 1
       pos: 2
@@ -29,7 +29,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 100
       pos: 0
@@ -42,7 +42,7 @@ story:
     textRight: More, Mii wants lots more!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 1
       pos: 0
@@ -50,7 +50,7 @@ story:
     textLeft: You’re in Candy Town, but you want candy.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103800
       motion: 100
       pos: 2
@@ -64,7 +64,7 @@ story:
     textRight: It’s so soft and chewy in your mouth @and super sweet~
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 303500
       motion: 300
       pos: 2
@@ -77,7 +77,7 @@ story:
     textRight: It’s hard to get any to eat...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 100
       pos: 0
@@ -87,7 +87,7 @@ story:
     chara:
     - cheek: 0
       effect: ef_adv_05
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100500
       motion: 0
       pos: 0
@@ -95,7 +95,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 100500
       motion: 200
       pos: 0
@@ -103,7 +103,7 @@ story:
     textLeft: I’ll smash the glass usin’ my hammer…
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 303500
       motion: 200
       pos: 2
@@ -116,7 +116,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120301
       motion: 201
       pos: 0
@@ -124,7 +124,7 @@ story:
     textLeft: Hold it, Felicia!
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: That’ll make you a burglar, not Santa!
@@ -132,7 +132,7 @@ story:
     chara:
     - cheek: 0
       effect: ef_adv_05
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -145,7 +145,7 @@ story:
     textRight: Tch, that’s no good huh… @Thought this’d be an easy job.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -158,7 +158,7 @@ story:
     textRight: I got it.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103800
       motion: 0
       pos: 2
@@ -173,7 +173,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 101
       pos: 0
@@ -190,20 +190,20 @@ story:
     textRight: Lets them smile…?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 1
     nameLeft: Tsuruno
     textLeft: For example, something along the lines of
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: making what the person most want come out of it!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 303500
       motion: 0
       pos: 0
@@ -211,7 +211,7 @@ story:
     textLeft: Then if Mikage-chan were to open it...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103800
       motion: 100
       pos: 2
@@ -219,7 +219,7 @@ story:
     textRight: Lots of candy will come out?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 100
       pos: 0
@@ -227,7 +227,7 @@ story:
     textLeft: It’s possible. Try opening it?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 103800
       motion: 400
       pos: 2
@@ -243,7 +243,7 @@ story:
   - bgm: bgm03_story02
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103800
       motion: 300
       pos: 2
@@ -252,7 +252,7 @@ story:
     textRight: Huh...? There’s no candy...?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 303500
       motion: 100
       pos: 2
@@ -260,7 +260,7 @@ story:
     textRight: Three small bags... and a ribbon?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -268,13 +268,13 @@ story:
     textLeft: It’s a gift wrapping set.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 303500
       motion: 0
     textRight: Mikage-chan, was this what you wanted?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103800
       motion: 300
       pos: 2
@@ -282,7 +282,7 @@ story:
     textRight: No, it’s all wrong!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 300
       pos: 0
@@ -295,7 +295,7 @@ story:
     textRight: What do you mean?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -322,7 +322,7 @@ story:
       about smiles in the end...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 100
       pos: 2
@@ -335,7 +335,7 @@ story:
     textLeft: Yeah, this feels like it’ll be hard.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -343,13 +343,13 @@ story:
     textLeft: But don’t you worry!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: I assure you that we’ll make you smile!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 100
       pos: 0
@@ -357,7 +357,7 @@ story:
     textLeft: It’s in the text of us substitute Santas’ clause!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       lipSynch: 0
       motion: 400
@@ -372,14 +372,14 @@ story:
     textRight: Santas’... clause… Santa Claus…
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 300
     nameRight: Felicia
     textRight: Heey, were ya tryin’… to make a pun?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 303500
       motion: 200
       pos: 2
@@ -387,7 +387,7 @@ story:
     textRight: '[chara:303500:effect_emotion_joy_0][se:7222_happy]Ahahaha!'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 101
       pos: 0
@@ -395,7 +395,7 @@ story:
     textLeft: Look, got one smile already!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
     nameLeft: Tsuruno
     textLeft: And in the same way, I’ll make Mikage-chan smile, @too!

@@ -6,7 +6,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 400
       pos: 0
     nameLeft: Manaka
@@ -17,18 +17,18 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 1
     textLeft: Thanks for your business!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
     textLeft: All right!@Sold out again!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 100
       mouthOpen: 1
     textLeft: See you again tomorrow!
@@ -61,7 +61,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
       motion: 100
       pos: 0
     nameLeft: Manaka
@@ -76,13 +76,13 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300902
+      id: 300900
       motion: 1
     textLeft: Why so formal?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300902
+      id: 300900
     textLeft: After all, I have you to thank for this!
   - chara:
     - cheek: 1
@@ -94,24 +94,24 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 0
     textLeft: As usual, I'm really busy...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
     textLeft: I haven't had time to eat lunch myself yet.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 300
     textLeft: Here's the bento I saved for myself...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300902
+      id: 300900
       motion: 200
     textLeft: And oh...what's this?@It looks like there's another one too!
   - chara:
@@ -124,20 +124,20 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
       motion: 0
     textLeft: Oh darn!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
       motion: 100
     textLeft: I guess I forgot to sell that one!
   - bgm: bgm03_story15
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 1
     surround: stop
     textLeft: Here you go.
@@ -151,12 +151,12 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
     textLeft: Want to eat them together?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
     textLeft: '[chara:300900:motion_100]Manaka''s special bento!@The greatest bento
       in the whole wide world!'
   - chara:
@@ -168,24 +168,24 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 1
     textLeft: I want to see it one more time.
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
     textLeft: That incredibly happy smile you@make when you eat my food.
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 0
     textLeft: And I want you to teach me again and again...
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 0
     textLeft: The reason that I fell in [chara:300900:motion_001]love@with cooking
       in the first place.
@@ -215,12 +215,12 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
     textLeft: Heh.@Crying again?
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 100
     textLeft: You really are a crybaby, aren't you?
   - autoTurnFirst: 4.8
@@ -229,7 +229,7 @@ story:
     chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 1
       pos: 1
       voice: vo_char_3009_00_05

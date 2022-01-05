@@ -32,7 +32,7 @@ story:
       id: 800100
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300902
+      id: 300900
       lipSynch: 0
       motion: 0
       pos: 1
@@ -42,33 +42,33 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       lipSynch: 0
       motion: 200
     textCenter: (Yeah, I'm sold out again.)
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
     textCenter: Errr, sorry, I guess I should have made@an announcement.
     turnEffect: stop
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
       motion: 0
     textCenter: But, oh well...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
       lipSynch: 0
     textCenter: (Guess I'll clean up and have lunch...)
   - chara:
     - cheek: 0
       effect: emotion_surprise_0
       face: mtn_ex_050.exp.json
-      id: 300902
+      id: 300900
     se: 7226_shock
     textCenter: Huh?
   - bgm: bgm01_anime07
@@ -77,8 +77,9 @@ story:
       face: mtn_ex_030.exp.json
       id: 100401
       motion: 200
+      mouthOpen: 1
       pos: 2
-    - id: 300902
+    - id: 300900
       pos: 0
     nameRight: Sana
     surround: stop
@@ -86,7 +87,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300902
+      id: 300900
       lipSynch: 0
       motion: 0
     nameLeft: Manaka
@@ -95,7 +96,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300902
+      id: 300900
       lipSynch: 0
     textLeft: (It's my last one, but...)@[wait:0.8][turnEffect:stop][chara:300900:motion_200:lipSynch_1]...Here
       you go...
@@ -103,12 +104,13 @@ story:
     - cheek: 1
       face: mtn_ex_052.exp.json
       id: 100401
+      mouthOpen: 1
     textRight: '...Huh?!@[chara:100401:motion_400:cheek_2:effect_emotion_surprise_0][se:7226_shock]You
       can?! R-really?!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300902
+      id: 300900
       motion: 0
     textLeft: You came to buy a bento, right?
   - chara:
@@ -122,28 +124,31 @@ story:
       face: mtn_ex_052.exp.json
       id: 100401
       motion: 200
+      mouthOpen: 1
     se: 7226_shock
     textRight: Ummm! Errr! Could you be!@Are you a Magical Girl too?!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300902
+      id: 300900
     textLeft: '...What?'
   - chara:
     - cheek: 1
       face: mtn_ex_040.exp.json
       id: 100401
       motion: 0
+      mouthOpen: 0
     textRight: Ah! Um, huh?@I mean...but...errr...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300902
+      id: 300900
     textLeft: '?'
   - chara:
     - cheek: 1
       id: 100401
       motion: 0
+      mouthOpen: 0
     textRight: The thing is...
   - chara:
     - cheek: 1
@@ -166,7 +171,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300902
+      id: 300900
       motion: 200
     textLeft: '...I don''t know what to say...@What''re you talking about…?'
   - chara:
@@ -175,12 +180,13 @@ story:
       face: mtn_ex_030.exp.json
       id: 100401
       motion: 0
+      mouthOpen: 1
     se: 7224_fall_into
     textRight: Oh, yeah, right…@I mean...Magical Girls...it sounds stup—
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300902
+      id: 300900
       motion: 1
     textLeft: You're right.@I am a Magical Girl.
   - chara:
@@ -188,12 +194,13 @@ story:
       effect: emotion_surprise_0
       face: mtn_ex_052.exp.json
       id: 100401
+      mouthOpen: 1
     se: 7226_shock
     textRight: Huh?!@[chara:100401:motion_200]Wha...! Huh?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300902
+      id: 300900
     textLeft: Talking to a random stranger about Magical@Girls… You're a reckless
       one, aren't you?
   - chara:
@@ -207,12 +214,12 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300902
+      id: 300900
     textLeft: Anyway, the fact that I noticed you...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300902
+      id: 300900
       motion: 200
     textLeft: Has nothing to do with me being a@Magical Girl.
   - chara:
@@ -224,35 +231,36 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300902
+      id: 300900
       motion: 1
     textLeft: I may still be young, but I'm a@top-class chef.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300902
+      id: 300900
       motion: 100
     textLeft: A top-class chef never fails to notice@a customer.
   - chara:
     - cheek: 2
       face: mtn_ex_050.exp.json
       id: 100401
+      mouthOpen: 1
     textRight: Wow!@[chara:100401:cheek_1:motion_200]That's just...incred—
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300902
+      id: 300900
       motion: 1
     textLeft: So do you want the bento or not?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300902
+      id: 300900
     textLeft: Usually I save the last one for myself.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300902
+      id: 300900
     textLeft: If you don't need it, I'll eat it myself.
   - chara:
     - cheek: 2
@@ -265,7 +273,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 0
     textLeft: '...Ha! You don’t have to be in such a rush.@It''s not going to run
       away.'
@@ -290,7 +298,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300902
+      id: 300900
     textLeft: '...Sorry, [chara:300900:cheek_0:face_mtn_ex_030.exp.json:motion_300]I''m
       afraid this is going to@be the last special Manaka bento...'
   - chara:
@@ -302,84 +310,86 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
       motion: 1
     textLeft: I'm thinking about giving up on this@whole thing.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
     textLeft: Not just the bentos, but also going to@Liliana as a visiting chef.
   - chara:
     - cheek: 1
       face: mtn_ex_052.exp.json
       id: 100401
       motion: 0
+      mouthOpen: 1
     textRight: N-no!@But why?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
       motion: 0
     textLeft: '...I just don''t see the point in going@through all that trouble anymore.'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 100401
+      mouthOpen: 0
     textRight: What?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
     textLeft: Selling bentos...@Being a visiting chef...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
     textLeft: It's true that it's helped make our@restaurant more popular, but...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
     textLeft: '[chara:300900:motion_300]We haven''t gotten any new customers@because
       of it.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
     textLeft: I did all this bento stuff and this visiting@chef stuff...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
       motion: 1
     textLeft: But instead of getting people to come to@the restaurant...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
     textLeft: It seems like I've actually kept them@away from it...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 0
     textLeft: So that's it!@I'm just going to give it all up!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
     textLeft: If it's not making the restaurant busier...
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300902
+      id: 300900
       motion: 100
     textLeft: Then there's no point in cooking at all!
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
-      id: 300902
+      id: 300900
     textLeft: I feel like I've forgotten the whole reason@[chara:300900:motion_300]I
       started cooking in the first place...
   - autoTurnLast: 2

@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_11101.jpg
+  - bg: bg_adv_21241.jpg
     bgm: bgm01_anime03
     chara:
     - cheek: 0
@@ -397,5 +397,5 @@ story:
     textRight: '?'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

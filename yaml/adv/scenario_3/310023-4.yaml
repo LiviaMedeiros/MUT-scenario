@@ -1,32 +1,25 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 2
-    bg: bg_adv_21163.jpg
-    surround: 7003_wind
-    turnChangeIn: fadeIn
-    turnChangeOut: fadeOut
-  - autoTurnLast: 0.5
-    flashEffect: explosion
-    surround: stop
-  - autoTurnLast: 2
-    bg: bg_adv_21162.jpg
+  - bg: bg_adv_21162.jpg
+    bgm: bgm03_story03
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100200
       motion: 0
-      pos: 2
+      mouthOpen: 0
+      pos: 0
     - cheek: 0
       face: mtn_ex_060.exp.json
       id: 100300
       motion: 0
-      pos: 0
+      mouthOpen: 0
+      pos: 2
+    nameLeft: Yachiyo
+    nameRight: Tsuruno
+    textRight: Ngh... Hnh?!
     turnChangeIn: whiteIn
-  - bgm: bgm03_story03
-    nameLeft: Tsuruno
-    nameRight: Yachiyo
-    textLeft: Ngh... Hnh?!
     turnChangeOut: whiteOut
   - chara:
     - cheek: 0
@@ -34,108 +27,107 @@ story:
       id: 100300
       motion: 400
       mouthOpen: 1
-    textLeft: Whoa!
+    textRight: Whoa!
   - chara:
     - cheek: 0
       face: mtn_ex_014.exp.json
       id: 100200
       mouthOpen: 0
-    textRight: Good...@You're awake.
+    textLeft: Good...@You're awake.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100300
       motion: 0
       mouthOpen: 0
-    textLeft: Wh-what happened?
+    textRight: Wh-what happened?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100900
       motion: 300
       mouthOpen: 0
-      pos: 2
-    nameRight: Rena
-    textRight: Phew... A lot.
+      pos: 0
+    nameLeft: Rena
+    textLeft: Phew... A lot.
   - chara:
     - cheek: 0
       id: 100300
       mouthOpen: 0
-    textLeft: Hang on, wasn't there one more of you...?
+    textRight: Hang on, wasn't there one more of you...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100300
       mouthOpen: 0
-    textLeft: Hnh? Why's she on the ground?
+    textRight: Hnh? Why's she on the ground?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100200
       motion: 0
       mouthOpen: 0
-      pos: 2
-    nameRight: Yachiyo
-    textRight: She'll come to soon enough.
+      pos: 0
+    nameLeft: Yachiyo
+    textLeft: She'll come to soon enough.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100900
       motion: 200
       mouthOpen: 1
-      pos: 2
-    nameRight: Rena
-    textRight: Kaede, fill her in!
+      pos: 0
+    nameLeft: Rena
+    textLeft: Kaede, fill her in!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101100
       motion: 0
       mouthOpen: 0
-      pos: 2
-    nameRight: Kaede
-    textRight: What? Me?@Okay, um... Well...
-  - autoTurnLast: 0.01
+      pos: 0
+    nameLeft: Kaede
+    textLeft: What? Me?@Okay, um... Well...
+  - bg: bg_adv_21162.jpg
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100300
       motion: 0
       mouthOpen: 0
-      pos: 0
+      pos: 2
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101100
       motion: 0
       mouthOpen: 0
-      pos: 2
+      pos: 0
+    nameLeft: Kaede
+    nameRight: Tsuruno
+    textRight: A-and then you defeated the Witch!
     turnChangeIn: fadeIn
-  - bg: bg_adv_21162.jpg
-    nameLeft: Tsuruno
-    nameRight: Kaede
-    textLeft: A-and then you defeated the Witch!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       id: 101100
       mouthOpen: 0
-    textRight: Yes, that's right.
+    textLeft: Yes, that's right.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100300
       motion: 300
       mouthOpen: 0
-    textLeft: No... How could I make such a mistake?
+    textRight: No... How could I make such a mistake?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100900
       motion: 100
       mouthOpen: 0
-      pos: 0
-    nameLeft: Rena
-    textLeft: Really though, [chara:100900:effect_emotion_joy_0][se:7222_happy]Yachiyo
+      pos: 2
+    nameRight: Rena
+    textRight: Really though, [chara:100900:effect_emotion_joy_0][se:7222_happy]Yachiyo
       was incredible!
   - chara:
     - cheek: 0
@@ -143,7 +135,7 @@ story:
       id: 101100
       lipSynch: 0
       mouthOpen: 0
-    textRight: (...What is going on here...?@Rena's never this well-behaved...)
+    textLeft: (...What is going on here...?@Rena's never this well-behaved...)
     turnEffect: thinking
   - chara:
     - cheek: 0
@@ -151,7 +143,7 @@ story:
       id: 100900
       motion: 0
       mouthOpen: 0
-    textLeft: How did you figure it out?@You really are Yachiyo Holmes!
+    textRight: How did you figure it out?@You really are Yachiyo Holmes!
     turnEffect: stop
   - chara:
     - cheek: 0
@@ -160,91 +152,89 @@ story:
       lipSynch: 1
       motion: 100
       mouthOpen: 0
-    textRight: Yeah! Seriously!
+    textLeft: Yeah! Seriously!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100200
       motion: 0
       mouthOpen: 0
-      pos: 2
-    nameRight: Yachiyo
-    textRight: No…
-  - textRight: Didn't I tell you?@I'm not a "Great Detective".
+      pos: 0
+    nameLeft: Yachiyo
+    textLeft: I told you, I'm not.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100900
       motion: 100
       mouthOpen: 0
-    textLeft: There you go being humble again!
+    textRight: There you go being humble again!
   - chara:
     - cheek: 0
       face: mtn_ex_042.exp.json
       id: 100200
       mouthOpen: 0
-    textRight: '...I''m not...@I used magic to figure it out.'
+    textLeft: '...I''m not...@I used magic to figure it out.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100900
       motion: 0
       mouthOpen: 0
-    textLeft: '...Magic?'
+    textRight: '...Magic?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100200
       mouthOpen: 0
-    textRight: When I look at someone and focus, @I can feel things in my Soul Gem.
+    textLeft: When I look at someone and focus, @I can feel things in my Soul Gem.
   - chara:
     - cheek: 0
       id: 100200
       motion: 100
       mouthOpen: 0
-    textRight: Like their state of mind.@Well, their general state of mind, anyway.
+    textLeft: Like their state of mind.@Well, their general state of mind, anyway.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100900
       mouthOpen: 0
-    textLeft: R-really?
+    textRight: R-really?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100200
       motion: 301
       mouthOpen: 0
-    textRight: Using magic to resolve situations is by@nature antithetical to mystery
+    textLeft: Using magic to resolve situations is by@nature antithetical to mystery
       solving.
   - chara:
     - cheek: 0
       id: 100200
       mouthOpen: 0
-    textRight: Therefore, I'm no Holmes.
+    textLeft: Therefore, I'm no Holmes.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101100
       motion: 100
       mouthOpen: 0
-      pos: 2
-    nameRight: Kaede
-    textRight: Ohhh, no wonder you were@so insistent about that before!
+      pos: 0
+    nameLeft: Kaede
+    textLeft: Ohhh, no wonder you were@so insistent about that before!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101100
       mouthOpen: 0
-    textRight: Even so, you're really cool!@[chara:101100:effect_emotion_joy_0][se:7222_happy]Being
+    textLeft: Even so, you're really cool!@[chara:101100:effect_emotion_joy_0][se:7222_happy]Being
       able to use magic like that!
-  - bgm: stop
-    chara:
+  - chara:
     - cheek: 0
       id: 100900
       motion: 100
       mouthOpen: 0
-    textLeft: '...So...'
+    textRight: '...So...'
   - bgm: bgm03_story01
     chara:
     - cheek: 0
@@ -252,64 +242,64 @@ story:
       id: 100300
       motion: 0
       mouthOpen: 0
-      pos: 0
-    nameLeft: Tsuruno
-    textLeft: I've lost! @Completely and utterly!
+      pos: 2
+    nameRight: Tsuruno
+    textRight: I've lost! @Completely and utterly!
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 100200
       motion: 0
       mouthOpen: 0
-      pos: 2
-    nameRight: Yachiyo
-    textRight: What's gotten into you all of a sudden?
+      pos: 0
+    nameLeft: Yachiyo
+    textLeft: What's gotten into you all of a sudden?
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 100300
       motion: 101
       mouthOpen: 0
-    textLeft: '...I want you to be my master!'
+    textRight: '...I want you to be my master!'
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 100200
       motion: 400
       mouthOpen: 0
-    textRight: Your what?!
+    textLeft: Your what?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101100
       motion: 0
       mouthOpen: 0
-      pos: 0
-    nameLeft: Kaede
-    textLeft: Have you...been looking@for a master all this time?
+      pos: 2
+    nameRight: Kaede
+    textRight: Have you...been looking@for a master all this time?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100300
       motion: 0
       mouthOpen: 0
-      pos: 0
-    nameLeft: Tsuruno
-    textLeft: Yes!
+      pos: 2
+    nameRight: Tsuruno
+    textRight: Yes!
   - chara:
     - cheek: 0
       id: 100200
       motion: 200
       mouthOpen: 0
-    textRight: Wait just a second!@I'm not...
+    textLeft: Wait just a second!@I'm not...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 100300
       motion: 201
       mouthOpen: 0
-    textLeft: Please! @I want to dig deep and better myself!
-  - autoTurnLast: 0.01
+    textRight: Please! @I want to dig deep and better myself!
+  - bg: bg_adv_21162.jpg
     chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
@@ -317,58 +307,53 @@ story:
       motion: 300
       mouthOpen: 0
       pos: 1
-    turnChangeIn: rollInFast
-  - bg: bg_adv_21162.jpg
     nameCenter: Momoko
     textCenter: '...Uuunngghh... @Oww... My head...'
+    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
-  - autoTurnLast: 0.01
+  - bg: bg_adv_21162.jpg
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100900
       motion: 0
       mouthOpen: 0
-      pos: 2
+      pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101100
-      motion: 0
-      mouthOpen: 0
-      pos: 0
-    turnChangeIn: rollInFast
-  - bg: bg_adv_21162.jpg
-    chara:
-    - id: 101100
       motion: 100
-    nameLeft: Kaede
-    nameRight: Rena
-    textLeft: Momoko...!
+      mouthOpen: 0
+      pos: 2
+    nameLeft: Rena
+    nameRight: Kaede
+    textRight: Momoko...!
+    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
       id: 100900
       motion: 100
       mouthOpen: 0
-    textRight: Momoko!
+    textLeft: Momoko!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100300
       motion: 0
       mouthOpen: 0
-      pos: 0
-    nameLeft: Tsuruno
-    textLeft: Master Yachiyo, [chara:100300:effect_emotion_joy_0][se:7222_happy]please!
+      pos: 2
+    nameRight: Tsuruno
+    textRight: Master Yachiyo, [chara:100300:effect_emotion_joy_0][se:7222_happy]please!
   - chara:
     - cheek: 2
       face: mtn_ex_020.exp.json
       id: 101000
       motion: 0
       mouthOpen: 0
-      pos: 0
-    nameLeft: Momoko
-    textLeft: You! ...Wait, [chara:101000:lipSynch_0][freeze:0.8][chara:101000:cheek_0][chara:101000:face_mtn_ex_050.exp.json][chara:101000:lipSynch_1]Master
+      pos: 2
+    nameRight: Momoko
+    textRight: You! ...Wait, [chara:101000:lipSynch_0][freeze:0.8][chara:101000:cheek_0][chara:101000:face_mtn_ex_050.exp.json][chara:101000:lipSynch_1]Master
       Yachiyo?@...What the heck is goin' on?
   - chara:
     - cheek: 0
@@ -376,13 +361,13 @@ story:
       id: 100900
       motion: 0
       mouthOpen: 0
-    textRight: Well, long story short, Yachiyo@has this magic ability to...
+    textLeft: Well, long story short, Yachiyo@has this magic ability to...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100900
       mouthOpen: 0
-    textRight: '[chara:100900:effect_emotion_surprise_0][se:7226_shock]...Oh my gosh!
+    textLeft: '[chara:100900:effect_emotion_surprise_0][se:7226_shock]...Oh my gosh!
       That''s how you@knew I ate the donut, isn''t it...?!'
   - chara:
     - cheek: 0
@@ -390,9 +375,9 @@ story:
       id: 100200
       motion: 0
       mouthOpen: 0
-      pos: 0
-    nameLeft: Yachiyo
-    textLeft: Hehe... Maybe.
+      pos: 2
+    nameRight: Yachiyo
+    textRight: Hehe... Maybe.
   - chara:
     - effect: fadeout
       id: 100200
@@ -401,8 +386,7 @@ story:
     narrationBg: black
     narrationEffect: in
   - narration: She agreed to join the crew as a friend@rather than Yachiyo's apprentice.
-  - bgm: stop
-    narration: Unfortunately, this newfound friendship@turned out to be a fragile
+  - narration: Unfortunately, this newfound friendship@turned out to be a fragile
       one.
   - narration: And soon, something terrible@would tear it apart at the seams.
   - narration: For now, however, a single@thought occupies Yachiyo's mind.

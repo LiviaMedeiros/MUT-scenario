@@ -15,11 +15,11 @@ story:
       motion: 0
       pos: 2
     item:
-    - iPhoneXScale: 1
-      opacity: 128
-      path: resource/scenario/img/black.png
+    - opacity: 128
+      path: resource/scenario/img/black.jpg
       posX: 0
       posY: 0
+      scale: 1
       setVisible: 1
       zOrder: charaFront
     turnChangeIn: fadeIn
@@ -152,11 +152,11 @@ story:
       motion: 0
       pos: 1
     item:
-    - iPhoneXScale: 1
-      opacity: 128
-      path: resource/scenario/img/black.png
+    - opacity: 128
+      path: resource/scenario/img/black.jpg
       posX: 0
       posY: 0
+      scale: 1
       setVisible: 1
       zOrder: charaFront
     turnChangeIn: whiteIn

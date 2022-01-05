@@ -209,6 +209,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameLeft: Tart
@@ -273,6 +274,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     item:
     - path: resource/scenario/img/51015_singleraid_tart/memoria_1171.jpg
       visible: hide
@@ -318,6 +320,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     nameRight: Qube
     textRight: Exactly!
   - textRight: Tart, you have your own role to play, just@as Liz has hers.

@@ -72,7 +72,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -83,7 +83,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
     nameLeft: Touka
     textLeft: How'd it go, Big Sis Iroha?
   - chara:
@@ -109,7 +109,7 @@ story:
     nameRight: Iroha
     textRight: But you seem to already know that.
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 100
     nameLeft: Touka
     textLeft: All thanks to that photo you asked me to analyze.
@@ -129,7 +129,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -140,7 +140,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -164,7 +164,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101471
+      id: 101403
       motion: 0
     nameRight: Nemu
     textRight: They're related?
@@ -182,7 +182,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       motion: 300
     nameRight: Nemu
     textRight: What terrible circumstances...
@@ -314,7 +314,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1

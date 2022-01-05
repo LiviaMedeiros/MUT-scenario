@@ -26,7 +26,7 @@ story:
     narrationEffect: out
     textLeft: Excuse me, Nanaka!@Sorry to bother you! But excuse me.
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 100
@@ -42,7 +42,7 @@ story:
     textLeft: Err, that wasn't really an apology...@But if it sounded like that, I'm
       sorry!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300501
       mouthOpen: 0
@@ -55,7 +55,7 @@ story:
       mouthOpen: 0
     textLeft: Yeah, THAT was an apology!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300501
       motion: 1
@@ -69,7 +69,7 @@ story:
       mouthOpen: 0
     textLeft: Err, no, no, please wait!@Can I have just a little of your time?
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300501
       motion: 0
@@ -83,7 +83,7 @@ story:
       mouthOpen: 0
     textLeft: I want you to look at some of the clothing@designs I've sketched!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 100
@@ -96,7 +96,7 @@ story:
       mouthOpen: 0
     textLeft: Yes! You have incredible artistic sense!@Please!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 0
@@ -109,7 +109,7 @@ story:
       mouthOpen: 0
     textLeft: You will for sure! Absolutely!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300501
       motion: 1
@@ -122,7 +122,7 @@ story:
       mouthOpen: 0
     textLeft: Oh, thank you so much!@Here, please take a look!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 0
@@ -130,7 +130,7 @@ story:
     textRight: All right, let's see.
   - bgm: stop
     chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300501
       motion: 400
@@ -156,7 +156,7 @@ story:
       mouthOpen: 0
     textLeft: So what do you think?
   - chara:
-    - cheek: -1
+    - cheek: 0
       id: 300501
       motion: 0
       mouthOpen: 0
@@ -169,7 +169,7 @@ story:
       mouthOpen: 0
     textLeft: Really?!@Yippee![chara:300101:effect_emotion_joy_0][se:7222_happy]
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300501
       motion: 100
@@ -183,7 +183,7 @@ story:
       mouthOpen: 0
     textLeft: '...Mushrooms. They''re mushrooms!'
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300501
       mouthOpen: 0
@@ -194,7 +194,7 @@ story:
       mouthOpen: 0
     textLeft: Yes, mushrooms!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 300
@@ -202,7 +202,7 @@ story:
     textRight: '...I''m certain of one thing.'
   - bgm: bgm03_story01
     chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 1
@@ -215,40 +215,40 @@ story:
       mouthOpen: 0
     textLeft: So you're trying to tell me that they're@out of this world?!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300501
       motion: 100
       mouthOpen: 0
     textRight: Yes, out of this world.@Not really made for earthlings!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       mouthOpen: 0
     textRight: Maybe in a hundred years, no, a thousand@years...maybe then people
       will be ready.
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300501
       motion: 1
       mouthOpen: 0
     textRight: Until then, maybe what you need to do is get@a space ship.
   - chara:
-    - cheek: -1
+    - cheek: 0
       id: 300501
       mouthOpen: 0
     textRight: Then you could take all your designs and@blast off into deep space!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300501
       motion: 0
       mouthOpen: 0
     textRight: I'm sure you'll find some aliens out there@that will surely love them!
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300501
       mouthOpen: 0
@@ -261,7 +261,7 @@ story:
       mouthOpen: 0
     textLeft: '...You mean to say that this world isn''t big@enough for me...!'
   - chara:
-    - cheek: -1
+    - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300501
       motion: 100
@@ -282,5 +282,5 @@ story:
   - autoTurnLast: 2
     narrationEffect: out
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

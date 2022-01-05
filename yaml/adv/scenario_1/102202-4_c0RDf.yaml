@@ -189,7 +189,7 @@ story:
       voiceFull: fullvoice/section_102202/vo_full_102202-4-21
       voiceFullStop: fullvoice/section_102202/vo_full_102202-4-20
     textLeft: I just come from deep in the mountains,@and I'm ignorant of the ways
-      of the world.
+      of the world​.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

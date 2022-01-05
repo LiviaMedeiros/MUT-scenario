@@ -27,7 +27,7 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 801500
-    textRight: There's a legend about the Tokime...
+    textRight: There's a legend about the Tokime… 
   - bgm: bgm23_tokime01
     chara:
     - id: 305800

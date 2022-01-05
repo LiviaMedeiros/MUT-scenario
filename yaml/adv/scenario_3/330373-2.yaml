@@ -261,6 +261,7 @@ story:
     narration: '*Crash*'
     narrationBg: bg_adv_21211.jpg
     narrationEffect: in
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

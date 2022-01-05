@@ -1,28 +1,24 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 0.5
-    bg: bg_adv_19071.jpg
+  - bg: bg_adv_19071.jpg
     bgm: bgm03_story02
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 301602
-      motion: 0
+      motion: 100
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 302902
       motion: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - chara:
-    - id: 301602
-      motion: 100
     nameLeft: Kokoro
     nameRight: Masara
     textLeft: Hee hee... [chara:301602:lipSynch_0][wait:0.5][chara:301602:cheek_1][chara:301602:face_mtn_ex_010.exp.json][chara:301602:lipSynch_1]*Sigh*
       I can't believe I just up@and started sobbing.
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - id: 302902
@@ -166,44 +162,36 @@ story:
     - id: 301602
       motion: 0
     textLeft: F-for real?!
-  - autoTurnLast: 0.01
-    chara:
+  - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800900
       motion: 0
       pos: 1
-    turnChangeIn: rollInFast
-  - chara:
-    - id: 800900
     nameCenter: ""
     textCenter: Alrighty! We're gonna take your answer@sheets now!
+    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - textCenter: Please give your completed sheets to the@nearest staff member!
-  - autoTurnLast: 0.01
-    chara:
+  - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 301602
-      motion: 0
+      motion: 200
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 302902
       motion: 0
       pos: 2
-    turnChangeIn: rollInFast
-  - chara:
-    - id: 301602
-      motion: 200
     textLeft: We managed to answer everything!@We better hurry!
+    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - chara:
     - id: 302902
       motion: 200
     textRight: Yes!
-  - autoTurnLast: 0.5
-    chara:
+  - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800900
@@ -214,12 +202,10 @@ story:
       id: 801000
       motion: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - chara:
-    - id: 800900
     nameLeft: ""
     nameRight: ""
     textLeft: Here's your first place prize! A 5 kilogram@bag of premium rice!
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -233,8 +219,7 @@ story:
       id: 800900
       motion: 100
     textLeft: And don't worry, we'll personally deliver@it to your address!
-  - autoTurnLast: 0.01
-    chara:
+  - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 301602
@@ -245,13 +230,10 @@ story:
       id: 302902
       motion: 100
       pos: 2
-    turnChangeIn: rollInFast
-  - chara:
-    - id: 302902
-      motion: 100
     nameLeft: Kokoro
     nameRight: Masara
     textRight: '*Sigh* Thank you.'
+    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - chara:
     - id: 301602

@@ -247,7 +247,7 @@ story:
       lipSynch: 1
       motion: 400
     - id: 7000
-      name: sprite_0
+      name: Yachiyo
       pos: 0
     nameRight: Yachiyo
     textRight: A familiar...!
@@ -281,14 +281,14 @@ story:
       mouthOpen: 0
     - effect: 7003_damage02
       id: 7000
-      name: sprite_0
+      name: Yachiyo
     se: 6257_hit_spike_02_h
     textClear: 1
   - autoTurnLast: 1
     chara:
     - effect: fadeout
       id: 7000
-      name: sprite_0
+      name: Yachiyo
     se: 3102_enemy_dead
   - chara:
     - eyeClose: 1
@@ -316,7 +316,7 @@ story:
       motion: 0
       pos: 2
     - id: 6000
-      name: sprite_0
+      name: ""
       pos: 0
     turnChangeIn: rollInFast
   - bgm: bgm01_anime15
@@ -333,7 +333,7 @@ story:
     chara:
     - effect: 7002_damage01
       id: 6000
-      name: sprite_0
+      name: ""
     - id: 770700
       mouthOpen: 0
     se: 3001_chara_damage
@@ -342,7 +342,7 @@ story:
     chara:
     - effect: fadeout
       id: 6000
-      name: sprite_0
+      name: ""
   - chara:
     - id: 770700
       motion: 400

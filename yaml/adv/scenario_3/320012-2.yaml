@@ -2,7 +2,7 @@
 story:
   group_1:
   - autoTurnLast: 0.1
-    bg: bg_adv_21401.jpg
+    bg: bg_adv_21041.jpg
     bgm: bgm01_anime07
     turnChangeIn: fadeIn
   - autoTurnLast: 0.1
@@ -322,5 +322,5 @@ story:
     textLeft: '...[wait:1][chara:200101:lipSynch_1:motion_400:cheek_1]Whaaaaaaaaaaaat?!'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

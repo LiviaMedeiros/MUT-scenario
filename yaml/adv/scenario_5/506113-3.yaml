@@ -292,8 +292,8 @@ story:
     narrationCoverOpacity: 110
     narrationEffect: in
     narrationFontSize: 28
-    narrationLineMargin: 15
-    narrationLineSpace: 10
+    narrationLineMargin: 50
+    narrationLineSpace: 20
     turnChangeOut: fadeOut
   - narration: ―Melissa―@I will fight alongside you@as a Magical Girl!
   - autoTurnLast: 2

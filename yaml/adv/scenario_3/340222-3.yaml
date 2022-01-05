@@ -7,6 +7,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 402201
@@ -112,6 +113,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 402200

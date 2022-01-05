@@ -11,7 +11,7 @@ story:
       motion: 0
       pos: 2
     - id: 6103
-      name: sprite_0
+      name: Momoko
       pos: 0
     turnChangeIn: fadeIn
   - chara:
@@ -29,7 +29,7 @@ story:
     chara:
     - effect: 7003_damage02
       id: 6103
-      name: sprite_0
+      name: Kaede
     se: 6100_hit_slash_01_s
     textClear: 1
   - chara:
@@ -45,7 +45,7 @@ story:
     chara:
     - effect: 7002_damage01
       id: 6103
-      name: sprite_0
+      name: Rena
     se: 6150_hit_magic_01
     textClear: 1
   - chara:
@@ -62,7 +62,7 @@ story:
     chara:
     - effect: 7003_damage02
       id: 6103
-      name: sprite_0
+      name: Momoko
     se: 6258_hit_spike_03_s
     textClear: 1
   - autoTurnLast: 0.5
@@ -70,7 +70,7 @@ story:
     chara:
     - effect: fadeout
       id: 6103
-      name: sprite_0
+      name: Momoko
     se: 3102_enemy_dead
     textClear: 1
   - chara:

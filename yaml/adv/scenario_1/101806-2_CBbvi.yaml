@@ -64,7 +64,7 @@ story:
       motion: 0
       mouthOpen: 0
       voiceFull: fullvoice/section_101819/vo_full_101806-2-5
-      voiceFullStop: fullvoice/section_101819/vo_full_101806-2-4
+      voiceFullStop: fullvoice/section_101819/vo_full_101806-2-1
     enableSkipAutoTurn: 1
     textLeft: '*Pant* *Pant* Bring it on!'
   - chara:

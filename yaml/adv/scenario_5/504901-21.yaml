@@ -100,11 +100,11 @@ story:
   - nameNarration: Madoka
     narration: — Madoka —@Hey Sayaka. It's me. It's Madoka.
     narrationAnchor: bottom
-    narrationCoverOpacity: 110
+    narrationCoverOpacity: 130
     narrationEffect: in
-    narrationFontSize: 30
-    narrationLineMargin: 10
-    narrationLineSpace: 20
+    narrationFontSize: 23
+    narrationLineMargin: 20
+    narrationLineSpace: 10
     turnChangeOut: fadeOut
   - narration: — Madoka —@C-can you hear me?@Do you recognize my voice?
   - narration: — Madoka —@Try to remember! Please!@I know you never wanted to hurt

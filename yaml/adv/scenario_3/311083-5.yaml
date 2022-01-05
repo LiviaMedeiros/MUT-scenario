@@ -198,7 +198,7 @@ story:
       pos: 1
     narrationEffect: out
     turnChangeIn: fadeIn
-  - bg: bg_adv_21491.jpg
+  - bg: bg_adv_21025.jpg
     chara:
     - id: 101201
       motion: 100
@@ -251,7 +251,7 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
   - autoTurnLast: 1
-    bg: bg_adv_21491.jpg
+    bg: bg_adv_21025.jpg
     bgm: stop
     chara:
     - cheek: 0

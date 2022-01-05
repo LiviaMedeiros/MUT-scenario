@@ -185,11 +185,11 @@ story:
   - nameNarration: Kyoko
     narration: ― Kyoko ―@What are you?! What've you done to Sayaka?!
     narrationAnchor: bottom
-    narrationCoverOpacity: 110
+    narrationCoverOpacity: 130
     narrationEffect: in
-    narrationFontSize: 30
-    narrationLineMargin: 10
-    narrationLineSpace: 20
+    narrationFontSize: 23
+    narrationLineMargin: 20
+    narrationLineSpace: 10
   - flashEffect: flashRed2
     nameNarration: Madoka
     narration: ― Madoka ―@Sayaka, please stop!@Try to remember! Please!
@@ -198,11 +198,11 @@ story:
   - autoTurnLast: 0.5
     flashEffect: flashWhite2
     item:
-    - iPhoneXScale: 1
-      opacity: 150
-      path: resource/scenario/img/black.png
+    - opacity: 150
+      path: resource/scenario/img/black.jpg
       posX: 0
       posY: 0
+      scale: 1
       setVisible: 1
     narrationEffect: out
     surround: 3023A01
@@ -224,7 +224,7 @@ story:
     bgm: stop
     flashEffect: flashRed2
     item:
-    - path: resource/scenario/img/black.png
+    - path: resource/scenario/img/black.jpg
       setVisible: 0
     jingle: 200307_magia
     narrationEffect: out

@@ -31,7 +31,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -39,7 +39,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -50,7 +50,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       motion: 1
       pos: 0
     nameLeft: Touka
@@ -75,7 +75,7 @@ story:
     nameRight: Ui
     textRight: She said you guys were here, too!
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 100
     nameLeft: Touka
     textLeft: I see.
@@ -87,14 +87,14 @@ story:
     nameRight: Ui
     textRight: '...What were you two doing?'
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 0
     nameLeft: Touka
     textLeft: We were just organizing the bookshelves a little.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -112,12 +112,12 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       motion: 100
     nameLeft: Nemu
     textLeft: Even though none of these are your books...
   - chara:
-    - id: 101471
+    - id: 101403
     nameLeft: Nemu
     textLeft: You would come if we asked?
   - chara:
@@ -135,17 +135,17 @@ story:
     textRight: I have fun helping you two!
   - autoTurnLast: 0.2
     chara:
-    - id: 101471
+    - id: 101403
       pos: 2
     textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101471
+      id: 101403
       motion: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -156,14 +156,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       motion: 400
     nameLeft: Touka
     textLeft: '*Giggle* Ui is so amazing!'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101471
+      id: 101403
       motion: 200
     nameRight: Nemu
     textRight: Indeed, because she can say things like that@from the bottom of her
@@ -179,14 +179,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       motion: 201
     nameLeft: Touka
     textLeft: Not at all!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -206,12 +206,12 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       motion: 0
     nameLeft: Nemu
     textLeft: Ahh...that's right. Hey, Ui.
   - chara:
-    - id: 101471
+    - id: 101403
     nameLeft: Nemu
     textLeft: Do you know of any stores that sell Christmas@cards?
   - chara:
@@ -238,14 +238,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       motion: 100
     nameLeft: Nemu
     textLeft: Then if you're up to it, could you guide me there@next time we're out?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -274,14 +274,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       motion: 200
     nameLeft: Touka
     textLeft: '*Giggle* I suppose it''s just a whim?'
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -293,7 +293,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       motion: 1
     nameRight: Nemu
     textRight: Sometimes volunteering to do good deeds@isn't bad, I mean...
@@ -366,7 +366,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -374,7 +374,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -384,19 +384,19 @@ story:
     turnChangeInTime: 0.8
     turnEffect: stop
   - chara:
-    - id: 101471
+    - id: 101403
     nameRight: Nemu
     textRight: Not just receiving, but sometimes giving@something myself.
     turnChangeOut: fadeOut
     turnChangeOutTime: 0.8
   - chara:
-    - id: 101471
+    - id: 101403
     nameRight: Nemu
     textRight: Exchanging cards with friends and family to@reaffirm our bonds with
       one another.
   - chara:
     - eyeClose: 0
-      id: 101471
+      id: 101403
       motion: 100
     nameRight: Nemu
     textRight: Surprisingly, it's not such a bad habit...@At least it seems that way
@@ -404,7 +404,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       motion: 201
       pos: 0
     nameLeft: Touka
@@ -427,7 +427,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -438,7 +438,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100770
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1

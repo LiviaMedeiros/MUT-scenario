@@ -185,7 +185,7 @@ story:
   - autoTurnLast: 2
     bg: black
     item:
-    - path: resource/scenario/img/adv_souljem_05.jpg
+    - path: resource/scenario/img/adv_souljem_05.png
       posX: 0
       posY: 0
       visible: appear
@@ -208,7 +208,7 @@ story:
       mouthOpen: 0
       pos: 2
     item:
-    - path: resource/scenario/img/adv_souljem_05.jpg
+    - path: resource/scenario/img/adv_souljem_05.png
       visible: hide
     turnChangeIn: fadeIn
   - bg: bg_adv_12064.jpg

@@ -15,7 +15,7 @@ story:
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
-  - bg: bg_adv_21491.jpg
+  - bg: bg_adv_21025.jpg
     bgm: bgm03_story08
     chara:
     - id: 100801

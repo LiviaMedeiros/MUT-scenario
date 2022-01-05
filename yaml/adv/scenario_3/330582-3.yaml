@@ -549,7 +549,7 @@ story:
       id: 305801
       lipSynch: 0
       motion: 300
-    textLeft: …………[wait:1.0][chara:305801:lipSynch_1]I see...@So that's it, huh...
+    textLeft: …………[wait:1.0][chara:305801:lipSynch_1]I see…@So that's it, huh… 
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

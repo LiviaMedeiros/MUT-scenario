@@ -226,7 +226,7 @@ story:
     textLeft: When, where, and who did you@hear about Mokeo from?
   - chara:
     - id: 303501
-    textLeft: Do you believe that Mokeo really exists?
+    textLeft: Do ​​you believe that Mokeo really exists?
   - chara:
     - id: 303501
       motion: 100

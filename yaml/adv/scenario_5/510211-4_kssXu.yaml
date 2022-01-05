@@ -85,7 +85,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 412100
+      id: 831400
       motion: 0
       pos: 0
     textClear: 1
@@ -111,7 +111,7 @@ story:
     narrationBg: bg_adv_20091.jpg
     narrationEffect: in
   - chara:
-    - id: 412100
+    - id: 831400
       lipSynch: 0
     - id: 402100
       mouthOpen: 0
@@ -134,7 +134,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 412100
+      id: 831400
     - effect: fadeout
       id: 402100
     narrationBg: bg_adv_20091.jpg
@@ -428,12 +428,12 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_014.exp.json
-      id: 412100
+      id: 831400
       motion: 200
       pos: 1
   - bgm: stop
     chara:
-    - id: 412100
+    - id: 831400
     nameNarration: Isabeau
     narration: '"Mourir...!"'
     narrationBg: ""
@@ -441,13 +441,13 @@ story:
     narrationEffect: in
   - bgm: bgm01_anime15
     chara:
-    - id: 412100
+    - id: 831400
       motion: 400
     nameCenter: Isabeau
     narrationEffect: out
     textCenter: 'Mourir...mourir...mourir... '
   - chara:
-    - id: 412100
+    - id: 831400
     nameCenter: Isabeau
     textBg: shout
     textCenter: 'Mourir...! Mourir...! '

@@ -229,7 +229,8 @@ story:
     textClear: 1
   - autoTurnLast: 0.2
     chara:
-    - id: 101401
+    - effect: fadeout
+      id: 101401
       pos: 1
   - chara:
     - cheek: 0

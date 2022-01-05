@@ -299,8 +299,8 @@ story:
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
-    narrationFontSize: 30
-    narrationLineMargin: 10
+    narrationFontSize: 28
+    narrationLineMargin: 50
     narrationLineSpace: 20
     turnChangeOut: fadeOut
     voiceFull: fullvoice/section_101602/vo_full_101602-11-27
@@ -390,8 +390,8 @@ story:
     narrationAnchor: bottom
     narrationCoverOpacity: 100
     narrationEffect: in
-    narrationFontSize: 30
-    narrationLineMargin: 10
+    narrationFontSize: 28
+    narrationLineMargin: 50
     narrationLineSpace: 20
     turnChangeOut: fadeOut
     voiceFull: fullvoice/section_101602/vo_full_101602-11-33

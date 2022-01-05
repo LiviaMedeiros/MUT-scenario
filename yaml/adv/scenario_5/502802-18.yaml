@@ -16,7 +16,7 @@ story:
     narrationEffect: in
     narrationFontSize: 30
     narrationLineMargin: 40
-    narrationLineSpace: 15
+    narrationLineSpace: 5
     turnChangeOut: fadeOut
   - nameNarration: Kanagi
     narration: — Kanagi —@Coming right up.
@@ -208,7 +208,7 @@ story:
     narrationEffect: in
     narrationFontSize: 30
     narrationLineMargin: 25
-    narrationLineSpace: 15
+    narrationLineSpace: 5
     turnChangeOut: fadeOut
   - narration: — Kanagi —@...Master.
   - nameNarration: ""

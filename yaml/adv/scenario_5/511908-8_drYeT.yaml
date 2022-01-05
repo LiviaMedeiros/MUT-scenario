@@ -5,21 +5,21 @@ story:
     bg: bg_adv_narration.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
-      id: 100770
+      face: mtn_ex_050.exp.json
+      id: 100701
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 101501
       motion: 0
       pos: 0
     turnChangeIn: fadeIn
   - chara:
-    - id: 100770
+    - id: 100701
       motion: 100
     nameRight: Touka
     textRight: Ahh, the world in that app is still running?
@@ -27,20 +27,20 @@ story:
     turnEffect: thinking
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
-      id: 100770
+      face: mtn_ex_030.exp.json
+      id: 100701
     nameRight: Touka
     textRight: Even I, the creator, had completely forgotten, nya...
   - autoTurnLast: 0.5
     bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_041.exp3.json
+      face: mtn_ex_041.exp.json
       id: 101501
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 100501
       motion: 0
       pos: 0
@@ -64,14 +64,14 @@ story:
     textLeft: The beta game
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_030.exp.json
       id: 100501
-      motion: 200
+      motion: 400
     nameLeft: Felicia
     textLeft: was actually Touka’s experiment all along!?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 100301
       motion: 0
       pos: 0
@@ -79,7 +79,7 @@ story:
     textLeft: What sort of experiment was it?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 101501
       motion: 1
       pos: 2
@@ -100,7 +100,7 @@ story:
     textLeft: Something like... a virtual space?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 101501
       motion: 200
       pos: 2
@@ -108,7 +108,7 @@ story:
     textRight: Yes, that!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 100501
       motion: 100
       pos: 0
@@ -116,7 +116,7 @@ story:
     textLeft: Why would ya suddenly think of that?
   - chara:
     - cheek: 0
-      face: mtn_ex_041.exp3.json
+      face: mtn_ex_041.exp.json
       id: 101501
       motion: 300
       pos: 2
@@ -124,7 +124,7 @@ story:
     textRight: We couldn’t go outside for so long...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 100301
       motion: 0
       pos: 0
@@ -135,13 +135,13 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 101502
       motion: 0
       pos: 0
       soulGem: 0
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100702
       motion: 0
       pos: 2
@@ -171,7 +171,7 @@ story:
       it’s probably winter, since there’s Christmas.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 100702
       motion: 0
       pos: 2
@@ -179,7 +179,7 @@ story:
     textRight: Christmas...? What’s so great about something like @that, nyaa.
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 101402
       motion: 100
       pos: 2
@@ -188,24 +188,24 @@ story:
     textRight: Can I ask you for the reason why?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 101502
     nameLeft: Ui
     textLeft: Because everyone looks like they’re having fun and getting all excited!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 101402
       motion: 0
     nameRight: Nemu
     textRight: I see, that’s very much like you, Ui.
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 101402
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100702
       motion: 1
       pos: 0
@@ -236,7 +236,7 @@ story:
     textRight: A paradise where kids never grow up, suffer, or die.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 101402
       motion: 100
     nameRight: Nemu
@@ -254,7 +254,7 @@ story:
     textLeft: Equipped with autonomous AI that can evolve @based on real personalities...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 100702
       motion: 200
       pos: 0
@@ -262,7 +262,7 @@ story:
     textLeft: Oh, I know!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100702
     nameLeft: Touka
     textLeft: If the system itself is also designed to evolve autonomously...
@@ -271,12 +271,12 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 101501
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 100301
       motion: 0
       pos: 0
@@ -305,7 +305,7 @@ story:
     textRight: It seems so...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 100501
       motion: 100
       pos: 2
@@ -319,7 +319,7 @@ story:
     textRight: We started this game before Ui came to Mikazuki @Villa, y’know?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 100301
     nameLeft: Tsuruno
     textLeft: In the beginning, it was full of people,
@@ -330,7 +330,7 @@ story:
     textLeft: but the number of players began decreasing due to various reasons.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 100501
       motion: 300
       pos: 2
@@ -344,7 +344,7 @@ story:
       forgot about it...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 100501
       motion: 1
       pos: 2
@@ -390,14 +390,14 @@ story:
       game.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 100501
       motion: 300
     nameRight: Felicia
     textRight: On top of that, it’s been a pretty long time since @then...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 101501
       motion: 100
       pos: 2
@@ -411,7 +411,7 @@ story:
       time!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 100501
       motion: 100
       pos: 2
@@ -423,7 +423,7 @@ story:
     textRight: The real me ain’t gonna get excited over somethin’ @like Christmas.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100301
       motion: 100
       pos: 0
@@ -431,14 +431,14 @@ story:
     textLeft: Well, isn’t it interesting? Since when did our other selves
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 100301
       pos: 0
     nameLeft: Tsuruno
     textLeft: start traveling around on a magical, reindeer motorbike?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 101501
       motion: 1
       pos: 2
@@ -446,7 +446,7 @@ story:
     textRight: When we were watching on Tsuruno’s phone,
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 101501
     nameRight: Ui
     textRight: it seemed the two of them stop by towns to @collect fuel,
@@ -456,7 +456,7 @@ story:
     textRight: while heading for the End of the World.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100501
       motion: 0
       pos: 0
@@ -464,7 +464,7 @@ story:
     textLeft: '...I’m gonna check what’s happenin’ on my phone.'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 100501
       motion: 300
       pos: 0
@@ -477,7 +477,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 100301
       motion: 0
       pos: 0
@@ -490,7 +490,7 @@ story:
     textRight: Press here! Ya can choose the next destination for @the characters!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 100301
       motion: 101
       pos: 0
@@ -498,7 +498,7 @@ story:
     textLeft: You’re right!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 101501
       motion: 300
       pos: 2
@@ -506,7 +506,7 @@ story:
     textRight: Wasn’t this a game where you could only watch?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100301
       motion: 1
       pos: 0
@@ -518,7 +518,7 @@ story:
     textLeft: The button was always there, but it couldn’t be @pressed!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 100501
       motion: 1
       pos: 2
@@ -526,7 +526,7 @@ story:
     textRight: Then for the next destination... @Wanna try choosin’ one?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 100301
       motion: 200
       pos: 0
@@ -534,7 +534,7 @@ story:
     textLeft: Yep.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 101501
       motion: 100
       pos: 2

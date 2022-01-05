@@ -26,7 +26,8 @@ story:
   - chara:
     - id: 810000
       pos: 0
-      posX: -50
+      posX: 0
+      posY: 0
     nameLeft: Qube
     textLeft: But there's no denying that it is.
   - chara:
@@ -223,6 +224,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     nameLeft: Liz
     textLeft: Does that mean she is just ahead?
     turnChangeOut: whiteOut
@@ -235,6 +237,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     nameRight: Qube
     textRight: Yes, that's right.
   - chara:
@@ -285,6 +288,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     nameRight: Qube
     textRight: Yes.
   - chara:

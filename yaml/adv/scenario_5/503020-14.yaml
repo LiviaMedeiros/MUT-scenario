@@ -22,11 +22,11 @@ story:
       motion: 0
       pos: 1
     item:
-    - iPhoneXScale: 1
-      opacity: 128
-      path: resource/scenario/img/black.png
+    - opacity: 128
+      path: resource/scenario/img/black.jpg
       posX: 0
       posY: 0
+      scale: 1
       setVisible: 1
       zOrder: charaFront
     turnChangeIn: fadeIn
@@ -88,11 +88,11 @@ story:
       motion: 0
       pos: 0
     item:
-    - iPhoneXScale: 1
-      opacity: 128
-      path: resource/scenario/img/black.png
+    - opacity: 128
+      path: resource/scenario/img/black.jpg
       posX: 0
       posY: 0
+      scale: 1
       setVisible: 1
       zOrder: charaFront
     turnChangeIn: rollInFast
@@ -127,11 +127,11 @@ story:
       motion: 0
       pos: 0
     item:
-    - iPhoneXScale: 1
-      opacity: 128
-      path: resource/scenario/img/black.png
+    - opacity: 128
+      path: resource/scenario/img/black.jpg
       posX: 0
       posY: 0
+      scale: 1
       setVisible: 1
       zOrder: charaFront
     turnChangeIn: rollInFast
@@ -183,7 +183,7 @@ story:
   - autoTurnLast: 2
     bgm: stop
     item:
-    - path: resource/scenario/img/black.png
+    - path: resource/scenario/img/black.jpg
       setVisible: 0
     turnChangeIn: fadeIn
 version: 3

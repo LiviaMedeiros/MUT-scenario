@@ -98,7 +98,7 @@ story:
     - id: 300850
       motion: 0
     nameRight: Akira
-    textRight: I-it's not that I don't, but...
+    textRight: I-It's not that I don't, but...
   - chara:
     - id: 300651
       motion: 1
@@ -221,7 +221,7 @@ story:
       id: 104051
       motion: 100
     nameRight: Yozuru
-    textRight: Okay, thank you your cooperation.@The Coordinations have concluded.
+    textRight: Okay, thank you for the hard work.@The Coordinations have concluded.
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -303,7 +303,7 @@ story:
       face: mtn_ex_010.exp3.json
       id: 300850
     nameLeft: Akira
-    textLeft: You know, like hobbies!
+    textLeft: You know, hobbies or something!
   - chara:
     - id: 104051
       motion: 1
@@ -350,7 +350,7 @@ story:
       id: 300850
       motion: 100
     nameLeft: Akira
-    textLeft: Ah, then maybe you do sewing too?
+    textLeft: Ah, do you do sewing too?
   - chara:
     - id: 104051
       motion: 0
@@ -403,7 +403,7 @@ story:
   - chara:
     - id: 300850
     nameLeft: Akira
-    textLeft: but you're pretty girly, aren't you?@At least in the familial sense.
+    textLeft: but you're pretty girly, at least@in the familial sense.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -445,7 +445,7 @@ story:
       id: 300850
       motion: 0
     nameLeft: Akira
-    textLeft: Th-thanks...
+    textLeft: Th-Thanks...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json

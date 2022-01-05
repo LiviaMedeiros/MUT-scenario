@@ -19,7 +19,7 @@ story:
     - path: resource/scenario/img/51023_singleraid_suzune/51023_title15.jpg
       visible: hide
     turnChangeIn: fadeIn
-  - bg: bg_adv_13111.jpg
+  - bg: bg_adv_21241.jpg
     bgm: bgm03_story12
     chara:
     - id: 300501

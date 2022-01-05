@@ -771,7 +771,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
-      id: 101470
+      id: 101402
       lipSynch: 0
       live2dParam:
         name: PARAM_BRACELET
@@ -787,7 +787,7 @@ story:
   - autoTurnLast: 0.25
     chara:
     - effect: fadeout
-      id: 101470
+      id: 101402
     - effect: fadeout
       id: 100702
     textClear: 1
@@ -904,7 +904,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
-      id: 101470
+      id: 101402
       lipSynch: 0
       live2dParam:
         name: PARAM_BRACELET
@@ -919,7 +919,7 @@ story:
   - autoTurnLast: 0.25
     chara:
     - effect: fadeout
-      id: 101470
+      id: 101402
     - effect: fadeout
       id: 100702
     textClear: 1

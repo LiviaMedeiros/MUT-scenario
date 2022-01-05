@@ -1,7 +1,8 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 0.01
+  - bg: bg_adv_12061.jpg
+    bgm: bgm03_story10
     chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -10,20 +11,15 @@ story:
       mouthOpen: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_020.exp.json
       id: 101000
-      motion: 0
+      motion: 200
       mouthOpen: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_12061.jpg
-    bgm: bgm03_story10
-    chara:
-    - id: 101000
-      motion: 200
     nameLeft: Yachiyo
     nameRight: Momoko
     textRight: Yachiyo! Enough!
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -40,11 +36,13 @@ story:
       motion: 200
       mouthOpen: 0
     textLeft: I will...
-  - chara:
+  - bgEffect: shakeSmall
+    chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
       id: 100300
       mouthOpen: 0
+    flashEffect: flashWhiteSlow1
     textRight: '[se:4050_landing_jump]...Hngh...'
   - bgm: stop
     chara:
@@ -56,7 +54,6 @@ story:
     textRight: '...'
   - chara:
     - cheek: 0
-      eyeClose: 0
       face: mtn_ex_050.exp.json
       id: 100300
       lipSynch: 1
@@ -235,6 +232,7 @@ story:
       id: 100300
       motion: 200
       mouthOpen: 1
+    flashEffect: flashWhite1
     textBg: shout
     textRight: YAAAH!
   - chara:
@@ -248,5 +246,5 @@ story:
     textLeft: All right then, I'll play along@until you're ready to give up.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

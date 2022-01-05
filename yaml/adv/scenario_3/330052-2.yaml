@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21441.jpg
+  - bg: bg_adv_21082.jpg
     bgm: stop
     chara:
     - cheek: -1
@@ -230,5 +230,5 @@ story:
     textLeft: In that case...!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 3
+version: 2
 ...

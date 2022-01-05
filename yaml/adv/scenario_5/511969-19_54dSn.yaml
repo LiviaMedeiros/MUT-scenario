@@ -41,13 +41,13 @@ story:
   - bgm: bgm24_story01
     chara:
     - cheek: 1
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 300
       mouthOpen: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120301
       motion: 300
       pos: 0
@@ -68,14 +68,14 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 101
     nameLeft: Tsuruno
     textLeft: But with this, there’s nothing else in our way!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 100
     nameRight: Felicia
@@ -99,7 +99,7 @@ story:
   - autoTurnLast: 0.1
     bg: bg_adv_14081.jpg
     deleteArmatureList:
-    - 2
+    - 1
     turnChangeIn: fadeIn
   - armatureList:
     - animation:
@@ -120,12 +120,12 @@ story:
     autoTurnLast: 0.01
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -137,7 +137,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120302
       motion: 200
     nameRight: Felicia
@@ -151,12 +151,12 @@ story:
     bg: bg_adv_14081.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -167,10 +167,7 @@ story:
     nameLeft: Tsuruno
     textLeft: Shigure-chan, can you hear? @We’ve arrived at the rooftop!
     turnChangeOut: fadeOut
-  - chara:
-    - id: 120301
-      motion: 0
-    nameNarration: Shigure
+  - nameNarration: Shigure
     narration: '{So you’re the closest you can be... @Is the bike also alright?}'
     narrationBg: bg_adv_14081.jpg
     narrationEffect: in
@@ -182,11 +179,11 @@ story:
     textRight: Yeah, duh!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
     nameNarration: ""
     narration: '{And now, we lie on the cusp of the dawn @of a new moment in human
@@ -201,18 +198,18 @@ story:
     textLeft: There’s a live radio broadcast? Of this!?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 200
     nameRight: Felicia
     textRight: 'The rest is just flyin’ there on Reindeer-san #2, @yeah?'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 0
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 0
     nameNarration: Shigure
@@ -234,7 +231,7 @@ story:
     textLeft: Thanks, Hagumu-chan!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 300
       pos: 2
@@ -242,14 +239,14 @@ story:
     textRight: '...After being hit by the beam, we’ll completely disintegrate right.'
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 300
     nameLeft: Tsuruno
     textLeft: Yeah, until we’re merely bits... @Sort of, makes me tremble.
   - chara:
     - cheek: 0
-      face: mtn_ex_021.exp3.json
+      face: mtn_ex_021.exp.json
       id: 120302
       motion: 200
     nameRight: Felicia
@@ -260,9 +257,9 @@ story:
     textRight: And I can’t do nothin’ but hold onto ya, Tsuruno!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
-      motion: 201
+      motion: 101
     nameLeft: Tsuruno
     textLeft: Ahaha, don’t worry! I’ll keep smiling until the @very end!
   - autoTurnLast: 0.2
@@ -274,11 +271,11 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 0
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 0
     nameLeft: Tsuruno
@@ -290,7 +287,7 @@ story:
     narrationEffect: in
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120301
       motion: 200
     nameLeft: Tsuruno
@@ -422,16 +419,27 @@ story:
     nameNarration: Hibiki Meguru
     narration: -Meguru- @They’re delivering smiles to the End of the World! @This
       is the first, and probably the last, Space Flight!!
-  - autoTurnLast: 1
+  - armatureList:
+    - animation:
+      - action
+      armatureId: 3
+      filePath: resource/image_native/effect/story/general/3000_snow_messageback.ExportJson
+      zOrder: messageBack
+    - animation:
+      - action
+      armatureId: 4
+      filePath: resource/image_native/effect/story/general/6000_snow_bgfront.ExportJson
+      zOrder: bgFront
+    autoTurnLast: 1
     bg: bg_adv_24013.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -448,14 +456,22 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
       motion: 200
     nameRight: Felicia
     textRight: Kako! The beam?
   - autoTurnLast: 1
     bg: bg_adv_21483.jpg
+    deleteArmatureList:
+    - 1
     turnChangeIn: fadeIn
+  - autoTurnLast: 0.01
+    deleteArmatureList:
+    - 3
+  - autoTurnLast: 0.01
+    deleteArmatureList:
+    - 4
   - armatureList:
     - animation:
       - action
@@ -465,17 +481,17 @@ story:
     autoTurnLast: 0.01
     chara:
     - cheek: 0
-      face: mtn_ex_022.exp3.json
+      face: mtn_ex_022.exp.json
       id: 301100
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 303800
       motion: 1
       pos: 1
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 304000
       motion: 0
       pos: 2
@@ -485,7 +501,23 @@ story:
     nameLeft: Kako
     textLeft: Now!
     turnChangeOut: fadeOut
-  - autoTurnLast: 0.01
+  - armatureList:
+    - animation:
+      - action
+      armatureId: 1
+      filePath: resource/image_native/effect/story/general/3501_vr_frame.ExportJson
+      zOrder: messageBack
+    - animation:
+      - action
+      armatureId: 3
+      filePath: resource/image_native/effect/story/general/3000_snow_messageback.ExportJson
+      zOrder: messageBack
+    - animation:
+      - action
+      armatureId: 4
+      filePath: resource/image_native/effect/story/general/6000_snow_bgfront.ExportJson
+      zOrder: bgFront
+    autoTurnLast: 0.01
     bg: bg_adv_19141.jpg
     deleteArmatureList:
     - 5
@@ -499,59 +531,63 @@ story:
     bg: bg_adv_24013.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120301
       motion: 1
       pos: 0
     turnChangeIn: whiteIn
-    turnChangeInTime: 1.4
+    turnChangeInTime: 2
   - autoTurnLast: 0.5
     turnChangeOut: whiteOut
   - autoTurnLast: 0.5
     flashEffect: explosion
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 200
     nameRight: Felicia
     textRight: Ah...!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 201
     nameLeft: Tsuruno
     textLeft: '...It’s coming!'
   - autoTurnLast: 0.01
     textClear: 1
-  - autoTurnLast: 1.3
+  - autoTurnLast: 2
     bg: bg_adv_16052.jpg
     bgm: stop
+    deleteArmatureList:
+    - 4
     turnChangeIn: whiteIn
     turnChangeInTime: 2
   - autoTurnLast: 2
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102900
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103000
       motion: 1
       pos: 1
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 304200
       motion: 0
       pos: 2
+    deleteArmatureList:
+    - 3
     se: 6200_hit_explosion_01_vh
   - chara:
     - id: 103000
@@ -566,7 +602,7 @@ story:
     textLeft: '...Yeah...'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 304200
       motion: 400
     nameRight: Hibiki Meguru
@@ -613,7 +649,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120301
       motion: 0
       pos: 1
@@ -640,7 +676,7 @@ story:
     textCenter: (I’m, not breathing...?)
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       lipSynch: 0
       motion: 100
@@ -652,7 +688,7 @@ story:
     narrationEffect: in
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       lipSynch: 0
       motion: 300
@@ -684,7 +720,7 @@ story:
     narrationEffect: in
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120301
       lipSynch: 0
     nameCenter: Tsuruno
@@ -697,7 +733,7 @@ story:
     textCenter: (I guess in the end, we didn’t make it to the angels’ world...)
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       lipSynch: 0
       motion: 101
@@ -717,7 +753,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       lipSynch: 0
       motion: 200
@@ -725,7 +761,7 @@ story:
     textCenter: (I’m satisfied with this.)
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       lipSynch: 0
       motion: 1
@@ -739,7 +775,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       lipSynch: 0
       motion: 300
@@ -750,7 +786,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 0
       pos: 1
@@ -765,7 +801,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       lipSynch: 0
     nameCenter: Felicia
@@ -779,7 +815,7 @@ story:
       here!)
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       lipSynch: 0
       motion: 300
@@ -807,7 +843,8 @@ story:
       motion: 100
     nameCenter: Felicia
     textCenter: (If I can’t find it...)
-  - chara:
+  - bgm: stop
+    chara:
     - eyeClose: 1
       id: 120302
       lipSynch: 0
@@ -816,19 +853,18 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
       lipSynch: 0
       motion: 200
     nameCenter: Felicia
     textCenter: (It’s got to be, somewhere ahead... Yeah... @My important... memories!)
   - autoTurnLast: 0.5
-    bgm: stop
     flashEffect: explosion
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       lipSynch: 0
       motion: 0
@@ -841,7 +877,7 @@ story:
     bg: bg_adv_20646.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -857,14 +893,14 @@ story:
     turnChangeOutTime: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       lipSynch: 0
     nameRight: Felicia
     textRight: (Somehow that light feels real nostalgic...)
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       lipSynch: 0
       motion: 300
@@ -877,7 +913,7 @@ story:
     textRight: (And the light of that world leaks out from that @door...)
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
       lipSynch: 0
       motion: 0
@@ -895,14 +931,6 @@ story:
     turnChangeIn: whiteIn
     turnChangeInTime: 2
     turnChangeOutTime: 1
-  - armatureList:
-    - animation:
-      - action
-      armatureId: 5
-      filePath: resource/image_native/effect/story/general/3003_act_picture.ExportJson
-      zOrder: messageBack
-    autoTurnLast: 0.1
-    turnEffect: sepiaFrame
   - nameNarration: Felicia
     narration: -Felicia- @!?
     narrationAnchor: bottom
@@ -914,25 +942,22 @@ story:
     turnChangeOut: whiteOut
   - narration: -Felicia- @What’s up... with this memory.
   - narration: -Felicia- @Why do I... wanna cry...?
-  - autoTurnLast: 0.1
+  - autoTurnLast: 0.01
     narrationEffect: out
   - autoTurnLast: 0.01
     bg: white
     chara:
     - cheek: 1
       eyeClose: 1
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 0
       pos: 1
-    deleteArmatureList:
-    - 5
     item:
     - path: resource/scenario/img/51119_storyselect_delivery/memoria_1104.jpg
       visible: hide
     turnChangeIn: whiteIn
     turnChangeInTime: 3
-    turnEffect: stop
   - chara:
     - id: 120302
       lipSynch: 0
@@ -964,7 +989,7 @@ story:
     textCenter: (as well as two people... Right... those people @called “family”.)
   - chara:
     - cheek: 1
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120302
       lipSynch: 0
       motion: 0
@@ -972,7 +997,7 @@ story:
     textCenter: (That blissful time)
   - chara:
     - cheek: 1
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       lipSynch: 0
     nameCenter: Felicia
@@ -985,24 +1010,21 @@ story:
   - autoTurnLast: 0.2
     flashEffect: explosion
     textClear: 1
-    turnEffect: promist
   - chara:
     - cheek: 2
       eyeClose: 1
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       lipSynch: 0
       motion: 300
     nameCenter: Felicia
     textCenter: (...It’s so warm...)
-  - autoTurnLast: 0.1
+  - autoTurnLast: 0.01
     textClear: 1
   - autoTurnLast: 2
     turnChangeIn: whiteIn
     turnChangeInTime: 2
-  - autoTurnLast: 0.1
-    turnEffect: stop
-  - autoTurnLast: 0.1
+  - autoTurnLast: 0.01
     turnChangeInTime: 2
     turnChangeOut: whiteOut
   - armatureList:
@@ -1011,7 +1033,7 @@ story:
       armatureId: 1
       filePath: resource/image_native/effect/story/51119_normalend.ExportJson
       zOrder: charaFront
-    autoTurnLast: 0.1
+    autoTurnLast: 0.01
   - autoTurnLast: 2
     bg: white
     bgm: stop

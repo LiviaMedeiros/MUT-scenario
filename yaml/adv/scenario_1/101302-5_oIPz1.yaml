@@ -154,7 +154,7 @@ story:
       voiceFull: fullvoice/section_101302/vo_full_101302-5-15
       voiceFullStop: fullvoice/section_101302/vo_full_101302-5-14
     textLeft: Huh?@A good idea?
-  - autoTurnFirst: 1
+  - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

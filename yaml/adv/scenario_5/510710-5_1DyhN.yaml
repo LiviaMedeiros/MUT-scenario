@@ -356,7 +356,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100771
+      id: 100750
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -364,7 +364,7 @@ story:
       pos: 1
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101472
+      id: 101450
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -377,9 +377,9 @@ story:
     - effect: fadeout
       id: 101550
     - effect: fadeout
-      id: 100771
+      id: 100750
     - effect: fadeout
-      id: 101472
+      id: 101450
     textClear: 1
   - chara:
     - cheek: 0
@@ -397,7 +397,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100771
+      id: 100750
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -417,7 +417,7 @@ story:
     nameLeft: Touka
     textLeft: Hey, Miss Mighty and Felicia.
   - chara:
-    - id: 100771
+    - id: 100750
     nameLeft: Touka
     textLeft: You've been on the slide the whole time.@Aren't you tired of it?
   - chara:
@@ -436,7 +436,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100771
+      id: 100750
     - effect: fadeout
       id: 100550
     - effect: fadeout
@@ -445,7 +445,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101472
+      id: 101450
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -468,7 +468,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101472
+      id: 101450
     - effect: fadeout
       id: 350200
     textClear: 1
@@ -648,7 +648,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101472
+      id: 101450
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -658,7 +658,7 @@ story:
     textLeft: It's fine to be happy over a compliment, but@don't overwork yourself.
     turnEffect: stop
   - chara:
-    - id: 101472
+    - id: 101450
     nameLeft: Nemu
     textLeft: The amount of magic we can use to maintain@this space isn't infinite,
       either.
@@ -673,7 +673,7 @@ story:
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
-      id: 101472
+      id: 101450
     - effect: fadeout
       id: 350200
     textClear: 1

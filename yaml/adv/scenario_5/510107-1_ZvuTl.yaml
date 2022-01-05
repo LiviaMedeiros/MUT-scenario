@@ -109,14 +109,14 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 831100
+      id: 402900
       motion: 0
       pos: 2
     surround: 7202_telepathy
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - chara:
-    - id: 831100
+    - id: 402900
     nameRight: Perenelle
     textRight: Lady Elisa, have you gotten nicer since I saw@you last?
     turnChangeOut: fadeOut
@@ -297,8 +297,8 @@ story:
     bg: bg_adv_narration.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 831100
+      face: mtn_ex_041.exp.json
+      id: 402900
       motion: 0
       pos: 0
     - id: 810000
@@ -310,24 +310,24 @@ story:
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - chara:
-    - id: 831100
+    - id: 402900
     nameLeft: Perenelle
     textLeft: When you fixed the issue at the cathedral...
     turnChangeOut: fadeOut
   - chara:
-    - id: 831100
+    - id: 402900
     textLeft: A number of unforeseen Fragments of True@History appeared.
   - chara:
-    - id: 831100
+    - id: 402900
     textLeft: The battles that take place at the Loire@River valley are of particular
       importance.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831100
+      id: 402900
     textLeft: By recapturing these territories and then@advancing to Reims...
   - chara:
-    - id: 831100
+    - id: 402900
     textLeft: I believe even more of these fragments of@proper history will come to
       light.
   - nameRight: Qube

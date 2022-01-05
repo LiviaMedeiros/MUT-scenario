@@ -7,7 +7,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -39,7 +39,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101471
+      id: 101403
     textRight: Have you figured something out?
   - chara:
     - cheek: 0
@@ -130,7 +130,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -139,11 +139,11 @@ story:
     nameRight: Nemu
     textRight: I believe that there's one more reason for that,@actually.
   - chara:
-    - id: 101471
+    - id: 101403
     textRight: Tsukihiko's persona was completely in control until@a few minutes ago.
       The reason he receded...
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 100
     textRight: Was most likely your magic, Temari Kira.
   - chara:
@@ -231,7 +231,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101471
+      id: 101403
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -240,16 +240,16 @@ story:
     nameRight: Nemu
     textRight: Yes. It was most likely the power of the words she@spoke.
   - chara:
-    - id: 101471
+    - id: 101403
     textRight: This is our third puzzle piece.
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 0
     textRight: Have you noticed yet?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101471
+      id: 101403
       motion: 1
     textRight: The incident currently unfolding is following a@similar course to her
       script.
@@ -280,20 +280,20 @@ story:
       id: 303801
     textLeft: And causing it to escalate into another Magical Girl@war, but...
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 0
     textRight: Everything up to that point was mere set dressing.
   - chara:
-    - id: 101471
+    - id: 101403
     textRight: I imagine the "strage direction" magic was the main@culprit there.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101471
+      id: 101403
       motion: 100
     textRight: What happened today is the real problem...
   - chara:
-    - id: 101471
+    - id: 101403
     textRight: The events leading up to our arrival here clearly had@a different air
       about them.
   - chara:
@@ -307,11 +307,11 @@ story:
     textLeft: The East-West grudge escalated into a violent@quarrel, and Komachi fell
       unconscious upon@attempting to intervene...
   - chara:
-    - id: 101471
+    - id: 101403
       motion: 1
     textRight: Right. And Mikura Komachi's condition up until a@few minutes ago...
   - chara:
-    - id: 101471
+    - id: 101403
     textRight: Can be thought of as a stand-in for Tsukihiko's temporary amnesia.
   - chara:
     - id: 304001
@@ -319,12 +319,12 @@ story:
     textLeft: Well, it does seem to roughly follow what I wrote...
   - bgm: stop
     chara:
-    - id: 101471
+    - id: 101403
     textRight: Indeed. Today's incident...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101471
+      id: 101403
     textRight: Was most likely the fault of your script, Temari Kira.
   - autoTurnLast: 1.8
     chara:

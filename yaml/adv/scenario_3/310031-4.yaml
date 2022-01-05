@@ -1,7 +1,8 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 0.01
+  - bg: bg_adv_11091.jpg
+    bgm: bgm03_story02
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -15,15 +16,10 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 2
-    turnChangeIn: fadeIn
-  - bg: bg_adv_11091.jpg
-    bgm: bgm03_story02
-    chara:
-    - id: 100900
-      motion: 1
     nameLeft: Tsuruno
     nameRight: Rena
     textRight: I saw something online that might help.
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -174,7 +170,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100900
-      motion: 100
+      motion: 0
       mouthOpen: 0
       pos: 2
     nameRight: Rena
@@ -191,11 +187,6 @@ story:
       motion: 0
       mouthOpen: 0
     textLeft: '...Okay, thanks.@Well, I''m heading home. See ya, guys.'
-  - autoTurnLast: 1
-    chara:
-    - effect: fadeout
-      id: 100300
-    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -203,6 +194,12 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 2
+    - cheek: 0
+      effect: fadeout
+      face: mtn_ex_040.exp.json
+      id: 100300
+      motion: 0
+      mouthOpen: 0
     nameRight: Momoko
     textRight: Okay, later!
   - chara:
@@ -223,32 +220,24 @@ story:
       pos: 2
     nameRight: Rena
     textRight: I'll send it to you soon!
-  - autoTurnLast: 1
-    chara:
+  - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100900
-      motion: 0
+      motion: 300
       mouthOpen: 0
       pos: 0
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 101000
-      motion: 0
-      mouthOpen: 0
-      pos: 2
-    turnChangeIn: fadeIn
-  - chara:
-    - id: 100900
-      motion: 300
     nameLeft: Rena
     textLeft: '...Whew!@We''re safe...'
+    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 101000
       motion: 200
+      mouthOpen: 0
+      pos: 2
     nameRight: Momoko
     textRight: Rena, nice call!
   - chara:
@@ -301,7 +290,7 @@ story:
       pos: 2
     nameRight: Momoko
     textRight: I hope she can get some good advice...
-  - autoTurnFirst: 4.8
+  - autoTurnFirst: 4.3
     bg: bg_adv_narration.jpg
     bgm: stop
     chara:

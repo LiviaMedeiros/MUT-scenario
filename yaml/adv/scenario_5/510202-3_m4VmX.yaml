@@ -240,7 +240,7 @@ story:
     narrationCoverOpacity: 110
     narrationEffect: in
     narrationFontSize: 30
-    narrationLineMargin: 15
+    narrationLineMargin: 25
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - narration: —Tart—@No matter what happens...

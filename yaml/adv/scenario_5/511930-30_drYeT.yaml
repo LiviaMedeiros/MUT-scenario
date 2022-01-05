@@ -11,12 +11,12 @@ story:
     bg: bg_adv_21075.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_051.exp3.json
+      face: mtn_ex_051.exp.json
       id: 102900
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103000
       motion: 0
       pos: 2
@@ -40,7 +40,7 @@ story:
       desired result...?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103000
       motion: 100
       pos: 2
@@ -48,7 +48,7 @@ story:
     textRight: That’s an amazing box...!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -56,7 +56,7 @@ story:
     textLeft: Seeing is believing! Try opening it up!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102900
       motion: 0
       pos: 0
@@ -76,7 +76,7 @@ story:
     narrationEffect: in
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -90,7 +90,7 @@ story:
     textLeft: Eh...?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103000
       motion: 0
       pos: 2
@@ -104,7 +104,7 @@ story:
     textLeft: Mana cartridges...? They’re super full!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 0
       pos: 2
@@ -117,7 +117,7 @@ story:
     textRight: Ain’t this all the fuel we’ve collected so far!?
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -125,7 +125,7 @@ story:
     textLeft: 'Did something happen to Super Reindeer-san #2?'
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
       motion: 400
       pos: 2
@@ -134,12 +134,12 @@ story:
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -155,7 +155,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 300
       pos: 0
@@ -190,7 +190,7 @@ story:
     textLeft: we covered the cost for Shigure-chan and the @others as a present?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 301700
       motion: 1
       pos: 2
@@ -201,7 +201,7 @@ story:
     textRight: Um... What do you mean by that?
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 102900
       motion: 0
       pos: 0
@@ -218,7 +218,7 @@ story:
     textLeft: and deliver our voices to the Three Magi beyond the End of the World.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103000
       motion: 1
       pos: 2
@@ -230,7 +230,7 @@ story:
     textRight: the fuel you two worked so hard to collect...?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp3.json
+      face: mtn_ex_040.exp.json
       id: 120301
       motion: 100
       pos: 0
@@ -238,7 +238,7 @@ story:
     textLeft: Hmm, that seems to be it, no matter which way you look at it.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -246,7 +246,7 @@ story:
     textLeft: That’s the Magical Okamochi Box’s answer!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 400
       pos: 0
@@ -255,13 +255,13 @@ story:
       collected so much.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
     nameLeft: Felicia
     textLeft: I thought we’d be able to go to way more towns @with it...!
   - chara:
     - cheek: 0
-      face: mtn_ex_031.exp3.json
+      face: mtn_ex_031.exp.json
       id: 103000
       motion: 300
       pos: 2
@@ -269,7 +269,7 @@ story:
     textRight: You’re right... We can’t accept this...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 102900
       motion: 300
       pos: 0
@@ -277,12 +277,12 @@ story:
     textLeft: '...Yeah...'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 304200
       motion: 300
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 301700
       motion: 0
       pos: 0
@@ -296,7 +296,7 @@ story:
   - bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 100
       pos: 0
@@ -304,7 +304,7 @@ story:
     textLeft: '...Well, isn’t that okay?'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 301700
       motion: 400
       pos: 2
@@ -322,7 +322,7 @@ story:
     textLeft: we’ll eventually just end up running around the @same places!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       lipSynch: 0
       motion: 0
@@ -331,7 +331,7 @@ story:
     textRight: '...'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       lipSynch: 1
       motion: 100
@@ -339,7 +339,7 @@ story:
     textRight: '...Yeah, I guess.'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 101
       pos: 0
@@ -347,7 +347,7 @@ story:
     textLeft: '...Right?'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -376,7 +376,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103000
       motion: 400
       pos: 2
@@ -384,7 +384,7 @@ story:
     textRight: W-We can’t possibly...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120302
       motion: 100
       pos: 0
@@ -392,7 +392,7 @@ story:
     textLeft: It’s fine, jus’ take it!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 100
       pos: 0
@@ -400,7 +400,7 @@ story:
     textLeft: Yup!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 1
       pos: 0
@@ -408,7 +408,7 @@ story:
     textLeft: If we do it this way, wouldn’t that make everyone @smile?
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp3.json
+      face: mtn_ex_051.exp.json
       id: 102900
       motion: 300
       pos: 0
@@ -426,7 +426,7 @@ story:
     textLeft: to reach the other side of the Wishing Star...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 102900
       motion: 200
       pos: 0
@@ -435,7 +435,7 @@ story:
       other side...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103000
       motion: 100
       pos: 2
@@ -448,7 +448,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -456,7 +456,7 @@ story:
     textLeft: Yup, let’s do it!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 200
       pos: 0
@@ -464,14 +464,14 @@ story:
     textLeft: We’ll help too!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 102900
       motion: 0
     nameRight: Shigure
     textRight: '...Yeah...'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 102900
       motion: 400
     nameRight: Shigure

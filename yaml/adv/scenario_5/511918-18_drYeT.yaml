@@ -11,12 +11,12 @@ story:
     bg: bg_adv_21511.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 301100
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 1
       pos: 0
@@ -42,7 +42,7 @@ story:
       like that?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 304000
       motion: 200
       pos: 2
@@ -50,7 +50,7 @@ story:
     textRight: That’s an interesting box.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -58,7 +58,7 @@ story:
     textLeft: Thanks!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103300
       motion: 300
       pos: 2
@@ -66,7 +66,7 @@ story:
     textRight: Although, what could this key be for...?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 303800
       motion: 1
       pos: 0
@@ -75,7 +75,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 103700
       motion: 200
       pos: 2
@@ -84,7 +84,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103700
     nameRight: Nayuta
     textRight: Perhaps... this is the key for those archives we @talked about just
@@ -96,7 +96,7 @@ story:
     textRight: the ones we never had the key for?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 301100
       motion: 400
       pos: 0
@@ -105,12 +105,12 @@ story:
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_022.exp3.json
+      face: mtn_ex_022.exp.json
       id: 301100
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120302
       motion: 0
       pos: 0
@@ -129,7 +129,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 301100
       motion: 400
     nameRight: Natsume Kako
@@ -142,7 +142,7 @@ story:
       visible: hide
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120302
       motion: 100
       pos: 0
@@ -151,12 +151,12 @@ story:
       magic of the Reindeer Santas!'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
       motion: 101
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 301100
       motion: 0
     nameLeft: Tsuruno
@@ -167,7 +167,7 @@ story:
     textLeft: Let’s look for any books that might be related to @those two’s memories!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103700
       motion: 200
       pos: 2
@@ -176,7 +176,7 @@ story:
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
       pos: 1
@@ -189,7 +189,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 120301
     nameCenter: Tsuruno
     textCenter: I’ll start by opening up the closest book and having @a look.
@@ -225,7 +225,7 @@ story:
     bg: bg_adv_21511.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
       pos: 1
@@ -247,7 +247,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 103300
       motion: 1
       pos: 2
@@ -260,7 +260,7 @@ story:
     textRight: They take shape as these books.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 301100
       motion: 200
       pos: 2
@@ -268,7 +268,7 @@ story:
     textRight: We call them “diaries”.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 300
       pos: 0
@@ -308,12 +308,12 @@ story:
     bg: bg_adv_21511.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 301100
       motion: 0
       pos: 2
@@ -335,7 +335,7 @@ story:
     textRight: It looks like the “diary” of a daydreaming child.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 100
       pos: 0
@@ -343,7 +343,7 @@ story:
     textLeft: '...In other words, is this what you mean?'
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp3.json
+      face: mtn_ex_001.exp.json
       id: 120301
       motion: 0
     nameLeft: Tsuruno
@@ -354,14 +354,14 @@ story:
     textLeft: gather in this library and become books one after another...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120301
       motion: 101
     nameLeft: Tsuruno
     textLeft: Even now, at this very moment!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 103700
       motion: 200
       pos: 2
@@ -369,7 +369,7 @@ story:
     textRight: '...Yes, it would seem so.'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 120302
       motion: 200
       pos: 0
@@ -378,7 +378,7 @@ story:
       them all!?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 303800
       motion: 101
       pos: 2
@@ -387,7 +387,7 @@ story:
       this archive.
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 304000
       motion: 100
       pos: 2
@@ -395,7 +395,7 @@ story:
     textRight: That’s a lot easier than searching all over town.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 301100
       motion: 1
       pos: 0
@@ -428,7 +428,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 120301
       motion: 200
       pos: 0
@@ -436,7 +436,7 @@ story:
     textLeft: '...Sounds good to me!'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp3.json
+      face: mtn_ex_010.exp.json
       id: 103300
       motion: 100
       pos: 2
@@ -444,7 +444,7 @@ story:
     textRight: No objections. @Thank you.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 0
       pos: 0
@@ -452,7 +452,7 @@ story:
     textLeft: You two are looking for missing people, right?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 1
       pos: 0
@@ -460,7 +460,7 @@ story:
     textLeft: I wonder what they’re like...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 301100
       motion: 1
       pos: 2
@@ -472,7 +472,7 @@ story:
     textRight: Rabi-san said she holds deep respect and trust @for hers.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
       motion: 300
       pos: 0
@@ -485,7 +485,7 @@ story:
     textLeft: Ain’t the two people you’re searching for the same person?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 103700
       motion: 1
       pos: 2
@@ -497,7 +497,7 @@ story:
     textRight: could be the same person Rabi-san is looking for?
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp3.json
+      face: mtn_ex_000.exp.json
       id: 103300
       motion: 0
       pos: 2
@@ -509,7 +509,7 @@ story:
     textRight: since we both harbor the same feelings of respect @for them.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120301
       motion: 1
       pos: 0
@@ -532,7 +532,7 @@ story:
     textRight: because she said she held deep affection for them.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp3.json
+      face: mtn_ex_011.exp.json
       id: 301100
       motion: 200
       pos: 0
@@ -541,7 +541,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 303800
       lipSynch: 0
       motion: 300
@@ -557,7 +557,7 @@ story:
     textRight: Maybe... something like “family”?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 0
       pos: 0
@@ -599,12 +599,12 @@ story:
     bg: bg_adv_21511.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp3.json
+      face: mtn_ex_030.exp.json
       id: 303800
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp3.json
+      face: mtn_ex_050.exp.json
       id: 120302
       motion: 0
       pos: 0
@@ -630,7 +630,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_020.exp3.json
+      face: mtn_ex_020.exp.json
       id: 120302
       lipSynch: 0
     nameLeft: Felicia

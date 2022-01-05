@@ -56,6 +56,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     nameRight: Qube
     textRight: She wasn't the one either.
   - chara:
@@ -194,6 +195,7 @@ story:
     - id: 810000
       pos: 2
       posX: 40
+      posY: 0
     - id: 402200
       pos: 0
     nameRight: Qube

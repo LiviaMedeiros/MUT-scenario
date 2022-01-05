@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21491.jpg
+  - bg: bg_adv_21025.jpg
     bgm: bgm01_anime03
     chara:
     - cheek: 0
@@ -43,7 +43,7 @@ story:
   - nameNarration: Karin
     narration: This is Alina-senpai. She's an art prodigy@who's won all kinds of awards.
       She quietly@works on her masterpieces here.
-    narrationBg: bg_adv_21491.jpg
+    narrationBg: bg_adv_21025.jpg
     narrationEffect: in
   - narration: Because the school lets her use this @classroom to paint, she gives
       me short @lessons on drawing each day.
@@ -159,7 +159,7 @@ story:
   - nameNarration: Karin
     narration: Alina-senpai is really tough on me...@She gets mad like this every
       day.
-    narrationBg: bg_adv_21491.jpg
+    narrationBg: bg_adv_21025.jpg
     narrationEffect: in
   - narration: But I'll show her! One day I'll make a manga@so great she won't drink
       my strawberry milk!
