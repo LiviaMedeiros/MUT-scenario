@@ -300,7 +300,7 @@ story:
       id: 200152
       pos: 0
     nameLeft: Madoka
-    textLeft: '...a story about Miss Kazuko back in the old days!@Did you want to
+    textLeft: '...a story about Miss Saotome back in the old days!@Did you want to
       hear, Sayaka?'
   - chara:
     - cheek: 0
@@ -339,7 +339,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Madoka
-    textLeft: Yep, Miss Kazuko is so cute, isn't she?
+    textLeft: Yep, Miss Saotome is so cute, isn't she?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -436,8 +436,8 @@ story:
       motion: 100
       pos: 0
     nameLeft: Madoka
-    textLeft: when we do, it would be even more fun if we@invited Iroha-chan and her
-      friends over too!
+    textLeft: when we do, it would be even more fun if we@invited Iroha and her friends
+      over, too!
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp3.json

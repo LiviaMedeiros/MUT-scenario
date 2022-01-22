@@ -6,12 +6,12 @@ story:
     bgm: bgm23_magus01
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 305800
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102600
       motion: 0
       pos: 0
@@ -19,6 +19,7 @@ story:
   - chara:
     - id: 305800
       motion: 100
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-1
     nameRight: Ryouko
     textRight: Come on, Chiharu. Ain't it better to withdraw?
     turnChangeOut: fadeOut
@@ -28,12 +29,14 @@ story:
       id: 304700
       motion: 300
       pos: 2
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-2
     nameRight: Chika
     textRight: Our goal was only to take out our enemy's boss.@Now with this many
       people...
   - chara:
     - id: 304700
       motion: 0
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-3
     nameRight: Chika
     textRight: If we pursue too far, there will only be more@injured to care for.
   - chara:
@@ -42,6 +45,7 @@ story:
       id: 102600
       motion: 300
       pos: 0
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-4
     nameLeft: Chiharu
     textLeft: '...You''re right.'
   - chara:
@@ -49,11 +53,13 @@ story:
       face: mtn_ex_020.exp.json
       id: 102600
       pos: 0
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-5
     nameLeft: Chiharu
     textLeft: Okay, I'll do as Ryouko and Chika say.
   - chara:
     - id: 102600
       motion: 100
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-6
     nameLeft: Chiharu
     textLeft: We'll get another chance.
   - autoTurnLast: 0.2
@@ -67,6 +73,7 @@ story:
       id: 102800
       motion: 1
       pos: 0
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-7
     nameLeft: Himena
     textLeft: '...One day Tokime will be right beside us cuties.'
   - chara:
@@ -74,6 +81,7 @@ story:
       id: 102600
       motion: 200
       pos: 2
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-8
     nameRight: Chiharu
     textRight: Hm! Don't be so sure about that!
   - autoTurnLast: 0.5
@@ -84,10 +92,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
+      face: mtn_ex_011.exp3.json
       id: 102800
       lipSynch: 0
       motion: 0
       pos: 0
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-9
     nameLeft: Himena
     textLeft: '.....'
   - autoTurnLast: 0.2
@@ -101,6 +111,7 @@ story:
       id: 103100
       motion: 1
       pos: 0
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-10
     - cheek: -1
       face: mtn_ex_000.exp.json
       id: 103200
@@ -112,6 +123,7 @@ story:
   - chara:
     - id: 103200
       motion: 200
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-11
     nameRight: Miyuri
     textRight: '...Huu...huu...'
   - chara:
@@ -119,6 +131,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 103100
       motion: 0
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-12
     nameLeft: San
     textLeft: Miyu, you can come back now.
   - chara:
@@ -131,11 +144,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 103100
       motion: 100
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-14
+      voiceFullStop: fullvoice/section_102601/vo_full_102601-11-13
     nameLeft: San
     textLeft: Nice work, Miyu.
   - chara:
     - id: 103200
       motion: 400
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-15
     nameRight: Miyuri
     textRight: And Princess?!
   - chara:
@@ -144,6 +160,7 @@ story:
       id: 102800
       motion: 200
       pos: 0
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-16
     nameLeft: Himena
     textLeft: This cutie's totally O and K★
   - chara:
@@ -152,6 +169,7 @@ story:
       id: 103200
       motion: 100
       pos: 2
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-17
     nameRight: Miyuri
     textRight: That's good to hear!
   - chara:
@@ -160,11 +178,13 @@ story:
       id: 103500
       motion: 1
       pos: 2
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-18
     nameRight: Alexandra
     textRight: But Hime, why did you allow them to attack you...?
   - chara:
     - id: 103500
       motion: 300
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-19
     nameRight: Alexandra
     textRight: Miyu was right in calling you careless. You even@knew you were being
       spied on...
@@ -174,23 +194,25 @@ story:
       id: 102800
       motion: 100
       pos: 0
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-20
     nameLeft: Himena
     textLeft: This cutie wanted to take a chance and measure@how they'd react.
   - chara:
     - id: 103500
       motion: 0
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-21
     nameRight: Alexandra
     textRight: What did you find out?
   - autoTurnLast: 1
     bg: bg_adv_21561.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_001.exp3.json
       id: 102600
       motion: 200
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_050.exp3.json
       id: 102800
       motion: 0
       pos: 0
@@ -199,6 +221,7 @@ story:
   - chara:
     - id: 102800
       lipSynch: 0
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-22
     nameLeft: Himena
     textLeft: '.....'
     turnChangeOut: fadeOut
@@ -219,6 +242,7 @@ story:
       lipSynch: 0
       motion: 0
       pos: 1
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-23
     nameCenter: ""
     textCenter: '.....'
   - autoTurnLast: 0.2
@@ -244,6 +268,7 @@ story:
       id: 102800
       motion: 300
       pos: 1
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-24
     nameCenter: Himena
     textCenter: '...So that''s how it goes. Guess we just give up.'
   - autoTurnLast: 0.2
@@ -263,6 +288,7 @@ story:
     turnEffect: stop
   - chara:
     - id: 102800
+      voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-25
     nameLeft: Himena
     textLeft: That the Tokime clan is just like us after all.
     turnChangeOut: fadeOut

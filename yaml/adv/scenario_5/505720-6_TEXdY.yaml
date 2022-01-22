@@ -257,7 +257,7 @@ story:
       motion: 200
     textBg: shout
     textRight: '[flashEffect:flashWhite2][surround:0001_jump01]I''m gonna hit her
-      so hard she''ll forget @forget what''s goin'' on! Like BOOOM!'
+      so hard@she''ll forget what''s goin'' on! Like BOOOM!'
   - chara:
     - id: 6107
       name: sprite_0

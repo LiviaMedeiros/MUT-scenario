@@ -336,7 +336,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Iroha
-    textRight: I'm really sorry about this! I'll call you back shortly!
+    textRight: I'm really sorry about this!@I'll call you back shortly!
   - autoTurnLast: 0.01
     bg: bg_adv_21061.jpg
     chara:
@@ -435,7 +435,8 @@ story:
       motion: 100
       pos: 2
     nameRight: Nemu
-    textRight: The heavens may have cursed us,@but they haven't forsaken us either.
+    textRight: I cursed the heavens for putting us in this@predicament, but they haven't
+      forsaken us yet.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json

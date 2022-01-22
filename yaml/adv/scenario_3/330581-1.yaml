@@ -47,7 +47,7 @@ story:
       face: mtn_ex_012.exp.json
       id: 305800
       motion: 0
-    textRight: I don't mind that kinda energy, but… 
+    textRight: I don't mind that kinda energy, but...
   - chara:
     - id: 305800
     textRight: Unfortunately for you, buddy,@it's my mission to take you out.
@@ -101,7 +101,7 @@ story:
     chara:
     - eyeClose: 1
       id: 305800
-    textRight: Amen… 
+    textRight: Amen...
   - autoTurnLast: 1
     bg: bg_adv_20033.jpg
     bgChangeEffect: exitWitchSpace
@@ -151,7 +151,7 @@ story:
   - chara:
     - id: 305800
       motion: 1
-    textLeft: U-uh, well, this is just… 
+    textLeft: U-uh, well, this is just...
   - chara:
     - id: 305800
       lipSynch: 0
@@ -160,14 +160,14 @@ story:
     - id: 305800
       lipSynch: 0
       motion: 0
-    textLeft: '…………[wait:1.0][chara:305800:motion_200][chara:305800:cheek_0][chara:305800:face_mtn_ex_020.exp.json][chara:305800:lipSynch_1]I-it''s
-      a hobby!@Nothin'' wrong with that, right?!    '
+    textLeft: …………[wait:1.0][chara:305800:motion_200][chara:305800:cheek_0][chara:305800:face_mtn_ex_020.exp.json][chara:305800:lipSynch_1]I-it's
+      a hobby!@Nothin' wrong with that, right?!
   - chara:
     - id: 801500
-    textRight: That outfit… That jewelry… 
+    textRight: That outfit... That jewelry...
   - chara:
     - id: 801500
-    textRight: So the stories are true… 
+    textRight: So the stories are true...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

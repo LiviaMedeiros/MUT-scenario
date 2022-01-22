@@ -278,7 +278,7 @@ story:
     textRight: So, to prevent her from having to make a wish,
   - chara:
     - id: 200450
-    textRight: you decided to generate more publicty for the shop.
+    textRight: you decided to generate more publicity for the shop.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json

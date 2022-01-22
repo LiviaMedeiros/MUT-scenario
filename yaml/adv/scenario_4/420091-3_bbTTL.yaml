@@ -159,7 +159,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Mami
-    textRight: We'll have to do so later, Madoka! There's@another Witch nearby!
+    textRight: We'll have to do so later, Madoka!@There's another Witch nearby!
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -417,8 +417,7 @@ story:
       id: 200501
       pos: 1
     nameCenter: Mami
-    textCenter: I think if you split into two groups, that should@still be sufficient
-      enough for you to slay them.
+    textCenter: I think if you split into two groups,@that should still be sufficient.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
