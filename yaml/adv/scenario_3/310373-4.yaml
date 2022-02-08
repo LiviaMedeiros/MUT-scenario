@@ -7,10 +7,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
-      live2dParam:
-        name: PARAM_BRACELET
-        value: 1
+      id: 100770
       motion: 0
       pos: 2
     - cheek: 0
@@ -20,7 +17,7 @@ story:
       pos: 0
     turnChangeIn: fadeIn
   - chara:
-    - id: 100701
+    - id: 100770
       lipSynch: 0
     nameRight: Touka
     textRight: '...'
@@ -59,7 +56,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       motion: 1
       pos: 2
     nameRight: Touka
@@ -67,15 +64,15 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       pos: 2
     nameRight: Touka
     textRight: Okay, what's going on? You called me here@out of nowhere.
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
-    textRight: I only showed up because Iroha asked mea@to come.
+    textRight: I only showed up because Iroha asked me@to come.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -87,7 +84,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       motion: 300
       pos: 2
     nameRight: Touka
@@ -98,10 +95,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
-      live2dParam:
-        name: PARAM_BRACELET
-        value: 1
+      id: 100770
       motion: 400
       pos: 2
     - cheek: 0
@@ -121,20 +115,17 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
-      id: 100701
+      id: 100770
       motion: 300
     nameRight: Touka
-    textRight: Ouch! [chara:100701:lipSynch_0][wait:1.0][chara:100701:cheek_0][chara:100701:face_mtn_ex_030.exp.json][chara:100701:lipSynch_1]You
-      slapped me... why...?
+    textRight: Ouch! [chara:100770:lipSynch_0][wait:1.0][chara:100770:cheek_0][chara:100770:face_mtn_ex_030.exp.json][chara:100770:lipSynch_1]You
+      slapped me... Why...?
   - autoTurnLast: 1
     bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
-      live2dParam:
-        name: PARAM_BRACELET
-        value: 1
+      id: 100770
       motion: 0
       pos: 2
     - cheek: 0
@@ -145,7 +136,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: stop
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 300
     nameRight: Touka
     textRight: You hit me with everything you had...
@@ -153,7 +144,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       motion: 400
       pos: 2
     nameRight: Touka
@@ -161,7 +152,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       pos: 2
     nameRight: Touka
@@ -182,7 +173,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       lipSynch: 0
       motion: 0
     nameRight: Touka
@@ -199,7 +190,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       pos: 2
     nameRight: Touka
     textRight: What?
@@ -231,35 +222,35 @@ story:
   - chara:
     - id: 103701
     nameLeft: Nayuta
-    textLeft: For all of that, I'm sorry.
+    textLeft: For all of that, I am sorry.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 100
       pos: 2
     nameRight: Touka
     textRight: '...I see. That''s amazing.'
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: I've said really nasty things in the past.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 1
     nameRight: Touka
     textRight: I didn't think you could possibly see me@any differently.
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: You're right, though - I've changed a lot@over the past few years.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 0
     nameRight: Touka
     textRight: Well, a significant difference is that@I became a Magical Girl,
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 201
     nameRight: Touka
     textRight: but more than that, I've made many new@friends, and my heart has grown
@@ -275,7 +266,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       pos: 2
     nameRight: Touka
@@ -284,22 +275,22 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
     nameRight: Touka
     textRight: I now believe the study of folklore is a@visionary field that can help
       us all.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 0
     nameRight: Touka
     textRight: I admire my uncle for continuing his research@despite the criticism
       he receives for it.
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: Just as you changed your opinion of me,
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 400
     nameRight: Touka
     textRight: I've changed my opinion on you and your dad.
@@ -405,10 +396,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
-      live2dParam:
-        name: PARAM_BRACELET
-        value: 1
+      id: 100770
       motion: 0
       pos: 2
     - cheek: 0
@@ -419,7 +407,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: blackFrame
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: How's your dad? Still the same as always?
     turnChangeOut: fadeOut
@@ -439,7 +427,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       pos: 2
     nameRight: Touka
@@ -447,7 +435,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       pos: 2
     nameRight: Touka
     textRight: Maybe he should start with a makeover.
@@ -460,7 +448,7 @@ story:
     nameLeft: Nayuta
     textLeft: A makeover?
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     nameRight: Touka
     textRight: If you want to be accepted by the general@public, appearances are important,
@@ -475,58 +463,58 @@ story:
     nameLeft: Nayuta
     textLeft: He's a fine man! He's perfect the way he is!
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 0
     nameRight: Touka
     textRight: You have to think about this objectively,@Nayuta.
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: If you want to make a good impression,@cleanliness is critical.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 1
       pos: 2
     nameRight: Touka
     textRight: But your dad grows out his hair,
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: and he's always dressed up like he's mucking@around in the field.
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: His clothes are all tattered and covered in dirt.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       motion: 201
       pos: 2
     nameRight: Touka
     textRight: That's the complete and exact opposite@of being clean!
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: And he stinks, too! I had to hold my breath@whenever I was with him!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 0
       pos: 2
     nameRight: Touka
     textRight: Now that I think about it...
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
     textRight: Could it be that your dad's marvelous@research...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       motion: 400
       pos: 2
     - cheek: 0
@@ -544,7 +532,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
-      id: 100701
+      id: 100770
       motion: 300
       pos: 2
     nameRight: Touka

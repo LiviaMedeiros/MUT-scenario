@@ -129,11 +129,11 @@ story:
     - id: 103101
       motion: 100
     nameLeft: San
-    textLeft: Yes, this area of Takarazaki is called Mitsuzuka.
+    textLeft: Yes, this area of Takarazaki is called Hikarizuka.
   - chara:
     - id: 103101
     nameLeft: San
-    textLeft: Haven't you ever heard of the Mitsuzuka@Fire Festival?
+    textLeft: Haven't you ever heard of the Hikarizuka@Fire Festival?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

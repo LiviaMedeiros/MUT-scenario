@@ -211,11 +211,12 @@ story:
   - chara:
     - id: 305101
     nameRight: Jun
-    textRight: The truth is, I've come back to Kamihama,@but just couldn't say hello.
+    textRight: Truth is, I've wanted to start coming here again@since I got back to
+      Kamihama.
   - chara:
     - id: 305101
     nameRight: Jun
-    textRight: I've always wanted to come by, though.
+    textRight: Not just pop in to say hi.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
