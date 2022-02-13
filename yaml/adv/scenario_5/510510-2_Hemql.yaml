@@ -115,7 +115,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 100901
     textLeft: Then for the part where we need to explain our@request,
-  - textLeft: We'll say we want to gather four other members@or our movie...
+  - textLeft: We'll say we want to gather four other members@for our movie...
   - chara:
     - id: 100901
       motion: 100

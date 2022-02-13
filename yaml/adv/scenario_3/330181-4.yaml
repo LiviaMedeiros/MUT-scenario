@@ -68,7 +68,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 800300
-    textRight: What? You're name's Hanna?!
+    textRight: What? Your name's Hanna?!
   - chara:
     - id: 301800
     textLeft: Uhh, yep...

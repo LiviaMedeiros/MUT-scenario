@@ -274,6 +274,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 102201
       motion: 100
+    nameLeft: Hikaru
     textLeft: Roger that!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
