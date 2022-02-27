@@ -14,7 +14,7 @@ story:
     - id: 810000
       motion: 0
       pos: 0
-      posX: 0
+      posX: -50
       posY: 0
     nameLeft: Qube
     narrationEffect: out
@@ -190,7 +190,7 @@ story:
     - id: 810000
       motion: 0
       pos: 0
-      posX: 0
+      posX: -50
       posY: 0
     nameLeft: Qube
     textLeft: That must've been Perenelle.

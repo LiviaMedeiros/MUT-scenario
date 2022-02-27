@@ -202,7 +202,6 @@ story:
       id: 101502
       motion: 100
       pos: 1
-      soulGem: 0
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: blackFrame
