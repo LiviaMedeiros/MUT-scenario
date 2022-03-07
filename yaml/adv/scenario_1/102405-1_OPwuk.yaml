@@ -210,7 +210,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102405/vo_full_102405-1-25
     nameCenter: Nayuta
-    textCenter: Hello.@I was been called here by Mikage...
+    textCenter: Hello.@I was called here by Mikage...
   - autoTurnLast: 0.2
     chara:
     - id: 103701
@@ -330,7 +330,7 @@ story:
       voiceFull: fullvoice/section_102405/vo_full_102405-1-40
     enableSkipAutoTurn: 1
     nameLeft: Mikage
-    textLeft: '[chara:103701:effect_emotion_surprise_0][se:7226_shock]Yaaaaay!@Where
+    textLeft: '[chara:103801:effect_emotion_joy_0][se:7222_happy]Yaaaaay!@Where are
       we going today?'
   - chara:
     - cheek: 0
