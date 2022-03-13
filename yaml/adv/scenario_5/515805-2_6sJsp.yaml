@@ -89,7 +89,7 @@ story:
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
-      id: 831400
+      id: 412100
     textClear: 1
   - chara:
     - id: 402200

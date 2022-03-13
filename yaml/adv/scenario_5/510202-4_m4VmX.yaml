@@ -301,7 +301,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101402
+      id: 101470
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -311,7 +311,7 @@ story:
     turnEffect: blackFrame
   - bgm: bgm01_anime03
     chara:
-    - id: 101402
+    - id: 101470
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -326,7 +326,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101402
+      id: 101470
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -350,7 +350,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101402
+      id: 101470
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -366,7 +366,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101402
+      id: 101470
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -401,7 +401,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101402
+      id: 101470
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -560,7 +560,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101402
+      id: 101470
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -615,7 +615,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101402
+      id: 101470
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -627,7 +627,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101402
+      id: 101470
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -649,7 +649,7 @@ story:
       id: 100702
       motion: 100
       soulGem: 0
-    - id: 101402
+    - id: 101470
       motion: 0
     nameLeft: Touka
     textLeft: But I didn't expect it to run this well...
@@ -675,7 +675,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101402
+      id: 101470
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -718,7 +718,7 @@ story:
       soulGem: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101402
+      id: 101470
       lipSynch: 0
       live2dParam:
         name: PARAM_BRACELET
@@ -733,7 +733,7 @@ story:
     - effect: fadeout
       id: 101502
     - effect: fadeout
-      id: 101402
+      id: 101470
     textClear: 1
   - chara:
     - cheek: 0
@@ -771,7 +771,7 @@ story:
       soulGem: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101402
+      id: 101470
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -781,7 +781,7 @@ story:
     nameLeft: Touka
     textLeft: Huh?
   - chara:
-    - id: 101402
+    - id: 101470
     nameRight: Nemu
     textRight: Is that...
   - chara:

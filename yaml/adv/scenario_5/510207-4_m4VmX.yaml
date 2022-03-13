@@ -325,8 +325,7 @@ story:
     narration: The way to the city of woe is through me,@The way to eternal pain is
       through me,@The way to the lost people is through me.
     turnChangeOut: fadeOut
-  - narration: 'Justice inspired my creator to make me:@By divine might was I made,@By
-      surpassing wisdom and highest love. '
+  - narration: '@By divine might was I made,@By surpassing wisdom and highest love. '
   - narration: 'Before me was naught but the eternal,@And eternally I stand. '
   - narration: Abandon all hope, ye who enter here!
   - autoTurnLast: 0.01

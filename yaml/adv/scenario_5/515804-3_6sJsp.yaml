@@ -255,7 +255,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 831400
+      id: 412100
       motion: 0
       pos: 1
     - cheek: 0
@@ -275,7 +275,7 @@ story:
     narrationBg: bg_adv_20121.jpg
     narrationEffect: in
   - chara:
-    - id: 831400
+    - id: 412100
       lipSynch: 0
     nameCenter: ???
     narrationEffect: out
@@ -283,7 +283,7 @@ story:
   - autoTurnLast: 0.25
     chara:
     - effect: fadeout
-      id: 831400
+      id: 412100
     - effect: fadeout
       id: 831300
       live2dName: live2d_0
@@ -357,7 +357,7 @@ story:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_014.exp.json
-      id: 831400
+      id: 412100
       lipSynch: 0
       motion: 0
       pos: 1
@@ -378,7 +378,7 @@ story:
   - autoTurnLast: 0.25
     chara:
     - effect: fadeout
-      id: 831400
+      id: 412100
     - effect: fadeout
       id: 831300
       live2dName: live2d_0
@@ -411,9 +411,7 @@ story:
     textBg: shout
     textRight: Your Majesty?!
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 830200
+    - id: 830200
       motion: 0
     nameCenter: Charles VII
     textCenter: M...
@@ -447,7 +445,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_014.exp.json
-      id: 831400
+      id: 412100
       lipSynch: 0
       motion: 0
       pos: 1
@@ -504,7 +502,7 @@ story:
     textCenter: Stop her...no!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_001.exp.json
       id: 830200
       motion: 0
     textBg: shout
@@ -533,7 +531,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831400
+      id: 412100
       motion: 0
       pos: 1
   - autoTurnLast: 2
@@ -551,7 +549,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 831400
+      id: 412100
     - effect: slideOutLeftFast
       id: 402100
       lipSynch: 0
@@ -559,7 +557,7 @@ story:
   - autoTurnLast: 0.25
     chara:
     - effect: fadeout
-      id: 831400
+      id: 412100
     textClear: 1
   - chara:
     - cheek: 0
@@ -593,7 +591,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831400
+      id: 412100
       motion: 0
       pos: 1
     item:
@@ -606,11 +604,11 @@ story:
   - autoTurnLast: 2.6
     chara:
     - effect: shake
-      id: 831400
+      id: 412100
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
-      id: 831400
+      id: 412100
     item:
     - path: resource/scenario/img/51102_singleraid_tart3/51102_shadow_hands.png
       visible: hide
@@ -634,7 +632,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831400
+      id: 412100
       motion: 0
       pos: 1
     item:
@@ -660,7 +658,7 @@ story:
       motion: 200
       pos: 2
   - chara:
-    - id: 831400
+    - id: 412100
       lipSynch: 0
     - id: 402600
       lipSynch: 0
@@ -677,7 +675,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_014.exp.json
-      id: 831400
+      id: 412100
       lipSynch: 0
     - id: 402600
       motion: 400
@@ -698,7 +696,7 @@ story:
     - effect: fadeout
       id: 402300
     - effect: fadeout
-      id: 831400
+      id: 412100
     item:
     - path: resource/scenario/img/51102_singleraid_tart3/51102_shadow_hands.png
       visible: hide
@@ -721,19 +719,19 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 831400
+      id: 412100
       motion: 200
       pos: 1
   - autoTurnLast: 2
     chara:
-    - id: 831400
+    - id: 412100
     flashEffect: flashWhite2
     se: 3210_curse
     textClear: 1
   - autoTurnLast: 0.25
     chara:
     - effect: fadeout
-      id: 831400
+      id: 412100
     textClear: 1
   - bgEffect: shakeLarge
     chara:
@@ -855,7 +853,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831400
+      id: 412100
       motion: 100
       pos: 0
     nameRight: Tart
@@ -895,7 +893,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 831400
+      id: 412100
       motion: 0
       pos: 0
     surround: 4021A05
@@ -912,7 +910,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831400
+      id: 412100
       lipSynch: 0
       motion: 100
     nameLeft: Isabeau
@@ -972,7 +970,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 831400
+      id: 412100
       lipSynch: 0
       motion: 0
       pos: 0
@@ -988,7 +986,8 @@ story:
       motion: 1
     flashEffect: explosion
     item:
-    - path: resource/scenario/img/51065_singleraid_tart2/51065_minou_magic_circle.png
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51065_singleraid_tart2/51065_minou_magic_circle.png
       posX: 0
       posY: 0
       visible: appear
@@ -1001,7 +1000,7 @@ story:
     - effect: fadeout
       id: 402400
     - effect: fadeout
-      id: 831400
+      id: 412100
     flashEffect: explosion
     item:
     - path: resource/scenario/img/51065_singleraid_tart2/51065_minou_magic_circle.png
