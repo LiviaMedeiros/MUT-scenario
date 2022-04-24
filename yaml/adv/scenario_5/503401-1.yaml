@@ -12,7 +12,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - nameNarration: Kaede
-    narration: …………
+    narration: '...'
     narrationEffect: in
     turnChangeOut: fadeOut
   - chara:
@@ -22,7 +22,7 @@ story:
       id: 101101
     nameCenter: Kaede
     narrationEffect: out
-    textCenter: …Hmm…?
+    textCenter: '...Hmm...?'
   - chara:
     - id: 101101
       motion: 1
@@ -33,7 +33,7 @@ story:
     chara:
     - id: 101101
       lipSynch: 0
-    textCenter: …………
+    textCenter: '...'
   - chara:
     - id: 101101
       lipSynch: 0
@@ -46,7 +46,7 @@ story:
       motion: 0
       pos: 1
     se: 7226_shock
-    textCenter: …Ah…
+    textCenter: '...Ah...'
   - chara:
     - id: 101101
       lipSynch: 0
@@ -54,7 +54,7 @@ story:
   - chara:
     - id: 101101
       lipSynch: 0
-    textCenter: (…"Kaede's garden"…!?)
+    textCenter: (..."Kaede's garden"...?!)
   - chara:
     - id: 101101
       lipSynch: 0
@@ -63,7 +63,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101101
-    textCenter: …Hmmm…
+    textCenter: '...Hmmm...'
   - chara:
     - id: 101101
       lipSynch: 0
@@ -87,7 +87,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101101
       motion: 400
-    textCenter: …Ah!
+    textCenter: '...Ah!'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -174,7 +174,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Momoko
-    textRight: We're about to go pick some round@cucumbers, too.
+    textRight: We're about to go pick some@round cucumbers, too.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -186,7 +186,7 @@ story:
     - id: 101101
       lipSynch: 0
       motion: 300
-    textCenter: …………
+    textCenter: '...'
   - bgm: stop
     chara:
     - effect: emotion_surprise_0
@@ -288,7 +288,7 @@ story:
       lipSynch: 0
       motion: 100
       pos: 2
-    textRight: …………
+    textRight: '...'
   - bgm: bgm03_story20
     chara:
     - face: mtn_ex_010.exp.json
@@ -386,7 +386,7 @@ story:
       face: mtn_ex_031.exp.json
       id: 101101
       motion: 100
-    textLeft: Apartment...!?
+    textLeft: Apartment...?!
   - chara:
     - cheek: 0
       effect: emotion_surprise_0
@@ -418,7 +418,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101101
       motion: 1
-    textLeft: Eh!? Eh!? Eh!?
+    textLeft: Eh?! Eh?! Eh?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -430,7 +430,7 @@ story:
       id: 101101
     - effect: fadeout
       id: 100901
-    narration: It's the same as before...!?
+    narration: It's the same as before...?!
     narrationBg: black
     narrationEffect: in
   - autoTurnLast: 2

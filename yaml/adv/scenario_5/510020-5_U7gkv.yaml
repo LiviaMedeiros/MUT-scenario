@@ -55,7 +55,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Yuuna
-    textLeft: '*Giggle* you really do like the outdoors.'
+    textLeft: '*Giggle* You really do like the outdoors.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -172,7 +172,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Chika
-    textRight: Thats... @Just something you will need to wait to find out!
+    textRight: That's... @Just something you will need to wait to find out!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -258,7 +258,7 @@ story:
   - chara:
     - id: 305001
     nameLeft: Yuuna
-    textLeft: This feels alot like the first time we met.
+    textLeft: This feels a lot like the first time we met.
   - chara:
     - id: 305001
       motion: 100

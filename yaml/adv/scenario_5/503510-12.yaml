@@ -17,41 +17,41 @@ story:
     narrationBg: bg_adv_21073.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: which is next month…@There’s still a lot of time until then,@but I
-      want to actually have enough time to make it,@so I have to figure out what the
-      present should be,@and fast.
+  - narration: Which is next month...@There's still a lot of time until then,@but
+      I want to actually have enough time to make it,@so I have to figure out what
+      the present should be,@and fast.
   - chara:
     - id: 303101
     nameCenter: Rika
     narrationEffect: out
-    textCenter: Okay then…
+    textCenter: Okay then...
   - chara:
     - id: 303101
       motion: 1
-    textCenter: A birthday present for Ren…@I wonder what she’d like?
+    textCenter: A birthday present for Ren...@I wonder what she'd like?
   - chara:
     - id: 303101
-    textCenter: Candy, my favorite makeup, accessories,@stuffed toys…
+    textCenter: Candy, my favorite makeup,@accessories, stuffed toys...
   - chara:
     - id: 303101
-    textCenter: or maybe flowers…or a cute purse…?
+    textCenter: Or maybe flowers...or a cute purse...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303101
       motion: 0
-    textCenter: Uuugh…
+    textCenter: Uuugh...
   - chara:
     - id: 303101
       lipSynch: 0
-    textCenter: (None of these sound like a great fit…)
+    textCenter: (None of these sound like a great fit...)
     turnEffect: thinking
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 303101
       lipSynch: 0
-    textCenter: (…Ren is kind, so...)
+    textCenter: (...Ren is kind, so...)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -65,18 +65,18 @@ story:
       id: 303101
       lipSynch: 1
       motion: 400
-    textCenter: …Wait! No, that’s not right!
+    textCenter: '...Wait! No, that''s not right!'
     turnEffect: stop
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 303101
       motion: 201
-    textCenter: I can’t be lazy about figuring out a present for her!
+    textCenter: I can't be lazy about figuring out a present for her!
   - chara:
     - eyeClose: 1
       id: 303101
-    textCenter: Mmm…
+    textCenter: Mmm...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -84,18 +84,18 @@ story:
       id: 303101
       lipSynch: 0
       motion: 0
-    textCenter: (But it doesn’t really seem like any good ideas@will come if I just
-      sit here…)
+    textCenter: (But it doesn't really seem like any good ideas@will come if I just
+      sit here...)
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 303101
       lipSynch: 1
       motion: 100
-    textCenter: ' …Okay.'
+    textCenter: '...Okay.'
   - chara:
     - id: 303101
-    textCenter: I’ll try to fish for ideas…casually!
+    textCenter: I'll try to fish for ideas...casually!
   - autoTurnLast: 0.5
     bg: bg_adv_21241.jpg
     bgm: stop
@@ -116,36 +116,36 @@ story:
     - id: 302501
       lipSynch: 0
     nameRight: Ren
-    textRight: ………
+    textRight: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 303101
       lipSynch: 0
     nameLeft: Rika
-    textLeft: ………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303101
       lipSynch: 0
       motion: 300
-    textLeft: (Uugh…)
+    textLeft: (Uugh...)
     turnEffect: thinking
   - chara:
     - id: 303101
       lipSynch: 0
-    textLeft: (Now that I’m actually here, I really tense up…)
+    textLeft: (Now that I'm actually here, I really tense up...)
   - chara:
     - eyeClose: 1
       id: 303101
       lipSynch: 1
       motion: 0
-    textLeft: Umm…
+    textLeft: Umm...
     turnEffect: stop
   - chara:
     - id: 302501
       motion: 1
-    textRight: Um…Rika…?
+    textRight: Um...Rika...?
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -155,24 +155,24 @@ story:
     textLeft: '[chara:303101:effect_emotion_surprise_0][se:7226_shock]Eh? What?'
   - chara:
     - id: 302501
-    textRight: Um…can we stop by the stationery store…?
+    textRight: Um...can we stop by the stationery store...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 303101
       motion: 0
-    textLeft: A-ah… Sure! No problem!@I’ll come with you!
+    textLeft: A-ah... Sure! No problem!@I'll come with you!
   - chara:
     - id: 303101
       lipSynch: 0
-    textLeft: ………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
       lipSynch: 0
       motion: 1
-    textLeft: (…That’s right,@Ren buys a lot of color pencils…)
+    textLeft: (...That's right,@Ren buys a lot of color pencils...)
   - autoTurnLast: 0.5
     bg: bg_adv_11042.jpg
     chara:
@@ -205,7 +205,7 @@ story:
   - chara:
     - id: 302501
       motion: 1
-    textRight: '...I do draw, but...@Well…I''m not any good really...'
+    textRight: '...I do draw, but...@Well...I''m not any good really...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -231,14 +231,14 @@ story:
       face: mtn_ex_050.exp.json
       id: 303101
       motion: 0
-    textLeft: '[chara:303101:effect_emotion_surprise_0][se:7226_shock]Oh?![chara:303101:lipSynch_0][wait:0.7][chara:303101:cheek_1][chara:303101:face_mtn_ex_011.exp.json][chara:303101:lipSynch_1]
-      I see. They''re in your diary...'
+    textLeft: '[chara:303101:effect_emotion_surprise_0][se:7226_shock]Oh?![chara:303101:lipSynch_0][wait:0.7][chara:303101:cheek_1][chara:303101:face_mtn_ex_011.exp.json][chara:303101:lipSynch_1]@I
+      see. They''re in your diary...'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 303101
       lipSynch: 0
-    textLeft: (Diary pictures…so that’s what they are…)
+    textLeft: (Diary pictures...so that's what they are...)
     turnEffect: thinking
   - chara:
     - cheek: 1
@@ -262,33 +262,33 @@ story:
     chara:
     - id: 303101
       motion: 300
-    textCenter: Diary…diary…umm…
+    textCenter: Diary...diary...umm...
     turnChangeOut: fadeOut
   - chara:
     - id: 303101
-    textCenter: Give her a diary…?
+    textCenter: Give her a diary...?
   - chara:
     - eyeClose: 1
       id: 303101
       motion: 0
-    textCenter: Mm… no, that might be a bit too heavy@of a present…
+    textCenter: Mm...no, that might be a bit too heavy@of a present...
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_050.exp.json
       id: 303101
-    textCenter: Then…since she likes to draw, maybe a sketchbook@or an artbook or
-      something…?
+    textCenter: Then...since she likes to draw, maybe a sketchbook@or an artbook or
+      something...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303101
       motion: 201
-    textCenter: …None of those sound like a great fit either, I think…
+    textCenter: '...None of those sound like a great fit either, I think...'
   - chara:
     - id: 303101
       lipSynch: 0
-    textCenter: ………
+    textCenter: '...'
   - autoTurnLast: 0.5
     bg: bg_adv_11042.jpg
     chara:
@@ -326,7 +326,7 @@ story:
     - cheek: 1
       id: 302501
       motion: 0
-    textLeft: ………[wait:0.9][chara:302501:motion_400][chara:302501:cheek_1][chara:302501:face_mtn_ex_050.exp.json][chara:302501:effect_emotion_surprise_0][se:7226_shock]
+    textLeft: '...[wait:0.9][chara:302501:motion_400][chara:302501:cheek_1][chara:302501:face_mtn_ex_050.exp.json][chara:302501:effect_emotion_surprise_0][se:7226_shock]'
   - chara:
     - id: 303101
       lipSynch: 0
@@ -334,13 +334,13 @@ story:
       face: mtn_ex_030.exp.json
       id: 302501
       motion: 300
-    textLeft: ………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
       lipSynch: 1
-    textLeft: …Ren?
+    textLeft: '...Ren?'
   - chara:
     - cheek: 2
       face: mtn_ex_050.exp.json
@@ -379,7 +379,7 @@ story:
   - chara:
     - id: 303101
       lipSynch: 0
-    textCenter: …………
+    textCenter: '...'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -387,13 +387,13 @@ story:
       id: 303101
       lipSynch: 1
       motion: 300
-    textCenter: I really wanted to see Ren’s drawings though…
+    textCenter: I really wanted to see Ren's drawings though...
   - chara:
     - eyeClose: 1
       id: 303101
       lipSynch: 0
       motion: 0
-    textCenter: (Well… showing the pictures in your diary@can be really embarrassing…)
+    textCenter: (Well...showing the pictures in your diary@can be really embarrassing...)
     turnEffect: thinking
   - chara:
     - cheek: 0
@@ -402,49 +402,50 @@ story:
       id: 303101
       lipSynch: 0
       motion: 400
-    textCenter: (Maybe I can ask her to draw something for me@when we’re hanging out?)
+    textCenter: (Maybe I can ask her to draw something for me@when we're hanging out?)
   - chara:
     - id: 303101
       lipSynch: 0
       motion: 1
-    textCenter: (…But, I guess she wouldn’t normally walk around@with her color pencils.)
+    textCenter: (...But, I guess she wouldn't normally walk around@with her color
+      pencils.)
   - chara:
     - id: 303101
       lipSynch: 0
     textCenter: (Maybe when I ask her to draw me something@I can give her the pencils
-      then…)
+      then...)
   - bgm: stop
     chara:
     - id: 303101
       lipSynch: 0
-    textCenter: ………[wait:1.0][chara:303101:cheek_0][chara:303101:face_mtn_ex_050.exp.json:motion_0][chara:303101:lipSynch_1]Eh,
-      oh?
+    textCenter: '...[wait:1.0][chara:303101:cheek_0][chara:303101:face_mtn_ex_050.exp.json:motion_0][chara:303101:lipSynch_1]Eh,
+      oh?'
     turnEffect: stop
   - bgm: bgm03_story09
     chara:
     - id: 303101
-    textCenter: That…[chara:303101:lipSynch_0][wait:0.8][chara:303101:cheek_0][chara:303101:face_mtn_ex_010.exp.json:motion_200][chara:303101:lipSynch_1]that
+    textCenter: That...[chara:303101:lipSynch_0][wait:0.8][chara:303101:cheek_0][chara:303101:face_mtn_ex_010.exp.json:motion_200][chara:303101:lipSynch_1]that
       might just be a great present to give?!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 303101
-    textCenter: Yeah, yeah! That’s good, that’s good!
+    textCenter: Yeah, yeah! That's good, that's good!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 303101
       motion: 100
-    textCenter: I’ve decided!@Her birthday present will be color pencils!
+    textCenter: I've decided!@Her birthday present will be color pencils!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303101
       motion: 1
-    textCenter: Mmm… but, she already has tons of color pencils, doesn’t she…
+    textCenter: Mmm...but, she already has tons of color pencils, doesn't she...
   - chara:
     - id: 303101
-    textCenter: Umm…
+    textCenter: Umm...
   - chara:
     - id: 303101
       motion: 0
@@ -452,11 +453,11 @@ story:
   - chara:
     - id: 303101
       motion: 201
-    textCenter: if it’s just normal color pencils,@there won’t be that much of an
+    textCenter: If it's just normal color pencils,@there won't be that much of an
       impact.
   - bgm: stop
     nameNarration: Rika
-    narration: I just need to think of a couple more twists…
+    narration: I just need to think of a couple more twists...
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
   - narration: However, no better ideas came to mind,@and time continued to slip away.

@@ -15,12 +15,12 @@ story:
     bg: bg_adv_31061.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 304302
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101503
       motion: 0
       pos: 0
@@ -40,7 +40,7 @@ story:
     textLeft: What do you mean...?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402900
       motion: 1
       pos: 2
@@ -61,7 +61,7 @@ story:
     textLeft: Ah...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 402301
       motion: 0
       pos: 2
@@ -70,7 +70,7 @@ story:
     textRight: That's right...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 402301
       motion: 400
     nameRight: Melissa
@@ -86,7 +86,7 @@ story:
     textLeft: '...are with my sister and Yachiyo...?'
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402601
       motion: 1
       pos: 0
@@ -95,7 +95,7 @@ story:
     textLeft: But, they weren't summoned.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402900
       motion: 300
       pos: 2
@@ -113,7 +113,7 @@ story:
     textRight: That's likely the reason they couldn't be summoned.
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 304302
       lipSynch: 0
       motion: 0
@@ -122,7 +122,7 @@ story:
     textLeft: '| ... |'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 402900
       motion: 100
       pos: 2
@@ -134,7 +134,7 @@ story:
     textRight: To obtain the "medium" necessary for summoning...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 304302
       motion: 100
       pos: 0
@@ -147,7 +147,7 @@ story:
     textRight: An item that bridges the gap between our time@and theirs.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101503
       motion: 400
       pos: 0
@@ -172,7 +172,7 @@ story:
       to this Purgatory.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 304302
       motion: 400
       pos: 0
@@ -203,7 +203,7 @@ story:
       posX: 40
       posY: 0
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 101503
       motion: 0
       pos: 0
@@ -221,7 +221,7 @@ story:
     textRight: I suggest you try the summoning again.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402301
       motion: 300
       pos: 0
@@ -245,18 +245,18 @@ story:
     textRight: Once everything is over, they'll just wake up@like nothing ever happened.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402900
       motion: 300
       pos: 0
     nameLeft: Perenelle
-    textLeft: Of course, I'm this will expose them to danger, but...
+    textLeft: Of course, I'm sure this will expose them to@danger, but...
   - chara:
     - id: 810000
     textRight: '...now is not the time to hold back, is it?'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101503
       lipSynch: 0
       motion: 300
@@ -271,7 +271,7 @@ story:
     textLeft: I'm sure my sister will understand.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402900
       motion: 100
       pos: 2
@@ -287,7 +287,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 831302
       motion: 0
       pos: 1
@@ -309,7 +309,7 @@ story:
   - autoTurnLast: 1.5
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402900
       lipSynch: 0
       motion: 0
@@ -323,7 +323,7 @@ story:
     textRight: '[flashEffect:flashWhiteSlow2]...'
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
+      face: mtn_ex_001.exp3.json
       id: 402900
     nameRight: Perenelle
     textRight: '...The summoning is ready.'
@@ -335,7 +335,7 @@ story:
   - autoTurnLast: 1.5
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402900
       lipSynch: 0
     item:
@@ -359,7 +359,7 @@ story:
     chara:
     - cheek: 0
       effect: slideInRightFast
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402600
       motion: 400
       pos: 1
@@ -373,7 +373,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_041.exp.json
+      face: mtn_ex_041.exp3.json
       id: 402900
       lipSynch: 0
       motion: 400
@@ -391,7 +391,7 @@ story:
   - bgm: bgm05_event09
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 402400
       motion: 0
       pos: 1
@@ -399,7 +399,7 @@ story:
     textCenter: '...Oh?'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 402400
       motion: 100
     textCenter: I intended to catch you by surprise...but you did@rather well in stopping
@@ -411,7 +411,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 1
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402600
       motion: 200
       pos: 0
@@ -419,7 +419,7 @@ story:
     textLeft: This woman...!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402400
       motion: 0
     nameRight: Minou
@@ -428,7 +428,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 831302
       motion: 0
       pos: 0
@@ -454,12 +454,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402400
       motion: 200
       pos: 2
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402600
       motion: 0
       pos: 0
@@ -480,7 +480,7 @@ story:
     textRight: I've been searching for it ever since I received@that revelation.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101500
       motion: 0
       pos: 0
@@ -489,12 +489,12 @@ story:
   - autoTurnLast: 0
     chara:
     - cheek: 2
-      face: mtn_ex_060.exp.json
+      face: mtn_ex_060.exp3.json
       id: 101500
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 402700
       motion: 200
       pos: 2
@@ -507,7 +507,7 @@ story:
       id: 402700
     - cheek: 2
       effect: shake
-      face: mtn_ex_060.exp.json
+      face: mtn_ex_060.exp3.json
       id: 101500
       motion: 200
     nameLeft: Ui
@@ -515,7 +515,7 @@ story:
     textLeft: '[flashEffect:flashRed2][se:3001_chara_damage][bgEffect:shakeLarge]Eeeep?!'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 402700
       motion: 400
       pos: 2
@@ -529,12 +529,12 @@ story:
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101500
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402400
       motion: 1
       pos: 2
@@ -554,7 +554,7 @@ story:
     textLeft: (Sakurako hadn't brought me my phone yet...)
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402900
       motion: 400
       pos: 0
@@ -562,7 +562,7 @@ story:
     textLeft: '...I see, it wasn''t my stone that you were after,@was it?'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 402400
       motion: 100
       pos: 2
@@ -570,7 +570,7 @@ story:
     textRight: '*Chuckle*...'
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402600
       motion: 200
       pos: 0
@@ -579,13 +579,13 @@ story:
   - autoTurnLast: 0.2
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402900
       motion: 0
       pos: 2
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 831302
       motion: 0
       pos: 0
@@ -613,12 +613,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402600
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402300
       motion: 0
       pos: 2
@@ -634,12 +634,12 @@ story:
   - autoTurnLast: 2
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 101500
       motion: 200
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 304300
       motion: 0
       pos: 2
@@ -653,7 +653,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402400
       motion: 1
       pos: 1
@@ -662,13 +662,13 @@ story:
   - autoTurnLast: 2.8
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 831301
       live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 831301
       live2dName: live2d_1
       motion: 0

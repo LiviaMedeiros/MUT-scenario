@@ -24,12 +24,12 @@ story:
   - chara:
     - id: 304701
     nameRight: Chika
-    textRight: The team of Yuuna Kaharu, Hotori and Rion Yuzuki, @and Yukika Nanase.
+    textRight: The team of Yuuna Kaharu, Hotori and Rion Yuzuki, @and Yukika Nanase,
   - chara:
     - id: 304701
       motion: 200
     nameRight: Chika
-    textRight: Has abandoned the search for the jewels!
+    textRight: has abandoned the search for the jewels!
   - chara:
     - id: 102501
       motion: 200
@@ -58,11 +58,11 @@ story:
       motion: 300
       pos: 0
     nameLeft: Shizuka
-    textLeft: Rumor has it that Yuuna Kaharu's team.
+    textLeft: Rumor has it that Yuuna Kaharu's team
   - chara:
     - id: 102501
     nameLeft: Shizuka
-    textLeft: Has become completely inactive.
+    textLeft: has become completely inactive.
   - chara:
     - id: 102501
       motion: 0

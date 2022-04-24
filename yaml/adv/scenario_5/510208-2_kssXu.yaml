@@ -9,7 +9,7 @@ story:
       posX: 40
       posY: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101503
       motion: 0
       pos: 0
@@ -28,7 +28,7 @@ story:
     textRight: Isabeau has finally revealed her true form.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 402601
       motion: 0
       pos: 0
@@ -43,7 +43,7 @@ story:
     textRight: That's what she has become.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101503
       motion: 100
       pos: 0
@@ -73,14 +73,14 @@ story:
     textRight: As well as a being with my own powers.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101503
       motion: 400
     nameLeft: Ui
     textLeft: What...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 402301
       motion: 300
       pos: 0
@@ -99,13 +99,13 @@ story:
       pos: 2
       posX: 40
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 412103
       motion: 0
       pos: 0
       soulGem: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 412103
       pos: 0
     surround: stop
@@ -128,7 +128,7 @@ story:
     textLeft: I did not come to France to be a decoration on@some king's arm.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 412103
       pos: 0
     nameLeft: Isabeau
@@ -170,22 +170,22 @@ story:
     textLeft: But, I want more than just that!
   - chara:
     - cheek: 0
-      face: mtn_ex_014.exp.json
+      face: mtn_ex_014.exp3.json
       id: 412103
       motion: 0
     nameLeft: Isabeau
-    textLeft: —Isabeau—@I wish for...
+    textLeft: I wish for...
   - chara:
     - id: 412103
       motion: 200
       mouthOpen: 1
     nameLeft: Isabeau
-    textLeft: —Isabeau—@"...everything you possess!"
+    textLeft: '...everything you possess!'
   - autoTurnLast: 1
     bg: bg_adv_narration.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101503
       motion: 0
       pos: 0
@@ -206,7 +206,7 @@ story:
     turnEffect: ef_adv_02
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101503
       lipSynch: 0
       motion: 300
@@ -224,7 +224,7 @@ story:
       Girls.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402601
       motion: 0
       pos: 0
@@ -248,7 +248,7 @@ story:
     textRight: There is no escape from her fate as a Magical Girl.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101503
       motion: 0
       pos: 0
@@ -270,7 +270,7 @@ story:
     textRight: '"Crépuscule de La Reine,@the Twilight of the Queen"'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 402601
       motion: 400
       pos: 0
@@ -279,7 +279,7 @@ story:
     textLeft: Wha...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 402301
       motion: 400
       pos: 2
@@ -288,7 +288,7 @@ story:
     textRight: ALL of France?!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402601
       motion: 200
     nameLeft: Elisa
@@ -307,7 +307,7 @@ story:
     textLeft: '...@...'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402601
       lipSynch: 1
       motion: 300
@@ -327,7 +327,7 @@ story:
     bg: bg_adv_20121.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402200
       motion: 0
       pos: 1
@@ -351,7 +351,7 @@ story:
   - autoTurnLast: 1.2
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 412100
       motion: 0
       pos: 1
@@ -365,14 +365,14 @@ story:
     chara:
     - cheek: 0
       effect: slideInRightFast
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402600
       lipSynch: 0
       motion: 200
       pos: 0
     - cheek: 0
       effect: slideInLeftFast
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402300
       lipSynch: 0
       motion: 200
@@ -394,14 +394,14 @@ story:
     narrationEffect: in
   - chara:
     - cheek: 0
-      face: mtn_ex_014.exp.json
+      face: mtn_ex_014.exp3.json
       id: 412100
       lipSynch: 0
     - id: 402600
       motion: 400
       mouthOpen: 1
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 402300
       motion: 400
       mouthOpen: 1
@@ -423,7 +423,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 402200
       lipSynch: 0
       motion: 100
@@ -434,7 +434,7 @@ story:
     bg: bg_adv_narration.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402301
       motion: 1
       pos: 0
@@ -498,7 +498,7 @@ story:
     textRight: Eventually, Europe...and the whole world will@suffer the same fate.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402601
       motion: 1
       pos: 0
@@ -514,7 +514,7 @@ story:
     textRight: I won't deny that.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402301
       motion: 1
       pos: 0
@@ -532,7 +532,7 @@ story:
     textRight: '...is Tart alone.'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 402301
       lipSynch: 0
       motion: 400
@@ -545,7 +545,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101503
       motion: 300
       pos: 0
@@ -557,7 +557,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 831302
       motion: 0
       pos: 1
@@ -579,13 +579,13 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402301
       motion: 0
       pos: 2
       soulGem: 0
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101503
       motion: 0
       pos: 0
@@ -594,7 +594,7 @@ story:
     textRight: Yes...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402900
       lipSynch: 0
       motion: 0
@@ -637,7 +637,7 @@ story:
     textRight: That was the prophecy whispered among@the people...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402900
       motion: 0
     nameRight: Perenelle
@@ -648,7 +648,7 @@ story:
     textRight: Just as Minou told us...the future has changed.
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402900
       motion: 300
     nameRight: Perenelle

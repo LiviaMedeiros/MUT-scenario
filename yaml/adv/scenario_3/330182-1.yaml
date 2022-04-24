@@ -5,13 +5,13 @@ story:
     bg: bg_adv_21221.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 301801
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104401
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
@@ -29,32 +29,33 @@ story:
     surround: 7006_cafe
     textLeft: Magic that makes people listen to what@you say?
   - chara:
-    - id: 800300
+    - id: 104401
     nameRight: Mikoto
     textRight: Yeah!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 800300
+      face: mtn_ex_030.exp3.json
+      id: 104401
+      motion: 300
     textRight: I ran into a Familiar right after I made a@contract...
   - chara:
-    - id: 800300
+    - id: 104401
     textRight: And I had no idea what I was doing.
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 800300
+    - id: 104401
+      motion: 200
     textRight: But then it came right at me, like,@"raaawr!"
   - chara:
-    - id: 800300
+    - id: 104401
     textRight: So I...I said it.
   - chara:
     - id: 301801
     textLeft: Said what?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 800300
+      face: mtn_ex_020.exp3.json
+      id: 104401
+      motion: 400
     textRight: I said, "Stooop!"
   - chara:
     - id: 301801
@@ -66,32 +67,35 @@ story:
     textLeft: Really? And it just...stopped?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 800300
+      face: mtn_ex_050.exp3.json
+      id: 104401
+      motion: 1
     textRight: It did! It screeched to a halt right in front@of me!
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 800300
+      face: mtn_ex_030.exp3.json
+      id: 104401
     textRight: But after a minute, it came at me, like,@"raaawr" again...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 800300
+      face: mtn_ex_020.exp3.json
+      id: 104401
+      motion: 400
     textRight: So I said "stop" again and it stopped!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104401
     textRight: We kept repeating that for a while, and then@I knew for sure...
   - chara:
-    - id: 800300
+    - id: 104401
+      motion: 0
     textRight: It really was listening to me!
   - chara:
     - id: 301801
     textLeft: And that's your magic?!
   - chara:
-    - id: 800300
+    - id: 104401
     textRight: Yep!
   - nameNarration: Hanna
     narration: I was shocked when I actually saw@Sena's magic in action! It's amazing@Magical
@@ -108,7 +112,7 @@ story:
       name: sprite_0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301800
       motion: 0
       pos: 2
@@ -128,7 +132,7 @@ story:
     textRight: It really stopped?!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301800
       motion: 100
     textRight: '[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:3018A02]Then
@@ -157,15 +161,16 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301800
       motion: 400
     textRight: '[flashEffect:flashRed2][bgEffect:shakeLarge][chara:301800:effect_shake][se:3001_chara_damage]Ah...gah!'
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301800
+      lipSynch: 0
     textRight: (Crap! There's one behind me?!)
     turnEffect: thinking
   - chara:
@@ -177,7 +182,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301800
     textRight: Don't come any closer, ya mangy runt!
   - autoTurnLast: 1
@@ -187,7 +192,7 @@ story:
       pos: 0
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301800
       motion: 300
       pos: 2
@@ -201,7 +206,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301800
       motion: 0
     textRight: '...Huh...wha?'
@@ -218,7 +223,7 @@ story:
     textRight: It stopped?!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301800
     nameNarration: Hanna
     narration: Sena was busy with another Familiar and@couldn't help with the one
@@ -245,7 +250,7 @@ story:
     textLeft: ☆△★Choo!!!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301800
       lipSynch: 0
     textRight: (It stopped...)
@@ -253,7 +258,7 @@ story:
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 301800
       motion: 0
       pos: 1
@@ -270,7 +275,7 @@ story:
       pos: 2
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 301800
       motion: 100
     nameRight: Hanna
@@ -283,14 +288,14 @@ story:
     textLeft: ※◎◆Chugga!!!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301800
       lipSynch: 0
     textRight: (Stopped again...)
     turnEffect: thinking
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301800
       lipSynch: 0
     textRight: (It...it's really true!)
@@ -305,19 +310,20 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 301801
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104401
       motion: 0
       pos: 2
     narrationEffect: out
     turnChangeIn: fadeIn
   - chara:
-    - id: 800300
+    - id: 104401
+      motion: 200
     nameRight: Mikoto
     surround: 7006_cafe
     textRight: That's amazing, Hanna! Can you believe we@have the same magic?!
@@ -330,8 +336,9 @@ story:
     textLeft: '...'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 800300
+      face: mtn_ex_030.exp3.json
+      id: 104401
+      motion: 0
     textRight: What's wrong? Did I...did I say something@weird?
   - chara:
     - id: 301801
@@ -366,19 +373,20 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 301801
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 800300
+      face: mtn_ex_050.exp3.json
+      id: 104401
       motion: 0
       pos: 2
     narrationEffect: out
     turnChangeIn: fadeIn
   - chara:
-    - id: 800300
+    - id: 104401
+      motion: 400
     nameRight: Mikoto
     surround: 7006_cafe
     textRight: '"Overwrite" magic!'
@@ -388,18 +396,19 @@ story:
     nameLeft: Hanna
     textLeft: Yep, that's my conclusion.
   - chara:
-    - id: 800300
+    - id: 104401
     textRight: So you can try out lots of different magic?
   - chara:
     - id: 301801
     textLeft: If I wanted, yeah.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104401
+      motion: 100
     textRight: Wooow!
   - chara:
-    - id: 800300
+    - id: 104401
     textRight: That's so awesome, Hanna! I mean, it sounds @like so much fun!
   - chara:
     - id: 301801
@@ -413,23 +422,26 @@ story:
     textLeft: But your magic's the best to use.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 800300
+      face: mtn_ex_050.exp3.json
+      id: 104401
+      motion: 1
     textRight: The best? How?
   - chara:
     - id: 301801
     textLeft: It's convenient.
   - chara:
-    - id: 800300
+    - id: 104401
     textRight: Oh! Wow, really?
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+    - cheek: 1
+      eyeClose: 1
+      face: mtn_ex_010.exp3.json
+      id: 104401
+      motion: 100
     textRight: '...Hehehe! That makes me kinda proud!'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301801
     textLeft: '*Chuckle*'
   - bgm: bgm03_story06

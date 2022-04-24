@@ -178,7 +178,7 @@ story:
   - chara:
     - id: 305001
     nameLeft: Yuuna
-    textLeft: It's a bracelet that Magical girls can wear.
+    textLeft: It's a bracelet that Magical Girls can wear.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -186,13 +186,13 @@ story:
       motion: 0
       pos: 2
     nameRight: Rion
-    textRight: Then let’s try talking to some Magical girls.
+    textRight: Then let’s try talking to some Magical Girls.
   - bgm: stop
     chara:
     - id: 305001
       motion: 0
     nameLeft: Yuuna
-    textLeft: Magical girls... let’s look for some magic power...
+    textLeft: Magical Girls... let’s look for some magic power...
   - bgm: bgm03_story16
     chara:
     - cheek: 0
@@ -201,7 +201,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Yukika
-    textRight: Eh? Are we just gonna ask some random Magical @girls?
+    textRight: Eh? Are we just gonna ask some random Magical @Girls?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -570,7 +570,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Yuuna
-    textLeft: Gems sure are a sensitive topic for Magical girls @huh?
+    textLeft: Gems sure are a sensitive topic for Magical Girls @huh?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

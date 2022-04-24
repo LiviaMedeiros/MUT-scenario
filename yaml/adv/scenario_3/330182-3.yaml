@@ -5,13 +5,13 @@ story:
     bg: bg_adv_21221.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301801
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104401
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
@@ -23,7 +23,8 @@ story:
     turnChangeOut: fadeOut
   - narration: But good ol' Sena...
   - chara:
-    - id: 800300
+    - id: 104401
+      motion: 100
     nameRight: Mikoto
     narrationEffect: out
     surround: 7006_cafe
@@ -35,32 +36,34 @@ story:
     textLeft: Ummm...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 800300
+      face: mtn_ex_030.exp3.json
+      id: 104401
     textRight: Ah, not "look", I mean...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104401
+      motion: 200
     textRight: Where should we hunt? That's it!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301801
       motion: 0
     textLeft: Like, where should we go Witch huntin'?
   - chara:
-    - id: 800300
+    - id: 104401
     textRight: You got it!
   - chara:
-    - id: 800300
+    - id: 104401
+      motion: 1
     textRight: It's our Magical Girl duty to erase Witches@from the world!
   - chara:
-    - id: 800300
+    - id: 104401
     textRight: '...Right? Hehehe!'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301801
       lipSynch: 0
     textLeft: '...'
@@ -74,7 +77,7 @@ story:
       of passion@for Magical Girls defeating Witches.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301801
       motion: 300
     nameLeft: Hanna
@@ -83,8 +86,9 @@ story:
     textLeft: Hey, um...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 800300
+      face: mtn_ex_050.exp3.json
+      id: 104401
+      motion: 0
     nameRight: Mikoto
     textRight: Yeah? Something on your mind?
   - chara:
@@ -98,8 +102,9 @@ story:
     textLeft: But you, every single fight, you really@go all out, ya know?
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 800300
+      face: mtn_ex_020.exp3.json
+      id: 104401
+      motion: 400
     textRight: Well, yeah! We can't be careless!
   - chara:
     - id: 301801
@@ -108,27 +113,29 @@ story:
       bind...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104401
+      motion: 0
     textRight: Oh, I'll be fine!
   - chara:
-    - id: 800300
+    - id: 104401
     textRight: I always go full force, that's why I'm good@no matter what happens!
   - chara:
     - id: 301801
     textLeft: You're not overdoin' it though? You look@pretty worn out sometimes.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 800300
+      face: mtn_ex_030.exp3.json
+      id: 104401
     textRight: Wha, I'm not worn out!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 800300
+      face: mtn_ex_020.exp3.json
+      id: 104401
+      motion: 200
     textRight: What makes you say that?! I'm perfectly@fine!
   - chara:
-    - id: 800300
+    - id: 104401
     textRight: Don't go all overboard with the worrying!
   - chara:
     - id: 301801
@@ -136,12 +143,13 @@ story:
     textLeft: Sena...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104401
+      motion: 1
     textRight: Oh, right! Listen, forget about that. Let's@go search the apartment
       complex again!
   - chara:
-    - id: 800300
+    - id: 104401
     textRight: I know it pretty well after all. I think@that's why I, like, feel something!
   - chara:
     - id: 301801
@@ -149,9 +157,9 @@ story:
     textLeft: '...'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 800300
-      motion: 0
+      face: mtn_ex_030.exp3.json
+      id: 104401
+      motion: 300
     textRight: What? You don't want to...? Well, we can go@someplace else...
   - chara:
     - id: 301801
@@ -159,8 +167,9 @@ story:
     textLeft: No, it's not that...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104401
+      motion: 0
     textRight: Good! Then the apartments it is!
   - chara:
     - id: 301801

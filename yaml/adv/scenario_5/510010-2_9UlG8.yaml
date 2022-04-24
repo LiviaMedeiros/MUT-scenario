@@ -90,7 +90,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Chika
-    textRight: I'm also a Magical girl, just like all of you. @Nice to meet you!
+    textRight: I'm also a Magical Girl, just like all of you. @Nice to meet you!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -360,7 +360,7 @@ story:
       id: 301701
       motion: 400
     nameLeft: Yukika
-    textLeft: So Yuuna was a Magical girl?!
+    textLeft: So Yuuna was a Magical Girl?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -467,7 +467,7 @@ story:
       id: 305000
       pos: 0
     nameLeft: Yuuna
-    textLeft: You were also a Magical girl, weren't you?
+    textLeft: You were also a Magical Girl, weren't you?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

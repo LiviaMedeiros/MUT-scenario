@@ -22,21 +22,30 @@ story:
     turnChangeOut: fadeOut
   - nameNarration: Ikumi
     narration: ―Ikumi―@I see, this Witch is so weak compared to you.
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-2
   - narration: ―Ikumi―@Thank you, for all your help.
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-3
   - narration: ―Ikumi―@I can leave behind meaning to what Ryou did.@That alone fills
       me with so much happiness.
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-4
   - nameNarration: ""
     narration: …………
   - nameNarration: Ikumi
     narration: ―Ikumi―@Yeah, I know I won't last much longer.
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-6
   - narration: ―Ikumi―@My emotions are all over the place...@I'm...losing my sense
       of you.
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-7
   - narration: ―Ikumi―@I can't...control...my power...
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-8
   - narration: ―Ikumi―@All of my magic is leaving...my body is fading...@The feeling...in
       my fingertips...is gone.
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-9
   - narration: ―Ikumi―@So, you should also...@go find the person that you like...
       Go on.
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-10
   - narration: ―Ikumi―@I want to give you...my body...@but there's...nothing left.
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-11
   - autoTurnLast: 0.01
     bg: white
     item:
@@ -51,8 +60,11 @@ story:
     narrationCoverOpacity: 0
     narrationEffect: in
     turnChangeOut: whiteOut
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-12
   - narration: '[textBlack:There is no pain.@I''m dissolving into the air…]'
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-13
   - narration: '[textBlack:But...I''m not sad,@and I''m not scared.]'
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-14
   - autoTurnLast: 0.01
     bgm: stop
     item:
@@ -72,7 +84,9 @@ story:
     narrationLineMargin: 35
     narrationLineSpace: 20
     turnChangeOut: fadeOut
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-15
   - narration: For everyone.
+    voiceFullAuto: fullvoice/section_102704/vo_full_102704-20-16
   - autoTurnLast: 0.5
     narrationEffect: out
   - autoTurnLast: 2

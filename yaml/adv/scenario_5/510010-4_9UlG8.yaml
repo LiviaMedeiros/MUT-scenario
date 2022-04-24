@@ -268,7 +268,7 @@ story:
   - chara:
     - id: 304701
     nameRight: Chika
-    textRight: I don't want these people to get invovled in the fight over the [textYellow:Kimochi].
+    textRight: I don't want these people to get involved in the fight over the [textYellow:Kimochi].
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

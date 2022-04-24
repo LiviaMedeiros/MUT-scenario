@@ -12,8 +12,8 @@ story:
       pos: 1
     turnChangeIn: fadeIn
     turnEffect: blackPromist
-  - nameNarration: Asuka Tatsuki
-    narration: When I noticed it, "I" was already standing in front of me
+  - nameNarration: Asuka
+    narration: When I noticed it,@"I" was already standing in front of me.
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: How did I know that person was me?
@@ -23,7 +23,7 @@ story:
       go with it.
   - narration: Then, the me in front of me @said to me "What's happeing here is happening,
       @and yet, it isn't really happening."
-  - narration: Once again, I don't really understand it... @But! If you stop to think
+  - narration: Once again, I don't really understand it...@But! If you stop to think
       everything through @then the story won't get anywhere, @so I decided to just
       go with it.
   - bgm: stop
@@ -43,8 +43,8 @@ story:
       pos: 2
     narrationEffect: out
     turnChangeIn: fadeIn
-  - nameLeft: Asuka Tatsuki
-    textLeft: You're saying that I'm not suited for the Ryushin-ryu school?!
+  - nameLeft: Asuka
+    textLeft: You're saying that I'm not@suited for the Ryushin-ryu school?!
     turnChangeOut: fadeOut
   - bgm: bgm03_story04
     chara:
@@ -70,7 +70,7 @@ story:
     - cheek: 0
       id: 101301
       motion: 1
-    textLeft: Suddenly showing up and saying that... @that's beyond rude! Rude times
+    textLeft: Suddenly showing up and saying that...@that's beyond rude! Rude times
       10 million!
   - chara:
     - cheek: 0
@@ -88,31 +88,31 @@ story:
       id: 101301
       lipSynch: 0
       motion: 0
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101301
       motion: 1
-    textLeft: '...Oh, that''s right... we were just talking about that...'
+    textLeft: '...Oh, that''s right...we were just talking about that...'
   - chara:
     - cheek: -1
       id: 101302
       motion: 300
-    textRight: Explaining it a little more, I'm a part of you that's usually hidden...
+    textRight: Explaining it a little more,@I'm a part of you that's usually hidden...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101301
       motion: 100
-    textLeft: A part of... me?!
+    textLeft: A part of...me?!
   - textRight: To be exact, I'm a part from deep within your heart.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101301
       motion: 0
-    textLeft: '...Um... I don''t get it!'
+    textLeft: '...Um...I don''t get it!'
   - chara:
     - cheek: -1
       id: 101302
@@ -122,7 +122,7 @@ story:
     - cheek: -1
       id: 101302
       motion: 200
-    textRight: The important thing is that Asuka Tatsuki is not the right person for
+    textRight: The important thing is that Asuka Tatsuki@is not the right person for
       Ryushin-ryu...
   - chara:
     - cheek: -1
@@ -145,7 +145,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101302
       motion: 300
-    textRight: Do you... want to master the Ryushin-ryu?
+    textRight: Do you...want to master the Ryushin-ryu?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -195,7 +195,7 @@ story:
     - cheek: 1
       id: 101301
       motion: 1
-    textLeft: What are you saying I did!?
+    textLeft: What are you saying I did?!
   - textRight: '...What you did is...'
   - narration: You signed a contract to become a magical girl...
     narrationEffect: in

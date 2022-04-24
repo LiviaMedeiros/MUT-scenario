@@ -15,18 +15,18 @@ story:
       id: 101302
       motion: 0
       pos: 2
-    nameNarration: Asuka Tatsuki
+    nameNarration: Asuka
     narrationBg: black
     turnChangeIn: fadeIn
     turnEffect: blackPromist
-  - narration: That person suddenly appeared in front of me, calling herself me...
+  - narration: That person suddenly appeared in front of me,@calling herself me...
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: And that same person suddenly told me,@"The blade of Asuka Tatsuki
       is sullied"...
   - narration: The reason is...
   - bg: bg_adv_21251.jpg
-    nameLeft: Asuka Tatsuki
+    nameLeft: Asuka
     narrationEffect: out
     textLeft: Because I became a magical girl,@I became tainted...!?
   - nameRight: ???
@@ -151,8 +151,8 @@ story:
       id: 101301
       lipSynch: 0
       motion: 0
-    textLeft: '.....'
-  - textLeft: '...The right path... forsaken...?'
+    textLeft: '...'
+  - textLeft: '...The right path...forsaken...?'
   - bgm: stop
     chara:
     - cheek: -1
@@ -161,7 +161,7 @@ story:
     textRight: The power of miracles driven by wishes...@in other words...
   - bgm: bgm03_story04
     nameNarration: ???
-    narration: It's "[textRed:wrong]."
+    narration: It's "[textRed:wrong]".
     narrationEffect: in
     narrationFontSize: 40
   - chara:
@@ -211,7 +211,7 @@ story:
       id: 101301
       motion: 0
       pos: 0
-    textLeft: '...That I think it was... right...?'
+    textLeft: '...That I think it was...right...?'
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json
@@ -231,7 +231,7 @@ story:
     textRight: If that's the case...@then your blade truly is tainted.
   - textRight: Remember the words@that your father taught you...
   - nameNarration: ???
-    narration: '"When the mind is wrong, the sword is also wrong"'
+    narration: '"When the mind is wrong,@the sword is also wrong."'
     narrationEffect: in
   - chara:
     - cheek: 0
@@ -240,8 +240,8 @@ story:
       motion: 0
     narrationEffect: out
     textLeft: '...Those words...!'
-  - nameNarration: Asuka Tatsuki
-    narration: '"When the mind is wrong, the sword is also wrong"'
+  - nameNarration: Asuka
+    narration: '"When the mind is wrong,@the sword is also wrong."'
     narrationEffect: in
   - narration: These are the words of a famous swordsman,@taught to me by my father.
   - narration: The Ryushin-ru style is also the same...@If my mind is wrong,@my sword
@@ -270,7 +270,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101302
       motion: 300
-    textRight: Or... will you continue to defile Ryushin-ru@with your foul heart?
+    textRight: Or...will you continue to defile Ryushin-ru@with your foul heart?
   - chara:
     - cheek: 0
       id: 101301
@@ -293,7 +293,7 @@ story:
       id: 101301
       motion: 200
     textBg: shout
-    textLeft: That's... no...!
+    textLeft: That's...no...!
   - chara:
     - cheek: -1
       id: 101302
@@ -304,7 +304,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 101301
       motion: 300
-    textLeft: No... my path isn't...!
+    textLeft: No...my path isn't...!
   - chara:
     - cheek: -1
       id: 101302
@@ -328,9 +328,9 @@ story:
     narration: You are wrong...
     narrationBg: black
     narrationEffect: in
-  - nameCenter: Asuka Tatsuki
+  - nameCenter: Asuka
     narrationEffect: out
-    textCenter: Uh... ungh...!
+    textCenter: Uh...ungh...!
   - chara:
     - cheek: 0
       id: 101301
@@ -359,7 +359,7 @@ story:
     narrationBg: black
     narrationEffect: in
   - narrationEffect: out
-    textCenter: I... I...!
+    textCenter: I...@I...!
   - bgm: stop
     narration: You are wrong...@You walk a false path...@You bring shame to Ryushin-ru...@You
       act in selfishness...@Now, atone for your sins...
@@ -378,11 +378,11 @@ story:
       id: 101302
       motion: 0
       pos: 2
-    narration: The price is... your [textRed:life]!
+    narration: The price is...your [textRed:life]!
     narrationFontSize: 40
   - narrationEffect: out
-    textLeft: My... my life...
-  - textRight: Yes...@it's time to kill yourself...
+    textLeft: My...my life...
+  - textRight: Yes...@It's time to kill yourself...
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json

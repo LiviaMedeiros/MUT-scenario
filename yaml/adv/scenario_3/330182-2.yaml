@@ -5,13 +5,13 @@ story:
     bg: bg_adv_17102.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 101601
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104401
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
@@ -33,12 +33,13 @@ story:
     narrationEffect: out
     textLeft: I believe that takes care of it.
   - chara:
-    - id: 800300
+    - id: 104401
+      motion: 200
     nameRight: Mikoto
     textRight: Kanagi... Kanagi Izumi! Thank you!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101601
       motion: 0
     textLeft: Certainly.
@@ -56,7 +57,7 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 101601
       motion: 0
       pos: 1
@@ -74,7 +75,7 @@ story:
     - id: 101601
       pos: 0
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 301801
       motion: 0
       pos: 2
@@ -86,13 +87,13 @@ story:
     textRight: '...'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101601
     nameLeft: Kanagi
     textLeft: Hm? It's you...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301801
       motion: 300
     textRight: Um... I wanted to ask somethin'...
@@ -104,7 +105,7 @@ story:
     textRight: Yeah...
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 101601
     textLeft: Very well.
   - chara:
@@ -112,20 +113,20 @@ story:
     textRight: Forget about me and Sena.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101601
     textLeft: '...Why?'
   - bgm: bgm05_event07
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 301801
       motion: 0
     surround: stop
     textRight: '''Cause... You smell like trouble.'
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 101601
       motion: 200
     textLeft: Do I? That's quite the statement.
@@ -140,7 +141,7 @@ story:
     chara:
     - cheek: 0
       effect: ef_adv_05
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301800
       motion: 1
       pos: 2
@@ -148,20 +149,20 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301800
       motion: 200
     textRight: I'll erase 'em for ya!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101601
       motion: 400
     textLeft: Wha?!
   - autoTurnLast: 1
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101601
       motion: 0
       pos: 1
@@ -174,7 +175,7 @@ story:
     turnChangeOut: whiteOut
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 101601
     textCenter: Hm...
   - chara:
@@ -198,7 +199,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 301800
       lipSynch: 0
       motion: 0
@@ -208,7 +209,7 @@ story:
     turnEffect: stop
   - chara:
     - cheek: 0
-      face: mtn_ex_013.exp.json
+      face: mtn_ex_013.exp3.json
       id: 301800
       lipSynch: 0
     textCenter: (Did it work?)
@@ -216,6 +217,7 @@ story:
   - chara:
     - cheek: 1
       id: 301800
+      lipSynch: 1
     textCenter: Ahaha...
     turnEffect: stop
   - nameNarration: Hanna
@@ -233,38 +235,39 @@ story:
     bg: bg_adv_21161.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301800
       motion: 400
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
-      motion: 0
+      face: mtn_ex_010.exp3.json
+      id: 104400
+      motion: 1
       pos: 2
     narrationEffect: out
     turnChangeIn: fadeIn
   - chara:
-    - id: 800300
+    - id: 104400
     nameRight: Mikoto
     textRight: My name's Mikoto Sena.
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
-    - id: 800300
+    - id: 104400
     textRight: I'm a Magical Girl, and I'm assuming...you@are too?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 301801
+      face: mtn_ex_030.exp3.json
+      id: 301800
       motion: 0
     nameLeft: Hanna
     textLeft: Oh, uh, yeah...
   - chara:
-    - id: 800300
+    - id: 104400
+      motion: 200
     textRight: Oh my gosh! You're the first one I met!
   - chara:
-    - id: 800300
+    - id: 104400
     textRight: So there really are other Magical Girls@out there!
   - nameNarration: Hanna
     narration: I thought I was just gonna use her at first,@but she became important

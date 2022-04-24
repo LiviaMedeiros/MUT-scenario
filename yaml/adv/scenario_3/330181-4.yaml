@@ -5,37 +5,38 @@ story:
     bg: bg_adv_21161.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301800
       motion: 400
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
-      motion: 0
+      face: mtn_ex_010.exp3.json
+      id: 104400
+      motion: 1
       pos: 2
     turnChangeIn: fadeIn
   - bgm: bgm03_story06
     chara:
-    - id: 800300
+    - id: 104400
     nameRight: Mikoto
     textRight: My name's Mikoto Sena.
     turnChangeOut: fadeOut
   - chara:
-    - id: 800300
+    - id: 104400
     textRight: I'm a Magical Girl, and I'm assuming...you@are too?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301800
       motion: 0
     nameLeft: Hanna
     textLeft: Oh, uh, yeah...
   - chara:
-    - id: 800300
+    - id: 104400
+      motion: 200
     textRight: Oh my gosh! You're the first one I met!
   - chara:
-    - id: 800300
+    - id: 104400
     textRight: So there really are other Magical Girls@out there!
   - chara:
     - id: 301800
@@ -43,20 +44,22 @@ story:
     textLeft: '...'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 800300
-    textRight: '...[chara:800300:lipSynch_0][wait:1.0][chara:800300:lipSynch_1]Ummm...'
+      face: mtn_ex_030.exp3.json
+      id: 104400
+      lipSynch: 0
+      motion: 1
+    textRight: '...[wait:1.0][chara:104400:lipSynch_1]Ummm...'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301800
     textLeft: Wha...what?
   - chara:
-    - id: 800300
+    - id: 104400
     textRight: Would you, um, tell me your name?
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 301800
       lipSynch: 0
     textLeft: '...'
@@ -66,33 +69,36 @@ story:
     textLeft: Hanna Sarasa.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 800300
+      face: mtn_ex_050.exp3.json
+      id: 104400
+      motion: 400
     textRight: What? Your name's Hanna?!
   - chara:
     - id: 301800
     textLeft: Uhh, yep...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104400
+      motion: 100
     textRight: Wow! Parts of our names sound similar! Hanna@and Sena!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301800
       motion: 0
     textLeft: '...Say what?'
   - chara:
-    - id: 800300
+    - id: 104400
     textRight: Nice to meet you! I can call you by your@first name, right?
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 301800
     textLeft: Yeah, whatever.
   - chara:
-    - id: 800300
+    - id: 104400
+      motion: 0
     textRight: Great! And you can call me Mikoto if you@want!
   - chara:
     - id: 301800
@@ -104,16 +110,17 @@ story:
     textLeft: '...Sena.'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 800300
+      face: mtn_ex_050.exp3.json
+      id: 104400
+      motion: 400
     textRight: Oh nooo, you used my last name?!
   - chara:
     - id: 301800
     textLeft: Is that bad?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104400
     textRight: N-no, it's fine! Uh, perfectly fine!
   - nameNarration: Hanna
     narration: Then Sena said right out that she wanted@to fight as a team. That she
@@ -133,7 +140,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301800
       motion: 1
       pos: 1

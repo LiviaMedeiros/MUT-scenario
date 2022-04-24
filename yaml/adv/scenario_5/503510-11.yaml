@@ -17,36 +17,36 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm01_anime03
     nameNarration: Rika
-    narration: The day is finally here…!
+    narration: The day is finally here...!
     narrationBg: bg_adv_21041.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: Based on the masterpiece shoujo manga,@it's the premiere of the movie@「The
-      Classroom Dyed Madder Red」
+  - narration: Based on the masterpiece shoujo manga,@it's the premiere of the movie@"The
+      Classroom Dyed Madder Red".
   - narration: When I told her that I wanted to see the movie,@Ren told me that she
-      wanted to see it too,@and came with me on opening day, but…
+      wanted to see it too,@and came with me on opening day, but...
   - chara:
     - id: 303101
       motion: 300
     nameLeft: Rika
     nameRight: Ren
     narrationEffect: out
-    textLeft: Wow… that's one heck of a line…
+    textLeft: Wow... That's one heck of a line...
   - chara:
     - id: 302501
       motion: 1
-    textRight: …Y-yeah…
+    textRight: '...Y-yeah...'
   - chara:
     - id: 303101
       motion: 400
-    textLeft: '[chara:303101:effect_emotion_surprise_0][se:7226_shock]Ah! This isn’t
+    textLeft: '[chara:303101:effect_emotion_surprise_0][se:7226_shock]Ah! This isn''t
       the time to get overwhelmed!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 303101
       motion: 1
-    textLeft: I’ll go buy the tickets for us!
+    textLeft: I'll go buy the tickets for us!
   - chara:
     - id: 303101
     textLeft: Do you have your student ID?
@@ -55,9 +55,9 @@ story:
       face: mtn_ex_050.exp.json
       id: 302501
       motion: 0
-    textRight: Ah, right…
+    textRight: Ah, right...
   - nameNarration: ""
-    narration: '*rustle rustle*'
+    narration: '*Rustle rustle*'
     narrationBg: narration
     narrationEffect: in
   - chara:
@@ -66,7 +66,7 @@ story:
       id: 302501
       motion: 100
     narrationEffect: out
-    textRight: Here, Rika…
+    textRight: Here, Rika...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -78,18 +78,18 @@ story:
       face: mtn_ex_010.exp.json
       id: 303101
       motion: 0
-    textLeft: I’ll buy drinks on my way back!@What do you want?
+    textLeft: I'll buy drinks on my way back!@What do you want?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 302501
       motion: 0
-    textRight: I-I’ll go… buy the drinks…
+    textRight: I-I'll go...buy the drinks...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
-    textLeft: Eh… Are you sure?
+    textLeft: Eh... Are you sure?
   - chara:
     - id: 302501
       motion: 200
@@ -105,17 +105,17 @@ story:
       face: mtn_ex_001.exp.json
       id: 302501
       motion: 1
-    textRight: Rika...@what drink do you want…?
+    textRight: Rika...@What drink do you want...?
   - chara:
     - id: 303101
-    textLeft: Um… [chara:303101:lipSynch_0][wait:0.8][chara:303101:motion_200][chara:303101:lipSynch_1]Coke!
+    textLeft: Um... [chara:303101:lipSynch_0][wait:0.8][chara:303101:motion_200][chara:303101:lipSynch_1]Coke!
   - chara:
     - id: 302501
-    textRight: Got it…
+    textRight: Got it...
   - chara:
     - id: 303101
       motion: 100
-    textLeft: Okay then, we’ll meet up here after@we’re done buying!
+    textLeft: Okay then, we'll meet up here@after we're done buying!
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -128,7 +128,7 @@ story:
     - id: 303101
       motion: 300
     nameCenter: Rika
-    textCenter: …Haah…
+    textCenter: '...Haah...'
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -136,24 +136,24 @@ story:
       id: 303101
       lipSynch: 0
       motion: 1
-    textCenter: (The ticket line is even more crowded@than I thought it’d be.)
+    textCenter: (The ticket line is even more crowded@than I thought it'd be.)
     turnEffect: thinking
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303101
       lipSynch: 0
-    textCenter: (…If I had bought both the drinks and tickets,)
+    textCenter: (...If I had bought both the drinks and tickets...)
   - chara:
     - id: 303101
       lipSynch: 0
-    textCenter: (there’s no way I would make it in time@for the opening…)
+    textCenter: (There's no way I would make it@in time for the opening...)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 303101
       lipSynch: 0
-    textCenter: (I’m really glad that Ren helped out.)
+    textCenter: (I'm really glad that Ren helped out.)
   - nameLeft: ""
     textLeft: Next person, pleaseー
     turnEffect: stop
@@ -177,19 +177,19 @@ story:
       pos: 0
     nameLeft: ""
     nameRight: Rika
-    textRight: I want two middle school student tickets, please
+    textRight: I want two middle school student tickets, please.
   - chara:
     - id: 303101
-    textRight: for the 10am showing of@「The Classroom Dyed Madder Red」
+    textRight: For the 10 AM showing of@"The Classroom Dyed Madder Red".
   - chara:
     - id: 800600
     textLeft: Okay. May I see your student IDs?
   - chara:
     - id: 303101
-    textRight: Yes, here you… [chara:303101:lipSynch_0][wait:0.8][chara:303101:cheek_0][chara:303101:face_mtn_ex_050.exp.json][chara:303101:lipSynch_1]go…?
+    textRight: Yes, here you...[chara:303101:lipSynch_0][wait:0.8][chara:303101:cheek_0][chara:303101:face_mtn_ex_050.exp.json][chara:303101:lipSynch_1]go...?
   - chara:
     - id: 800600
-    textLeft: Please wait a se…
+    textLeft: Please wait a se...
   - chara:
     - id: 303101
       motion: 400
@@ -202,39 +202,39 @@ story:
   - chara:
     - id: 303101
       lipSynch: 0
-    textRight: ………
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303101
       lipSynch: 1
       motion: 300
-    textRight: Ah sorry, it's nothing…
+    textRight: Ah sorry, it's nothing...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 800600
-    textLeft: …Then, I will take your student IDs for a moment, okay…?
+    textLeft: '...Then, I''ll take your student IDs for a moment,@okay...?'
   - chara:
     - id: 303101
       motion: 0
-    textRight: Ah, okay…
+    textRight: Ah, okay...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
       lipSynch: 0
-    textRight: (The birthday written on Ren’s student ID…)
+    textRight: (The birthday written on Ren's student ID...)
     turnEffect: thinking
   - chara:
     - id: 303101
       lipSynch: 0
-    textRight: (…is next month!)
+    textRight: (...is next month!)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 800600
-    textLeft: Ok, I'm done checking your IDs,@here you go.
+    textLeft: Alright, I'm done checking your IDs,@here you go.
     turnEffect: stop
   - chara:
     - id: 800600
@@ -263,22 +263,22 @@ story:
     - eyeClose: 0
       id: 303101
       lipSynch: 0
-    textCenter: (I’m back to where we agreed to meet up, but…)
+    textCenter: (I'm back to where we agreed to meet up, but...)
     turnEffect: thinking
   - chara:
     - id: 303101
       lipSynch: 0
       motion: 1
-    textCenter: (it looks like Ren isn’t here yet?)
+    textCenter: (It looks like Ren isn't here yet?)
   - chara:
     - id: 303101
       lipSynch: 0
-    textCenter: ………
+    textCenter: '...'
     turnEffect: stop
   - chara:
     - id: 303101
       lipSynch: 0
-    textCenter: (Ren’s birthday, huh…)
+    textCenter: (Ren's birthday, huh...)
     turnEffect: thinking
   - chara:
     - cheek: 0
@@ -290,20 +290,20 @@ story:
   - chara:
     - id: 303101
       lipSynch: 0
-    textCenter: (We’re friends, you should’ve told me.)
+    textCenter: (We're friends, you should've told me.)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 303101
       lipSynch: 0
       motion: 0
-    textCenter: (…But, I guess that’s just like you.)
+    textCenter: (...But, I guess that's just like you.)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 303101
       lipSynch: 0
-    textCenter: (For now, I’ll keep it a secret@that I know her birthday.)
+    textCenter: (For now, I'll keep it a secret@that I know her birthday.)
   - chara:
     - id: 303101
       lipSynch: 0
@@ -313,7 +313,7 @@ story:
     - id: 303101
       lipSynch: 0
       motion: 0
-    textCenter: (And so, I just have to figure out what to give her…)
+    textCenter: (And so, I just have to figure out what to give her...)
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -328,7 +328,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 303101
       lipSynch: 0
-    textCenter: (…Ah, there she is…!)
+    textCenter: (...Ah, there she is...!)
   - autoTurnLast: 0.01
     chara:
     - id: 303101
@@ -341,7 +341,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Ren
-    textRight: Rika… Sorry for mak…
+    textRight: Rika... Sorry for mak...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -349,13 +349,13 @@ story:
       lipSynch: 1
       motion: 100
     nameLeft: Rika
-    textLeft: Nono, I wasn’t waiting at all, y'know?@I just got back here too.
+    textLeft: Nono, I wasn't waiting at all, y'know?@I just got back here too.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 302501
       motion: 1
-    textRight: Really…?
+    textRight: Really...?
   - autoTurnLast: 0.5
     bgm: stop
     chara:
@@ -374,7 +374,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story05
     nameNarration: Rika
-    narration: The protagonist in the movie 「The Classroom Dyed Madder Red」@that I
+    narration: The protagonist in the movie@"The Classroom Dyed Madder Red"@that I
       saw with Ren was about a high school girl@who was gentle and earnest, but also
       clumsy@and bad at talking to people.
     narrationBg: bg_adv_narration.jpg
@@ -382,41 +382,41 @@ story:
     turnChangeOut: fadeOut
   - narration: What caused the timid protagonist to start to change@was an encounter
       with a boy her own age.
-  - narration: After experiencing the boy’s kindness,@the protagonist decided that@she
+  - narration: After experiencing the boy's kindness,@the protagonist decided that@she
       wanted to live life facing forward.@And the boy, charmed by the earnestness@of
-      the protagonist’s actions,@decided to support her.
+      the protagonist's actions,@decided to support her.
   - narration: And then, while overcoming various challenges,@the two became tied
-      together…@And together, they walked…the long path…of life…
+      together...@And together, they walked...the long path...of life...
   - chara:
     - id: 303101
       motion: 300
     narrationEffect: out
-    textLeft: Ugh...gh…hic…
+    textLeft: Ugh...gh...hic...
   - chara:
     - id: 302501
       motion: 1
-    textRight: R-Rika… are you okay…?
+    textRight: R-Rika...are you okay...?
   - chara:
     - eyeClose: 0
       id: 303101
       motion: 0
-    textLeft: Y-yeah…@Thanks, Ren.
+    textLeft: Y-yeah...@Thanks, Ren.
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 303101
       tear: 0
-    textLeft: …Yeah, I’m fine now!
+    textLeft: '...Yeah, I''m fine now!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302501
       motion: 100
-    textRight: Okay…
+    textRight: Okay...
   - chara:
     - id: 303101
       motion: 1
-    textLeft: Haa… That was super good…!
+    textLeft: Haa... That was super good...!
   - chara:
     - id: 303101
     textLeft: The main couple was good,@and I cried a lot in that one scene～!
@@ -428,19 +428,19 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303101
-    textLeft: The truth was that he loved her too…@and then the part where he was
+    textLeft: The truth was that he loved her too...@and then the part where he was
       crying alone,
   - chara:
     - eyeClose: 1
       id: 303101
       motion: 300
-    textLeft: that part was really touching…
+    textLeft: that part was really touching...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302501
       motion: 300
-    textRight: Yeah…@That was painful…and very sad…
+    textRight: Yeah...@That was painful...and very sad...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -454,15 +454,15 @@ story:
       face: mtn_ex_050.exp.json
       id: 302501
       motion: 1
-    textRight: Mm… the scene when she…@managed to overcome her painful past…
+    textRight: Mm...the scene when she...@managed to overcome her painful past...
   - chara:
     - id: 302501
-    textRight: and finally smiled again…
+    textRight: and finally smiled again...
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 302501
-    textRight: I liked that…a lot…
+    textRight: I liked that...a lot...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -483,7 +483,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 302501
       motion: 100
-    textRight: Yes…!
+    textRight: Yes...!
   - autoTurnLast: 1
     bg: bg_adv_11042.jpg
     bgm: stop
@@ -503,14 +503,14 @@ story:
     chara:
     - id: 303101
       motion: 400
-    textLeft: Thank you so much for today, Ren!@Let’s hang out again soon, okay?
+    textLeft: Thank you so much for today, Ren!@Let's hang out again soon, okay?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302501
       motion: 1
-    textRight: Yes…see you next time…
+    textRight: Yes...see you next time...
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -521,18 +521,18 @@ story:
       lipSynch: 0
       motion: 0
       pos: 1
-    textCenter: ………
+    textCenter: '...'
   - chara:
     - id: 303101
       lipSynch: 0
       motion: 1
-    textCenter: (Looks like Ren is smiling a lot more now@than before.)
+    textCenter: (Looks like Ren is smiling a@lot more now than before.)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 303101
       lipSynch: 1
-    textCenter: '*giggle*'
+    textCenter: '*Giggle*'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

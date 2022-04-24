@@ -17,7 +17,7 @@ story:
       pos: 2
     turnChangeIn: fadeIn
     turnEffect: blackPromist
-  - nameLeft: Asuka Tatsuki
+  - nameLeft: Asuka
     textLeft: To convey my heart...
     turnChangeOut: fadeOut
   - textLeft: I'll put my heart into my blade @and make you accept it!
@@ -38,7 +38,7 @@ story:
       lipSynch: 0
       motion: 0
     nameRight: ???
-    textRight: '.....'
+    textRight: '...'
   - textRight: Okay...@Let's get started...
   - textRight: But don't think I'll just stand here and take it!
   - chara:
@@ -81,7 +81,7 @@ story:
       id: 101300
       lipSynch: 0
       motion: 0
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - cheek: -1
       face: mtn_ex_020.exp.json
@@ -92,7 +92,7 @@ story:
       id: 101300
       lipSynch: 0
       motion: 300
-    textLeft: '.....'
+    textLeft: '...'
   - textLeft: '...Rather than fearing death...'
   - chara:
     - cheek: 0
@@ -151,13 +151,13 @@ story:
     - eyeClose: 1
       id: 101300
       lipSynch: 0
-    textLeft: '.....'
+    textLeft: '...'
     turnChangeOut: whiteOut
   - chara:
     - cheek: -1
       id: 101302
       lipSynch: 0
-    textRight: '.....'
+    textRight: '...'
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json
@@ -190,21 +190,21 @@ story:
       face: mtn_ex_010.exp.json
       id: 101302
       motion: 0
-    textRight: Yeah... now...
-  - textRight: But... someday it really might become stained...
+    textRight: Yeah...now...
+  - textRight: But...someday it really might become stained...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 101300
       lipSynch: 0
       motion: 300
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json
       id: 101302
       motion: 1
-    textRight: If that happens... I will certainly appear again.
+    textRight: If that happens...@I will certainly appear again.
   - bgm: stop
     textRight: So, please, burn this image into your eyes.
   - autoTurnLast: 1
@@ -236,7 +236,7 @@ story:
       id: 101300
       motion: 0
       pos: 1
-    nameCenter: Asuka Tatsuki
+    nameCenter: Asuka
     textCenter: She vanished...?
     turnChangeOut: fadeOut
   - textCenter: Where on earth...?
@@ -270,7 +270,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: stop
   - bg: black
-    nameNarration: Asuka Tatsuki
+    nameNarration: Asuka
     narration: '...After that I woke up...'
     narrationBg: black
     narrationEffect: in
@@ -285,7 +285,7 @@ story:
       motion: 0
       pos: 1
     narrationEffect: out
-    textCenter: '.....'
+    textCenter: '...'
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -303,7 +303,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 101301
       lipSynch: 0
-    textCenter: '.....'
+    textCenter: '...'
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -313,14 +313,14 @@ story:
       motion: 0
     textCenter: (Ah, that's right...)
   - bgm: bgm03_story05
-    nameNarration: Asuka Tatsuki
+    nameNarration: Asuka
     narration: '"Kenzen Ichiyo"'
     narrationEffect: in
   - narration: Teaching that the path of swords @also leads to the path of Zen...
   - narration: I was meditating amongst nature @as part of my training.
   - narration: What is my path...?@What is Ryushin-ryu, what is a sword, what is a
       heart...?
-  - narration: And at the end of that... she appeared.
+  - narration: And at the end of that...she appeared.
   - autoTurnLast: 1
     bg: bg_adv_21251.jpg
     chara:
@@ -338,7 +338,7 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
     turnEffect: blackPromist
-  - textRight: If that happens... I will certainly appear again...
+  - textRight: If that happens...@I will certainly appear again...
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - autoTurnLast: 0.1
@@ -352,7 +352,7 @@ story:
       lipSynch: 0
       motion: 0
       pos: 1
-    textCenter: '.....'
+    textCenter: '...'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -369,7 +369,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 101301
       motion: 0
-    narration: '"When the mind is wrong, the sword is also wrong."'
+    narration: '"When the mind is wrong,@the sword is also wrong."'
   - narration: I feel like those words @are more strongly engraved in me than ever.
   - narration: '...The way I am now...'
   - bgm: stop
@@ -379,7 +379,7 @@ story:
       id: 101301
       lipSynch: 0
     narrationEffect: out
-    textCenter: '.....'
+    textCenter: '...'
   - bgm: bgm03_story09
     chara:
     - cheek: 0
@@ -408,7 +408,7 @@ story:
     - cheek: 0
       id: 101301
       lipSynch: 0
-    textCenter: '.....'
+    textCenter: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -434,7 +434,7 @@ story:
     - effect: slideOutRight
       id: 101301
     textClear: 1
-  - narration: That's right... I just have to walk forward and be true to myself.
+  - narration: That's right...@I just have to walk forward and be true to myself.
     narrationBg: black
     narrationEffect: in
   - narration: The path that I belive is right... @straight ahead!

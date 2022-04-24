@@ -434,7 +434,7 @@ story:
     - id: 101101
       voiceFull: fullvoice/section_102203/vo_full_102203-4-44
       voiceFullStop: fullvoice/section_102203/vo_full_102203-4-43
-    textRight: I'd do the same thing if Momoko@and Rena-chan went missing.
+    textRight: I'd do the same thing if Momoko@and Rena went missing.
   - chara:
     - eyeClose: 1
       id: 101101

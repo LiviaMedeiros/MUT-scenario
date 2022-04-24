@@ -250,7 +250,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Perenelle
-    textLeft: Of course, I'm this will expose them to danger, but...
+    textLeft: Of course, I'm sure this will expose them to@danger, but...
   - chara:
     - id: 810000
     textRight: '...now is not the time to hold back, is it?'

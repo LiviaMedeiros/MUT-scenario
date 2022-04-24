@@ -22,7 +22,7 @@ story:
     - cheek: 0
       id: 101301
       lipSynch: 0
-    nameLeft: Asuka Tatsuki
+    nameLeft: Asuka
     textLeft: (Father... I...)
     turnChangeOut: fadeOut
   - chara:
@@ -30,17 +30,17 @@ story:
       id: 101301
       lipSynch: 0
       motion: 300
-    textLeft: (I... !)
+    textLeft: (I...!)
   - chara:
     - cheek: 0
       eyeClose: 1
       id: 101301
-    textLeft: Ugh... Aagh... !
+    textLeft: Ugh... Aagh...!
   - chara:
     - cheek: 0
       id: 101301
       lipSynch: 0
-    textLeft: '.....'
+    textLeft: '...'
   - bgm: stop
     chara:
     - cheek: 0
@@ -51,13 +51,13 @@ story:
       motion: 0
     textLeft: (...Ah!)
   - bg: black
-    nameNarration: Asuka's father
+    nameNarration: Asuka's Father
     narration: '"Asuka..."'
     narrationBg: black
     narrationEffect: in
   - narration: '"Asuka... You''re like this sometimes."'
-  - narration: '"Don''t you remember? You needn''t overthink things."'
-  - narration: '"We say that water shapes itself to the vessel that contains it."'
+  - narration: '"Don''t you remember?@You needn''t overthink things."'
+  - narration: '"We say that water shapes itself@to the vessel that contains it."'
   - narration: '"Just look within and face yourself head on."'
   - narration: '"What does your heart say is right?"'
   - bg: bg_adv_21251.jpg
@@ -78,7 +78,7 @@ story:
     - cheek: 0
       id: 101301
       lipSynch: 0
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json
@@ -111,19 +111,19 @@ story:
   - chara:
     - cheek: 0
       id: 101301
-    textLeft: What is "right" depends on your point of view and circumstances...
+    textLeft: What is "right" depends on your@point of view and circumstances...
   - chara:
     - cheek: -1
       face: mtn_ex_020.exp.json
       id: 101302
       motion: 0
-    textRight: No way... You're saying that you weren't wrong after all?
+    textRight: No way... You're saying that@you weren't wrong after all?
   - chara:
     - cheek: 0
       id: 101301
       lipSynch: 0
       motion: 0
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - cheek: -1
       id: 101302
@@ -173,7 +173,7 @@ story:
       id: 101302
       lipSynch: 0
       motion: 400
-    textRight: '.....'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -184,7 +184,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 101301
-    textLeft: But... these feelings aren't false either!
+    textLeft: But...these feelings aren't false either!
   - chara:
     - cheek: -1
       face: mtn_ex_020.exp.json
@@ -200,7 +200,7 @@ story:
     - cheek: 0
       id: 101301
       lipSynch: 0
-    textLeft: '.....'
+    textLeft: '...'
   - bgm: stop
     chara:
     - cheek: 0

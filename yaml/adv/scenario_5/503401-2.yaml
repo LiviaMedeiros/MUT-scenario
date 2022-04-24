@@ -96,7 +96,7 @@ story:
     nameLeft: Kaede
     nameRight: Kyubey
     narrationEffect: out
-    textRight: Make a contract with me and become@a magical girl!
+    textRight: Make a contract with me and become@a Magical Girl!
   - narration: I was told that if I made a wish,@anything that I wanted would come
       true...
     narrationEffect: in
@@ -150,7 +150,7 @@ story:
     - cheek: 1
       id: 101101
       mouthOpen: 1
-    textLeft: I want you to make it so that they never started…@[chara:101101:cheek_2:motion_100]...building
+    textLeft: I want you to make it so that they never started...@[chara:101101:cheek_2:motion_100]...building
       the building they're building!
   - chara:
     - cheek: 0
@@ -169,14 +169,14 @@ story:
       lipSynch: 0
     nameCenter: Kaede
     narrationEffect: out
-    textCenter: …………
+    textCenter: '...'
     turnEffect: stop
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 101101
       motion: 300
-    textCenter: …I see…this is a dream…
+    textCenter: '...I see...this is a dream...'
   - textCenter: So, um, in here it should be fine to@make a wish to Kyubey.
   - chara:
     - cheek: 0
@@ -191,8 +191,8 @@ story:
       id: 101101
       motion: 400
     textCenter: '...Ah....@What...?'
-  - textCenter: '...Where did...everyone...!?'
-  - nameNarration: ？？？
+  - textCenter: '...Where did...everyone...?!'
+  - nameNarration: ???
     narration: That's right...@You just have to adjust everything@around you to your
       convenience...
     narrationEffect: in
@@ -202,7 +202,7 @@ story:
       id: 101101
       motion: 1
     narrationEffect: out
-    textCenter: …Who's there[chara:101101:effect_emotion_surprise_0][se:7226_shock]!?
+    textCenter: '...Who''s there[chara:101101:effect_emotion_surprise_0][se:7226_shock]?!'
   - narration: If you feel uncomfortable,@you can just run away...
     narrationEffect: in
   - bgm: bgm05_event07
@@ -216,7 +216,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 101101
       pos: 0
-    nameRight: ？？？
+    nameRight: ???
     narrationEffect: out
     textRight: Right?
   - chara:
@@ -233,14 +233,14 @@ story:
   - chara:
     - id: 101101
       motion: 1
-    textLeft: …This is just a dream...
+    textLeft: '...This is just a dream...'
   - textRight: No. From here on,@it's not a dream anymore.
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp.json
       id: 101101
       motion: 0
-    textLeft: '...It''s...not a dream!?'
+    textLeft: '...It''s...not a dream?!'
   - autoTurnLast: 0.01
     bg: bg_adv_21251.jpg
     bgChangeEffect: fade
@@ -265,7 +265,7 @@ story:
     turnChangeOutTime: 1
     turnEffect: blackPromist
   - textRight: Where else could it be?
-  - textRight: This place is also a part of “me”.
+  - textRight: This place is also a part of "me".
   - textRight: Talking from within myself,@inside of myself...
   - textRight: It's like that.
   - chara:
@@ -273,7 +273,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 101101
       motion: 300
-    textLeft: I...@…I don't understand...
+    textLeft: I...@...I don't understand...
   - textRight: Well, you don't have to think too hard@about it.
   - textRight: You can make up whatever excuse you want@to explain how this is happening.
   - textRight: Right?
@@ -288,7 +288,7 @@ story:
   - textRight: '...Hmmmhmmm...@It''s not that big of a deal...'
   - textRight: You were doing whatever you want in@your dream, right?
   - textLeft: Y-yeah...
-  - textRight: Sooo…
+  - textRight: Sooo...
   - textRight: I want you to keep on living however@you please.
   - textLeft: Living...however I please?
   - textRight: That's right!

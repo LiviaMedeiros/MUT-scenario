@@ -174,13 +174,13 @@ story:
       id: 412103
       motion: 0
     nameLeft: Isabeau
-    textLeft: —Isabeau—@I wish for...
+    textLeft: I wish for...
   - chara:
     - id: 412103
       motion: 200
       mouthOpen: 1
     nameLeft: Isabeau
-    textLeft: —Isabeau—@"...everything you possess!"
+    textLeft: '...everything you possess!'
   - autoTurnLast: 1
     bg: bg_adv_narration.jpg
     chara:

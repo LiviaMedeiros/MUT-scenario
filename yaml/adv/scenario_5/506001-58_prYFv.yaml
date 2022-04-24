@@ -5,29 +5,32 @@ story:
     bg: bg_adv_17102.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101601
       motion: 100
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
-      motion: 0
+      face: mtn_ex_010.exp3.json
+      id: 104401
+      motion: 200
       pos: 2
     turnChangeIn: fadeIn
   - bgm: bgm05_event08
     chara:
-    - id: 800300
+    - id: 104401
     nameRight: Mikoto
     textRight: What Hanna uses is...
     turnChangeOut: fadeOut
     turnEffect: blackFrame
-  - nameNarration: Mikoto
+  - chara:
+    - id: 104401
+      motion: 0
+    nameNarration: Mikoto
     narration: '[textRed:Overwrite magic]!'
     narrationEffect: in
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101601
       motion: 1
     nameLeft: Kanagi
@@ -35,16 +38,18 @@ story:
     textLeft: Overwrite...?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 800300
+      face: mtn_ex_030.exp3.json
+      id: 104401
+      motion: 300
     textRight: Hanna couldn't use any magic at first...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104401
+      motion: 400
     textRight: But of course she couldn't!
   - chara:
-    - id: 800300
+    - id: 104401
     textRight: She can copy other Magical Girls' magic and@use it like it was her
       own!
   - chara:
@@ -56,7 +61,7 @@ story:
     textLeft: It's the first I've heard of such a unique@magic.
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 301801
       motion: 0
       pos: 2
@@ -64,37 +69,36 @@ story:
     textRight: '...Yep.'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
-      id: 800300
-      motion: 0
+      face: mtn_ex_010.exp3.json
+      id: 104401
+      motion: 1
       pos: 2
     - id: 101601
       motion: 0
     nameRight: Mikoto
     textRight: I was surprised at first, too...
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+    - id: 104401
     textRight: But that's when I said we should study@suggestion magic together!
   - chara:
-    - id: 800300
+    - id: 104401
     textRight: We'd get to share info and find out all sorts@of things, you know?
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 101601
       motion: 200
     textLeft: Hm, that's true.
   - chara:
-    - id: 800300
+    - id: 104401
+      motion: 100
     textRight: So we're doing our best as a team now!
   - chara:
     - id: 101601
     textLeft: I see...
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 301801
       lipSynch: 0
       motion: 0
@@ -105,12 +109,12 @@ story:
     bg: bg_adv_21381.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301300
       motion: 0
       pos: 2
     - cheek: -1
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 100200
       motion: 0
       pos: 0
@@ -131,12 +135,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 302700
       motion: 200
       pos: 0
     - cheek: 1
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 302800
       motion: 0
       pos: 2
@@ -156,12 +160,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 1
-      face: mtn_ex_021.exp.json
+      face: mtn_ex_021.exp3.json
       id: 100300
       motion: 201
       pos: 2
     - cheek: -1
-      face: mtn_ex_021.exp.json
+      face: mtn_ex_021.exp3.json
       id: 100200
       motion: 0
       pos: 0
@@ -180,12 +184,12 @@ story:
     textClear: 1
   - chara:
     - cheek: -1
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 300500
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301200
       motion: 0
       pos: 2
@@ -205,12 +209,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 300800
       motion: 100
       pos: 0
     - cheek: 0
-      face: mtn_ex_022.exp.json
+      face: mtn_ex_022.exp3.json
       id: 301100
       motion: 0
       pos: 2
@@ -230,12 +234,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301300
       motion: 200
       pos: 0
     - cheek: 2
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301400
       motion: 1
       pos: 2
@@ -254,12 +258,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 302700
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301500
       motion: 0
       pos: 2
@@ -272,7 +276,7 @@ story:
     textRight: She's missing!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301300
       motion: 1
       pos: 0
@@ -292,7 +296,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301800
       lipSynch: 0
       motion: 0
@@ -316,7 +320,7 @@ story:
       mouthOpen: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 302700
       motion: 400
       pos: 2
@@ -334,13 +338,13 @@ story:
     textLeft: Huuuh... All right, guess I'll say this first.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301800
       motion: 100
     textLeft: '...It was me. I did pretty much all of it!'
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 302600
       motion: 400
       pos: 2
@@ -348,7 +352,7 @@ story:
     textRight: What?!
   - chara:
     - cheek: -1
-      face: mtn_ex_021.exp.json
+      face: mtn_ex_021.exp3.json
       id: 100200
       motion: 0
       pos: 2
@@ -356,7 +360,7 @@ story:
     textRight: Said as if it was no big deal...
   - chara:
     - cheek: 1
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 302800
       motion: 0
       pos: 2
@@ -383,7 +387,7 @@ story:
     textLeft: You guys were sooo slow on the uptake.
   - chara:
     - cheek: -1
-      face: mtn_ex_021.exp.json
+      face: mtn_ex_021.exp3.json
       id: 100200
       motion: 201
       pos: 2
@@ -392,7 +396,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_014.exp.json
+      face: mtn_ex_014.exp3.json
       id: 301800
       motion: 100
     textLeft: Ahahaha!
@@ -405,7 +409,7 @@ story:
     textLeft: Things have gotten all kinds of messed up at@this point, haven't they?
   - chara:
     - cheek: 1
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301800
       motion: 200
     textLeft: And STILL!
@@ -418,7 +422,7 @@ story:
     textLeft: What's the point if you never figure it out?!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 302600
       motion: 200
       pos: 2
@@ -427,7 +431,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301800
       motion: 1
     textLeft: So I went ALL OUT this time. Figured I'd make@it easy for ya.
@@ -440,7 +444,7 @@ story:
     textLeft: Though I did have to bring the difficulty@level down a lot!
   - chara:
     - cheek: 1
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 302800
       motion: 200
       pos: 2
@@ -449,13 +453,13 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301800
       motion: 0
     textLeft: Now that everyone's here...
   - chara:
     - cheek: 0
-      face: mtn_ex_014.exp.json
+      face: mtn_ex_014.exp3.json
       id: 301800
       motion: 100
     nameNarration: Hanna

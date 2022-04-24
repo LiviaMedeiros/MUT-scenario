@@ -17,7 +17,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 402101
       motion: 0
       pos: 1
@@ -32,7 +32,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 402101
       lipSynch: 0
     textCenter: '...'
@@ -42,7 +42,7 @@ story:
     textCenter: Ah...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402101
     textCenter: '...Was all that...really a dream?'
   - chara:
@@ -66,12 +66,12 @@ story:
       filePath: resource/image_native/effect/story/general/4004_red_flame.ExportJson
       zOrder: messageBack
     autoTurnLast: 2
-    bg: bg_adv_20081.jpg
+    bg: bg_adv_31121.jpg
     bgm: bgm03_story17
     chara:
     - cheek: 1
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402101
       motion: 100
       pos: 1
@@ -105,7 +105,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402101
       motion: 0
       pos: 1
@@ -213,7 +213,7 @@ story:
     bg: bg_adv_21251.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402101
       motion: 0
       pos: 1
@@ -238,11 +238,11 @@ story:
   - autoTurnLast: 0.2
     textClear: 1
   - autoTurnLast: 0.01
-    bg: bg_adv_20081.jpg
+    bg: bg_adv_31121.jpg
     chara:
     - cheek: 1
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402101
       motion: 100
       pos: 1
@@ -270,20 +270,20 @@ story:
   - autoTurnLast: 0.01
     chara:
     - cheek: 2
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402601
       lipSynch: 0
       motion: 0
       pos: 0
       tear: 1
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 402900
       motion: 400
       pos: 2
     - cheek: 2
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 402301
       lipSynch: 0
       motion: 300
@@ -301,12 +301,12 @@ story:
     turnChangeOut: rollOutFast
   - nameNarration: ""
     narration: '*Whoosh*...'
-    narrationBg: bg_adv_20081.jpg
+    narrationBg: bg_adv_31121.jpg
     narrationEffect: in
   - chara:
     - cheek: 2
       eyeClose: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 402301
       lipSynch: 0
       tear: 1

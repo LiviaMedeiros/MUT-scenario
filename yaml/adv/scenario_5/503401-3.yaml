@@ -19,7 +19,7 @@ story:
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: blackPromist
-  - nameRight: ？？？
+  - nameRight: ???
     textRight: It's fiiiine!
   - textRight: Because living like that is what we're@best at.
   - chara:
@@ -38,7 +38,7 @@ story:
   - chara:
     - id: 101102
       motion: 100
-    textRight: …Isn't that riiiight?
+    textRight: '...Isn''t that riiiight?'
   - textLeft: '...N-no...that''s...'
   - chara:
     - id: 101102
@@ -48,8 +48,8 @@ story:
     - id: 101101
       lipSynch: 0
       motion: 0
-    textLeft: …………
-  - textLeft: …That's right…
+    textLeft: '...'
+  - textLeft: '...That''s right...'
   - autoTurnLast: 1
     bg: bg_adv_11081.jpg
     chara:
@@ -71,7 +71,7 @@ story:
     - id: 101101
       motion: 100
     nameLeft: Kaede
-    textLeft: Please…! Momoko…@Could you tell Rena for me…?
+    textLeft: Please...! Momoko...@Could you tell Rena for me...?
     turnChangeOut: whiteOut
     turnChangeOutTime: 1
     turnEffect: blackFrame
@@ -93,7 +93,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101001
-    textRight: Huh...!?@Hey, wait!
+    textRight: Huh...?!@Hey, wait!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -109,7 +109,7 @@ story:
       id: 101001
       lipSynch: 0
       motion: 0
-    textRight: …………
+    textRight: '...'
   - autoTurnLast: 1
     bg: bg_adv_21251.jpg
     chara:
@@ -135,10 +135,10 @@ story:
       lipSynch: 0
       motion: 300
       pos: 0
-    textLeft: …………
+    textLeft: '...'
     turnChangeOut: whiteOut
     turnEffect: blackPromist
-  - nameRight: ？？？
+  - nameRight: ???
     textRight: The reason that happened was because we@were slowing them down.
   - textRight: So we gave up and ran away...
   - textRight: So in short, we ran away because it was@too hard.
@@ -146,7 +146,7 @@ story:
   - chara:
     - id: 101101
       lipSynch: 0
-    textLeft: …………
+    textLeft: '...'
   - textRight: If talking to people is too hard,@we just keep our distance from them.
   - chara:
     - cheek: 1
@@ -199,7 +199,7 @@ story:
     chara:
     - id: 101102
       motion: 100
-    textRight: I wan't you to show your true self more,@just like that!
+    textRight: I want you to show your true self more,@just like that!
   - chara:
     - id: 101102
       motion: 0
@@ -216,7 +216,7 @@ story:
   - textRight: Remember me...
   - textLeft: '...You...?'
   - textRight: '...I''m you...'
-  - nameNarration: ？？？
+  - nameNarration: ???
     narration: So take my hand,@and hold it tight...
     narrationEffect: in
   - chara:
@@ -304,9 +304,9 @@ story:
     - id: 101102
       lipSynch: 0
     narrationEffect: out
-    textRight: …………
+    textRight: '...'
   - textLeft: '...I get it now...yeah...'
-  - textRight: …Yeah...@Good job...!
+  - textRight: '...Yeah...@Good job...!'
   - textRight: Now, just take my hand...
   - textLeft: '...Of course...'
   - chara:

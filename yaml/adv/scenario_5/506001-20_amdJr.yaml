@@ -6,7 +6,7 @@ story:
     bgm: bgm03_story17
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 101601
       motion: 0
       pos: 1
@@ -26,7 +26,7 @@ story:
     chara:
     - cheek: 0
       effect: ef_adv_05
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 101600
       motion: 0
       pos: 1
@@ -43,17 +43,17 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 101601
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 800300
+      face: mtn_ex_010.exp3.json
+      id: 104401
       motion: 0
       pos: 2
     nameLeft: Kanagi's Memory
-    textLeft: Your name...
+    textLeft: What's your name?
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
     turnEffect: stop
@@ -69,13 +69,13 @@ story:
     chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101600
       motion: 0
       pos: 0
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301500
       motion: 0
       pos: 2
@@ -94,7 +94,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301500
       motion: 400
       mouthOpen: 1
@@ -110,12 +110,12 @@ story:
   - bgm: bgm05_event07
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301301
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301401
       motion: 1
       pos: 2
@@ -137,19 +137,19 @@ story:
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301500
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101600
       motion: 0
       pos: 0
   - chara:
     - cheek: 0
       effect: ef_adv_05
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301501
       motion: 0
       pos: 2
@@ -157,7 +157,7 @@ story:
     textRight: '[se:7205_magic_girl]W-was my magic canceled?!'
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301501
       motion: 200
     textRight: What the?! How the heck did that happen?!
@@ -165,7 +165,7 @@ story:
     chara:
     - cheek: 0
       effect: ef_adv_05
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101601
       motion: 0
       pos: 0
@@ -182,7 +182,7 @@ story:
     textLeft: I'm sorry.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301301
       motion: 300
       pos: 2
@@ -198,7 +198,7 @@ story:
     textLeft: You see, I used magic as well.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301401
       motion: 400
       pos: 2
@@ -213,7 +213,7 @@ story:
     textLeft: That was the moment when Mito's magic was@halted.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301301
       motion: 0
       pos: 2
@@ -227,20 +227,20 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 101601
       lipSynch: 1
       motion: 100
     textLeft: Mine is mind reading. I can see into people's@minds.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301301
       motion: 100
     textRight: You can read people's thoughts?!
   - chara:
     - cheek: 1
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301501
       motion: 200
       pos: 2
@@ -248,7 +248,7 @@ story:
     textRight: Wowie! That's kinda like my magic, huh?!
   - chara:
     - cheek: 1
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301401
       lipSynch: 0
       motion: 400
@@ -258,14 +258,14 @@ story:
     turnEffect: thinking
   - chara:
     - cheek: 2
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301401
       lipSynch: 0
       pos: 2
     textRight: (Oh no! I'm so embarrassed!)
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101601
       motion: 1
     textLeft: It only works when I'm transformed though.@And I have to be close.
@@ -275,14 +275,14 @@ story:
     textLeft: In that sense it can be a bit difficult to@use.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101601
       motion: 200
     textLeft: I don't go around reading people's minds@without their permission usually,
       so relax.
   - chara:
     - cheek: 1
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301401
       lipSynch: 0
       motion: 0
@@ -290,7 +290,7 @@ story:
   - chara:
     - cheek: 1
       eyeClose: 1
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301401
       lipSynch: 0
       motion: 300
@@ -298,7 +298,7 @@ story:
     textRight: (Whew.)
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101601
       motion: 300
     textLeft: That said, I should have told you earlier.@It just occurred to me to
@@ -308,7 +308,7 @@ story:
     textLeft: My apologies.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301301
       motion: 100
       pos: 2
@@ -316,7 +316,7 @@ story:
     textRight: Ah, no! It's fine!
   - chara:
     - cheek: 1
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 301501
       motion: 1
       pos: 2
@@ -327,13 +327,13 @@ story:
     textRight: I saw into your heart, so I know!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101601
       motion: 0
     textLeft: Thank you.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301301
       motion: 0
       pos: 2
@@ -346,7 +346,7 @@ story:
   - bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 101601
       motion: 200
     surround: 7001_birdsong
@@ -369,12 +369,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301401
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301501
       motion: 0
       pos: 2
@@ -394,12 +394,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301301
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 101601
       motion: 0
       pos: 0
@@ -417,7 +417,7 @@ story:
     textLeft: It was only 11 letters...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301401
       motion: 0
       pos: 2
