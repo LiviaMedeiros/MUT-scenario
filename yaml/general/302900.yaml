@@ -35,9 +35,6 @@ story:
   - chara:
     - id: 302900
       textHomeStatus: Clear
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   group_10:
   - autoTurnFirst: 6
     chara:
@@ -56,9 +53,6 @@ story:
       id: 302900
       motion: 200
       textHome: Something physical that I can feel@is more my style.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -82,9 +76,6 @@ story:
   - chara:
     - id: 302900
       textHomeStatus: Clear
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   group_12:
   - autoTurnFirst: 3.5
     chara:
@@ -102,9 +93,6 @@ story:
       face: mtn_ex_011.exp.json
       id: 302900
       motion: 100
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -128,9 +116,6 @@ story:
     - id: 302900
       motion: 200
       textHome: For now, that is my answer.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -164,17 +149,14 @@ story:
       face: mtn_ex_011.exp.json
       id: 302900
       motion: 1
-      textHome: However, should my death cause pain@to another, I believe I should
-        resist it@with all my might.
-  - autoTurnFirst: 2.5
+  - autoTurnFirst: 10
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 302900
       motion: 100
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
+      textHome: However, should my death cause pain@to another, I believe I should
+        resist it@with all my might.
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -198,9 +180,6 @@ story:
       face: mtn_ex_010.exp.json
       id: 302900
       motion: 200
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -228,9 +207,6 @@ story:
       id: 302900
       motion: 1
       textHome: I'm neither annoyed nor happy.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -263,9 +239,6 @@ story:
   - chara:
     - id: 302900
       textHomeStatus: Clear
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   group_18:
   - autoTurnFirst: 2.5
     chara:
@@ -292,9 +265,6 @@ story:
   - chara:
     - id: 302900
       textHomeStatus: Clear
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   group_19:
   - autoTurnFirst: 3
     chara:
@@ -313,14 +283,11 @@ story:
       motion: 1
       textHome: Perhaps hearing about the things you enjoy@will give me a clue about
         how I can@escape the boredom of my own life.
-  - autoTurnFirst: 2
+  - autoTurnFirst: 4
     chara:
     - cheek: 0
       id: 302900
       motion: 200
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -333,9 +300,6 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3029_00_03
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -362,17 +326,14 @@ story:
       face: mtn_ex_030.exp.json
       id: 302900
       motion: 1
-      textHome: If you were,  I'd tell you.
-  - autoTurnFirst: 4
+      textHome: If you were, I'd tell you.
+  - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302900
       motion: 200
       textHome: Do what you like, and I'll do what I like.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -400,16 +361,13 @@ story:
       id: 302900
       motion: 200
       textHome: It's true that getting hurt isn't pleasant.
-  - autoTurnFirst: 4
+  - autoTurnFirst: 6
     chara:
     - cheek: 0
       id: 302900
       motion: 0
       textHome: But feeling unpleasant and being afraid @are two completely different
         things.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -424,15 +382,12 @@ story:
       voice: vo_char_3029_00_30
       textHome: It's almost time to leave. @ I always do what I'm told. @That's the
         fate of all Magical Girls.
-  - autoTurnFirst: 2.5
+  - autoTurnFirst: 5
     chara:
     - cheek: 0
       id: 302900
       motion: 0
       textHome: I don't think that's scary or annoying...@It's just a fact of life.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -445,16 +400,13 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3029_00_31
-      textHome: Even if they look like us, there's nothing@to feel bad about. Enemies
-        are enemies.
-  - autoTurnFirst: 3.5
+      textHome: Even if they look like us, there's@nothing to feel bad about.
+  - autoTurnFirst: 7
     chara:
     - id: 302900
       motion: 0
-      textHome: You can't tell anything about their@identity just by looking at them.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
+      textHome: Enemies are enemies.@You can't tell anything about their@identity
+        just by looking at them.
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -481,9 +433,6 @@ story:
   - chara:
     - id: 302900
       textHomeStatus: Clear
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   group_25:
   - autoTurnFirst: 2.5
     chara:
@@ -501,7 +450,7 @@ story:
       id: 302900
       motion: 200
       textHome: I also believe they are overflowing with life,@much like us.
-  - autoTurnFirst: 3
+  - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -509,9 +458,6 @@ story:
       motion: 300
       textHome: Whenever I fight one I feel an overwhelming@energy emanating from
         them.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -525,16 +471,13 @@ story:
       pos: 1
       voice: vo_char_3029_00_34
       textHome: I am...at least trying to find@something I enjoy.
-  - autoTurnFirst: 6
+  - autoTurnFirst: 8
     chara:
     - face: mtn_ex_011.exp.json
       id: 302900
       motion: 0
       textHome: I did try to find a hobby for myself once,@but that didn't go very
         well.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -554,16 +497,13 @@ story:
       id: 302900
       motion: 100
       textHome: If you do, what are they?
-  - autoTurnFirst: 3
+  - autoTurnFirst: 6.5
     chara:
     - cheek: 0
       id: 302900
       motion: 0
-      textHome: Tell me.@How did you realize you liked those things? @And why do you
+      textHome: Tell me.@How did you realize you liked those things?@And why do you
         like those things?
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -584,16 +524,13 @@ story:
       id: 302900
       motion: 0
       textHome: I imagine people think I'm pretty harmless.
-  - autoTurnFirst: 3
+  - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302900
       motion: 200
       textHome: You could say I'm boring too.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -613,7 +550,7 @@ story:
       id: 302900
       motion: 100
       textHome: so I smell that swimming pool smell a lot.
-  - autoTurnFirst: 4
+  - autoTurnFirst: 8
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -621,9 +558,6 @@ story:
       motion: 1
       textHome: It doesn't relax me, but it also doesn't@annoy me... I'm just used
         to it.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -636,9 +570,6 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3029_00_04
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -657,17 +588,14 @@ story:
     - face: mtn_ex_030.exp.json
       id: 302900
       motion: 200
-  - autoTurnFirst: 3
+  - autoTurnFirst: 8
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302900
       motion: 1
-      textHome: The only thing that ever made me feel @something ever so slight was
-        becoming @a Magical Girl.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
+      textHome: The only thing that ever made me feel@something ever so slight was
+        becoming@a Magical Girl.
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -685,17 +613,14 @@ story:
     chara:
     - id: 302900
       motion: 1
-      textHome: She's probably the Magical Girl @I talk to the most after Kokoro.
-  - autoTurnFirst: 2
+      textHome: She's probably the Magical Girl I talk to@the most after Kokoro. She's
+        really objective@and tells it how it is, which I like.
+  - autoTurnFirst: 9
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302900
       motion: 100
-      textHome: She's really objective and tells it how it is,@which I like.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -715,16 +640,13 @@ story:
       id: 302900
       motion: 100
       textHome: I don't know why she hangs around me.
-  - autoTurnFirst: 3
+  - autoTurnFirst: 8
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 302900
       motion: 0
       textHome: What I do know is that@I don't like it when she gets hurt.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -739,18 +661,15 @@ story:
       voice: vo_char_3029_00_41
       textHome: In that moment, there was nothing@in my life that I wanted except@to
         become a Magical Girl.
-  - autoTurnFirst: 6
+  - autoTurnFirst: 5
     chara:
     - id: 302900
       motion: 1
-  - autoTurnFirst: 3
+  - autoTurnFirst: 6
     chara:
     - id: 302900
       motion: 200
       textHome: So I just wished for money.@It never hurts to have some extra money.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -767,9 +686,6 @@ story:
   - chara:
     - id: 302900
       textHomeStatus: Clear
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   group_35:
   - autoTurnFirst: 4
     chara:
@@ -783,11 +699,8 @@ story:
   - chara:
     - id: 302900
       textHomeStatus: Clear
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   group_36:
-  - autoTurnFirst: 3
+  - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -796,9 +709,6 @@ story:
       pos: 1
       voice: vo_char_3029_00_44
       textHome: The correct response to this is joy, right?
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -812,9 +722,6 @@ story:
       pos: 1
       voice: vo_char_3029_00_45
       textHome: I'm glad I managed to protect you.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -837,9 +744,6 @@ story:
   - chara:
     - id: 302900
       textHomeStatus: Clear
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   group_39:
   - autoTurnFirst: 3
     chara:
@@ -849,9 +753,6 @@ story:
       motion: 100
       pos: 1
       voice: vo_char_3029_00_63
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -873,9 +774,6 @@ story:
   - chara:
     - id: 302900
       textHomeStatus: Clear
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   group_40:
   - autoTurnFirst: 3
     chara:
@@ -885,9 +783,6 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_3029_00_64
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -903,9 +798,6 @@ story:
   - chara:
     - id: 302900
       textHomeStatus: Clear
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   group_42:
   - autoTurnFirst: 3
     chara:
@@ -915,9 +807,6 @@ story:
       motion: 300
       pos: 1
       voice: vo_char_3029_00_66
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -943,9 +832,6 @@ story:
   - chara:
     - id: 302900
       textHomeStatus: Clear
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   group_5:
   - autoTurnFirst: 3
     chara:
@@ -964,9 +850,6 @@ story:
       motion: 200
       pos: 1
       textHome: Maybe I'll find something@that excites me then.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -990,9 +873,6 @@ story:
   - chara:
     - id: 302900
       textHomeStatus: Clear
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   group_7:
   - autoTurnFirst: 2.5
     chara:
@@ -1009,9 +889,6 @@ story:
     - cheek: 0
       id: 302900
       motion: 100
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear
@@ -1038,9 +915,6 @@ story:
   - chara:
     - id: 302900
       textHomeStatus: Clear
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   group_9:
   - autoTurnFirst: 5
     chara:
@@ -1057,9 +931,6 @@ story:
       motion: 1
       textHome: Learning what grips the hearts and minds@of others might provide me
         with hints on@how to change my daily life.
-  - chara:
-    - id: 302900
-      textHomeStatus: Clear
   - chara:
     - id: 302900
       textHomeStatus: Clear

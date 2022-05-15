@@ -14,8 +14,8 @@ story:
     narrationEffect: in
     turnChangeIn: fadeIn
   - nameNarration: Hagumu
-    narration: After what Livia told me,@I've narrowed down the design@by using a
-      the vibe of a Tsurushibina@as a reference, but...
+    narration: After what Livia told me,@I've narrowed down the design@by using the
+      vibe of a Tsurushibina@as a reference, but...
     turnChangeOut: fadeOut
   - chara:
     - id: 103001

@@ -29,14 +29,14 @@ story:
       face: mtn_ex_030.exp.json
       id: 300601
       motion: 1
-    textCenter: This place is kinda crazy... @where is this?
+    textCenter: This place is kinda crazy... @Where is this?
   - chara:
     - id: 300601
-    textCenter: I’m sure I was fighting a Witch and after that... what?
+    textCenter: I'm sure I was fighting a Witch and after that...what?
   - chara:
     - id: 300601
       motion: 300
-    textCenter: Ugh... I can't remember anything... besides Myako-senpai...
+    textCenter: Ugh... I can't remember anything...@besides Myako-senpai...
   - autoTurnLast: 0.2
     chara:
     - id: 300601
@@ -51,7 +51,7 @@ story:
       pos: 2
     nameLeft: Emiri
     nameRight: ???
-    textRight: '.......'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -61,48 +61,48 @@ story:
   - chara:
     - id: 300601
       motion: 400
-    textLeft: Who are you!?
+    textLeft: Who are you?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300602
       motion: 100
-    textRight: Can’t you tell just from looking at me?
+    textRight: Can't you tell just from looking at me?
   - chara:
     - id: 300601
       lipSynch: 0
       motion: 0
-    textLeft: '[chara:300601:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textLeft: '[chara:300601:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 300602
-    textRight: I’m me.
+    textRight: I'm me.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300601
       motion: 1
-    textLeft: Me...? Emiri… Kisaki...?
+    textLeft: Me...? Emiri...Kisaki...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300601
       motion: 400
-    textLeft: Why is there another one!?
+    textLeft: Why is there another one?!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300602
       motion: 200
-    textRight: Wow!? Talk about being surprised!
+    textRight: Wow?! Talk about being surprised!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300602
-    textRight: It’s impossible, improbable~
+    textRight: It's impossible, improbable~
   - chara:
     - id: 300602
       motion: 1
-    textRight: I’m me and there’s another me, oh how could it be~
+    textRight: I'm me and there's another me, oh how could it be~
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -117,13 +117,13 @@ story:
       face: mtn_ex_050.exp.json
       id: 300602
       motion: 400
-    textRight: What’s that? Are you mad?
+    textRight: What's that? Are you mad?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300602
       motion: 0
-    textRight: Isn’t that face a little too serious? C’mon don’t be like that!
+    textRight: Isn't that face a little too serious?@C'mon don't be like that!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -131,16 +131,16 @@ story:
       motion: 100
     - id: 300601
       motion: 0
-    textRight: Being so uptight doesn’t suit you.
+    textRight: Being so uptight doesn't suit you.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300602
-    textRight: Feel free to let go and be yourself. Let's party!
+    textRight: Feel free to let go and be yourself.@Let's party!
   - chara:
     - id: 300602
       motion: 200
-    textRight: No matter what anyone else says... right?
+    textRight: No matter what anyone else says...right?
   - autoTurnLast: 2
     bg: bg_adv_21041.jpg
     chara:
@@ -158,16 +158,16 @@ story:
     turnEffect: stop
   - chara:
     - id: 800100
-    nameLeft: Classmates
-    nameRight: Classmates
-    textLeft: '...so I hate it...'
+    nameLeft: ""
+    nameRight: ""
+    textLeft: '...So I hate it...'
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 800200
-    textRight: '...she''s so annoying...'
+    textRight: '...She''s so annoying...'
   - autoTurnLast: 2
     bg: bg_adv_21251.jpg
     chara:
@@ -188,24 +188,24 @@ story:
       lipSynch: 0
     nameLeft: Emiri
     nameRight: ???
-    textLeft: '......'
+    textLeft: '...'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300602
       motion: 200
-    textRight: Hey, you brat! Don’tcha think it’s rude to ignore me?
+    textRight: Hey, you brat!@Don'tcha think it's rude to ignore me?
   - chara:
     - id: 300602
     textRight: Did I say something wrong?
   - chara:
     - id: 300602
       motion: 100
-    textRight: Isn’t this who we are?
+    textRight: Isn't this who we are?
   - chara:
     - id: 300602
-    textRight: Remember back when we were together with that perfect Big Sis’!
+    textRight: Remember back when we were together@with that perfect Big Sis!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -217,10 +217,10 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300602
-    textRight: Because you wanted to feel that thrill forever and ever...?
+    textRight: Because you wanted to feel that@thrill forever and ever...?
   - chara:
     - id: 300602
-    textRight: Don’t you want to spend your days doing whatever @you want?
+    textRight: Don't you want to spend your days doing whatever @you want?
   - chara:
     - id: 300601
       motion: 200
@@ -230,19 +230,19 @@ story:
       face: mtn_ex_011.exp.json
       id: 300602
       motion: 100
-    textRight: You think you’ll annoy everyone?
+    textRight: You think you'll annoy everyone?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300601
       lipSynch: 0
       motion: 0
-    textLeft: '...ah!?'
+    textLeft: '...Ah?!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300601
-    textLeft: Yeah... that's right...
+    textLeft: Yeah...that's right...
   - chara:
     - id: 300601
       motion: 1
@@ -251,18 +251,18 @@ story:
     - eyeClose: 1
       id: 300601
       motion: 0
-    textLeft: If that’s the case, then who cares about 'being me'...
+    textLeft: If that's the case, then who cares about "being me"...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300602
       motion: 200
-    textRight: Geeze... your vibes are the worst!
+    textRight: Geeze...your vibes are the worst!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300602
-    textRight: Then I’m gonna show you
+    textRight: Then I'm gonna show you...
   - chara:
     - id: 300602
       motion: 100
@@ -275,7 +275,7 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - nameNarration: Emiri
-    narration: -Emiri- @...Is that…my heart?
+    narration: ―Emiri― @...Is that...@...my heart?
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -284,12 +284,12 @@ story:
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - nameNarration: ???
-    narration: -???- @Right? I’m always looking for excitement!
-  - narration: -???- @I don’t care if I’m annoying or hated. There’s nothing that
+    narration: ―???― @Right?@I'm always looking for excitement!
+  - narration: ―???― @I don't care if I'm annoying or hated.@There's nothing that
       can stop me!
-  - narration: -???- @Just hurry up and admit it!
-  - narration: -???- @Are you seriously gonna try and deny it?
-  - narration: -???- @You know I would never say something so boring, right?
+  - narration: ―???― @Just hurry up and admit it!
+  - narration: ―???― @Are you seriously gonna@try and deny it?
+  - narration: ―???― @You know I would never say@something so boring, right?
   - autoTurnLast: 0.01
     bg: bg_adv_21251.jpg
     chara:
@@ -322,7 +322,7 @@ story:
     textRight: Then, do you want to give up and surrender?
   - chara:
     - id: 300602
-    textRight: Live quietly and seriously so you won’t bother @anyone?
+    textRight: Live quietly and seriously so you won't bother @anyone?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -332,11 +332,11 @@ story:
   - chara:
     - id: 300601
       motion: 0
-    textLeft: But... @even my friends think I’m annoying...
+    textLeft: But... @Even my friends think I'm annoying...
   - chara:
     - eyeClose: 1
       id: 300601
-    textLeft: I can’t let them think that and hate me...
+    textLeft: I can't let them think that and hate me...
   - autoTurnLast: 2
     bg: bg_adv_21401.jpg
     chara:
@@ -352,7 +352,7 @@ story:
       id: 300301
       motion: 300
     nameCenter: Hinano
-    textCenter: Well... Yeah. You can certainly be annoying.
+    textCenter: Well...yeah. You can certainly be annoying.
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - autoTurnLast: 2
@@ -374,27 +374,27 @@ story:
   - chara:
     - id: 300601
       lipSynch: 0
-    textCenter: (I didn’t want Myako-senpai to feel uncomfortable...)
+    textCenter: (I didn't want Myako-senpai to feel uncomfortable...)
   - chara:
     - id: 300601
       lipSynch: 0
-    textCenter: I wonder… if the other kids...
+    textCenter: I wonder...if the other kids...
   - chara:
     - id: 300601
       lipSynch: 0
       motion: 300
-    textCenter: (if everyone thought I was super annoying…)
+    textCenter: (If everyone thought I was super annoying...)
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300601
       lipSynch: 0
-    textCenter: (...ah, but I don't know. Someone please give me a hint...)
+    textCenter: (...Ah, but I don't know.@Someone please give me a hint...)
   - chara:
     - id: 300601
       lipSynch: 0
       motion: 0
-    textCenter: (...hmm?)
+    textCenter: (...Hmm?)
   - chara:
     - id: 300601
       lipSynch: 0
@@ -421,7 +421,7 @@ story:
       motion: 300
     nameLeft: Hinano
     nameRight: Emiri
-    textLeft: Well... Yeah. You can certainly be annoying.
+    textLeft: Well...yeah. You can certainly be annoying.
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
@@ -431,7 +431,7 @@ story:
       motion: 300
       mouthOpen: 1
     textBg: shout
-    textRight: So mean!!
+    textRight: I knew it!!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -439,7 +439,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Akira
-    textRight: Wa-Wait a minute!
+    textRight: W-wait a minute!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -452,12 +452,12 @@ story:
       face: mtn_ex_010.exp.json
       id: 300301
       motion: 100
-    textLeft: Isn’t that just a part of your charm?
+    textLeft: Isn't that just a part of your charm?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 300301
-    textLeft: At least we’re always having fun together.
+    textLeft: At least we're always having fun together.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -478,7 +478,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Akira
-    textLeft: The counseling office has a good reputation. @I think it’s because of
+    textLeft: The counseling office has a good reputation. @I think it's because of
       your personality.
   - autoTurnLast: 2
     bg: bg_adv_21251.jpg
@@ -500,7 +500,7 @@ story:
       lipSynch: 0
     nameLeft: Emiri
     nameRight: ???
-    textLeft: '......'
+    textLeft: '...'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -518,7 +518,7 @@ story:
       motion: 400
     - id: 300601
       mouthOpen: 0
-    textRight: '[chara:300602:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:300602:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 300602
       motion: 0
@@ -528,7 +528,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300601
       motion: 200
-    textLeft: I know for sure now! @This really isn’t a problem!
+    textLeft: I know for sure now! @This really isn't a problem!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -538,7 +538,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300602
-    textRight: What? Why’s that?
+    textRight: What? Why's that?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -549,11 +549,11 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300601
-    textLeft: Sure, people might think I'm annoying, but it's like... sure, whatever?
+    textLeft: Sure, people might think I'm annoying, but it's like...@sure, whatever?
   - chara:
     - id: 300601
       motion: 0
-    textLeft: What those classmates said though…
+    textLeft: What those classmates said though...
   - chara:
     - id: 300601
     textLeft: It was shocking, but accurate.
@@ -561,7 +561,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300601
-    textLeft: But I’m not sorry about it...
+    textLeft: But I'm not sorry about it...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -572,7 +572,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300601
-    textLeft: Even if I have some bad parts…
+    textLeft: Even if I have some bad parts...
   - chara:
     - id: 300601
       motion: 0
@@ -587,7 +587,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300601
-    textLeft: So I’ll admit it here and now.
+    textLeft: So I'll admit it here and now.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -599,18 +599,18 @@ story:
       face: mtn_ex_050.exp.json
       id: 300602
       motion: 1
-    textRight: Hmm, is that so…
+    textRight: Hmm, is that so...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300601
       motion: 0
-    textLeft: But if I get to be super-duper annoying, @it’ll be bad for everyone…
+    textLeft: But if I get to be super-duper annoying, @it'll be bad for everyone...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300601
-    textLeft: I’ll have to think about how to fix that when I’m an adult!
+    textLeft: I'll have to think about how@to fix that when I'm an adult!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

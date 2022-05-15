@@ -53,7 +53,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Akira
-    textLeft: That’s good...
+    textLeft: That's good...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -86,7 +86,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300601
       motion: 0
-    textRight: I came back when I heard Myako-senpai’s voice.
+    textRight: I came back when I heard Myako-senpai's voice.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -99,13 +99,13 @@ story:
       id: 300301
       motion: 0
     textLeft: Oh really?@[chara:300301:lipSynch_0][wait:0.8][chara:300301:cheek_0][chara:300301:face_mtn_ex_000.exp.json][chara:300301:lipSynch_1]I
-      guess we’re the same.
+      guess we're the same.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300601
       motion: 0
-    textRight: …what do you mean?
+    textRight: '...What do you mean?'
   - chara:
     - id: 300301
       motion: 100
@@ -115,7 +115,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 300601
       motion: 300
-    textRight: Hmm… Is that what happened?
+    textRight: Hmm... Is that what happened?
   - chara:
     - id: 300301
       motion: 200
@@ -123,11 +123,11 @@ story:
   - chara:
     - id: 300301
       motion: 0
-    textLeft: Well, let's go home for the day. Aren’t you tired?
+    textLeft: Well, let's go home for the day.@Aren't you tired?
   - chara:
     - id: 300601
       motion: 1
-    textRight: Yup, like a crazy level of sleepy…
+    textRight: Yup, like a crazy level of sleepy...
   - chara:
     - id: 300301
       motion: 1
@@ -151,7 +151,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Akira
-    textLeft: Yeah, next time we’ll all come back!
+    textLeft: Yeah, next time we'll all come back!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -176,8 +176,8 @@ story:
   - bgm: bgm03_story02
     chara:
     - id: 800100
-    nameLeft: Classmates
-    textLeft: Kisaki!
+    nameLeft: ""
+    textLeft: Emiri!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -199,7 +199,7 @@ story:
       pos: 0
     nameLeft: Hinano
     nameRight: Emiri
-    textRight: Ah…
+    textRight: Ah...
   - chara:
     - id: 300301
     textLeft: Do you guys know each other?
@@ -208,7 +208,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 300601
       motion: 1
-    textRight: Yeah, she’s my classmate.
+    textRight: Yeah, she's my classmate.
   - autoTurnLast: 0.2
     chara:
     - id: 300601
@@ -220,7 +220,7 @@ story:
       id: 800100
       motion: 0
       pos: 2
-    nameRight: Classmates
+    nameRight: ""
     textRight: About what I said earlier...
   - chara:
     - eyeClose: 1
@@ -232,7 +232,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 800100
-    textRight: Huh!?
+    textRight: Huh?!
   - chara:
     - id: 800100
     textRight: Why are you apologizing?
@@ -255,7 +255,7 @@ story:
       id: 800200
       motion: 0
       pos: 2
-    textRight: Kisaki, this is a huge misunderstanding!
+    textRight: Emiri, this is a huge misunderstanding!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -274,10 +274,10 @@ story:
     textRight: We were complaining about our classroom teacher @who yelled at you.
   - chara:
     - id: 800100
-    textRight: We didn't mean to insult you, Kisaki!
+    textRight: We didn't mean to insult you, Emiri!
   - chara:
     - id: 300601
-    textLeft: …Is that so?
+    textLeft: '...Is that so?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -289,19 +289,19 @@ story:
       id: 800200
       motion: 0
       pos: 2
-    textRight: I'm glad we cleared up that misunderstanding…
+    textRight: I'm glad we cleared up that misunderstanding...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300601
-    textLeft: …sorry.
+    textLeft: '...Sorry.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800100
       motion: 0
       pos: 2
-    textRight: So, you don’t have to apologize.
+    textRight: So, you don't have to apologize.
   - chara:
     - id: 300601
       motion: 200
@@ -322,13 +322,13 @@ story:
       id: 800100
       motion: 0
       pos: 2
-    textRight: Yeah! Yeah! Please do another make-up lesson @for us!
+    textRight: Yeah! Yeah! @Please do another make-up lesson for us!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300601
       motion: 100
-    textLeft: …thank you. But this time, @let's do it outside of school!
+    textLeft: '...Thank you. But this time, @let''s do it outside of school!'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -362,7 +362,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: Emiri
-    textCenter: …Well then, are you ready to head out?
+    textCenter: '...Well then, are you ready to head out?'
   - autoTurnLast: 0.2
     chara:
     - id: 300601
@@ -386,19 +386,19 @@ story:
       face: mtn_ex_050.exp.json
       id: 300601
       lipSynch: 0
-    textRight: …?
+    textRight: '...?'
   - chara:
     - id: 300301
-    textLeft: '"Too loud and overexcited"... To think you had such self-awareness.'
+    textLeft: '"Too loud and overexcited"...@To think you had such self-awareness.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300601
       motion: 200
-    textRight: You’re so terrible!
+    textRight: You're so terrible!
   - chara:
     - id: 300601
-    textRight: You know, I’m growing up a little more each day!
+    textRight: You know, I'm growing up a little more each day!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3
