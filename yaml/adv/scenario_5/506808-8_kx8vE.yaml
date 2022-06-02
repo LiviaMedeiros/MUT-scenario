@@ -18,7 +18,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 801800
-    textCenter: We shall commence the Kagura of the of Nation's @Guard, and with it,
+    textCenter: We shall commence the Kagura of the Nation's @Guard, and with it,
       the Diviner's Ceremony.
   - bgm: bgm23_tokime04
     nameNarration: ""
@@ -125,8 +125,7 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - nameNarration: Chiharu
-    narration: ―Chiharu―@What should I do? I want this to be over soon.@I never imagined
-      that it would make me so nervous...
+    narration: ―Chiharu―@It really does feel...
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -134,8 +133,7 @@ story:
     narrationLineMargin: 35
     narrationLineSpace: 20
     turnChangeOut: fadeOut
-  - narration: ―Chiharu―@Because, this... It really does feel @like I'm sacrificing
-      my soul to the god...
+  - narration: ―Chiharu―@...like I'm sacrificing my soul to the god...
   - autoTurnLast: 0.01
     narrationEffect: out
   - autoTurnLast: 0.5
@@ -159,7 +157,7 @@ story:
     bgm: bgm23_tokime01
     narrationEffect: out
   - nameNarration: Chiharu
-    narration: ―Chiharu―@——!?
+    narration: ―Chiharu―@——?!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -188,7 +186,7 @@ story:
   - chara:
     - id: 801800
     nameCenter: Mikoshiba
-    textCenter: That is Kyūbē-sama, our god's envoy.@None of us are able to see him.
+    textCenter: That is Lord Kyūbē, our god's envoy.@None of us are able to see him.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -262,7 +260,7 @@ story:
     - id: 102701
     nameLeft: Sunao
     nameRight: Mikoshiba
-    textLeft: So Lady Mikoshiba...@what will Chiharu-san's wish be?
+    textLeft: So, Lady Mikoshiba...@what will Chiharu's wish be?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -280,7 +278,7 @@ story:
       motion: 0
       pos: 0
       soulGem: 0
-    textLeft: '......'
+    textLeft: '...'
   - nameNarration: ""
     narration: '*Flip*'
     narrationBg: bg_adv_narration.jpg
@@ -301,7 +299,7 @@ story:
       lipSynch: 0
     nameCenter: Mikoshiba
     narrationEffect: out
-    textCenter: '......'
+    textCenter: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.5
     chara:
@@ -343,7 +341,7 @@ story:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 102601
-    textRight: Uwah...！
+    textRight: Uwah...!
     turnEffect: promist
   - chara:
     - id: 810000
@@ -363,7 +361,7 @@ story:
   - chara:
     - id: 102600
     nameCenter: Chiharu
-    textCenter: This is me... as a Diviner...
+    textCenter: This is me...as a Diviner...
     turnChangeOut: whiteOut
   - autoTurnLast: 2
     turnChangeIn: whiteIn

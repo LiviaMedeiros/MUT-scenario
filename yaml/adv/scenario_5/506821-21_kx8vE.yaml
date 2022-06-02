@@ -25,7 +25,7 @@ story:
       name: sprite_0
     nameLeft: ""
     nameRight: Chiharu
-    textLeft: '......!?!?'
+    textLeft: '......?!?!'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -98,14 +98,14 @@ story:
       face: mtn_ex_021.exp.json
       id: 102500
     textBg: shout
-    textCenter: Geeze... Enough! Give up already
+    textCenter: Geeze... Enough! Give up already!
   - bgm: stop
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102500
       lipSynch: 0
-    textCenter: -!?
+    textCenter: '...?!'
   - chara:
     - cheek: 0
       effect: shake
@@ -156,13 +156,13 @@ story:
   - bgm: bgm24_story04
     chara:
     - id: 102600
-    textRight: Shizuka-chan!
+    textRight: Shizuka!
     turnChangeOut: whiteOut
   - chara:
     - id: 7107
       name: sprite_0
     textBg: shout
-    textLeft: '[flashEffect:flashWhite2][bgEffect:shakeSmall]…!!'
+    textLeft: '[flashEffect:flashWhite2][bgEffect:shakeSmall]...!!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -203,7 +203,7 @@ story:
     flashEffect: flashRed2
     surround: 1026A04
     textBg: shout
-    textLeft: '......!?!?'
+    textLeft: '......?!?!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -236,24 +236,24 @@ story:
     chara:
     - id: 102600
     nameRight: Chiharu
-    textRight: Shizuka-chan...?
+    textRight: Shizuka...?
     turnChangeOut: rollOutFast
   - chara:
     - id: 102501
       lipSynch: 0
     nameLeft: Shizuka
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_031.exp.json
       id: 102600
       motion: 200
     textBg: shout
-    textRight: Shizuka-chan...!
+    textRight: Shizuka...!
   - chara:
     - id: 102501
       lipSynch: 0
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
@@ -265,11 +265,11 @@ story:
       id: 102600
       motion: 1
       tear: 1
-    textRight: No, no, why... it won't stop...!
+    textRight: No, no, why...it won't stop...!
   - chara:
     - id: 102501
       lipSynch: 0
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - id: 102600
       motion: 100
@@ -307,11 +307,11 @@ story:
       id: 102600
       motion: 200
       tear: 1
-    textRight: I'm gonna take you back home! Right now...！
+    textRight: I'm gonna take you back home! Right now...!
   - chara:
     - id: 102501
       lipSynch: 0
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - cheek: 2
       effect: shake
@@ -328,17 +328,17 @@ story:
     - id: 102600
       lipSynch: 0
     narrationEffect: out
-    textRight: '......'
+    textRight: '...'
   - chara:
     - id: 102501
       lipSynch: 0
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - cheek: 2
       face: mtn_ex_031.exp.json
       id: 102600
       tear: 1
-    textRight: Uuh...Uuuh...!
+    textRight: Uuh... Uuuh...!
   - chara:
     - eyeClose: 1
       id: 102600
@@ -478,7 +478,7 @@ story:
       id: 102600
       motion: 200
     nameLeft: Chiharu
-    textLeft: Mom! Shizuka-chan, she's!
+    textLeft: Mom! Shizuka, she's!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -493,7 +493,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: Shizuka's Mother
-    textCenter: Shizuka！
+    textCenter: Shizuka!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -507,13 +507,13 @@ story:
       motion: 0
       pos: 1
     nameCenter: Chiharu's Mother
-    textCenter: '[chara:800600:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textCenter: '[chara:800600:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 800600
       lipSynch: 0
-    textCenter: '......'
+    textCenter: '...'
   - chara:
     - id: 800600
       lipSynch: 0

@@ -380,7 +380,7 @@ story:
     chara:
     - id: 304500
       motion: 100
-      textHome: If you really need something, keep it short and sweet.
+      textHome: If you really need something, @keep it short and sweet.
   - chara:
     - id: 304100
       textHomeStatus: Clear

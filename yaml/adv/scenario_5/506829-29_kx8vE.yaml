@@ -91,7 +91,7 @@ story:
   - chara:
     - id: 102601
     nameLeft: Chiharu
-    nameRight: Shiziku
+    nameRight: Shizuka
     textLeft: Wh—, what...? I'm fine?
     turnChangeOut: fadeOut
   - bgm: bgm03_story08
@@ -106,7 +106,7 @@ story:
       posX: 0
     - id: 102501
       posX: 0
-    textLeft: Shiziku-chan...!?
+    textLeft: Shizuka...?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -115,13 +115,14 @@ story:
     textRight: That was a close one.
   - chara:
     - id: 102501
-    textRight: You were about to take a huge spill, so I caught @you all of a sudden.
+    textRight: You were about to take a huge spill, so I had@to dive in quick to catch
+      you.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102601
       motion: 200
-    textLeft: A spill? That was nowhere near "a spill!"
+    textLeft: A spill? That was nowhere near "a spill"!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -191,13 +192,13 @@ story:
       id: 102501
       motion: 400
       pos: 2
-    nameRight: Shiziku
+    nameRight: Shizuka
     textRight: Oh geeze, it's one of the dancers...
   - chara:
     - id: 800100
     nameLeft: Dancer
     textLeft: Don't you know that this place is off limits @except during festivals
-      or emergencies!?
+      or emergencies?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -250,7 +251,7 @@ story:
       id: 102501
       motion: 0
       pos: 2
-    nameRight: Shiziku
+    nameRight: Shizuka
     textRight: My apologies. We'll be going now.
   - autoTurnLast: 2
     bg: bg_adv_50041.jpg
@@ -272,7 +273,7 @@ story:
     - id: 102501
       motion: 100
     nameLeft: Chiharu
-    nameRight: Shiziku
+    nameRight: Shizuka
     textRight: When in Rome, do as the Romans do.
     turnChangeOut: fadeOut
   - chara:
@@ -303,7 +304,7 @@ story:
     textLeft: I became a Diviner here, so I thought I @could find out some secret...
   - chara:
     - id: 102601
-    textLeft: Like what happens when your jewel gets @completely tainted...
+    textLeft: Like what happens when your Jewel gets @completely tainted...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

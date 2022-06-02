@@ -33,7 +33,7 @@ story:
       id: 102601
       lipSynch: 0
       motion: 1
-    textCenter: (I've decided not to mention it to Shizuka-chan @or the others much,)
+    textCenter: (I've decided not to mention it to Shizuka @or the others much,)
     turnEffect: thinking
   - chara:
     - id: 102601
@@ -55,7 +55,7 @@ story:
       posY: 0
       visible: appear
     turnChangeIn: fadeIn
-  - nameNarration: Todoroki （Chiharu）
+  - nameNarration: Todoroki (Chiharu)
     narration: Your sense of smell is sharp, Miss Hiroe.
     narrationAnchor: bottom
     narrationCoverOpacity: 110
@@ -93,7 +93,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102601
       motion: 200
-    textCenter: it's time for Hiroe Chiharu to begin her investigation.
+    textCenter: it's time for Chiharu Hiroe to begin her investigation.
   - autoTurnLast: 2
     bg: bg_adv_50041.jpg
     chara:
@@ -128,7 +128,7 @@ story:
       id: 102601
       lipSynch: 0
       motion: 400
-    textCenter: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textCenter: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]...?!'
     turnEffect: stop
   - chara:
     - id: 102601
@@ -152,12 +152,12 @@ story:
       id: 102601
       lipSynch: 0
       motion: 1
-    textCenter: （(But is it really okay to go in there?)
+    textCenter: (But is it really okay to go in there?)
   - chara:
     - eyeClose: 1
       id: 102601
       lipSynch: 0
-    textCenter: '......'
+    textCenter: '...'
     turnEffect: stop
   - chara:
     - id: 102601
@@ -172,7 +172,7 @@ story:
       lipSynch: 0
       motion: 0
     textCenter: (If there are people working for the shrine inside, @I can probably
-      ask them about the jewel impurities @too!)
+      ask them about the Jewel impurities @too!)
   - chara:
     - id: 102601
       motion: 100
@@ -197,7 +197,7 @@ story:
       id: 102601
       lipSynch: 0
       motion: 400
-    textCenter: '...!?'
+    textCenter: '...?!'
   - chara:
     - id: 102601
       motion: 300

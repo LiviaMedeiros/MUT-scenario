@@ -20,7 +20,7 @@ story:
     - id: 801800
     nameLeft: Mikoshiba
     nameRight: Sunao
-    textLeft: I heard from the daughter of the head family, @though
+    textLeft: I heard from the daughter of the head family, @though.
     turnChangeOut: fadeOut
   - chara:
     - id: 801800
@@ -47,26 +47,26 @@ story:
   - chara:
     - id: 102701
       motion: 0
-    textRight: Then, how are we going to eliminate Hiroe Chiharu...?
+    textRight: Then, how are we going to@eliminate Chiharu Hiroe...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801800
-    textLeft: If we simply leave her alone, the shadows ought to devour her.
+    textLeft: If we simply leave her alone,@the shadows ought to devour her.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 801800
-    textLeft: But if the daughter of the head family steps in to protect her again...
+    textLeft: But if the daughter of the head family@steps in to protect her again...
   - chara:
     - id: 801800
-    textLeft: 'Then that''s it. You shall have to eliminate them both... '
+    textLeft: 'Then that''s it. You shall have@to eliminate them both... '
   - chara:
     - eyeClose: 1
       id: 102701
       lipSynch: 0
       motion: 300
-    textRight: '......'
+    textRight: '...'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

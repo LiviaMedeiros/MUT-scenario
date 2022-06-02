@@ -14,7 +14,7 @@ story:
   - chara:
     - id: 102601
     nameCenter: Chiharu
-    textCenter: Hahh... well, here I am...
+    textCenter: Hahh...well, here I am...
     turnChangeOut: fadeOut
   - chara:
     - id: 102601
@@ -52,8 +52,8 @@ story:
   - chara:
     - id: 102601
       lipSynch: 0
-    textCenter: (If I said that to Shizuka-chan, she'd probably scold @me about how
-      the god's gonna smite me for it.)
+    textCenter: (If I said that to Shizuka, she'd probably scold @me about how the
+      god's gonna smite me for it.)
   - bgm: stop
     chara:
     - cheek: 0
@@ -61,7 +61,7 @@ story:
       id: 102601
       lipSynch: 0
       motion: 0
-    textCenter: '[chara:102601:effect_ef_adv_01][se:7201_detect_magic]......'
+    textCenter: '[chara:102601:effect_ef_adv_01][se:7201_detect_magic]...'
   - chara:
     - id: 102601
     textCenter: A Devil...?
@@ -83,7 +83,7 @@ story:
       id: 102601
       motion: 200
     textBg: shout
-    textCenter: No... Who's there...!?
+    textCenter: No... Who's there...?!
   - autoTurnLast: 0.2
     bgEffect: shakeSmall
     flashEffect: flashWhite2
@@ -94,11 +94,11 @@ story:
       id: 102601
       lipSynch: 0
       motion: 400
-    textCenter: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textCenter: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 102601
       motion: 0
-    textCenter: I'm... being attacked...?
+    textCenter: I'm...being attacked...?
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp.json

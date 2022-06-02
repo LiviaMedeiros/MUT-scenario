@@ -35,7 +35,7 @@ story:
       id: 102601
       motion: 400
     textCenter: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]Uwaaaa! @Shi—,
-      Shi— Shi— Shi—, Shizuka-chan!?'
+      Shi— Shi— Shi—, Shizuka?!'
   - autoTurnLast: 0.2
     chara:
     - id: 102601
@@ -127,7 +127,7 @@ story:
     textLeft: I became a Diviner here, so I thought I could find out some secret...
   - chara:
     - id: 102601
-    textLeft: Like what happens when your jewel gets completely tainted...
+    textLeft: Like what happens when your Jewel gets completely tainted...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

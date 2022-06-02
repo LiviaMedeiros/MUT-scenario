@@ -20,7 +20,7 @@ story:
     - id: 102501
     nameLeft: Chiharu
     nameRight: Shizuka
-    textRight: In short, a completely tainted jewel symbolizes @a Diviner's coming
+    textRight: In short, a completely tainted Jewel symbolizes @a Diviner's coming
       of age.
     turnChangeOut: fadeOut
   - chara:
@@ -80,7 +80,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102501
       lipSynch: 0
-    textRight: '......'
+    textRight: '...'
   - chara:
     - id: 102601
     textLeft: Do we have to say goodbye soon?
@@ -137,7 +137,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102601
-    textLeft: Yeah, Shizuka-chan.
+    textLeft: Yeah, Shizuka.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -162,7 +162,7 @@ story:
       motion: 300
       pos: 1
     nameCenter: Chiharu
-    textCenter: '......'
+    textCenter: '...'
   - autoTurnLast: 2
     bgm: stop
     chara:
@@ -176,21 +176,20 @@ story:
   - chara:
     - id: 102601
       lipSynch: 0
-    textCenter: (Wah—, it's still early... it's still early, but @I already feel sad...)
+    textCenter: (Wah—, it's still early...it's still early, but @I already feel sad...)
     turnChangeOut: fadeOut
     turnEffect: thinking
   - chara:
     - id: 102601
       lipSynch: 0
-    textCenter: (Even though we can still meet each other after @Shizuka-chan goes
-      outside...)
+    textCenter: (Even though we can still meet each other after @Shizuka goes outside...)
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
       id: 102601
       motion: 0
       tear: 1
-    textCenter: Gah! Why! Am I getting all weepy over this!
+    textCenter: Gah! Why! Why am I getting all weepy over this?!
     turnEffect: stop
   - chara:
     - cheek: 1
@@ -199,17 +198,17 @@ story:
       lipSynch: 0
       motion: 300
       tear: 1
-    textCenter: '......'
+    textCenter: '...'
   - chara:
     - eyeClose: 1
       id: 102601
-    textCenter: I'm happy right now...
+    textCenter: I'm happy with the way things are now...
   - chara:
     - eyeClose: 0
       id: 102601
       motion: 0
       tear: 0
-    textCenter: But I've got to bounce back from this and give @her a proper send-off...
+    textCenter: But I've got to get over this and@give her a proper send-off...
   - chara:
     - id: 102601
       motion: 100
@@ -289,7 +288,7 @@ story:
       motion: 400
     nameLeft: ""
     nameRight: Chiharu
-    textRight: Huh? Whaaat...!?
+    textRight: Huh? Whaaat...?!
     turnChangeOut: rollOutFast
   - chara:
     - id: 102601
@@ -299,7 +298,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102601
       motion: 200
-    textRight: Shizuka-chan... Sunao-chan...！
+    textRight: Shizuka... Sunao...!
   - chara:
     - id: 7107
       name: sprite_0
@@ -324,7 +323,7 @@ story:
   - chara:
     - id: 102600
       motion: 0
-    textRight: You gonna come at me!?
+    textRight: You gonna come at me?!
   - chara:
     - id: 102600
       motion: 200
@@ -333,7 +332,7 @@ story:
   - chara:
     - id: 7107
       name: sprite_0
-    textLeft: '[flashEffect:flashRed2][surround:1026A02][chara:7107:effect_shake][bgEffect:shakeLarge]......!?'
+    textLeft: '[flashEffect:flashRed2][surround:1026A02][chara:7107:effect_shake][bgEffect:shakeLarge]......?!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -368,7 +367,7 @@ story:
     flashEffect: flashRed2
     surround: 1026A04
     textBg: shout
-    textLeft: '......!?!?'
+    textLeft: '......?!?!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -392,7 +391,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102600
       motion: 400
-    textRight: '[chara:102600:effect_ef_adv_01][se:7201_detect_magic]No way...!?'
+    textRight: '[chara:102600:effect_ef_adv_01][se:7201_detect_magic]No way...?!'
   - autoTurnLast: 0.01
     chara:
     - id: 7107
@@ -461,7 +460,7 @@ story:
     flashEffect: flashRed2
     surround: 1012A03
     textBg: shout
-    textLeft: …!?!?
+    textLeft: '...?!?!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -478,7 +477,7 @@ story:
       motion: 0
     nameLeft: Shizuka
     nameRight: Chiharu
-    textRight: Shizuka-chan!
+    textRight: Shizuka!
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -503,7 +502,7 @@ story:
     textRight: I don't know. They just popped up all of a sudden!
   - chara:
     - id: 102600
-    textRight: Is this your first time seeing them too, Shizuka-chan?
+    textRight: Is this your first time seeing them too, Shizuka?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

@@ -20,7 +20,7 @@ story:
   - chara:
     - id: 102601
     nameCenter: Chiharu
-    textCenter: Shizuka-chan...
+    textCenter: Shizuka...
     turnChangeOut: fadeOut
   - chara:
     - id: 102601
@@ -75,7 +75,7 @@ story:
       id: 102500
       lipSynch: 0
       motion: 400
-    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]―――!?'
+    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]―――?!'
   - chara:
     - id: 102500
     textRight: '------―'
@@ -165,7 +165,7 @@ story:
       id: 102500
       lipSynch: 0
       motion: 0
-    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]―――!?'
+    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]―――?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -197,7 +197,7 @@ story:
       lipSynch: 0
       motion: 0
       pos: 1
-    textCenter: (Shizuka-chan's... crying...)
+    textCenter: (Shizuka's...crying...)
     turnEffect: thinking
   - chara:
     - cheek: 0
@@ -310,7 +310,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102500
       lipSynch: 0
-    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]―――!?'
+    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]―――?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -369,7 +369,7 @@ story:
       lipSynch: 0
       motion: 0
       pos: 1
-    textCenter: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]!?'
+    textCenter: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]?!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -435,7 +435,7 @@ story:
     nameCenter: Chiharu
     surround: 7003_wind
     textBg: shout
-    textCenter: Shizuka-chaaaaan!
+    textCenter: Shizukaaaaa!
   - autoTurnLast: 1
     chara:
     - cheek: 1
@@ -469,7 +469,7 @@ story:
       lipSynch: 0
     nameLeft: Mikoshiba
     nameRight: Chiharu
-    textLeft: '!?'
+    textLeft: ?!
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -479,7 +479,7 @@ story:
   - chara:
     - id: 102600
       motion: 100
-    textRight: Why...!?
+    textRight: Why...?!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -516,22 +516,22 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: What direction am I facing right now...? @Up? Down? Right? Left?
-  - narration: Round and round and round, @getting jostled every which way... @what
+  - narration: Round and round and round, @getting jostled every which way...@what
       am I doing?
-  - narration: '......'
-  - narration: I have to help Shizuka-chan!
+  - narration: '...'
+  - narration: I have to help Shizuka!
   - chara:
     - id: 102600
     nameCenter: Chiharu
     narrationEffect: out
-    textCenter: Where... Shizuka-chan... Where are you?
+    textCenter: Where... Shizuka... Where are you?
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_050.exp.json
       id: 102600
       lipSynch: 0
-    textCenter: '[chara:102600:effect_emotion_surprise_0][se:7226_shock]!?'
+    textCenter: '[chara:102600:effect_emotion_surprise_0][se:7226_shock]?!'
   - chara:
     - id: 102600
     textCenter: A piece of cloth...?

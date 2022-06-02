@@ -30,7 +30,7 @@ story:
     - id: 103801
       motion: 200
     nameRight: Mikage
-    textRight: She’s that big sis at Suu-tan’s place,@and Puella Care’s leader, right?
+    textRight: She's that big sis at Suu-tan's place,@and Puella Care's leader, right?
   - chara:
     - id: 103901
       lipSynch: 0
@@ -47,7 +47,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - nameNarration: Sudachi
-    narration: This girl is Mii.@…wait, that’s not right.@She’s Mikage!
+    narration: This girl is Mii.@…wait, that's not right.@She's Mikage!
     narrationBg: ""
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -79,20 +79,20 @@ story:
       face: mtn_ex_011.exp.json
       id: 103801
     nameRight: Mikage
-    textRight: If that’s the case, then sure!@Mii will lend you her help.
+    textRight: If that's the case, then sure!@I'll lend you my help.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 103801
       motion: 400
     nameRight: Mikage
-    textRight: Even when my sis isn’t feeling well,
+    textRight: Even when Sis isn't feeling well,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103801
     nameRight: Mikage
-    textRight: I can still make her smile.@I’ll tell you how, ‘kay!
+    textRight: I can still make her smile.@I'll tell you how, ‘kay?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -129,7 +129,7 @@ story:
   - chara:
     - id: 103801
     nameRight: Mikage
-    textRight: when Mii tries her hardest to achieve something,
+    textRight: when I try my hardest to achieve something,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -155,7 +155,7 @@ story:
       id: 103801
       motion: 100
     nameRight: Mikage
-    textRight: Yeah! You can’t go wrong with that!
+    textRight: Yeah! You can't go wrong with that!
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -170,14 +170,14 @@ story:
     - id: 103901
       lipSynch: 0
     nameLeft: Sudachi
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 103901
       lipSynch: 0
     nameLeft: Sudachi
-    textLeft: (If there had to be one thing I wanted to achieve,@it’s fractions but…)
+    textLeft: (If there had to be one thing I wanted to achieve,@it's fractions but…)
   - chara:
     - id: 103801
       motion: 400
@@ -190,12 +190,12 @@ story:
       lipSynch: 0
       motion: 400
     nameLeft: Sudachi
-    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]!?'
+    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]?!'
   - chara:
     - id: 103901
       lipSynch: 0
     nameLeft: Sudachi
-    textLeft: (How could you know!?@I didn’t even mention fractions!)
+    textLeft: (How could you know?!@I didn't even mention fractions!)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -207,13 +207,13 @@ story:
       lipSynch: 0
       motion: 0
     nameLeft: Sudachi
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - id: 103901
       motion: 0
     nameLeft: Sudachi
     surround: 7202_telepathy
-    textLeft: …To do my best as a coordinator?
+    textLeft: …To do my best as a Coordinator?
     turnEffect: ef_adv_02
   - chara:
     - cheek: 0
@@ -226,32 +226,32 @@ story:
     - id: 103801
       motion: 100
     nameRight: Mikage
-    textRight: If you can grow as a coordinator,@Livia will be sure to smile!
+    textRight: If you can grow as a Coordinator,@Livia will be sure to smile!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103801
     nameRight: Mikage
-    textRight: Don’t you think that would be great?
+    textRight: Don't you think that would be great?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103901
       motion: 100
     nameLeft: Sudachi
-    textLeft: True, she would probably be pleased!@Mii, you’re amazing!
+    textLeft: True, she would probably be pleased!@Mii, you're amazing!
   - chara:
     - cheek: 1
       id: 103801
       motion: 1
     nameRight: Mikage
-    textRight: '[chara:103801:effect_emotion_joy_0][se:7222_happy]It’s ok to praise
+    textRight: '[chara:103801:effect_emotion_joy_0][se:7222_happy]It''s ok to praise
       me more, you know?'
   - chara:
     - id: 103901
       motion: 200
     nameLeft: Sudachi
-    textLeft: You’re amazing Mii! Thank you!
+    textLeft: You're amazing Mii! Thank you!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -265,7 +265,7 @@ story:
       id: 103901
       motion: 1
     nameLeft: Sudachi
-    textLeft: Starting now, I’ll do my best with adjustment.
+    textLeft: Starting now, I'll do my best with adjustment.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -274,7 +274,7 @@ story:
       motion: 0
     nameLeft: Sudachi
     surround: stop
-    textLeft: (Now that I’ve decided…it’s time to act!)
+    textLeft: (Now that I've decided…it's time to act!)
     turnEffect: stop
   - autoTurnLast: 2
     turnChangeIn: fadeIn

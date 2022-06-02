@@ -144,7 +144,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Chiharu
-    textRight: Is what Sunao-chan and Shizuka-chan said true...?
+    textRight: Is what Sunao and Shizuka said true...?
   - chara:
     - id: 102600
     textRight: I've got to check this out myself.
@@ -160,7 +160,7 @@ story:
   - chara:
     - id: 102600
       motion: 400
-    textRight: Wha-- who's there!?
+    textRight: Wha― who's there?!
   - autoTurnLast: 0.2
     item:
     - path: resource/scenario/img/6109_lucy_emblem.png

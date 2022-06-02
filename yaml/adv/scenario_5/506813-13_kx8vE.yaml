@@ -91,7 +91,7 @@ story:
       motion: 100
     nameLeft: Shizuka
     nameRight: Sunao
-    textLeft: We finally found one....
+    textLeft: We finally found one...
     turnChangeOut: fadeOut
   - chara:
     - id: 102700
@@ -199,7 +199,7 @@ story:
       pos: 2
     nameLeft: Shizuka
     nameRight: Sunao
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - id: 102700
     textRight: '...Shizuka, our opponent has yet to notice us.'

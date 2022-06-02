@@ -79,7 +79,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102600
       motion: 400
-    textLeft: Huh!? Not at all! @I'm in super-good shape! Probably!
+    textLeft: Huh?! Not at all! @I'm in super-good shape! Probably!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -201,7 +201,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 800700
-    textRight: Good morning, Chiharu-chan.
+    textRight: Good morning, Chiharu.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -228,7 +228,7 @@ story:
     textRight: Here. Lady Mikoshiba asked me to show this to @the two of you.
   - chara:
     - id: 800700
-    textRight: It's today's morning post
+    textRight: It's today's morning post.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -247,7 +247,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Chiharu's Mother
-    textLeft: '[chara:800600:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textLeft: '[chara:800600:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 800600
     textLeft: Is this real...?
@@ -279,8 +279,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 102601
       motion: 200
-    textCenter: '[chara:102601:effect_emotion_joy_0][se:7222_happy]Shizuka-chan and
-      Sunao-chan were right! @I found out right away!'
+    textCenter: '[chara:102601:effect_emotion_joy_0][se:7222_happy]Shizuka and Sunao
+      were right! @I found out right away!'
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -311,7 +311,7 @@ story:
       pos: 0
     nameLeft: Chiharu's Mother
     nameRight: Chiharu
-    textLeft: Wha, what!?
+    textLeft: Wha, what?!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

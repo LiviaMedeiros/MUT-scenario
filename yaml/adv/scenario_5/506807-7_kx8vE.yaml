@@ -12,8 +12,8 @@ story:
   - narration: We arrived at Tokime Village without any explanation, @and I was suddenly
       asked to offer up my soul. @Both my mom and I were bewildered...
   - narration: But now, I've already made up my mind.
-  - narration: Because I met Shizuka-chan and Sunao-chan, @heard about what Diviners
-      are from them, @and saw how they actually fight.
+  - narration: Because I met Shizuka and Sunao, @heard about what Diviners are from
+      them, @and saw how they actually fight.
     narrationBg: bg_adv_50023.jpg
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -25,8 +25,8 @@ story:
     turnChangeOut: fadeOut
   - narration: I'm gonna punish those bad people in the police, @who've been ruining
       the heroes I looked up to.
-  - narration: Because-- like Granny said too-- @that's what will protect people,
-      @and make the whole country better.
+  - narration: Because― like Granny said too― @that's what will protect people, @and
+      make the whole country better.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -39,13 +39,13 @@ story:
     narrationBg: bg_adv_50043.jpg
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-  - narration: To accept this bizarre truth, @just like Todoroki Kouichi said...
+  - narration: To accept this bizarre truth, @just like Kouichi Todoroki said...
   - chara:
     - id: 102601
       lipSynch: 0
     nameCenter: Chiharu
     narrationEffect: out
-    textCenter: '......'
+    textCenter: '...'
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -64,12 +64,12 @@ story:
       lipSynch: 0
     nameLeft: Shizuka
     nameRight: Sunao
-    textLeft: '......'
+    textLeft: '...'
     turnChangeOut: rollOutFast
   - chara:
     - id: 102701
       lipSynch: 0
-    textRight: '......'
+    textRight: '...'
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -88,12 +88,12 @@ story:
       lipSynch: 0
     nameLeft: Chiharu's Mother
     nameRight: Shizuka's Mother
-    textLeft: '......'
+    textLeft: '...'
     turnChangeOut: rollOutFast
   - chara:
     - id: 801000
       lipSynch: 0
-    textRight: '......'
+    textRight: '...'
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -182,7 +182,7 @@ story:
     - id: 800600
       lipSynch: 0
     nameCenter: Chiharu's Mother
-    textCenter: '......'
+    textCenter: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     item:
@@ -243,7 +243,7 @@ story:
   - bgm: stop
     nameNarration: Mikoshiba
     narration: ―Mikoshiba―@Now...
-  - narration: ―Mikoshiba―@We shall commence the Kagura of the of Nation's Guard,@and
+  - narration: ―Mikoshiba―@We shall commence the Kagura of the Nation's Guard,@and
       with it, the Diviner's Ceremony.
   - autoTurnLast: 2
     item:

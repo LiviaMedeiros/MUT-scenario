@@ -21,7 +21,7 @@ story:
     - id: 104001
     nameLeft: Yozuru
     surround: 7202_telepathy
-    textLeft: Having said that, I think her dark expression@is likely limited to today’s
+    textLeft: Having said that, I think her dark expression@is likely limited to today's
       affairs.
     turnChangeOut: fadeOut
     turnEffect: ef_adv_02
@@ -32,7 +32,7 @@ story:
       id: 103901
       motion: 0
     nameRight: Sudachi
-    textRight: Eh?
+    textRight: Huh?
   - chara:
     - id: 104001
       motion: 1
@@ -48,7 +48,7 @@ story:
       id: 103901
       motion: 1
     nameRight: Sudachi
-    textRight: Livia…@I wonder if she’s worried about something…
+    textRight: Livia…@I wonder if she's worried about something…
   - chara:
     - id: 103901
     nameRight: Sudachi
@@ -57,17 +57,17 @@ story:
     - id: 104001
       motion: 300
     nameLeft: Yozuru
-    textLeft: It is a struggle to even fully grasp@Kamihama’s state of affairs.
+    textLeft: It is a struggle to even fully grasp@Kamihama's state of affairs.
   - chara:
     - id: 104001
     nameLeft: Yozuru
-    textLeft: She is very busy. I’m sure she has her share@of worries and anxiety,
+    textLeft: She is very busy. I'm sure she has her share@of worries and anxiety,
       even if it may not seem so.
   - chara:
     - id: 103901
       motion: 100
     nameRight: Sudachi
-    textRight: What could she be worrying over…@I wonder if there is anything I can
+    textRight: What could she be worrying over…?@I wonder if there is anything I can
       do to support her?
   - chara:
     - id: 104001
@@ -85,7 +85,7 @@ story:
       id: 103901
       motion: 200
     nameRight: Sudachi
-    textRight: That’s no good!
+    textRight: We can't!
   - chara:
     - id: 104001
       motion: 300
@@ -104,7 +104,7 @@ story:
       id: 103901
       motion: 0
     nameRight: Sudachi
-    textRight: That’s not what I mean…!
+    textRight: That's not what I mean…!
   - chara:
     - id: 104001
       motion: 1
@@ -116,17 +116,17 @@ story:
       id: 103901
       motion: 300
     nameRight: Sudachi
-    textRight: Maybe it’s a personal matter.
+    textRight: Maybe it's something personal.
   - chara:
     - id: 103901
     nameRight: Sudachi
-    textRight: I don’t think it would be good to trespass@any further.
+    textRight: I don't think it would be good to trespass@any further.
   - chara:
     - eyeClose: 1
       id: 104001
       lipSynch: 0
     nameLeft: Yozuru
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - eyeClose: 0
       id: 104001
@@ -141,14 +141,14 @@ story:
     - id: 103901
       motion: 200
     nameRight: Sudachi
-    textRight: That’s right!
+    textRight: That's right!
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 104001
       motion: 300
     nameLeft: Yozuru
-    textLeft: …So that is kindness, isn’t it.
+    textLeft: …So that is kindness…
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -160,13 +160,13 @@ story:
     - id: 103901
       motion: 1
     nameRight: Sudachi
-    textRight: '…But, if there is something she’s worried about,@I want to be able
+    textRight: '…But, if there is something she''s worried about,@I want to be able
       to support her… '
   - chara:
     - eyeClose: 1
       id: 103901
     nameRight: Sudachi
-    textRight: Ugh…what should I do…
+    textRight: Ugh… What should I do…?
   - bgm: stop
     chara:
     - cheek: 0
@@ -175,13 +175,13 @@ story:
       lipSynch: 0
       motion: 0
     nameLeft: Yozuru
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 104001
     nameLeft: Yozuru
-    textLeft: Sudachi truly loves Teacher, doesn’t she?
+    textLeft: You truly love Teacher, don't you?
   - chara:
     - cheek: 1
       eyeClose: 1
@@ -233,7 +233,7 @@ story:
       id: 104100
       motion: 200
     nameLeft: Livia
-    textLeft: Let’s go to Kamihama together and clear our sins.
+    textLeft: Let's go to Kamihama together and clear our sins.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -241,7 +241,7 @@ story:
       lipSynch: 0
       motion: 0
     nameRight: Sudachi
-    textRight: …………
+    textRight: '...'
   - autoTurnLast: 0.5
     bg: bg_adv_14121.jpg
     chara:
@@ -262,7 +262,7 @@ story:
     - id: 103901
     nameRight: Sudachi
     surround: 7202_telepathy
-    textRight: That’s what she said.
+    textRight: That's what she said.
     turnChangeOut: fadeOut
     turnEffect: ef_adv_02
   - chara:
@@ -272,7 +272,7 @@ story:
       id: 103901
       motion: 100
     nameRight: Sudachi
-    textRight: That’s why I…
+    textRight: That's why I…
   - chara:
     - eyeClose: 0
       id: 103901
@@ -282,7 +282,7 @@ story:
     - id: 104001
       motion: 100
     nameLeft: Yozuru
-    textLeft: …That is also kindness, isn’t it.
+    textLeft: …That is also kindness, isn't it?
   - autoTurnLast: 2
     bgm: stop
     chara:
@@ -303,7 +303,7 @@ story:
     chara:
     - id: 104001
     nameLeft: Yozuru
-    textLeft: That will be all for today’s study session.@Thanks for the hard work.
+    textLeft: That will be all for today's study session.@Good work.
     turnChangeOut: fadeOut
   - chara:
     - id: 103901
@@ -321,7 +321,7 @@ story:
       lipSynch: 0
       pos: 1
     nameCenter: Sudachi
-    textCenter: (I totally didn’t get fractions, but…it’s finally over…)
+    textCenter: (I totally didn't get fractions at all,@but…it's finally over…)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -342,7 +342,7 @@ story:
       lipSynch: 0
       motion: 100
     nameCenter: Sudachi
-    textCenter: (I’m pretty sure she’s my 1-year-*older* friend.)
+    textCenter: (I'm pretty sure she's my 1-year-*older* friend.)
   - chara:
     - id: 103901
       lipSynch: 0

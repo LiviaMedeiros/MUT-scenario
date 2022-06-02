@@ -96,7 +96,7 @@ story:
       pos: 2
     nameLeft: Chiharu
     nameRight: ???
-    textRight: Oh, are you Chiharu-chan?
+    textRight: Oh, are you Chiharu?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -109,19 +109,19 @@ story:
       id: 102501
       motion: 1
     nameRight: Shizuka
-    textRight: Nice to meet you. I am Tokime Shizuka, @the Diviner of this village.
+    textRight: Nice to meet you. I am Shizuka Tokime, @the Diviner of this village.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102601
       motion: 0
-    textLeft: Nice to meet you, too. @I'm Hiroe Chiha...[chara:102601:lipSynch_0][wait:0.8][chara:102601:cheek_0][chara:102601:face_mtn_ex_050.exp.json][chara:102601:lipSynch_1]Ah.
+    textLeft: Nice to meet you, too. @I'm Chiharu Hiro...[chara:102601:lipSynch_0][wait:0.8][chara:102601:cheek_0][chara:102601:face_mtn_ex_050.exp.json][chara:102601:lipSynch_1]Ah.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102601
       motion: 400
-    textLeft: Tokime!?
+    textLeft: Tokime?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -178,7 +178,7 @@ story:
       id: 102701
       motion: 0
     nameRight: Sunao
-    textRight: Nice to meet you; my name is Toki Sunao. @Best regards.
+    textRight: Nice to meet you; my name is Sunao Toki. @Best regards.
   - chara:
     - id: 102601
       motion: 0
@@ -235,7 +235,7 @@ story:
       pos: 2
       soulGem: 0
     nameRight: Chiharu
-    textRight: Don't worry, mom.
+    textRight: Don't worry, Mom.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -448,7 +448,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Sunao
-    textRight: It seems that Chiharu-san's "Granny"...
+    textRight: It seems that Chiharu's "Granny"...
   - chara:
     - id: 102701
     textRight: has infected Shizuka too.
@@ -506,7 +506,7 @@ story:
     - id: 102601
       lipSynch: 0
       motion: 0
-    textRight: '......?'
+    textRight: '...?'
   - chara:
     - id: 102501
       motion: 300
@@ -559,13 +559,13 @@ story:
     - id: 102601
       lipSynch: 0
       motion: 0
-    textRight: '.......'
+    textRight: '...'
   - chara:
     - id: 102601
-    textRight: Can you two really use some divine power.
+    textRight: Can you two really use some divine power...
   - chara:
     - id: 102601
-    textRight: To fight against something so dangerous...?
+    textRight: '...to fight against something so dangerous...?'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -676,7 +676,7 @@ story:
       pos: 1
       soulGem: 0
     nameCenter: Chiharu
-    textCenter: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textCenter: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]...?!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -729,7 +729,7 @@ story:
     - id: 102601
       motion: 1
     nameCenter: Chiharu
-    textCenter: Eh... eh...?
+    textCenter: Eh...eh...?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -761,7 +761,7 @@ story:
       pos: 2
       soulGem: 0
     nameRight: Chiharu
-    textRight: '......'
+    textRight: '...'
   - chara:
     - id: 102601
       lipSynch: 0
@@ -789,7 +789,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102601
       lipSynch: 0
-    textRight: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textRight: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -843,7 +843,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102601
       lipSynch: 0
-    textRight: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textRight: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

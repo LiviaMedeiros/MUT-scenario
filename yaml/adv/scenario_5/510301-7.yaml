@@ -70,7 +70,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Mikage
-    textRight: …?@What’s wrong?
+    textRight: …?@What's wrong?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -78,8 +78,8 @@ story:
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: You’ve been goin' around all day payin’ a visit@to the Kamihama Magia
-      Union and Tokime clan.
+    textRight: You've been goin' around all day payin' visits@to the Kamihama Magia
+      Union and the Tokime clan.
   - chara:
     - id: 770100
       motion: 200
@@ -100,7 +100,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Mikage
-    textLeft: Yeah, yeah! That’s right!
+    textLeft: Yeah, yeah! That's right!
   - chara:
     - id: 103801
     nameLeft: Mikage
@@ -109,7 +109,7 @@ story:
     - id: 770100
       motion: 400
     nameRight: ""
-    textRight: What did you say…!
+    textRight: What did you say…?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -128,14 +128,14 @@ story:
       motion: 1
       pos: 2
     nameRight: ""
-    textRight: It’s cuz your sister broke coordinator neutrality.
+    textRight: It's cuz your sister broke Coordinator neutrality.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 103801
       motion: 200
     nameLeft: Mikage
-    textLeft: Grr…don’t you dare talk about Sis!
+    textLeft: Grr…don't you dare talk about Sis!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -143,14 +143,13 @@ story:
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: I can’t trust a brat who hangs with someone@who works by sneaking around
-      like that.
+    textRight: I can't trust a brat who hangs around with@those kinds of sneaky people.
   - chara:
     - id: 770100
       motion: 200
     nameRight: ""
     textBg: shout
-    textRight: ‘Fess up what you’re scheming!
+    textRight: ‘Fess up what you're scheming!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -159,14 +158,14 @@ story:
       motion: 400
       pos: 0
     nameLeft: Sudachi
-    textLeft: '!?'
+    textLeft: ?!
   - chara:
     - cheek: 1
       id: 103901
       lipSynch: 0
       motion: 300
     nameLeft: Sudachi
-    textLeft: (We’re not scheming anything…)
+    textLeft: (We're not scheming anything…)
   - chara:
     - id: 103901
       lipSynch: 0
@@ -178,7 +177,7 @@ story:
       lipSynch: 0
       tear: 1
     nameLeft: Sudachi
-    textLeft: (Why are you yelling like that…)
+    textLeft: (Why are you yelling like that…?)
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -189,7 +188,7 @@ story:
     - id: 770100
       motion: 0
     nameLeft: Mikage
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -200,14 +199,14 @@ story:
   - chara:
     - id: 103801
     nameLeft: Mikage
-    textLeft: Suu-tan hasn’t broken neutrality,
+    textLeft: Suu-tan hasn't broken neutrality,
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 103801
       motion: 200
     nameLeft: Mikage
-    textLeft: and yet you’re scaring her like this!
+    textLeft: and yet you're scaring her like this!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -241,7 +240,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Mikage
-    textLeft: Don’t you care if she won’t adjust for you anymore?
+    textLeft: Don't you care if she won't adjust for you anymore?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -249,14 +248,14 @@ story:
       motion: 400
       pos: 2
     nameRight: ""
-    textRight: Hey…the brat is trying to intimidate us…
+    textRight: Hey… The brat is trying to intimidate us…
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 103801
       motion: 100
     nameLeft: Mikage
-    textLeft: If Mii was your Leader,@she would totally be angry with you two.
+    textLeft: If I was your Leader,@I would totally be angry with the two of you.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -286,18 +285,18 @@ story:
       id: 103901
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: …………
+    textCenter: '...'
   - chara:
     - id: 103901
       lipSynch: 0
       motion: 300
     nameCenter: Sudachi
-    textCenter: (but, I…)
+    textCenter: (But, I…)
   - chara:
     - id: 103901
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: (Even though I had already decided@that I would do my best for Livia’s
+    textCenter: (Even though I had already decided@that I would do my best for Livia's
       sake.)
   - chara:
     - eyeClose: 1
@@ -310,7 +309,7 @@ story:
     - id: 103901
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: …………
+    textCenter: '...'
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -324,7 +323,7 @@ story:
     - id: 103901
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: (I shouldn’t be relying on Mii,@but on my own strength…)
+    textCenter: (I shouldn't be relying on Mii,@but on my own strength…)
   - autoTurnLast: 0.2
     chara:
     - id: 103901
@@ -351,7 +350,7 @@ story:
       lipSynch: 0
       motion: 400
     nameRight: ""
-    textRight: '[chara:770100:effect_emotion_surprise_0][se:7226_shock]!?'
+    textRight: '[chara:770100:effect_emotion_surprise_0][se:7226_shock]?!'
   - chara:
     - id: 103901
       lipSynch: 0
@@ -370,7 +369,7 @@ story:
       id: 770100
       motion: 0
     nameRight: ""
-    textRight: W-what's your problem…
+    textRight: W-what's your problem…?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -410,7 +409,7 @@ story:
   - chara:
     - id: 102400
     nameRight: Juri
-    textRight: What the fuck are you doing?@I’m listening.
+    textRight: What the fuck are you doing?@I'm listening.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -418,7 +417,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: ""
-    textLeft: …That coordinator.
+    textLeft: …That Coordinator.
   - chara:
     - id: 770100
     nameLeft: ""
@@ -452,11 +451,11 @@ story:
       lipSynch: 0
       motion: 1
     nameRight: Juri
-    textRight: …………
+    textRight: '...'
   - chara:
     - id: 102400
     nameRight: Juri
-    textRight: This pipsqueak hasn’t broken neutrality.
+    textRight: This pipsqueak hasn't broken neutrality.
   - chara:
     - id: 102400
     nameRight: Juri
@@ -473,12 +472,12 @@ story:
       motion: 0
       pos: 0
     nameLeft: ""
-    textLeft: …kh…Sorry, Juri.
+    textLeft: …Kh… Sorry, Juri.
   - chara:
     - id: 102400
       motion: 100
     nameRight: Juri
-    textRight: You’re apologizing to the wrong person.
+    textRight: You're apologizing to the wrong person.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -560,7 +559,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 103801
     nameRight: Mikage
-    textRight: Suu-tan, aren’t you in a good mood!
+    textRight: Suu-tan, aren't you in a good mood!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -587,7 +586,7 @@ story:
   - chara:
     - id: 103901
     nameLeft: Sudachi
-    textLeft: I thought I would be spoiled rotten because@Mii is defending me all
+    textLeft: I thought I would be spoiled rotten because@you're defending me all
       the time…
   - chara:
     - cheek: 0
@@ -595,28 +594,28 @@ story:
       id: 103901
       motion: 100
     nameLeft: Sudachi
-    textLeft: But, that didn’t happen this time.
+    textLeft: But, that didn't happen this time.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103901
     nameLeft: Sudachi
-    textLeft: I’m happy I was able to find a little bit of courage.
+    textLeft: I'm happy I was able to find a little bit of courage.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103801
       motion: 400
     nameRight: Mikage
-    textRight: You did your best, didn’t you Suu-tan!
+    textRight: You did your best, didn't you Suu-tan!
   - chara:
     - id: 103901
       motion: 200
     nameLeft: Sudachi
     textLeft: Yeah!
   - nameNarration: Sudachi
-    narration: I was able to grow a little as a coordinator.@I was also able to get
-      info on the Kamihama Magia Union.@Even though I was scared, I didn’t let Mii
+    narration: I was able to grow a little as a Coordinator.@I was also able to get
+      info on the Kamihama Magia Union.@Even though I was scared, I didn't let Mii
       spoil me.@I was able to stand up for myself.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
@@ -624,7 +623,7 @@ story:
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: stop
-  - narration: With this, I’m sure Livia will smile@because I did my best, right?
+  - narration: With this, I'm sure Livia will smile@because I did my best, right?
   - autoTurnLast: 0.01
     bg: bg_adv_14112.jpg
     chara:
@@ -645,7 +644,7 @@ story:
       motion: 100
     nameRight: Mikage
     surround: 7202_telepathy
-    textRight: Well then, Suu-tan, let’s play again next time!
+    textRight: Well then, Suu-tan, let's play again next time!
     turnChangeOut: fadeOut
     turnEffect: ef_adv_02
   - chara:

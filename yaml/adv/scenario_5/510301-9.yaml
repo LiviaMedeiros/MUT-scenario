@@ -24,7 +24,7 @@ story:
     - id: 103901
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: (What should I do…@If I go back she’ll be angry again…)
+    textCenter: (What should I do…?@If I go back she'll be angry again…)
   - nameRight: Livia
     textRight: Found ya.
   - chara:
@@ -35,7 +35,7 @@ story:
       motion: 400
       tear: 0
     nameCenter: Sudachi
-    textCenter: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]!?'
+    textCenter: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]?!'
   - autoTurnLast: 0.2
     chara:
     - id: 103901
@@ -48,7 +48,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Livia
-    textRight: I’m glad this place was closer than expected.
+    textRight: I'm glad this place was closer than expected.
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -56,18 +56,18 @@ story:
       lipSynch: 0
       motion: 0
     nameLeft: Sudachi
-    textLeft: 'fumuufumun… '
+    textLeft: fumuufumun…
   - chara:
     - id: 103901
       lipSynch: 0
     nameLeft: Sudachi
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - id: 103901
       lipSynch: 0
       motion: 300
     nameLeft: Sudachi
-    textLeft: (I can’t face her…)
+    textLeft: (I can't face her…)
   - bgm: bgm03_story07
     chara:
     - id: 104101
@@ -85,20 +85,20 @@ story:
       id: 103901
       lipSynch: 0
     nameLeft: Sudachi
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 104101
       motion: 200
     nameRight: Livia
-    textRight: That’s my bad, Sudachi…
+    textRight: I've done ya wrong, Sudachi…
   - chara:
     - id: 103901
       lipSynch: 0
       motion: 400
     nameLeft: Sudachi
-    textLeft: fumu!?[chara:103901:lipSynch_0][wait:0.8][chara:103901:cheek_0][chara:103901:face_mtn_ex_030.exp.json]@fumumufumu…
+    textLeft: fumu?![chara:103901:lipSynch_0][wait:0.8][chara:103901:cheek_0][chara:103901:face_mtn_ex_030.exp.json]@fumumufumu…
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -109,25 +109,25 @@ story:
     - id: 104101
       motion: 0
     nameRight: Livia
-    textRight: What I was worryin’ over about,@was none other than you.
+    textRight: What I was worryin' over about,@was none other than you.
   - chara:
     - id: 103901
       lipSynch: 0
       motion: 0
     nameLeft: Sudachi
-    textLeft: (…Eh?@…Because of me…?)
+    textLeft: (…Huh?@…Because of me…?)
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 104101
       motion: 1
     nameRight: Livia
-    textRight: Ever since I took custody of you@and separated you from yer parents’
+    textRight: Ever since I took custody of you@and separated you from yer parents'
       home,
   - chara:
     - id: 104101
     nameRight: Livia
-    textRight: I wanted you to be able to live as a coordinator,@and to live as an
+    textRight: I wanted you to be able to live as a Coordinator,@and to live as an
       individual.
   - chara:
     - id: 104101
@@ -147,7 +147,7 @@ story:
   - chara:
     - id: 104101
     nameRight: Livia
-    textRight: When Sudachi stumbled over fractions,@and became aware of her weakness,
+    textRight: When you stumbled over fractions,@and became aware of your weakness,
   - chara:
     - eyeClose: 1
       id: 104101
@@ -166,13 +166,13 @@ story:
       id: 104101
       motion: 100
     nameRight: Livia
-    textRight: I didn’t really teach you how to study.
+    textRight: I didn't really teach you how to study.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 104101
     nameRight: Livia
-    textRight: An' I thought I could learn how to teach@by just reading a book.
+    textRight: An' so I thought I could learn how to teach@by reading up.
   - chara:
     - id: 103901
       lipSynch: 0
@@ -194,7 +194,7 @@ story:
   - chara:
     - id: 104101
     nameRight: Livia
-    textRight: I was worried that if ya didn’t try new things@as a coordinator,
+    textRight: I was worried that if ya didn't try new things@as a Coordinator,
   - chara:
     - id: 104101
     nameRight: Livia
@@ -203,7 +203,7 @@ story:
     - id: 104101
       motion: 200
     nameRight: Livia
-    textRight: then ya wouldn’t be able to truly stand on yer own@as an individual.
+    textRight: then ya wouldn't be able to truly stand on yer own@as an individual.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -266,7 +266,7 @@ story:
       lipSynch: 0
       motion: 0
     nameLeft: Sudachi
-    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]!?'
+    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]?!'
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -280,7 +280,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 104101
     nameRight: Livia
-    textRight: Ya don’t believe me?
+    textRight: Ya don't believe me?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -325,20 +325,20 @@ story:
     - eyeClose: 1
       id: 104101
     nameRight: Livia
-    textRight: And if ya do, I’ll praise ya even more.
+    textRight: And if ya do, I'll praise ya even more.
   - chara:
     - id: 103901
       lipSynch: 0
       motion: 400
     nameLeft: Sudachi
-    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]!?'
+    textLeft: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]?!'
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 103901
       lipSynch: 0
     nameLeft: Sudachi
-    textLeft: (If I do my best with fractions,@…she’ll praise me more…!)
+    textLeft: (If I do my best with fractions,@…she'll praise me more…!)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -353,7 +353,7 @@ story:
       id: 104101
       motion: 0
     nameRight: Livia
-    textRight: Oh, motivated now, huh.
+    textRight: Oh, motivated now, huh?
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

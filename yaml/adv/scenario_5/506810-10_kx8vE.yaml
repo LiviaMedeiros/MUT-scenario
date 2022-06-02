@@ -179,7 +179,7 @@ story:
   - chara:
     - id: 102601
     textRight: You don't know anything about the world outside the @village, do you,
-      Shizuka-chan?
+      Shizuka?
   - chara:
     - id: 102501
       motion: 400
@@ -290,7 +290,7 @@ story:
       pos: 0
     nameLeft: Shizuka
     nameRight: Chiharu
-    textLeft: Wait, it's not me, okay!?
+    textLeft: Wait, it's not me, okay?!
   - chara:
     - id: 102601
       motion: 200
@@ -317,8 +317,8 @@ story:
       motion: 200
       pos: 0
     nameLeft: Sunao
-    textLeft: Charu's weapon is a jitte. Perhaps she she received @powers similar
-      to a policeman or detective?
+    textLeft: Charu's weapon is a jitte. Perhaps she received @powers similar to a
+      policeman or detective?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

@@ -30,11 +30,11 @@ story:
     nameLeft: Shizuka
     nameRight: Chiharu
     narrationEffect: out
-    textRight: '......'
+    textRight: '...'
   - chara:
     - id: 102501
       lipSynch: 0
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
@@ -44,7 +44,7 @@ story:
       pos: 1
       tear: 1
     nameCenter: Sunao
-    textCenter: '......'
+    textCenter: '...'
   - chara:
     - eyeClose: 1
       id: 102700
@@ -53,7 +53,7 @@ story:
   - chara:
     - id: 102601
       lipSynch: 0
-    textRight: '......'
+    textRight: '...'
   - chara:
     - eyeClose: 0
       id: 102700
@@ -67,7 +67,7 @@ story:
       id: 102700
       motion: 0
       tear: 1
-    textCenter: If so, if so, I... I have to do this...
+    textCenter: If so, if so, I...I have to do this...
   - chara:
     - eyeClose: 1
       id: 102700
@@ -75,11 +75,11 @@ story:
   - chara:
     - id: 102501
       lipSynch: 0
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - id: 102601
       lipSynch: 0
-    textRight: '......'
+    textRight: '...'
   - chara:
     - cheek: 2
       eyeClose: 1

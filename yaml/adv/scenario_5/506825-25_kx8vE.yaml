@@ -19,7 +19,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm23_tokime05
     nameNarration: Chiharu
-    narration: ―Chiharu―@(Thank goodness, it really was Shizuka-chan...)
+    narration: ―Chiharu―@(Thank goodness, it really was Shizuka...)
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -30,7 +30,7 @@ story:
   - nameNarration: Shizuka
     narration: ―Shizuka―@(Charu...?)
   - nameNarration: Chiharu
-    narration: ―Chiharu―@(Shizuka-chan's jewel has become pitch-black...)
+    narration: ―Chiharu―@(Shizuka's Jewel has become pitch-black...)
   - autoTurnLast: 0.01
     bg: bg_adv_19064.jpg
     chara:
@@ -90,10 +90,10 @@ story:
     narrationLineMargin: 35
     narrationLineSpace: 20
     turnChangeOut: whiteOut
-  - narration: ―Shizuka―@-!?
+  - narration: ―Shizuka―@...?!
   - nameNarration: Chiharu
-    narration: ―Chiharu―@(Shizuka-chan...?)
-  - narration: ―Chiharu―@-!?
+    narration: ―Chiharu―@(Shizuka...?)
+  - narration: ―Chiharu―@...?!
   - autoTurnLast: 0.01
     narrationEffect: out
   - autoTurnLast: 0.01
@@ -129,9 +129,9 @@ story:
     narrationLineMargin: 35
     narrationLineSpace: 20
   - nameNarration: Shizuka
-    narration: ―Shizuka―@These... are Diviners...
+    narration: ―Shizuka―@These...are Diviners...
   - nameNarration: Chiharu
-    narration: ―Chiharu―@(Shizuka-chan's voice just now...)
+    narration: ―Chiharu―@(Shizuka's voice just now...)
   - autoTurnLast: 0.01
     bgm: stop
     item:
@@ -171,12 +171,12 @@ story:
     nameLeft: Shizuka
     nameRight: Chiharu
     surround: 7003_wind
-    textRight: '......'
+    textRight: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 102501
       lipSynch: 0
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
@@ -186,7 +186,7 @@ story:
       pos: 1
       tear: 1
     nameCenter: Sunao
-    textCenter: '......'
+    textCenter: '...'
   - chara:
     - id: 102700
       motion: 300
@@ -226,7 +226,7 @@ story:
       lipSynch: 0
       motion: 0
     surround: stop
-    textCenter: '......'
+    textCenter: '...'
   - autoTurnLast: 0.1
     bg: black
     bgm: stop

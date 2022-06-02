@@ -90,7 +90,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 102500
-    nameLeft: Shizuiku
+    nameLeft: Shizuka
     nameRight: Sunao
     textLeft: Wait, Sunao!
     turnChangeOut: fadeOut
@@ -100,7 +100,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102700
       motion: 400
-    textRight: Wha— what's wrong, Shizuka!?
+    textRight: Wha— what's wrong, Shizuka?!
   - bgm: bgm03_story10
     chara:
     - cheek: 0
@@ -112,7 +112,7 @@ story:
   - chara:
     - id: 102500
       motion: 300
-    textLeft: This is perfect timing, really
+    textLeft: This is perfect timing, really.
   - chara:
     - id: 102500
     textLeft: A chance like this might not come again, @so let's show her the power
@@ -200,7 +200,7 @@ story:
       id: 102500
       motion: 0
       pos: 0
-    nameLeft: Shizuiku
+    nameLeft: Shizuka
     textLeft: Chiharu, calm down! We'll defeat it!
   - chara:
     - cheek: 0

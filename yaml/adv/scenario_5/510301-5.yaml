@@ -47,7 +47,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Yozuru
-    textRight: I’m heading out![chara:104000:lipSynch_0][wait:0.8][chara:104000:eyeClose_1][chara:104000:lipSynch_1]@…is
+    textRight: I'm heading out![chara:104000:lipSynch_0][wait:0.8][chara:104000:eyeClose_1][chara:104000:lipSynch_1]@…is
       what she said.
   - chara:
     - cheek: 0
@@ -55,11 +55,11 @@ story:
       id: 104100
       motion: 100
     nameLeft: Livia
-    textLeft: It’s okay to go but,
+    textLeft: It's okay to go but,
   - chara:
     - id: 104100
     nameLeft: Livia
-    textLeft: ya better be back before it’s study time, ‘kay?
+    textLeft: ya better be back before it's study time, ‘kay?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -75,26 +75,26 @@ story:
       id: 103901
       lipSynch: 0
     nameRight: Sudachi
-    textRight: (I’m meeting up with Mii right away!)
+    textRight: (I'm meeting up with Mii right away!)
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
   - nameNarration: Sudachi
-    narration: We are neutral coordinators.
+    narration: We are neutral Coordinators.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: So, no matter which team comes to us,@we don’t support any one team
-      over another.@The movements of all the magical girls@that have gathered in Kamihama@is
+  - narration: So, no matter which team comes to us,@we don't support any one team
+      over another.@The movements of all the Magical Girls@that have gathered in Kamihama@is
       something that is very important to know.
-  - narration: I can get a general idea of everyone’s movements@by taking a peek when
+  - narration: I can get a general idea of everyone's movements@by taking a peek when
       adjusting but…
-  - narration: When it comes to the Kamihama Magia Union,@I haven’t received any information
+  - narration: When it comes to the Kamihama Magia Union,@I haven't received any information
       on them.
-  - narration: The Kamihama Magia Union girls@receive their adjustment from Mii’s
+  - narration: The Kamihama Magia Union girls@receive their adjustment from Mii's
       sister.
   - narration: Recently…@ever since the Kamihama Magia Union@formed an alliance with
       the Tokime clan,@the girls have been going there to receive adjustment.@So it
-      seems we’re also lacking information on the Tokime clan.
+      seems we're also lacking information on the Tokime clan.
   - autoTurnLast: 0.01
     bg: bg_adv_21141.jpg
     chara:
@@ -109,7 +109,7 @@ story:
     - id: 103901
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: (If I can bring back information,@Livia would be pleased, wouldn’t
+    textCenter: (If I can bring back information,@Livia would be pleased, wouldn't
       she?)
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
@@ -162,21 +162,21 @@ story:
       id: 103801
       lipSynch: 0
     nameRight: Mikage
-    textRight: …………
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 103801
       motion: 200
     nameRight: Mikage
-    textRight: Yeeah…I wonder if they will talk to us…
+    textRight: Yeeeah… I wonder if they will talk to us…
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 103801
       motion: 0
     nameRight: Mikage
-    textRight: But, for now, why don’t we just get going!
+    textRight: But, for now, why don't we just get going!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -272,7 +272,7 @@ story:
     - id: 101700
       motion: 300
     nameCenter: Mitama
-    textCenter: I’m sorry…
+    textCenter: I'm sorry…
     turnChangeOut: rollOutFast
   - chara:
     - id: 101700
@@ -341,7 +341,7 @@ story:
       lipSynch: 0
       motion: 100
     nameRight: Mikage
-    textRight: …………
+    textRight: '...'
   - bgm: stop
     chara:
     - cheek: 0
@@ -349,19 +349,19 @@ story:
       face: mtn_ex_010.exp.json
       id: 103801
     nameRight: Mikage
-    textRight: Mii thinks you might be onto something!
+    textRight: I think you might be onto something!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 103901
       motion: 0
     nameLeft: Sudachi
-    textLeft: Eh?
+    textLeft: Huh?
   - chara:
     - id: 103801
       motion: 1
     nameRight: Mikage
-    textRight: I don’t think they’ll tell us anything@about the Kamihama Magia Union,
+    textRight: I don't think they'll tell us anything@about the Kamihama Magia Union,
       but
   - chara:
     - id: 103801
@@ -372,7 +372,7 @@ story:
     - id: 103801
       motion: 400
     nameRight: Mikage
-    textRight: Wanna go!?
+    textRight: Wanna go?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

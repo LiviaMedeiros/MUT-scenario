@@ -20,11 +20,11 @@ story:
     - id: 800600
     nameLeft: Shizuka's Mother
     nameRight: Chiharu's Mother
-    textRight: I'm Hiroe Chiharu's mother. @Thank you for your time today.
+    textRight: I'm Chiharu Hiroe's mother. @Thank you for your time today.
     turnChangeOut: fadeOut
   - chara:
     - id: 801000
-    textLeft: Thank you for your politeness. @I am Tokime Shizuka's mother.
+    textLeft: Thank you for your politeness. @I am Shizuka Tokime's mother.
   - chara:
     - id: 801000
     textLeft: As a fellow mother of a Diviner, I very much look forward to working
@@ -71,7 +71,7 @@ story:
     nameCenter: Sunao
     nameLeft: Shizuka
     nameRight: Chiharu
-    textRight: I was wondering what the practice would be, @but it's FIGHTING practice!?
+    textRight: I was wondering what the practice would be, @but it's FIGHTING practice?!
   - chara:
     - id: 102501
     textLeft: As you saw yesterday, improving your senses is necessary to fight against
@@ -123,7 +123,7 @@ story:
       pos: 0
     nameLeft: Shizuka's Mother
     textLeft: Well then, I think that's enough of a greeting. @Are you ready to begin,
-      Hiroe Chiharu?
+      Chiharu Hiroe?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -170,7 +170,7 @@ story:
       motion: 300
     nameLeft: Shizuka's Mother
     nameRight: Chiharu
-    textRight: Hah... hah... hah... @I can't hit her at all...
+    textRight: Hah...hah...hah... @I can't hit her at all...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -194,7 +194,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102601
       motion: 400
-    textRight: Eh!?
+    textRight: Eh?!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -222,7 +222,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Sunao
-    textRight: How did Chiharu-san do?
+    textRight: How did Chiharu do?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -241,7 +241,7 @@ story:
       pos: 2
       soulGem: 0
     nameRight: Chiharu
-    textRight: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]Terribly...!?'
+    textRight: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]Terribly...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp.json
@@ -255,8 +255,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Sunao
-    textLeft: Don't lose heart, Chiharu-san. If you shine in just one area, that's
-      enough.
+    textLeft: Don't lose heart, Chiharu. If you shine in just one area, that's enough.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -332,19 +331,19 @@ story:
       motion: 300
     nameLeft: Shizuka's Mother
     nameRight: Chiharu
-    textRight: Hah... hah...
+    textRight: Hah...hah...
     turnChangeOut: fadeOut
   - chara:
     - id: 801000
     - id: 102601
       mouthOpen: 0
-    textLeft: Good work, Chiharu-chan. You've made progress @within just half a day!
+    textLeft: Good work, Chiharu. You've made progress @within just half a day!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102601
       motion: 200
-    textRight: Really!?
+    textRight: Really?!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -479,7 +478,7 @@ story:
     nameLeft: Chiharu's Mother
     nameRight: Chiharu
     surround: 7003_wind
-    textRight: '......'
+    textRight: '...'
   - chara:
     - id: 800600
     textLeft: The time's finally come, Chiharu.

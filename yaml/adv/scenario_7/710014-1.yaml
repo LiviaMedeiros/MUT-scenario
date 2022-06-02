@@ -21,7 +21,7 @@ story:
     turnChangeIn: whiteIn
   - bg: white
     nameNarration: Yachiyo
-    narration: '[textBlack:Ahh! It’s so bright!]'
+    narration: '[textBlack:Ahh! It''s so bright!]'
     narrationCoverOpacity: 0
     narrationEffect: in
     turnChangeOut: whiteOut
@@ -39,7 +39,7 @@ story:
   - bgm: bgm03_movie12
     chara:
     - id: 100201
-    textCenter: The room is... sparkling clean...
+    textCenter: The room is...sparkling clean...
     turnChangeOut: whiteOut
   - chara:
     - id: 100201
@@ -49,8 +49,8 @@ story:
     - id: 100201
       lipSynch: 0
       motion: 200
-    textCenter: (Or did I pass into another world when I entered@the house…?)
-  - nameLeft: Iroha’s voice
+    textCenter: (Or did I pass into another world when I entered@the house...?)
+  - nameLeft: Iroha's voice
     textLeft: Ah, Yachiyo. Welcome home!
   - autoTurnLast: 0.3
     bg: bg_adv_21261.jpg
@@ -70,7 +70,7 @@ story:
   - chara:
     - id: 100201
     nameRight: Yachiyo
-    textRight: Iroha, I’m ba-
+    textRight: Iroha, I'm ba―
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 1
@@ -78,7 +78,7 @@ story:
       id: 100201
       lipSynch: 0
       motion: 400
-    textRight: '[chara:100201:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:100201:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -142,7 +142,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 101602
-    textRight: Hospitality... That’s a hard one.
+    textRight: Hospitality... That's a hard one.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -157,11 +157,11 @@ story:
       face: mtn_ex_050.exp.json
       id: 101602
       motion: 0
-    textRight: Oh, sir… Madam.@[chara:101602:lipSynch_0][wait:1.0][chara:101602:cheek_0][chara:101602:face_mtn_ex_030.exp.json][chara:101602:lipSynch_1]Is
+    textRight: Oh, sir...Madam.@[chara:101602:lipSynch_0][wait:1.0][chara:101602:cheek_0][chara:101602:face_mtn_ex_030.exp.json][chara:101602:lipSynch_1]Is
       it an easier problem than it seems?
   - chara:
     - id: 800700
-    textLeft: Forget “easier!”@Aren't we always providing hospitality ourselves?
+    textLeft: Forget "easier"!@Aren't we always providing hospitality ourselves?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -188,20 +188,20 @@ story:
     - id: 100152
       motion: 100
     nameLeft: Iroha
-    textLeft: And so, I borrowed one of the cafe's unused maid uniforms.
+    textLeft: And so, I borrowed one of the cafe's unused@maid uniforms.
     turnChangeOut: fadeOut
   - chara:
     - id: 100201
       motion: 301
     nameRight: Yachiyo
-    textRight: You really didn't have to do that much. Just being@like how we usually
+    textRight: You really didn't have to do that much.@Just being like how we usually
       are is enough.
   - chara:
     - cheek: 0
       face: mtn_ex_014.exp.json
       id: 100201
       motion: 100
-    textRight: But I appreciate the thought. Thank you.
+    textRight: But I appreciate the thought.@Thank you.
   - chara:
     - id: 100201
       motion: 0
@@ -235,12 +235,12 @@ story:
     - id: 100201
       lipSynch: 0
       motion: 300
-    textRight: (What is with.. this feeling...?)
+    textRight: (What is with...this feeling...?)
     turnEffect: thinking
   - chara:
     - id: 100152
       motion: 401
-    textLeft: Oh, and I've prepared black tea and chiffon cake for you.
+    textLeft: Oh, and I've prepared black tea@and chiffon cake for you.
     turnEffect: stop
   - chara:
     - id: 100152
@@ -295,7 +295,7 @@ story:
   - chara:
     - id: 100201
       motion: 0
-    textLeft: Now then, time to eat…
+    textLeft: Now then, time to eat...
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -316,7 +316,7 @@ story:
   - chara:
     - id: 100201
       lipSynch: 0
-    textLeft: (Just as I thought, I really can’t relax...)
+    textLeft: (Just as I thought, I really can't relax...)
     turnEffect: thinking
   - chara:
     - cheek: 0
@@ -427,10 +427,10 @@ story:
       face: mtn_ex_050.exp.json
       id: 100152
       motion: 401
-    textRight: '[chara:100152:effect_emotion_surprise_0][se:7226_shock]H-Huh?'
+    textRight: '[chara:100152:effect_emotion_surprise_0][se:7226_shock]H-huh?'
   - chara:
     - id: 100152
-    textRight: What do you mean, Yachiyo!?
+    textRight: What do you mean, Yachiyo?!
   - chara:
     - id: 100201
     textLeft: Trying to eat your master's food?@How insolent you are, Iroha.
@@ -460,7 +460,7 @@ story:
     - cheek: 0
       face: mtn_ex_014.exp.json
       id: 100201
-    textLeft: I’m the sort of person who prefers to share@everything with others.
+    textLeft: I'm the sort of person who prefers to share@everything with others.
   - chara:
     - id: 100201
       motion: 200
@@ -468,7 +468,7 @@ story:
   - chara:
     - id: 100152
       motion: 0
-    textRight: You... really think so...?
+    textRight: You...really think so...?
   - chara:
     - id: 100201
     textLeft: I do.
@@ -481,7 +481,7 @@ story:
   - chara:
     - id: 100201
       motion: 100
-    textLeft: Fufu, would you like some black tea?
+    textLeft: '*Chuckle*@Would you like some black tea?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

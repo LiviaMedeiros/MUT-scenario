@@ -56,7 +56,7 @@ story:
       lipSynch: 0
       motion: 400
     nameRight: Sudachi
-    textRight: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]!?'
+    textRight: '[chara:103901:effect_emotion_surprise_0][se:7226_shock]?!'
   - bgm: bgm03_story12
     chara:
     - cheek: 0
@@ -64,12 +64,12 @@ story:
       id: 103901
       lipSynch: 0
     nameRight: Sudachi
-    textRight: (T-that’s right…!)
+    textRight: (T-that's right…!)
   - chara:
     - id: 103901
       lipSynch: 0
     nameRight: Sudachi
-    textRight: (It’s already way past that time…)
+    textRight: (It's already way past that time…)
   - chara:
     - id: 103901
       lipSynch: 0
@@ -83,7 +83,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Livia
-    textLeft: I thought somethin’ had happened.
+    textLeft: I thought somethin' had happened.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -98,7 +98,7 @@ story:
       lipSynch: 0
       motion: 300
     nameRight: Sudachi
-    textRight: (…and yet, I made her worry…)
+    textRight: (…and worse, I made her worry…)
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -106,13 +106,13 @@ story:
       motion: 100
       pos: 0
     nameLeft: Livia
-    textLeft: What were ya doin’?
+    textLeft: What were ya doin'?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 104100
     nameLeft: Livia
-    textLeft: 'Ya didn’t by any chance think: I hate fractions!@and run away, did
+    textLeft: 'Ya didn''t by any chance think: I hate fractions!@and run away, did
       ya?'
   - autoTurnLast: 0.2
     chara:
@@ -125,13 +125,13 @@ story:
       motion: 0
       pos: 1
     nameCenter: Sudachi
-    textCenter: (T-that’s…not completely correct…)
+    textCenter: (T-that's…not completely correct…)
   - chara:
     - id: 103901
       lipSynch: 0
       motion: 1
     nameCenter: Sudachi
-    textCenter: (What should I say…)
+    textCenter: (What should I say…?)
   - chara:
     - id: 103901
       lipSynch: 0
@@ -147,13 +147,13 @@ story:
       lipSynch: 0
       motion: 300
     nameCenter: Sudachi
-    textCenter: (Right now, I’m sure she wouldn’t be pleased…)
+    textCenter: (Right now, I'm sure she wouldn't be pleased…)
   - chara:
     - eyeClose: 1
       id: 103901
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: (because, she’s super angry right now…)
+    textCenter: (Because, she's super angry right now…)
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -187,17 +187,17 @@ story:
       motion: 300
       pos: 2
     nameRight: Sudachi
-    textRight: …………
+    textRight: '...'
   - chara:
     - id: 104100
       motion: 200
     nameLeft: Livia
-    textLeft: Sudachi, if ya don’t talk to me,@I’m not gonna understand.
+    textLeft: Sudachi, if ya don't talk to me,@I'm not gonna understand.
   - chara:
     - id: 103901
       lipSynch: 0
     nameRight: Sudachi
-    textRight: …………
+    textRight: '...'
   - chara:
     - id: 103901
       lipSynch: 0
@@ -208,7 +208,7 @@ story:
     - id: 103901
       lipSynch: 0
     nameRight: Sudachi
-    textRight: (I didn’t mean to bother her@or to make her angry like this…)
+    textRight: (I didn't mean to bother her@or to make her angry like this…)
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -243,7 +243,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Livia
-    textLeft: '[chara:104100:effect_emotion_surprise_0][se:7226_shock]!?'
+    textLeft: '[chara:104100:effect_emotion_surprise_0][se:7226_shock]?!'
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -251,7 +251,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Yozuru
-    textRight: …and she ran away, didn’t she…
+    textRight: …She ran away…
   - chara:
     - cheek: 0
       effect: ef_adv_05
@@ -261,7 +261,7 @@ story:
       pos: 0
     nameLeft: Livia
     se: 7205_magic_girl
-    textLeft: …I’m countin’ on ya to watch the place.
+    textLeft: …I'm countin' on ya to watch the place.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json

@@ -20,7 +20,7 @@ story:
     nameLeft: ""
     nameRight: Shizuka
     textBg: shout
-    textLeft: '[flashEffect:flashRed2][surround:1012A03][chara:6103:effect_shake][bgEffect:shakeLarge]ZARIZARI…☆…◇…!?!?'
+    textLeft: '[flashEffect:flashRed2][surround:1012A03][chara:6103:effect_shake][bgEffect:shakeLarge]ZARIZARI...☆...◇...?!?!'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -64,7 +64,7 @@ story:
       name: sprite_0
       pos: 1
     nameCenter: ""
-    textCenter: '[flashEffect:flashRed2][surround:1026A02][chara:6103:effect_shake][bgEffect:shakeLarge]ZUSHAA★○□▼!?!?'
+    textCenter: '[flashEffect:flashRed2][surround:1026A02][chara:6103:effect_shake][bgEffect:shakeLarge]ZUSHAA★○□▼?!?!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -78,7 +78,7 @@ story:
       motion: 100
       pos: 1
     nameCenter: Chiharu
-    textCenter: I did it...! Sunao-chan, @I tied it up!
+    textCenter: I did it...! Sunao, @I tied it up!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -106,7 +106,7 @@ story:
       motion: 100
     flashEffect: flashWhite1
     textRight: '[flashEffect:explosion][surround:1027A01]Be wrapped in this crystal''s
-      brilliance... @and be purified!'
+      brilliance...@and be purified!'
   - autoTurnLast: 0.5
     bgEffect: shakeLarge
     bgm: stop
@@ -117,7 +117,7 @@ story:
     flashEffect: flashRed2
     surround: 1027A02
     textBg: shout
-    textLeft: ZARIZARIZARI…
+    textLeft: ZARIZARIZARI...
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -226,14 +226,14 @@ story:
       motion: 1
       pos: 0
     nameLeft: Sunao
-    textLeft: You received a jewel when you became a Diviner, @I imagine?
+    textLeft: You received a Jewel when you became a Diviner, @I imagine?
   - chara:
     - id: 102701
     textLeft: Your power as a Diviner is stored within it.
   - chara:
     - id: 102601
       lipSynch: 0
-    textRight: '......'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -271,7 +271,7 @@ story:
       id: 102601
       lipSynch: 0
       motion: 400
-    textRight: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textRight: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 102601
       motion: 0
@@ -299,7 +299,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Sunao
-    textLeft: Please hand over it to Lady Mikoshiba.
+    textLeft: Please hand it over to Lady Mikoshiba.
   - chara:
     - id: 102701
     textLeft: She is the priestess, so she ought to lay it to rest properly.
@@ -313,7 +313,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102601
-    textRight: Thank you, Shizuka-chan, Sunao-chan.
+    textRight: Thank you, Shizuka, Sunao.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

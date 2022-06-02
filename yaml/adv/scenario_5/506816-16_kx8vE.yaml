@@ -81,7 +81,7 @@ story:
   - chara:
     - id: 102501
       lipSynch: 0
-    textCenter: '......'
+    textCenter: '...'
   - autoTurnLast: 0.2
     chara:
     - id: 102501
@@ -127,7 +127,7 @@ story:
     - eyeClose: 1
       id: 102501
       lipSynch: 0
-    textRight: '......'
+    textRight: '...'
     turnEffect: stop
   - chara:
     - cheek: 0
@@ -192,7 +192,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 801800
-    textLeft: Here. Wouldst thou show me thy jewel a moment?
+    textLeft: Here. Wouldst thou show me thy Jewel a moment?
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -233,7 +233,7 @@ story:
     textLeft: Oh, I do beg pardon.
   - chara:
     - id: 801800
-    textLeft: Y'see, when the power of your jewel there becomes completely tainted,
+    textLeft: Y'see, when the power of your Jewel there becomes completely tainted,
   - chara:
     - id: 801800
     textLeft: it's essentially your coming-of-age ritual as a Diviner. You'll have
@@ -243,7 +243,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 801800
     textLeft: In other words, it'll be time for ye to venture outside @as a full-fledged
-      Diviner
+      Diviner.
   - chara:
     - id: 102501
       motion: 1
@@ -261,7 +261,7 @@ story:
     textRight: Well, I knew that my time would come too, @before long.
   - chara:
     - id: 102501
-    textRight: But I didn't think it was so closely related to this @jewel.
+    textRight: But I didn't think it was so closely related to this @Jewel.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

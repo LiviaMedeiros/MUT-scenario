@@ -22,8 +22,8 @@ story:
   - narration: And right now, @the chance is right before my eyes!
   - narration: '...Well, probably.'
   - narration: The whole thing's still very mysterious,and even my mom is frightened
-      by it. But... @Both Shizuka-chan and Sunao-chan seem like good people.
-  - narration: Plus, after being shown such amazing power..
+      by it. But... @Both Shizuka and Sunao seem like good people.
+  - narration: Plus, after being shown such amazing power...
   - bg: bg_adv_50031.jpg
     bgm: stop
     chara:
@@ -35,7 +35,7 @@ story:
     nameCenter: Chiharu
     narrationEffect: out
     surround: 7003_wind
-    textCenter: '......'
+    textCenter: '...'
   - autoTurnLast: 0.2
     chara:
     - id: 102601
@@ -47,7 +47,7 @@ story:
       id: 102500
       motion: 200
       pos: 0
-    nameLeft: Shiziku
+    nameLeft: Shizuka
     nameRight: Chiharu
     textLeft: So? Have you decided...?
   - chara:
@@ -75,7 +75,7 @@ story:
       id: 102500
       motion: 300
       pos: 0
-    nameLeft: Shiziku
+    nameLeft: Shizuka
     textLeft: It's hard to decide that easily, @of course...
   - chara:
     - cheek: 0
@@ -86,7 +86,7 @@ story:
       pos: 2
     nameRight: Sunao
     surround: stop
-    textRight: '[chara:102700:effect_ef_adv_01][se:7201_detect_magic]-!?'
+    textRight: '[chara:102700:effect_ef_adv_01][se:7201_detect_magic]...?!'
   - bgm: bgm03_story10
     chara:
     - cheek: 0
@@ -109,7 +109,7 @@ story:
       pos: 2
       soulGem: 0
     nameRight: Chiharu
-    textRight: Eh, what, what's up!?
+    textRight: Eh, what, what's up?!
   - chara:
     - id: 102500
       motion: 100
@@ -117,7 +117,7 @@ story:
   - chara:
     - id: 102601
       motion: 400
-    textRight: Hweeh!?
+    textRight: Hweeh?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -174,7 +174,7 @@ story:
   - chara:
     - id: 102500
       motion: 300
-    textLeft: What the real power to protect something is-- no mirrors, no strings
+    textLeft: What the real power to protect something is― no mirrors, no strings
       attached?
   - chara:
     - cheek: 0
@@ -183,13 +183,13 @@ story:
       lipSynch: 0
       motion: 300
     nameRight: Chiharu
-    textRight: '......'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102601
       motion: 200
-    textRight: Okay, let me have a look! Shizuka-chan, Sunao-chan!
+    textRight: Okay, let me have a look! Shizuka, Sunao!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -219,7 +219,7 @@ story:
     turnEffect: ef_adv_06
   - chara:
     - id: 102601
-    nameLeft: Shiziku
+    nameLeft: Shizuka
     nameRight: Chiharu
     textRight: Is there a Devil here...?
     turnChangeOut: fadeOut
@@ -303,7 +303,7 @@ story:
       id: 102500
       motion: 0
       pos: 0
-    nameLeft: Shiziku
+    nameLeft: Shizuka
     textLeft: Chiharu, calm down! We'll defeat it!
   - chara:
     - cheek: 0

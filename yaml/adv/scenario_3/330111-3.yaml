@@ -96,8 +96,7 @@ story:
     narrationEffect: in
   - narration: The man just kept staring at@me without saying anything.
   - narration: And that's when I realized...
-  - narration: There was something strange about him.@[textRed:He wasn't... normal]He
-      wasn't...normal...
+  - narration: There was something strange about him.@[textRed:He wasn't... normal...]
   - chara:
     - cheek: -1
       face: mtn_ex_050.exp.json

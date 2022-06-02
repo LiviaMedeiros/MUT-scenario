@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 102100
     nameLeft: Yuna
-    textLeft: Ohh…?
+    textLeft: Oh…?
     turnChangeOut: fadeOut
   - chara:
     - id: 102200
@@ -60,7 +60,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Yuna
-    textRight: That’s right…today, I want you to use this…
+    textRight: That's right… Today, I want you to use this…
   - chara:
     - eyeClose: 0
       id: 104000
@@ -75,7 +75,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Sudachi
-    textRight: '[chara:103900:effect_emotion_surprise_0][se:7226_shock]!?'
+    textRight: '[chara:103900:effect_emotion_surprise_0][se:7226_shock]?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -89,7 +89,7 @@ story:
       motion: 0
     nameLeft: Yozuru
     surround: 7202_telepathy
-    textLeft: What’s wrong?
+    textLeft: What's wrong?
     turnEffect: ef_adv_02
   - chara:
     - id: 103900
@@ -117,14 +117,14 @@ story:
       lipSynch: 0
     nameRight: Sudachi
     surround: stop
-    textRight: (…that time,@I was just pretending to be unconfident…)
+    textRight: (…That time,@I was just pretending to be unconfident…)
     turnEffect: stop
   - chara:
     - eyeClose: 1
       id: 103900
       lipSynch: 0
     nameRight: Sudachi
-    textRight: (because…)
+    textRight: (Because…)
   - autoTurnLast: 0.5
     bg: bg_adv_14121.jpg
     chara:
@@ -146,7 +146,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 104100
     nameCenter: Livia
-    textCenter: Ain’t no helpin’ it, I guess.@Watch closely and memorize it, ‘kay?
+    textCenter: Ain't no helpin' it, I guess.@Watch closely and memorize it, ‘kay?
   - autoTurnLast: 0.5
     bg: bg_adv_14121.jpg
     chara:
@@ -161,7 +161,7 @@ story:
     - id: 103900
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: (…because I could be spoiled by Livia…)
+    textCenter: (…Because I could be spoiled by Livia…)
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -175,12 +175,12 @@ story:
     - id: 103900
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: (I can’t say that kind of thing anymore.)
+    textCenter: (I can't say that kind of thing anymore.)
   - chara:
     - id: 103900
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: (Even though I’ve never done it before,@I’m actually really confident
+    textCenter: (Even though I've never done it before,@I'm actually really confident
       that I can…!)
   - autoTurnLast: 0.5
     chara:
@@ -217,13 +217,13 @@ story:
       pos: 2
     nameRight: Hikaru
     surround: stop
-    textRight: Um, what’s happening?
+    textRight: Um, what's happening?
     turnEffect: stop
   - chara:
     - id: 104000
       motion: 1
     nameLeft: Yozuru
-    textLeft: Sudachi will be in charge of today’s adjustment.
+    textLeft: Sudachi will be in charge of today's adjustment.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -240,7 +240,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Yozuru
-    textLeft: It’s my first time, but you can leave it all to me![chara:104000:lipSynch_0][wait:0.8][chara:104000:eyeClose_1][chara:104000:lipSynch_1]@…is
+    textLeft: It's my first time, but you can leave it all to me![chara:104000:lipSynch_0][wait:0.8][chara:104000:eyeClose_1][chara:104000:lipSynch_1]@…is
       what she said.
   - chara:
     - cheek: 0
@@ -249,7 +249,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Hikaru
-    textRight: What! It’s your first time!?
+    textRight: What! It's your first time?!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -267,7 +267,7 @@ story:
   - chara:
     - id: 104000
     nameLeft: Yozuru
-    textLeft: I can personally vouch for Sudachi’s ability.@Additionally, I will also
+    textLeft: I can personally vouch for Sudachi's ability.@Additionally, I will also
       be present to assist.
   - chara:
     - cheek: 0
@@ -276,11 +276,11 @@ story:
       motion: 100
       pos: 2
     nameRight: Hikaru
-    textRight: If that’s gonna be the case,@then Hikaru wants you to adjust her first!
+    textRight: If that's gonna be the case,@then Hikaru wants you to adjust her first!
   - chara:
     - id: 102200
     nameRight: Hikaru
-    textRight: There’s no way you’re gonna use Yuna@as a test subject!
+    textRight: There's no way you're gonna use Yuna@as a test subject!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -288,7 +288,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Yuna
-    textRight: That’s rude, Hikaru…
+    textRight: That's rude, Hikaru…
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -437,7 +437,7 @@ story:
       id: 103900
       lipSynch: 0
     nameRight: Sudachi
-    textRight: …………
+    textRight: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
@@ -470,7 +470,7 @@ story:
       lipSynch: 0
       pos: 1
     nameCenter: Sudachi
-    textCenter: (I’ve grown a little more as a coordinator!)
+    textCenter: (I've grown a little more as a Coordinator!)
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -478,26 +478,26 @@ story:
       lipSynch: 0
       motion: 1
     nameCenter: Sudachi
-    textCenter: (…that said, can I really say that I tried my hardest@with this?)
+    textCenter: (…That said, can I really say that I tried my hardest@with this?)
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 103900
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: (This was more like@Oh, I could’ve done it if I had just tried…)
+    textCenter: (This was more like@Oh, I could've done it if I had just tried…)
   - chara:
     - eyeClose: 1
       id: 103900
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: …………
+    textCenter: '...'
   - chara:
     - id: 103900
       lipSynch: 0
       motion: 300
     nameCenter: Sudachi
-    textCenter: (Yeeah… I don’t think this is enough…)
+    textCenter: (Yeeeah… I don't think this is enough…)
   - chara:
     - eyeClose: 0
       id: 103900
@@ -517,13 +517,13 @@ story:
     - id: 104001
       motion: 300
     nameCenter: Yozuru
-    textCenter: It is a struggle to even fully grasp@Kamihama’s state of affairs.
+    textCenter: It is a struggle to even fully grasp@Kamihama's state of affairs.
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
     - id: 104001
     nameCenter: Yozuru
-    textCenter: She is very busy. I’m sure she has her share@of worries and anxiety,
+    textCenter: She is very busy. I'm sure she has her share@of worries and anxiety,
       even if it may not seem so.
   - autoTurnLast: 0.5
     bg: bg_adv_14122.jpg
@@ -539,13 +539,13 @@ story:
       lipSynch: 0
       motion: 200
     nameCenter: Sudachi
-    textCenter: (That’s right, reconnaissance!)
+    textCenter: (That's right, reconnaissance!)
     turnChangeOut: fadeOut
   - chara:
     - id: 103900
       lipSynch: 0
     nameCenter: Sudachi
-    textCenter: (If I do my best and bring back info@for Livia’s sake,)
+    textCenter: (If I do my best and bring back info@for Livia's sake,)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
