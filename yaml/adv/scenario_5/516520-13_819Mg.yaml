@@ -182,7 +182,7 @@ story:
     narrationCoverOpacity: 0
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: '[textBlack:Becuase you accepted me...]'
+  - narration: '[textBlack:Because you accepted me...]'
   - narration: '[textBlack:Then I too... ]'
   - bgm: stop
     narration: '[textBlack:Will accept all of you Kirika.]'

@@ -355,7 +355,7 @@ story:
     - id: 400102
       motion: 200
     nameLeft: Oriko
-    textLeft: '...No, I''m just not very goot at fighting...'
+    textLeft: '...No, I''m just not very good at fighting...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -654,7 +654,7 @@ story:
       id: 400102
       pos: 0
     nameLeft: Oriko
-    textLeft: A Coordinators store...
+    textLeft: A Coordinator's store...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -675,7 +675,7 @@ story:
     nameRight: Iroha
     narrationEffect: out
     surround: stop
-    textRight: Ah, excuse I got a phone call...
+    textRight: Ah, excuse me I got a phone call...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

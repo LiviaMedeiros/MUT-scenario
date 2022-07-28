@@ -20,7 +20,7 @@ story:
   - chara:
     - id: 400400
     nameCenter: Oriko
-    textCenter: Like how Kirka became my world.
+    textCenter: Like how Kirika became my world.
   - chara:
     - eyeClose: 0
       id: 400400
@@ -338,7 +338,7 @@ story:
   - chara:
     - id: 100101
     nameRight: Iroha
-    textRight: After all, we're all Magical Girls with the same fate.
+    textRight: After all, we're all Magical Girl's with the same fate.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json

@@ -311,7 +311,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102400
       motion: 0
-      textHome: Sorry make you do this right away,@but I'mma have you be my practice
+      textHome: Sorry to make you do this right away,@but I'mma have you be my practice
         partner@for this fighting game.
   - autoTurnFirst: 4.5
     chara:
@@ -1045,6 +1045,7 @@ story:
       motion: 300
       pos: 1
       voice: vo_game_0502_01
+      textHome: Arghhhh...
   - autoTurnFirst: 1.5
     chara:
     - eyeClose: 1
@@ -1053,6 +1054,7 @@ story:
     chara:
     - eyeClose: 0
       id: 102400
+      textHome: Bein' a shopkeeper@doesn't help me@train my body at all...
   - autoTurnFirst: 4.5
     chara:
     - cheek: 0
@@ -1064,17 +1066,22 @@ story:
       face: mtn_ex_011.exp.json
       id: 102400
       motion: 0
+      textHome: Oh, I know!
   - autoTurnFirst: 1.1
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102400
       motion: 100
+      textHome: How 'bout you help@Juri the Great out?
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
+  - chara:
+    - id: 102400
+      textHomeStatus: Clear
   group_41:
   - autoTurnFirst: 2
     chara:
@@ -1085,6 +1092,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_game_0502_02
+      textHome: Whatever you want me@to do, Juri the Great@will give it her all.
   - autoTurnFirst: 3.4
     chara:
     - id: 102400
@@ -1093,6 +1101,10 @@ story:
     chara:
     - id: 102400
       motion: 1
+      textHome: Never thought@I'd be filling in@as a shopkeeper, though.
+  - chara:
+    - id: 102400
+      textHomeStatus: Clear
   group_42:
   - autoTurnFirst: 1.4
     chara:
@@ -1103,21 +1115,28 @@ story:
       motion: 400
       pos: 1
       voice: vo_game_0502_03
+      textHome: You there!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
+      textHome: Don't you get it?@If you try shoplifting@one more time,
   - autoTurnFirst: 1.8
     chara:
     - id: 102400
       motion: 100
+      textHome: I'll cook you to well done!
   - autoTurnFirst: 1.7
     chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
+      textHome: Don't say I didn't warn ya.
+  - chara:
+    - id: 102400
+      textHomeStatus: Clear
   group_43:
   - autoTurnFirst: 1.9
     chara:
@@ -1128,21 +1147,27 @@ story:
       motion: 300
       pos: 1
       voice: vo_game_0502_04
+      textHome: Welcome!
   - autoTurnFirst: 4.1
     chara:
     - id: 102400
       motion: 0
+      textHome: If there's a product@anyone needs,@we have it here.
   - autoTurnFirst: 1.6
     chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 102400
+      textHome: '...W-What?!@Somethin'' wrong with me@takin'' this seriously?!'
   - autoTurnFirst: 4
     chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 200
+  - chara:
+    - id: 102400
+      textHomeStatus: Clear
   group_44:
   - autoTurnFirst: 3.5
     chara:
@@ -1153,16 +1178,19 @@ story:
       motion: 1
       pos: 1
       voice: vo_game_0502_08
+      textHome: I don't get how someone@could have any energy@this early in the morning.
   - autoTurnFirst: 2.7
     chara:
     - cheek: 1
       eyeClose: 1
       id: 102400
       motion: 300
+      textHome: '*Yawn*...'
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
       id: 102400
+      textHome: Juri the Great secretly@wants to keep the shop@closed still...
   - autoTurnFirst: 4.7
     chara:
     - cheek: 0
@@ -1171,16 +1199,21 @@ story:
     chara:
     - id: 102400
       motion: 100
+      textHome: Lemme sleep some more...
   - autoTurnFirst: 1.5
     chara:
     - id: 102400
       motion: 300
+      textHome: Aghhh, what a pain...
   - autoTurnFirst: 2.5
     chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_060.exp.json
       id: 102400
+  - chara:
+    - id: 102400
+      textHomeStatus: Clear
   group_45:
   - autoTurnFirst: 2.5
     chara:
@@ -1191,21 +1224,25 @@ story:
       motion: 100
       pos: 1
       voice: vo_game_0502_09
+      textHome: Ahh!!!
   - autoTurnFirst: 5.2
     chara:
     - id: 102400
       motion: 0
+      textHome: '...What happened?@Juri the Great passed out...?'
   - autoTurnFirst: 5.3
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
       motion: 1
+      textHome: I was eating the lunch@that was here, and then...
   - autoTurnFirst: 2.6
     chara:
     - eyeClose: 1
       id: 102400
       motion: 300
+      textHome: And then...
   - autoTurnFirst: 0.1
     chara:
     - eyeClose: 0
@@ -1216,6 +1253,10 @@ story:
       face: mtn_ex_050.exp.json
       id: 102400
       motion: 400
+      textHome: Don't tell me@I got food poisoning?!
+  - chara:
+    - id: 102400
+      textHomeStatus: Clear
   group_46:
   - autoTurnFirst: 3
     chara:
@@ -1226,6 +1267,8 @@ story:
       motion: 1
       pos: 1
       voice: vo_game_0502_10
+      textHome: I told the Horse to go@get the manga I liked,@and she did exactly
+        that.
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
@@ -1237,12 +1280,17 @@ story:
       face: mtn_ex_010.exp.json
       id: 102400
       motion: 0
+      textHome: Well, Juri the Great@is gonna go into@reading mode now.
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102400
       motion: 100
+      textHome: Feel free to look around@for anything you want.
+  - chara:
+    - id: 102400
+      textHomeStatus: Clear
   group_47:
   - autoTurnFirst: 2
     chara:
@@ -1253,25 +1301,33 @@ story:
       motion: 200
       pos: 1
       voice: vo_game_0502_11
+      textHome: I dunno about you,
   - autoTurnFirst: 2.5
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
       id: 102400
+      textHome: but at night,@I get an adrenaline rush,
   - autoTurnFirst: 2.8
     chara:
     - id: 102400
       motion: 100
+      textHome: and my energy explodes!
   - autoTurnFirst: 2.2
     chara:
     - cheek: 1
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 400
+      textHome: C'mon, let's go already!
   - autoTurnFirst: 2
     chara:
     - id: 102400
       motion: 1
+      textHome: Don't you wanna@defeat the Witch?!
+  - chara:
+    - id: 102400
+      textHomeStatus: Clear
   group_48:
   - autoTurnFirst: 1.8
     chara:
@@ -1282,6 +1338,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_game_0502_12
+      textHome: Juri the Great can@handle doing this much@customer service.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
@@ -1294,12 +1351,17 @@ story:
       face: mtn_ex_010.exp.json
       id: 102400
       motion: 1
+      textHome: I'm gonna do way better@than Sis and Lil' Sis.
   - autoTurnFirst: 3
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102400
       motion: 200
+      textHome: I'm great at catching@shoplifters, too.
+  - chara:
+    - id: 102400
+      textHomeStatus: Clear
   group_5:
   - autoTurnFirst: 2.3
     chara:

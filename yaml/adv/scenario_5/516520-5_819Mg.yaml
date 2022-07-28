@@ -112,7 +112,7 @@ story:
       lipSynch: 0
       motion: 0
     nameLeft: Oriko
-    textLeft: (Isn't that the right, Father...)
+    textLeft: (Isn't that right, Father...)
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -248,24 +248,25 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story12
     nameNarration: ""
-    narration: '[textBlack:Yurako has died.]@[textBlack:Oriko has changed.]'
+    narration: '[textBlack:After Yurako passed away.]@[textBlack:Oriko underwent a
+      change.]'
     narrationCoverOpacity: 0
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 180
     turnChangeOut: fadeOut
-  - narration: '[textBlack:My crybaby of a child.]@[textBlack:Never cries at all anymore.
-      ]'
-  - narration: '[textBlack:She can handle everything with such ease.]'
-  - narration: '[textBlack:When you''re at school,]@[textBlack:When you''re around
-      others,]@[textBlack:You''re always above everyone else.]'
-  - narration: '[textBlack:It''s hard to see you as my little girl,]@[textBlack:you''re
-      just "too good."]'
-  - narration: '[textBlack:It scares me,]@[textBlack:I know.]'
-  - narration: '[textBlack:Highly skilled,]@[textBlack:Popular with people,]@[textBlack:And
-      a cold smile.]'
-  - narration: '[textBlack:I''m so tired,]@[textBlack:I want to run away.]'
-  - narration: '[textBlack:I want to flee this world.]'
+  - narration: '[textBlack:She Used to be a crybaby,]@[textBlack:but she stopped crying
+      altogether.]'
+  - narration: '[textBlack:and succeeded at everything she tried.]'
+  - narration: '[textBlack:After her graduation]@[textBlack:She was the one her classmates
+      aspired to be,]@[textBlack:and she rose to stand above all others.]'
+  - narration: '[textBlack:She was such a success, that there were times,]@[textBlack:I''d
+      begin to doubt she''s my own little girl.]'
+  - narration: '[textBlack:She frightened me]@[textBlack:I can see it myself.]'
+  - narration: '[textBlack:She is talented,]@[textBlack:She is someone who inspires
+      admiration.]@[textBlack:But behind her smile lurks a coldness.]'
+  - narration: '[textBlack:I''m just so exhuasted,]@[textBlack:I want to escape.]'
+  - narration: '[textBlack:I need to escape from this life.]'
   - autoTurnLast: 0.5
     bg: bg_adv_31131.jpg
     chara:
@@ -310,7 +311,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: blackFrame
   - nameNarration: ""
-    narration: '[textBlack:I want to flee this world.]'
+    narration: '[textBlack:I need to escape from this life.]'
     narrationCoverOpacity: 0
     narrationEffect: in
     narrationHAlignment: left
@@ -325,7 +326,7 @@ story:
   - autoTurnLast: 0.5
     flashEffect: flashWhite2
   - nameNarration: ""
-    narration: I just need to be able to run away before [textRed:Oriko]...
+    narration: From  [textRed:Oriko]...
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 180

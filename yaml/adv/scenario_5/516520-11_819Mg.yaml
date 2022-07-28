@@ -44,7 +44,7 @@ story:
       lipSynch: 0
     nameRight: Kanagi
     textRight: '........[wait:1.0][chara:101600:cheek_0][chara:101600:face_mtn_ex_020.exp3.json][chara:101600:lipSynch_1]Yes,
-      Nothing to worry about...'
+      nothing to worry about...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
