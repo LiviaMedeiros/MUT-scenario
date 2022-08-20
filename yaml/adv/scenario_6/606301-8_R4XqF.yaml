@@ -320,7 +320,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 300301
       motion: 300
-    textRight: Well, there's no one other than me that can get the South together.
+    textRight: Well, there's no one other than me @that can get the South together.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -334,7 +334,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 300301
       motion: 200
-    textRight: Yeah, I'm prepared to accept any responsibilities @if this happens.
+    textRight: Yeah, I'm prepared to accept any @responsibilities if this works.
   - chara:
     - id: 300301
     textRight: It's like chemistry.
@@ -399,10 +399,10 @@ story:
       motion: 200
       pos: 2
     nameRight: Karin
-    textRight: B-But I don't know where she is!
+    textRight: B-but I don't know where she is!
   - chara:
     - id: 101201
-    textRight: Alina-senpai did something wrong, and now @she's gone.
+    textRight: Alina-senpai did something wrong, @and now she's gone.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -456,7 +456,7 @@ story:
     textRight: Geez, you're late!
   - chara:
     - id: 100601
-    textRight: I was getting things ready with Tsukuyo @and Tsukasa.
+    textRight: I was getting things ready @with Tsukuyo and Tsukasa.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

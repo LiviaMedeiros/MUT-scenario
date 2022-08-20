@@ -90,7 +90,7 @@ story:
     narrationBg: ""
     narrationEffect: in
     surround: stop
-  - narration: ―Iroha―@We shared with everyone what we knew about@Witches, Kyubey,@and
+  - narration: ―Iroha―@We shared with everyone what we knew@about Witches, Kyubey,@and
       the Universe.
   - narration: ―Iroha―@It was confusing at times.
   - narration: ―Iroha―@Still, it's nice to know that we've made it to this point@where
@@ -126,9 +126,9 @@ story:
     narration: ―Yachiyo―@It started with the worries and goals of individuals.
     narrationBg: ""
     narrationEffect: in
-  - narration: ―Yachiyo―@Which led to battling the [textBlue:Uwasa],@which make 'rumor'
+  - narration: ―Yachiyo―@Which led to battling the [textBlue:Uwasa],@which make rumors
       into reality...
-  - narration: ―Yachiyo―@Which led to battling the Wings of the Magius,@who strive
+  - narration: ―Yachiyo―@Which led to battling the Wings of the Magius,@who strove
       to liberate Magical Girls...
   - narration: ―Yachiyo―@And ultimately to everyone joining forces@to battle a colossal
       Witch.
@@ -166,7 +166,7 @@ story:
     - eyeClose: 0
       id: 100201
       motion: 200
-    textRight: Our goal is the same as the goal of those who were once our enemy,
+    textRight: Our goal is the same as the goal of those who@were once our enemy,
       the Wings of the Magius.
   - chara:
     - id: 100201
@@ -174,7 +174,7 @@ story:
   - chara:
     - id: 100101
       motion: 301
-    textLeft: It's about freeing Magical Girls from the curse of becoming a Witch,
+    textLeft: It's about freeing Magical Girls from @the curse of becoming a Witch,
   - chara:
     - id: 100101
     textLeft: and to "coexist with Kyubey",
@@ -196,10 +196,10 @@ story:
       face: mtn_ex_030.exp.json
       id: 100201
       motion: 300
-    textRight: It might be just a dream, but
+    textRight: It might be just a dream, but...
   - chara:
     - id: 100201
-    textRight: if we are to reject the Magius's methods@it's our responsibility to
+    textRight: If we are to reject the Magius's methods,@it's our responsibility to
       find another way.
   - autoTurnLast: 0.2
     chara:
@@ -252,7 +252,7 @@ story:
       pos: 0
     nameNarration: Yachiyo
     narration: ―Yachiyo―@There are people who couldn't@come because of inconvenience,@and
-      people who didn't participate@of their own volition.
+      people who chose not to participate@of their own volition.
     narrationBg: ""
     narrationEffect: in
   - narration: ―Yachiyo―@But everyone agreed to help each other,@each of the Magical
@@ -428,7 +428,7 @@ story:
   - chara:
     - id: 100201
       motion: 201
-    textRight: Starting today, we'll work together under a @new name.
+    textRight: Starting today, we'll work together @under a new name.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

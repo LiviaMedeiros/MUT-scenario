@@ -20,7 +20,7 @@ story:
     - id: 100101
       motion: 301
     nameLeft: Iroha
-    textLeft: '*Pant* *Pant* Phew.'
+    textLeft: '*Pant* *Pant*@Phew.'
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 1
@@ -136,7 +136,7 @@ story:
   - chara:
     - id: 100301
       motion: 300
-    textLeft: It'll be a little lonely, but there's nothing we can do about it.
+    textLeft: It'll be a little lonely, but there's@nothing we can do about it.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -209,7 +209,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Which one are you aiming for with the chocolates@this time?
+    textLeft: Which one are you aiming for@with the chocolates this time?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -241,7 +241,7 @@ story:
     bgm: bgm03_story02
     nameNarration: Iroha
     narration: ―Iroha―@My first encounter with Felicia@was back when I was caught
-      up in a [textBlue:rumor].
+      up in a [textBlue:Rumor].
     narrationEffect: in
     turnChangeOut: fadeOut
   - chara:
@@ -261,8 +261,8 @@ story:
     - id: 100101
       motion: 100
     nameNarration: Iroha
-    narration: ―Iroha―@Since we started living together,@I've changed little by little,@and
-      now I'm able to care for people.
+    narration: ―Iroha―@Since we started living together,@she's changed little by little,@and
+      now she's more considerate of others.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

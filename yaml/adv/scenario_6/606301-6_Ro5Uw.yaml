@@ -61,7 +61,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Momoko
-    textRight: We got here a little early so we stopped by the retro arcade.
+    textRight: We got here a little early so@we stopped by the retro arcade.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -84,7 +84,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 101001
       motion: 300
-    textRight: I was able to get it but...
+    textRight: We did get something, but...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -105,7 +105,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Rena
-    textLeft: Like I said, it's all thanks to MY failed pulls moving it into position!
+    textLeft: Like I said, it's all thanks to MY failed@pulls moving it into position!
   - chara:
     - id: 101101
       motion: 200
@@ -282,7 +282,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Ui
-    textLeft: You are gonna be so surprised!
+    textLeft: You'll be so surprised!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -290,7 +290,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Rena
-    textRight: Wh-- wait, don't tell me.
+    textRight: Wh― Wait, don't tell me.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -302,7 +302,7 @@ story:
       pos: 0
     nameLeft: Touka
     textLeft: Oh, we just happened to find a way to make it @possible after all. Reality,
-      in fact -- present tense!
+      in fact― present tense!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -310,7 +310,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Iroha
-    textRight: Oh my god, really?!
+    textRight: Oh my goodness, really?!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -365,14 +365,14 @@ story:
       motion: 1
       pos: 2
     nameRight: Kaede
-    textRight: I can't even imagine what connecting to another universe would be like...
+    textRight: I can't even imagine what connecting to@another universe would be like...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100770
       motion: 0
     nameLeft: Touka
-    textLeft: Well, you might just find out, and sooner than you think...
+    textLeft: Well, you might just find out,@and sooner than you think...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -410,8 +410,8 @@ story:
     nameNarration: Yachiyo
     narration: ―Yachiyo―@I was also an old friend with the three of them.@I've run
       into my fair share of troubles@and they've always helped me.
-  - narration: ―Yachiyo―@Even though they are a separate team,@the bonds we have with
-      them make it seem@like they are part of ours.
+  - narration: ―Yachiyo―@Even though they're a separate team,@the bonds we have with
+      them make it seem@like they're part of ours.
   - chara:
     - id: 100101
       motion: 100

@@ -142,7 +142,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_campaign_1063/vo_full_606301-10-14
       voiceFullStop: fullvoice/section_campaign_1063/vo_full_606301-10-13
-    textLeft: I wonder if the person who wields this mysterious power is blessing
+    textLeft: I wonder if the person who wields this mysterious @power is blessing
       us as a result.
   - chara:
     - cheek: 0
@@ -172,7 +172,7 @@ story:
     - eyeClose: 0
       id: 100101
       motion: 0
-    textRight: Then let's declare it again,@with its blessing.
+    textRight: Then let's declare it again,@with this blessing.
   - chara:
     - id: 100101
       voiceFull: fullvoice/section_campaign_1063/vo_full_606301-10-19
@@ -182,15 +182,15 @@ story:
     - id: 100201
       voiceFull: fullvoice/section_campaign_1063/vo_full_606301-10-20
       voiceFullStop: fullvoice/section_campaign_1063/vo_full_606301-10-19
-    textRight: We, the Magical Girls of Kamihama have joined here, holding hands.
+    textRight: We, the Magical Girls of Kamihama @have joined here, holding hands.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 100101
       voiceFull: fullvoice/section_campaign_1063/vo_full_606301-10-21
       voiceFullStop: fullvoice/section_campaign_1063/vo_full_606301-10-20
-    textLeft: We'll reach out to each other when we are in trouble,@support each other
-      in hard times.
+    textLeft: We'll reach out to each other when we are in @trouble, support each
+      other in hard times.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

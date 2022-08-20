@@ -156,7 +156,7 @@ story:
     - eyeClose: 1
       id: 300901
       motion: 300
-    textLeft: Haa...@Nobody really cares about your hairstyle senpai...
+    textLeft: Haa...@Nobody really cares about your hairstyle, senpai...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -198,7 +198,7 @@ story:
       id: 301601
       motion: 100
     nameCenter: Kokoro
-    textCenter: That's no good Masara.
+    textCenter: That's no good, Masara.
   - chara:
     - id: 301601
     textCenter: Everyone's going to be meeting today.
@@ -322,7 +322,7 @@ story:
   - chara:
     - id: 100201
       motion: 0
-    textRight: I'm going to check that the 2nd floor is locked up.
+    textRight: I'm going to check that the second floor is locked up.
   - chara:
     - id: 100201
       motion: 100
@@ -373,7 +373,7 @@ story:
       id: 100201
       motion: 200
     nameNarration: Yachiyo
-    narration: ―Yachiyo―@Investigated all sorts of rumors.
+    narration: ―Yachiyo―@Investigating all sorts of rumors.
   - nameNarration: Iroha
     narration: ―Iroha―@Fighting with the Wings of the Magius.
   - chara:
@@ -406,7 +406,7 @@ story:
       id: 100201
       motion: 300
     nameNarration: Yachiyo
-    narration: ―Yachiyo―@That story of mine... well, it's fine now I suppose.
+    narration: ―Yachiyo―@That story about me...@well, it's fine now I suppose.
   - chara:
     - cheek: 0
       face: mtn_ex_014.exp.json
@@ -419,7 +419,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 100101
     nameNarration: Iroha
-    narration: ―Iroha―@*Chuckle* you're right.
+    narration: ―Iroha―@*Chuckle*@You're right.
   - autoTurnLast: 2
     narrationEffect: out
     turnChangeIn: whiteIn

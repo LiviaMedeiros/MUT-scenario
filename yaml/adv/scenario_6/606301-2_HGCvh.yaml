@@ -45,10 +45,10 @@ story:
       face: mtn_ex_030.exp.json
       id: 100101
       motion: 200
-    textLeft: 'Kanagi is gathering up those from the east. '
+    textLeft: 'Kanagi is gathering up those from the East. '
   - chara:
     - id: 100101
-    textLeft: Hinano's taken charge of the south.
+    textLeft: Hinano's taken charge of the South.
   - chara:
     - id: 100201
       motion: 200
@@ -206,7 +206,7 @@ story:
     bgm: bgm03_story02
     nameNarration: Iroha
     narration: ―Iroha―@I first met Tsuruno@while searching for Ui and investigating
-      Uwasas.@And because of that,@I was able to form a connection with Yachiyo.
+      Uwasa.@And because of that,@I was able to form a connection with Yachiyo.
     narrationEffect: in
     turnChangeOut: fadeOut
   - chara:
@@ -234,7 +234,7 @@ story:
       id: 100101
       motion: 200
     narration: ―Iroha―@And after that,@when we learned about Tsuruno's true feelings@through
-      battling Uwasas,@our bonds grew even stronger.
+      battling Uwasa,@our bonds grew even stronger.
   - chara:
     - id: 100201
       motion: 0

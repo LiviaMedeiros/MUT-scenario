@@ -46,7 +46,7 @@ story:
     textRight: As expected, everyone's gathering here.
   - chara:
     - id: 101701
-    textRight: This Coordinator decided to take a break today and @came to visit Kanagi.
+    textRight: This Coordinator decided to take a break @today and came to visit Kanagi.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -70,7 +70,7 @@ story:
       motion: 301
       pos: 0
     nameLeft: Yachiyo
-    textLeft: Yes, you must be very busy with your work at the @maid café.
+    textLeft: Yes, you must be very busy with @your work at the maid cafe.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -79,7 +79,7 @@ story:
     textRight: Don't worry about it.
   - chara:
     - id: 101601
-    textRight: I'll be joining you again since I'm in charge of the east.
+    textRight: I'll be joining you again since @I'm in charge of the East.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -97,11 +97,11 @@ story:
   - chara:
     - id: 101601
       motion: 200
-    textRight: Hmm, if Iroha's little sister is a good girl too, @then I hope you
+    textRight: Hmm, if Tamaki's little sister is a good girl too, @then I hope you
       can come and see me.
   - chara:
     - id: 101601
-    textRight: As my master, I will treat you with the utmost @respect.
+    textRight: As my master, I will treat you @with the utmost  respect.
   - bgm: stop
     chara:
     - cheek: 0
@@ -110,7 +110,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Tsuruno
-    textLeft: By the way, I have something to ask you Mitama.
+    textLeft: By the way, I have something to ask you, Mitama.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -128,7 +128,7 @@ story:
   - chara:
     - id: 100301
       motion: 100
-    textLeft: Is it true that Mirrors can be used to connect to @other universes?
+    textLeft: Is it true that Mirrors can be used @to connect to other universes?
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -205,7 +205,7 @@ story:
     textRight: Yup yup.
   - chara:
     - id: 100770
-    textRight: I've also thought of a way to stop the experiment if @it goes wrong!
+    textRight: I also came up with a way to stop the @experiment if it goes wrong!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -218,7 +218,7 @@ story:
       id: 100201
       motion: 0
       pos: 0
-    textLeft: Even geniuses lose their footing with the unknown.
+    textLeft: Even geniuses lose their footing @when it comes to the unknown.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -245,11 +245,11 @@ story:
       motion: 300
       pos: 2
     nameRight: Mitama
-    textRight: At the very least, it's certain that Mirrors has become more complicated
+    textRight: At the very least, it's certain that Mirrors has @become more complicated
       and aberrant,
   - chara:
     - id: 101701
-    textRight: and it has begun creating entrances to other dimensions.
+    textRight: and it has begun creating entrances @to other dimensions.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -287,8 +287,8 @@ story:
       id: 100201
       motion: 200
     nameNarration: Yachiyo
-    narration: ―Yachiyo―@Back then, it was me and Mifuyu in the west,@in an uphill
-      battle against Kanagi of the east.@It's a miracle that we can work together
+    narration: ―Yachiyo―@Back then, it was me and Mifuyu in the West,@in an uphill
+      battle against Kanagi of the East.@It's a miracle that we can work together
       like this now.
   - nameNarration: Iroha
     narration: ―Iroha―@Also, Mitama has been strengthening@my magical power since
@@ -318,7 +318,7 @@ story:
   - chara:
     - id: 100101
       motion: 100
-    narration: ―Iroha―@One person, two people, three people@little by little, we'll
+    narration: ―Iroha―@One person, two people, three people.@Little by little, we'll
       join hands to form a circle,@and move forward together.
   - narration: ―Iroha―@Starting today...
   - autoTurnLast: 2
