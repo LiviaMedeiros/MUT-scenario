@@ -46,7 +46,7 @@ story:
     nameCenter: Oriko
     textCenter: '......'
   - nameNarration: ""
-    narration: Maybe...
+    narration: '*Glance*...'
     narrationEffect: in
   - autoTurnLast: 0.2
     chara:
@@ -340,7 +340,7 @@ story:
       motion: 1
       pos: 1
     nameCenter: Oriko
-    textCenter: （Let's go home... @Home...)
+    textCenter: (Let's go home... @Home...)
   - chara:
     - id: 400101
       lipSynch: 0

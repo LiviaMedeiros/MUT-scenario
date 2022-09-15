@@ -306,7 +306,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: blackFrame
   - nameNarration: ""
-    narration: I need to escape from this life...
+    narration: '[textBlack:I need to escape from this life...]'
     narrationCoverOpacity: 0
     narrationEffect: in
     narrationHAlignment: left
@@ -321,7 +321,7 @@ story:
   - autoTurnLast: 0.5
     flashEffect: flashWhite2
   - nameNarration: ""
-    narration: From Oriko.
+    narration: '[textRed:From Oriko].'
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 180
@@ -348,7 +348,7 @@ story:
       motion: 400
       tear: 1
     nameLeft: Oriko
-    textLeft: 'AAAAAAAH!! @AAAAAAAH!!    '
+    textLeft: AAAAAAAH!! @AAAAAAAH!!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0

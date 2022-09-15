@@ -10,7 +10,7 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: This is like when I asked Kyubey to grant my wish.
-  - narration: But... @I couldn't agree to fathers request.
+  - narration: But... @I couldn't agree to father's request.
   - narration: Maybe it was because I had already sealed my heart, @even though I
       wouldn't admit it.
   - autoTurnLast: 2
@@ -298,7 +298,7 @@ story:
     - id: 400102
       motion: 300
     nameLeft: Oriko
-    textLeft: '... All for salvation...'
+    textLeft: '...All for salvation...'
   - chara:
     - id: 400102
     nameLeft: Oriko

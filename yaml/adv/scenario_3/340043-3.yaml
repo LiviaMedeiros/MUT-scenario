@@ -21,7 +21,7 @@ story:
     chara:
     - id: 400103
     nameRight: ???
-    textRight: You can stay here with your father
+    textRight: You can stay here with your father.
     turnChangeOut: fadeOut
   - chara:
     - id: 400103
@@ -116,7 +116,7 @@ story:
       me.
   - narration: The day that I learned my father had betrayed me, @I wanted to disappear.
       @She became my shackles and bound me with love.
-  - narration: It was Kirka.
+  - narration: It was Kirika.
   - narration: My "purpose in life" that I received from that wish @was different
       from the one I had expected.
   - narration: So my wish is...
@@ -285,7 +285,7 @@ story:
     - eyeClose: 0
       id: 400400
     nameLeft: Oriko
-    textLeft: '... Goodbye, father.'
+    textLeft: '...Goodbye, Father.'
   - autoTurnLast: 0.1
     textClear: 1
   - autoTurnLast: 1.5
