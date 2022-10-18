@@ -54,7 +54,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-5
     nameRight: Mikage
-    textRight: Should Mii go home?
+    textRight: Do you want Mii to go home?
   - chara:
     - id: 103701
       motion: 200
@@ -84,7 +84,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-9
     nameRight: Mikage
-    textRight: No, Mii is fine, but still worried about Nayutan...
+    textRight: No, I'm fine, but I'm still worried about Nayutan...
   - chara:
     - id: 103701
       motion: 300
@@ -96,15 +96,15 @@ story:
       id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-11
     nameLeft: Nayuta
-    textLeft: When I started thinking about Mama again,@I kept thinking I want to
-      live with her again...
+    textLeft: When I started thinking about Mama again,@I kept thinking I'd like us
+      to live together again...
   - chara:
     - eyeClose: 0
       id: 103701
       motion: 1
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-12
     nameLeft: Nayuta
-    textLeft: When I told her that, she rejected me immediately...
+    textLeft: But when I told her that,@she rejected me immediately...
   - chara:
     - id: 103801
       motion: 300
@@ -120,8 +120,8 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-14
     nameRight: Mikage
-    textRight: But, we still haven't learned everything,@so we have to keep working
-      hard to find Papa!
+    textRight: But, we still haven't learned everything, so we@have to keep working
+      hard to find your papa!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -135,14 +135,14 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-16
     nameRight: Mikage
-    textRight: Mii's been looking for Nayutan's papa with Sis.
+    textRight: Mii and Sis have been looking@for your papa together.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 103801
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-17
     nameRight: Mikage
-    textRight: Mii is gonna find your papa for you, Nayutan.
+    textRight: You can leave it to Mii to find your papa, Nayutan.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -151,8 +151,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-18
     nameRight: Mikage
-    textRight: Otherwise Nayutan will never be able to live with@the three of you
-      together again.
+    textRight: Otherwise the three of you will never@be able to live together again.
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp3.json
@@ -171,8 +170,7 @@ story:
       voiceFull: fullvoice/section_102505/vo_full_102505-11-20
     enableSkipAutoTurn: 1
     nameLeft: Nayuta
-    textLeft: Thank you so much.[chara:103701:lipSynch_0][wait:0.8][chara:103701:cheek_1][chara:103701:face_mtn_ex_011.exp.json][chara:103701:lipSynch_1]@You're
-      such a good girl...
+    textLeft: Thank you so much.@You're such a good girl...
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp3.json
@@ -186,7 +184,7 @@ story:
       voiceFullStop: fullvoice/section_102505/vo_full_102505-11-20
     enableSkipAutoTurn: 0
     nameRight: Mikage
-    textRight: Mii's a good girl!?
+    textRight: I'm a good girl?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -199,19 +197,19 @@ story:
       id: 103701
       motion: 0
     nameRight: Rabi
-    textRight: For now, we should be happy that you've taken@a step forward.
+    textRight: For now, we should be happy that@you've taken a step forward.
   - chara:
     - id: 103301
       motion: 1
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-23
     nameRight: Rabi
-    textRight: As for your mother, while she may be a big problem,
+    textRight: As for your mother,@while she may be a weighty issue,
   - chara:
     - id: 103301
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-24
     nameRight: Rabi
-    textRight: the fact that you've gained a problem means@you're one step closer
-      to solving this.
+    textRight: the fact that you've gained such an issue@means you're one step closer
+      to a solution.
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp3.json
@@ -229,13 +227,13 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-26
     nameRight: Rabi
-    textRight: '...Lady Nayuta, you''re vulnerable when it comes to being comforted...'
+    textRight: '...Lady Nayuta, you''re so vulnerable when@it comes to being comforted...'
   - chara:
     - id: 103301
       motion: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-27
     nameRight: Rabi
-    textRight: Please don't let any strange people deceive you,@okay?
+    textRight: Please don't let any strange@people deceive you, okay?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -253,7 +251,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-29
     nameRight: Rabi
-    textRight: It's going to be difficult sorting through this data@right now,
+    textRight: It's going to be difficult sorting@through this data right now,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -274,7 +272,7 @@ story:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-32
     nameLeft: Nayuta
-    textLeft: Mikage,@would you like to have dinner before going home?
+    textLeft: Mikage, would you like to@have dinner before going home?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -301,7 +299,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-35
     nameRight: Mikage
-    textRight: Then Mii is gonna give you lots of encouragement@from now on!
+    textRight: Then I'll have to give you lots of@encouragement from now on!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -335,7 +333,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-39
     nameLeft: Nayuta
-    textLeft: …………
+    textLeft: '...'
   - bgm: stop
     chara:
     - cheek: 0
@@ -343,7 +341,7 @@ story:
       id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-11-40
     nameLeft: Nayuta
-    textLeft: '...Huh? It can''t be.'
+    textLeft: '...Huh? That can''t be.'
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json

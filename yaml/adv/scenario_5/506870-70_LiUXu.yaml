@@ -25,7 +25,7 @@ story:
   - chara:
     - id: 6107
       name: sprite_0
-    textLeft: '[flashEffect:flashRed2][surround:1026A02][chara:6107:effect_shake][bgEffect:shakeLarge]佛當舌斯!?'
+    textLeft: '[flashEffect:flashRed2][surround:1026A02][chara:6107:effect_shake][bgEffect:shakeLarge]佛當舌斯?!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -42,7 +42,7 @@ story:
   - chara:
     - id: 102500
     nameCenter: Shizuka
-    textCenter: She's succeded in binding it...
+    textCenter: She's succeeded in binding it...
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -75,7 +75,7 @@ story:
     - id: 6107
       name: sprite_0
     textBg: shout
-    textLeft: '[flashEffect:flashRed2][surround:1012A03][chara:6107:effect_shake][bgEffect:shakeLarge]願合者愍!?!?'
+    textLeft: '[flashEffect:flashRed2][surround:1012A03][chara:6107:effect_shake][bgEffect:shakeLarge]願合者愍?!?!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -121,7 +121,7 @@ story:
       name: sprite_0
     flashEffect: flashRed2
     nameCenter: ""
-    textCenter: 得十佛下!?!?
+    textCenter: 得十佛下?!?!
     turnChangeOut: whiteOut
   - autoTurnLast: 0.5
     bg: bg_adv_50051.jpg
@@ -146,7 +146,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 801800
     textBg: shout
-    textRight: What, can't thou move!? Art thou no more of a Devil than that!?
+    textRight: What, can't thou move?! Art thou no more of a Devil than that?!
   - chara:
     - id: 801800
     textBg: shout
@@ -181,7 +181,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Shizuka
-    textRight: '............'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

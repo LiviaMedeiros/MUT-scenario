@@ -17,11 +17,10 @@ story:
     narrationHAlignment: left
     narrationPosX: 150
     progressNarration: '[textBlack:Through the death of a single Magical Girl...@Through
-      the death of Ryou,@the Magical Girls lost their final chance@at joining hands
-      together...]'
+      Ryo''s death,@the Magical Girls lost their final chance@at banding together...]'
     turnChangeOut: fadeOut
     voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-1
-  - progressNarration: '[textBlack:This battle had been planned by Kyubey,@and any
+  - progressNarration: '[textBlack:This battle had been arranged by Kyubey,@and any
       Magical Girl involved@should have suspected that he was@pulling the strings.]'
     voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-2
   - progressNarration: '[textBlack:And yet,@the feelings built up in each of them@prevented
@@ -31,7 +30,7 @@ story:
       to take action@to stop the fighting.]'
     voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-4
   - progressNarration: '[textBlack:However, in order to achieve this,@we would need
-      the help of the folklorist@"Tasuke Satomi" to make our story@more convincing.]'
+      the help of the folklorist@Tasuke Satomi to make our story@more convincing.]'
     voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-5
   - progressNarration: '[textBlack:Thus, while I reflected on the significance of@my
       encounter with his daughter Nayuta Satomi,@that daughter herself had been@gathering
@@ -61,33 +60,33 @@ story:
     - id: 103301
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-7
     nameRight: Rabi
-    textRight: So how did your return back to your parents'@home go?
+    textRight: So how did your visit back to@your parents' old house go?
     turnChangeOut: fadeOut
   - chara:
     - id: 103701
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-8
     nameLeft: Nayuta
-    textLeft: The security camera had clearly shown Papa...
+    textLeft: The security camera captured Papa's image clearly...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 103301
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-9
     nameRight: Rabi
-    textRight: Then the message came from home,@just as Lady Touka had informed us...
+    textRight: Then the message came from home,@just as Lady Touka informed us...
   - chara:
     - id: 103701
       motion: 1
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-10
     nameLeft: Nayuta
-    textLeft: Yes, it appears it was sent there...
+    textLeft: Yes, it appears it was sent from there...
   - chara:
     - id: 103301
       motion: 300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-11
     nameRight: Rabi
-    textRight: '...Suppose he is intentionally hiding@from Lady Nayuta,'
+    textRight: '...Supposing he is intentionally hiding@from you, Lady Nayuta,'
   - chara:
     - id: 103301
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-12
@@ -107,7 +106,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-14
     nameRight: Rabi
-    textRight: '*Sigh*...So it''s like this...@You sound like a wife that is angry
+    textRight: '*Sigh* ...So it''s like this... You sound like@a wife having a fit
       about an affair.'
   - chara:
     - cheek: 0
@@ -130,13 +129,13 @@ story:
     - cheek: 0
       face: mtn_ex_051.exp3.json
       id: 103301
-    nameCenter: Mikage's voice
+    nameCenter: Mikage's Voice
     textBg: shout
-    textCenter: NAAAAYUUUUTAAAAN!
+    textCenter: NAAAA~YUUUU~TAAAAN!
     voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-17
-  - nameCenter: Mikage's voice
+  - nameCenter: Mikage's Voice
     textBg: shout
-    textCenter: RAAAABIIIITAAAAN!
+    textCenter: RAAAA~BIIII~TAAAAN!
     voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-18
   - chara:
     - cheek: 0
@@ -153,13 +152,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-20
     nameLeft: Nayuta
-    textLeft: Rabi,@you cannot help me search for Papa, can you?
+    textLeft: Rabi, you can't help me@search for Papa today, can you?
   - chara:
     - id: 103301
       motion: 1
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-21
     nameRight: Rabi
-    textRight: Yes, I'm terribly sorry,@but I have to return to the agency.
+    textRight: That's right. I'm terribly sorry,@but I have to return to the agency.
   - chara:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-22
@@ -223,7 +222,7 @@ story:
       id: 103801
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-28
     nameRight: Mikage
-    textRight: But, they're just simple ones made from@100-yen items, okay?
+    textRight: But, they're just simple ones made@from 100-yen items, okay?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -248,7 +247,7 @@ story:
       id: 103801
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-31
     nameRight: Mikage
-    textRight: '*Giggle* Mii made it because she likes it.'
+    textRight: '*Giggle*@It was made by Mii because I like it.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -270,7 +269,7 @@ story:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-34
     nameLeft: Nayuta
-    textLeft: so I'm going to give the footage to a specialist for analysis.
+    textLeft: so I'm going to give the footage@to a specialist for analysis.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -286,7 +285,7 @@ story:
       id: 103801
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-36
     nameRight: Mikage
-    textRight: I thought about talking to the nice painter foreigner again.
+    textRight: I thought we could talk to that@nice foreign painter lady again.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -295,7 +294,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-37
     nameLeft: Nayuta
-    textLeft: The nice painter foreigner?
+    textLeft: The nice foreign painter lady?
   - autoTurnLast: 0.5
     bg: bg_adv_19311.jpg
     chara:
@@ -311,13 +310,13 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-38
     nameCenter: Alina
-    textCenter: If you get lost, just go back to the entrance.
+    textCenter: If you're lost, you can always@go back to the entrance.
     turnChangeOut: fadeOut
   - chara:
     - id: 100802
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-39
     nameCenter: Alina
-    textCenter: Because that's what Alina is doing right now.
+    textCenter: That is what I, Alina, am doing right now.
   - autoTurnLast: 0.5
     bg: bg_adv_11021.jpg
     chara:
@@ -361,15 +360,15 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-43
     nameLeft: Nayuta
-    textLeft: Besides, I have mixed feelings about going back to Uncle's place...
-  - nameCenter: Tsukasa's voice
+    textLeft: Besides, I have mixed feelings about@going back to Uncle's place...
+  - nameCenter: Tsukasa's Voice
     textCenter: '*Pant*...*huff*...'
     voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-44
-  - nameCenter: Tsukuyo's voice
-    textCenter: Mifuyu,@do you really intend to carry all of this by foot...!?
+  - nameCenter: Tsukuyo's Voice
+    textCenter: Mifuyu, do we really have@to carry all of this on foot...?!
     voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-45
-  - nameCenter: Tsukasa's voice
-    textCenter: Riiight...
+  - nameCenter: Tsukasa's Voice
+    textCenter: Riiight...?
     voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-46
   - chara:
     - cheek: 0
@@ -396,7 +395,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-49
     nameLeft: Nayuta
-    textLeft: Who were they?
+    textLeft: Who are they?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -425,13 +424,13 @@ story:
     - id: 100601
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-51
     nameLeft: Mifuyu
-    textLeft: so we have no choice but to do the shopping.
+    textLeft: so we have no choice but to@do the shopping for them.
   - chara:
     - id: 101901
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-52
     nameRight: Tsukasa
-    textRight: What about online shopping!?
+    textRight: What about online shopping?!
   - chara:
     - eyeClose: 1
       id: 100601
@@ -446,7 +445,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-54
     nameLeft: Tsukuyo
-    textLeft: So that's why there's so many painting supplies...
+    textLeft: So that's why there are so many painting supplies...
   - chara:
     - id: 101901
       motion: 1
@@ -457,7 +456,8 @@ story:
     - id: 101801
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-56
     nameLeft: Tsukuyo
-    textLeft: Even after leaving the Wings of Magius,@we are still treated like slaves...
+    textLeft: Even after leaving the Wings of Magius,@we continue to be treated like
+      slaves...
   - chara:
     - id: 101901
       motion: 300
@@ -472,14 +472,14 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-58
     nameLeft: Mifuyu
-    textLeft: If that were true, I would have refused her...
+    textLeft: If that's all it was, I would have refused her...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 100601
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-59
     nameLeft: Mifuyu
-    textLeft: But she's our only lead on how to defeat@the Mirrors Witch...
+    textLeft: But she's our only lead on how@to defeat the Mirror Witch...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -503,7 +503,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Mikage
-    textRight: I remember her!@She's the big sis I was modeling with!
+    textRight: I remember her!@She's the cool lady I was modeling with!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -521,7 +521,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-62
     nameLeft: Nayuta
-    textLeft: But, I have other matters toー
+    textLeft: But, I have other matters to―
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -535,7 +535,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-64
     nameLeft: Nayuta
-    textLeft: Ugh, what is with you...
+    textLeft: Ugh, what is with you...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -550,7 +550,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-1-66
     nameLeft: Nayuta
-    textLeft: I-I understand...
+    textLeft: V-very well...
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

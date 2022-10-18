@@ -38,7 +38,7 @@ story:
       id: 102500
       lipSynch: 0
       motion: 200
-    textCenter: (And the part about how we become Devils-- @is that because it wants
+    textCenter: (And the part about how we become Devils― @is that because it wants
       to kill us in a nefarious manner...?)
   - chara:
     - id: 102500
@@ -56,7 +56,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102500
       lipSynch: 0
-    textCenter: '............'
+    textCenter: '...'
   - chara:
     - id: 102500
       lipSynch: 0
@@ -75,7 +75,7 @@ story:
     - eyeClose: 1
       id: 102500
       lipSynch: 0
-    textCenter: '............'
+    textCenter: '...'
   - chara:
     - cheek: 1
       eyeClose: 1
@@ -100,7 +100,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102500
       motion: 100
-    textCenter: So the same must be true of the others... @there's no way they could
+    textCenter: So the same must be true of the others...@there's no way they could
       be fake!
   - bgm: stop
     chara:
@@ -108,7 +108,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102500
       lipSynch: 0
-    textCenter: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]—!?'
+    textCenter: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]—?!'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

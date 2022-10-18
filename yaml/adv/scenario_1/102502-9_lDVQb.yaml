@@ -14,7 +14,7 @@ story:
       name: sprite_0
     nameCenter: ""
     textBg: shout
-    textCenter: ∵UWA＿￣aaAAA!!
+    textCenter: ∵WAGH＿￣aa―AAA!!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -30,7 +30,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-2
     nameCenter: Shizuka
-    textCenter: I wouldn't be the head of the clan@if I could be overpowered by something
+    textCenter: I wouldn't be the head of the clan if I@could be overpowered by something
       like this!
   - autoTurnLast: 1
     flashEffect: explosion
@@ -82,8 +82,7 @@ story:
       pos: 2
     enableSkipAutoTurn: 1
     nameLeft: Juri
-    textLeft: We're falling behind...![chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:motion_100][chara:102400:lipSynch_1][chara:304400:cheek_0][chara:304400:face_mtn_ex_050.exp.json:eyeClose_0]@Ranka,
-      pull yourself together!
+    textLeft: We're falling behind...!@Ranka, pull yourself together!
   - chara:
     - id: 102400
       motion: 100
@@ -105,7 +104,7 @@ story:
       pos: 1
     nameCenter: ""
     textBg: shout
-    textCenter: ∵Hee――uuuu￣＿！
+    textCenter: ∵Hee――uuuu￣＿!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -141,7 +140,7 @@ story:
       name: sprite_0
       pos: 0
     nameRight: Shizuka
-    textRight: '[flashEffect:flashWhite1]Heart Contact...Lock Eyes!'
+    textRight: '[flashEffect:flashWhite1]Heart Transmission...Gaze Locking!'
   - autoTurnLast: 0.5
     flashEffect: flashWhite1
   - autoTurnLast: 1
@@ -151,7 +150,7 @@ story:
       name: sprite_0
     flashEffect: explosion
     nameLeft: ""
-    textLeft: '!?'
+    textLeft: '...?!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -267,8 +266,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-17
     nameLeft: Ui
-    textLeft: Yeah, now the people of Tokime will get another@[textYellow:Kimochi]
-      stone!
+    textLeft: Yeah, now the Tokime will get@another [textYellow:Kimochi] Stone!
   - autoTurnLast: 0.2
     chara:
     - cheek: 0
@@ -302,7 +300,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-20
     nameLeft: Juri
-    textLeft: so Juri the Great is gonna pretend to spectate@just like last time.
+    textLeft: so Juri the Great is gonna pretend to@spectate just like last time.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -353,7 +351,7 @@ story:
       name: sprite_0
     nameLeft: ""
     narrationEffect: out
-    textLeft: '[flashEffect:flashRed2][surround:3023A05][bgEffect:shakeLarge][name:sprite_0:effect_shake]∵Wa＿＿!?'
+    textLeft: '[flashEffect:flashRed2][surround:3023A05][bgEffect:shakeLarge][name:sprite_0:effect_shake]∵WA＿aah―＿?!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -401,7 +399,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-29
     nameRight: Ranka
-    textRight: Okay. Everyone, don't be late.
+    textRight: Okay. Everyone, don't fall behind.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -429,14 +427,14 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-31
     nameLeft: Juri
-    textLeft: '[chara:102400:effect_emotion_surprise_0][se:7226_shock]!?'
+    textLeft: '[chara:102400:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 102400
       lipSynch: 1
       motion: 1
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-32
     nameLeft: Juri
-    textLeft: What, you guys didn't run on back to Takarazaki?
+    textLeft: Hold up, didn't you lot run off to Takarazaki?
   - chara:
     - id: 102900
       motion: 100
@@ -444,7 +442,7 @@ story:
     - id: 103000
       motion: 0
     nameCenter: Shigure
-    textCenter: It was a little tough, but we finished our business,@so we came back.
+    textCenter: It was a bit tough, but we finished our business,@so we came back.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -457,7 +455,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-35
     nameLeft: Juri
-    textLeft: We were just thinking about taking out the [textYellow:Kimochi],
+    textLeft: We were just thinking about@taking out this [textYellow:Kimochi],
   - chara:
     - id: 102400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-36
@@ -470,7 +468,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-37
     nameRight: Hagumu
-    textRight: No, we're not going.
+    textRight: No, we're not going with you.
   - chara:
     - eyeClose: 1
       id: 102900
@@ -517,7 +515,7 @@ story:
       id: 102400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-43
     nameLeft: Juri
-    textLeft: I get it, you're trying to rise up and rebel@against Juri the Great.
+    textLeft: I get it, you're trying to rise up@and rebel against Juri the Great.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -531,7 +529,7 @@ story:
     - id: 304400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-45
     nameRight: Ranka
-    textRight: You know you're not getting away with this?
+    textRight: You do know you're not getting away with this?
   - chara:
     - id: 102400
       motion: 0
@@ -553,7 +551,7 @@ story:
       id: 102400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-48
     nameLeft: Juri
-    textLeft: '*Grin*'
+    textLeft: '*Chuckle*'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -562,7 +560,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-49
     nameRight: Shigure
-    textRight: …………
+    textRight: '...'
   - autoTurnLast: 0.2
     chara:
     - cheek: 0
@@ -580,7 +578,7 @@ story:
     - id: 101500
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-50
     nameLeft: Ui
-    textLeft: Hey, it looks like Promised Blood is having some@dispute.
+    textLeft: Hey, it looks like Promised Blood@is having some dispute.
     turnChangeOut: rollOutFast
   - chara:
     - id: 100400
@@ -602,7 +600,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-9-53
     nameRight: Felicia
-    textRight: I dunno, but let's smash this thing@while we still got time!
+    textRight: I dunno, but let's smash this thing@while we've still got time!
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

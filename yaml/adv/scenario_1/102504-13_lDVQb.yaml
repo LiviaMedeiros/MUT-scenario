@@ -11,11 +11,11 @@ story:
     narrationEffect: in
     turnChangeIn: rollInLogo_Union
   - bgm: bgm03_story08
-    narration: Ugh, AaAAH...
+    narration: Ugh, AaAAH...!
     turnChangeOut: rollOutLogo_Tokime
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-1
   - nameNarration: Sunao
-    narration: Charu, you're going to be okay...!@Your arm has been re-attached...!
+    narration: Charu, you're going to be okay...!@Your arm's been reattached...!
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-2
   - nameNarration: Chiharu
     narration: Hhh, kh, hrrgg...!
@@ -52,7 +52,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-6
     nameLeft: Livia
-    textLeft: Are ya tryin' ta say Grief Seed!?
+    textLeft: Are ya tryin' ta say Grief Seed?!
   - chara:
     - id: 104100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-7
@@ -63,7 +63,8 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-8
     nameLeft: Livia
-    textLeft: The effects of lettin' out doppels has already been proven by Nemu Hiiragi!
+    textLeft: The side effects of lettin' out Doppels has@already been proven by Nemu
+      Hiiragi's case!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -93,7 +94,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Yozuru
-    textLeft: Sudachi, adjust the remaining people outside@that have minor injuries.
+    textLeft: Sudachi, tend to the remaining visitors@outside that have minor injuries.
   - chara:
     - id: 103900
       lipSynch: 0
@@ -134,7 +135,7 @@ story:
     - id: 102500
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-14
     nameLeft: Shizuka
-    textLeft: When I found you in the village,@you were falling apart, weren't you?
+    textLeft: Back when we met in the village,@I got torn apart once, remember?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -143,7 +144,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-15
     nameLeft: Shizuka
-    textLeft: You're still recovering, so you'll have to endure it overnight.
+    textLeft: You're still recovering, so you'll@have to endure it overnight.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -152,7 +153,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-16
     nameLeft: Asahi
-    textLeft: If you want to, it's possible for Magical Girls to@block out the pain.
+    textLeft: If you want to, it's possible for Magical@Girls to block out the pain.
   - chara:
     - eyeClose: 1
       id: 102600
@@ -176,7 +177,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-19
     nameLeft: Sunao
-    textLeft: O-okay...! This is going to hurt, Charu...!
+    textLeft: O-okay...!@This is going to hurt, Charu...!
   - chara:
     - cheek: -1
       effect: shake
@@ -233,7 +234,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-26
     nameLeft: Shizuka
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - id: 102500
       lipSynch: 1
@@ -253,7 +254,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-29
     nameLeft: Shizuka
-    textLeft: Ryou Midori from the Union...was killed@by Promised Blood...
+    textLeft: Ryo Midori from the Union...@...was killed by Promised Blood...
   - chara:
     - cheek: 0
       face: mtn_ex_052.exp3.json
@@ -270,7 +271,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-31
     nameLeft: Livia
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: -1
       face: mtn_ex_031.exp3.json
@@ -297,7 +298,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-34
     nameLeft: Asahi
-    textLeft: Honestly, even if they had asked us to help,@it would've been impossible
+    textLeft: Honestly, even if they had asked us to help, it@would've been impossible
       given the circumstances.
   - chara:
     - eyeClose: 1
@@ -311,7 +312,7 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-13-36
     nameLeft: Asahi
-    textLeft: With Miss Chiharu being severely injured and in this state, if you had
+    textLeft: With Miss Chiharu being severely injured and in@this state, if you had
       chosen to go to the Union...
   - chara:
     - id: 103400

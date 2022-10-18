@@ -19,7 +19,7 @@ story:
       motion: 100
     nameLeft: ""
     nameRight: Sunao
-    textRight: '[flashEffect:flashWhite2][surround:1027A01]Take this-- and vanish!'
+    textRight: '[flashEffect:flashWhite2][surround:1027A01]Take this― and vanish!'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.5
     bgEffect: shakeLarge
@@ -30,7 +30,7 @@ story:
     flashEffect: flashRed2
     surround: 1027A02
     textBg: shout
-    textLeft: '............!?!?'
+    textLeft: '............?!?!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -62,7 +62,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102700
       motion: 100
-    textCenter: The computer... seems... intact...
+    textCenter: The computer...seems...intact...
   - bgm: bgm05_event08
     chara:
     - cheek: 0
@@ -82,7 +82,7 @@ story:
   - chara:
     - id: 102700
       lipSynch: 0
-    textCenter: '............'
+    textCenter: '...'
   - chara:
     - id: 102700
       lipSynch: 0
@@ -115,7 +115,7 @@ story:
   - chara:
     - id: 102700
       lipSynch: 0
-    textCenter: '............'
+    textCenter: '...'
   - chara:
     - eyeClose: 0
       id: 102700
@@ -137,7 +137,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102700
       lipSynch: 0
-    textCenter: '[chara:102700:effect_emotion_surprise_0][se:7226_shock]—!?'
+    textCenter: '[chara:102700:effect_emotion_surprise_0][se:7226_shock]—?!'
     turnEffect: stop
   - chara:
     - cheek: 0
@@ -181,7 +181,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102700
       lipSynch: 0
-    textCenter: '............'
+    textCenter: '...'
   - nameNarration: ""
     narration: '*Click*'
     narrationBg: bg_adv_21444.jpg
@@ -226,7 +226,7 @@ story:
     - id: 102700
       lipSynch: 0
     narrationEffect: out
-    textCenter: '......[wait:0.8][chara:102700:cheek_0][chara:102700:face_mtn_ex_030.exp.json][chara:102700:lipSynch_1]It''s
+    textCenter: '...[wait:0.8][chara:102700:cheek_0][chara:102700:face_mtn_ex_030.exp.json][chara:102700:lipSynch_1]It''s
       muted?'
   - chara:
     - cheek: 0
@@ -239,7 +239,7 @@ story:
       id: 102700
       lipSynch: 0
       motion: 1
-    textCenter: '............'
+    textCenter: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_052.exp.json
@@ -303,7 +303,7 @@ story:
       face: mtn_ex_052.exp.json
       id: 102700
       lipSynch: 0
-    textLeft: '............'
+    textLeft: '...'
     turnEffect: stop
   - chara:
     - cheek: 0
@@ -345,7 +345,7 @@ story:
       id: 102500
       lipSynch: 0
       motion: 0
-    textRight: '[chara:102500:effect_ef_adv_01][se:7201_detect_magic]—!?'
+    textRight: '[chara:102500:effect_ef_adv_01][se:7201_detect_magic]—?!'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -357,7 +357,7 @@ story:
       id: 102700
       lipSynch: 0
       motion: 0
-    textLeft: (I have to take this... to the grave...)
+    textLeft: (I have to take this...to the grave...)
     turnEffect: thinking
   - autoTurnLast: 2
     turnChangeIn: fadeIn

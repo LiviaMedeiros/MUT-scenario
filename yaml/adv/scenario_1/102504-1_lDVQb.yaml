@@ -29,8 +29,8 @@ story:
       lipSynch: 0
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-2
-    nameLeft: Ryou
-    textLeft: (Can I make it in time... I have to make it...!@I have to use my bazooka
+    nameLeft: Ryo
+    textLeft: (Can I make it in time...? I have to make it...!@I have to use my bazooka
       at point-blank range...!)
   - autoTurnLast: 0.8
     chara:
@@ -49,7 +49,7 @@ story:
       lipSynch: 1
       motion: 400
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-4
-    nameLeft: Ryou
+    nameLeft: Ryo
     textBg: shout
     textLeft: '[flashEffect:explosion][surround:3046A04]BRING IT OOOON!'
   - autoTurnLast: 2
@@ -78,8 +78,8 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-5
     nameRight: Eternal Sakura
-    textRight: ｜Yes, we talked about volunteering,@and Teacher talked to me about
-      life.｜
+    textRight: '| Yes, we talked about volunteering,@and the teacher talked to me
+      about life. |'
     turnChangeOut: fadeOut
     turnChangeOutTime: 1.2
   - chara:
@@ -91,7 +91,8 @@ story:
     - id: 304301
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-7
     nameRight: Eternal Sakura
-    textRight: ｜It gave me a reason to think about my life,@and the way I live it.｜
+    textRight: '| It gave me a reason to think about my life,@and the way I live it.
+      |'
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -100,20 +101,20 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-8
     nameLeft: Hinano
-    textLeft: And did Sakurako come up with an answer?
+    textLeft: And did you come up with an answer?
   - chara:
     - id: 304301
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-9
     nameRight: Eternal Sakura
-    textRight: ｜Yes, my answer was that I want to@leave a mark behind.｜
+    textRight: '| Yes, my answer was that I@want to leave a mark behind. |'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 304301
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-10
     nameRight: Eternal Sakura
-    textRight: ｜One that will be left behind in everyone's hearts.｜
+    textRight: '| One that will be left behind@in everyone''s hearts. |'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -122,8 +123,8 @@ story:
       motion: 0
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-11
-    nameLeft: Ryou
-    textLeft: …………
+    nameLeft: Ryo
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -132,7 +133,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-12
     nameRight: Eternal Sakura
-    textRight: ｜Ryou, were you listening just now?｜
+    textRight: '| Ryo, were you listening just now? |'
   - autoTurnLast: 0.2
     bg: bg_adv_narration.jpg
     chara:
@@ -147,9 +148,9 @@ story:
     - id: 304601
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-13
-    nameNarration: Ryou
-    narration: I'm sure I didn't hear what Sakurako said,@but now that I think about
-      it,@I can somehow remember what she was saying.
+    nameNarration: Ryo
+    narration: I'm sure I wasn't listening to Sakurako back then,@but now that I think
+      about it,@I can sort of remember what she was saying.
     narrationEffect: in
     turnChangeOut: fadeOut
     turnEffect: promist
@@ -161,7 +162,7 @@ story:
       lipSynch: 0
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-14
-    narration: I've taken so many photos and written so many articles,@but I've always
+    narration: I've taken so many photos@and written so many articles,@but I've always
       felt as if something was missing.@I thought maybe this time, I could finally
       take@a picture I'd be proud of showing off.
   - autoTurnLast: 0.1
@@ -172,7 +173,7 @@ story:
       lipSynch: 1
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-15
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: This will be the last mark@that I will leave behind.
   - chara:
     - cheek: 0
@@ -202,7 +203,7 @@ story:
       posY: 0
       visible: appear
   - nameNarration: Ikumi
-    narration: ―Ikumi―@Ryou!
+    narration: ―Ikumi―@Ryo!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -219,15 +220,15 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameNarration: Ikumi
-    narration: Ryou...? Ryou...!
+    narration: Ryo...? Ryo...!
     narrationEffect: in
     turnChangeOut: fadeOut
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-18
-  - narration: …………No...
+  - narration: '......No...'
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-19
-  - narration: No...you can't...@Why...
+  - narration: No...you can't...@Why...?!
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-20
-  - narration: Where...@Where is Ryou's soul gem...!?
+  - narration: Where...@Where is Ryo's Soul Gem...?!
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-21
   - autoTurnLast: 0.01
     bg: bg_adv_17213.jpg
@@ -251,14 +252,14 @@ story:
       motion: 401
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-22
     nameRight: Iroha
-    textRight: '...*Pant*...*pant*...@*Gasp*...No way...'
+    textRight: '...*Pant*...*pant*...@*Gasp*... No way...'
     turnChangeOut: fadeOut
     turnChangeOutTime: 1
   - chara:
     - id: 100200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-23
     nameLeft: Yachiyo
-    textLeft: Who did this...
+    textLeft: Who did this...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -267,7 +268,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-24
     nameRight: Yuna
-    textRight: It was my third sister...
+    textRight: It was our Third Sister...
   - chara:
     - id: 100200
       lipSynch: 0
@@ -323,7 +324,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-29
     nameRight: Sana
-    textRight: Ryou...
+    textRight: Ryo...
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp3.json
@@ -332,7 +333,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-30
     nameLeft: Felicia
-    textLeft: What is this...@The hell is going on!!
+    textLeft: What is this...@The hell is going on?!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -356,13 +357,13 @@ story:
       motion: 0
       pos: 2
     nameLeft: Momoko
-    textLeft: '*Huff*...*pant*...@Did that...really just...'
+    textLeft: '*Huff*...*pant*...@Did that...really just...?'
   - chara:
     - id: 101100
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-32
     nameRight: Kaede
-    textRight: '...Ryou... Is she really dead...?'
+    textRight: '...Ryo...@Is she really dead...?'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -371,7 +372,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-33
     nameLeft: Sakuya
-    textLeft: I can tell just by looking at her.@There's no sign of life anywhere.
+    textLeft: I can tell just by looking at her.@She has no signs of life anywhere.
   - chara:
     - cheek: 2
       face: mtn_ex_020.exp3.json
@@ -381,7 +382,7 @@ story:
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-34
     nameRight: Rena
     textRight: '[se:4002_equip_arms_longspear_s][chara:302100:effect_7001_attack02]Don''t
-      screw with me!@How can you say that so easily!?'
+      screw with me!@How can you say that so easily?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -425,7 +426,7 @@ story:
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-39
       voiceFullStop: fullvoice/section_102504/vo_full_102504-1-38
     nameRight: Rena
-    textRight: '!?'
+    textRight: '...?!'
   - autoTurnLast: 0.2
     chara:
     - cheek: 1
@@ -464,7 +465,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-43
     nameRight: Hikaru
-    textRight: When we lose our soul gem, us Magical Girls die...
+    textRight: When we lose our Soul Gem, we Magical Girls die...
   - chara:
     - id: 102300
       motion: 300
@@ -487,7 +488,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-47
     nameRight: Hikaru
-    textRight: That won't change the result.
+    textRight: That won't change what happened.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -496,7 +497,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-48
     nameRight: Hikaru
-    textRight: Besides, we woulda had to bother with her later anyway.
+    textRight: Besides, we woulda had to bother@with her later anyway.
   - chara:
     - id: 102200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-49
@@ -521,8 +522,8 @@ story:
       id: 102300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-51
     nameLeft: Ao
-    textLeft: The sensation of the blade hitting her soul gem,@the feel of it strongly
-      resonating in my hands...
+    textLeft: The sensation of the blade hitting her Soul Gem,@the way it resonated
+      back through to my hands...
   - chara:
     - id: 102300
       motion: 300
@@ -534,9 +535,9 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-53
     nameRight: Hikaru
-    textRight: Does that mean... Ao...was that the first time@you've killed someone...?
+    textRight: Does that mean...Ao...was that the first@time you've killed someone...?
   - bgm: stop
-    nameCenter: Ikumi's voice
+    nameCenter: Ikumi's Voice
     textBg: shout
     textCenter: AAAAaaAAAHHHH!!
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-54
@@ -547,7 +548,7 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-55
     nameLeft: Ao
-    textLeft: '!?'
+    textLeft: '...?!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -566,7 +567,7 @@ story:
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-56
     nameNarration: Ikumi
     narration: Weren't we going to free all Magical Girls...?@I thought the people
-      of the east would finally be free@of all the irrational things happening to
+      of the East would finally be free@of all the irrational things happening to
       them,@that we finally wouldn't have to go through@twice as much suffering...!
     narrationEffect: in
   - chara:
@@ -605,13 +606,13 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-59
     nameLeft: Hinano
-    textLeft: If only I had listened to Yachiyo's and everyone's advice...
+    textLeft: If only I had listened to Yachiyo's@and everyone's advice...
   - chara:
     - id: 101600
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-60
     nameRight: Kanagi
-    textRight: '...At least...@...we got the evidence she risked her life for.'
+    textRight: '...At least...@...We got the evidence she risked her life for.'
   - nameNarration: ""
     narration: '[bgEffect:shakeSmall]*Smash! Smash!*'
     narrationEffect: in
@@ -627,7 +628,7 @@ story:
       face: mtn_ex_050.exp3.json
       id: 300300
     nameRight: Kanagi
-    textRight: '!?'
+    textRight: '...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -648,7 +649,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-65
     nameLeft: Yuna
-    textLeft: This is the price she has paid for her underhanded actions...
+    textLeft: This is the price she has paid@for her underhanded actions...
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp3.json
@@ -681,17 +682,18 @@ story:
       face: mtn_ex_050.exp3.json
       id: 101600
     nameLeft: Yuna
-    textLeft: '!'
+    textLeft: '...!'
   - chara:
     - id: 100600
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-69
     nameCenter: Mifuyu
-    textCenter: We have also struggled through conflicts between@Magical Girls...
+    textCenter: We've struggled through conflicts between@Magical Girls, the same
+      as you...
   - chara:
     - id: 100600
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-70
     nameCenter: Mifuyu
-    textCenter: If you have been through the same as us...
+    textCenter: If you know what that feels like,
   - chara:
     - id: 100600
       motion: 200
@@ -700,7 +702,7 @@ story:
       face: mtn_ex_032.exp3.json
       id: 101600
     nameCenter: Mifuyu
-    textCenter: then please do not walk all over the soul of@someone that died...!
+    textCenter: then please do not trample over the@soul of someone that has died...!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -716,13 +718,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-72
     nameLeft: Mitama
-    textLeft: This is no different than when the east and west fought...
+    textLeft: This is no different than when@the East and West fought...
   - chara:
     - id: 101600
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-73
     nameRight: Kanagi
-    textRight: We haven't grown at all...have we...
+    textRight: We haven't grown at all...have we...?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -741,7 +743,7 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-74
     nameNarration: Ikumi
-    narration: Ryou...
+    narration: Ryo...
     narrationEffect: in
   - chara:
     - eyeClose: 1
@@ -749,7 +751,7 @@ story:
       lipSynch: 0
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-1-75
-    narration: Ryou... Ryou...
+    narration: Ryo... Ryo...
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

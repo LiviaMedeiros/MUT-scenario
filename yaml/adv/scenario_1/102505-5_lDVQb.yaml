@@ -35,7 +35,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-2
     nameRight: Rabi
-    textRight: Apologies if it was poor.
+    textRight: You're too kind.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -57,13 +57,13 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-5
     nameRight: Rabi
-    textRight: Green asparagus is what is more mainstream@these days,
+    textRight: Green asparagus is the more@mainstream choice these days,
   - chara:
     - id: 103302
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-6
     nameRight: Rabi
-    textRight: while white was more mainstream back when they were grown in dark rooms
-      for exporting.
+    textRight: while white was more mainstream back when@they were grown in dark rooms
+      for exportation.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -94,18 +94,18 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-10
     nameLeft: Nayuta
-    textLeft: Yes, it has a faint sweetness to it, and it goes well@with the sauce.
+    textLeft: Yes, it has a faint sweetness to it,@and it goes well with the sauce.
   - chara:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-11
     nameLeft: Nayuta
-    textLeft: Rabi's cooking always puts so many ingredients@to good use.
+    textLeft: Your cooking always puts so@many ingredients to good use.
   - chara:
     - id: 103302
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-12
     nameRight: Rabi
-    textRight: I'm grateful.
+    textRight: Much obliged.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -114,7 +114,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-13
     nameLeft: Nayuta
-    textLeft: Now I need to use this energy to think about@my homework.
+    textLeft: Now I need to use this energy to@think about my homework.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -147,7 +147,7 @@ story:
       id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-18
     nameLeft: Nayuta
-    textLeft: Let me help you.
+    textLeft: Let me help you with that.
   - autoTurnLast: 1
     bg: bg_adv_21623.jpg
     bgm: stop
@@ -178,12 +178,12 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-20
     nameLeft: Nayuta
-    textLeft: I think losing a loved one is quite painful@and stressful.
+    textLeft: I think that losing a loved one is a@difficult and painful experience.
   - chara:
     - id: 103302
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-21
     nameRight: Rabi
-    textRight: This is only my opinion, but why don't you just@tell him that?
+    textRight: This is only my opinion, but why@don't you just tell him that?
   - chara:
     - id: 103701
       motion: 200
@@ -195,13 +195,13 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-23
     nameRight: Rabi
-    textRight: Meaning you feel that he is going to want something deeper than that.
+    textRight: Meaning you feel that he'll want@something deeper than that.
   - chara:
     - id: 103701
       motion: 1
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-24
     nameLeft: Nayuta
-    textLeft: That is correct.
+    textLeft: That's correct.
   - chara:
     - eyeClose: 1
       id: 103302
@@ -209,7 +209,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-25
     nameRight: Rabi
-    textRight: …………
+    textRight: '...'
   - chara:
     - eyeClose: 0
       id: 103302
@@ -226,19 +226,19 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-27
     nameLeft: Nayuta
-    textLeft: Doubt...?
+    textLeft: You don't think so...?
   - chara:
     - id: 103302
       motion: 300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-28
     nameRight: Rabi
-    textRight: Going by the assumption that the word "death" describes the loss of
-      a loved one,
+    textRight: Going with the assumption that the loss of a@loved one in this case
+      refers to death,
   - chara:
     - id: 103302
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-29
     nameRight: Rabi
-    textRight: doesn't your perception of that death change with@the future?
+    textRight: doesn't your perception of that death@change with what happens next?
   - chara:
     - id: 103701
       motion: 0
@@ -262,32 +262,33 @@ story:
     - id: 103302
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-33
     nameRight: Rabi
-    textRight: So by saying you will one day go to the same place,@it is suddenly
-      converted into encouragement.
+    textRight: So by saying you will one day go to the same place,@it instead becomes
+      a source of encouragement.
   - chara:
     - id: 103302
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-34
     nameRight: Rabi
-    textRight: And if the concept of reincarnation spreads,@the fear of death and...
+    textRight: And if the concept of reincarnation were@to become widespread, the
+      fear of death,
   - chara:
     - id: 103302
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-35
     nameRight: Rabi
-    textRight: the sadness of becoming separated is reduced,@and replaced by hope
-      for their next life.
+    textRight: and the sadness of being separated, is lessened,@and replaced with
+      hope for their next life.
   - chara:
     - id: 103302
       motion: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-36
     nameRight: Rabi
-    textRight: But setting aside whether what I'm talking about@is correct or not,
+    textRight: But setting aside whether what I'm@talking about is correct or not,
   - chara:
     - id: 103302
       motion: 200
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-37
     nameRight: Rabi
-    textRight: the point is that your perspective changes depending on your knowledge
+    textRight: the point is that your perspective changes@depending on your knowledge
       and philosophy.
   - chara:
     - cheek: 0
@@ -306,7 +307,7 @@ story:
     - id: 103302
       motion: 0
     nameLeft: Nayuta
-    textLeft: But, what is Rabi's answer?
+    textLeft: But, what is your answer then, Rabi?
   - chara:
     - id: 103701
       motion: 400
@@ -341,20 +342,20 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-44
     nameLeft: Nayuta
-    textLeft: You mean you don't have an answer?
+    textLeft: You don't have an answer?
   - chara:
     - id: 103302
       motion: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-45
     nameRight: Rabi
-    textRight: No, it's emptiness...and the acceptance that@I can't do anything about
-      it...
+    textRight: No, my answer is emptiness...and the acceptance@that I can't do anything
+      about it...
   - chara:
     - eyeClose: 1
       id: 103302
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-46
     nameRight: Rabi
-    textRight: because the only truth we know is what we lose@right in front of us.
+    textRight: Because the only truth we know is what@we lose right in front of us.
   - autoTurnLast: 1
     bg: bg_adv_21073.jpg
     chara:
@@ -377,7 +378,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-5-48
     nameCenter: Nayuta
-    textCenter: (Rabi, you have a rather lonely view of life@and death...)
+    textCenter: (Rabi, you have a rather lonely@view of life and death...)
   - chara:
     - id: 103701
       lipSynch: 1

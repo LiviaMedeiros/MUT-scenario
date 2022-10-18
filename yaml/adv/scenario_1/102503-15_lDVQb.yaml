@@ -18,7 +18,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-2
     nameNarration: Kaede
-    narration: We made it to Kosho Ward,@but we were caught by Hikaru's team...
+    narration: We made it to Kosho Ward,@but we got caught by Hikaru's team...
   - chara:
     - id: 101100
       motion: 1
@@ -39,7 +39,7 @@ story:
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-5
     nameNarration: Kanagi
     narration: We've arrived at Kamihama Prison,@but our opponents still outmatch
-      us,@and Juri Ooba is closing in.
+      us,@and Juri Oba is closing in.
   - chara:
     - id: 101600
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-6
@@ -64,14 +64,14 @@ story:
       motion: 301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-7
     nameLeft: Iroha
-    textLeft: Promised Blood doesn't want everyone to@get to the prison...
+    textLeft: Promised Blood wants to keep everyone@away from the prison...
     turnChangeOut: fadeOut
   - chara:
     - id: 100201
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-8
     nameRight: Yachiyo
-    textRight: At least we should be able to...
+    textRight: At the very least, we need to...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -97,7 +97,7 @@ story:
       motion: 1
       pos: 2
     nameCenter: Yuna
-    textCenter: We can't go any further, and neither can you...
+    textCenter: They aren't going anywhere, and neither are you...
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -126,7 +126,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-11
     nameRight: Yuna
-    textRight: The only one capable of getting evidence@from the prison is that Ryou
+    textRight: The only one capable of getting evidence@from the prison is that Ryo
       Midori.
   - chara:
     - id: 102101
@@ -147,7 +147,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-14
     nameLeft: Tsuruno
-    textLeft: That's right, she just happened to find it by chance@while looking around.
+    textLeft: That's right, she just happened to find@it by chance while looking around.
   - chara:
     - id: 102101
       motion: 1
@@ -163,7 +163,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-16
     nameLeft: Yachiyo
-    textLeft: '...If we were to compromise,@what would you have done?'
+    textLeft: '...If we''d been able to compromise,@what would you have done?'
   - chara:
     - id: 102101
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-17
@@ -188,7 +188,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-19
     nameLeft: Iroha
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -197,7 +197,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-20
     nameRight: Tsuruno
-    textRight: The kind Yuna Kureha that Iroha felt...
+    textRight: The kind Yuna Kureha that you felt, Iroha...
   - chara:
     - id: 100301
       motion: 300
@@ -234,7 +234,7 @@ story:
     - id: 102101
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-23
     nameCenter: Yuna
-    textCenter: If not, then I'll show you a way to live a life of@damnation...
+    textCenter: If not, then I'll show you a way@to live a life of damnation...
   - chara:
     - id: 102101
       motion: 200
@@ -253,7 +253,7 @@ story:
   - chara:
     - id: 304600
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-25
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: Found it...
     turnChangeOut: fadeOut
   - autoTurnLast: 0.5
@@ -268,15 +268,15 @@ story:
       lipSynch: 0
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-26
-    nameRight: Ryou
-    textRight: (Though, this isn't a place that anyone but@me could find...)
+    nameRight: Ryo
+    textRight: (Though, this isn't a place that@anyone but me could find...)
     turnEffect: ef_adv_06
   - chara:
     - id: 304600
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-27
-    nameRight: Ryou
-    textRight: (Then,@where does Promised Blood come and go from...)
+    nameRight: Ryo
+    textRight: (Then, how does Promised Blood@come and go from...)
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -284,8 +284,8 @@ story:
       lipSynch: 0
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-28
-    nameRight: Ryou
-    textRight: …………
+    nameRight: Ryo
+    textRight: '...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -314,8 +314,8 @@ story:
       motion: 400
       pos: 1
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-29
-    nameCenter: Ryou
-    textCenter: '!?'
+    nameCenter: Ryo
+    textCenter: '...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -323,12 +323,12 @@ story:
       lipSynch: 1
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-30
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: Could it be this door...?@It's relatively new...
   - chara:
     - id: 304600
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-31
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: Inside is...
   - autoTurnLast: 1
     bg: black
@@ -344,7 +344,7 @@ story:
       motion: 200
       pos: 1
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-15-32
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: '...I see, so that''s how this works.'
   - autoTurnLast: 2
     surround: stop

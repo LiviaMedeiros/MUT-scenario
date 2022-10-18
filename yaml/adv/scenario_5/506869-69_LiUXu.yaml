@@ -21,7 +21,7 @@ story:
       motion: 400
     nameLeft: Sunao
     nameRight: Chiharu
-    textRight: Granny's controlling the Devil...!?
+    textRight: Granny's controlling the Devil...?!
     turnChangeOut: fadeOut
   - chara:
     - id: 102700
@@ -105,7 +105,7 @@ story:
     - id: 6107
       name: sprite_0
     textBg: shout
-    textLeft: '[flashEffect:flashRed2][surround:1012A03][chara:6107:effect_shake][bgEffect:shakeLarge]衆大因非!?!?'
+    textLeft: '[flashEffect:flashRed2][surround:1012A03][chara:6107:effect_shake][bgEffect:shakeLarge]衆大因非?!?!'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -174,7 +174,7 @@ story:
     - id: 102700
       motion: 400
     nameCenter: Sunao
-    textCenter: What's with that water...!?
+    textCenter: What's with that water...?!
   - autoTurnLast: 0.2
     chara:
     - id: 102700
@@ -329,7 +329,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102700
       motion: 0
-    textRight: But Shizuka, you can't move, can you!?
+    textRight: But Shizuka, you can't move, can you?!
   - chara:
     - cheek: 1
       face: mtn_ex_060.exp.json
@@ -338,7 +338,7 @@ story:
   - bgm: stop
     nameCenter: Chiharu's voice
     textBg: shout
-    textCenter: Shizuka-chan! Sunao-chan!
+    textCenter: Shizuka! Sunao!
   - autoTurnLast: 0.2
     flashEffect: flashWhite2
     textClear: 1
@@ -351,7 +351,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102700
       motion: 400
-    textLeft: Huh--? There's a rope wrapped around me...
+    textLeft: Huh―? There's a rope wrapped around me...
   - chara:
     - id: 102700
     textRight: With a jitte on the end...

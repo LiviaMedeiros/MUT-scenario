@@ -36,7 +36,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-3
     nameRight: Tsuruno
-    textRight: This facility doesn't happen to be just for@Magical Girls, right...?
+    textRight: This place doesn't feel like it was made@just for Magical Girls, though...right?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -48,14 +48,14 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-4
     nameLeft: Touka
-    textLeft: It's a hideout in case of an emergency.
+    textLeft: This safehouse is for hiding@during emergencies, you see.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 100770
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-5
     nameLeft: Touka
-    textLeft: So if there's ever a time you're in danger,@you hide in this shelter.
+    textLeft: It's an underground shelter@for use in case of danger.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -72,17 +72,18 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-7
     nameLeft: Touka
-    textLeft: The Satomi Group and other important people prepared it for hiding away.
+    textLeft: The Satomi Group and other elites of@Kamihama had it prepared for holing
+      up in.
   - chara:
     - id: 100770
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-8
     nameLeft: Touka
-    textLeft: It was also designed for therapy,@so there's a medical room, too.
+    textLeft: They made sure it's got a fully-stocked@medical room to treat any wounded.
   - chara:
     - id: 100770
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-9
     nameLeft: Touka
-    textLeft: There's even a supercomputer that manages the facility,
+    textLeft: There's even a supercomputer@that manages the facility,
   - chara:
     - id: 100770
       motion: 100
@@ -100,12 +101,12 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-11
     nameRight: Nemu
-    textRight: And there's above-ground homes built for living in,
+    textRight: And there are above-ground homes@built for living in,
   - chara:
     - id: 101471
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-12
     nameRight: Nemu
-    textRight: so there shouldn't be any particular inconvenience here.
+    textRight: so there shouldn't be any@particular inconvenience here.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp3.json
@@ -118,7 +119,7 @@ story:
       id: 100770
       motion: 0
     nameRight: Sana
-    textRight: But, is it okay to use it without permission...?
+    textRight: But, is it really okay to use it without permission...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -127,7 +128,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-14
     nameRight: Yachiyo
-    textRight: There's a public expense, I'm assuming...?
+    textRight: Surely it's costing the taxpayers' money?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -154,7 +155,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-17
     nameRight: Ui
-    textRight: He won't get angry?
+    textRight: Won't people get mad at us?
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -163,8 +164,8 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-18
     nameLeft: Touka
-    textLeft: But, with the way things are heading,@Mikazuki Villa will be burned
-      down, riiight?
+    textLeft: But, with the way things are going,@Mikazuki Villa could be burned down,
+      riiight?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -180,14 +181,15 @@ story:
       id: 100201
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-20
     nameRight: Yachiyo
-    textRight: I don't care if he gets angry and we're in the news,
+    textRight: If all that happens is people getting mad at us@or we make the local
+      news, I'm fine with it.
   - chara:
     - eyeClose: 0
       id: 100201
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-21
     nameRight: Yachiyo
-    textRight: but I would definitely lose my job, though...
+    textRight: I would definitely lose my job@if that happened, though...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -196,7 +198,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-22
     nameLeft: Felicia
-    textLeft: Huh, what do we do 'bout food...
+    textLeft: Wait, but how would we eat then...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -208,7 +210,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-23
     nameLeft: Touka
-    textLeft: Also, I'm going to be doing an experiment with@Kagome Satori here.
+    textLeft: Also, I'm going to be performing an experiment@here with Kagome Satori.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -217,14 +219,14 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-24
     nameRight: Tsuruno
-    textRight: Something about spreading the word about@Magical Girls, right?
+    textRight: Something about spreading the word@about Magical Girls, right?
   - chara:
     - id: 100770
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-25
     nameLeft: Touka
-    textLeft: Right, this is also connected to the radio telescope,@so we can do eeeverything
-      from here.
+    textLeft: Right. This facility is also connected to the radio@telescope, so we
+      can do eeeverything from here.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -236,7 +238,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-26
     nameRight: Nemu
-    textRight: Also, we're going to need to get help@from Touka's cousin.
+    textRight: Also, we're going to need to get@help from Touka's cousin.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -245,7 +247,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-27
     nameLeft: Touka
-    textLeft: Because Uncle's way with words is going to be@one of the keys to this...
+    textLeft: Because Uncle's way with words is going@to be one of the keys to this...
   - chara:
     - id: 100770
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-18-28
@@ -255,9 +257,9 @@ story:
     bg: bg_adv_21173.jpg
     turnChangeIn: fadeIn
   - nameNarration: Touka
-    narration: Since we weren't able to join hands using our lives,@eliminating the
-      grief of all Magical Girls across the world@will become the best option for
-      us to atone.
+    narration: Since we weren't able to join hands by@offering up our lives, eliminating
+      the@grief of all Magical Girls across the world will@become our best option
+      for atonement.
     narrationCoverOpacity: 150
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -371,7 +373,7 @@ story:
     turnChangeIn: fadeIn
     turnChangeInTime: 1.2
   - narration: Midori Report@Discontinued due to the editor-in-chief@taking on a long-term
-      research project.@Thank you very much@for reading our publications until now.
+      research project.@Thank you very much for@reading our publications until now.
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -388,14 +390,8 @@ story:
       visible: appear
     turnChangeIn: fadeIn
     turnChangeInTime: 2
-  - narration: ""
-    narrationAnchor: bottom
-    narrationCoverOpacity: 0
-    narrationEffect: in
-    narrationFontSize: 30
-    narrationLineMargin: 0.1
-    narrationLineSpace: 0.1
-    turnChangeOut: fadeOut
+  - turnChangeOut: fadeOut
+    narrationEffect: out
   - autoTurnLast: 2
     bgm: stop
     item:

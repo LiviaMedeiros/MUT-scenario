@@ -32,28 +32,28 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-2
     nameLeft: Alina
-    textLeft: …………
+    textLeft: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 101201
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-3
     nameRight: Karin
-    textRight: That painting of Mirrors that you did at the@hospital,
+    textRight: That painting of Mirrors that@you did at the hospital,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101201
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-4
     nameRight: Karin
-    textRight: aren't you going to continue working on it?
+    textRight: aren't you going to keep working on it?
   - chara:
     - eyeClose: 1
       id: 100801
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-5
     nameLeft: Alina
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp3.json
@@ -62,7 +62,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-6
     nameRight: Karin
-    textRight: She came all the way to the club, but she's just@sleeping...
+    textRight: She came all the way to the club,@but she's just sleeping...
   - autoTurnLast: 0.5
     bg: bg_adv_21181.jpg
     bgm: stop
@@ -79,7 +79,7 @@ story:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-7
     nameCenter: Alina
-    textCenter: These hideous labyrinths keep spreading in my@dreams.
+    textCenter: These hideous Labyrinths keep@spreading in my dreams.
     turnChangeOut: fadeOut
   - nameRight: ""
     textRight: ――――
@@ -95,13 +95,13 @@ story:
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-10
     nameCenter: Alina
     textCenter: '[flashEffect:flashWhiteSlow2][se:7211_souljem_02]and Alina''s own
-      magical pattern is somewhere deep within...'
+      magical pattern is@somewhere deep within...'
   - chara:
     - eyeClose: 0
       id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-11
     nameCenter: Alina
-    textCenter: That is exactly where Alina's memory is...
+    textCenter: That is exactly where my, Alina's, memory is...
   - chara:
     - eyeClose: 1
       id: 100801
@@ -109,14 +109,13 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-12
     nameNarration: Alina
-    narration: The more Alina dives in and chases that voice,@the closer the memories
-      become,
+    narration: The more AI dive in and chase that voice,@the closer the memories become,
     narrationEffect: in
   - chara:
     - id: 100801
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-13
-    narration: but suddenly Alina can't move forward;@it feels like a deadlock...
+    narration: but suddenly I can't move forward.@It feels like a deadlock...
   - autoTurnLast: 0.1
     narrationEffect: out
   - nameRight: ""
@@ -128,29 +127,29 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-15
     nameNarration: Alina
-    narration: Yet that woman's voice still calls out,@telling Alina to get to the
-      deep end.
+    narration: Yet that woman's voice still calls out,@telling me to get to the deep
+      end.
     narrationEffect: in
   - chara:
     - id: 100801
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-16
-    narration: But that must mean@Alina needs to dive into Mirrors,@if it's impossible
+    narration: But that must mean@I need to dive into Mirrors myself,@if it's impossible
       to go deeper within the dream.
   - chara:
     - id: 100801
       lipSynch: 0
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-17
-    narration: That's why Alina wants to proceed with map-making,@but there's still
-      one problema...@that this is a Mirrors offshoot...
+    narration: That's why I want to proceed with map-making,@but there's still one
+      problema...@that this is a Mirrors offshoot...
   - chara:
     - eyeClose: 1
       id: 100801
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-18
-    narration: The magical pattern has to be grasped,@otherwise, Alina will have to
-      continue drawing useless maps...
+    narration: The magical pattern has to be grasped,@otherwise, I'll have to continue
+      drawing useless maps...
   - autoTurnLast: 0.1
     narrationEffect: out
   - nameRight: ""
@@ -172,32 +171,32 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-21
     nameCenter: Alina
-    textCenter: If you want Alina to come to you,@then where is this Mirrors offshoot?
+    textCenter: If you want me to come to you,@then where is this Mirrors offshoot?
   - chara:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-22
     nameCenter: Alina
-    textCenter: Alina wants you to say it clear as day now!
+    textCenter: I want you to say it clear as day now!
   - chara:
     - id: 100801
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-23
     nameCenter: Alina
-    textCenter: Alina doesn't give a damn what part of Alina@you are!
+    textCenter: I don't give a damn@what@part of Alina you are!
   - chara:
     - id: 100801
       motion: 400
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-24
     nameCenter: Alina
-    textCenter: However, the way things are going, don't you think@YOU are going to
-      be in trouble too!?
+    textCenter: However, the way things are going, don't you@think YOU are going to
+      be in trouble too?!
   - chara:
     - id: 100801
       lipSynch: 0
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-25
     nameCenter: Alina
-    textCenter: …………
+    textCenter: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp3.json
@@ -205,12 +204,12 @@ story:
       lipSynch: 1
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-26
     nameCenter: Alina
-    textCenter: Once again, Alina is going to Daito...
+    textCenter: Once again, I'm going to Daito...
   - chara:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-27
     nameCenter: Alina
-    textCenter: so if you feel anything, let Alina know, capito?
+    textCenter: so if you feel anything, let me know, capito?
   - autoTurnLast: 0.1
     textClear: 1
   - autoTurnLast: 1
@@ -248,7 +247,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-29
     nameRight: Karin
-    textRight: Alina's finally up!
+    textRight: You're finally up!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -266,7 +265,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-31
     nameLeft: Alina
-    textLeft: Hold it, Alina is going to Minaminagi.
+    textLeft: Hold it, I'm going to Minaminagi.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -281,7 +280,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-33
     nameLeft: Alina
-    textLeft: Ryou Midori...@that Magical Girl should still be interested...
+    textLeft: Ryo Midori...that Magical Girl@should still be interested...
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -292,13 +291,13 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-34
     nameRight: Karin
-    textRight: Wha-what...!?
+    textRight: Wha-what...?!
   - chara:
     - id: 101201
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-35
     nameRight: Karin
-    textRight: …………
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp3.json
@@ -342,7 +341,7 @@ story:
       id: 304601
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-38
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: Well yeah, after I got scolded like that.
   - chara:
     - cheek: 0
@@ -358,7 +357,7 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-40
     nameRight: Hinano
-    textRight: but why can't you work on your newspaper@in your own clubroom?
+    textRight: but why can't you work on your newspaper@in your own club room?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -366,13 +365,13 @@ story:
       motion: 400
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-41
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: Because, isn't our member Sakurako@moving around as she pleases?
   - chara:
     - id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-42
-    nameLeft: Ryou
-    textLeft: She's always wandering about and stopping by the@chemistry room,
+    nameLeft: Ryo
+    textLeft: She's always wandering about and@stopping by the chemistry room,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -380,8 +379,8 @@ story:
       motion: 100
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-43
-    nameLeft: Ryou
-    textLeft: so I thought it would be fine@to be here, too.
+    nameLeft: Ryo
+    textLeft: so I thought it would be fine@for me to be here, too.
   - chara:
     - id: 300301
       motion: 300
@@ -393,7 +392,7 @@ story:
       face: mtn_ex_041.exp3.json
       id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-45
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: But she has things to keep her busy, doesn't she?
   - chara:
     - cheek: 0
@@ -403,7 +402,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-46
     nameRight: Eternal Sakura
-    textRight: ｜ Hinano. ｜
+    textRight: '| Hinano. |'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -411,7 +410,7 @@ story:
       motion: 200
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-47
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: And there she is.
   - chara:
     - cheek: 0
@@ -421,7 +420,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-48
     nameLeft: Hinano
-    textLeft: Don't "Hinano" me,@go help Ryou with her newspaper club.
+    textLeft: Don't "Hinano" me,@go help Ryo with her newspaper club.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -429,14 +428,14 @@ story:
       motion: 0
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-49
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: It's fine, don't worry about it.@Was today another free day for you?
   - chara:
     - id: 304301
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-50
     nameRight: Eternal Sakura
-    textRight: ｜ Today, Teacher had a little interesting story@to tell me. ｜
+    textRight: '| Today, Teacher had a little@interesting story to tell me. |'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -450,7 +449,7 @@ story:
     - id: 304301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-52
     nameRight: Eternal Sakura
-    textRight: ｜ The story of the disaster in Kamihama. ｜
+    textRight: '| The story of the disaster in Kamihama. |'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -472,8 +471,8 @@ story:
       id: 304601
       motion: 400
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-53
-    nameCenter: Ryou
-    textCenter: '[se:7201_detect_magic][chara:304601:effect_ef_adv_01]!?'
+    nameCenter: Ryo
+    textCenter: '[se:7201_detect_magic][chara:304601:effect_ef_adv_01]...?!'
   - autoTurnLast: 0.1
     bg: bg_adv_narration.jpg
     chara:
@@ -486,9 +485,9 @@ story:
   - chara:
     - id: 304601
       lipSynch: 0
-    nameLeft: Ryou
+    nameLeft: Ryo
     surround: 7202_telepathy
-    textLeft: …………[wait:0.8][chara:304601:lipSynch_1]Alina?
+    textLeft: '...[wait:1.0][chara:304601:lipSynch_1][chara:304601:voiceFull_fullvoice/section_102503/vo_full_102503-5-54]Alina?'
     turnChangeOut: fadeOut
     turnEffect: ef_adv_02
   - bgm: bgm05_event08
@@ -500,7 +499,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-55
     nameRight: Alina
-    textRight: Without asking,@Alina believes we met at the fake street.
+    textRight: I believe we recently met at@Swindlers' Town, did we not?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -508,18 +507,19 @@ story:
       motion: 300
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-56
-    nameLeft: Ryou
-    textLeft: No, you're right...
+    nameLeft: Ryo
+    textLeft: No, well...
   - chara:
     - id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-57
-    nameLeft: Ryou
-    textLeft: Since I'm a former White Feather, I know you too.@Alina is a Magius...
+    nameLeft: Ryo
+    textLeft: Since I'm a former White Feather, I already@know you. Alina, one of
+      the Magius...
   - chara:
     - id: 304601
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-58
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: So, what can I do for you...?
   - chara:
     - cheek: 0
@@ -535,8 +535,8 @@ story:
       face: mtn_ex_050.exp3.json
       id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-60
-    nameLeft: Ryou
-    textLeft: …………
+    nameLeft: Ryo
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -544,17 +544,17 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-61
     nameRight: Alina
-    textRight: You were also interested in the Mirrors offshoot,@sì?
+    textRight: You were also interested in@the Mirrors offshoot, sì?
   - chara:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-62
     nameRight: Alina
-    textRight: Alina will be waiting at the fake street,
+    textRight: I'll be waiting at Swindlers' Town,
   - chara:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-63
     nameRight: Alina
-    textRight: so if you're interested, you're coming too.
+    textRight: so if you're interested, you'll come too.
   - chara:
     - cheek: 0
       face: mtn_ex_013.exp3.json
@@ -578,8 +578,8 @@ story:
     - id: 304601
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-65
-    nameCenter: Ryou
-    textCenter: …………
+    nameCenter: Ryo
+    textCenter: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     bg: bg_adv_18061.jpg
@@ -596,7 +596,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-66
     nameCenter: Alina
-    textCenter: …………
+    textCenter: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 1
     chara:
@@ -623,7 +623,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-67
     nameRight: Eternal Sakura
-    textRight: ｜ Ryou, were you listening just now? ｜
+    textRight: '| Ryo, were you listening just now? |'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -632,7 +632,7 @@ story:
       motion: 400
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-68
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: Huh?
   - bgm: bgm03_story06
     chara:
@@ -643,7 +643,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-69
     nameRight: Hinano
-    textRight: Your head isn't here, huh...
+    textRight: Your head's in the clouds, huh...
   - chara:
     - id: 300301
       motion: 1
@@ -652,7 +652,7 @@ story:
       face: mtn_ex_030.exp3.json
       id: 304601
     nameRight: Hinano
-    textRight: Sakurako was telling you what Teacher told her.
+    textRight: Sakurako was telling you@about what her teacher said.
   - chara:
     - id: 300301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-71
@@ -671,12 +671,12 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-72
     nameRight: Eternal Sakura
-    textRight: ｜ Mirrors? ｜
+    textRight: '| Mirrors? |'
   - chara:
     - id: 300301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-73
     nameLeft: Hinano
-    textLeft: Ryou's worried about Promised Blood's secret.
+    textLeft: Ryo's worried about Promised Blood's secret.
   - autoTurnLast: 0.2
     chara:
     - id: 300301
@@ -691,22 +691,22 @@ story:
       motion: 0
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-74
-    nameLeft: Ryou
-    textLeft: …………
+    nameLeft: Ryo
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 304601
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-75
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: Well, it made me curious, but...
   - chara:
     - id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-76
-    nameLeft: Ryou
-    textLeft: if the Union isn't going to spring into action,@then I won't keep investigating
-      it.
+    nameLeft: Ryo
+    textLeft: '...if the Union isn''t going to spring into action,@then I won''t keep
+      investigating it.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -714,8 +714,8 @@ story:
       motion: 100
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-77
-    nameLeft: Ryou
-    textLeft: Although right now,@I'm thinking about what Kagome told me.
+    nameLeft: Ryo
+    textLeft: As for right now,@I'm thinking about what Kagome told me.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -724,13 +724,14 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-78
     nameRight: Hinano
-    textRight: You mean spreading the story of Magical Girls@around using Ryou's photos?
+    textRight: You mean about spreading the story of Magical@Girls around using your
+      photos?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-79
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: Yeah yeah, that's it.
   - chara:
     - cheek: 0
@@ -739,18 +740,18 @@ story:
       motion: 0
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-80
-    nameLeft: Ryou
-    textLeft: I was enthusiastic looking for shots,@but I got nothin' decent.
+    nameLeft: Ryo
+    textLeft: I was excited about looking for shots,@but I got nothin' decent.
   - chara:
     - id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-81
-    nameLeft: Ryou
-    textLeft: I never thought I'd be chasin' Magical Girls@for photos,
+    nameLeft: Ryo
+    textLeft: I never thought I'd be chasin'@Magical Girls for photos,
   - chara:
     - id: 304601
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-82
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: but isn't it better than dirtying my lens@with a teacher's love gossip?
   - chara:
     - cheek: 0
@@ -766,8 +767,8 @@ story:
       face: mtn_ex_011.exp3.json
       id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-84
-    nameLeft: Ryou
-    textLeft: Then, I'm gonna go look for some scoop material.
+    nameLeft: Ryo
+    textLeft: Alright then, I'm gonna@go look for some scoop material.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -784,8 +785,8 @@ story:
       motion: 0
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-86
-    nameLeft: Ryou
-    textLeft: I'm not running from busy work,@but I can do this another time.
+    nameLeft: Ryo
+    textLeft: I'm not ditching busy work,@but I can do this another time.
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -812,7 +813,7 @@ story:
     - id: 304301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-5-88
     nameRight: Eternal Sakura
-    textRight: ｜ It appears that she is running away. ｜
+    textRight: '| It appears that she is running away. |'
   - chara:
     - id: 300301
       motion: 0

@@ -21,14 +21,14 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-1
     nameRight: Sakuya
-    textRight: How does the Union plan to stop the fighting@when you're only trying
-      to stop us?
+    textRight: If the Union really wants this war to end,
     turnChangeOut: fadeOut
   - chara:
     - id: 302101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-2
     nameRight: Sakuya
-    textRight: We need something more to heal@than to just be told to endure this.
+    textRight: we need something more than being told to@just keep enduring for us
+      to be satisfied.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -60,7 +60,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-3_nemu
     nameCenter: Touka & Nemu
-    textCenter: …………
+    textCenter: '...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -81,14 +81,15 @@ story:
       motion: 0
       pos: 0
     nameRight: Hikaru
-    textRight: Will Iroha give her answer to us now?
+    textRight: Iroha, will you give us that answer of yours now?
   - chara:
     - eyeClose: 1
       id: 100101
       motion: 301
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-5
     nameLeft: Iroha
-    textLeft: To remove all distrust,@the only idea I could come up with is...
+    textLeft: I thought of a way to dispel your distrust,@but I don't have the authority
+      to do it alone.
   - bgm: stop
     chara:
     - cheek: 0
@@ -98,7 +99,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-6
     nameLeft: Iroha
-    textLeft: something that I can't do on my own,@which is for the Union to surrender.
+    textLeft: It would be for the Union to surrender.
   - bgm: bgm03_story08
     chara:
     - cheek: 0
@@ -108,7 +109,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-7
     nameRight: Sakuya
-    textRight: '[chara:302101:effect_emotion_surprise_0][se:7226_shock]!?'
+    textRight: '[chara:302101:effect_emotion_surprise_0][se:7226_shock]*Gasp*'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -117,7 +118,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-8
     nameRight: Hikaru
-    textRight: Huhh!?
+    textRight: Huhh?!
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp3.json
@@ -135,7 +136,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-10
     nameRight: Tsuruno
-    textRight: W-wait, don't you know what that means!?
+    textRight: H-hold on, do you know what you're saying?!
   - chara:
     - id: 100101
       motion: 200
@@ -146,7 +147,7 @@ story:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-12
     nameLeft: Iroha
-    textLeft: I want you to respect our personal safety@and our goal.
+    textLeft: Simply, I want you to respect our personal@safety and our objectives.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -167,24 +168,24 @@ story:
       motion: 0
       pos: 2
     nameLeft: Hikaru
-    textLeft: The Union joining under us would be a good deal...
+    textLeft: Bringing the Union under our banner@sounds like a good deal...
   - chara:
     - id: 302101
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-14
     nameRight: Sakuya
-    textRight: I wonder...if we respect the Union's goal,
+    textRight: I wonder... If we have to respect@the Union's objectives,
   - chara:
     - id: 302101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-15
     nameRight: Sakuya
-    textRight: then that means we have to help them achieve it.
+    textRight: then that means we'd have to help@them achieve those objectives.
   - chara:
     - id: 302101
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-16
     nameRight: Sakuya
-    textRight: Even if Futatsugi is saved,@that's just yet another burden to bear.
+    textRight: Even if it saves Futatsugi, that'd be@one more burden for us to bear.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -193,13 +194,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-17
     nameLeft: Hikaru
-    textLeft: Does that mean we'd have even more limits?
+    textLeft: So we'd have even more tying us down?
   - chara:
     - id: 302101
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-18
     nameRight: Sakuya
-    textRight: But I think the Union is by far the greater risk.
+    textRight: But I think the Union would be the@ones taking a far greater risk.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -227,18 +228,19 @@ story:
     - id: 100201
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-21
     nameRight: Yachiyo
-    textRight: Even if it makes sense,@the fact that we lost will remain,
+    textRight: Even if it makes sense,@and even if we would be equals in name,
   - chara:
     - id: 100201
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-22
     nameRight: Yachiyo
-    textRight: and even if we're equals in name,@a natural hierarchy will form,
+    textRight: the fact that we "lost" will naturally create@a pecking order with
+      us below them,
   - chara:
     - id: 100201
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-23
     nameRight: Yachiyo
-    textRight: and Union members will be trapped@in a suffocating environment.
+    textRight: and Union members will end up trapped@in a stifling environment.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -247,13 +249,13 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-24
     nameRight: Tsuruno
-    textRight: And before that, anyone that doesn't agree@may leave the Union...
+    textRight: And even before that, anyone that disagrees@might just leave the Union...
   - chara:
     - id: 100301
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-25
     nameRight: Tsuruno
-    textRight: If you're not careful,@there could be an even worse conflict...
+    textRight: If we aren't careful, it could end up@leading to an even worse conflict...
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp3.json
@@ -261,7 +263,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-26
     nameLeft: Iroha
-    textLeft: '...[wait:0.8][chara:100101:lipSynch_1]I''m sorry...'
+    textLeft: '...I''m sorry...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -270,32 +272,32 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-27
     nameRight: Hikaru
-    textRight: Like how me and others have been killing daily,
+    textRight: For people like me and the others@that have been killing daily,
   - chara:
     - id: 102201
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-28
     nameRight: Hikaru
-    textRight: it's easy to imagine.
+    textRight: it's easy to imagine things going that way.
   - chara:
     - id: 102201
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-29
     nameRight: Hikaru
-    textRight: I will pretend to have not heard that this time,
+    textRight: I'll pretend that I didn't hear anything this time,
   - chara:
     - cheek: 0
       face: mtn_ex_042.exp3.json
       id: 102201
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-30
     nameRight: Hikaru
-    textRight: and only that you pointlessly requested to not fight, pointlessly.
+    textRight: and that you only pointlessly requested@that we not fight.
   - chara:
     - eyeClose: 1
       id: 100101
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-31
     nameLeft: Iroha
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -304,8 +306,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-10-32
     nameRight: Sakuya
-    textRight: However, if that will be the case,@is there nothing else you could
-      propose?
+    textRight: However, that being the case,@is there nothing else you can propose?
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

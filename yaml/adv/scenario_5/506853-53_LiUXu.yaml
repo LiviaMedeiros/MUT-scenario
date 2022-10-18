@@ -23,7 +23,7 @@ story:
       motion: 300
     nameLeft: Shizuka
     nameRight: Sunao
-    textRight: '............'
+    textRight: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 102501
@@ -126,15 +126,15 @@ story:
       motion: 0
       pos: 0
     nameLeft: Chiharu
-    textLeft: Yeah! The only Sunao-chan I know is our kind friend, too!
+    textLeft: Yeah! The only Sunao I know is our kind friend, too!
   - chara:
     - id: 102701
-    textRight: I'm sorry, Shizuka... Charu...
+    textRight: I'm sorry, Shizuka...Charu...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102601
-    textLeft: Plus, us Diviners would've gotten killed at some @point anyway, right!?
+    textLeft: Plus, us Diviners would've gotten killed at some @point anyway, right?!
   - bgm: stop
     chara:
     - id: 102601
@@ -153,7 +153,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102601
       motion: 1
-    textLeft: Granny doesn't know that Shizuka-chan and I are @alive, right?
+    textLeft: Granny doesn't know that Shizuka and I are @alive, right?
   - chara:
     - id: 102601
     textLeft: So let's sneak back up there and give 'er a piece of @our mind!
@@ -169,7 +169,7 @@ story:
   - chara:
     - id: 102601
       motion: 100
-    textLeft: and about Sunao-chan! Everything!
+    textLeft: and about Sunao! Everything!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -281,7 +281,7 @@ story:
   - chara:
     - id: 102601
       motion: 0
-    textLeft: Shizuka-chan... You mean the whole village is a Labyrinth...?
+    textLeft: Shizuka... You mean the whole village is a Labyrinth...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

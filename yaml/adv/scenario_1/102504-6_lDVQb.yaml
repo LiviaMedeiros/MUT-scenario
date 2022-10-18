@@ -15,7 +15,7 @@ story:
     - id: 100100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-1
     nameCenter: Iroha
-    textCenter: Huh...
+    textCenter: Huh...?
     turnChangeOut: fadeOut
   - chara:
     - id: 100100
@@ -46,7 +46,7 @@ story:
     - id: 100100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-5
     nameRight: Iroha
-    textRight: What's wrong?@I'm not wasting my magic power this time...?
+    textRight: What's wrong?@I'm not wasting my magic power this time...
   - chara:
     - id: 100100
       motion: 0
@@ -58,13 +58,13 @@ story:
     - id: 6011
       name: sprite_0
     nameLeft: ""
-    textLeft: ∵Eehee＿heh heh?
+    textLeft: ∵Eehee＿heheh?
   - chara:
     - id: 100100
       motion: 301
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-8
     nameRight: Iroha
-    textRight: Yeah, it's frustrating...@I feel so worthess...
+    textRight: Yeah, it's frustrating...@I feel so worthless...
   - chara:
     - id: 100100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-9
@@ -75,19 +75,19 @@ story:
       id: 100100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-10
     nameRight: Iroha
-    textRight: so now I want Ikumi to defeat that [textYellow:Kimochi]...
+    textRight: So now I want Ikumi to defeat that [textYellow:Kimochi]...
   - chara:
     - id: 6011
       name: sprite_0
     nameLeft: ""
-    textLeft: ∵HeeHeh hehh￣Neehee…
+    textLeft: ∵HeeHeh hehh￣Neehee...
   - chara:
     - eyeClose: 0
       id: 100100
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-12
     nameRight: Iroha
-    textRight: It's true that Midori and her group@acted on their own, but...
+    textRight: It's true that Ryo the others@acted on their own, but...
   - chara:
     - id: 100100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-13
@@ -97,20 +97,20 @@ story:
     - id: 100100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-13a
     nameRight: Iroha
-    textRight: just don't hold any persuasion...
+    textRight: just weren't persuasive...
   - chara:
     - id: 100100
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-14
     nameRight: Iroha
-    textRight: It's not that I'm keeping the Union together@all on my own,
+    textRight: I know I'm not the only one@holding the Union together,
   - chara:
     - cheek: 1
       face: mtn_ex_031.exp3.json
       id: 100100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-15
     nameRight: Iroha
-    textRight: but if I could have just been stronger and had@a better mindset...
+    textRight: but if I could have just been stronger,@and more decisive...
   - chara:
     - cheek: 2
       eyeClose: 1
@@ -119,7 +119,7 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-16
     nameRight: Iroha
-    textRight: '...*sob*...'
+    textRight: '...*Sob*...'
   - chara:
     - eyeClose: 1
       id: 100100
@@ -127,12 +127,12 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-17
     nameRight: Iroha
-    textRight: Ryou...@You didn't...have to die...
+    textRight: Ryo...@You didn't...have to die...
   - chara:
     - id: 6011
       name: sprite_0
     nameLeft: ""
-    textLeft: ∵Aha￣EHehehe…
+    textLeft: ∵Aha￣EHehehe...
   - chara:
     - eyeClose: 0
       id: 100100
@@ -140,7 +140,7 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-19
     nameRight: Iroha
-    textRight: Yeah, that's right...@That's why I want to at least get it...
+    textRight: Yeah, that's right...@That's why I want to at least retrieve it...
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp3.json
@@ -155,13 +155,13 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-21
     nameRight: Iroha
-    textRight: That [textYellow:Kimochi] isn't trying to hurt Ikumi at all,@right...?
+    textRight: That [textYellow:Kimochi] isn't trying to@hurt Ikumi at all, right...?
   - chara:
     - id: 100100
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-22
     nameRight: Iroha
-    textRight: But even then,@we couldn't get her the chance she needed...
+    textRight: But even then, we couldn't@get her the chance she needed...
   - chara:
     - id: 6011
       name: sprite_0
@@ -201,7 +201,7 @@ story:
     - id: 100100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-28
     nameRight: Iroha
-    textRight: then I will let her defeat it...
+    textRight: then I'll give her the chance to defeat it...
   - autoTurnLast: 1
     bg: black
     bgm: stop
@@ -223,7 +223,7 @@ story:
     turnChangeOut: whiteOut
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-29
   - nameNarration: Sana
-    narration: ―Sana―@And that incredible magic power...@What is going on...?
+    narration: ―Sana―@And that incredible magical power...@What's going on...?
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-30
   - nameNarration: Tsuruno
     narration: ―Tsuruno―@Could it be...her [textYellow:Kimochi]...?
@@ -236,7 +236,7 @@ story:
       its power.
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-33
   - narration: ―Iroha―@Now, I'm sure I won't be defeated@by the [textYellow:Kimochi]
-      of Sorrow.
+      of Grief.
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-6-34
   - autoTurnLast: 2
     bgm: stop

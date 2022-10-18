@@ -62,7 +62,7 @@ story:
     - eyeClose: 1
       id: 102700
       motion: 200
-    textRight: But, how should I say this... it feels flat, even...
+    textRight: But, how should I say this...it feels flat, even...
   - chara:
     - id: 102700
     textRight: There's slight changes every so often, but the @intensity of the reaction
@@ -82,7 +82,7 @@ story:
   - chara:
     - id: 102600
       motion: 0
-    textRight: What about Shizuka-chan?
+    textRight: What about Shizuka?
   - chara:
     - id: 102500
     textLeft: The same as you two, unfortunately...
@@ -118,7 +118,7 @@ story:
     - eyeClose: 1
       id: 102600
       motion: 1
-    textRight: Hiding something, being hidden... hmm, @you might be on to something.
+    textRight: Hiding something, being hidden...hmm, @you might be on to something.
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -126,14 +126,14 @@ story:
       id: 102700
       lipSynch: 0
       motion: 0
-    textLeft: '............?'
+    textLeft: '...?'
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_010.exp.json
       id: 102600
       motion: 200
-    textRight: At times like these, I ask Todoroki Kouichi!
+    textRight: At times like these, I ask Kouichi Todoroki!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -155,7 +155,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102600
       motion: 0
-    textRight: You know him, Sunao-chan!?
+    textRight: You know him, Sunao?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -199,7 +199,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102600
       motion: 200
-    textRight: What should we do at a time like this!?
+    textRight: What should we do at a time like this?!
   - autoTurnLast: 0.01
     item:
     - path: resource/scenario/img/51068_storyselect_tokime/memoria_1385.jpg
@@ -320,7 +320,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102500
       lipSynch: 0
-    textLeft: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]——!?'
+    textLeft: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]——?!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -433,7 +433,7 @@ story:
   - chara:
     - id: 102500
       motion: 100
-    textLeft: Yeah. We're almost out of time, after all-- @let's hurry to the Grand
+    textLeft: Yeah. We're almost out of time, after all― @let's hurry to the Grand
       Shrine.
   - autoTurnLast: 2
     turnChangeIn: fadeIn

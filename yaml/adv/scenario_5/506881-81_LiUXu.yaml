@@ -76,7 +76,7 @@ story:
       motion: 100
       mouthOpen: 1
     nameNarration: All three
-    narration: '"Kyu———be————sama————!"'
+    narration: '"Lo———rd Kyu———be————!"'
     narrationBg: ""
     narrationEffect: in
   - chara:
@@ -210,7 +210,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102501
       motion: 100
-    textLeft: We're the ones who fight for the Land of the Rising Sun-- we don't want
+    textLeft: We're the ones who fight for the Land of the Rising Sun― we don't want
       to make anybody suffer!
   - chara:
     - id: 810000
@@ -238,20 +238,20 @@ story:
       id: 102601
       lipSynch: 0
       motion: 400
-    textLeft: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]--!?'
+    textLeft: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102601
       motion: 100
-    textLeft: You just said "many", didn't you!?
+    textLeft: You just said "many", didn't you?!
   - chara:
     - id: 102601
       motion: 200
-    textLeft: That just means that Kyūbē-sama might not know,
+    textLeft: That just means that Lord Kyūbē might not know,
   - chara:
     - id: 102601
-    textLeft: but some method does exist, right!?
+    textLeft: but some method does exist, right?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -259,7 +259,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Sunao
-    textLeft: But Kyūbē-sama can't tell us anything about it, @yes...?
+    textLeft: But Lord Kyūbē can't tell us anything about it, @yes...?
   - chara:
     - id: 810000
     textRight: True. It would be difficult for me to tell you by myself.
@@ -341,7 +341,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Chiharu
-    textRight: I can explain stuff about modern society to Shizuka-chan!
+    textRight: I can explain stuff about modern society to Shizuka!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

@@ -78,7 +78,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Sunao
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - id: 102701
       motion: 300
@@ -108,7 +108,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102701
       motion: 100
-    textLeft: But-- but I can't, any more!
+    textLeft: But― but I can't, any more!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -169,7 +169,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 801800
     textRight: There, of all places...?! Unbelievable! I was by a Devil's side in
-      such a holy place!?
+      such a holy place?!
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -191,11 +191,11 @@ story:
       id: 800600
       motion: 0
       pos: 0
-    nameLeft: Chiharu's mother
+    nameLeft: Chiharu's Mother
     textLeft: Then, you shouldn't remember threatening me into coming here either...
   - chara:
     - id: 801800
-    textRight: That's... true...
+    textRight: That's...true...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -207,10 +207,10 @@ story:
   - chara:
     - id: 801800
       lipSynch: 0
-    textRight: '............'
+    textRight: '...'
   - chara:
     - id: 801800
-    textRight: It was... yes, I believe it was since Sunao's case.
+    textRight: It was...yes, I believe it was since Sunao's case.
   - chara:
     - id: 801800
     textRight: One year... Perhaps even two, at most...?
@@ -223,7 +223,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 801800
-    textRight: That... case...?
+    textRight: That...case...?
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp.json
@@ -231,7 +231,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Chiharu
-    textLeft: Sunao-chan... What are you talking about...?
+    textLeft: Sunao... What are you talking about...?
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

@@ -22,19 +22,19 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-1
     nameLeft: Tsuruno
-    textLeft: How's it going on Felicia's end?
+    textLeft: How's it going on your end, Felicia?
     turnChangeOut: fadeOut
   - chara:
     - id: 100301
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-2
     nameLeft: Tsuruno
-    textLeft: Can someone from Promised Blood@get us connected to Yuna Kureha?
+    textLeft: Can anyone from Promised Blood@hook us up with Yuna Kureha?
   - chara:
     - id: 100501
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-3
     nameRight: Felicia
-    textRight: Nah, it was impossible like always!
+    textRight: No way, they were being as impossible as always!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -49,12 +49,13 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-5
     nameRight: Felicia
-    textRight: I tried talkin' with them in Minaminagi,
+    textRight: I found them in Minaminagi@and tried talkin' with them,
   - chara:
     - id: 100501
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-6
     nameRight: Felicia
-    textRight: but the Tokime were crackling@and the fire girl was just glarin'.
+    textRight: but they were bickerin' with the Tokime@and the fire girl just kept
+      glarin'.
   - chara:
     - cheek: 1
       face: mtn_ex_021.exp3.json
@@ -63,7 +64,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-7
     nameRight: Felicia
-    textRight: Grr! Just thinkin' about it makes me feel mad...!
+    textRight: Grr! Just thinkin' about it makes me so mad...!
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp3.json
@@ -74,12 +75,12 @@ story:
     - id: 100501
       motion: 0
     nameLeft: Sana
-    textLeft: Oh by the way, Sunao was saying...
+    textLeft: Oh, by the way, Sunao was saying...
   - chara:
     - id: 100401
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-9
     nameLeft: Sana
-    textLeft: she couldn't find the [textYellow:Kimochi] at the cargo port...
+    textLeft: that they couldn't find the@[textYellow:Kimochi] at the cargo port...
   - chara:
     - id: 100401
       motion: 300
@@ -92,7 +93,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-11
     nameRight: Felicia
-    textRight: Then say that first...! Can't you tell I'm angry!?
+    textRight: You should've lead with that...!@Now I'm all angry!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -101,7 +102,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-12
     nameLeft: Sana
-    textLeft: Y-you're already angry though...!@But um, I'm sorry...!
+    textLeft: Y-you were already angry, though...!@But, um, I'm sorry...!
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp3.json
@@ -119,7 +120,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-14
     nameLeft: Sana
-    textLeft: I talked to them, but they turned their noses@and laughed...
+    textLeft: I talked to them, but they just laughed at me...
   - chara:
     - id: 100501
       motion: 0
@@ -132,13 +133,13 @@ story:
       id: 100401
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-16
     nameLeft: Sana
-    textLeft: You can't...! We're supposed to be talking about@making peace...!
+    textLeft: You can't...! We're supposed to be talking@about making peace...!
   - chara:
     - id: 100501
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-17
     nameRight: Felicia
-    textRight: Before we can make peace, they gotta start listenin'!
+    textRight: Before we can make peace,@they gotta start listenin'!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -147,12 +148,12 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-18
     nameLeft: Iroha
-    textLeft: I would like an opportunity to talk to Yuna directly,
+    textLeft: I want to have a chance to talk directly to Yuna,
   - chara:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-19
     nameLeft: Iroha
-    textLeft: but it's difficult when we really need to...
+    textLeft: but when it comes down to it,@that's not so easy to arrange...
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp3.json
@@ -161,14 +162,14 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-20
     nameRight: Tsuruno
-    textRight: There's only two [textYellow:Kimochi] stones left and@our opponents
-      are prepared for war...
+    textRight: There are only two [textYellow:Kimochi] Stones left and@our opponents
+      are ready for war...
   - chara:
     - id: 100101
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-21
     nameLeft: Iroha
-    textLeft: Hmm....if this is the way it's going to be,@am I going to have to rely
+    textLeft: Hmm...if this is the way it's going to be,@am I going to have to rely
       on that person?
   - chara:
     - cheek: 0
@@ -178,8 +179,8 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-22
     nameRight: Tsuruno
-    textRight: Well, if you get caught,@don't you think that's the best way to be
-      heard?
+    textRight: Well, if we can get a hold of her,@don't you think that's the best
+      way to be heard?
   - autoTurnLast: 0.2
     chara:
     - id: 100301
@@ -206,8 +207,7 @@ story:
       voiceFull: fullvoice/section_102501/vo_full_102501-3-25
     enableSkipAutoTurn: 1
     nameRight: Sana
-    textRight: Spy...?[chara:100401:lipSynch_0][wait:0.8][chara:100401:cheek_0][chara:100401:face_mtn_ex_010.exp.json][chara:100401:lipSynch_1]@Ah,
-      I get it...!
+    textRight: Spy...?@Ah, I get it...!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -222,8 +222,7 @@ story:
       voiceFullStop: fullvoice/section_102501/vo_full_102501-3-25
     enableSkipAutoTurn: 0
     nameLeft: Iroha
-    textLeft: Well, we're going to try moving again,@so please continue with your
-      work.
+    textLeft: Well, we're going to give it a shot,@so please continue with your work.
   - chara:
     - id: 100401
       motion: 200
@@ -320,7 +319,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-36
     nameLeft: Tsuruno
-    textLeft: Then, that means you want to investigate@what's happening too, right!?
+    textLeft: Then, that means you want to investigate@what's happening too, right?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -329,13 +328,13 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-37
     nameRight: Sakuya
-    textRight: Yeah, I was starting to worry@since the Union hasn't been making any
+    textRight: Yeah, I was starting to worry since@the Union hasn't been making any
       moves.
   - chara:
     - id: 302101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-38
     nameRight: Sakuya
-    textRight: The Tokime are only aiming for the [textYellow:Kimochi]@at the cargo
+    textRight: The Tokime are only aiming for@the [textYellow:Kimochi] at the cargo
       port,
   - chara:
     - id: 302101
@@ -360,7 +359,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-41
     nameLeft: Iroha
-    textLeft: Yes, as Sakuya said, we aren't making any moves.
+    textLeft: Yes, as you said, we aren't making any moves.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -403,7 +402,7 @@ story:
       voiceFullStop: fullvoice/section_102501/vo_full_102501-3-44
     enableSkipAutoTurn: 0
     nameRight: Sakuya
-    textRight: You do understand what I've done, right...?
+    textRight: You do understand what we've done, right...?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -412,14 +411,14 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-46
     nameRight: Sakuya
-    textRight: Even if there were no grudges,@it doesn't make sense for us to join
-      hands...
+    textRight: Even if we weren't carrying a grudge,@it doesn't make sense for us
+      to join hands...
   - chara:
     - id: 302101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-47
     nameRight: Sakuya
-    textRight: '...because Futatsugi Magical Girls still need@the automatic purification
-      system.'
+    textRight: '...because Futatsugi Magical Girls still need@the Automatic Purification
+      System.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -433,7 +432,7 @@ story:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-49
     nameLeft: Iroha
-    textLeft: so if they don't steal it,@Futatsugi City will be included too.
+    textLeft: so even if they don't steal it,@Futatsugi City will be included too.
   - chara:
     - id: 302101
       motion: 0
@@ -455,12 +454,12 @@ story:
       motion: 101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-52
     nameLeft: Tsuruno
-    textLeft: When Eve was still the automatic purification@system,
+    textLeft: When Eve was still the Automatic@Purification System,
   - chara:
     - id: 100301
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-53
     nameLeft: Tsuruno
-    textLeft: the Magius was collecting energy to expand it.
+    textLeft: the Magius were collecting energy to expand it.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -469,12 +468,12 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-54
     nameLeft: Iroha
-    textLeft: The collected energy was fragmented into the@[textYellow:Kimochi] stones,
+    textLeft: The collected energy was fragmented@into the [textYellow:Kimochi] Stones,
   - chara:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-55
     nameLeft: Iroha
-    textLeft: so by using that vast energy,@we plan to expand the system.
+    textLeft: so by using that same vast energy,@we plan to expand the system.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -488,7 +487,7 @@ story:
     - id: 100301
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-57
     nameRight: Tsuruno
-    textRight: so Touka and the Magius think it can expand throughout the world.
+    textRight: so Touka and the Magius think it can@expand all around the world.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -515,7 +514,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-60
     nameLeft: Iroha
-    textLeft: Yes, so if we join hands,@we'll minimize the harm done and save everyone!
+    textLeft: Yes, so if we join hands, we'll minimize@the harm done and save everyone!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -524,7 +523,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-61
     nameLeft: Tsuruno
-    textLeft: Sakuya, please! Get us a place where we can@speak with Yuna Kureha!
+    textLeft: Sakuya, please! Get us a chance to@speak with Yuna Kureha!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -533,7 +532,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-62
     nameLeft: Tsuruno
-    textLeft: We keep getting refused,@so we can only depend on Sakuya!
+    textLeft: We keep getting shut down,@so you're our only hope!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -542,7 +541,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-63
     nameRight: Sakuya
-    textRight: Mm, but you know,@I'm just the mediator between this agreement?
+    textRight: Err, so, you want me to moderate?
   - chara:
     - id: 100301
       motion: 200
@@ -554,7 +553,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-65
     nameRight: Sakuya
-    textRight: I know that,@but there's a structure to confronting others.
+    textRight: Yeah, but, you realize she's part@of a whole organization.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -563,7 +562,8 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-66
     nameLeft: Iroha
-    textLeft: If we can join hands,@we'll offer only the best conditions!
+    textLeft: Even if it's only us who can join forces, I know@we can achieve the
+      best possible outcome!
   - chara:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-67
@@ -576,8 +576,8 @@ story:
       lipSynch: 0
       motion: 300
     nameRight: Sakuya
-    textRight: …………[wait:1.0][chara:302101:eyeClose_1][chara:302101:lipSynch_1]Ahh,
-      damnit.
+    textRight: '...[wait:1.0][chara:302101:lipSynch_1][chara:302101:eyeClose_1][chara:302101:voiceFull_fullvoice/section_102501/vo_full_102501-3-68]Ahh,
+      damnit.'
   - chara:
     - eyeClose: 0
       id: 302101
@@ -585,7 +585,7 @@ story:
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-69
       voiceFullStop: fullvoice/section_102501/vo_full_102501-3-68
     nameRight: Sakuya
-    textRight: I get it, I'll try to consult them, but only once...
+    textRight: I get it. I'll try to consult with her, but only once...
   - autoTurnFirst: 1.2
     chara:
     - cheek: 0
@@ -595,8 +595,7 @@ story:
       voiceFull: fullvoice/section_102501/vo_full_102501-3-70
     enableSkipAutoTurn: 1
     nameLeft: Iroha
-    textLeft: Oh, [wait:0.5][chara:100101:cheek_0][chara:100101:face_mtn_ex_010.exp.json][chara:100101:lipSynch_1]thank
-      you so much!
+    textLeft: Oh, thank you so much!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -611,13 +610,13 @@ story:
       voiceFullStop: fullvoice/section_102501/vo_full_102501-3-70
     enableSkipAutoTurn: 0
     nameLeft: Tsuruno
-    textLeft: That's my number one bestest@Promised Blood girl～!
+    textLeft: That's my number one bestest@Promised Blood girl~!
   - chara:
     - id: 302101
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-3-72
     nameRight: Sakuya
-    textRight: My enemies knowing my true nature@just makes me weak...
+    textRight: I'm weak against people@that know my true nature...
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

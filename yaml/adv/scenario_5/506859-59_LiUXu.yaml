@@ -19,7 +19,7 @@ story:
     nameCenter: ""
     surround: 1026A04
     textBg: shout
-    textCenter: '...!?'
+    textCenter: '...?!'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.5
     chara:
@@ -35,7 +35,7 @@ story:
       motion: 200
       pos: 1
     nameCenter: Chiharu
-    textCenter: Mom, are you okay!? What about Shizuka's mother?
+    textCenter: Mom, are you okay?! What about Shizuka's mother?
   - autoTurnLast: 0.2
     chara:
     - id: 102600
@@ -48,7 +48,7 @@ story:
       id: 800600
       motion: 0
       pos: 2
-    nameRight: Chiharu's mother
+    nameRight: Chiharu's Mother
     textRight: Yeah, I'm fine. Thanks, Chiharu...
   - chara:
     - cheek: 0
@@ -56,7 +56,7 @@ story:
       id: 801000
       motion: 0
       pos: 2
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textRight: That's a Diviner for you... I don't think I'll ever be @able to close
       that gap.
   - chara:
@@ -76,7 +76,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102600
       motion: 0
-    textLeft: Haven't you both escaped?
+    textLeft: Why haven't you two escaped?
   - chara:
     - id: 102600
     textLeft: I searched all over the place, but didn't find anyone else.
@@ -86,7 +86,7 @@ story:
       id: 800600
       motion: 0
       pos: 2
-    nameRight: Chiharu's mother
+    nameRight: Chiharu's Mother
     textRight: Of course, we evacuated with the others...
   - chara:
     - id: 800600
@@ -100,7 +100,7 @@ story:
       id: 801000
       motion: 0
       pos: 2
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textRight: Though we have no idea why they chose to target @us...
   - chara:
     - cheek: 0
@@ -108,7 +108,7 @@ story:
       id: 800600
       motion: 0
       pos: 2
-    nameRight: Chiharu's mother
+    nameRight: Chiharu's Mother
     textRight: So, Chiharu.
   - chara:
     - cheek: 0
@@ -137,7 +137,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 800600
     textRight: And now there's monsters popping up! Do you have any idea how worried
-      I was...!?
+      I was...?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -149,17 +149,17 @@ story:
     textLeft: I was worried about the coming-of-age ceremony, @so I went to see.
   - chara:
     - id: 102600
-    textLeft: Then Shizuka-chan and I got pushed into the @waterfall basin...
+    textLeft: Then Shizuka and I got pushed into the @waterfall basin...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 800600
-    textRight: Into the waterfall basin...!?
+    textRight: Into the waterfall basin...?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 800600
-    textRight: Who would do that...!? Are you hurt at all...!?
+    textRight: Who would do that...?! Are you hurt at all...?!
   - chara:
     - id: 102600
       motion: 0
@@ -170,7 +170,7 @@ story:
       id: 801000
       motion: 0
       pos: 2
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textRight: Er, do you mean to say you got pushed during the ceremony...?
   - chara:
     - id: 102600
@@ -185,7 +185,7 @@ story:
     textLeft: And we get turned into Devils...
   - chara:
     - id: 801000
-    textRight: This-- is all a little much for me to process. Shizuka's alright, yes?
+    textRight: This― is all a little much for me to process. Shizuka's alright, yes?
   - chara:
     - id: 801000
     textRight: She said she would contact me...
@@ -237,7 +237,7 @@ story:
       id: 800600
       motion: 0
       pos: 2
-    nameRight: Chiharu's mother
+    nameRight: Chiharu's Mother
     textRight: Was there actually anyone...?
   - chara:
     - cheek: 0
@@ -251,7 +251,7 @@ story:
       id: 801000
       motion: 0
       pos: 2
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textRight: Into thin air, huh...?
   - chara:
     - cheek: 0
@@ -266,7 +266,7 @@ story:
       id: 102600
       lipSynch: 0
       motion: 0
-    textLeft: '[chara:102600:effect_ef_adv_01][se:7201_detect_magic].......'
+    textLeft: '[chara:102600:effect_ef_adv_01][se:7201_detect_magic]...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -311,7 +311,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Chiharu
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textLeft: Why do they keep tracking us like this?
   - chara:
     - id: 801000
@@ -352,7 +352,7 @@ story:
       id: 801000
       motion: 0
       pos: 0
-    nameLeft: Shizuka's mother
+    nameLeft: Shizuka's Mother
     nameRight: Shizuka
     textLeft: Shizuka...!
   - chara:

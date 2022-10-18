@@ -20,7 +20,7 @@ story:
       pos: 0
     nameLeft: ""
     textBg: shout
-    textLeft: '[bgEffect:shakeSmall]∵Hee＿Uu￣waaaAN!!'
+    textLeft: '[bgEffect:shakeSmall]∵Hic＿Oo￣waaa―AGH!!'
     turnChangeOut: fadeOut
   - autoTurnLast: 1
     chara:
@@ -51,7 +51,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-3
     nameRight: Hikaru
-    textRight: '[chara:102200:effect_shake]Gh…*cough*...'
+    textRight: '[chara:102200:effect_shake]Gh...*cough*...'
   - chara:
     - id: 6018
       name: sprite_0
@@ -101,14 +101,14 @@ story:
       id: 102200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-7
     nameRight: Hikaru
-    textRight: Even though the horse is the one that should be supportin' Yuna, I'm
-      too weak...
+    textRight: Even though I should be the one supportin'@you as your horse, I'm too
+      weak...
   - chara:
     - id: 102100
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-8
     nameLeft: Yuna
-    textLeft: No...this one's power is much greater than@the others...
+    textLeft: No...this one's power is far beyond than the others...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -129,18 +129,18 @@ story:
       motion: 0
       pos: 2
     nameLeft: Mitama
-    textLeft: Kanagi, I made some temporary adjustments!
+    textLeft: Kanagi, I've given you a temporary boost!
   - chara:
     - id: 101701
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-9a
     nameLeft: Mitama
-    textLeft: Strike the [textYellow:Kimochi], then connect to Ikumi!
+    textLeft: Strike the [textYellow:Kimochi], then link up with Ikumi!
   - chara:
     - id: 101600
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-10
     nameRight: Kanagi
-    textRight: You're a savior, Mitama.
+    textRight: You're a savior, Yakumo.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -175,13 +175,13 @@ story:
     - name: sprite_0
     nameLeft: ""
     textBg: shout
-    textLeft: '[surround:1016A05][name:sprite_0:effect_7002_damage01][bgEffect:shakeSmall]∵aAAA!?!?'
+    textLeft: '[surround:1016A05][name:sprite_0:effect_7002_damage01][bgEffect:shakeSmall]∵aAAAH―?!?!'
   - chara:
     - id: 6018
       name: sprite_0
     nameLeft: ""
     textBg: shout
-    textLeft: ∵UWaAA＿aan!
+    textLeft: ∵WaAAh＿―aagh!
   - chara:
     - cheek: 0
       effect: shake
@@ -197,7 +197,7 @@ story:
       id: 101600
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-16
     nameRight: Kanagi
-    textRight: I was aiming for your soft side,@but there's no reaction.
+    textRight: I was aiming for your soft side,@but didn't even get a reaction.
   - autoTurnLast: 0.2
     chara:
     - id: 101600
@@ -211,7 +211,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-17
     nameRight: Momoko
-    textRight: Kanagi, we're gonna keep hittin' the same place@as you!!
+    textRight: Kanagi, we'll keep batterin'@on the same place you did!!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -220,7 +220,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-18
     nameLeft: Kanagi
-    textLeft: Momoko? I'll leave it to you!
+    textLeft: Togame? Then I'll leave it to you!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -235,7 +235,7 @@ story:
       pos: 0
     nameRight: Momoko
     textBg: shout
-    textRight: Concentrate on its side and hit it!
+    textRight: Concentrate on its side and give it all you've got!
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -271,7 +271,7 @@ story:
       name: sprite_0
     nameLeft: ""
     textBg: shout
-    textLeft: '[flashEffect:flashRed2][se:6150_hit_magic_01][bgEffect:shakeLarge][name:sprite_0:effect_shake]∵Hee＿aAA￣aa…!?'
+    textLeft: '[flashEffect:flashRed2][se:6150_hit_magic_01][bgEffect:shakeLarge][name:sprite_0:effect_shake]∵Hic＿aAA￣aa...?!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -306,13 +306,13 @@ story:
       posX: 50
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-25
     nameCenter: Mifuyu
-    textCenter: Do not give up! There is still a chance to connect!
+    textCenter: Don't give up!@There's still a chance to link up!
   - chara:
     - id: 100600
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-26
     nameCenter: Mifuyu
-    textCenter: I will let you dream a little!
+    textCenter: I'll let you dream a little!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -346,7 +346,7 @@ story:
       id: 6018
       name: sprite_0
     nameLeft: ""
-    textLeft: ∵urgh＿URH…AAuu
+    textLeft: ∵urgh＿URH...AAww
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -360,7 +360,7 @@ story:
       name: sprite_1
     nameLeft: ""
     textBg: shout
-    textLeft: '[bgEffect:shakeLarge]∵GOoo＿uuOO￣oooo!!'
+    textLeft: '[bgEffect:shakeLarge]∵GOoo＿uuOO￣oooo―!!'
   - autoTurnLast: 1
     turnChangeIn: whiteIn
     turnChangeOut: whiteOut
@@ -407,14 +407,14 @@ story:
       motion: 300
       pos: 0
     nameRight: Momoko
-    textRight: Khh...just that one attack was too much...@Rena, are you okay...?
+    textRight: Khh...just that one attack was way too much...@Rena, are you okay...?
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp3.json
       id: 100900
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-34
     nameLeft: Rena
-    textLeft: Crap...@My shoulder almost got dislocated...
+    textLeft: Crap...@I think I dislocated my shoulder...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -427,16 +427,16 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-36
     nameRight: Momoko
-    textRight: Sorry, Yachiyo...@We couldn't connect to Ikumi...!
+    textRight: Sorry, Yachiyo...@We couldn't link up with Ikumi...!
   - chara:
     - id: 101000
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-37
     nameRight: Momoko
-    textRight: It's pretty bad over here.
+    textRight: Gonna have to ask you to do it on your side...
   - bgm: stop
     nameCenter: ""
     textBg: shout
-    textCenter: ∵GHH＿OOooo!!
+    textCenter: ∵GHH＿OOooo―!!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -456,7 +456,7 @@ story:
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-40
     nameLeft: Yachiyo
     surround: 7202_telepathy
-    textLeft: I'm sorry, Momoko.@It went after me before I could get out of the way.
+    textLeft: I'm sorry, Momoko.@It went after us before we could advance.
     turnEffect: ef_adv_02
   - chara:
     - cheek: 0
@@ -466,7 +466,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-41
     nameRight: Felicia
-    textRight: Up 'til now these things were only as strong@as trash...
+    textRight: All the ones up 'til now were@trash compared to this thing...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -475,7 +475,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-42
     nameRight: Sana
-    textRight: Promised Blood is also struggling...
+    textRight: Promised Blood is struggling too...
   - autoTurnLast: 2.4
     chara:
     - cheek: 0
@@ -487,8 +487,7 @@ story:
       voiceFull: fullvoice/section_102504/vo_full_102504-5-43
     enableSkipAutoTurn: 1
     nameLeft: Tsuruno
-    textLeft: At this rate, gh...*cough*...[chara:100300:lipSynch_0][wait:0.8][chara:100300:cheek_0][chara:100300:face_mtn_ex_030.exp.json][chara:100300:lipSynch_1]@...are
-      we going to be wiped out...?
+    textLeft: At this rate, guh...*cough*...@...are we going to be wiped out...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -513,14 +512,14 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-44
     nameCenter: Iroha
-    textCenter: (We're being attacked by the sorrow of@dead Magical Girls that fill
-      Kamihama...)
+    textCenter: (All the sorrow filling Kamihama is attacking us,@and the Magical
+      Girls will all die...)
   - chara:
     - id: 100100
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-45
     nameCenter: Iroha
-    textCenter: (We're still in the middle of trying to be free...)
+    textCenter: (We're still only in the middle@of seeking our liberation...)
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -530,7 +529,8 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-46
     nameCenter: Iroha
-    textCenter: (I have to keep fighting until the light of possibility@goes out...)
+    textCenter: (I have to keep fighting as long as the@light of possibility hasn't
+      gone out...)
   - bg: black
     bgm: stop
     nameNarration: Iroha
@@ -552,7 +552,7 @@ story:
     - id: 100100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-5-48
     nameCenter: Iroha
-    textCenter: Huh...
+    textCenter: Huh...?
     turnChangeOut: whiteOut
   - autoTurnLast: 2
     bgm: stop

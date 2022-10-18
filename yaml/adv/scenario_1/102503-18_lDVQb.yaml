@@ -16,14 +16,14 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-1
     nameCenter: Shizuku
-    textCenter: (Ryou, you said you would be back again later.)
+    textCenter: (Ryo, you said you'd be back again later.)
     turnChangeOut: fadeOut
   - chara:
     - id: 300701
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-2
     nameCenter: Shizuku
-    textCenter: (Maybe she'll be here soon for an interview@or something.)
+    textCenter: (Maybe she'll be here soon for@an interview or something.)
   - chara:
     - id: 300701
       lipSynch: 0
@@ -37,14 +37,14 @@ story:
       motion: 101
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-4
     nameCenter: Shizuku
-    textCenter: It's time for today's cat diary...
+    textCenter: It's about time for today's cat diary...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 300701
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-5
     nameCenter: Shizuku
-    textCenter: Maybe I'll go take some pictures too...
+    textCenter: Maybe I'll take some pictures too...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -52,14 +52,14 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-6
     nameCenter: Shizuku
-    textCenter: …………
+    textCenter: '...'
   - chara:
     - id: 300701
       lipSynch: 0
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-7
     nameCenter: Shizuku
-    textCenter: (Why do I...feel so uneasy...)
+    textCenter: (Why do I...feel so uneasy...?)
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -69,13 +69,13 @@ story:
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-8
     nameCenter: Shizuku
     surround: 7006_cafe
-    textCenter: Ah, welcome. Are you with a group...!?
+    textCenter: Ah, welcome.@Are you with a group...?
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
       id: 300701
     textClear: 1
-  - nameCenter: Shizuku's voice
+  - nameCenter: Shizuku's Voice
     textCenter: Father, could you help me here?
     voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-9
   - nameNarration: ""
@@ -92,7 +92,7 @@ story:
     narrationHAlignment: left
     narrationPosX: 150
     turnChangeOut: fadeOut
-  - narration: Currently, the Magical Girls of the south@are being cornered by Promised
+  - narration: Currently, the Magical Girls of the South@are being cornered by Promised
       Blood.@If anyone sees this message,@please help them.
   - narration: Recently, we had talks of@pooling all of our efforts together,@and
       I know it's much earlier than expected,@but I will be grateful for any help
@@ -129,7 +129,7 @@ story:
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-16
     nameRight: Tsuruno
     textRight: We managed to get away from Yuna Kureha,@but are we going to make it
-      in time...!?
+      in time...?!
   - chara:
     - id: 100201
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-17
@@ -143,13 +143,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-18
     nameLeft: Yachiyo
-    textLeft: and we need to be careful,@because she could still be right behind us!
+    textLeft: And we need to be careful, because@she could still be right behind us!
   - chara:
     - id: 100301
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-19
     nameRight: Tsuruno
-    textRight: Iroha, were you able to get in touch with@the Tokime clan?
+    textRight: Iroha, were you able to get in@touch with the Tokime Clan?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -163,7 +163,7 @@ story:
     - id: 100101
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-21
     nameLeft: Iroha
-    textLeft: Sana told me she was able to contact@the Neo-Magius,
+    textLeft: Sana told me they were approached@by the Neo-Magius,
   - chara:
     - id: 100101
       motion: 301
@@ -232,7 +232,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-26
     nameLeft: Touka
-    textLeft: Kagome Satori's decision to gather us here@deserves a gold star.
+    textLeft: Kagome Satori's decision to gather us@here deserves a gold star.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -259,13 +259,13 @@ story:
     - id: 100770
       motion: 1
     nameRight: Kagome
-    textRight: I think because the world of Magical Girls is cut off@from the rest
+    textRight: I think because the world of Magical Girls is@cut off from the rest
       of the world,
   - chara:
     - id: 102001
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-30
     nameRight: Kagome
-    textRight: we have to make decisions using our own@common sense...
+    textRight: we have to make decisions@using our own common sense...
   - chara:
     - id: 102001
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-31
@@ -291,7 +291,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-33
     nameLeft: Nemu
-    textLeft: But unless your words carry persuasiveness,@you'll be rejected for speaking
+    textLeft: But unless your words are persuasive,@you'll be rejected for speaking
       nonsense.
   - autoTurnLast: 0.2
     chara:
@@ -309,7 +309,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-34
     nameLeft: Touka
-    textLeft: Persuasiveness...
+    textLeft: Persuasive...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -339,7 +339,7 @@ story:
       id: 101471
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-38
     nameRight: Nemu
-    textRight: Are you acquainted with someone that@fits that criteria?
+    textRight: Are you acquainted with someone@that fits that criteria?
   - chara:
     - id: 100770
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-39
@@ -353,7 +353,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-40
     nameRight: Nemu
-    textRight: If Touka thinks we need someone,@I think you should at least ask.
+    textRight: If you think we need someone, Touka,@I think you should at least ask.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -378,7 +378,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-43
     nameLeft: Touka
-    textLeft: So, Ryou is coming here today, right?@Assuming she survives.
+    textLeft: So, Ryo is coming here today, right?@Assuming she survives.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -418,7 +418,7 @@ story:
     bg: white
     turnChangeIn: whiteIn
   - nameNarration: ""
-    narration: '[textBlack:―Interview Recording―@Ikumi Makino]'
+    narration: '[textBlack:―Interview Record―@Ikumi Makino]'
     narrationCoverOpacity: 0
     narrationEffect: in
     turnChangeOut: whiteOut
@@ -452,7 +452,8 @@ story:
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 80
-    progressNarration: '[textBlack:"Hawawa, I''m surprised@that you came to see me～"]'
+    progressNarration: '[textBlack:  "Hawawa, What a surprise@  that you came to see
+      little me!"]'
     turnChangeOut: whiteOut
   - chara:
     - cheek: 0
@@ -465,14 +466,14 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-47
       voiceFullStop: fullvoice/section_102503/vo_full_102503-18-46
-    progressNarration: '[textBlack:"Huh? Oh, so after this@you''re going to Hinano
-      and@Ryou."]'
+    progressNarration: '[textBlack:  "Huh? Oh, so after this@  you''re going to Hinano@  and
+      Ryo."]'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 305301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-48
-    progressNarration: '[textBlack:"So, this is about what@I desire in the future,
+    progressNarration: '[textBlack:  "So, this is about what@  I desire in the future,
       right?"]'
   - chara:
     - cheek: 1
@@ -480,17 +481,18 @@ story:
       id: 305301
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-49
-    progressNarration: '[textBlack:"Then, I''ve already decided!@It''s to make boys
-      and girls of all ages@around the world go crazy@over me and make their@hearts
+    progressNarration: '[textBlack:  "Then, I''ve already decided!@  It''s to make
+      boys and girls of all@  ages around the world go crazy@  over me and make their@  hearts
       skip a beat!"]'
   - autoTurnLast: 2.8
     chara:
     - id: 305301
       motion: 400
       voiceFull: fullvoice/section_102503/vo_full_102503-18-50
-    progressNarration: '[textBlack:"Every time I strike a cute pose@with a pop, or
-      wink with a snap@and a heart flies out,@and every time I sing@with all my heart
-      with a mic in hand,@everyone will cheer up@from my bubbly healing aura."]'
+    progressNarration: '[textBlack:  "Every time I strike a cute pose@  with a pop,
+      or wink with a snap@  and a heart flies out,@  and every time I sing with@  all
+      my heart with a mic in hand,@  everyone will cheer up@  from my bubbly healing
+      aura."]'
   - chara:
     - id: 305301
       motion: 100
@@ -499,8 +501,8 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-51
       voiceFullStop: fullvoice/section_102503/vo_full_102503-18-50
-    progressNarration: '[textBlack:"Of course, the stage won''t just be@at a maid
-      cafe;@I want a greeaaat big dome!"]'
+    progressNarration: '[textBlack:  "Of course, my stage won''t@  just be at a maid
+      cafe.@  I want a greeaaat big dome!"]'
   - autoTurnLast: 8.6
     chara:
     - cheek: 1
@@ -509,9 +511,9 @@ story:
       id: 305301
       motion: 1
       voiceFull: fullvoice/section_102503/vo_full_102503-18-52
-    progressNarration: '[textBlack:"And then there''s Yumi, the girl@who exchanged
-      dreams with me,@and there''s the customers～@and the stage effects will be@handled
-      by Hinano～@and my exclusive photographer@will be Ryou."]'
+    progressNarration: '[textBlack:  "And then there''s Yumi, the girl@  who exchanged
+      dreams with me,@  and there''s the customers,@  and the stage effects will be@  handled
+      by Hinano,@  and my exclusive photographer@  will be Ryo."]'
   - autoTurnLast: 0.3
     chara:
     - eyeClose: 0
@@ -526,22 +528,22 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-53
       voiceFullStop: fullvoice/section_102503/vo_full_102503-18-52
-    progressNarration: '[textBlack:"I''ve...never really done much@as a Magical Girl,
-      have I?"]'
+    progressNarration: '[textBlack:  "I''ve...never really done much@  as a Magical
+      Girl, have I?"]'
   - chara:
     - id: 305301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-54
-    progressNarration: '[textBlack:"And in my personal life, Ryou,@who''s four years
-      younger than me,@has always been more reliable.@Even in the Wings of Magius,@the
-      Ryou back then@was a higher rank White Feather."]'
+    progressNarration: '[textBlack:  "And in my personal life, Ryo,@  who''s four
+      years younger than@  me, has always been more reliable.@  Even in the Wings
+      of Magius,@  the Ryo back then was a@  higher ranked White Feather."]'
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp3.json
       id: 305301
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-18-55
-    progressNarration: '[textBlack:"That''s why, at least once,@I want to be the best
-      I can be@in front of everyone, you know?"]'
+    progressNarration: '[textBlack:  "That''s why, at least once,@  I want to be the
+      best I can be@  in front of everyone, you know?"]'
   - autoTurnLast: 2
     bgm: stop
     item:

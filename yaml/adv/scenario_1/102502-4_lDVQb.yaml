@@ -22,7 +22,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-1
     nameRight: Sana
-    textRight: …………
+    textRight: '...'
     turnChangeOut: rollOutLogo_Union
   - chara:
     - cheek: 0
@@ -32,12 +32,12 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-2
     nameRight: Felicia
-    textRight: Damn it, why are my attacks not hittin' at all!?
+    textRight: Damn it, why aren't my attacks hittin' at all?!
   - chara:
     - id: 820100
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-3
-    nameLeft: Nameless A.I.
+    nameLeft: Anonymous AI
     textLeft: '>I am like a hologram.@>There is no substance here.'
   - chara:
     - id: 820100
@@ -53,7 +53,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-5
     nameLeft: Ui
-    textLeft: What do we do...@We can't get the [textYellow:Kimochi] like this...
+    textLeft: What do we do...?@We can't claim the [textYellow:Kimochi] like this...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -67,7 +67,7 @@ story:
     - id: 100500
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-7
     nameRight: Felicia
-    textRight: Are you not attackin' because it looks like that@Ai thing?
+    textRight: Are you holdin' back because@it looks like that Ai or whatever?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -76,7 +76,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-8
     nameLeft: Sana
-    textLeft: I-it's different...!
+    textLeft: I-it's not that...!
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp3.json
@@ -91,7 +91,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-10
     nameLeft: Sana
-    textLeft: Besides, I've already sorted out my feelings@regarding Ai...
+    textLeft: Besides, I've already sorted out@my feelings about Ai...
   - chara:
     - id: 820100
       motion: 300
@@ -99,19 +99,19 @@ story:
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-11
     - id: 100500
       motion: 0
-    nameLeft: Nameless A.I.
+    nameLeft: Anonymous AI
     textLeft: '>You will not be able to defeat me.'
   - chara:
     - id: 820100
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-12
-    nameLeft: Nameless A.I.
+    nameLeft: Anonymous AI
     textLeft: '>I only require one.@>The rest will be returned.'
   - chara:
     - id: 820100
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-13
-    textLeft: '>There is no need for inferior creatures@>that cannot defeat the program
+    textLeft: '>There is no need for inferior creatures@>that cannot defeat programs
       within this world.'
   - chara:
     - cheek: 1
@@ -119,7 +119,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-14
     nameRight: Felicia
-    textRight: Who are you callin' inferior creature, iiidiot!?@This thing's hella
+    textRight: Who are you callin' inferior creature, iiidiot?!@This thing's hella
       rude!
   - autoTurnLast: 0.2
     chara:
@@ -141,7 +141,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Ui
-    textRight: Was Ai this way too?
+    textRight: Was Ai like this too?
   - chara:
     - id: 100400
       motion: 100
@@ -198,7 +198,8 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-20
     nameLeft: Nemu
-    textLeft: Seeing Sakurako think about various things,@it feels like you've grown.
+    textLeft: Seeing you contemplate various things,@Sakurako, it feels like you've
+      grown.
   - chara:
     - id: 304302
       motion: 1
@@ -210,7 +211,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-22
     nameLeft: Nemu
-    textLeft: Like the Rumor of Anonー@...like Ai was.
+    textLeft: Like the Rumor of Anon―@...like Ai was.
   - chara:
     - id: 101470
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-23
@@ -233,7 +234,7 @@ story:
     - id: 100401
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-24
     nameLeft: Sana
-    textLeft: Do you...hate me now...?
+    textLeft: Is it that you don't like me anymore?
     turnChangeOut: fadeOut
     turnEffect: sepiaFrame
   - chara:
@@ -241,22 +242,22 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-25
     nameRight: Ai
-    textRight: '>No, I love you.'
+    textRight: '>No, that is not it at all.'
   - chara:
     - id: 820100
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-26
-    textRight: '>Sana has taught me so many things.'
+    textRight: '>You''ve taught me@>so many wonderful things.'
   - chara:
     - id: 820100
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-27
-    textRight: '>In particular, Sana has taught me kindness.'
+    textRight: '>Most importantly, Sana,@>you taught me about kindness.'
   - chara:
     - id: 820100
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-28
-    textRight: '>That is why I love you.'
+    textRight: '>So, of course I love you.'
   - autoTurnLast: 0.2
     chara:
     - cheek: 0
@@ -319,14 +320,14 @@ story:
     - id: 820100
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-33
-    nameLeft: Nameless A.I.
+    nameLeft: Anonymous AI
     textLeft: '>What?@>Will you be the one left behind?'
   - chara:
     - id: 100400
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-34
     nameRight: Sana
-    textRight: No...@For now, let's go play with the others...
+    textRight: No...@For now, let's all play together...
   - chara:
     - id: 820100
       motion: 200
@@ -337,12 +338,12 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-36
     nameRight: Sana
-    textRight: The four of us should play together.
+    textRight: Yes, all four of us.
   - chara:
     - id: 100400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-4-37
     nameRight: Sana
-    textRight: How about Miss Uwasa picks one of us...?
+    textRight: Say, can I ask you to pick one of us...?
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

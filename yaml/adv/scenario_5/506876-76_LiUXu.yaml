@@ -101,7 +101,7 @@ story:
       id: 800600
       motion: 0
       pos: 0
-    nameLeft: Chiharu's mother
+    nameLeft: Chiharu's Mother
     textLeft: I really read most of it myself, though.
   - chara:
     - cheek: 0
@@ -147,7 +147,7 @@ story:
       id: 801000
       motion: 0
       pos: 0
-    nameLeft: Shizuka's mother
+    nameLeft: Shizuka's Mother
     textLeft: Well then, would you mind starting for us?
   - chara:
     - cheek: 0
@@ -160,7 +160,7 @@ story:
       id: 800600
       motion: 0
       pos: 2
-    nameRight: Chiharu's mother
+    nameRight: Chiharu's Mother
     textRight: Right. The story was divided into two major chapters.
   - chara:
     - cheek: 0
@@ -195,11 +195,11 @@ story:
       coming-of-age ceremony...
   - narration: And gained the power to manipulate Devils @thanks to a wish @they had
       one of the village's girls grant.
-  - narration: Then they hid the village inside that Labyrinth @In short, the Mikoshibas
+  - narration: Then they hid the village inside that Labyrinth.@In short, the Mikoshibas
       used the Labyrinth to hide @a village that would create Diviners @to make money
       for them,
-  - narration: ' @and in order to maintain control over it, @they killed the Diviners
-      @to prevent information from leaking to the outside.'
+  - narration: and in order to maintain control over it, @they killed the Diviners
+      @to prevent information from leaking to the outside.
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -249,7 +249,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 102501
       motion: 100
-    textLeft: '...Well, what''s next!?'
+    textLeft: '...Well, what''s next?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -298,7 +298,7 @@ story:
   - chara:
     - id: 800600
     nameLeft: Shizuka
-    nameRight: Chiharu's mother
+    nameRight: Chiharu's Mother
     textRight: It seemed like an obsession, even. @It'll never surrender the Tokimes
       to anyone else...
     turnChangeOut: fadeOut
@@ -403,14 +403,14 @@ story:
       id: 801000
       motion: 0
       pos: 2
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textRight: I know this is awful timing, but can you all come @back to my house...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102501
       motion: 0
-    textLeft: Mother!?
+    textLeft: Mother?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

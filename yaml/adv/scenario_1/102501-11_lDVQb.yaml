@@ -22,7 +22,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-1
     nameLeft: Iroha
-    textLeft: …………
+    textLeft: '...'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -32,8 +32,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-2
     nameRight: Sakuya
-    textRight: However, if that will be the case,@is there nothing else you could
-      propose?
+    textRight: However, that being the case,@is there nothing else you can propose?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -48,7 +47,7 @@ story:
       face: mtn_ex_050.exp3.json
       id: 302101
     nameLeft: Touka
-    textLeft: Just a reminder that we're here too, nyaa.
+    textLeft: Well now, don't forget that we're here too!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -60,7 +59,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-4
     nameRight: Nemu
-    textRight: We didn't come here just to listen.
+    textRight: We didn't come along just to be bystanders.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -78,7 +77,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-6
     nameLeft: Yachiyo
-    textLeft: You mean you have a method to strike a deal?
+    textLeft: Are you saying you have something@to strike a deal with?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -104,7 +103,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-8
     nameRight: Sakuya
-    textRight: Then lastly, we'll hear from the former Magius.
+    textRight: Then, lastly, we'll hear from the former Magius.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -112,7 +111,7 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-9
     nameLeft: Touka
-    textLeft: It won't be something complex, okay?
+    textLeft: It isn't anything complicated, you know?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -136,7 +135,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm05_event08
     nameNarration: Hikaru
-    narration: ーHikaruー@What do you mean by this?
+    narration: ―Hikaru―@What do you mean by this?
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -146,26 +145,27 @@ story:
     turnChangeOut: fadeOut
     voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-11
   - nameNarration: Nemu
-    narration: ーNemuー@So you're aware of these then.@We Magius are the cause for Futatsugi's
-      suffering.
+    narration: ―Nemu―@I'm sure you're aware of it. That we Magius@are the cause for
+      Futatsugi's suffering.
     voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-12
-  - narration: ーNemuー@It will be difficult for us to arrange for Alina's share,@but
+  - narration: ―Nemu―@It will be difficult for us to arrange for Alina's share,@but
       we can offer ours right in front of you.
     voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-13
   - nameNarration: Sakuya
-    narration: ーSakuyaー@So, what do you want us to do?
+    narration: ―Sakuya―@So, what do you want us to do?
     voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-14
   - nameNarration: Touka
-    narration: ーToukaー@You're pretty dim, huh.@You should use your head properly.
+    narration: ―Touka―@You're pretty dim, huh.@You should use your head properly.
     voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-15
   - nameNarration: Sakuya
-    narration: ーSakuyaー@What, are you calling me stupid?
+    narration: ―Sakuya―@What, are you calling me stupid?
     voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-16
   - nameNarration: Touka
-    narration: ーToukaー@Yep, you can destroy our soul gems@with all of your anger.
+    narration: ―Touka―@That's right. Go on, you can destroy our@Soul Gems with all
+      of your wrath.
     voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-17
   - nameNarration: Nemu
-    narration: ーNemuー@Even the kind Yuna Kureha should be able to kill@us war criminals
+    narration: ―Nemu―@Even the kind Yuna Kureha should be able to execute@us war criminals
       without a pang of conscience.
     voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-18
   - autoTurnLast: 0.01
@@ -204,7 +204,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-20
     nameLeft: Iroha
-    textLeft: What are you two saying!?
+    textLeft: What are you two saying?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -216,7 +216,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-21
     nameRight: Touka
-    textRight: Didn't Sister just say something outrageous too?
+    textRight: Big Sis, didn't just say something@pretty outrageous too?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -228,7 +228,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-22
     nameRight: Nemu
-    textRight: For us, this will be the last resort.
+    textRight: For us, this is our last resort option.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -237,19 +237,19 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-23
     nameLeft: Iroha
-    textLeft: Weren't you talking to Kagome, though...?
+    textLeft: Haven't you been talking with Kagome, though...?
   - chara:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-24
     nameLeft: Iroha
-    textLeft: If you two aren't here...@to spread the word about Magical Girls...!
+    textLeft: If the two of you...aren't around to@spread the word about Magical Girls...!
   - chara:
     - id: 101471
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-25
     nameRight: Nemu
-    textRight: It would be better to give up our lives@if it means saving Magical
-      Girls in the future.
+    textRight: It would be better for us to give up our lives if it@means we can save
+      Magical Girls in the future.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -267,12 +267,12 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-27
     nameRight: Nemu
-    textRight: As Big Sis said, this is our shortcut to strike a deal.
+    textRight: As Big Sister said, joining hands here@is the quickest way to do that.
   - chara:
     - id: 101471
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-28
     nameRight: Nemu
-    textRight: I don't think there is another way@to satisfy Promised Blood.
+    textRight: I don't think there's any other way@to satisfy Promised Blood.
   - autoTurnLast: 0.2
     chara:
     - id: 101471
@@ -298,7 +298,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-31
     nameRight: Sakuya
-    textRight: Hikaru,@is it okay if we take this matter back to them...?
+    textRight: Hikaru, is it okay if we take@this matter back to the top...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -307,8 +307,8 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-32
     nameLeft: Hikaru
-    textLeft: These people are risking their lives,@but we can't give 'em an answer
-      here...
+    textLeft: With people putting their lives on the line here,@we can't decide this
+      ourselves...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -317,7 +317,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-33
     nameRight: Sakuya
-    textRight: So for now, we'll wait for the eldest sister's reply.
+    textRight: So for now, we'll wait for Eldest Sister@to give her response.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -329,7 +329,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-34
     nameLeft: Nemu
-    textLeft: I don't mind at all.
+    textLeft: I don't mind that at all.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -341,7 +341,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-35
     nameLeft: Touka
-    textLeft: I'll also leave the judgement up to you.
+    textLeft: I'll also leave the judgment up to you.
   - autoTurnLast: 0.2
     chara:
     - id: 100770
@@ -374,7 +374,7 @@ story:
       id: 100770
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-38
     nameRight: Touka
-    textRight: 'It''s better if we do. '
+    textRight: That would be the ideal outcome.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -386,7 +386,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-39
     nameRight: Nemu
-    textRight: 'Naturally,@we have to calculate our own sacrifice into this. '
+    textRight: Naturally, we've taken into account the@risk to our lives in our calculations.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -395,7 +395,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-40
     nameLeft: Tsuruno
-    textLeft: 'I understand your reasoning,@but that''s not something I can forgive...! '
+    textLeft: 'I understand your reasoning,@but that''s not something we can forgive...! '
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -407,7 +407,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-41
     nameRight: Touka
-    textRight: 'But a half-hearted shake up wouldn''t make sense,@you know? '
+    textRight: 'But a halfhearted shake up wouldn''t@accomplish anything, you know? '
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -428,8 +428,8 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-43
     nameRight: Nemu
-    textRight: It's useless to try to stop us, Big Sis,@if you're going to "save the
-      many".
+    textRight: It's useless to try to stop us, Big Sister,@if you're going to "save
+      the many".
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp3.json
@@ -438,7 +438,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-44
     nameLeft: Iroha
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -458,14 +458,14 @@ story:
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-46
     nameRight: Sakuya
     surround: stop
-    textRight: Is there anything else left@to be used for negotiations?
+    textRight: Do you have anything else that you@can use to negotiate with?
     turnEffect: stop
   - chara:
     - id: 100101
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-47
     nameLeft: Iroha
-    textLeft: You really, really can't let Touka and Nemu...
+    textLeft: We're being honest with you. If Touka@and Nemu don't have anything...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -492,12 +492,13 @@ story:
       motion: 0
       pos: 2
     nameLeft: Touka
-    textLeft: Nemu and I are only talking about it now.
+    textLeft: What Nemu and I just proposed is all you get.
   - chara:
     - id: 101471
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-49
     nameRight: Nemu
-    textRight: I think what we mentioned is the best proposal.
+    textRight: I think what we already offered is@the best proposal you could ask
+      for.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -519,19 +520,19 @@ story:
       motion: 0
       pos: 2
     nameLeft: Hikaru
-    textLeft: Then, this will be the end of discussion.
+    textLeft: Then, this will be the end of our discussion.
   - bgm: bgm03_story06
     chara:
     - id: 302101
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-51
     nameRight: Sakuya
-    textRight: You'll have to wait a little until we get a reply.
+    textRight: You'll have to wait a bit until we get a reply.
   - chara:
     - id: 302101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-52
     nameRight: Sakuya
-    textRight: By now, the eldest sister should be fighting@the [textYellow:Kimochi].
+    textRight: By now, Eldest Sister should be in the@middle of fighting the [textYellow:Kimochi].
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp3.json
@@ -561,8 +562,8 @@ story:
       id: 102201
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-55
     nameLeft: Hikaru
-    textLeft: There's a famous ice cream shop here, so I wanna get some for the eldest
-      sister before going home.
+    textLeft: There's a famous ice cream shop here, so I wanna@get some for Eldest
+      Sister before going home.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -590,7 +591,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-58
     nameLeft: Yachiyo
-    textLeft: You can leave seperately if you want.@We'll be waiting here.
+    textLeft: You can both leave separately if you want.@We'll be waiting here.
   - chara:
     - id: 302101
       motion: 0
@@ -606,7 +607,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-60
     nameLeft: Hikaru
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -641,8 +642,7 @@ story:
       voiceFull: fullvoice/section_102501/vo_full_102501-11-64
     enableSkipAutoTurn: 1
     nameLeft: Iroha
-    textLeft: Um, [wait:0.8][chara:100101:cheek_0][chara:100101:motion_100][chara:100101:lipSynch_1]then
-      maybe I could guide you to it...?
+    textLeft: Um, then maybe I could guide you to it...?
   - chara:
     - id: 101600
       motion: 100
@@ -664,7 +664,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-67
     nameLeft: Iroha
-    textLeft: With Touka and Nemu trying to connect us together,
+    textLeft: With Touka and Nemu trying@to connect us together,
   - chara:
     - eyeClose: 1
       id: 100101
@@ -688,7 +688,7 @@ story:
       id: 100101
       motion: 0
     nameRight: Hikaru
-    textRight: But, Iroha is owed gratitude today, so it's fine...
+    textRight: But, I owe you a debt of gratitude,@so it's fine for today...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -723,12 +723,12 @@ story:
       pos: 1
       posX: 30
     nameRight: Nemu
-    textRight: Well, we are tentatively dead,@so if you'll excuse us from here.
+    textRight: Well, we're provisionally dead,@so if you'll excuse us from here.
   - chara:
     - id: 100770
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-73
     nameCenter: Touka
-    textCenter: We have other things to do.
+    textCenter: We've got other business to take care of.
   - chara:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-11-74

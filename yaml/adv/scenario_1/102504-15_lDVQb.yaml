@@ -21,13 +21,13 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-15-1
     nameLeft: Shizuka
-    textLeft: Another new trick...!?
+    textLeft: Another new trick...?!
     turnChangeOut: fadeOut
   - chara:
     - id: 103400
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-15-2
     nameRight: Asahi
-    textRight: Compared to the old Feathers, they seem capable.
+    textRight: Compared to the old Feathers,@they seem quite capable.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -54,7 +54,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-15-4
     nameRight: ???
-    textRight: 'This person here''s a former educator of Feathers@from Fendt Hope:'
+    textRight: 'This person here''s a former educator@of Feathers from Fendt Hope:'
   - chara:
     - id: 103202
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-15-5
@@ -74,7 +74,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-15-7
     nameLeft: Chiharu
-    textLeft: I'm not someone who can be taken down so easily either!
+    textLeft: I'm not someone who can be@taken down so easily either!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -115,13 +115,13 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-15-12
     nameLeft: San
-    textLeft: My right-hand woman, if you will.
+    textLeft: My mighty right-hand woman, if you will.
   - chara:
     - id: 103202
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-15-13
     nameRight: Miyuri
-    textRight: …………
+    textRight: '...'
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

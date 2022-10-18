@@ -21,7 +21,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-1
     nameRight: Mifuyu
-    textRight: It seems that Promised Blood has completely withdrawn...
+    textRight: It seems that Promised Blood@has completely withdrawn...
     turnChangeOut: fadeOut
   - chara:
     - id: 300300
@@ -35,8 +35,8 @@ story:
       id: 300300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-3
     nameLeft: Hinano
-    textLeft: '''Wonder if the results would''ve been different@had we gotten here
-      earlier...'
+    textLeft: I wonder if the results would've been different@if we had gotten here
+      sooner...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -62,7 +62,7 @@ story:
       id: 100600
       motion: 0
     nameLeft: Ikumi
-    textLeft: No, Ryou is so kind that she would have been@chosen for sticking her
+    textLeft: No, Ryo is so kind that she would have been@chosen for sticking her
       neck out anyways.
   - chara:
     - eyeClose: 0
@@ -92,7 +92,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-8
     nameRight: Mifuyu
-    textRight: but she also helped Ikumi and Shizuku@escape...
+    textRight: but the two of you also helped Shizuku to escape...
   - chara:
     - cheek: 2
       face: mtn_ex_011.exp3.json
@@ -125,13 +125,13 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-12
     nameLeft: Ikumi
-    textLeft: Ryou...was a girl of the east...@...so please take care of her...
+    textLeft: Ryo...was a girl of the East...@...so please take care of her...
   - chara:
     - id: 101600
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-13
     nameRight: Kanagi
-    textRight: I will... It's been a long time since I've had to@perform my duty...
+    textRight: I will... It's been a long time since@I've had to perform my duty...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -157,14 +157,14 @@ story:
       pos: 2
       tear: 1
     nameLeft: Iroha
-    textLeft: '[flashEffect:flashWhiteSlow2]…………'
+    textLeft: '[flashEffect:flashWhiteSlow2]...'
   - chara:
     - id: 101500
       lipSynch: 0
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-15
     nameRight: Ui
-    textRight: …………
+    textRight: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_032.exp3.json
@@ -173,7 +173,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-16
     nameRight: Kanagi
-    textRight: Iroha?
+    textRight: Tamaki?
   - chara:
     - eyeClose: 0
       id: 100100
@@ -181,7 +181,7 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-17
     nameLeft: Iroha
-    textLeft: It would be a pity to have her go home with injuries, so...
+    textLeft: It would be too sad to send@her home with injuries, so...
   - autoTurnLast: 4
     chara:
     - cheek: 2
@@ -271,7 +271,7 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-24
     nameRight: Tsuruno
-    textRight: …………
+    textRight: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp3.json
@@ -304,7 +304,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-28
     nameLeft: Yachiyo
-    textLeft: It's about time to take Ryou back, right?
+    textLeft: It's about time to take Ryo back, right?
   - chara:
     - id: 101701
       motion: 300
@@ -315,8 +315,8 @@ story:
     - id: 101701
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-30
     nameRight: Mitama
-    textRight: I was going to tell you the last time you came@to the Coordinator's
-      shop, but...
+    textRight: I meant to tell you the last time you came@to the Coordinator's shop,
+      but...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -346,8 +346,8 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-34
     nameRight: Mitama
-    textRight: Recently, rumors have been spreading in the east@that could divide
-      the west and east again...
+    textRight: Recently, rumors have been spreading in the East@that could divide
+      the East and West again...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -366,21 +366,20 @@ story:
     - id: 101701
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-37
     nameRight: Mitama
-    textRight: is because there's been talk that the Magical Girls@of the east are
+    textRight: is because there's been talk that the@Magical Girls of the East are
       colluding.
   - chara:
     - id: 100200
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-38
     nameLeft: Yachiyo
-    textLeft: If you compared it to our current situation,@you'd know that is a lie,
-      though...
+    textLeft: If you looked at our current situation,@you'd know that was a lie, though...
   - chara:
     - id: 101701
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-39
     nameRight: Mitama
-    textRight: But, now there's talk that a Magical Girl from the@west is the one
+    textRight: But, now there's talk that a Magical Girl from the@West is the one
       spreading these rumors.
   - chara:
     - cheek: 0
@@ -395,9 +394,9 @@ story:
     - id: 101701
       motion: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-41
-    nameRight: Mitama
-    textRight: There's a rumor that the west is looking down on the east, and trying
-      to take over the entirety of@Kamihama.
+    nameRight: ""
+    textRight: There's a rumor that the West is looking down on@the East, and wants
+      to rule all of Kamihama.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -406,7 +405,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-42
     nameLeft: Momoko
-    textLeft: Sorry to butt in,@but that has to be some other group.
+    textLeft: Sorry to butt in, but that has@to be some other group.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -415,8 +414,8 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-43
     nameLeft: Tsuruno
-    textLeft: Yeah, I think so too. The source of these rumors@can't be from a Kamihama
-      girl.
+    textLeft: Yeah, I think so too. There's no way those@rumors are coming from a
+      Kamihama resident.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -452,7 +451,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-47
     nameRight: Tsuruno
-    textRight: Because Ryou is...
+    textRight: Because Ryo is...
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp3.json
@@ -461,12 +460,12 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-48
     nameRight: Mitama
-    textRight: Until now,@Kanagi has been secretly putting out fires,
+    textRight: Until now, Kanagi has been@secretly putting out fires.
   - chara:
     - id: 101701
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-49
     nameRight: Mitama
-    textRight: but if one person dies,@the whole situation may change.
+    textRight: But if one person dies,@the whole situation may change.
   - chara:
     - id: 100200
       motion: 0
@@ -482,7 +481,7 @@ story:
       pos: 2
       tear: 1
     nameRight: Iroha
-    textRight: …………[wait:1.0][chara:100100:lipSynch_1]Ah.
+    textRight: '...[wait:1.0][chara:100100:lipSynch_1][chara:100100:voiceFull_fullvoice/section_102504/vo_full_102504-12-51]Ah.'
   - chara:
     - id: 100100
       motion: 200
@@ -490,7 +489,7 @@ story:
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-52
       voiceFullStop: fullvoice/section_102504/vo_full_102504-12-51
     nameRight: Iroha
-    textRight: I need to contact Shizuka's group and@let them know we don't need them
+    textRight: I need to contact Shizuka's group and let@them know we don't need them
       here anymore...
   - chara:
     - cheek: 2
@@ -500,7 +499,7 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-12-53
     nameRight: Iroha
-    textRight: '...*sniffle*'
+    textRight: '...*Sniffle*'
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

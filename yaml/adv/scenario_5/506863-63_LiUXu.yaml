@@ -15,7 +15,7 @@ story:
     - id: 102700
       lipSynch: 0
     nameCenter: Sunao
-    textCenter: '............'
+    textCenter: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 102700
@@ -49,8 +49,8 @@ story:
   - chara:
     - id: 801800
     nameLeft: Mikoshiba
-    nameRight: Sunao's father
-    textLeft: What!? She already became a Diviner!?
+    nameRight: Sunao's Father
+    textLeft: What?! She already became a Diviner?!
     turnChangeOut: fadeOut
   - chara:
     - id: 800700
@@ -67,7 +67,7 @@ story:
   - chara:
     - id: 801800
     textBg: shout
-    textLeft: Have ye forgotten that your family was born of a Tokime branch family!?
+    textLeft: Have ye forgotten that your family was born of a Tokime branch family?!
   - chara:
     - id: 800700
     textRight: We are fully aware of that...!
@@ -91,8 +91,8 @@ story:
       lipSynch: 0
       motion: 0
       pos: 2
-    nameRight: Sunao's mother
-    textRight: '............'
+    nameRight: Sunao's Mother
+    textRight: '...'
   - chara:
     - id: 800600
     textRight: We didn't want her to develop an interest in them. In Diviners...
@@ -142,10 +142,10 @@ story:
     - cheek: 2
       id: 102701
       motion: 200
-    textRight: How is that trivial...!?
+    textRight: How is that trivial...?!
   - chara:
     - id: 102701
-    textRight: Is it so bad to make a wish for the people you love!?
+    textRight: Is it so bad to make a wish for the people you love?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

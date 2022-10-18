@@ -16,7 +16,7 @@ story:
       motion: 100
     nameCenter: Shizuka
     textBg: shout
-    textCenter: Is anyone in here!?
+    textCenter: Is anyone in here?!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -54,7 +54,7 @@ story:
     chara:
     - id: 800800
     narrationEffect: out
-    textRight: Welcome back, Shizuka-chan!
+    textRight: Welcome back, Shizuka!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -126,7 +126,7 @@ story:
     - eyeClose: 1
       id: 102500
       lipSynch: 0
-    textRight: '............'
+    textRight: '...'
     turnEffect: stop
   - chara:
     - cheek: 0
@@ -134,7 +134,7 @@ story:
       id: 800800
       motion: 0
       pos: 0
-    textLeft: Shizuka-chan, what's the matter...?
+    textLeft: Shizuka, what's the matter...?
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -169,7 +169,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800800
-    textLeft: Oh, it's all right. After all, you've always been @protecting us, Shizuka-chan.
+    textLeft: Oh, it's all right. After all, you've always been @protecting us, Shizuka.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

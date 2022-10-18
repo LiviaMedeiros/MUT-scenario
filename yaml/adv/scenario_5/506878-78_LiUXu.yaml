@@ -65,8 +65,8 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - nameNarration: Chiharu
-    narration: But even if they want to return happily, @they're no more than harmful
-      Devils now.
+    narration: ―Chiharu―@But even if they want to return happily, @they're no more
+      than harmful Devils now.
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -75,7 +75,8 @@ story:
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - nameNarration: Sunao
-    narration: We can't surrender Tokime Village @to them as their resting place.
+    narration: ―Sunao―@We can't surrender Tokime Village @to them as their resting
+      place.
   - autoTurnLast: 0.01
     bg: bg_adv_19062.jpg
     chara:
@@ -164,7 +165,7 @@ story:
       motion: 0
     textBg: shout
     textRight: '[flashEffect:flashWhite2][surround:1026A01]I hereby throw the first
-      spear-- @or rather, the first jitte!'
+      spear― @or rather, the first jitte!'
   - autoTurnLast: 0.5
     bgEffect: shakeLarge
     chara:
@@ -174,7 +175,7 @@ story:
     flashEffect: flashRed2
     surround: 1026A04
     textBg: shout
-    textLeft: →↑↓↑←!?!?
+    textLeft: →↑↓↑←?!?!
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -213,7 +214,7 @@ story:
     flashEffect: flashRed2
     surround: 1012A03
     textBg: shout
-    textLeft: ←↓←↑!?!?
+    textLeft: ←↓←↑?!?!
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -252,7 +253,7 @@ story:
     flashEffect: flashRed2
     surround: 1027A02
     textBg: shout
-    textLeft: ↓↓↓→...!?!?
+    textLeft: ↓↓↓→...?!?!
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -277,7 +278,7 @@ story:
       pos: 0
     nameLeft: Shizuka
     nameRight: Chiharu
-    textRight: '*Pant, pant*... @Hey, Shizuka-chan!'
+    textRight: '*Pant, pant*... @Hey, Shizuka!'
   - chara:
     - id: 102500
       motion: 0
@@ -322,7 +323,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102500
       motion: 0
-    textLeft: Huh!?
+    textLeft: Huh?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -401,7 +402,7 @@ story:
     nameCenter: Sunao
     nameLeft: Shizuka
     nameRight: Chiharu
-    textCenter: '[chara:102700:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textCenter: '[chara:102700:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 1
       face: mtn_ex_031.exp.json
@@ -413,7 +414,7 @@ story:
       face: mtn_ex_060.exp.json
       id: 102500
       motion: 300
-    textLeft: It's like its very presence... @is pushing down on us...
+    textLeft: It's like its very presence...@is pushing down on us...
   - chara:
     - cheek: 1
       effect: shake
@@ -437,7 +438,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102500
       motion: 0
-    textRight: Sunao-chan!
+    textRight: Sunao!
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -466,7 +467,7 @@ story:
       pos: 0
     nameLeft: ""
     nameRight: Chiharu
-    textRight: Seriously, my head... @is spinning so much...
+    textRight: Seriously, my head...@is spinning so much...
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json

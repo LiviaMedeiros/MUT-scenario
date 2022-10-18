@@ -50,12 +50,12 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-7-5
     nameLeft: Juri
-    textLeft: Well, as Magical Girls,@we don't want to be troubling the public, but...
+    textLeft: Well, as Magical Girls, we don't want@to be troubling the public, but...
   - chara:
     - id: 102400
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-7-6
     nameLeft: Juri
-    textLeft: that depends on your response.
+    textLeft: that all depends on your response.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp3.json
@@ -66,8 +66,8 @@ story:
     - id: 100202
       motion: 0
     nameLeft: Juri
-    textLeft: If worst comes to worst, each and every one@of your memories are gonna
-      get burned.
+    textLeft: If worst comes to worst, each and every one@of your precious memories
+      are gonna burn up.
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

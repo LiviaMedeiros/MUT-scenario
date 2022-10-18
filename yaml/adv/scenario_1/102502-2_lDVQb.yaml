@@ -17,7 +17,7 @@ story:
     - id: 820100
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-2-1
-    nameLeft: Nameless A.I.
+    nameLeft: Anonymous AI
     textLeft: '>Intruder detected.'
     turnChangeOut: fadeOut
   - chara:
@@ -39,7 +39,7 @@ story:
     - id: 820100
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-2-5
-    textLeft: '>Three people are not neccessary.@>Choose one who will remain here.'
+    textLeft: '>Three people are not necessary.@>Choose one who will remain here.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -48,7 +48,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-2-6
     nameRight: Ui
-    textRight: Everyone is here, and none of us are leaving.
+    textRight: We're all here, and none of us are leaving.
   - chara:
     - id: 820100
       motion: 100
@@ -67,7 +67,7 @@ story:
     - id: 820100
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-2-9
-    textLeft: '>There is no value for the remaining humans.@>Therefore, two will be
+    textLeft: '>There is no value in the remaining humans.@>Therefore, two will be
       removed.'
   - chara:
     - id: 100500
@@ -90,7 +90,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-2-12
     nameRight: Sana
-    textRight: …………
+    textRight: '...'
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

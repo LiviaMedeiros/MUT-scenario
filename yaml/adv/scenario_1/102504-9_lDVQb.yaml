@@ -21,7 +21,8 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-1
     nameLeft: Yachiyo
-    textLeft: But we will fight with everything we have@to avoid a worst-case scenario.
+    textLeft: But we'll fight together with everything we@have to avoid a worst-case
+      scenario.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -31,8 +32,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-2
     nameRight: Yuna
-    textRight: Then it's the same as us. We're not going to@hold back as long as we're
-      competing.
+    textRight: Then it's the same as us. We're not going@to hold back in this competition.
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp3.json
@@ -41,7 +41,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-3
     nameLeft: Ui
-    textLeft: Then, we can only fight now...
+    textLeft: Then, the only thing we can do now is fight...
   - chara:
     - id: 102100
       motion: 0
@@ -63,7 +63,8 @@ story:
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-6
     nameRight: Yuna
     surround: 7003_wind
-    textRight: As Yachiyo Nanami said, we don't want Kamihama@to become united.
+    textRight: It'd be a problem for us if Kamihama@united together as Yachiyo Nanami
+      said.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -72,20 +73,21 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-7
     nameRight: Yuna
-    textRight: So to start, why don't I show you how we intend@to thin out Union members,
+    textRight: So to start things off, why don't I show you how@we intend to thin
+      out Union members,
   - bgm: bgm03_story17
     chara:
     - id: 102100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-8
     nameRight: Yuna
     surround: stop
-    textRight: since one has conveniently died alone anyway...?
+    textRight: since one has conveniently died already anyway...?
   - chara:
     - id: 102100
       motion: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-9
     nameRight: Yuna
-    textRight: Besides, it's about time for our preparations@to be complete.
+    textRight: Besides, it's about time that@our preparations are complete.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -94,7 +96,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-10
     nameLeft: Felicia
-    textLeft: What do you mean by thin out...?@What are you plannin' on doing...!?
+    textLeft: What do you mean by thin out...?@What are you plannin' on doing...?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -118,7 +120,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-13
     nameRight: Sakuya
-    textRight: As I would expect from Tsuruno.@You already know since you're so smart.
+    textRight: As I would expect from Tsuruno.@You already know, since you're so smart.
   - autoTurnLast: 0.2
     chara:
     - id: 100300
@@ -132,7 +134,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-14
     nameLeft: Iroha
-    textLeft: Tsuruno, what did she mean?
+    textLeft: Tsuruno, what does she mean?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -150,7 +152,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-16
     nameLeft: Yachiyo
-    textLeft: Rather, it's more like what they have already done...
+    textLeft: Rather, it's more like what they've already done...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -159,7 +161,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-17
     nameRight: Tsuruno
-    textRight: Where all the Magical Girls in Kamihama live@and what they do every
+    textRight: Where all the Magical Girls in Kamihama@live and what they do every
       day...
   - chara:
     - cheek: 0
@@ -169,8 +171,8 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-18
     nameRight: Kanagi
-    textRight: That information is already available in the East,@so that means you
-      can assassinate us any time?
+    textRight: We heard about that in the East as well. So, that@means they can assassinate
+      us at any time?
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp3.json
@@ -200,7 +202,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Iroha
-    textLeft: Sakuya,@you said you wouldn't let her kill anyone.
+    textLeft: Sakuya, you said you@wouldn't let her kill anyone.
   - chara:
     - id: 302100
       motion: 100
@@ -211,13 +213,13 @@ story:
     - id: 302100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-22
     nameRight: Sakuya
-    textRight: I only said I didn't want her killing anyone@she knew so well.
+    textRight: I only said I didn't want her killing@anyone she knew so well.
   - chara:
     - id: 302100
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-23
     nameRight: Sakuya
-    textRight: I don't recall ever mentioning anything about@strangers.
+    textRight: I don't recall ever mentioning@anything about strangers.
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp3.json
@@ -281,7 +283,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-29
     nameRight: Juri
-    textRight: So sorry, but my side is gonna be contacting@everyone first.
+    textRight: So sorry, but my side is gonna@be contacting everyone first.
   - chara:
     - cheek: 0
       face: mtn_ex_052.exp3.json
@@ -300,14 +302,14 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-32
     nameRight: Juri
-    textRight: Even if you contact them all, some won't even notice.
+    textRight: Even if you contact them all,@some won't even notice.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp3.json
       id: 102400
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-33
     nameRight: Juri
-    textRight: Though, how many are even gonna survive such a@quick attack?
+    textRight: Now, how many are even gonna@survive such a quick attack?
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp3.json
@@ -326,7 +328,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-35
     nameRight: Yuna
-    textRight: We were going to stop once the negotiations@were over.
+    textRight: If the negotiations had succeeded,@I would have called it off.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp3.json
@@ -335,7 +337,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-36
     nameRight: Juri
-    textRight: And sent.
+    textRight: And sent!
   - autoTurnLast: 0.01
     bg: bg_adv_12023.jpg
     chara:
@@ -424,7 +426,7 @@ story:
       id: 300700
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-39
     nameCenter: Shizuku
-    textCenter: Ryou...!
+    textCenter: Ryo...!
   - autoTurnLast: 1
     bgm: stop
     chara:
@@ -443,7 +445,7 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-40
     nameCenter: Shizuku
-    textCenter: Who...!?
+    textCenter: Who...?!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -463,7 +465,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-9-41
     nameCenter: Shizuku
-    textCenter: This is...a labyrinth...?@I thought I saw someone, but...
+    textCenter: This is...a Labyrinth...?@I thought I saw someone, but...
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

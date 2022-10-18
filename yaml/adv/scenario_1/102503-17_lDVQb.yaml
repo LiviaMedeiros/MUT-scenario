@@ -17,14 +17,14 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-17-1
     nameRight: Ao
-    textRight: (Now I'm the only one who can stop Ryou Midori...!)
+    textRight: (Now I'm the only one who can stop Ryo Midori...!)
     turnChangeOut: fadeOut
   - chara:
     - id: 102300
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-17-2
     nameRight: Ao
-    textRight: (I'm not letting you take that evidence home.)
+    textRight: (I won't let you take that evidence home.)
   - chara:
     - id: 102300
       lipSynch: 0
@@ -45,21 +45,20 @@ story:
       motion: 300
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-17-4
-    nameLeft: Ryou
-    textLeft: (A battle axe is a really dangerous weapon,@but she swings it so fast!)
+    nameLeft: Ryo
+    textLeft: (A battleaxe is a really dangerous weapon,@and she swings it so fast!)
   - chara:
     - id: 304600
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-17-5
-    nameLeft: Ryou
-    textLeft: (If she keeps coming at me like this,@I'm not going to be able to save
-      it...!)
+    nameLeft: Ryo
+    textLeft: (If she keeps coming at me like this,@I won't be able to save it...!)
   - chara:
     - id: 304600
       lipSynch: 0
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-17-6
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: (Can I make it in time... I have to make it...!@I have to use my bazooka
       at point-blank range...!)
   - autoTurnLast: 1
@@ -80,7 +79,7 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-17-8
     - id: 102300
-    nameLeft: Ryou
+    nameLeft: Ryo
     textBg: shout
     textLeft: '[flashEffect:explosion][surround:3046A04]BRING IT OOOON!'
   - autoTurnLast: 2

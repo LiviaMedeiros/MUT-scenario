@@ -32,7 +32,7 @@ story:
     - id: 304301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-3
     nameRight: Eternal Sakura
-    textRight: ｜ What's wrong? ｜
+    textRight: '| What''s wrong? |'
   - chara:
     - id: 300301
       motion: 1
@@ -50,12 +50,13 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-6
     nameRight: Eternal Sakura
-    textRight: ｜ Are you going to make an animal house? ｜
+    textRight: '| Are you going to make an animal house? |'
   - chara:
     - id: 304301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-7
     nameRight: Eternal Sakura
-    textRight: ｜ Isn't Felicia constructing a home for@userName? ｜
+    textRight: '| Felicia is the one constructing@a home for userName, isn''t she?
+      |'
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -64,7 +65,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-8
     nameLeft: Hinano
-    textLeft: Nah, I'm prepping some teaching material for the@children's chemistry
+    textLeft: Nah, I'm prepping some teaching material for@the children's chemistry
       experiment class.
   - chara:
     - cheek: 0
@@ -74,7 +75,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-9
     nameRight: Eternal Sakura
-    textRight: ｜ I see, it's that drug that makes Hinano taller. ｜
+    textRight: '| I see, it''s that drug that''ll make you taller. |'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -90,8 +91,7 @@ story:
       voiceFull: fullvoice/section_102503/vo_full_102503-2-11
     enableSkipAutoTurn: 1
     nameLeft: Hinano
-    textLeft: It'll make the kids grow up really quick and～[chara:300301:lipSynch_0][wait:1.0][chara:300301:cheek_0][chara:300301:face_mtn_ex_020.exp.json:motion_200][chara:300301:lipSynch_1]@wait,
-      that's wrong!
+    textLeft: It'll make the kids grow up really quick and~@wait, that's wrong!
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp3.json
@@ -103,7 +103,7 @@ story:
       voiceFullStop: fullvoice/section_102503/vo_full_102503-2-11
     enableSkipAutoTurn: 0
     nameLeft: Hinano
-    textLeft: First of all,@that's not something you can do with cardboard!
+    textLeft: First of all, that's not something@you can do with cardboard!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -112,7 +112,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-13
     nameRight: Eternal Sakura
-    textRight: ｜…………｜
+    textRight: '| ... |'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -121,7 +121,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-14
     nameRight: Eternal Sakura
-    textRight: ｜ I was yelled at... ｜
+    textRight: '| I got yelled at... |'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -131,7 +131,7 @@ story:
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-15
     nameLeft: Hinano
     textLeft: I was just playing the straight man for that joke,@but I suppose that
-      was hard for Sakurako...
+      was harsh for you...
   - chara:
     - eyeClose: 1
       id: 300301
@@ -146,7 +146,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-17
     nameLeft: Hinano
-    textLeft: By the way, Sakurako,@why haven't you gone to the newspaper club?
+    textLeft: By the way, Sakurako, why haven't@you gone over to the newspaper club?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -155,7 +155,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-18
     nameRight: Eternal Sakura
-    textRight: ｜ Because Ryou went out to find a scoop. ｜
+    textRight: '| Because Ryo went out to find a scoop. |'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -168,14 +168,14 @@ story:
     - id: 304301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-20
     nameRight: Eternal Sakura
-    textRight: ｜ She said she wanted to narrow it down@because it's useless as it
-      is now. ｜
+    textRight: '| She said she wanted to narrow it@down because it''s useless as it
+      is now. |'
   - chara:
     - id: 304301
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-21
     nameRight: Eternal Sakura
-    textRight: ｜ But what she meant by that@isn't something I understand. ｜
+    textRight: '| But I don''t understand what she meant by that. |'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -205,8 +205,8 @@ story:
       id: 304601
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-23
-    nameRight: Ryou
-    textRight: …………
+    nameRight: Ryo
+    textRight: '...'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -215,7 +215,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-24
     nameLeft: Hinano
-    textLeft: Ryou?
+    textLeft: Ryo?
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -224,7 +224,7 @@ story:
       lipSynch: 1
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-25
-    nameRight: Ryou
+    nameRight: Ryo
     textRight: Mm? It's nothing.
   - autoTurnLast: 0.5
     bg: bg_adv_21023.jpg
@@ -254,7 +254,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-27
     nameLeft: Hinano
-    textLeft: (It's true that incomplete evidence can't be used@effectively.)
+    textLeft: (It's true that incomplete evidence@can't be used effectively.)
     turnEffect: thinking
   - chara:
     - eyeClose: 1
@@ -271,7 +271,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-29
     nameLeft: Hinano
-    textLeft: Although, that's not allowed now...
+    textLeft: Although, doing that is prohibited right now...
     turnEffect: stop
   - chara:
     - cheek: 0
@@ -280,13 +280,13 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-30
     nameLeft: Hinano
-    textLeft: Sakurako, I think I'm going to be leaving school early@today, too.
+    textLeft: Sakurako, I think I'm going to be@leaving school early today, too.
   - chara:
     - id: 304301
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-31
     nameRight: Eternal Sakura
-    textRight: ｜ Then I will also go home.@It would be boring without Hinano. ｜
+    textRight: '| Then I will also go home.@It would be boring without Hinano. |'
   - chara:
     - id: 300301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-2-32

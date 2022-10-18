@@ -27,12 +27,12 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-1
     nameCenter: Kagome
-    textCenter: …………
+    textCenter: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 304302
-    nameRight: Sakurako's voice
-    textRight: ｜ Kagome should go home, too.@Touka and Nemu are not here. ｜
+    nameRight: Sakurako's Voice
+    textRight: '| You should go home too, Kagome.@Touka and Nemu are not here. |'
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-2
   - chara:
     - id: 102001
@@ -55,34 +55,34 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-4
     nameRight: Eternal Sakura
-    textRight: ｜ Ryou was able to properly leave a mark of her existence behind, so
-      it's okay... ｜
+    textRight: '| Ryo was able to properly leave a mark@of her existence behind, so
+      it''s okay... |'
   - chara:
     - eyeClose: 1
       id: 304302
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-5
     nameRight: Eternal Sakura
-    textRight: ｜ I will never forget her... ｜
+    textRight: '| I will never forget her... |'
   - chara:
     - eyeClose: 0
       id: 304302
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-6
     nameRight: Eternal Sakura
-    textRight: ｜ It's strange...even though she is not one of@the four...I still feel
-      like this... ｜
+    textRight: '| It''s strange...even though she is not@one of the four...I still
+      feel like this... |'
   - chara:
     - id: 102001
       motion: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-7
     nameLeft: Kagome
-    textLeft: Maybe it's because Ryou and others@helped raise you.
+    textLeft: Maybe it's because Ryo and@the others helped raise you.
   - chara:
     - eyeClose: 1
       id: 304302
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-8
     nameRight: Eternal Sakura
-    textRight: ｜ Yes... ｜
+    textRight: '| Yes... |'
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -91,7 +91,7 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-9
     nameRight: Eternal Sakura
-    textRight: ｜ Is Kagome okay? ｜
+    textRight: '| Are you okay, Kagome? |'
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp3.json
@@ -104,14 +104,14 @@ story:
     - id: 102001
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-11
     nameLeft: Kagome
-    textLeft: I thought I "understood" that Magical Girls fighting@was dangerous...
+    textLeft: I thought I understood that fights between@Magical Girls are dangerous...
   - chara:
     - cheek: 1
       id: 102001
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-12
     nameLeft: Kagome
-    textLeft: Now that I've experienced this danger more closely,@I feel like I've
-      been so naive...
+    textLeft: But now that I've experienced this danger more@closely, I feel like
+      I've been so naive...
   - chara:
     - cheek: 1
       eyeClose: 1
@@ -119,7 +119,7 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-13
     nameLeft: Kagome
-    textLeft: I regret it so much...
+    textLeft: I feel awful...
   - chara:
     - eyeClose: 0
       id: 102001
@@ -137,14 +137,14 @@ story:
     - id: 102001
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-16
     nameLeft: Kagome
-    textLeft: that never built up to anything special, that I feel like I'm no closer
+    textLeft: They never built up to anything special, and I@feel like I'm no closer
       to understanding life...
   - chara:
     - id: 304302
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-17
     nameRight: Eternal Sakura
-    textRight: ｜ There is a saying that being aware of oneself@is good, right? ｜
+    textRight: '| They say that it''s good to be aware@of oneself, do they not? |'
   - chara:
     - id: 102001
       motion: 200
@@ -159,8 +159,8 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-19
     nameLeft: Kagome
-    textLeft: But I...I can't stand myself for what I felt@after Ryou died... I hate
-      myself...
+    textLeft: But I...I can't stand myself for what I felt@like after Ryo died...
+      I hate myself...
   - autoTurnLast: 0.01
     bg: black
     deleteArmatureList:
@@ -235,7 +235,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-28
     nameRight: Tsuruno
-    textRight: Is it okay if I stay with you today...?@I don't want to leave...
+    textRight: Is it okay if I stay at your place tonight...?@I don't want to leave...
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp3.json
@@ -253,7 +253,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-30
     nameRight: Felicia
-    textRight: What the hell is this...
+    textRight: What the hell is this...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -267,7 +267,7 @@ story:
     - id: 100101
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-32
     nameLeft: Iroha
-    textLeft: Someone was just hurt, someone that we all loved.
+    textLeft: Someone was taken from us,@and it makes us all huddle together.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -299,7 +299,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-35
     nameLeft: Yachiyo
-    textLeft: '...a declaration of war from Neo-Magius...'
+    textLeft: '...A declaration of war from the Neo-Magius...'
   - chara:
     - id: 100201
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-36
@@ -312,7 +312,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-37
     nameRight: Tsuruno
-    textRight: And after what Juri Ooba said,@we won't be able to sleep peacefully...
+    textRight: And after what Juri Oba said,@we won't be able to sleep peacefully...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -339,12 +339,12 @@ story:
       motion: 1
       pos: 2
     nameLeft: Touka
-    textLeft: I thought something like this would happen,@so I made preparations.
+    textLeft: I thought something like this might happen,@so I made preparations.
   - chara:
     - id: 101471
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-39
     nameRight: Nemu
-    textRight: It's less preparations, and more using what we have.
+    textRight: It's less preparations,@and more using what we have.
   - chara:
     - cheek: 2
       face: mtn_ex_031.exp3.json
@@ -362,7 +362,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-41
     nameRight: Nemu
-    textRight: We heard the situation, so we understand.
+    textRight: We heard about the situation, so we understand.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -375,7 +375,7 @@ story:
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-42
     nameLeft: Touka
     textLeft: However, instead of going on and on about regrets,@right now we need
-      to secure the base.
+      to secure our base.
   - chara:
     - id: 101471
       motion: 0
@@ -404,7 +404,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-17-45
     nameRight: Touka
-    textRight: Don't underestimate the world-class Satomi Group, okay.
+    textRight: Don't underestimate the@world-class Satomi Group, okay?
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

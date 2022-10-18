@@ -52,7 +52,7 @@ story:
     flashEffect: flashRed2
     surround: 1026A04
     textBg: shout
-    textLeft: '............!?!?'
+    textLeft: '............?!?!'
   - autoTurnLast: 1
     bgm: stop
     chara:
@@ -92,7 +92,7 @@ story:
     - id: 800100
       lipSynch: 0
     nameCenter: Dancer
-    textCenter: '............'
+    textCenter: '...'
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.2
     chara:
@@ -108,15 +108,15 @@ story:
       pos: 2
     nameLeft: Dancer
     nameRight: Chiharu
-    textRight: Uwawa... A-are you okay...!?
+    textRight: Uwawa... A-are you okay...?!
   - chara:
     - id: 102600
       motion: 0
-    textRight: This is, um-- her! Yeah! One of the girls who did the dance!
+    textRight: This is, um― her! Yeah! One of the girls who did the dance!
   - chara:
     - id: 800100
       lipSynch: 0
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -129,7 +129,7 @@ story:
   - chara:
     - id: 102600
       lipSynch: 0
-    textRight: (No, wait, Shizuka-chan's mother said that Devils can manipulate people...)
+    textRight: (No, wait, Shizuka's mother said that Devils can manipulate people...)
   - chara:
     - id: 102600
       motion: 0
@@ -152,7 +152,7 @@ story:
   - chara:
     - id: 800100
       lipSynch: 0
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -162,13 +162,13 @@ story:
   - chara:
     - id: 800100
       lipSynch: 0
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102600
       motion: 1
-    textRight: Hmm—? Wait, it looks like... she doesn't?
+    textRight: Hmm—? Wait, it looks like...she doesn't?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -196,7 +196,7 @@ story:
     - id: 102600
       lipSynch: 0
     surround: 7003_wind
-    textRight: (Again...!?)
+    textRight: (Again...?!)
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -210,7 +210,7 @@ story:
     - id: 102600
       lipSynch: 0
     narrationEffect: out
-    textRight: '............'
+    textRight: '...'
   - nameNarration: ""
     narration: '*Step*...'
     narrationBg: bg_adv_50021.jpg
@@ -242,12 +242,12 @@ story:
       id: 800600
       motion: 0
       pos: 2
-    nameLeft: Shizuka's mother
-    nameRight: Chiharu's mother
+    nameLeft: Shizuka's Mother
+    nameRight: Chiharu's Mother
     textLeft: Ms. Hiroe, this way! It's easier to fight in an @open field!
   - chara:
     - id: 800600
-    textRight: What do you mean "easier," Ms. Tokime!? @That sword's not going to
+    textRight: What do you mean "easier", Ms. Tokime?! @That sword's not going to
       do anything!
   - chara:
     - id: 801000
@@ -283,12 +283,12 @@ story:
       id: 801000
       motion: 0
       pos: 0
-    nameRight: Chiharu's mother
-    textRight: Chiharu!?
+    nameRight: Chiharu's Mother
+    textRight: Chiharu?!
   - chara:
     - id: 801000
-    nameLeft: Shizuka's mother
-    textLeft: Chiharu-chan!?
+    nameLeft: Shizuka's Mother
+    textLeft: Chiharu?!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -316,12 +316,12 @@ story:
       motion: 0
       pos: 2
     nameLeft: ""
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textRight: Before that...
   - chara:
     - id: 801000
     textBg: shout
-    textRight: '[bgEffect:shakeSmall]Tokime Isshin Style... Meter-Leap Decapitation!!'
+    textRight: '[bgEffect:shakeSmall]Tokime Isshin Style...Meter-Leap Decapitation!!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -329,7 +329,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Chiharu
-    textRight: Meter-Leap Decapitation—!?
+    textRight: Meter-Leap Decapitation—?!
   - chara:
     - id: 7107
       name: sprite_0
@@ -341,7 +341,7 @@ story:
       id: 801000
       motion: 0
       pos: 2
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textRight: Ah, the sword...
   - chara:
     - id: 7107
@@ -361,7 +361,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102600
-    textRight: After that, we should contact Shizuka-chan and Sunao-chan!!
+    textRight: After that, we should contact Shizuka and Sunao!!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

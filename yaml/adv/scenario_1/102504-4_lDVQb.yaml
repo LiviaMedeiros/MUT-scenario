@@ -22,7 +22,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-4-1
     nameLeft: Rena
-    textLeft: No matter what...@...we can't let Promised Blood take it...!
+    textLeft: No matter what...@...We can't let Promised Blood take it...!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -32,7 +32,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-4-2
     nameLeft: Momoko
-    textLeft: Kaede, can you make it...!?
+    textLeft: Kaede, can you make it...?!
   - chara:
     - eyeClose: 1
       id: 101100
@@ -47,8 +47,8 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-4-4
     nameRight: Kaede
-    textRight: We can't let them take the [textYellow:Kimochi] stone...@I feel so
-      sorry for Ryou...!
+    textRight: We can't let them take the [textYellow:Kimochi] Stone...@I feel so
+      sorry for Ryo...!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -83,7 +83,7 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-4-7
     nameLeft: Ikumi
-    textLeft: If we had just stopped Ryou,@you could have kept the negotiations...
+    textLeft: If we had just stopped Ryo,@you could have held onto the negotiations...
   - chara:
     - eyeClose: 1
       id: 305300
@@ -121,7 +121,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-4-12
     nameRight: Iroha
-    textRight: Because this is what Ryou called out@with her life.
+    textRight: Because this is what Ryo called@forth with her very life.
   - chara:
     - cheek: 2
       id: 305300
@@ -129,7 +129,7 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-4-13
     nameLeft: Ikumi
-    textLeft: Yeah...okay...
+    textLeft: Yeah...okay...!
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

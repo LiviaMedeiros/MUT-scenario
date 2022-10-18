@@ -50,7 +50,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Alina
-    textLeft: It's been said already,@but Alina has nothing to do with the Union.
+    textLeft: It's been said already, but I, Alina,@have nothing to do with the Union.
   - chara:
     - id: 100801
       motion: 200
@@ -61,14 +61,13 @@ story:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-4
     nameLeft: Alina
-    textLeft: but Alina wants you to stop with the cuffs and leash.
+    textLeft: but stop with the cuffs and leash.
   - chara:
     - id: 100601
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-5
     nameRight: Mifuyu
-    textRight: Likewise, is there a reason why Alina has been@pulling me along like
-      this?
+    textRight: Likewise, is there a reason why you've@been pulling me along like this?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -110,7 +109,7 @@ story:
     - id: 304601
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-9
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: You're right, but...
   - autoTurnLast: 0.3
     chara:
@@ -134,7 +133,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Alina
-    textLeft: '*Sigh*...@Do you even understand Alina in the first place?'
+    textLeft: '*Sigh*...@Do you even understand me in the first place?'
   - chara:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-11
@@ -147,7 +146,7 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-12
     nameRight: Mifuyu
-    textRight: '[chara:100601:effect_emotion_surprise_0][se:7226_shock]!?'
+    textRight: '[chara:100601:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 100801
       motion: 0
@@ -172,12 +171,12 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-15
     nameLeft: Alina
-    textLeft: Besides, Alina has met a Magical Girl that is@researching Mirrors,
+    textLeft: Besides, now I've met a Magical Girl@that is researching Mirrors,
   - chara:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-16
     nameLeft: Alina
-    textLeft: so Alina has no reason to go through with this@anymore.
+    textLeft: so I have no reason to go@through with this anymore.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -185,7 +184,7 @@ story:
       motion: 1
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-17
-    nameRight: Ryou
+    nameRight: Ryo
     textRight: Are you talkin' about me?
   - chara:
     - id: 100801
@@ -197,24 +196,24 @@ story:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-19
     nameLeft: Alina
-    textLeft: Except for the map drawing of the original Mirrors@from Alina's point
-      of view,
+    textLeft: Aside from the map drawing of the original@Mirrors from my point of
+      view,
   - chara:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-20
     nameLeft: Alina
-    textLeft: Alina is non necessaria, sì?
+    textLeft: I am non necessaria, sì?
   - chara:
     - id: 100801
       motion: 400
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-21
     nameLeft: Alina
-    textLeft: That's why Alina wants to see and check the@Mirrors offshoot,
+    textLeft: That's why I wants to see and@check the Mirrors offshoot,
   - chara:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-22
     nameLeft: Alina
-    textLeft: because no drawing is necessary to find the@offshoot's magical pattern.
+    textLeft: because no drawing is necessary@to find the offshoot's magical pattern.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -223,12 +222,12 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-23
     nameRight: Hinano
-    textRight: Sorry, but I can't let you take Ryou.
+    textRight: Sorry, but I can't let you take Ryo.
   - chara:
     - id: 300301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-24
     nameRight: Hinano
-    textRight: It would be really bad if they found out that@she's a part of the Union...
+    textRight: It'd be really bad if they caught@someone that's a part of the Union...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -236,7 +235,7 @@ story:
       motion: 0
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-25
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: Hinano...
   - chara:
     - cheek: 0
@@ -257,9 +256,9 @@ story:
     - id: 304601
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-28
-    nameLeft: Ryou
-    textLeft: '...At any rate, it doesn''t seem like we''d@catch anything given the
-      current situation...'
+    nameLeft: Ryo
+    textLeft: '...At any rate, it doesn''t seem like we''ll@find anything in the current
+      situation...'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -275,29 +274,29 @@ story:
       id: 304601
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-30
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: To give a rough summary,@we've been looking for this Mirrors offshoot,
   - chara:
     - id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-31
-    nameLeft: Ryou
-    textLeft: there's the Mirrors offshoot that Mitama@took care of,
+    nameLeft: Ryo
+    textLeft: there's the Mirrors offshoot@that Mitama took care of,
   - chara:
     - id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-32
-    nameLeft: Ryou
-    textLeft: and eyewitness reports of concentrations of@Promised Blood in the east.
+    nameLeft: Ryo
+    textLeft: and eyewitness reports of concentrations@of Promised Blood in the East.
   - chara:
     - id: 304601
       motion: 400
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-33
-    nameLeft: Ryou
-    textLeft: Also, I snapped a picture of Juri Ooba.
+    nameLeft: Ryo
+    textLeft: Also, I snapped a picture of Juri Oba.
   - chara:
     - id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-34
-    nameLeft: Ryou
-    textLeft: When you add it all up, this whole place smells fishy.
+    nameLeft: Ryo
+    textLeft: When you add it all up,@this whole place smells fishy.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -314,18 +313,18 @@ story:
       motion: 1
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-36
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: There's no magical pattern here to clue me in,
   - chara:
     - id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-37
-    nameLeft: Ryou
-    textLeft: so my ability to never miss a photo opportunity@won't kick in.
+    nameLeft: Ryo
+    textLeft: so my ability to never miss a photo@opportunity won't kick in.
   - chara:
     - id: 304601
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-38
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: That's why it seems like I have to give up.
   - chara:
     - cheek: 0
@@ -342,20 +341,20 @@ story:
       id: 304601
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-40
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: Mifuyu, are you really okay with that?
   - chara:
     - id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-41
-    nameLeft: Ryou
-    textLeft: As it is, you know we won't have a weakpoint@to exploit in case there's
+    nameLeft: Ryo
+    textLeft: As it is, you know we won't have a weak point@to exploit in case there's
       an emergency, right?
   - chara:
     - id: 100601
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-42
     nameRight: Mifuyu
-    textRight: Right now, our top priority should be@negotiating successfully.
+    textRight: Right now, our top priority should@be negotiating successfully.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -369,8 +368,8 @@ story:
       id: 304601
       motion: 1
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-44
-    nameLeft: Ryou
-    textLeft: So that's it, huh.@Mifuyu's also going for convenience.
+    nameLeft: Ryo
+    textLeft: So that's it, huh.@You're choosing convenience too.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -394,12 +393,13 @@ story:
       motion: 0
       pos: 0
     nameRight: Mifuyu
-    textRight: Alina, you should go home for today as well@and wait a little while.
+    textRight: Alina, you should go home for today@as well and wait a little while.
   - chara:
     - id: 100601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-47
     nameRight: Mifuyu
-    textRight: Since there are no clues to follow,@we will just be exposed to tricks.
+    textRight: Since there are no clues to follow,@we'd just be taking chance for
+      nothing.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -408,14 +408,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-48
     nameLeft: Alina
-    textLeft: '*Sigh* Va bene...'
+    textLeft: '*Sigh*@Va bene...'
   - chara:
     - id: 100801
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-49
     nameLeft: Alina
-    textLeft: Besides, it seems someone who claims to be@Alina's mother is at the
-      hospital...
+    textLeft: Besides, it seems someone who claims to@be my mother is at the hospital...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -424,7 +423,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-50
     nameRight: Mifuyu
-    textRight: Did you not say that she was not coming@to get you earlier!?
+    textRight: Didn't you say earlier that she@wasn't coming to get you?!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -446,7 +445,7 @@ story:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-4-53
     nameLeft: Alina
-    textLeft: Everyone is so vague, è il peggiore...
+    textLeft: Everyone is so vague, it's è il peggiore...
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

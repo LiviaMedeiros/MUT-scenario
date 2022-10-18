@@ -86,7 +86,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102500
-    textRight: Eh... Nobody saw her...!?
+    textRight: Eh... Nobody saw her...?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -104,7 +104,7 @@ story:
   - chara:
     - id: 102500
     textRight: Also, right...@[chara:102500:lipSynch_0][wait:0.8][chara:102500:cheek_0][chara:102500:face_mtn_ex_020.exp.json][chara:102500:motion_400][chara:102500:lipSynch_1]Where's
-      Chiharu's mother!?
+      Chiharu's mother?!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -124,7 +124,7 @@ story:
   - chara:
     - id: 102500
       motion: 200
-    textRight: But what about when you were evacuating!?
+    textRight: But what about when you were evacuating?!
   - chara:
     - id: 800700
     textLeft: We should have been together till then.
@@ -218,7 +218,7 @@ story:
       id: 102500
       lipSynch: 0
       motion: 0
-    textCenter: '[chara:102500:effect_ef_adv_01][se:7201_detect_magic]-!?'
+    textCenter: '[chara:102500:effect_ef_adv_01][se:7201_detect_magic]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

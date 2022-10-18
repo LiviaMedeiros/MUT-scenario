@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 102501
     nameLeft: Shizuka
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textLeft: So what were you going to tell us?
     turnChangeOut: fadeOut
   - chara:
@@ -40,12 +40,12 @@ story:
     textRight: Huh... @By Mikoshiba, you mean Granny Mikoshiba?
   - chara:
     - id: 801000
-    nameLeft: Shizuka's mother
+    nameLeft: Shizuka's Mother
     textLeft: Exactly.
   - chara:
     - id: 102601
       motion: 400
-    textRight: What!? Why!?
+    textRight: What?! Why?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -63,7 +63,7 @@ story:
       id: 800600
       motion: 0
       pos: 0
-    nameLeft: Chiharu's mother
+    nameLeft: Chiharu's Mother
     textLeft: But I never expected us to have come from the Mikoshibas...
   - chara:
     - id: 102601
@@ -75,7 +75,7 @@ story:
       id: 801000
       motion: 0
       pos: 0
-    nameLeft: Shizuka's mother
+    nameLeft: Shizuka's Mother
     textLeft: Don't say that.
   - chara:
     - id: 801000
@@ -126,7 +126,7 @@ story:
       motion: 200
     nameLeft: Shizuka
     nameRight: Sunao
-    textLeft: '............'
+    textLeft: '...'
     turnChangeOut: rollOutFast
   - chara:
     - id: 102501
@@ -184,7 +184,7 @@ story:
     chara:
     - id: 801000
     nameLeft: Shizuka
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textRight: Shizuka! Accept this!
     turnChangeOut: fadeOut
   - chara:

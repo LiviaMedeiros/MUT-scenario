@@ -64,7 +64,7 @@ story:
   - chara:
     - id: 102701
       motion: 0
-    textRight: Then, how are we going to eliminate Hiroe Chiharu...?
+    textRight: Then, how are we going to eliminate Chiharu Hiroe...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -85,7 +85,7 @@ story:
     - id: 102700
       lipSynch: 0
     nameCenter: Sunao
-    textCenter: '[chara:102700:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textCenter: '[chara:102700:effect_emotion_surprise_0][se:7226_shock]...?!'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -196,7 +196,7 @@ story:
     flashEffect: flashRed2
     surround: 1027A02
     textBg: shout
-    textRight: '...!?'
+    textRight: '...?!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -211,14 +211,14 @@ story:
       motion: 200
     nameLeft: Chiharu
     nameRight: Sunao
-    textLeft: Sorry, Sunao-chan. I didn't think I'd miss like that...
+    textLeft: Sorry, Sunao. I didn't think I'd miss like that...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102700
       motion: 100
       pos: 2
-    textRight: I didn't recall it until just now either.
+    textRight: No, I'm sorry for not recalling about this sooner.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -241,7 +241,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Chiharu
-    textLeft: Yeah, those were the same Underlings that I fought with Shizuka-chan...!
+    textLeft: Yeah, those were the same Underlings that I fought with Shizuka...!
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

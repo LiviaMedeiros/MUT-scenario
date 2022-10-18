@@ -38,7 +38,7 @@ story:
       motion: 300
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-6-3
-    nameLeft: Nameless A.I.
+    nameLeft: Anonymous AI
     textLeft: '>In the end, you are only disgusting creatures.@>You humans will leave
       immediately.'
   - chara:
@@ -54,7 +54,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-6-5
     nameRight: Juri
-    textRight: Nah, we are NOT leaving.
+    textRight: Nah, we're NOT leaving.
   - autoTurnLast: 0.2
     chara:
     - id: 102400
@@ -68,7 +68,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-6-6
     nameRight: Ranka
-    textRight: But, does that mean we're going to give up@the [textYellow:Kimochi]?
+    textRight: But, does that mean we're going@to give up the [textYellow:Kimochi]?
   - chara:
     - id: 102400
       motion: 100
@@ -84,7 +84,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-6-8
     nameRight: Yuna
-    textRight: You just wanted to wait for the Tokime or Union@to defeat the Uwasa.
+    textRight: You just wanted to wait for the Tokime@or Union to defeat the Uwasa.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -93,8 +93,8 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-6-9
     nameLeft: Juri
-    textLeft: Either way, the winner is decided after this thing,@so why not wait
-      around?
+    textLeft: Either way, the winner is decided after this thing@is dealt with, so
+      why not wait around?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -117,7 +117,7 @@ story:
       id: 102400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-6-12
     nameLeft: Juri
-    textLeft: You got it.
+    textLeft: You've got it.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -140,7 +140,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-6-13
     nameRight: ""
-    textRight: '*Huff*...*huff*...Yuna...!'
+    textRight: '*Huff*...*huff*...Eldest Sister...!'
   - chara:
     - id: 102100
       motion: 1
@@ -158,7 +158,8 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-6-16
     nameRight: ""
-    textRight: Gah...*huff*...that's not it...@I was contacted and came to tell you...
+    textRight: Gah...*huff*...that's not it...@I came here to deliver a message to
+      you...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -167,7 +168,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-6-17
     nameLeft: Yuna
-    textLeft: Contacted? Wonder if it's Sakuya...
+    textLeft: A message? Wonder if it's Sakuya...
   - chara:
     - id: 102100
       motion: 0
@@ -260,7 +261,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-6-27
     nameRight: Asahi
-    textRight: I don't think this conversation is getting us@anywhere!
+    textRight: I don't think this conversation@is getting us anywhere!
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

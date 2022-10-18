@@ -53,12 +53,12 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-3
     nameRight: Sakuya
-    textRight: That looks like it hurts. I'll treat it later...
+    textRight: That looks like it hurts.@I'll treat it for you later...
   - chara:
     - id: 304400
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-4
     nameLeft: Ranka
-    textLeft: We can't deal with her if she's lost all reasoning@like this...
+    textLeft: We can't deal with her if she's@lost all reasoning like this...
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -82,13 +82,13 @@ story:
       motion: 0
       pos: 2
     nameLeft: Ao
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - id: 102200
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-6
     nameRight: Hikaru
-    textRight: This wasn't Ao's fault.@What happened was bound ta happen.
+    textRight: This wasn't your fault, Ao.@What happened was bound to happen.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -114,13 +114,13 @@ story:
     - id: 102400
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-8
     nameLeft: Juri
-    textLeft: This is because of the seeds that the Union@has sown.
+    textLeft: This is because of the seeds@that the Union has sown.
   - chara:
     - id: 102100
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-9
     nameRight: Yuna
-    textRight: Curse yourselves for moving your pieces@behind our backs.
+    textRight: Curse yourselves for moving your@pieces behind our backs.
   - chara:
     - eyeClose: 1
       id: 102100
@@ -199,7 +199,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-14
     nameLeft: Rena
-    textLeft: I also want to settle this and listen to@everyone's circumstances...
+    textLeft: I also want to settle this and hear out@everyone's circumstances...
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -256,7 +256,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Yachiyo
-    textLeft: We've fallen into the last situation we'd ever want@to be in.
+    textLeft: We've fallen into the last situation@we ever wanted to be in.
   - chara:
     - id: 100100
       motion: 301
@@ -297,7 +297,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Ikumi
-    textRight: …………
+    textRight: '...'
   - chara:
     - id: 300300
       motion: 400
@@ -339,7 +339,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Juri
-    textLeft: What crap are you talking about now...
+    textLeft: What crap are you talking about now...?
   - chara:
     - id: 102400
       motion: 100
@@ -383,7 +383,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-28
     nameRight: Hikaru
-    textRight: A [textYellow:Kimochi] labyrinth...
+    textRight: A [textYellow:Kimochi] Labyrinth...
   - chara:
     - id: 102400
       motion: 200
@@ -444,7 +444,7 @@ story:
       face: mtn_ex_031.exp3.json
       id: 101500
     nameLeft: Ikumi
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - eyeClose: 1
       id: 305300
@@ -461,9 +461,9 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-35
     nameNarration: Ui
-    narration: I won't move until every gets here.@I hide and hold my breath.@Even
-      after strangers shout out to me@while searching about, clawing everyone they
-      go,@I will not come out.@I am all alone and not needed, anyway...
+    narration: I won't move until everyone gets here.@I hide and hold my breath.@Even
+      after strangers shout out to me@while searching about, clawing everywhere they
+      go,@I will not come out.@I am all alone, and not needed anyway...
   - chara:
     - eyeClose: 1
       id: 305300
@@ -478,7 +478,7 @@ story:
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-37
     nameNarration: Ui
     narration: If that is not possible,@then I will not move from here@unless I experience
-      sorrow greater@than I have ever known.
+      grief greater@than I have ever known.
   - autoTurnLast: 0.1
     narrationEffect: out
   - autoTurnLast: 0.2
@@ -493,7 +493,7 @@ story:
       pos: 1
     nameCenter: ""
     textBg: shout
-    textCenter: ∵uu＿uuWAAaAA＿!!
+    textCenter: ∵ww＿w―wWAAaAA＿!!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -518,7 +518,7 @@ story:
     - id: 101500
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-39a
     nameRight: Ui
-    textRight: because it was looking for intense sorrow...?
+    textRight: Because it was listening for intense sorrow...?
   - chara:
     - eyeClose: 1
       id: 305300
@@ -526,7 +526,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-40
     nameLeft: Ikumi
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -535,13 +535,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-41
     nameLeft: Hinano
-    textLeft: Then, you're saying it appeared because it was@drawn to Ikumi's sorrow...?
+    textLeft: Then, you're saying it appeared because@it was drawn to Ikumi's grief...?
   - chara:
     - id: 101500
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-42
     nameRight: Ui
-    textRight: It might be...
+    textRight: That might be it...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -585,7 +585,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-45
     nameRight: Hikaru
-    textRight: Ahh, damn it! Ao, get it together!
+    textRight: Ahh, damn it!@Ao, get it together!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -666,14 +666,14 @@ story:
       motion: 0
       pos: 0
     nameRight: Mifuyu
-    textRight: Why did the [textYellow:Kimochi] of sorrow have to have the strongest
+    textRight: Why did the [textYellow:Kimochi] of Grief have to@have the strongest
       magic power?
   - chara:
     - id: 101600
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-3-53
     nameCenter: Kanagi
-    textCenter: Maybe this is the way we appear to live@in Kamihama.
+    textCenter: Maybe this is the true form@of the Kamihama we live in.
   - chara:
     - id: 101701
       motion: 300

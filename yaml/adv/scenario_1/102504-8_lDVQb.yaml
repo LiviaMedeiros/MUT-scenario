@@ -38,7 +38,7 @@ story:
       id: 305301
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-8-1
     nameLeft: Ikumi
-    textLeft: Phew...@I got it...Ryou...
+    textLeft: Phew...@I got it...Ryo...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -48,7 +48,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-8-2
     nameRight: Iroha
-    textRight: …………
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -65,7 +65,7 @@ story:
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-8-4
     nameRight: Yuna
     textRight: '...Now that all eight stones have been gathered,@all that''s left
-      is fighting for them...'
+      is to fight over them...'
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp3.json
@@ -89,7 +89,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-8-7
     nameRight: Juri
-    textRight: We don't need to hear it from someone that tried to@trap us.
+    textRight: We don't need to hear it from@someone that tried to trap us.
   - chara:
     - id: 102400
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-8-8
@@ -112,7 +112,7 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-8-9
     nameCenter: Ikumi
-    textCenter: …………
+    textCenter: '...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -131,7 +131,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Kanagi
-    textRight: Hinano, I understand how you feel, but this isn't@a fight where we
+    textRight: Miyako, I understand how you feel, but this@isn't a fight where we
       can pass the blame...
   - chara:
     - cheek: 0
@@ -159,7 +159,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-8-13
     nameRight: Mifuyu
-    textRight: But, this is not how we wanted things to end up...
+    textRight: But, this isn't how we wanted things to end up...
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp3.json
@@ -168,7 +168,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-8-14
     nameLeft: Iroha
-    textLeft: We're going to have to move how Kyubey expected@us to...
+    textLeft: We're going to have to follow the same@path that Kyubey expects of us...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -177,7 +177,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-8-15
     nameRight: Tsuruno
-    textRight: We have to hurt each other, let our doppels out,@and be guinea pigs
+    textRight: We have to hurt each other, let our Doppels out,@and be guinea pigs
       to make food for the universe...
   - chara:
     - cheek: 0
@@ -187,7 +187,8 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-8-16
     nameLeft: Yachiyo
-    textLeft: But we will fight with everything we have@to avoid a worst-case scenario.
+    textLeft: But we'll fight together with everything we@have to avoid a worst-case
+      scenario.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -196,8 +197,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-8-17
     nameRight: Yuna
-    textRight: Then it's the same as us. We're not going to@hold back as long as we're
-      competing.
+    textRight: Then it's the same as us. We're not going@to hold back in this competition.
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp3.json
@@ -206,7 +206,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-8-18
     nameLeft: Ui
-    textLeft: Then, we can only fight now...
+    textLeft: Then, the only thing we can do now is fight...
   - chara:
     - id: 102100
       motion: 0

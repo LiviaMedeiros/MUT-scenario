@@ -25,7 +25,7 @@ story:
     - id: 102601
     nameLeft: Sunao
     nameRight: Chiharu
-    textRight: Shizuka-chan, Sunao-chan, the Devil's reaction is getting stronger...
+    textRight: Shizuka, Sunao, the Devil's reaction is getting stronger...
     turnChangeOut: fadeOut
   - chara:
     - id: 102701
@@ -89,7 +89,7 @@ story:
       lipSynch: 0
     nameLeft: Shizuka
     nameRight: Chiharu
-    textLeft: '............'
+    textLeft: '...'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -175,8 +175,8 @@ story:
     textLeft: Unfortunately, the only facts that we know...
   - chara:
     - id: 102500
-    textLeft: 'Are that: the Devil is still alive, and that the villagers'' situation
-      remains unknown...'
+    textLeft: Are that the Devil is still alive, and that the villagers' situation
+      remains unknown...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -185,7 +185,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Sunao
-    textRight: '............'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -195,7 +195,7 @@ story:
   - chara:
     - id: 102700
       motion: 0
-    textRight: Oh, it's just-- I still feel like something's amiss, somehow.
+    textRight: Oh, it's just― I still feel like something's amiss, somehow.
   - select:
     - alternativeId: 9
       group: group_2
@@ -234,7 +234,7 @@ story:
     - id: 102700
       motion: 0
     nameRight: Sunao
-    textRight: Oh, it's just-- I still feel like something's amiss, somehow.
+    textRight: Oh, it's just― I still feel like something's amiss, somehow.
   - select:
     - alternativeId: 9
       group: group_2

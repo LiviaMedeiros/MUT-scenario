@@ -21,8 +21,8 @@ story:
     - id: 820100
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-3-1
-    nameLeft: Nameless A.I.
-    textLeft: '>I see exhaustion within your eyes.@>It would be wise to stop soon.'
+    nameLeft: Anonymous AI
+    textLeft: '>I see exhaustion in your eyes.@>It would be wise to stop soon.'
     turnChangeOut: fadeOutLogo_PB
   - chara:
     - cheek: 0
@@ -38,7 +38,7 @@ story:
       id: 102100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-3-3
     nameRight: Yuna
-    textRight: I never would've thought we would face@an enemy with no form...
+    textRight: I never would've thought we would@face an enemy with no form...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -47,7 +47,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-3-4
     nameRight: Juri
-    textRight: Maybe there's some device projecting an image@around here...?
+    textRight: Maybe there's some device projecting@an image around here...?
   - chara:
     - id: 820100
       motion: 100
@@ -85,14 +85,14 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-3-8
     nameLeft: Shizuka
-    textLeft: …………
+    textLeft: '...'
     turnChangeOut: fadeOutLogo_Tokime
   - chara:
     - id: 102600
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-3-9
     nameRight: Chiharu
-    textRight: What do we do Sunao!?@Shizuka is frozen!
+    textRight: What do we do Sunao?!@Shizuka is frozen!
   - autoTurnLast: 0.2
     chara:
     - id: 102600
@@ -106,18 +106,18 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-3-10
     nameRight: Sunao
-    textRight: The intensity of this area is too stimulating@for Shizuka...
+    textRight: The intensity of this area is@too stimulating for Shizuka...
   - chara:
     - id: 102700
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-3-11
     nameRight: Sunao
-    textRight: I don't think we can do anything about her@freezing up...
+    textRight: I don't think we can do anything@about her freezing up...
   - chara:
     - id: 102600
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-3-12
     nameLeft: Chiharu
-    textLeft: Ugh, I wonder if we can defeat it with just@the two of us...
+    textLeft: Ugh, I wonder if we can defeat it@with just the two of us...
   - chara:
     - id: 102700
       motion: 1
@@ -129,7 +129,7 @@ story:
       motion: 100
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-3-14
-    nameLeft: Nameless A.I.
+    nameLeft: Anonymous AI
     textLeft: '>It would be better if you gave up@>and took your leave.'
   - chara:
     - id: 820100
@@ -150,7 +150,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-3-17
     nameRight: Asahi
-    textRight: We have no choice but to turn off Miss Shizuka@and reboot her.
+    textRight: We have no choice but to turn off@Miss Shizuka and reboot her.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json

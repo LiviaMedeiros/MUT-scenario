@@ -19,9 +19,9 @@ story:
     chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-1
-    nameRight: Touka's father
-    textRight: I should have told the receptionist that I was going@to be busy with
-      plans today...
+    nameRight: Touka's Father
+    textRight: I thought I told the receptionist that I was@going to be busy with
+      other plans today...
     turnChangeOut: fadeOut
     turnEffect: thinking
   - chara:
@@ -34,13 +34,14 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-3
     nameLeft: Nayuta
-    textLeft: However, there is a single matter I thought I would@ask you about...
+    textLeft: However, there is a single matter which I@would like to speak to you
+      about...
   - chara:
     - id: 103701
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-4
     nameLeft: Nayuta
-    textLeft: So if there is a time that is convenient for you,@Uncle,
+    textLeft: So if there is a time that is@convenient for you, Uncle,
   - chara:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-5
@@ -49,7 +50,7 @@ story:
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-6
-    textRight: You know there's nothing else I can tell you?@Especially about Tasuke.
+    textRight: You realize there's nothing else I can tell you?@Especially about Tasuke.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -75,7 +76,7 @@ story:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-10
     nameLeft: Nayuta
-    textLeft: '...that she''s trying to get custody of me and@find my father...'
+    textLeft: '...that she''s trying to get custody of me@and find my father...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -86,7 +87,7 @@ story:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-12
     nameLeft: Nayuta
-    textLeft: I want to use the information my mother has@to find where my father
+    textLeft: I want to use the information my mother@has to find where my father
       is.
   - chara:
     - cheek: 0
@@ -106,7 +107,7 @@ story:
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-15
-    textRight: Be that as it may,@I have no intentions of cutting you off, Nayuta.
+    textRight: Be that as it may, I have no intention@of cutting you off, Nayuta.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -119,7 +120,7 @@ story:
       face: mtn_ex_020.exp3.json
       id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-17
-    textRight: Not right now.
+    textRight: But not right now.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -128,11 +129,11 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-18
     nameLeft: Nayuta
-    textLeft: Why not!?
+    textLeft: Why not?!
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-19
-    textRight: I will keep the same schedule three days from today,
+    textRight: I will clear my schedule for this@same time three days from now,
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-20
@@ -149,7 +150,7 @@ story:
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-22
-    textRight: Bring your own answer about what it's like@to lose a loved one.
+    textRight: Bring your own answer about what@it's like to lose a loved one.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -158,7 +159,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-23
     nameLeft: Nayuta
-    textLeft: Huh...!?
+    textLeft: Huh...?!
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-24
@@ -168,7 +169,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-25
     nameLeft: Nayuta
-    textLeft: Um, Uncle!?
+    textLeft: Um, Uncle?!
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-26
@@ -195,7 +196,7 @@ story:
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-27
     nameRight: Mikage
     surround: 7007_evening_townbuzz
-    textRight: Uncle said no?
+    textRight: Did your uncle say no?
     turnChangeOut: fadeOut
   - chara:
     - id: 103701
@@ -216,14 +217,14 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-30
     nameLeft: Nayuta
-    textLeft: However, I was assigned homework that I don't understand.
+    textLeft: However, I was assigned homework@that I don't understand.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 103801
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-4-31
     nameRight: Mikage
-    textRight: Mii hates homework...
+    textRight: Homework is the worst...
   - chara:
     - id: 103801
       motion: 300

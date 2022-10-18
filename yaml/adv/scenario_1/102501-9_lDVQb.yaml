@@ -147,7 +147,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-9
     nameRight: Shizuku
-    textRight: It was nothing, take it easy.
+    textRight: It was nothing. Take it easy.
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -172,13 +172,13 @@ story:
       motion: 0
       pos: 2
     nameLeft: Hikaru
-    textLeft: Choosing a companion's store to have our@discussion...
+    textLeft: Choosing a comrade's shop for our meeting...
   - chara:
     - id: 102201
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-11
     nameLeft: Hikaru
-    textLeft: puts me on edge.
+    textLeft: It's a little concerning, you know?
   - chara:
     - id: 302101
       motion: 200
@@ -225,12 +225,12 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-17
     nameLeft: Iroha
-    textLeft: Ui contacted me that she's arrived at the@cargo port,
+    textLeft: Ui notified me that she's arrived@at the cargo port.
   - chara:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-18
     nameLeft: Iroha
-    textLeft: but did you also receive confirmation?
+    textLeft: Have you gotten confirmation as well?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -239,18 +239,18 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-19
     nameRight: Hikaru
-    textRight: The eldest sister made contact.
+    textRight: Eldest Sister sent word.
   - chara:
     - id: 102201
       motion: 1
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-20
     nameRight: Hikaru
-    textRight: Felicia Mitsuki and Sana Futaba appear to be@together,
+    textRight: It seems Felicia Mitsuki and Sana Futaba@are there with her...
   - chara:
     - id: 102201
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-21
     nameRight: Hikaru
-    textRight: but it would be more suspicious if they were alone,@so there's no problems.
+    textRight: But it'd be more suspicious if she was alone,@so there's no problem.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -283,12 +283,13 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-25
     nameRight: Sakuya
-    textRight: 'To start, I''ll ask you straight away:'
+    textRight: 'First, lemme cut to the chase here and ask:'
   - chara:
     - id: 302101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-26
     nameRight: Sakuya
-    textRight: in these cold circumstances,@how do you intend for us to join forces?
+    textRight: Just how will you make this alliance happen?@You know how frosty it
+      is between our groups.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -297,8 +298,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-27
     nameRight: Hikaru
-    textRight: It's understandable that the forever-good Iroha@would say something
-      wild,
+    textRight: I know that your kindness will make@you say something outlandish,
   - chara:
     - id: 102201
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-28
@@ -318,7 +318,8 @@ story:
       id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-30
     nameLeft: Iroha
-    textLeft: That's why I've put a lot of thought into it@and decided on one answer.
+    textLeft: That's why I've put a lot of thought into@this and came up with a single
+      solution.
   - chara:
     - eyeClose: 0
       id: 100101
@@ -330,7 +331,7 @@ story:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-32
     nameLeft: Iroha
-    textLeft: if I could convince you two with a promise...
+    textLeft: '...if I might settle your doubts by@promising you something.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -339,7 +340,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-33
     nameRight: Sakuya
-    textRight: A promise...?
+    textRight: Promising us...?
   - bgm: stop
     chara:
     - cheek: 0
@@ -366,7 +367,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-36
     nameRight: Hikaru
-    textRight: Is saying that supposed to convince us?
+    textRight: You actually expect to convince us like that?
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -375,13 +376,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-37
     nameLeft: Tsuruno
-    textLeft: Our goal is to save all Magical Girls throughout the world,
+    textLeft: Our goal is to save all Magical Girls@around the world,
   - chara:
     - id: 100301
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-38
     nameLeft: Tsuruno
-    textLeft: which means saving the people of Futatsugi@just as equally.
+    textLeft: which means saving the people of Futatsugi too,@without discrimination.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -392,14 +393,14 @@ story:
     - id: 102201
       motion: 0
     nameLeft: Yachiyo
-    textLeft: Right, so if you're so intent on stealing@the automatic purification
-      system,
+    textLeft: Exactly. Hence, rather than on stealing the@Automatic Purification System
+      for your revenge,
   - chara:
     - id: 100201
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-40
     nameLeft: Yachiyo
-    textLeft: why not turn your blade of revenge@towards saving everyone...?
+    textLeft: why not sheath your vengeance and work@towards saving everyone instead...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -408,12 +409,12 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-41
     nameRight: Sakuya
-    textRight: The Union is something difficult to talk about,
+    textRight: The Union talks a big game,
   - chara:
     - id: 302101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-42
     nameRight: Sakuya
-    textRight: but it's like you're telling us to just endure it.
+    textRight: but you're basically telling us to just endure it.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -422,7 +423,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-43
     nameRight: Hikaru
-    textRight: Why did you think that promise would@convince us...?
+    textRight: What made you think a promise like@that would persuade us...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -431,8 +432,8 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-44
     nameLeft: Iroha
-    textLeft: Because the sharper the blade is that points at us,@the kinder Yuna
-      seems to become.
+    textLeft: Because the sharper the blade Yuna points@at us is, the kinder she seems
+      to me.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -440,25 +441,25 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-45
     nameRight: Hikaru
-    textRight: '!?'
+    textRight: '[chara:102201:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-46
     nameLeft: Iroha
-    textLeft: I'm sure Yuna is incredibly kind...
+    textLeft: I'm sure Yuna is a very kind person...
   - chara:
     - eyeClose: 1
       id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-47
     nameLeft: Iroha
-    textLeft: Otherwise, I don't think she would get so angry@because of her friends...
+    textLeft: Otherwise, I don't think she would get@so angry on account of her friends...
   - chara:
     - eyeClose: 0
       id: 100101
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-48
     nameLeft: Iroha
-    textLeft: So just maybe,@she could change her mind in the end.
+    textLeft: So I thought, just maybe,@she could change her mind in the end.
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp3.json
@@ -472,19 +473,19 @@ story:
     - id: 102201
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-50
     nameRight: Hikaru
-    textRight: My grudge, Sakuya's grief,
+    textRight: My grudge, Sakuya's grief...
   - chara:
     - id: 102201
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-51
     nameRight: Hikaru
-    textRight: everyone's sadness, and Yuna's anger,
+    textRight: Everyone's sorrow, and Yuna's rage...
   - chara:
     - id: 102201
       motion: 400
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-52
     nameRight: Hikaru
-    textRight: none of these can be contained by mere words,@and our distrust won't
-      just vanish.
+    textRight: None of these can be quelled by mere words,@nor will our distrust go
+      away.
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp3.json
@@ -493,7 +494,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-53
     nameRight: Hikaru
-    textRight: Yuna is especially kind, so much so that@she's become like an oni...
+    textRight: Yuna especially was so kind that@it turned her into a demon...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -502,7 +503,8 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-54
     nameLeft: Yachiyo
-    textLeft: This is a negotiation after all,@so we need to offer something.
+    textLeft: So ultimately, we'll need to offer something of@substance if we want
+      to continue the negotiations.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -517,13 +519,13 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-56
     nameRight: Sakuya
-    textRight: How does the Union plan to stop the fighting@when you're only trying
-      to stop us?
+    textRight: If the Union really wants this war to end,
   - chara:
     - id: 302101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-57
     nameRight: Sakuya
-    textRight: We need something more to heal@than to just be told to endure this.
+    textRight: we need something more than being told to@just keep enduring for us
+      to be satisfied.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -555,7 +557,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-9-58_nemu
     nameCenter: Touka & Nemu
-    textCenter: …………
+    textCenter: '...'
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

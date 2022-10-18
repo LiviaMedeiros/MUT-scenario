@@ -48,7 +48,7 @@ story:
       motion: 0
       pos: 2
     nameCenter: Karin
-    textCenter: We were found...
+    textCenter: They found us...
   - bgm: bgm22_battle09
     chara:
     - cheek: 0
@@ -75,7 +75,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-11-4
     nameLeft: Ao
-    textLeft: Huh～?@Aren't we missing one more?
+    textLeft: Huh~?@Aren't we missing one more?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -122,7 +122,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-11-9
     nameLeft: Ao
-    textLeft: Can you be so sure about that～?
+    textLeft: Can you be so sure about that~?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -166,13 +166,13 @@ story:
     - id: 100800
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-11-13
     nameLeft: Alina
-    textLeft: Alina just wants to get her memory back though...
+    textLeft: I just want to get my memory back, though...
   - chara:
     - id: 101200
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-11-14
     nameRight: Karin
-    textRight: You can't just say that and expect them to@let us pass...
+    textRight: You can't just say that and@expect them to let us pass...
   - chara:
     - id: 101200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-11-15
@@ -221,14 +221,14 @@ story:
   - chara:
     - id: 304600
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-11-19
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: This is troubling...@I'm completely lost...
     turnChangeOut: fadeOut
   - chara:
     - id: 304600
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-11-20
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: I said I've been past the entrance before,@but I may have underestimated
       this...
   - autoTurnLast: 2

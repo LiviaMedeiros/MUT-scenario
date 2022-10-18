@@ -37,7 +37,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-5-3
     nameLeft: Sana
-    textLeft: I thought that if the Uwasa in the [textYellow:Kimochi]'s@labyrinth
+    textLeft: I thought that if the Uwasa in the [textYellow:Kimochi]'s@Labyrinth
       reflects the past,
   - chara:
     - id: 100400
@@ -49,12 +49,12 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-5-5
     nameLeft: Sana
-    textLeft: If that's true, then I'm sure the goal is to open@the Uwasa's heart,
+    textLeft: If that's true, then I'm sure the goal@is to open the Uwasa's heart,
   - chara:
     - id: 100400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-5-6
     nameLeft: Sana
-    textLeft: and I think the answer to that is to have fun@with all of us...
+    textLeft: and I think the answer to that is for@her to have fun with all of us...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -63,7 +63,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-5-7
     nameRight: Felicia
-    textRight: Ugh...@That sounds like a pain, and a hard one at that.
+    textRight: Ugh... That sounds like a pain, and a bunch of work.
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

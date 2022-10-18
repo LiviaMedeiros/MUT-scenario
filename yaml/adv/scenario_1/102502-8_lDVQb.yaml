@@ -17,7 +17,7 @@ story:
     - id: 820100
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-1
-    nameLeft: Nameless A.I.
+    nameLeft: Anonymous AI
     textLeft: '>Thank you everyone.'
     turnChangeOut: fadeOut
   - chara:
@@ -33,7 +33,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-3
     nameRight: Sana
-    textRight: We...have to defeat you...?
+    textRight: Do we...have to defeat you...?
   - chara:
     - id: 820100
       motion: 300
@@ -96,7 +96,7 @@ story:
   - chara:
     - id: 100400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-13
-    textRight: In the past, I couldn't even begin to think about@my future,
+    textRight: In the past, I couldn't even begin@to think about my future,
   - chara:
     - cheek: 1
       face: mtn_ex_011.exp3.json
@@ -129,7 +129,7 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - nameNarration: Sana
-    narration: ーSanaー@Thank you, Ai.
+    narration: ―Sana―@Thank you, Ai.
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -138,11 +138,11 @@ story:
     narrationLineSpace: 20
     turnChangeOut: fadeOut
     voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-18
-  - nameNarration: Nameless A.I.
-    narration: ーNameless A.I.ー@>Ai?
+  - nameNarration: Anonymous AI
+    narration: ―Anonymous AI―@>Ai?
     voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-19
   - nameNarration: Sana
-    narration: ーSanaー@That is what you are called...
+    narration: ―Sana―@That is what you are called...
     voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-20
   - autoTurnLast: 2
     narrationEffect: out
@@ -175,7 +175,7 @@ story:
     - id: 102100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-21
     nameRight: Yuna
-    textRight: Second sister,@I'm taking the other members with me,
+    textRight: Second Sister, I'm taking@the other members with me,
     turnChangeOut: rollOutLogo_PB
   - chara:
     - id: 102100
@@ -199,7 +199,7 @@ story:
     - id: 102100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-25
     nameRight: Yuna
-    textRight: but if you feel like it becomes impossible,@come with us...
+    textRight: but if you feel like winning is impossible,@you can come join us...
   - chara:
     - id: 102100
       motion: 400
@@ -254,12 +254,12 @@ story:
       motion: 0
       pos: 0
     nameRight: Ranka
-    textRight: The eldest sister had her say,@but what about the second sister?
+    textRight: Eldest Sister had her say,@but what about you, Second Sister?
   - chara:
     - id: 304400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-29
     nameRight: Ranka
-    textRight: I think we'd be better off following after the eldest sister.
+    textRight: I think we'd be better off@following after Eldest Sister.
   - chara:
     - id: 102400
       motion: 200
@@ -326,14 +326,14 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-36
     nameLeft: Shizuka
-    textLeft: However, Sana did take care of the Uwasa.
+    textLeft: Whatever the case, Sana was the one@to take care of the Uwasa.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 102500
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-37
     nameLeft: Shizuka
-    textLeft: Thank you, it was impossible for us.
+    textLeft: Thank you. It was impossible for us.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -347,7 +347,7 @@ story:
     - id: 100400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-39
     nameRight: Sana
-    textRight: was the condition required to see the [textYellow:Kimochi]...
+    textRight: That was the condition required@to see the [textYellow:Kimochi]...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -371,7 +371,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-42
     nameLeft: Juri
-    textLeft: Well,@Juri the Great doesn't get what that means,
+    textLeft: Well, Juri the Great doesn't@get what that means,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -412,7 +412,7 @@ story:
       pos: 1
     nameCenter: ""
     textBg: shout
-    textCenter: ∵Hee＿eeEEE!!
+    textCenter: ∵Hee＿―eeEEE!!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -539,7 +539,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-52
     nameCenter: Sana
-    textCenter: I can't lose now...@There's no time left to be missing her...
+    textCenter: I can't lose now...@This is no time to be missing her...
   - chara:
     - eyeClose: 0
       id: 100400
@@ -552,7 +552,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-54
     nameCenter: Sana
-    textCenter: I have to fight on so everyone from Tokime can@get this stone...
+    textCenter: I have to fight on so everyone from@the Tokime can get this stone...
   - autoTurnLast: 1
     bg: bg_adv_18091.jpg
     chara:
@@ -588,8 +588,7 @@ story:
       id: 102900
       voiceFull: fullvoice/section_102502/vo_full_102502-8-57
     nameLeft: Shigure
-    textLeft: '*Exhale*...[chara:102900:lipSynch_0][wait:1.0][chara:102900:cheek_0][chara:102900:face_mtn_ex_030.exp.json:eyeClose_0][chara:102900:lipSynch_1]@C-can
-      I hold your hand...?'
+    textLeft: '*Exhale*...@C-can I hold your hand...?'
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -604,7 +603,7 @@ story:
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-8-58
       voiceFullStop: fullvoice/section_102502/vo_full_102502-8-57
     nameRight: Hagumu
-    textRight: It's fine, I'm pretty nervous about going@to where Juri is too.
+    textRight: It's fine, I'm pretty nervous about@going to where Juri is too.
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

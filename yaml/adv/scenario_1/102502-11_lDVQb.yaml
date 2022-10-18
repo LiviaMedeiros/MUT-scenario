@@ -18,14 +18,14 @@ story:
     - id: 6017
       name: sprite_0
     nameLeft: ""
-    textLeft: ∵…………!?
+    textLeft: ∵.....?!
     turnChangeOut: fadeOut
   - chara:
     - id: 100400
       motion: 400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-2
     nameRight: Sana
-    textRight: I have it bound with my chain...!@What about you, Ui...!?
+    textRight: I have it bound with my chain...!@What about you, Ui...?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -75,7 +75,7 @@ story:
     - id: 100500
     nameLeft: ""
     textBg: shout
-    textLeft: '[flashEffect:flashRed2][surround:1005A02][bgEffect:shakeLarge][name:sprite_0:effect_shake]∵KEEeeeee＿AaaAAAA―￣!?'
+    textLeft: '[flashEffect:flashRed2][surround:1005A02][bgEffect:shakeLarge][name:sprite_0:effect_shake]∵KEEeeeee＿AaaAAAA―￣?!'
   - autoTurnLast: 0.1
     textClear: 1
   - autoTurnLast: 1
@@ -99,7 +99,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-7
     nameRight: Felicia
-    textRight: My time's over,@it's the Tokime clan's turn at you!
+    textRight: That's it for me,@now it's the Tokime Clan's turn at you!
     turnChangeOut: whiteOut
     turnChangeOutTime: 1
   - autoTurnLast: 0.2
@@ -150,7 +150,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-10
     nameRight: Chiharu
-    textRight: Let's go, Shizuka!@Koiichi Todoroki is telling me too!
+    textRight: Let's go, Shizuka!@Kouichi Todoroki would say it too!
     turnChangeOut: fadeOut
   - chara:
     - id: 102600
@@ -163,7 +163,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-12
     nameLeft: Shizuka
-    textLeft: Yes, the Union and Tokime clan...@our two groups together as one,
+    textLeft: Yes, the Union and Tokime Clan...@our two groups together as one,
   - chara:
     - eyeClose: 0
       id: 102500
@@ -202,12 +202,12 @@ story:
     bg: black
     turnChangeIn: rollInFast
   - nameNarration: Shizuka
-    narration: '"Flowing Heart:@Kama-itachi Whirlwind@(Endless Cutting Winds)!!"'
+    narration: '"Tokime Unified Style:@Whirlwind Slicer!!"'
     narrationEffect: in
     turnChangeOut: rollOutFast
     voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-16
   - nameNarration: Chiharu
-    narration: '[flashEffect:flashWhite2]"Chiharu Detective Story: God Speed Chapter!!"'
+    narration: '[flashEffect:flashWhite2]"Chiharu Detective Story:@God Speed Chapter!!"'
     voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-17
   - autoTurnLast: 2
     bg: bg_adv_18094.jpg
@@ -235,7 +235,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-18_chiharu
     nameCenter: Shizuka & Chiharu
-    textCenter: '[surround:1025A06][surround:1026A04][bgEffect:shakeLarge]…………'
+    textCenter: '[surround:1025A06][surround:1026A04][bgEffect:shakeLarge]...'
     turnChangeOut: whiteOut
     turnChangeOutTime: 0.8
   - autoTurnLast: 0.2
@@ -253,7 +253,7 @@ story:
       name: sprite_0
       pos: 1
     nameCenter: ""
-    textCenter: …………
+    textCenter: '...'
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -332,13 +332,13 @@ story:
     - id: 102600
       motion: 0
     nameLeft: Shizuka
-    textLeft: '[flashEffect:explosion]Ah!?'
+    textLeft: '[flashEffect:explosion]Ah?!'
   - chara:
     - id: 102500
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-25
     nameLeft: Shizuka
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -346,8 +346,8 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-26
     nameCenter: Chiharu
-    textCenter: '[chara:102600:effect_emotion_surprise_0][se:7226_shock]Wha-WHAT!?
-      I did!?'
+    textCenter: '[chara:102600:effect_emotion_surprise_0][se:7226_shock]Wha-WHAT?!@I
+      got it?!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -369,7 +369,7 @@ story:
       id: 102600
       motion: 0
     nameRight: Sunao
-    textRight: The Tokime clan got it either way,@so it makes no difference.
+    textRight: The Tokime Clan got it either way,@so it makes no difference.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -403,8 +403,7 @@ story:
       voiceFull: fullvoice/section_102502/vo_full_102502-11-31
     enableSkipAutoTurn: 1
     nameLeft: Shizuka
-    textLeft: There wasn't ever any bitterness towards you,[chara:102500:lipSynch_0][wait:0.8][chara:102500:cheek_0][chara:102500:face_mtn_ex_010.exp.json][chara:102500:lipSynch_1]@but
-      thank you.
+    textLeft: I never held any bitterness towards you,@but thank you.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -483,7 +482,7 @@ story:
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-36_hagumu
     nameCenter: Shigure & Hagumu
     surround: stop
-    textCenter: …………
+    textCenter: '...'
   - chara:
     - id: 102900
       motion: 300
@@ -494,7 +493,7 @@ story:
     - id: 102900
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-38
     nameLeft: Shigure
-    textLeft: but we have goals of our own...
+    textLeft: But we have goals of our own...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -503,7 +502,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-39
     nameLeft: Shigure
-    textLeft: At the moment, it is to fulfill everyone's wishes@in the Neo-Magius.
+    textLeft: And right now, I want to fulfill the wishes@of everyone in the Neo-Magius.
   - chara:
     - id: 103000
       motion: 300
@@ -527,14 +526,14 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-42
     nameRight: Hagumu
-    textRight: and together, we're prepared to do what it takes@to make our naïve
+    textRight: and together, we're prepared to do what it takes@to make our naive
       dreams into reality.
   - chara:
     - id: 102900
       motion: 400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-43
     nameLeft: Shigure
-    textLeft: So we're done standing on the sidelines,@we're done relying on others.
+    textLeft: So we're done standing on the sidelines,@and we're done relying on others.
   - chara:
     - id: 102900
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-44
@@ -548,7 +547,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-45
     nameRight: Hagumu
-    textRight: Yeah. Us, and our new comrades...
+    textRight: Yeah. Us, alongside our new comrades...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -574,7 +573,7 @@ story:
     - id: 102400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-47
     nameLeft: Juri
-    textLeft: For real, the only thing that matters@is the fact that you've just decided
+    textLeft: For real, the only thing that matters is the@fact that you've just decided
       to be cut off.
   - chara:
     - cheek: 0
@@ -584,7 +583,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-48
     nameLeft: Juri
-    textLeft: Now, time to choose which one of ya is gonna be@served well-done first.
+    textLeft: Now, time to choose which one of ya is@gonna be served well-done first.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp3.json
@@ -593,7 +592,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-49
     nameRight: Shigure
-    textRight: '[chara:102900:effect_emotion_surprise_0][se:7226_shock]!?'
+    textRight: '[chara:102900:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -607,7 +606,7 @@ story:
     - id: 101500
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-51
     nameRight: Ui
-    textRight: Aren't you the one that's been bullying them@from the start...?
+    textRight: Aren't you the one that's been bullying@them from the start...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -632,7 +631,7 @@ story:
     - id: 102400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-54
     nameLeft: Juri
-    textLeft: These guys are the ones that betrayed our@cooperative relationship.
+    textLeft: These guys are the ones that@betrayed our partnership.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -671,7 +670,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-59
     nameLeft: Juri
-    textLeft: Yeah, next one's the real deal.@I'm seriously gonna kill you...!
+    textLeft: Yeah, next time's the real deal.@I'm seriously gonna kill you...!
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -722,7 +721,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-63
     nameLeft: Shigure
-    textLeft: What is happening at Kamihama Prison...?
+    textLeft: What's happening at Kamihama Prison...?
   - chara:
     - id: 103000
       motion: 1
@@ -752,7 +751,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-67
     nameRight: Sana
-    textRight: '[chara:100400:effect_emotion_surprise_0][se:7226_shock]!?'
+    textRight: '[chara:100400:effect_emotion_surprise_0][se:7226_shock]*Gasp*'
   - bgm: bgm24_story05
     chara:
     - cheek: 0
@@ -776,7 +775,7 @@ story:
     - id: 100500
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-70
     nameLeft: Felicia
-    textLeft: We got the stone though, isn't that enough?
+    textLeft: We got the Stone though, isn't that enough?
   - chara:
     - id: 100400
       motion: 1
@@ -787,7 +786,7 @@ story:
     - id: 100400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-72
     nameRight: Sana
-    textRight: Iroha sent me a message saying@"negotiations broke down...!"
+    textRight: Iroha sent me a message saying@ that negotiations broke down...!
   - chara:
     - id: 100500
       motion: 400
@@ -799,7 +798,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-74
     nameRight: Sana
-    textRight: There's more, Hinano's group@and everyone in the south are being targeted,
+    textRight: There's more, Hinano's group and@everyone in the South are being targeted,
   - chara:
     - id: 100400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-75
@@ -813,7 +812,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-76
     nameLeft: Ui
-    textLeft: Now that you mention it, Yuna...seemed to@have disappeared halfway through...
+    textLeft: Now that you mention it... Yuna seemed to@have disappeared halfway through...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -821,7 +820,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-77
     nameRight: Sana
-    textRight: It must have been...right after negotiations broke down...
+    textRight: It must have been...right after@negotiations broke down...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -830,7 +829,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-78
     nameLeft: Felicia
-    textLeft: If that's where that fire lady's going,@isn't that real bad...!?
+    textLeft: If that's where that fire lady's going,@isn't that real bad...?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -865,8 +864,7 @@ story:
       pos: 0
       voiceFull: fullvoice/section_102502/vo_full_102502-11-81
     nameLeft: Shizuka
-    textLeft: Wha, wait a minute![chara:102500:lipSynch_0][wait:0.8][chara:102500:cheek_0][chara:102500:face_mtn_ex_020.exp.json:motion_100][chara:102500:lipSynch_1]
-      If that's what's happening,@we're going with you!
+    textLeft: Wha, wait a minute! If that's what's happening,@we're going with you!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -888,7 +886,7 @@ story:
       id: 102500
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-83
     nameLeft: Shizuka
-    textLeft: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]!?'
+    textLeft: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -897,7 +895,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-84
     nameRight: Shigure
-    textRight: The princess said she has business with@the Tokime clan.
+    textRight: Princess said that she has business@with the Tokime Clan.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -950,7 +948,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-89
     nameRight: Sudachi
-    textRight: fumu...!
+    textRight: Fumu...!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -959,7 +957,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-90
     nameRight: Yozuru
-    textRight: You called for me?
+    textRight: You called?
   - chara:
     - id: 104100
       motion: 200
@@ -975,7 +973,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-92
     nameRight: Sudachi
-    textRight: fumu muu!
+    textRight: Fumumuu!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -1019,15 +1017,14 @@ story:
     - id: 103300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-98
     nameRight: Rabi
-    textRight: both the Tokime clan and the Neo-Magius@do not want things to move
-      in...
+    textRight: neither the Tokime Clan nor@the Neo-Magius desire...
   - chara:
     - id: 104100
       lipSynch: 0
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-99
     nameLeft: Livia
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - id: 104100
       lipSynch: 1
@@ -1039,13 +1036,13 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-101
     nameLeft: Livia
-    textLeft: We need ta use whatever we can@ta make beds...!
+    textLeft: We need ta use whatever we@can ta make beds...!
   - chara:
     - id: 103300
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-102
     nameRight: Rabi
-    textRight: Also, there's one more minor thing@I must ask of you...
+    textRight: Also, there's one more minor@thing I must ask of you...
   - autoTurnLast: 0.2
     bgm: stop
     textClear: 1
@@ -1059,7 +1056,7 @@ story:
     bg: white
     turnChangeIn: whiteIn
   - nameNarration: ""
-    narration: '[textBlack:ーInterview Recordingー@Kaede Akino]'
+    narration: '[textBlack:―Interview Record―@Kaede Akino]'
     narrationCoverOpacity: 0
     narrationEffect: in
     turnChangeOut: whiteOut
@@ -1093,8 +1090,8 @@ story:
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 80
-    progressNarration: '[textBlack:"Whaaat? Being asked@that suddenly is embarrassiiing.@In
-      the future...in the future...@Hmm, what do I desire..."]'
+    progressNarration: '[textBlack:  "Whaaat? Being asked@  that suddenly is embarrassiiing.@  In
+      the future...in the future...@  Hmm, what do I desire...?"]'
     turnChangeOut: whiteOut
   - chara:
     - cheek: 0
@@ -1106,21 +1103,21 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-105
       voiceFullStop: fullvoice/section_102502/vo_full_102502-11-104
-    progressNarration: '[textBlack:"Recently, I''m not sure what@I want to become..."]'
+    progressNarration: '[textBlack:  "Lately, I''m not sure what@  I want to become..."]'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101101
       motion: 1
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-106
-    progressNarration: '[textBlack:"Before, I used to want to@grow and sell vegetables
-      and flowers@while being surrounded by animals."]'
+    progressNarration: '[textBlack:  "Before, I used to want to@  grow and sell vegetables@  and
+      flowers while being@  surrounded by animals."]'
   - chara:
     - id: 101101
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-107
-    progressNarration: '[textBlack:"But now, veterinarian work@sounds good too, so
-      I''m thinking@it might be waaay nicer@to work alongside other people."]'
+    progressNarration: '[textBlack:  "But now, veterinarian work@  sounds good too,
+      so I''m thinking@  it might be waaay nicer@  to work alongside other people."]'
   - autoTurnLast: 5
     chara:
     - cheek: 1
@@ -1128,9 +1125,9 @@ story:
       id: 101101
       motion: 300
       voiceFull: fullvoice/section_102502/vo_full_102502-11-108
-    progressNarration: '[textBlack:"I-it''s a little embarrassing@talking about myself...@But,
-      it may be thanks to@Momoko and Rena that I can even@respond in an interview,@and
-      that my dreams@have changed a little..."]'
+    progressNarration: '[textBlack:  "I-it''s a little embarrassing@  talking about
+      myself...@  But, it may be thanks to@  Momoko and Rena that I can even@  respond
+      in an interview,@  and that my dreams@  have changed a little..."]'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -1140,8 +1137,8 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-109
       voiceFullStop: fullvoice/section_102502/vo_full_102502-11-108
-    progressNarration: '[textBlack:"Momoko has always@supported me and cheered me
-      on@through my nervousness, even when@I''ve been clumsy and useless."]'
+    progressNarration: '[textBlack:  "Momoko has always@  supported me and cheered
+      me@  on through my nervousness,@  even when I''ve been@  clumsy and useless."]'
   - autoTurnLast: 4.1
     chara:
     - cheek: 0
@@ -1149,8 +1146,8 @@ story:
       id: 101101
       motion: 100
       voiceFull: fullvoice/section_102502/vo_full_102502-11-110
-    progressNarration: '[textBlack:"Rena has always@pushed me around though,@but,
-      I feel like she''s always@meant well in how she@disciplines me."]'
+    progressNarration: '[textBlack:  "Rena has always@  pushed me around, but,@  I
+      feel like she''s always@  meant well in how she@  disciplines me."]'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -1160,25 +1157,25 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-111
       voiceFullStop: fullvoice/section_102502/vo_full_102502-11-110
-    progressNarration: '[textBlack:"Nowadays, I feel grateful@for Momoko instead of@always
-      feeling incredibly guilty."]'
+    progressNarration: '[textBlack:  "Nowadays, I feel grateful@  for Momoko instead
+      of@ always feeling super guilty."]'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101101
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-112
-    progressNarration: '[textBlack:"And instead of always being scared@of Rena, now
-      I just think she''s cute@and fight with her all the time."]'
+    progressNarration: '[textBlack:  "And instead of always being@  scared of Rena,
+      now I just@  think she''s cute and fight@  with her all the time."]'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101101
       motion: 400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-11-113
-    progressNarration: '[textBlack:"Oh, I know how to thank those two,@and it''s something
-      that everyone at@Mikazuki Villa can enjoy too.@I wonder if I could start a@hands-on
-      style farm!"]'
+    progressNarration: '[textBlack:  "Oh, I know how to thank those two,@  and it''s
+      something that everyone at@  Mikazuki Villa can enjoy too.@  I wonder if I could
+      start a@  hands-on style farm!"]'
   - autoTurnLast: 2
     bgm: stop
     narrationEffect: out

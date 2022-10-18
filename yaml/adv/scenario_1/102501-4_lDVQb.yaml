@@ -29,7 +29,8 @@ story:
       id: 101000
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-4-2
     nameLeft: Momoko
-    textLeft: A message from Tsuruno just came sayin'@they're one step closer to negotiations.
+    textLeft: A message from Tsuruno just came in sayin'@they're one step closer to
+      negotiations.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -38,7 +39,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-4-3
     nameRight: Rena
-    textRight: Rena just got a message from Iroha too.
+    textRight: I just got a message from Iroha, too.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -47,7 +48,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-4-4
     nameLeft: Kaede
-    textLeft: It's going little by little,@but I'm glad the talks are still continuing.
+    textLeft: It's inching forward bit by bit,@but I'm glad the talks are still continuing.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -70,7 +71,7 @@ story:
     - id: 100900
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-4-7
     nameRight: Rena
-    textRight: There's no need for Promised Blood and the Tokime@to clash...
+    textRight: There's no need for Promised Blood@and the Tokime to clash...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -102,13 +103,13 @@ story:
       motion: 0
       pos: 2
     nameLeft: Shizuka
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - id: 102400
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-4-10
     nameRight: Juri
-    textRight: …………
+    textRight: '...'
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

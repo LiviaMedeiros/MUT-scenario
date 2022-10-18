@@ -16,22 +16,23 @@ story:
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 150
-    progressNarration: '[textBlack:While I was waiting for Ryou with Sakurako,@Iroha
-      and her friends negotiated with@Hikaru and Sakuya about joining hands.]'
+    progressNarration: '[textBlack:While I was waiting for Ryo@with the Uwasa of the
+      Eternal Sakura,@Iroha and her friends negotiated with@Miss Kirari and Miss Suzuka@about
+      joining forces.]'
     turnChangeOut: fadeOut
     voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-1
-  - progressNarration: '[textBlack:I was with Touka and Nemu when@they returned, but
-      I didn''t know what@their offer for negotiations was@until I heard the outcome.]'
+  - progressNarration: '[textBlack:I spoke with Touka and Nemu when@they returned,
+      but I didn''t know what@their offer for negotiations was@until I heard the outcome.]'
     voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-2
   - progressNarration: '[textBlack:Now that I''ve learned the truth,@I feel terrified
       for these two@who are even younger than me,@but I think this is their way of
-      dealing with@the situation at hand.]'
+      dealing@with the situation at hand.]'
     voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-3
   - progressNarration: '[textBlack:While these negotiations were taking place,@the
       battle for the ][textYellow:Kimochi][textBlack: continued on@at the cargo port.]'
     voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-4
   - progressNarration: '[textBlack:What they were after@was another ][textYellow:Kimochi][textBlack:
-      stone like usual.@However, the last thing I heard was@the sound of something
+      Stone like usual.@However, the last thing I heard was@the sound of something
       piled up collapsing.]'
     voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-5
   - autoTurnLast: 0.01
@@ -67,7 +68,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-6
     nameLeft: Juri
-    textLeft: Yo, looks like you came as was promised yesterday.
+    textLeft: Yo, looks like you showed,@just as promised yesterday.
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -94,7 +95,7 @@ story:
       motion: 0
       pos: 2
     nameCenter: Ui
-    textCenter: Um, I'm supposed to find the labyrinth@and join in the fight,
+    textCenter: Um, I'm supposed to find the Labyrinth@and join in the fight,
   - chara:
     - id: 101500
       motion: 100
@@ -135,26 +136,26 @@ story:
     - id: 100500
       motion: 0
     nameLeft: Yuna
-    textLeft: As long as you fulfill your promise,@we won't do anything crazy either.
+    textLeft: As long as you fulfill your end of the deal,@we won't do anything crazy
+      either.
   - chara:
     - id: 102100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-13
     nameLeft: Yuna
-    textLeft: Do this properly, since I've sent Sakuya and Hikaru@to the negotiation
-      place.
+    textLeft: Do this properly, since I've sent Sakuya@and Hikaru to the negotiations.
   - chara:
     - id: 102100
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-14
     nameLeft: Yuna
-    textLeft: When the labyrinth is found,@the Union can feel free to join the battle.
+    textLeft: When the Labyrinth is found,@the Union can feel free to join the battle.
   - chara:
     - cheek: 1
       id: 100500
       motion: 400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-15
     nameRight: Felicia
-    textRight: Woah, did'ya really just say that!?@You're not gonna regret it, right!?
+    textRight: Woah, didja really just say that?!@You're not gonna regret it, right?!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -163,7 +164,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-16
     nameLeft: Yuna
-    textLeft: '...I wonder if the second sister was like this@when she was young.'
+    textLeft: '...I wonder if our Second Sister was@like this when she was young.'
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp3.json
@@ -207,13 +208,13 @@ story:
       motion: 0
       pos: 2
     nameLeft: Shizuka
-    textLeft: I'm sorry you three,@I didn't want to get you involved in this...
+    textLeft: I'm sorry you three, I didn't@want to get you involved in this...
   - chara:
     - id: 102600
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-20
     nameCenter: Chiharu
-    textCenter: Yeah, we tried really hard to not ask for help, but...
+    textCenter: Yeah, we tried really hard not to ask for help, but...
   - chara:
     - id: 102700
       motion: 100
@@ -270,7 +271,7 @@ story:
       id: 101500
       motion: 0
     nameLeft: Juri
-    textLeft: Now then, you mind hurryin' up@and bringin' the labyrinth out?
+    textLeft: Now then, you mind hurryin' up@and bringin' out the Labyrinth?
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp3.json
@@ -284,7 +285,7 @@ story:
     - id: 101500
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-27
     nameRight: Ui
-    textRight: '...Yeah.'
+    textRight: '...Yeah!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -304,7 +305,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-29
     nameCenter: Ui
-    textCenter: '[se:7211_souljem_02][flashEffect:flashWhiteSlow2]…………'
+    textCenter: '[se:7211_souljem_02][flashEffect:flashWhiteSlow2]...'
   - autoTurnLast: 2
     chara:
     - cheek: 0
@@ -324,8 +325,7 @@ story:
     - id: 101500
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-30
     nameCenter: Ui
-    textCenter: '[se:7201_detect_magic][chara:101500:effect_ef_adv_01]Found it…@The
-      [textYellow:Kimochi] is here...!'
+    textCenter: Found it...@The [textYellow:Kimochi] is here...!
   - autoTurnLast: 0.8
     chara:
     - eyeClose: 0
@@ -352,7 +352,7 @@ story:
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-32
     nameCenter: Yuna
     surround: 7202_telepathy
-    textCenter: We'll be going in first, but keep an eye on@the Union's movements.
+    textCenter: We'll be going in first, but keep an eye@on the Union's movements.
     turnEffect: ef_adv_02
   - chara:
     - id: 102100
@@ -421,7 +421,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: ""
-    textLeft: Everyone, follow behind the eldest sister and@second sister!
+    textLeft: Everyone, follow behind Eldest@Sister and Second Sister!
   - autoTurnLast: 1.2
     chara:
     - effect: fadeout
@@ -462,7 +462,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-40
     nameCenter: Chiharu
-    textCenter: Yeah! Tokime clan, forward!
+    textCenter: Yeah! Tokime Clan, forward!
   - autoTurnLast: 1.2
     chara:
     - effect: fadeout
@@ -541,7 +541,7 @@ story:
     - id: 7005
       name: sprite_0
     nameCenter: ""
-    textCenter: '| Meah akueheME～ |'
+    textCenter: '| Meah akueheME~ |'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -562,7 +562,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Felicia
-    textRight: Uwah, what's with this place...@I gotta bad feeling...
+    textRight: Woah, what's with this place...?@I gotta bad feeling...
   - chara:
     - id: 100400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-46
@@ -583,7 +583,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-48
     nameLeft: Sana
-    textLeft: This is the Uwasa labyrinth that Ai was in...
+    textLeft: This is the Uwasa Labyrinth that Ai was in...
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -591,7 +591,7 @@ story:
       id: 100400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-49
     nameLeft: Sana
-    textLeft: and also, the place where Iroha rescued me...
+    textLeft: And also, the place where Iroha rescued me...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -622,7 +622,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-53
     nameRight: Felicia
-    textRight: Mm? Where'd those guys go?@All the Tokimes are gone too.
+    textRight: Mm? Where'd those guys go?@The Tokime are all gone too.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp3.json
@@ -642,7 +642,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-56
     nameLeft: Sana
-    textLeft: so maybe this Uwasa labyrinth is a little different@from back then...
+    textLeft: so maybe this Uwasa Labyrinth is a little@different from back then...
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -653,7 +653,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-57
     nameRight: Ui
-    textRight: (Sis and everyone are trying hard to negotiate...)
+    textRight: (Sis and everyone are doing@their best to negotiate...)
     turnEffect: thinking
   - chara:
     - eyeClose: 0
@@ -662,7 +662,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-1-58
     nameRight: Ui
-    textRight: (So I have to do my best to get this [textYellow:Kimochi] stone...)
+    textRight: (So I have to do what I can to@get this [textYellow:Kimochi] Stone...)
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

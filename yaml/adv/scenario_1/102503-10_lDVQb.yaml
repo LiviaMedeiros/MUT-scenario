@@ -28,7 +28,8 @@ story:
       motion: 301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-2
     nameLeft: Yachiyo
-    textLeft: Yes...they broke down spectacularly...@and I don't know the reason why...
+    textLeft: Yes...they broke down spectacularly...@and we don't know the reason
+      why...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -58,18 +59,18 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-6
     nameLeft: Yachiyo
-    textLeft: Ryou took a picture of Juri Ooba over there,@right?
+    textLeft: Ryo took a picture of Juri Oba over there,@right?
   - chara:
     - id: 100201
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-7
     nameLeft: Yachiyo
-    textLeft: Using that,@I would like to find Promised Blood's shortcut...
+    textLeft: Using that, I would like to find@Promised Blood's shortcut...
   - chara:
     - id: 100201
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-8
     nameLeft: Yachiyo
-    textLeft: and strike at their weakpoint before this conflict worsens.
+    textLeft: and strike at their weak point@before this conflict worsens.
   - chara:
     - id: 300301
       motion: 400
@@ -90,7 +91,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-11
     nameRight: Hinano
-    textRight: That Ryou, I was trying to tell her to stop,@but she went on ahead...
+    textRight: That Ryo, I was trying to tell her to stop,@but she went on ahead...
   - chara:
     - id: 300301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-12
@@ -115,7 +116,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-14
     nameLeft: Yachiyo
-    textLeft: …………
+    textLeft: '...'
   - bgm: bgm24_story05
     chara:
     - id: 100201
@@ -123,7 +124,7 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-15
     nameLeft: Yachiyo
-    textLeft: Wait, you mean she was moving on her own@until now...?
+    textLeft: Wait, you mean she was moving@on her own until now...?
   - chara:
     - id: 300301
       motion: 300
@@ -138,7 +139,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-17
     nameLeft: Yachiyo
-    textLeft: Were there any Promised Blood magical@signatures nearby...?
+    textLeft: Were there any Promised Blood@magical signatures nearby...?
   - chara:
     - id: 300301
       motion: 0
@@ -253,7 +254,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-31
     nameLeft: Yachiyo
-    textLeft: The south was looking for Promised Blood's@shortcut.
+    textLeft: The South was looking for@Promised Blood's shortcut.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -262,7 +263,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-32
     nameLeft: Iroha
-    textLeft: Um, then are Hinano and her friends@in danger...!?
+    textLeft: Um, then are Hinano and@her friends in danger...?!
   - chara:
     - id: 100101
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-33
@@ -368,7 +369,7 @@ story:
     - id: 100770
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-40
     nameLeft: Touka
-    textLeft: It sounds exactly like what Big Sister was saying.
+    textLeft: It sounds exactly like what Big Sis was saying.
   - autoTurnLast: 1.3
     chara:
     - cheek: 0
@@ -379,7 +380,7 @@ story:
       voiceFull: fullvoice/section_102503/vo_full_102503-10-41
     enableSkipAutoTurn: 1
     nameLeft: Touka
-    textLeft: It's interesting that Alina is also there.[chara:100701:lipSynch_0][wait:0.8][chara:100701:cheek_0][chara:100701:face_mtn_ex_011.exp.json][chara:100701:lipSynch_1]@*Giggle*
+    textLeft: It's interesting that Alina is also there.@*Giggle*
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -397,12 +398,12 @@ story:
       voiceFullStop: fullvoice/section_102503/vo_full_102503-10-41
     enableSkipAutoTurn: 0
     nameRight: Nemu
-    textRight: Our resolution and Big Sis's hope have both@been wasted.
+    textRight: Our resolution and Big Sis's hope@have both been wasted.
   - chara:
     - id: 101471
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-43
     nameRight: Nemu
-    textRight: And since we're the cause of all of this,@I have no optimism.
+    textRight: And since we're the cause of all of this,@I can't be optimistic.
   - autoTurnLast: 0.2
     chara:
     - id: 101471
@@ -416,13 +417,13 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-44
     nameRight: Eternal Sakura
-    textRight: ｜ Is Ryou okay...? ｜
+    textRight: '| Is Ryo okay...? |'
   - chara:
     - id: 101471
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-45
     nameLeft: Nemu
-    textLeft: There's no doubt that she's Promised Blood's target.
+    textLeft: There's no doubt that she's@Promised Blood's target.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -450,7 +451,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-48
     nameRight: Eternal Sakura
-    textRight: ｜…………｜
+    textRight: '| ... |'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -459,12 +460,12 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-49
     nameLeft: Touka
-    textLeft: For now, all we can do is wait for Ryou to come here.
+    textLeft: For now, all we can do is wait for Ryo to come here.
   - chara:
     - id: 100770
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-10-50
     nameLeft: Touka
-    textLeft: Kagome Satori has gathered us to spread everything about Magical Girls,
+    textLeft: Kagome Satori has gathered us to spread@everything about Magical Girls,
   - chara:
     - id: 100770
       motion: 200
@@ -481,7 +482,7 @@ story:
       soulGem: 0
       voiceFull: fullvoice/section_102503/vo_full_102503-10-52
     nameRight: Kagome
-    textRight: …………[wait:0.8][chara:102001:cheek_0][chara:102001:motion_300][chara:102001:lipSynch_1]Yeah.
+    textRight: '...Yeah.'
   - chara:
     - id: 102001
       motion: 300

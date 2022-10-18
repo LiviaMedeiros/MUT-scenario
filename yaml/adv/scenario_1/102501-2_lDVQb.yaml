@@ -14,7 +14,7 @@ story:
     - id: 304601
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-1
-    nameCenter: Ryou
+    nameCenter: Ryo
     surround: 7003_wind
     textCenter: (I wasn't going to make a move today,@but this is bad, Hinano...)
     turnChangeOut: fadeOut
@@ -23,7 +23,7 @@ story:
       id: 304601
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-2
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (I'm well aware of the policy the Union decided on.)
   - autoTurnLast: 0.5
     bg: bg_adv_12101.jpg
@@ -52,22 +52,23 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-3
     nameLeft: Hinano
-    textLeft: What, after all this time,@you still intend to join hands with Promised
-      Blood?
+    textLeft: What, after everything that happened,@you still want to join hands with
+      Promised Blood?
     turnChangeOut: fadeOut
   - chara:
     - id: 304601
       motion: 400
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-4
-    nameCenter: Ryou
-    textCenter: Didn't they kidnap Ui and try to kill Iroha!?
+    nameCenter: Ryo
+    textCenter: Didn't they kidnap Ui and try to kill you?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 305301
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-5
     nameRight: Ikumi
-    textRight: I don't want to fight,@but there doesn't seem to be a bright future...
+    textRight: I don't want to fight either, but there doesn't@seem to be a bright
+      future on that path...
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -96,23 +97,23 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-7
     nameRight: Kanagi
-    textRight: What Iroha is saying doesn't make any sense.
+    textRight: What you're saying doesn't make any sense.
   - chara:
     - id: 101601
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-8
     nameRight: Kanagi
-    textRight: Until now, we've had to deal with this ourselves@to avoid losses,
+    textRight: Up until now we've been handling@this ourselves to avoid losses,
   - chara:
     - id: 101601
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-9
     nameRight: Kanagi
-    textRight: but now we should be striking Promised Blood@with everything we have.
+    textRight: but now we should be striking Promised@Blood with everything we have.
   - chara:
     - id: 101601
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-10
     nameRight: Kanagi
-    textRight: That is the only method@to minimize the damage done to us.
+    textRight: That is the only way to minimize@the damage done to us.
   - chara:
     - id: 100101
       motion: 301
@@ -143,7 +144,7 @@ story:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-15
     nameLeft: Iroha
-    textLeft: That, I know, is the opposite of kindness...
+    textLeft: I'm sure that that's the opposite of kindness...
   - chara:
     - eyeClose: 1
       id: 100101
@@ -156,26 +157,26 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-17
     nameRight: Kanagi
-    textRight: Then you mean to join hands with our opponents@after considering their
-      feelings...?
+    textRight: Then you mean to join hands with our enemies@out of consideration for
+      their feelings...?
   - chara:
     - eyeClose: 0
       id: 100101
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-18
     nameLeft: Iroha
-    textLeft: This is purely to end the suffering of Magical Girls.
+    textLeft: This is all to end the suffering of Magical Girls.
   - chara:
     - id: 100101
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-19
     nameLeft: Iroha
-    textLeft: Discussing a solution with them is a gamble though,
+    textLeft: Discussing a solution with them@is a gamble, I admit,
   - chara:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-20
     nameLeft: Iroha
-    textLeft: so I have to rely on what kindness may remain@in Yuna...
+    textLeft: since I'll have to rely on what kindness@still remains within Yuna...
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -184,12 +185,12 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-21
     nameRight: Tsuruno
-    textRight: But if you succeed, that would be huge.
+    textRight: But if it succeeds, that would be huge.
   - chara:
     - id: 100301
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-22
     nameRight: Tsuruno
-    textRight: The Tokime clan would cooperate with the Union,@and the Neo-Magius
+    textRight: The Tokime Clan would cooperate with the Union,@and the Neo-Magius
       would be harmless.
   - chara:
     - cheek: 0
@@ -201,13 +202,13 @@ story:
     - id: 100301
       motion: 0
     nameLeft: Yachiyo
-    textLeft: Our chain of command has always stood@in the front line,
+    textLeft: Our chain of command has always@been standing on the front line,
   - chara:
     - id: 100201
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-24
     nameLeft: Yachiyo
-    textLeft: so even if we negotiate against an all-out war,@our strength will always
-      leave behind uneasiness.
+    textLeft: so if we do wage all-out war, I'm worried about@whether we've got the
+      stamina for it.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -239,8 +240,8 @@ story:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-27
     nameLeft: Iroha
-    textLeft: '...will be the shortcut to saving all Magical Girls@throughout the
-      world.'
+    textLeft: '...will be the fastest path to saving all of the@Magical Girls throughout
+      the world.'
   - chara:
     - id: 100101
       motion: 301
@@ -252,13 +253,13 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-29
     nameRight: Kanagi
-    textRight: According to Kyubey, two [textYellow:Kimochi] stones remain.
+    textRight: According to Kyubey, two [textYellow:Kimochi] Stones remain.
   - chara:
     - id: 101601
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-30
     nameRight: Kanagi
-    textRight: The severity of this situation is precisely because@of the scramble
-      for them. That's as clear as day...
+    textRight: It's plainer than daylight that trying to steal@from each other will
+      only inflame the situation.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -267,7 +268,8 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-31
     nameRight: Kanagi
-    textRight: If we miss the timing,@this will become a mud-slinging battle...
+    textRight: If we do not seize the moment, everything@will devolve into a mudslinging
+      contest.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -278,13 +280,14 @@ story:
     - id: 100101
       motion: 0
     nameRight: Hinano
-    textRight: Also, if we go through with the cooperative route,@we can't just give
-      up the remaining stones.
+    textRight: Also, if we go through with the cooperative route,@we'll have to give
+      up on the remaining stones.
   - chara:
     - id: 300301
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-33
     nameRight: Hinano
-    textRight: If we don't intend to fight,@it's meaningless if we can't show it.
+    textRight: It would all be meaningless if we don't back@up our willingness to
+      avoid fighting.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp3.json
@@ -293,7 +296,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-34
     nameLeft: Iroha
-    textLeft: So in an attempt to join together with them,
+    textLeft: So for the sake of trying to join together with them,
   - chara:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-35
@@ -303,7 +306,7 @@ story:
     - id: 100101
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-36
     nameLeft: Iroha
-    textLeft: I'd like to ask all of you to not take any action.
+    textLeft: I'd like to ask all of you not to take any action.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -311,8 +314,8 @@ story:
       motion: 200
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-37
-    nameRight: Ryou
-    textRight: So you're telling us to sit on our hands@and watch.
+    nameRight: Ryo
+    textRight: So you're telling us to sit@on our hands and watch.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -321,34 +324,35 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-38
     nameLeft: Hinano
-    textLeft: Ryou...
+    textLeft: Ryo...
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp3.json
       id: 304601
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-39
-    nameRight: Ryou
-    textRight: Sorry, that was wrong of me to say,@but I understand where you're coming
-      from.
+    nameRight: Ryo
+    textRight: Sorry, that came out wrong.@But I get where you're coming from.
   - chara:
     - eyeClose: 0
       id: 304601
       motion: 1
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-40
-    nameRight: Ryou
-    textRight: In total, we have three [textYellow:Kimochi] stones with Tokime,
+    nameRight: Ryo
+    textRight: In total, we have three [textYellow:Kimochi]@Stones together with the
+      Tokime,
   - chara:
     - id: 304601
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-41
-    nameRight: Ryou
-    textRight: and those guys also have three [textYellow:Kimochi] stones.
+    nameRight: Ryo
+    textRight: and those guys also have three@[textYellow:Kimochi] Stones of their
+      own.
   - chara:
     - id: 304601
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-42
-    nameRight: Ryou
-    textRight: Even if our opponents get a stone out of thin air,@this won't end.
+    nameRight: Ryo
+    textRight: Even if they snatch up a free stone,@it won't be the end of things.
   - autoTurnLast: 0.2
     chara:
     - id: 300301
@@ -362,24 +366,25 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-43
     nameLeft: Tsuruno
-    textLeft: Then, what's everyone's thoughts?
+    textLeft: Then, what are everyone's thoughts?
   - chara:
     - id: 100301
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-44
     nameLeft: Tsuruno
-    textLeft: This is your last chance...!
+    textLeft: This is your last chance to speak up...!
   - chara:
     - id: 300301
       motion: 300
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-45
     nameRight: Hinano
-    textRight: Well, none of us want a pointless fight.
+    textRight: Well, none of us want a pointless battle.
   - chara:
     - eyeClose: 1
       id: 300301
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-46
     nameRight: Hinano
-    textRight: When we gave up two stones,@we were competing for the finale.
+    textRight: Even if we give up on these two stones now, we'll@still end up trying
+      to steal them later anyway.
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -388,7 +393,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-47
     nameRight: Hinano
-    textRight: The south has no objections.
+    textRight: The South has no objections.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -410,7 +415,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Kanagi
-    textRight: …………
+    textRight: '...'
   - chara:
     - eyeClose: 1
       id: 101601
@@ -425,14 +430,14 @@ story:
       id: 101601
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-50
     nameRight: Kanagi
-    textRight: Thinking about that plan,@doesn't it make sense to save those girls,
-      too?
+    textRight: Thinking about about it that way,@doesn't it make sense to save those
+      girls, too?
   - chara:
     - id: 101601
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-51
     nameRight: Kanagi
-    textRight: That reckless way of thinking,@it's just one of Iroha's charms.
+    textRight: That reckless way of thinking,@it's just one of Tamaki's charms.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -447,21 +452,21 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-53
     nameRight: Kanagi
-    textRight: I think it's a bad move, but the east can try to see@a miracle one
-      more time.
+    textRight: I think it's a bad move, but the East can try@to hope for a miracle
+      one more time.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
       id: 101601
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-54
     nameRight: Kanagi
-    textRight: However, our opponents say@we are no different than Kyubey,
+    textRight: However, our opponents say that@we're no different than Kyubey,
   - chara:
     - id: 101601
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-55
     nameRight: Kanagi
-    textRight: so I think suitable compensation and agreements@are required.
+    textRight: so I think suitable compensation@and agreements will be required.
   - chara:
     - id: 100101
       motion: 0
@@ -480,7 +485,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 304601
-    nameNarration: Ryou
+    nameNarration: Ryo
     narration: Because of the risk of all-out war,@we have to inform every member@that
       has kept their distance from the fighting.
     narrationEffect: in
@@ -490,8 +495,8 @@ story:
     - eyeClose: 1
       id: 304601
       motion: 200
-    narration: Iroha succesfully negotiating for cooperation,@honestly, I think would
-      be a dream story.
+    narration: Iroha successfully negotiating for cooperation...@Honestly, I think
+      that would be a dream story.
     voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-58
   - autoTurnLast: 0.01
     bg: bg_adv_17021.jpg
@@ -512,8 +517,8 @@ story:
       lipSynch: 0
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-59
-    nameCenter: Ryou
-    textCenter: (Just in case of an emergency,@I will take the decisive strike.)
+    nameCenter: Ryo
+    textCenter: (Just in case of an emergency,@I'll ready this decisive blow.)
     turnChangeOut: fadeOut
   - nameNarration: ""
     narration: '[se:7106_telmail]*Ring♪*'
@@ -528,7 +533,7 @@ story:
       lipSynch: 1
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-61
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: Mm?
   - chara:
     - cheek: 0
@@ -536,7 +541,7 @@ story:
       id: 304601
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-62
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (Ah, Kagome, huh...)
   - chara:
     - cheek: 0
@@ -545,9 +550,9 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-63
     nameNarration: Kagome
-    narration: Tomorrow, at the radio telescope,@I will be talking with Touka and
-      Nemu,@but would Ryou like to join too?@I would like to hear various stories
-      from you,@including the story of your photos from the other day.
+    narration: Tomorrow, at the radio telescope,@I'll be speaking with Touka and Nemu.@Would
+      you like to join too?@I'd like to hear all sorts of stories from you,@including
+      the story of your photos from the other day.
     narrationBg: black
     narrationEffect: in
     narrationHAlignment: left
@@ -558,7 +563,7 @@ story:
     - id: 304601
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-64
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (Sorry, but right now there's a scoop to be had.)
   - chara:
     - cheek: 0
@@ -566,9 +571,8 @@ story:
       id: 304601
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-2-65
-    nameCenter: Ryou
-    textCenter: (Although, it's bad that Kagome's always inviting me@right when I'm
-      this close...)
+    nameCenter: Ryo
+    textCenter: (Though I feel bad for Kagome,@always turning her down like this...)
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

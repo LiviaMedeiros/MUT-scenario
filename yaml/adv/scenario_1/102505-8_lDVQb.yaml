@@ -19,8 +19,8 @@ story:
     chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-1
-    nameCenter: Touka's father
-    textCenter: So you both came.
+    nameCenter: Touka's Father
+    textCenter: I see both of you are here.
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -43,12 +43,12 @@ story:
       motion: 1
       pos: 2
     nameLeft: Nayuta
-    textLeft: No, I would rather thank you for taking the time.
+    textLeft: I really appreciate you making time for this.
   - chara:
     - id: 100770
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-3
     nameRight: Touka
-    textRight: But, Papa, why are we talking in the courtyard?
+    textRight: But, Papa, why are we chatting@out in the courtyard?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -56,14 +56,13 @@ story:
       motion: 0
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-4
-    nameLeft: Touka's father
-    textLeft: From now on, I will be speaking to you as@Touka's father and Nayuta's
-      uncle.
+    nameLeft: Touka's Father
+    textLeft: From this point on, I will be speaking as@your father, Touka, and as
+      Nayuta's uncle.
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-5
-    textLeft: I like to change my environment when I'm@talking about things that aren't
-      about work.
+    textLeft: I like a change of scenery when@discussing things unrelated to my work.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -75,11 +74,11 @@ story:
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-7
-    textLeft: So, I gave Nayuta homework,@and I also gave it to Touka,
+    textLeft: So, I gave Nayuta homework,@and you as well, Touka.
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-8
-    textLeft: but have you two prepared answers for it?
+    textLeft: Do you two have your answers ready?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -101,7 +100,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-11
     nameRight: Touka
-    textRight: Losing a loved one is something I can't do anything about.
+    textRight: Losing a loved one is something@I can't do anything about.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -109,12 +108,13 @@ story:
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-12
     nameRight: Touka
     textRight: It's only natural that all living creatures die,@turn to dust, and
-      change with the earth.
+      fade away.
   - chara:
     - id: 100770
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-13
     nameRight: Touka
-    textRight: Even if a great number of people die due to a@change in our environment,
+    textRight: Even if countless people die and are lost@due to some environmental
+      change,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -122,13 +122,12 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-14
     nameRight: Touka
-    textRight: it's still a process that allows humankind to evolve@and become stronger
-      creatures.
+    textRight: that's still a process by which humankind@evolves and becomes stronger.
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-15
-    textLeft: In the process of adapting to the environment and evolving, deaths leave
-      behind a lot of information@to sort through.
+    textLeft: In the process of adapting and evolving, deaths@and natural selection
+      provide much information.
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-16
@@ -147,30 +146,30 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-18
     nameRight: Touka
-    textRight: Besides, our souls are out of our reach...
+    textRight: As for our souls, that's still out of our reach.
   - chara:
     - id: 100770
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-19
     nameRight: Touka
-    textRight: since they're being rolled around in the palm of God's hand, there's
-      nothing we can do at the moment.
+    textRight: That's in God's hands, and there's nothing@we can do about it right
+      now.
   - chara:
     - id: 100770
       motion: 1
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-20
     nameRight: Touka
-    textRight: So until we can see a glimmer of hope, I can only say that it's something
+    textRight: So until we can see a glimmer of hope, I can only@say that it's something
       I can't do anything about.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-21
-    textLeft: No matter what we do, we can't grab hold of@the reins on human life...
+    textLeft: No matter what we do, we can't grab@hold of the reins of human life...
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-22
-    textLeft: I suppose it means that becoming separated is inevitable since we can't
+    textLeft: I suppose it means that becoming separated@is inevitable since we can't
       change it.
   - chara:
     - cheek: 0
@@ -206,22 +205,22 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-27
     nameRight: Nayuta
-    textRight: At first I...thought it was hope...
+    textRight: At first I...thought it meant hope...
   - chara:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-28
     nameRight: Nayuta
-    textRight: but now I just simply think it is sad and painful.
+    textRight: but now, thinking about it simply,@I think it means sorrow and anguish.
   - chara:
     - id: 103701
       motion: 300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-29
     nameRight: Nayuta
-    textRight: Even after thinking deeply upon it,@I cannot betray my feelings.
+    textRight: No matter how deeply I think on it,@I cannot betray my feelings.
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-30
-    textLeft: It really is simple, huh.
+    textLeft: Simple indeed.
   - chara:
     - id: 103701
       motion: 1
@@ -235,7 +234,7 @@ story:
       id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-32
     surround: 7001_birdsong
-    textLeft: No, I'm the one who pushed you for something that doesn't have a right
+    textLeft: No, I'm the one who pushed you for something@that doesn't have a right
       or wrong answer.
   - chara:
     - cheek: 0
@@ -277,25 +276,26 @@ story:
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-38
-    textLeft: Your mother is a selfish person that broke up with Tasuke without thinking
-      of the consequences,
+    textLeft: Your mother is a selfish person that broke up with@Tasuke without a
+      thought for the consequences,
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-39
-    textLeft: but even when she was still thinking of you,@yet she still left.
+    textLeft: yet she still stepped aside out of love@for you, always your father's
+      daughter.
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-40
-    textLeft: Now she seems like she's worried about you@and is searching for your
-      father.
+    textLeft: She isn't someone that would hear of your@search for your father and
+      stay idle.
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-41
-    textLeft: If she met you, Nayuta, and all you talked about@was your father,
+    textLeft: If she met you, Nayuta, and you@speak of nothing but your father,
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-42
-    textLeft: she would be so shocked and wouldn't know@what to do.
+    textLeft: I imagine she would be quite shocked.@Who knows how she might react?
   - chara:
     - cheek: 1
       id: 103701
@@ -303,17 +303,18 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-43
     nameRight: Nayuta
-    textRight: …………
+    textRight: '...'
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-44
-    textLeft: You may feel like blaming yourself@after thinking about it so much,
+    textLeft: Perhaps the years of reflection@have led her to recriminations,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-45
-    textLeft: but it's her problem,@so don't beat yourself up over it, Nayuta.
+    textLeft: but the matter lies between the two of them.@You need not place blame
+      upon yourself.
   - chara:
     - id: 103701
       motion: 0
@@ -331,13 +332,13 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-47
     nameRight: Touka
-    textRight: Huh?@Papa, why was I given the homework?
+    textRight: Huh? Papa, why was I@given the same homework?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-48
-    textLeft: Because it seems Touka has been up to some bad things lately.
+    textLeft: Because it seems you've been@treading an unfortunate path as of late.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -350,13 +351,13 @@ story:
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-50
-    textLeft: I can feel it in the air that you're at the center@of something.
+    textLeft: I can feel it in the air that you're@at the center of something.
   - chara:
     - id: 100770
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-51
     nameRight: Touka
-    textRight: I-is that so nyaa...?
+    textRight: I-is that so...?
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-52
@@ -372,25 +373,24 @@ story:
       face: mtn_ex_011.exp3.json
       id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-54
-    textLeft: Touka's eyes are aimed too high.
+    textLeft: Your gaze is too lofty.
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-55
-    textLeft: It's better to sit high, even just in the middle,
+    textLeft: You should not even crouch,@but sit flat against the ground.
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-56
-    textLeft: where everyone and the city are out of sight,@and you can only see a
-      few houses.
+    textLeft: No one sees the entire city, merely a@few of the surrounding houses.
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-57
-    textLeft: You can't think on the scale of all of humanity,@but you can think of
-      your own surroundings@and the individuals that fill it.
+    textLeft: Think not upon the scope of humanity, but@instead upon your surroundings
+      and self.
   - chara:
     - id: 802300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-58
-    textLeft: Don't forget that...
+    textLeft: Never forget this...
   - chara:
     - id: 100770
       motion: 300
@@ -420,14 +420,14 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-60
     nameLeft: Nayuta
-    textLeft: (For the time being, I think I can speak with Mama...)
+    textLeft: (For the time being,@I think I can speak with Mama...)
     turnChangeOut: fadeOut
   - chara:
     - id: 100770
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-61
     nameRight: Touka
-    textRight: …………
+    textRight: '...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -448,7 +448,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Tsukuyo
-    textLeft: Huh? Touka and Nayuta!?
+    textLeft: Huh? Touka and Nayuta?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -468,7 +468,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-64
     nameLeft: Touka
-    textLeft: Meoowhaat? It's the double Amanes?
+    textLeft: Now what? It's the double Amanes?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -476,7 +476,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-65
     nameRight: Tsukasa
-    textRight: Huh, you're not feeling well?
+    textRight: Huh, are you not feeling well?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -485,7 +485,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-66
     nameLeft: Touka
-    textLeft: Shut it nyaa, I'm trying to thiiink!
+    textLeft: Give it a rest, I'm trying to think!
   - chara:
     - id: 100770
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-67
@@ -510,12 +510,12 @@ story:
       motion: 1
       pos: 0
     nameCenter: Tsukuyo
-    textCenter: She has left.
+    textCenter: She just went and left.
   - chara:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-69
     nameLeft: Nayuta
-    textLeft: We were just having a small conversation with@Touka's father.
+    textLeft: We were just having a little@conversation with Touka's father.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -523,7 +523,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-70
     nameCenter: Tsukuyo
-    textCenter: So that is why she told me to be quiet.
+    textCenter: So that is the reason she told me to be quiet.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -542,7 +542,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-72
     nameLeft: Nayuta
-    textLeft: Yes, in three days,@I will be able to connect with my mother.
+    textLeft: Yes. In three days,@I will be able to connect with my mother.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -562,8 +562,7 @@ story:
       id: 103701
       voiceFull: fullvoice/section_102505/vo_full_102505-8-74
     nameLeft: Nayuta
-    textLeft: Thank you.[chara:103701:lipSynch_0][wait:1.0][chara:103701:cheek_0][chara:103701:face_mtn_ex_010.exp.json:motion_0][chara:103701:lipSynch_1]@What
-      were you two doing here?
+    textLeft: Thank you.@What were you two doing here?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -590,13 +589,13 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-76
     nameCenter: Tsukuyo
-    textCenter: We have been helping Mifuyu@prepare Alina for her discharge from the
+    textCenter: We have been helping Mifuyu prepare Alina@for her discharge from the
       hospital,
   - chara:
     - id: 101801
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-77
     nameCenter: Tsukuyo
-    textCenter: but she has suddenly disappeared!
+    textCenter: but now she has suddenly disappeared!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -625,7 +624,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-8-80
     nameLeft: Nayuta
-    textLeft: I'm not the only one having a hard time.
+    textLeft: So I'm not the only one having a hard time.
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

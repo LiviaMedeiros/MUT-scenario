@@ -26,8 +26,8 @@ story:
   - chara:
     - id: 102601
       lipSynch: 0
-    textCenter: '......[chara:102601:lipSynch_0][wait:0.8][chara:102601:cheek_0][chara:102601:motion_400][chara:102601:lipSynch_1]Where
-      am I!?'
+    textCenter: '...[chara:102601:lipSynch_0][wait:0.8][chara:102601:cheek_0][chara:102601:motion_400][chara:102601:lipSynch_1]Where
+      am I?!'
   - autoTurnLast: 0.2
     chara:
     - id: 102601
@@ -49,7 +49,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102601
       motion: 200
-    textRight: Shizuka-chan! Thank goodness you're safe!
+    textRight: Shizuka! Thank goodness you're safe!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -58,7 +58,7 @@ story:
     textLeft: Given what you just said, I suppose all of that was @real.
   - chara:
     - id: 102501
-    textLeft: How I almost sank to the bottom of the water, @how you purified my jewel...
+    textLeft: How I almost sank to the bottom of the water, @how you purified my Jewel...
   - autoTurnLast: 0.1
     chara:
     - id: 102501
@@ -163,7 +163,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Chiharu
-    textLeft: It's Sunao-chan!
+    textLeft: It's Sunao!
   - chara:
     - id: 102701
       motion: 0
@@ -173,7 +173,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102601
-    textLeft: So Sunao-chan must have saved us!
+    textLeft: So Sunao must have saved us!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -216,7 +216,7 @@ story:
       face: mtn_ex_052.exp.json
       id: 102701
       lipSynch: 0
-    textRight: '............'
+    textRight: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -257,7 +257,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Chiharu
-    textLeft: '...Sunao-chan was going to...?'
+    textLeft: '...Sunao was going to...?'
   - autoTurnLast: 0.01
     textClear: 1
   - autoTurnLast: 2
@@ -281,7 +281,7 @@ story:
     - id: 102601
     nameLeft: Chiharu
     nameRight: Sunao
-    textLeft: Sunao-chan...
+    textLeft: Sunao...
     turnChangeOut: fadeOut
   - chara:
     - id: 102601
@@ -304,7 +304,7 @@ story:
     textRight: My role is to eliminate anyone who goes against the village's will...
   - chara:
     - id: 102701
-    textRight: Therefore, I was attempting to kill you. @Mainly... Charu...
+    textRight: Therefore, I was attempting to kill you. @Mainly...Charu...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -326,7 +326,7 @@ story:
     - id: 102601
       lipSynch: 0
       motion: 400
-    textLeft: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]――!?'
+    textLeft: '[chara:102601:effect_emotion_surprise_0][se:7226_shock]――?!'
   - chara:
     - eyeClose: 0
       id: 102701
@@ -407,11 +407,11 @@ story:
   - chara:
     - id: 102701
       lipSynch: 0
-    textRight: '............'
+    textRight: '...'
   - chara:
     - id: 102601
       motion: 200
-    textLeft: You didn't. You helped us, Sunao-chan.
+    textLeft: You didn't. You helped us, Sunao.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

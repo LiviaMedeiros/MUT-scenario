@@ -34,13 +34,13 @@ story:
       motion: 200
       pos: 2
     nameLeft: ""
-    textLeft: '[flashEffect:flashRed2][se:3001_chara_damage][bgEffect:shakeLarge][name:sprite_0:effect_shake]∵Ya＿Heeee―!?'
+    textLeft: '[flashEffect:flashRed2][se:3001_chara_damage][bgEffect:shakeLarge][name:sprite_0:effect_shake]∵Ya＿HEeee―?!'
   - chara:
     - id: 770300
       motion: 400
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-10-3
     nameRight: ""
-    textRight: Shizuka! The Kimochi appears to be weakening!
+    textRight: Shizuka! The [textYellow:Kimochi] appears to be weakening!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json

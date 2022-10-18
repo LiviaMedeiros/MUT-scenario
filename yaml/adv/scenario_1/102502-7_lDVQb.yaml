@@ -31,7 +31,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-2
     nameRight: Felicia
-    textRight: Why am I always gettin' the joker!?
+    textRight: Why am I always gettin' the joker?!
   - chara:
     - id: 100500
       motion: 300
@@ -43,7 +43,7 @@ story:
       motion: 300
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-4
-    nameLeft: Nameless A.I.
+    nameLeft: Anonymous AI
     textLeft: '>Even though I am losing in a human game,@>I will not be disappointed.'
   - chara:
     - id: 820100
@@ -88,12 +88,12 @@ story:
   - chara:
     - id: 820100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-11
-    textLeft: '>…………'
+    textLeft: '>...'
   - chara:
     - id: 820100
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-12
-    textLeft: '>It is only slight,@>however I feel as if I do know you a little.'
+    textLeft: '>It is only slight, however,@>I feel as if I do know you a little.'
   - autoTurnLast: 1.9
     chara:
     - cheek: 0
@@ -103,8 +103,7 @@ story:
       voiceFull: fullvoice/section_102502/vo_full_102502-7-13
     enableSkipAutoTurn: 1
     nameRight: Sana
-    textRight: Oh, next is my turn...[chara:100400:lipSynch_0][wait:0.8][chara:100400:cheek_0][chara:100400:face_mtn_ex_010.exp.json][chara:100400:lipSynch_1]@I'll
-      take a card...
+    textRight: Oh, next is my turn...@I'll take a card...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -117,7 +116,7 @@ story:
       voiceFullStop: fullvoice/section_102502/vo_full_102502-7-13
     enableSkipAutoTurn: 0
     nameRight: Sana
-    textRight: …………
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -154,12 +153,12 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-19
     nameRight: Felicia
-    textRight: '[chara:100500:effect_emotion_surprise_0][se:7226_shock]Nya!?'
+    textRight: '[chara:100500:effect_emotion_surprise_0][se:7226_shock]Nya?!'
   - chara:
     - id: 820100
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-20
-    textLeft: '>It appears I have managed to finish@>without being last.'
+    textLeft: '>It appears I have managed to@>finish without being last.'
   - autoTurnLast: 1.2
     chara:
     - cheek: 0
@@ -170,8 +169,7 @@ story:
       voiceFull: fullvoice/section_102502/vo_full_102502-7-21
     enableSkipAutoTurn: 1
     nameRight: Felicia
-    textRight: Maaan, I give up...[chara:100500:lipSynch_0][wait:0.8][chara:100500:eyeClose_1][chara:100500:lipSynch_1]@I'm
-      gonna go sulk for a minute...
+    textRight: Maaan, I give up...@I'm gonna go sulk for a minute...
   - chara:
     - eyeClose: 1
       id: 100500
@@ -185,7 +183,7 @@ story:
       voiceFullStop: fullvoice/section_102502/vo_full_102502-7-21
     enableSkipAutoTurn: 0
     nameLeft: Ui
-    textLeft: Did you have to announce your hand like that!?
+    textLeft: Did you have to announce your hand like that?!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -209,7 +207,7 @@ story:
       motion: 100
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-24
-    nameLeft: Nameless A.I.
+    nameLeft: Anonymous AI
     textLeft: '>This is my first time doing something like this.'
   - chara:
     - cheek: 0
@@ -222,7 +220,7 @@ story:
     - id: 820100
       motion: 100
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-26
-    textLeft: '>That is surprising.@>Sana also used to be alone?'
+    textLeft: '>That is surprising.@>You used to be alone too, Sana?'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -230,17 +228,18 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-27
     nameRight: Sana
-    textRight: I have all of these friends now,@but only since a little while ago...
+    textRight: I have all of these friends now, but that's@only been since a little
+      while ago...
   - chara:
     - id: 820100
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-28
-    textLeft: '>I envy you.@>I am only an abandoned A.I.'
+    textLeft: '>I envy you.@>I am only an abandoned AI.'
   - chara:
     - id: 820100
       motion: 300
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-29
-    textLeft: '>The only way I can distract myself from loneliness@>is by confining
+    textLeft: '>The only way I can distract myself from@>loneliness is by confining
       people.'
   - chara:
     - cheek: 0
@@ -250,7 +249,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-30
     nameRight: Ui
-    textRight: Then starting today, we will all be your friends!
+    textRight: Then starting today, we'll all be your friends!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -266,13 +265,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-32
     nameLeft: Sana
-    textLeft: '[chara:100400:effect_emotion_surprise_0][se:7226_shock]!?'
+    textLeft: '[chara:100400:effect_emotion_surprise_0][se:7226_shock]*Gasp*'
   - chara:
     - id: 820100
       motion: 200
       pos: 0
       voiceFullAuto: fullvoice/section_102502/vo_full_102502-7-33
-    nameLeft: Nameless A.I.
+    nameLeft: Anonymous AI
     textLeft: '>Ui.'
   - autoTurnLast: 0.8
     chara:
@@ -284,8 +283,7 @@ story:
       voiceFull: fullvoice/section_102502/vo_full_102502-7-34
     enableSkipAutoTurn: 1
     nameRight: Felicia
-    textRight: I don't mind either,[chara:100500:lipSynch_0][wait:1.0][chara:100500:cheek_0][chara:100500:face_mtn_ex_020.exp.json][chara:100500:lipSynch_1]@but
-      next time I am aaabsolutely not gonna lose...
+    textRight: I don't mind either,@but next time I am aaabsolutely not gonna lose...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json

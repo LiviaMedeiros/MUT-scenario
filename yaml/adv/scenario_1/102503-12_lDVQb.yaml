@@ -21,7 +21,7 @@ story:
     - id: 300701
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-1
     nameLeft: Shizuku
-    textLeft: Ryou,@did you write some coverage article today?
+    textLeft: Ryo, are you working on another article today?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -31,7 +31,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-2
     nameRight: Ikumi
-    textRight: An article about taking a dare to go in@Kamihama Prison. It's so scary～
+    textRight: She dared to go into Kamihama Prison@for her article. It's so scary~
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -40,7 +40,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-3
     nameLeft: Shizuku
-    textLeft: Huh...so there's another prison in the basement@of a place like that.
+    textLeft: Huh...so there's another prison in@the basement of a place like that.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -48,20 +48,20 @@ story:
       motion: 100
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-4
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: Yep, it may sound like an urban legend,@but it's all true.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-5
-    nameLeft: Ryou
-    textLeft: And it looks like it was built just for a single criminal,
+    nameLeft: Ryo
+    textLeft: And it looks like it was built@just for a single criminal,
   - chara:
     - id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-6
-    nameLeft: Ryou
-    textLeft: so the passage is grid-like with no lighting.
+    nameLeft: Ryo
+    textLeft: with this grid-like passageway with no lighting.
   - chara:
     - id: 305301
       motion: 1
@@ -72,7 +72,7 @@ story:
     - id: 304601
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-8
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: Plus, it's pitch black.
   - chara:
     - cheek: 0
@@ -82,7 +82,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-9
     nameLeft: Shizuku
-    textLeft: The only light is in the prison built somewhere@within...
+    textLeft: The only light is in the guardroom,@wherever that is...
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp3.json
@@ -91,7 +91,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-10
     nameRight: Ikumi
-    textRight: Noooo, I'm super duper scared.
+    textRight: Noooo, I'm super duper scared!
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp3.json
@@ -107,13 +107,13 @@ story:
       id: 305301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-12
     nameRight: Ikumi
-    textRight: the dungeon might light up with a sparkle.
+    textRight: even that old dungeon might@light up all nice and sparkly!
   - chara:
     - id: 300701
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-13
     nameLeft: Shizuku
-    textLeft: '...When you get there,@you''ll become the helpless maid.'
+    textLeft: '...That''s a little beyond what a@"cute little maid" can do.'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -121,8 +121,8 @@ story:
       motion: 100
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-14
-    nameLeft: Ryou
-    textLeft: She'd lose her signal there.
+    nameLeft: Ryo
+    textLeft: You're starting to lose your grip on reality.
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp3.json
@@ -146,7 +146,7 @@ story:
   - chara:
     - id: 304600
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-16
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: If Ikumi was capable of such a thing,
     turnChangeOut: fadeOut
   - chara:
@@ -154,8 +154,8 @@ story:
       id: 304600
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-17
-    nameCenter: Ryou
-    textCenter: I would have loved for her to do this.
+    nameCenter: Ryo
+    textCenter: I would have loved to have her here.
   - bgm: bgm05_event07
     chara:
     - cheek: 0
@@ -164,33 +164,33 @@ story:
       id: 304600
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-18
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (But there's no way I could drag her in here.)
   - chara:
     - id: 304600
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-19
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (I wonder if I should leave evidence behind@so I can find my way back...)
   - chara:
     - id: 304600
       lipSynch: 1
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-20
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: Evidence...
   - chara:
     - id: 304600
       lipSynch: 0
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-21
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (If Promised Blood also comes through here,)
   - chara:
     - id: 304600
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-22
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (then they'd be taking the shortest route...)
   - autoTurnLast: 2
     chara:
@@ -207,14 +207,14 @@ story:
       lipSynch: 0
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-23
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: (There's no magic left behind...?)
   - chara:
     - id: 304600
       lipSynch: 1
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-12-24
-    nameCenter: Ryou
+    nameCenter: Ryo
     textCenter: For now, I have no choice but to keep steadily@exploring while protecting
       myself...
   - autoTurnLast: 2

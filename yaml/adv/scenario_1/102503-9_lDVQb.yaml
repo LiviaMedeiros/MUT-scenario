@@ -17,20 +17,20 @@ story:
     narrationHAlignment: left
     narrationPosX: 150
     progressNarration: '[textBlack:At this point, Hinano and her group@had arrived
-      at Kamihama Prison,@unable to stop Ryou.]'
+      at Kamihama Prison,@unable to stop Ryo.]'
     turnChangeOut: fadeOut
     voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-1
   - progressNarration: '[textBlack:She wouldn''t admit it herself,@but she seemed
-      to give up on the idea@of stopping Ryou since@Alina was going either way...]'
+      to give up on the idea@of stopping Ryo since@Alina was going either way...]'
     voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-2
-  - progressNarration: '[textBlack:So I think everyone really just wanted to@blame
+  - progressNarration: '[textBlack:So I think everyone really@just wanted to blame
       Alina.]'
     voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-3
   - progressNarration: '[textBlack:However, they would not do that because@they knew
       Alina is not in the Union,@and that she wouldn''t understand anyway...]'
     voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-4
   - progressNarration: '[textBlack:The day that Iroha and her friends@began negotiations...@I
-      wonder if even Yuna was a little shaken,@with no way to control her emotions...]'
+      wonder if even Miss Kureha@was a little shaken,@with no way to control her emotions...]'
     voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-5
   - progressNarration: '[textBlack:No matter what miracle@was close to happening,@one
       wrong step would ruin everything...]'
@@ -63,19 +63,19 @@ story:
     - id: 102300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-7
     nameLeft: Ao
-    textLeft: I guess it was better to be late@meeting up with the eldest sister～
+    textLeft: I guess it was better to be late@meeting up with Eldest Sister~
     turnChangeOut: rollOutLogo_PB
   - chara:
     - id: 102300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-8
     nameLeft: Ao
-    textLeft: Magius's Alina and the Magical Girls from@the south are here...
+    textLeft: The Magius Alina and the Magical Girls@from the South are here...
   - chara:
     - id: 103600
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-9
     nameRight: Urara
-    textRight: It'll be fine, third sister.
+    textRight: It'll be fine, Third Sister.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -83,13 +83,13 @@ story:
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-10
     nameRight: Urara
     textRight: Even if they break into the prison,@they won't find the entrance to
-      the labyrinth.
+      the Labyrinth.
   - chara:
     - id: 102300
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-11
     nameLeft: Ao
-    textLeft: No, all it'll take is that Ryou Midori's ability to find it...
+    textLeft: No, all it'll take is that@Ryo Midori's ability to find it...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -184,7 +184,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Urara
-    textRight: Including myself and the third sister,@there's eight of us.
+    textRight: Including myself and you, Third Sister,@there are eight of us.
   - chara:
     - id: 102300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-15
@@ -197,7 +197,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-16
     nameLeft: Ao
-    textLeft: but aside from Ryou Midori, there's four enemies@here, so we need to
+    textLeft: but aside from Ryo Midori, there are four@enemies here, so we need to
       hold them off.
   - chara:
     - cheek: 0
@@ -205,7 +205,7 @@ story:
       id: 102300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-17
     nameLeft: Ao
-    textLeft: But before that, I need to contact the eldest sister.
+    textLeft: But before that, I need to contact Eldest Sister.
   - autoTurnLast: 1
     bg: bg_adv_14072.jpg
     chara:
@@ -223,7 +223,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-18
     nameRight: ""
-    textRight: '*Huff*...*huff*...Yuna...'
+    textRight: '*Huff*...*huff*...Eldest Sister...!'
     turnChangeOut: fadeOut
   - chara:
     - id: 102100
@@ -235,14 +235,15 @@ story:
     - id: 102100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-20
     nameLeft: Yuna
-    textLeft: I appreciate the concern, but we're waiting for an opportunity, so we
+    textLeft: I appreciate the concern, but we're waiting for an@opportunity, so we
       don't need reinforcements.
   - chara:
     - id: 770000
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-21
     nameRight: ""
-    textRight: Gah...*huff*...that's not it, I was contacted,@so I came to tell you...
+    textRight: Gah...*huff*...that's not it...@I came here to deliver a message to
+      you...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -251,14 +252,14 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-22
     nameLeft: Yuna
-    textLeft: Contacted? 'Wonder if it's Sakuya...
+    textLeft: A message? Wonder if it's Sakuya...
   - chara:
     - id: 102100
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-23
     nameLeft: Yuna
-    textLeft: (If negotiations break down, we'll have to proceed@with preparing the
-      "mechanism"...)
+    textLeft: (If negotiations break down, we'll have to proceed@with preparing our
+      contingency...)
     turnEffect: thinking
   - chara:
     - id: 102100
@@ -285,7 +286,7 @@ story:
     - id: 100400
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-25
     nameRight: Sana
-    textRight: All of the Futatsugi Magical Girls are resting here...
+    textRight: The Magical Girls of Futatsugi are sleeping here...
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
@@ -302,7 +303,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-27
     nameLeft: Tsuruno
-    textLeft: We're not the kind of people that would ruin@the resting place of the
+    textLeft: We're not so inconsiderate that we'd@wreck the resting places of the
       dead...
   - autoTurnLast: 0.2
     chara:
@@ -320,7 +321,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-28
     nameCenter: Yuna
-    textCenter: …………
+    textCenter: '...'
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -330,7 +331,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-29
     nameCenter: Yuna
-    textCenter: So...you're thinking...about these girls...
+    textCenter: I see...you're thinking about them...these girls...
   - autoTurnLast: 0.5
     bg: bg_adv_14072.jpg
     chara:
@@ -366,14 +367,14 @@ story:
     - id: 770000
       posX: -80
     nameLeft: Yuna
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
       id: 770000
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-33
     nameRight: ""
-    textRight: It seems that the Union has just appeared at the@front of the prison.
+    textRight: It seems that the Union has just appeared@in front of the prison.
   - autoTurnLast: 0.8
     chara:
     - cheek: 0
@@ -384,13 +385,13 @@ story:
     - id: 770000
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-34
     nameRight: ""
-    textRight: Also, I was told that Ryou Midori is amongst them...
+    textRight: Also, I was told that Ryo Midori is amongst them...
   - chara:
     - id: 770000
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-35
     nameRight: ""
-    textRight: The third sister believes they're going to cut off@our lifeline...
+    textRight: Third Sister believes they're going@to cut off our lifeline...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -451,7 +452,7 @@ story:
     - id: 102100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-43
     nameCenter: Yuna
-    textCenter: You must have prepared plenty of sweet-talk@to invite us...
+    textCenter: You must have prepared plenty@of sweet-talk to invite us...
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp3.json
@@ -498,7 +499,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-48
     nameLeft: Iroha
-    textLeft: No, this was something simple.
+    textLeft: No, this was no big deal.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -510,7 +511,7 @@ story:
       id: 100101
       motion: 0
     nameNarration: ""
-    narration: '[surround:7105_telphone]～～♪～～♪'
+    narration: '[surround:7105_telphone]~~♪~~♪'
     narrationBg: bg_adv_21041.jpg
     narrationEffect: in
   - chara:
@@ -519,7 +520,7 @@ story:
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-50
     nameRight: Sakuya
     narrationEffect: out
-    textRight: Ah sorry, it's them. It must be their answer to@what we talked about
+    textRight: Ah sorry, it's them. It must be their answer@to what we talked about
       earlier.
   - autoTurnLast: 0.2
     chara:
@@ -543,7 +544,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-52
     nameLeft: Iroha
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -573,20 +574,20 @@ story:
     - id: 302101
       lipSynch: 0
     nameCenter: Sakuya
-    textCenter: …………[wait:1.0][chara:302101:lipSynch_1]Yeah.
+    textCenter: '...[wait:1.0][chara:302101:lipSynch_1][chara:302101:voiceFull_fullvoice/section_102503/vo_full_102503-9-55]Yeah.'
   - chara:
     - id: 302101
       lipSynch: 0
       voiceFullStop: fullvoice/section_102503/vo_full_102503-9-55
     nameCenter: Sakuya
-    textCenter: …………[wait:1.0][chara:302101:cheek_0][chara:302101:face_mtn_ex_050.exp.json][chara:302101:lipSynch_1]What?
+    textCenter: '...[wait:1.0][chara:302101:lipSynch_1][chara:302101:cheek_0][chara:302101:face_mtn_ex_050.exp3.json][chara:302101:voiceFull_fullvoice/section_102503/vo_full_102503-9-56]What?'
   - chara:
     - id: 302101
       motion: 400
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-57
       voiceFullStop: fullvoice/section_102503/vo_full_102503-9-56
     nameCenter: Sakuya
-    textCenter: W-wait a minute! Did I hear you correctly...!?
+    textCenter: W-wait a minute! Did I hear you correctly...?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -594,12 +595,12 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-58
     nameCenter: Sakuya
-    textCenter: The conditions the Union gave us are huge!
+    textCenter: The conditions the Union gave us are incredible!
   - chara:
     - id: 302101
       lipSynch: 0
     nameCenter: Sakuya
-    textCenter: …………[wait:1.0][chara:302101:lipSynch_1]Yeah.
+    textCenter: '...[wait:1.0][chara:302101:lipSynch_1][chara:302101:voiceFull_fullvoice/section_102503/vo_full_102503-9-59]Yeah.'
   - chara:
     - id: 302101
       motion: 0
@@ -618,7 +619,7 @@ story:
       id: 302101
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-62
     nameCenter: Sakuya
-    textCenter: Yeah...I don't think the third sister would lie...
+    textCenter: Yeah...I don't think Third Sister would lie...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -670,7 +671,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-68
     nameLeft: Hikaru
-    textLeft: Wait whattaya talking about!?@Those two even said they'd give up their
+    textLeft: Wait, whattaya talking about?!@Those two even said they'd give up their
       lives!
   - chara:
     - id: 302101
@@ -692,7 +693,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-9-71
     nameRight: Sakuya
-    textRight: If you ask your heart, you'll already have the answer!
+    textRight: If you ask your heart,@you'll already have the answer!
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -744,7 +745,7 @@ story:
     - id: 100101
       motion: 0
     nameRight: Tsuruno
-    textRight: Do they really want to kill all of us that badly...
+    textRight: Do they really want to kill all of us that badly...?
   - chara:
     - id: 100301
       motion: 300

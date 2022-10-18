@@ -26,7 +26,7 @@ story:
       motion: 0
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-2
-    nameRight: Ryou
+    nameRight: Ryo
     textRight: I'm here.
     turnChangeOut: fadeOut
   - chara:
@@ -42,18 +42,18 @@ story:
       motion: 200
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-4
-    nameRight: Ryou
+    nameRight: Ryo
     textRight: Not with how this situation is.
   - chara:
     - id: 304601
       motion: 1
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-5
-    nameRight: Ryou
-    textRight: So, even though we couldn't sense anything@last time,
+    nameRight: Ryo
+    textRight: So, even though we couldn't@sense anything last time,
   - chara:
     - id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-6
-    nameRight: Ryou
+    nameRight: Ryo
     textRight: you think we can find the Mirrors offshoot today?
   - chara:
     - id: 100801
@@ -65,7 +65,7 @@ story:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-8
     nameLeft: Alina
-    textLeft: And when Alina's guide is over,
+    textLeft: And when my guidance is over,
   - chara:
     - id: 100801
       motion: 400
@@ -83,7 +83,7 @@ story:
     - id: 304601
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-11
-    nameRight: Ryou
+    nameRight: Ryo
     textRight: I get it.
   - chara:
     - cheek: 0
@@ -92,7 +92,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-12
     nameLeft: Alina
-    textLeft: Then, Alina wants you to wait a little.
+    textLeft: Then, I need you to wait just a little.
   - chara:
     - id: 304601
       lipSynch: 0
@@ -100,8 +100,8 @@ story:
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-13
     - eyeClose: 1
       id: 100801
-    nameRight: Ryou
-    textRight: …………
+    nameRight: Ryo
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -109,7 +109,7 @@ story:
       lipSynch: 0
       motion: 300
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-14
-    nameRight: Ryou
+    nameRight: Ryo
     textRight: (She's sleeping...?)
   - chara:
     - eyeClose: 1
@@ -117,7 +117,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-15
     nameLeft: Alina
-    textLeft: …………
+    textLeft: '...'
   - autoTurnLast: 0.5
     bg: bg_adv_21181.jpg
     chara:
@@ -141,8 +141,8 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-17
     nameCenter: Alina
-    textCenter: '[flashEffect:flashWhiteSlow2][se:7211_souljem_02]If Alina can figure
-      out this offshoot''s magical pattern, there will be no need for any useless
+    textCenter: '[flashEffect:flashWhiteSlow2][se:7211_souljem_02]If I can figure
+      out this offshoot''s magical pattern,@there will be no need for any useless
       maps.'
   - chara:
     - id: 100801
@@ -157,26 +157,26 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-19
     nameCenter: Alina
-    textCenter: '[se:7201_detect_magic][chara:100801:effect_ef_adv_01]!?'
+    textCenter: '[se:7201_detect_magic][chara:100801:effect_ef_adv_01]...?!'
   - chara:
     - id: 100801
       lipSynch: 1
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-20
     nameCenter: Alina
-    textCenter: Alina wasn't the one sensing just now...
+    textCenter: I wasn't the one sensing just now...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-21
     nameCenter: Alina
-    textCenter: It was you that is inside Alina...@You sensed it and told Alina...?
+    textCenter: It was you that is inside Alina...@You sensed it and told me...?
   - chara:
     - id: 100801
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-22
     nameCenter: Alina
-    textCenter: Whether you're the former Alina, or someone else entirely, is unknown
+    textCenter: Whether you're the former Alina, or someone@else entirely, is unknown
       to me.
   - chara:
     - cheek: 0
@@ -190,7 +190,7 @@ story:
     bgm: stop
     turnChangeIn: fadeIn
   - nameNarration: Alina
-    narration: Alina will find you one day,@so keep waiting.
+    narration: I, Alina, will find you one day,@so keep waiting.
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -227,9 +227,9 @@ story:
       motion: 200
       pos: 2
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-26
-    nameRight: Ryou
+    nameRight: Ryo
     textRight: You found it, huh.
-  - nameCenter: Hinano's voice
+  - nameCenter: Hinano's Voice
     textBg: shout
     textCenter: AND WE FOUND YOU TOO!
     voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-27
@@ -239,8 +239,8 @@ story:
       id: 304601
       motion: 400
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-28
-    nameRight: Ryou
-    textRight: '[chara:304601:effect_emotion_surprise_0][se:7226_shock]!?'
+    nameRight: Ryo
+    textRight: '[chara:304601:effect_emotion_surprise_0][se:7226_shock]...?!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -286,14 +286,14 @@ story:
       id: 300301
       motion: 0
       pos: 2
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: Hinano...
   - chara:
     - id: 300301
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-30
     nameRight: Hinano
-    textRight: What's with you and not staying back, dumbass!?@You're going too far!
+    textRight: What's with you and not staying back, dumbass?!@You're going too far!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -314,13 +314,13 @@ story:
       motion: 0
       pos: 0
     nameRight: Karin
-    textRight: Alina-senpai, too.@It's terrible that you haven't stopped!
+    textRight: Alina-senpai, you too.@It's terrible that you haven't stopped!
   - chara:
     - id: 100801
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-32
     nameLeft: Alina
-    textLeft: Alina is going.
+    textLeft: I'm going.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -340,14 +340,14 @@ story:
       id: 300301
       motion: 0
       pos: 2
-    nameLeft: Ryou
-    textLeft: Hinano,
+    nameLeft: Ryo
+    textLeft: Hinano...
   - chara:
     - id: 304601
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-34
-    nameLeft: Ryou
-    textLeft: it's possible that Promised Blood knows where all@the Kamihama Magical
+    nameLeft: Ryo
+    textLeft: It's possible that Promised Blood knows where@all the Kamihama Magical
       Girls live.
   - chara:
     - cheek: 0
@@ -362,20 +362,20 @@ story:
     - id: 304601
       motion: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-36
-    nameLeft: Ryou
-    textLeft: The negotiations might have already broken down,@and they're gonna kill
-      everyone before there's time@to react.
+    nameLeft: Ryo
+    textLeft: The negotiations may have already broken down,@and they'll kill everyone
+      we can react.
   - chara:
     - id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-37
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: If it's happening today, then we're out of time.
   - chara:
     - id: 304601
       motion: 400
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-38
-    nameLeft: Ryou
-    textLeft: We have to hit their weakpoint right now,@while we still can.
+    nameLeft: Ryo
+    textLeft: We have to hit their weak point right now,@while we still can.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -389,15 +389,15 @@ story:
     - id: 304601
       motion: 100
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-40
-    nameLeft: Ryou
-    textLeft: I'm convinced that they're hiding around@Shizuku's shop.
+    nameLeft: Ryo
+    textLeft: I'm convinced that they're hiding@around Shizuku's shop.
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp3.json
       id: 305301
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-41
     nameRight: Ikumi
-    textRight: Ryou...
+    textRight: Shizuku...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -411,7 +411,7 @@ story:
     - id: 304601
       motion: 1
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-43
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: I'm going with Alina.@From here on, it's my turn.
   - chara:
     - eyeClose: 1
@@ -435,7 +435,7 @@ story:
       motion: 0
       pos: 0
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-46
-    nameLeft: Ryou
+    nameLeft: Ryo
     textLeft: You're just gonna get in the way.
   - chara:
     - cheek: 0
@@ -462,7 +462,7 @@ story:
       id: 100801
       motion: 0
       pos: 0
-    nameRight: Ryou
+    nameRight: Ryo
     textRight: Alina, where's this place at?
   - chara:
     - cheek: 1
@@ -491,18 +491,18 @@ story:
       motion: 0
       pos: 2
     nameLeft: Alina
-    textLeft: By the way, the place is near the border of Daito@and Minaminagi.
+    textLeft: In any case, the location is near the@border of Daito and Minaminagi.
   - chara:
     - id: 100801
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-52
     nameLeft: Alina
-    textLeft: Looking at this map, Alina thinks it's around here.
+    textLeft: Looking at this map, I think it's around here.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
       id: 304601
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-53
-    nameRight: Ryou
+    nameRight: Ryo
     textRight: This is...
   - chara:
     - id: 100801
@@ -516,7 +516,7 @@ story:
       id: 304601
       motion: 200
       voiceFullAuto: fullvoice/section_102503/vo_full_102503-7-55
-    nameRight: Ryou
+    nameRight: Ryo
     textRight: '...I''m sure this is in Kamihama Prison.'
   - autoTurnLast: 2
     bgm: stop

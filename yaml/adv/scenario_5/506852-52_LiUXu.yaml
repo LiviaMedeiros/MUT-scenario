@@ -25,7 +25,7 @@ story:
   - chara:
     - id: 102701
       motion: 100
-    textRight: You said... "I'm going to be another corpse down in those waters."
+    textRight: You said... "I'm going to be another corpse @down in those waters."
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -38,7 +38,7 @@ story:
   - chara:
     - id: 102701
       motion: 1
-    textRight: All I know about myself is that I'm meant to aid the Land of the Rising
+    textRight: All I know about myself is that I'm meant to aid @the Land of the Rising
       Sun and its people,
   - chara:
     - id: 102701
@@ -48,7 +48,7 @@ story:
     - eyeClose: 1
       id: 102701
       motion: 200
-    textRight: I didn't know what would happen when I no longer fought as a Diviner...
+    textRight: I didn't know what would happen when I no longer @fought as a Diviner...
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -76,8 +76,8 @@ story:
   - chara:
     - id: 102701
       motion: 300
-    textRight: But even though I live outside the village... @in the closest town
-      to the village...
+    textRight: But even though I live outside the village...@in the closest town to
+      the village...
   - chara:
     - id: 102701
     textRight: I had never seen another Diviner...
@@ -92,7 +92,7 @@ story:
   - chara:
     - id: 102701
       motion: 1
-    textRight: Yes. An awful scene suddenly flashed through my mind...
+    textRight: Yes. An awful scene suddenly flashed @through my mind...
   - chara:
     - id: 102701
     textRight: Could all the Diviners who "left" be those corpses @down in the water...?
@@ -103,14 +103,14 @@ story:
   - chara:
     - id: 102701
       motion: 100
-    textRight: Yes. I needed to ask you directly about what happened...
+    textRight: Yes. I needed to ask you directly about what @happened...
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_001.exp.json
       id: 102501
       motion: 100
-    textLeft: Then, it's my turn to talk... About what I heard during the coming-of-age
+    textLeft: Then, it's my turn to talk... About what I heard @during the coming-of-age
       ceremony.
   - chara:
     - cheek: 0
@@ -156,7 +156,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102500
-    textRight: The... truth?
+    textRight: The...truth?
   - chara:
     - id: 801800
     textLeft: Indeed. The truth about ye Diviners.
@@ -176,7 +176,7 @@ story:
     textRight: Yes.
   - chara:
     - id: 801800
-    textLeft: Yet at the same time, they are the beings that will become Devils in
+    textLeft: Yet at the same time, they are the beings that @will become Devils in
       the future as well.
   - chara:
     - cheek: 0
@@ -184,7 +184,7 @@ story:
       id: 102500
       lipSynch: 0
       motion: 400
-    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 102500
     textRight: Eh, that means...
@@ -196,17 +196,17 @@ story:
       face: mtn_ex_030.exp.json
       id: 102500
       motion: 300
-    textRight: You... must be joking, right?
+    textRight: You...must be joking, right?
   - chara:
     - id: 102500
-    textRight: If that's true, why did you withhold something so important?
+    textRight: If that's true, why did you withhold something @so important?
   - chara:
     - id: 801800
     textLeft: I'm sure you're aware that such a harsh topic can't @be discussed easily.
   - chara:
     - id: 102500
       motion: 0
-    textRight: '...Does my mother or anyone in the village know this?'
+    textRight: '...Does my mother or anyone in the village @know this?'
   - chara:
     - id: 102500
     textRight: Did they know this, and still make us into Diviners?
@@ -214,7 +214,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801800
-    textLeft: Nay. This knowledge is limited to myself as the head priestess, and
+    textLeft: Nay. This knowledge is limited to myself as the @head priestess, and
       the dancers.
   - chara:
     - cheek: 0
@@ -229,25 +229,26 @@ story:
     textRight: If we, who shatter Devils, are going to become @Devils...
   - chara:
     - id: 102500
-    textRight: Then that's just a vicious cycle. There's no point in us becoming Diviners.
+    textRight: Then that's just a vicious cycle. There's no point in @us becoming
+      Diviners.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 801800
-    textLeft: However, the fact remains that you can grant wishes @to save the Land
-      of the @Rising Sun.
+    textLeft: However, the fact remains that you can grant @wishes to save the Land
+      of the Rising Sun.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102500
       lipSynch: 0
       motion: 0
-    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102500
-    textRight: So what are we after that...!?
+    textRight: So what are we after that...?!
   - chara:
     - id: 801800
     textLeft: Used-up dregs.
@@ -259,7 +260,7 @@ story:
       lipSynch: 0
       motion: 300
       tear: 1
-    textRight: '......[wait:0.8][chara:102500:lipSynch_1]This is too cruel...'
+    textRight: '...[wait:0.8][chara:102500:lipSynch_1]This is too cruel...'
   - chara:
     - cheek: 1
       eyeClose: 1
@@ -280,7 +281,7 @@ story:
       lipSynch: 0
       motion: 0
       tear: 1
-    textRight: '............'
+    textRight: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -291,7 +292,7 @@ story:
   - chara:
     - id: 102500
       tear: 0
-    textRight: If I literally sacrificed my soul to the Land of the Rising Sun...
+    textRight: If I literally sacrificed my soul to the Land of the @Rising Sun...
   - chara:
     - cheek: 1
       face: mtn_ex_021.exp.json
@@ -300,7 +301,7 @@ story:
   - chara:
     - id: 102500
       motion: 1
-    textRight: Even if I become a Devil, it won't erase anything that I've achieved.
+    textRight: Even if I become a Devil, it won't erase anything @that I've achieved.
   - chara:
     - eyeClose: 1
       id: 102500
@@ -323,7 +324,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102500
       lipSynch: 0
-    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textRight: '[chara:102500:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -334,14 +335,14 @@ story:
     textLeft: Thou shalt become a Devil very soon.
   - chara:
     - id: 801800
-    textLeft: Why? Because it occurs when thy jewel loses its @shine.
+    textLeft: Why? Because it occurs when thy Jewel loses its @shine.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102500
       lipSynch: 0
       motion: 200
-    textRight: '......[wait:0.8][chara:102500:lipSynch_1]Wait...'
+    textRight: '...[wait:0.8][chara:102500:lipSynch_1]Wait...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -349,8 +350,8 @@ story:
     textRight: What is this "coming-of-age ceremony"...?
   - chara:
     - id: 801800
-    textLeft: Discarding a Diviner who already fulfilled her @wish and protected the
-      village, and turning her into @a Devil.
+    textLeft: Discarding a Diviner who has fulfilled her wish and @protected the village,
+      and turning her into a Devil.
   - chara:
     - id: 801800
     textLeft: No Diviner hath ever left the village.
@@ -360,7 +361,7 @@ story:
       id: 102500
       lipSynch: 0
       motion: 0
-    textRight: -!!
+    textRight: '...!!'
   - chara:
     - id: 102500
       motion: 400
@@ -384,8 +385,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102500
     narrationEffect: out
-    textRight: Go on, now. Sink in the waterfall basin, struggle in agony... and become
-      feed for the next Diviner.
+    textRight: Ah...
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -397,8 +397,9 @@ story:
       id: 801800
       motion: 0
       pos: 1
-    nameCenter: ""
-    textCenter: ""
+    nameCenter: Mikoshiba
+    textCenter: Go on, now. Sink in the waterfall basin, struggle in @agony...and
+      become feed for the next Diviner.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

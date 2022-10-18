@@ -23,16 +23,16 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 800600
-    nameLeft: Shizuka's mother
-    nameRight: Chiharu's mother
-    textRight: '............*Sigh*.'
+    nameLeft: Shizuka's Mother
+    nameRight: Chiharu's Mother
+    textRight: '...*Sigh*.'
     turnChangeOut: fadeOut
   - chara:
     - id: 801000
     textLeft: Ms. Hiroe...
   - chara:
     - id: 800600
-    textRight: First the Diviners and the Tokime Clan, now this... my suspension of
+    textRight: First the Diviners and the Tokime Clan, now this...my suspension of
       disbelief was already stretched pretty thin.
   - chara:
     - id: 801000
@@ -52,7 +52,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800600
-    textRight: Don't apologise, Chiharu. We're just a little surprised.
+    textRight: Don't apologize, Chiharu. We're just a little surprised.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -70,7 +70,7 @@ story:
       id: 801000
       motion: 0
       pos: 0
-    nameLeft: Shizuka's mother
+    nameLeft: Shizuka's Mother
     textLeft: Really, I'm sure it was far harder for you Diviners to hear this...
   - chara:
     - cheek: 0
@@ -97,7 +97,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Sunao
-    textLeft: And the part about... how we Diviners become @Devils...?
+    textLeft: And the part about...how we Diviners become @Devils...?
   - chara:
     - id: 102500
       motion: 0
@@ -113,14 +113,14 @@ story:
       face: mtn_ex_030.exp.json
       id: 102500
       lipSynch: 0
-    textRight: '............'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 801000
       motion: 0
       pos: 0
-    nameLeft: Shizuka's mother
+    nameLeft: Shizuka's Mother
     textLeft: What's wrong, Shizuka...?
   - chara:
     - eyeClose: 0
@@ -145,7 +145,7 @@ story:
   - chara:
     - id: 102600
       motion: 0
-    textLeft: And Shizuka-chan's mother was attacked by @Underlings, too,
+    textLeft: And Shizuka's mother was attacked by @Underlings, too,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -164,7 +164,7 @@ story:
       id: 801000
       motion: 0
       pos: 0
-    nameLeft: Shizuka's mother
+    nameLeft: Shizuka's Mother
     textLeft: Who do you think gave birth to you, anyway?
   - chara:
     - cheek: 0
@@ -222,7 +222,7 @@ story:
       id: 801000
       motion: 0
       pos: 2
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textRight: '...I think the three of you should hurry things up.'
   - bgm: stop
     chara:
@@ -254,21 +254,21 @@ story:
       face: mtn_ex_030.exp.json
       id: 102600
       motion: 1
-    textLeft: What's gonna happen to our moms if we leave, though!? Will they be okay!?
+    textLeft: What's gonna happen to our moms if we leave, though?! Will they be okay?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801000
       motion: 0
       pos: 2
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textRight: Don't worry. I can take out a few Underlings myself.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102600
       motion: 400
-    textLeft: Even though your sword broke!?
+    textLeft: Even though your sword broke?!
   - chara:
     - id: 801000
     textRight: So I want you to do me a quick favor before leaving.
@@ -284,7 +284,7 @@ story:
     - id: 102600
       lipSynch: 0
     narrationEffect: out
-    textLeft: '[chara:102600:effect_emotion_surprise_0][se:7226_shock]-!?'
+    textLeft: '[chara:102600:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 102600
     textLeft: A ton of swords... In the wardrobe...
@@ -328,7 +328,7 @@ story:
       id: 801000
       motion: 0
       pos: 2
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textRight: So, sorry to ask this of you, but come over and infuse these before
       you go.
   - chara:
@@ -377,7 +377,7 @@ story:
       id: 801000
       motion: 0
       pos: 2
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textRight: That's our ace in the hole, so could you leave that one alone?
   - chara:
     - cheek: 0
@@ -400,7 +400,7 @@ story:
       id: 801000
       motion: 0
       pos: 0
-    nameLeft: Shizuka's mother
+    nameLeft: Shizuka's Mother
     textLeft: About that sword though, Shizuka.
   - chara:
     - id: 801000

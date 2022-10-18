@@ -29,24 +29,24 @@ story:
       id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-2
     nameLeft: Nayuta
-    textLeft: Love...@If that's what this is, he hasn't made it clear...
+    textLeft: Love... If that's what this is,@he hasn't been clear about it...
   - chara:
     - id: 103701
       motion: 200
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-3
     nameLeft: Nayuta
-    textLeft: He has always been my partner for researching@Magical Girls,
+    textLeft: We've always been partners in@researching Magical Girls,
   - chara:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-4
     nameLeft: Nayuta
-    textLeft: and the two of us are the only ones left@in my family now...
+    textLeft: and the two of us are the only@family that we have now...
   - chara:
     - id: 100601
       motion: 1
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-5
     nameRight: Mifuyu
-    textRight: You have no other family...?
+    textRight: You don't have any other family?
   - chara:
     - id: 103701
       motion: 100
@@ -61,7 +61,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-7
     nameRight: Mifuyu
-    textRight: If your father disappeared, does that mean@you live alone now?
+    textRight: If your father disappeared, does that@mean you live alone now?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -77,7 +77,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-9
     nameLeft: Nayuta
-    textLeft: I have Rabi...@I have my servant with me, now...
+    textLeft: I have Rabi...@That is, I have my servant with me, now...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -95,7 +95,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-11
     nameLeft: Nayuta
-    textLeft: I-I am not lonely at all.
+    textLeft: I-I'm not lonely at all.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -124,14 +124,14 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-13
     nameRight: Tsukasa
-    textRight: We were separated from the beginning@and lived with other families.
+    textRight: We were separated from the beginning@and grew up in different families.
   - chara:
     - id: 101801
       motion: 300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-14
     nameCenter: Tsukuyo
-    textCenter: So with your father disappearing,@I believe it must be very painful
-      for you...
+    textCenter: So with your father disappearing, we can@understand how painful it
+      must be for you...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -146,8 +146,8 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-16
     nameRight: Tsukasa
-    textRight: Because of some circumstances, we were raised in different places in
-      the west and east.
+    textRight: Because of some circumstances, we were@raised apart in the West and
+      East.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp3.json
@@ -155,13 +155,13 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-17
     nameCenter: Tsukuyo
-    textCenter: We have only recently learned that we are twins.
+    textCenter: It was only recently that we discovered our kinship.
   - chara:
     - id: 101901
       motion: 300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-18
     nameRight: Tsukasa
-    textRight: Riiight?
+    textRight: Right.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -184,20 +184,20 @@ story:
     - id: 100601
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-20
     nameRight: Mifuyu
-    textRight: but is there any way your mother could find out the whereabouts of
+    textRight: but is there any way your mother could find@out the whereabouts of
       your father?
   - chara:
     - id: 100601
       motion: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-21
     nameRight: Mifuyu
-    textRight: Of course, that would depend on what happened@in the past...
+    textRight: Of course, that would depend on@what happened in the past...
   - chara:
     - id: 103701
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-22
     nameLeft: Nayuta
-    textLeft: My mother had given custody to my father rather quickly.
+    textLeft: My mother was quick to turn@custody over to my father.
   - chara:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-23
@@ -211,7 +211,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-24
     nameLeft: Nayuta
-    textLeft: (...But according to the information from the@detective agency that
+    textLeft: (...But according to the information from@the detective agency that
       Rabi sent me,)
     turnEffect: thinking
   - chara:
@@ -219,13 +219,13 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-25
     nameLeft: Nayuta
-    textLeft: (Mama has learned of my situation and is trying to@gain custody back.)
+    textLeft: (Mama has heard about my situation@and she's trying to regain custody.)
   - chara:
     - id: 103701
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-26
     nameLeft: Nayuta
-    textLeft: …………
+    textLeft: '...'
     turnEffect: stop
   - chara:
     - cheek: 0
@@ -242,7 +242,7 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-28
     nameLeft: Nayuta
-    textLeft: Then that means Mama must be searching for Papa@too...
+    textLeft: Then that means Mama must be@searching for Papa too...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -258,7 +258,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-30
     nameRight: Mikage
-    textRight: Mii doesn't get it, but that's awesome, Nayutan!
+    textRight: I don't get it, but that's awesome, Nayutan!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -267,8 +267,8 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-31
     nameRight: Tsukuyo
-    textRight: Um, does that mean if you contact your mother,@you will be able to
-      find him!?
+    textRight: Um, does that mean that if you contact your@mother, you will be able
+      to find him?!
   - chara:
     - id: 103701
       motion: 100
@@ -283,14 +283,14 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-33
     nameRight: Mikage
-    textRight: You got her contact info!?
+    textRight: You have her contact info?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
       id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-34
     nameLeft: Nayuta
-    textLeft: '[chara:103701:effect_emotion_surprise_0][se:7226_shock]!?'
+    textLeft: '[chara:103701:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -299,7 +299,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-35
     nameLeft: Nayuta
-    textLeft: No one but my uncle...knows the director here...!!
+    textLeft: Only my uncle...@Only the director of the hospital knows...!!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -309,13 +309,13 @@ story:
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-36
     nameRight: Mikage
     textBg: shout
-    textRight: Whaaat!?
+    textRight: Whaaat?!
   - chara:
     - id: 103701
       motion: 1
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-37
     nameLeft: Nayuta
-    textLeft: Touka's mother and my mother are relatives.
+    textLeft: My mother and Touka's are relatives, you see.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp3.json
@@ -331,7 +331,7 @@ story:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-3-39
     nameLeft: Nayuta
-    textLeft: I'm sorry to keep being a bother, but I must contact@the receptionist.
+    textLeft: I'm sorry to keep being a bother,@but I must contact the receptionist.
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout

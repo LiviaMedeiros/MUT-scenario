@@ -35,7 +35,7 @@ story:
     - id: 102001
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-1
     nameRight: Kagome
-    textRight: Well, now they're shopping together.
+    textRight: So, now they're shopping together.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -45,12 +45,12 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-2
     nameLeft: Touka
-    textLeft: Since they're talking to Sister, I was thinking...
+    textLeft: Since they're talking to Big Sis,
   - chara:
     - id: 100770
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-3
     nameLeft: Touka
-    textLeft: they would get along at least a little, nyaa.
+    textLeft: I'm sure they're starting to get along@at least a little, you know?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -62,8 +62,8 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-4
     nameLeft: Nemu
-    textLeft: As hearts grow closer, people become more tolerant.@That in itself is
-      true.
+    textLeft: It's true in and of itself that as hearts grow closer,@people become
+      more tolerant.
   - chara:
     - id: 101471
       motion: 200
@@ -76,13 +76,13 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-6
     nameLeft: Nemu
-    textLeft: So, was Ryou Midori not caught today?
+    textLeft: So, did Ryo Midori avoid getting caught again today?
   - chara:
     - id: 102001
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-7
     nameRight: Kagome
-    textRight: The message said she will come over@once her errands are done.
+    textRight: Her message said she'll come over@once her errands are done.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -103,12 +103,12 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-9
     nameRight: Eternal Sakura
-    textRight: ｜ Ryou went to the east to get a scoop, ｜
+    textRight: '| Ryo went to the East for a scoop, |'
   - chara:
     - id: 304302
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-10
     nameRight: Eternal Sakura
-    textRight: ｜ and Hinano and Ikumi went to stop her. ｜
+    textRight: '| and Hinano and Ikumi went to stop her. |'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -116,7 +116,7 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-11
     nameLeft: Touka
-    textLeft: I hope you don't mean the Mirrors offshoots, nyaa...
+    textLeft: I hope she's not talking about the Mirrors offshoot...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -133,7 +133,7 @@ story:
     - id: 101471
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-13
     nameRight: Nemu
-    textRight: I know how you feel, but it's a double-edged sword.
+    textRight: I know how she feels, but this@is a double-edged sword.
   - chara:
     - id: 100770
       motion: 300
@@ -173,7 +173,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-18
     nameRight: Kagome
-    textRight: Yeah, I hope she will be safe...
+    textRight: Yeah, I hope she'll be safe...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -183,7 +183,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-19
     nameRight: Eternal Sakura
-    textRight: ｜…………｜
+    textRight: '| ... |'
   - autoTurnLast: 0.2
     bg: bg_adv_21025.jpg
     chara:
@@ -201,7 +201,7 @@ story:
     - id: 800600
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-20
     nameNarration: ""
-    narration: Because even if you do good things,@your behavior can "easily break"
+    narration: Because even if you're doing something good,@your behavior can shatter
       your relationships.
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -240,7 +240,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-21
     nameRight: Eternal Sakura
-    textRight: ｜ I'm...scared... ｜
+    textRight: '| I''m...scared... |'
     turnChangeOut: fadeOut
   - chara:
     - id: 101471
@@ -280,8 +280,8 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-23
     nameRight: Hagumu
-    textRight: It's been a while since we've gathered as friends,@but things have
-      changed.
+    textRight: It's been a while since we went to gather allies,@but things have changed
+      now.
     turnChangeOut: fadeOutLogo_Neomagi
   - chara:
     - id: 102901
@@ -296,7 +296,8 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-25
     nameLeft: Shigure
-    textLeft: but now I can say I'm confident enough@to work hard for those "princesses"...
+    textLeft: but now I can say I'm confident enough@to work hard for Princess and
+      the rest...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -305,7 +306,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-26
     nameRight: Hagumu
-    textRight: We'll take responsibility for all of our sadness@and crying here.
+    textRight: We'll take responsibility for all@of our sadness and crying here.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -319,7 +320,7 @@ story:
     - id: 102901
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-28
     nameLeft: Shigure
-    textLeft: We'll go to Juri's place and have a fresh start...
+    textLeft: We'll go to where Juri is and have a fresh start...
   - autoTurnLast: 0.01
     bg: black
     turnChangeIn: fadeIn
@@ -337,8 +338,8 @@ story:
     narration: So now we can be a little more positive,@a little stronger.
     voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-31
   - nameNarration: Hagumu
-    narration: From now on,@we need to change into people that can stand on their
-      own@and be the support that we wanted.
+    narration: From now on, we need to@change into people that can stand on their
+      own@and be the support that we wished we'd had.
     voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-32
   - nameNarration: Shigure
     narration: Even if we look inexperienced@from everyone's point of view,@even if
@@ -357,7 +358,7 @@ story:
     bg: white
     turnChangeIn: whiteIn
   - nameNarration: ""
-    narration: '[textBlack:―Interview Recording―@Rena Minami]'
+    narration: '[textBlack:―Interview Record―@Rena Minami]'
     narrationCoverOpacity: 0
     narrationEffect: in
     turnChangeOut: whiteOut
@@ -389,7 +390,7 @@ story:
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 80
-    progressNarration: '[textBlack:"Huh? What I desire?@Like in the future?"]'
+    progressNarration: '[textBlack:  "Huh? What I desire?@  Like in the future?"]'
     turnChangeOut: whiteOut
   - chara:
     - cheek: 0
@@ -397,17 +398,17 @@ story:
       id: 100901
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-36
-    progressNarration: '[textBlack:"I don''t really know,@career counselors just talk
-      about@going right into high school..."]'
+    progressNarration: '[textBlack:  "I don''t really know,@  career counselors just
+      talk about@  going right into high school..."]'
   - autoTurnLast: 2.2
     chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 100901
       voiceFull: fullvoice/section_102501/vo_full_102501-13-37
-    progressNarration: '[textBlack:"...I''m just a jerk, you know...?@I had to transfer
-      schools@many times for protection.@I''m unsociable,@not even that cute, and@I
-      hate being looked down on..."]'
+    progressNarration: '[textBlack:  "...I''m just a jerk, you know...?@  I had to
+      transfer schools a@  bunch of times for protection.@  I''m unsociable,@  not
+      even that cute, and@  I hate being looked down on..."]'
   - autoTurnLast: 8.6
     chara:
     - id: 100901
@@ -425,14 +426,14 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-38
       voiceFullStop: fullvoice/section_102501/vo_full_102501-13-37
-    progressNarration: '[textBlack:"I''m such a troublesome girl..."]'
+    progressNarration: '[textBlack:  "I''m such a troublesome girl..."]'
   - chara:
     - eyeClose: 0
       id: 100901
       motion: 1
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-39
-    progressNarration: '[textBlack:"Sometimes I unconsciously@do things to test Momoko.@I
-      hate that part of me,@and feel like scum for it..."]'
+    progressNarration: '[textBlack:  "Sometimes I unconsciously@  do things to test
+      Momoko.@  I hate that part of me,@  and feel like scum for it..."]'
   - autoTurnLast: 6.7
     chara:
     - cheek: 0
@@ -440,8 +441,8 @@ story:
       id: 100901
       motion: 300
       voiceFull: fullvoice/section_102501/vo_full_102501-13-40
-    progressNarration: '[textBlack:"And yet I''m afraid of@being separated,@so I''m
-      also just selfish...@*Sigh*..."]'
+    progressNarration: '[textBlack:  "And yet I''m afraid of@  being separated,@  so
+      I''m also just selfish...@  *Sigh*..."]'
   - chara:
     - eyeClose: 1
       id: 100901
@@ -453,30 +454,30 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-41
       voiceFullStop: fullvoice/section_102501/vo_full_102501-13-40
-    progressNarration: '[textBlack:"But even for such an awkward girl,@Momoko...and
-      Kaede...@they still want to be with me..."]'
+    progressNarration: '[textBlack:  "But even for such an awkward girl,@  Momoko...and
+      Kaede...@  they still want to be with me..."]'
   - chara:
     - id: 100901
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-42
-    progressNarration: '[textBlack:"These days, maybe Iroha too...@I can''t say for
-      sure,@but I can''t believe that@Iroha wants to be friends..."]'
+    progressNarration: '[textBlack:  "These days, maybe Iroha too...@  I can''t say
+      it myself,@  but I''m amazed that@  Iroha wants to be friends..."]'
   - chara:
     - cheek: 1
       eyeClose: 1
       id: 100901
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-13-43
-    progressNarration: '[textBlack:"That''s why...it may be impossible@to do more
-      than a little at a time,@but I want to change,@and one day be able to@thank
-      everyone without hiding away@or anything."]'
+    progressNarration: '[textBlack:  "That''s why...it may be impossible@  to do more
+      than a little at a time,@  but I want to change,@  and one day be able to@  thank
+      everyone without hiding@  away or anything."]'
   - autoTurnLast: 2.8
     chara:
     - eyeClose: 0
       id: 100901
       motion: 100
       voiceFull: fullvoice/section_102501/vo_full_102501-13-44
-    progressNarration: '[textBlack:"So, that''s it,@maybe what I desire is@to be able
-      to grow up together@with everyone..."]'
+    progressNarration: '[textBlack:  "So, that''s it,@  maybe what I desire is@  to
+      be able to grow up together@  with everyone..."]'
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp3.json

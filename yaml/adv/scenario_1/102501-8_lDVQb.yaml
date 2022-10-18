@@ -21,14 +21,15 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-1
     nameRight: Yachiyo
-    textRight: Tell us what you want quickly.
+    textRight: Tell us what you want. Quickly.
     turnChangeOut: fadeOut
   - chara:
     - id: 102400
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-2
     nameLeft: Juri
-    textLeft: To get right to the point, this is the answer to@your negotiation proposal.
+    textLeft: To get right to the point, this is the response@to your negotiation
+      proposal.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -37,7 +38,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-3
     nameRight: Iroha
-    textRight: You have terms for letting us meet Yuna Kureha?
+    textRight: You have terms for letting us meet with Yuna?
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp3.json
@@ -52,20 +53,20 @@ story:
       id: 102400
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-5
     nameLeft: Juri
-    textLeft: First, before you can meet Big Sis face to face,@you'll have to meet
+    textLeft: First, before you go face to face with Sis,@you meet with our girls
       Hikaru and Sakuya.
   - chara:
     - id: 102400
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-6
     nameLeft: Juri
-    textLeft: At that time, you will tell them what our@compensation for joining forces
-      will be.
+    textLeft: When you do, you'll tell them what you're@willing to give us for joining
+      forces.
   - chara:
     - id: 102400
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-7
     nameLeft: Juri
-    textLeft: The judgement will be made depending on what@that is.
+    textLeft: The judgment will be made@depending on what that is.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -74,12 +75,12 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-8
     nameRight: Touka
-    textRight: Hmph,
+    textRight: Oh really...
   - chara:
     - id: 100702
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-9
     nameRight: Touka
-    textRight: you just want to show us you're better@until the very end.
+    textRight: So then this is just a display of dominance,@I suppose.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -91,26 +92,24 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-10
     nameRight: Nemu
-    textRight: There's already a leader here, but she's only@in the upper echelon
-      of their group.
+    textRight: Our leaders are already at the table,@yet you only send subordinates.
   - chara:
     - id: 101470
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-11
     nameRight: Nemu
-    textRight: It should be obvious that they've created@that kind of psychological
-      organization.
+    textRight: An entirely transparent gambit,@psychologically speaking.
   - chara:
     - id: 102400
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-12
     nameLeft: Juri
-    textLeft: Juri the Great doesn't understand@Big Sis's intentions, but...
+    textLeft: Juri the Great can't speak for@what Sis's intentions are, but...
   - chara:
     - id: 102400
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-13
     nameLeft: Juri
-    textLeft: there'll be conditions for meeting Hikaru and Sakuya.
+    textLeft: there'll be conditions for@meeting Hikaru and Sakuya, too.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -143,18 +142,18 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-17
     nameLeft: Juri
-    textLeft: You guys know the Tokime are confronting us@at Minaminagi, right?
+    textLeft: You guys know the Tokime are facing@off with us at Minaminagi, right?
   - chara:
     - id: 100202
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-18
     nameRight: Yachiyo
-    textRight: Yeah...
+    textRight: Indeed...
   - chara:
     - id: 102400
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-19
     nameLeft: Juri
-    textLeft: To keep it short, we want that stalemate situation@to be moved.
+    textLeft: To keep it short, we want that stalemate@situation to come to an end.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -163,14 +162,14 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-20
     nameRight: Iroha
-    textRight: That's...
+    textRight: Meaning...?
   - chara:
     - id: 102400
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-21
     nameLeft: Juri
-    textLeft: We're not askin' you to hand over Ui Tamaki.@We just want to find the
-      labyrinth.
+    textLeft: We're not askin' you to hand over Ui Tamaki.@We just want her to find
+      the Labyrinth.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -179,7 +178,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-22
     nameRight: Ui
-    textRight: '!?'
+    textRight: '...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp3.json
@@ -188,7 +187,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-23
     nameLeft: Yachiyo
-    textLeft: So you just want to move where the war is...
+    textLeft: So, you want us to turn the tide of battle...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -197,7 +196,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-24
     nameRight: Ui
-    textRight: Sis, Yachiyo, I'll be okay...?
+    textRight: Sis, Yachiyo, I'll be okay...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -225,7 +224,7 @@ story:
       id: 102400
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-26
     nameLeft: Juri
-    textLeft: One burned down house is gonna be all over@the news.
+    textLeft: Then someone's burned down house@is gonna be all over the news.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -233,7 +232,7 @@ story:
       motion: 401
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-27
     nameRight: Iroha
-    textRight: Isn't that just a threat...!?
+    textRight: Isn't that just a threat...?!
   - chara:
     - id: 100104
       motion: 0
@@ -253,15 +252,15 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-29
     nameLeft: Yachiyo
-    textLeft: I understand. We accept the conditions...
+    textLeft: I understand.@We accept the conditions...
   - chara:
     - id: 100104
       lipSynch: 0
       motion: 301
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-30
     nameRight: Iroha
-    textRight: (If this battle can end smoothly,@then Futatsugi's people should calm
-      down...)
+    textRight: (If this conflict can end smoothly,@then the Futatsugi girls should
+      calm down...)
     turnEffect: thinking
   - chara:
     - eyeClose: 1
@@ -269,7 +268,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-8-31
     nameRight: Iroha
-    textRight: (We can end this time@where it's natural to kill or be killed...)
+    textRight: (We can bring an end to this era@where it's natural to kill or be killed...)
   - autoTurnLast: 1
     bg: black
     bgm: stop

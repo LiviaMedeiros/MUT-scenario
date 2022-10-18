@@ -20,7 +20,7 @@ story:
     - id: 102600
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-1
     nameLeft: Chiharu
-    textLeft: I've been completely separated from Shizuka@and everyone...
+    textLeft: I've been completely cut off from@Shizuka and the others...
     turnChangeOut: fadeOut
   - chara:
     - id: 103202
@@ -28,7 +28,7 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-2
     nameRight: Miyuri
-    textRight: '[surround:3032A02][chara:102600:effect_7000_attack01]…………'
+    textRight: '[surround:3032A02][chara:102600:effect_7000_attack01]...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -65,7 +65,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Shizuka
-    textLeft: Kh, let me get to Charu!
+    textLeft: Kh, let me through to Charu!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -85,8 +85,7 @@ story:
       voiceFull: fullvoice/section_102504/vo_full_102504-16-7
     enableSkipAutoTurn: 1
     nameRight: Himena
-    textRight: '[surround:3037A02][chara:102500:effect_7001_attack02]Don''t think
-      you''re going to be able to diss this@cutie''s bf.'
+    textRight: Don't think you can get away@with dissing this cutie's bae.
   - autoTurnLast: 0.8
     chara:
     - effect: 7001_attack02
@@ -135,7 +134,7 @@ story:
       motion: 200
       pos: 2
     nameLeft: Sunao
-    textLeft: I'm sorry, Shizuka!@There's too many on me here too!
+    textLeft: I'm sorry, Shizuka!@I have my hands full over here too!
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -164,7 +163,7 @@ story:
       pos: 2
     nameCenter: ""
     textBg: shout
-    textCenter: '[flashEffect:flashWhite2]Sunao, we''ll hold the ground here!'
+    textCenter: '[flashEffect:flashWhite2]Sunao, we''ll hold the line here!'
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -195,7 +194,7 @@ story:
       motion: 300
       pos: 2
     nameCenter: ""
-    textCenter: '[chara:770401:effect_7003_damage02][chara:770500:effect_7003_damage02][se:3001_chara_damage][bgEffect:shakeSmall]…'
+    textCenter: '[chara:770401:effect_7003_damage02][chara:770500:effect_7003_damage02][se:3001_chara_damage][bgEffect:shakeSmall]...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -235,7 +234,7 @@ story:
     - id: 103500
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-14
     nameRight: Alexandra
-    textRight: Then I will let the timbre of my playing calm you@down♪
+    textRight: Then I'll let the timbre of@my playing calm you down♪
   - chara:
     - id: 102500
       motion: 100
@@ -268,14 +267,14 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-16
     nameLeft: Chiharu
-    textLeft: Gh...Ugh...
+    textLeft: Gh... Ugh...
     turnChangeOut: rollOutFast
   - chara:
     - id: 103202
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-17
     nameRight: Miyuri
-    textRight: …………
+    textRight: '...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -294,14 +293,14 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-18
     nameCenter: Sunao
-    textCenter: I'll be over there right away!@Just hold on a little longer!
+    textCenter: I'll be there in just a moment!@Just hold on a little longer!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
       id: 102700
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-19
     nameCenter: Sunao
-    textCenter: '[surround:3046A02][chara:102700:effect_7000_attack01]!?'
+    textCenter: '[surround:3046A02][chara:102700:effect_7000_attack01]...?!'
   - autoTurnLast: 0.2
     chara:
     - id: 102700
@@ -315,7 +314,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-20
     nameRight: San
-    textRight: Until Miyu steals that bracelet, I'll be your opponent.
+    textRight: Until Miyu steals that bracelet,@I'll be your opponent.
   - autoTurnLast: 0.5
     chara:
     - effect: 7001_attack02
@@ -344,13 +343,13 @@ story:
     - id: 103102
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-23
     nameRight: San
-    textRight: I'm being underestimated.
+    textRight: You're underestimating me.
   - chara:
     - id: 103400
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-24
     nameLeft: Asahi
-    textLeft: A barrage of bullets isn't enough to stop someone@like me.
+    textLeft: A barrage of bullets isn't enough@to stop someone like me.
   - chara:
     - id: 103400
       motion: 200
@@ -365,12 +364,12 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-26
     nameRight: San
-    textRight: In that case,@I'll fill you full of holes, Miss Bayonet.
+    textRight: In that case, I'll fill you@full of holes, Miss Bayonet.
   - chara:
     - id: 103102
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-27
     nameRight: San
-    textRight: However, it looks like it's already the end for@Miss Twin Jitte over
+    textRight: However, it looks like it's already the end@for Miss Twin Jitte over
       there.
   - chara:
     - cheek: 0
@@ -379,7 +378,7 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-28
     nameLeft: Asahi
-    textLeft: '[chara:103400:effect_emotion_surprise_0][se:7226_shock]!?'
+    textLeft: '[chara:103400:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -408,7 +407,7 @@ story:
     nameLeft: Chiharu
     textLeft: Gh...
     turnChangeOut: rollOutFast
-  - nameCenter: San's voice
+  - nameCenter: San's Voice
     textBg: shout
     textCenter: RUN OVER HER ARM!
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-31
@@ -443,7 +442,7 @@ story:
     textLeft: CHARU!
   - bg: bg_adv_red.jpg
     nameNarration: Chiharu
-    narration: '[textBlack:「AaaAAAAAH!!」]'
+    narration: '[textBlack:"Aaah, AAAAAH!!"]'
     narrationBg: bg_adv_red.jpg
     narrationCoverOpacity: 0
     narrationEffect: in
@@ -465,8 +464,8 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-35
     nameCenter: Shizuka
-    textCenter: (The responsibility falls on me, I underestimated@them because they
-      were Neo-Magius...)
+    textCenter: (The responsibility falls on me. I underestimated@them because they
+      were the Neo-Magius...)
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 1
@@ -474,7 +473,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-36
     nameCenter: Shizuka
-    textCenter: (We had to give up the stone we just acquired...)
+    textCenter: (We had to give up the Stone we'd just acquired...)
   - autoTurnLast: 0.2
     bg: bg_adv_18092.jpg
     chara:
@@ -497,7 +496,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-38
     nameCenter: Himena
-    textCenter: It seems the [textYellow:Kimochi] of fear is better off@with this
+    textCenter: It seems the [textYellow:Kimochi] of Fear is better@off with this
       cutie, kyaha★
   - chara:
     - cheek: 0
@@ -513,7 +512,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-40
     nameCenter: Himena
-    textCenter: You and this little cutie are going to become@the bestest of friends.
+    textCenter: You and this little cutie are@going to become total besties.
   - autoTurnLast: 0.2
     bg: bg_adv_14113.jpg
     chara:
@@ -544,7 +543,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-42
     nameRight: Yuna
-    textRight: You are...Shizuka...
+    textRight: You are...that Tokime...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -553,14 +552,14 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-43
     nameRight: Juri
-    textRight: What, did those Neo-Magius do somethin'@real nasty to ya...?
+    textRight: What, did those Neo-Magius@do a real number on ya...?
   - chara:
     - id: 102500
       lipSynch: 0
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-44
     nameLeft: Shizuka
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -569,14 +568,14 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-45
     nameRight: Juri
-    textRight: You're serious, you really were against them...
+    textRight: You're serious.@You really were up against them...
   - chara:
     - eyeClose: 1
       id: 102500
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-46
     nameLeft: Shizuka
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 1
       eyeClose: 0
@@ -586,7 +585,7 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-16-47
     nameLeft: Shizuka
-    textLeft: The monsters have begun to raise their own@monsters...
+    textLeft: The monsters have begun to@make their own monsters...
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

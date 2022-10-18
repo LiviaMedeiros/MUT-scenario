@@ -23,14 +23,14 @@ story:
       id: 102700
       motion: 0
     nameNarration: ""
-    narration: Click
+    narration: '*Click*'
     narrationBg: bg_adv_21444.jpg
     narrationEffect: in
   - chara:
     - id: 102700
       lipSynch: 0
     narrationEffect: out
-    textCenter: '......[wait:0.8][chara:102700:cheek_0][chara:102700:face_mtn_ex_030.exp.json][chara:102700:lipSynch_1]It''s
+    textCenter: '...[wait:0.8][chara:102700:cheek_0][chara:102700:face_mtn_ex_030.exp.json][chara:102700:lipSynch_1]It''s
       muted?'
   - chara:
     - cheek: 0
@@ -43,7 +43,7 @@ story:
       id: 102700
       lipSynch: 0
       motion: 1
-    textCenter: '............'
+    textCenter: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_052.exp.json

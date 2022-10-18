@@ -61,8 +61,8 @@ story:
     textLeft: But I'm sure he was someone very high-ranking...
   - chara:
     - id: 102701
-    textLeft: She was talking to him about the price of the wish... @and the time
-      frame for it...
+    textLeft: She was talking to him about the price of the wish...@and the time frame
+      for it...
   - autoTurnLast: 0.2
     chara:
     - id: 102701
@@ -93,7 +93,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Chiharu
-    textRight: '............'
+    textRight: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -154,7 +154,7 @@ story:
       id: 102601
       motion: 0
       tear: 1
-    textRight: Shizuka-chan...
+    textRight: Shizuka...
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -172,14 +172,14 @@ story:
     - cheek: 0
       id: 102601
       motion: 0
-    textRight: By the way, Sunao-chan... How much was I worth...?
+    textRight: By the way, Sunao... How much was I worth...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 800600
       motion: 0
       pos: 0
-    nameLeft: Chiharu's mother
+    nameLeft: Chiharu's Mother
     textLeft: Charu, stop... You don't need to hear about that...
   - chara:
     - cheek: 0
@@ -207,7 +207,7 @@ story:
       eyeClose: 0
       id: 102701
       tear: 1
-    textLeft: Who cares... about some price...?
+    textLeft: Who cares...about some price...?
   - chara:
     - cheek: 1
       eyeClose: 1
@@ -215,7 +215,7 @@ story:
       id: 102601
       motion: 200
       tear: 1
-    textRight: Sunao-chaaan...
+    textRight: Sunaooo...
   - autoTurnLast: 0.2
     chara:
     - id: 102701
@@ -272,7 +272,7 @@ story:
       lipSynch: 0
       motion: 200
     nameCenter: Shizuka
-    textCenter: '............'
+    textCenter: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 102501
@@ -295,7 +295,7 @@ story:
       id: 801000
       motion: 0
       pos: 2
-    nameRight: Shizuka's mother
+    nameRight: Shizuka's Mother
     textRight: Shizuka, that's not true...
   - chara:
     - id: 801000
@@ -322,7 +322,7 @@ story:
       pos: 1
       tear: 1
     nameCenter: Chiharu
-    textCenter: '............'
+    textCenter: '...'
   - chara:
     - eyeClose: 1
       id: 102601
@@ -345,7 +345,7 @@ story:
     - id: 102601
       motion: 100
     nameRight: Chiharu
-    textRight: At this point... at this point, @I'll do whatever I have to...!
+    textRight: At this point...at this point, @I'll do whatever I have to...!
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.5
     chara:
@@ -367,16 +367,16 @@ story:
       id: 800600
       motion: 0
       pos: 0
-    nameLeft: Chiharu's mother
-    textLeft: Charu, what are you doing!? Stop!
+    nameLeft: Chiharu's Mother
+    textLeft: Charu, what are you doing?! Stop!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 801000
       motion: 0
       pos: 0
-    nameLeft: Shizuka's mother
-    textLeft: Yes, listen to your mother! It doesn't matter how evil she was-- a dead
+    nameLeft: Shizuka's Mother
+    textLeft: Yes, listen to your mother! It doesn't matter how evil she was― a dead
       person's dead!
   - chara:
     - cheek: 0
@@ -389,7 +389,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102601
       motion: 200
-    textRight: I said it still smells just a minute ago, didn't I!?
+    textRight: I said it still smells just a minute ago, didn't I?!
   - chara:
     - id: 102601
     textRight: Granny might be dead, but there's still a villain's @smell coming from
@@ -400,7 +400,7 @@ story:
       id: 800600
       motion: 0
       pos: 0
-    nameLeft: Chiharu's mother
+    nameLeft: Chiharu's Mother
     textLeft: But what can we do about that?
   - chara:
     - id: 102601
@@ -408,7 +408,7 @@ story:
     textRight: That thing called 'truth' always lies much closer than you expect.
   - chara:
     - id: 102601
-    textRight: If she left that data in the computer Sunao-chan @found,
+    textRight: If she left that data in the computer Sunao @found,
   - chara:
     - id: 102601
       motion: 0
@@ -424,14 +424,14 @@ story:
     - id: 801800
       lipSynch: 0
     nameCenter: Mikoshiba
-    textCenter: '............'
+    textCenter: '...'
   - chara:
     - id: 800600
     textLeft: '...Excuse me.'
   - chara:
     - id: 800600
       lipSynch: 0
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -439,7 +439,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Chiharu
-    textRight: Is there... anything there...?
+    textRight: Is there...anything there...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -493,7 +493,7 @@ story:
       id: 801000
       motion: 0
       pos: 0
-    nameLeft: Shizuka's mother
+    nameLeft: Shizuka's Mother
     textLeft: If it's unreadable, I suppose it's another dead end...
   - bgm: stop
     chara:
@@ -523,7 +523,7 @@ story:
   - chara:
     - id: 800600
     nameLeft: Chiharu
-    nameRight: Chiharu's mother
+    nameRight: Chiharu's Mother
     textRight: If you want to be Mr. Todoroki, you'll need brains as well.
     turnChangeOut: fadeOut
   - chara:
@@ -566,7 +566,7 @@ story:
     chara:
     - id: 102601
       motion: 200
-    nameLeft: Chiharu's mother
+    nameLeft: Chiharu's Mother
     nameRight: Chiharu
     textRight: Mom!!
     turnChangeOut: fadeOut
@@ -574,7 +574,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 800600
-    textLeft: We... can read it...!
+    textLeft: We...can read it...!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -595,7 +595,7 @@ story:
       id: 800600
       motion: 0
       pos: 0
-    nameLeft: Chiharu's mother
+    nameLeft: Chiharu's Mother
     textLeft: But we never expected to see it here, of all places...
   - chara:
     - cheek: 0
@@ -604,7 +604,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Shizuka
-    textLeft: You... can decipher it?
+    textLeft: You...can decipher it?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -617,7 +617,7 @@ story:
       id: 801000
       motion: 0
       pos: 0
-    nameLeft: Shizuka's mother
+    nameLeft: Shizuka's Mother
     textLeft: We'll leave the deciphering to you, then. @We're going to go call everyone
       else.
   - chara:
@@ -658,7 +658,7 @@ story:
       id: 800600
       motion: 0
       pos: 0
-    nameLeft: Chiharu's mother
+    nameLeft: Chiharu's Mother
     textLeft: Right. I expect we'll be up all night with this...
   - autoTurnLast: 2
     turnChangeIn: fadeIn

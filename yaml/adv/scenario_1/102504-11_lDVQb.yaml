@@ -20,7 +20,7 @@ story:
     - id: 100100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-1
     nameRight: Iroha
-    textRight: A [textYellow:Kimochi]'s labyrinth...?
+    textRight: A [textYellow:Kimochi]'s Labyrinth...?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -30,7 +30,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-2
     nameLeft: Yachiyo
-    textLeft: But all of the stones have been collected.@Could there be another [textYellow:Kimochi]...?
+    textLeft: But all of the Stones have been collected.@Could there be another [textYellow:Kimochi]...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -39,7 +39,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-3
     nameRight: Felicia
-    textRight: Then, you're sayin' that Kyubey was lyin'!?
+    textRight: Then, you're sayin' that Kyubey was lyin'?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -57,7 +57,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-5
     nameLeft: Tsuruno
-    textLeft: But, I have a feeling that Kyubey wouldn't lie about@that though...
+    textLeft: But, I don't think that Kyubey would lie about that...
   - chara:
     - id: 810100
       motion: 0
@@ -97,14 +97,15 @@ story:
       id: 101500
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-10
     nameRight: Ui
-    textRight: Various reactions from [textYellow:Kimochi]...
+    textRight: Reactions from all of the [textYellow:Kimochi]...
   - chara:
     - eyeClose: 1
       id: 101500
       motion: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-11
     nameRight: Ui
-    textRight: I can feel the magical power of every [textYellow:Kimochi] in this@labyrinth...
+    textRight: I can feel the magical power of each and@every [textYellow:Kimochi]
+      here in this Labyrinth...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -114,14 +115,14 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-12
     nameLeft: Yuna
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - id: 102100
       lipSynch: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-13
     nameLeft: Yuna
     textLeft: If what Ui Tamaki says is true,@does this mean the [textYellow:Kimochi]
-      are coming out?
+      are emerging?
   - chara:
     - cheek: -1
       face: mtn_ex_030.exp3.json
@@ -130,7 +131,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-14
     nameRight: Ao
-    textRight: '...Maybe something happened once we collected@all eight.'
+    textRight: '...Maybe something is happening now@that we''ve collected all eight.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -190,7 +191,7 @@ story:
       zOrder: bgFront
     turnChangeIn: whiteIn
   - nameNarration: Momoko
-    narration: ―Momoko―@These gems,@are these the [textYellow:Kimochi] stones...?
+    narration: ―Momoko―@These gems,@are they the [textYellow:Kimochi] Stones...?
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -206,7 +207,7 @@ story:
     narration: ＿―￣￣＿＿＿―＿
   - narration: ――＿￣＿＿￣￣―
   - nameNarration: Kaede
-    narration: ―Kaede―@Fuyu... There's so many different voices blending together...@It's
+    narration: ―Kaede―@Whoa... There's so many different voices blending together...@It's
       creeping me out...
     voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-23
   - nameNarration: Mitama
@@ -235,7 +236,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-28
     nameCenter: Ui
-    textCenter: Hey, all of you [textYellow:Kimochi]! Calm down!
+    textCenter: Hey, all of you [textYellow:Kimochi]!@Calm down!
   - chara:
     - id: 101500
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-29
@@ -247,7 +248,7 @@ story:
       motion: 0
     textClear: 1
   - nameNarration: ""
-    narration: …＿――@――￣￣￣＿
+    narration: '...＿――@――￣￣￣＿'
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -272,11 +273,11 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-32
     nameCenter: Ui
-    textCenter: …………
+    textCenter: '...'
   - autoTurnLast: 0.1
     textClear: 1
   - nameNarration: ""
-    narration: ＿＿＿￣￣￣―――＿＿…
+    narration: ＿＿＿￣￣￣―――＿＿...
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -299,9 +300,9 @@ story:
   - chara:
     - id: 101500
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-35
-    narration: However, you Magical Girls are now grouped together@by purpose, and
+    narration: However, you Magical Girls are now grouped@together by purpose, and
       not as individuals.@Furthermore, until now you had been searching for us,@but
-      we have forseen that there would be conflict.
+      we have foreseen that there would be conflict.
   - chara:
     - id: 101500
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-36
@@ -317,7 +318,7 @@ story:
     - id: 101500
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-38
     narration: If those who our rules do not apply to@try to fight or take actions
-      against this matter,@we will take measures to separate them@into another labyrinth.
+      against this matter,@we will take measures to separate them@into another Labyrinth.
   - autoTurnLast: 0.01
     bg: bg_adv_24031.jpg
     chara:
@@ -344,7 +345,7 @@ story:
       id: 101500
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-40
     nameCenter: Ui
-    textCenter: This is Eve's judgement...
+    textCenter: This is Eve's judgment...
   - autoTurnLast: 0.1
     bgm: stop
     textClear: 1
@@ -379,14 +380,14 @@ story:
       motion: 0
       pos: 2
     nameLeft: Yachiyo
-    textLeft: You mean they were balancing out our@capabilities...?
+    textLeft: Does this mean they chose candidates@to balance out our capabilities?
   - chara:
     - id: 100300
       motion: 101
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-43
     nameRight: Tsuruno
-    textRight: Now I really feel like we're being toyed with,@but I think we might
-      be saved now.
+    textRight: It feels like we're being toyed with,@but this also might have saved
+      us just now.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -407,14 +408,14 @@ story:
       motion: 0
       pos: 0
     nameRight: Yuna
-    textRight: '...You...are really lucky.'
+    textRight: '...You...are truly lucky.'
   - chara:
     - id: 102400
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-45
     nameLeft: Juri
     textLeft: Just as we got all of that set up, I get contacted@that everyone's been
-      swallowed by that barrier.
+      swallowed by that Labyrinth.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -433,7 +434,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-47
     nameRight: Sakuya
-    textRight: All of that preparation just for our killing move to backfire. What
+    textRight: All of that preparation just for our killing move to@backfire. What
       a waste of effort and money.
   - chara:
     - cheek: 0
@@ -466,17 +467,17 @@ story:
       pos: 2
     flashEffect: flashWhiteSlow2
     nameLeft: Juri
-    textLeft: How sickening...
+    textLeft: It makes me sick...
   - chara:
     - id: 102100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-50
     nameRight: Yuna
-    textRight: Second sister, calm yourself...
+    textRight: Second Sister, calm yourself...
   - chara:
     - id: 102100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-51
     nameRight: Yuna
-    textRight: The first thing we must do is find out@who was chosen.
+    textRight: The first thing we must do is@find out who was chosen.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -485,7 +486,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-52
     nameLeft: Juri
-    textLeft: '...So we''re done today?'
+    textLeft: '...So we''re done for the day?'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -494,12 +495,12 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-53
     nameRight: Sakuya
-    textRight: Then, I will take Hikaru and the third sister to the Traveling Coordinators...
+    textRight: Then, I will take Hikaru and our Third@Sister to the traveling Coordinators...
   - chara:
     - id: 302100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-54
     nameRight: Sakuya
-    textRight: so we can heal any injuries we can.
+    textRight: so we can heal all the injuries we can.
   - bgm: bgm24_story07
     chara:
     - cheek: 1
@@ -528,7 +529,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-57
     nameRight: Kanagi
-    textRight: You can't...Ikumi...
+    textRight: You can't...Makino...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -546,7 +547,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-59
     nameLeft: Ikumi
-    textLeft: …………
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp3.json
@@ -556,7 +557,7 @@ story:
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-60
     nameRight: Juri
     textRight: If you go down that path, you're gonna wind up@just like her sooner
-      than you think.
+      than you can imagine.
   - chara:
     - id: 102400
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-61
@@ -599,7 +600,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Ranka
-    textLeft: It's only natural for friends to become enemies in Futatsugi...
+    textLeft: It's only natural for friends to@become enemies in Futatsugi...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -639,7 +640,8 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-65
     nameLeft: Ranka
-    textLeft: If possible, it would be safer to work together@with other Magical Girls...
+    textLeft: If that’s possible, it’d be a lotta help if I@could work with other
+      Magical Girls…
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
@@ -649,20 +651,20 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-66
     nameRight: Momoko
-    textRight: In that case, if you ever find yourself in trouble,@give us a call.
+    textRight: Then, all the more, call us if you need us.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101001
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-67
-    textRight: We'll help ya.
+    textRight: We’ll be there for you.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 304401
       motion: 100
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-68
-    textLeft: You're a lifesaver.
+    textLeft: Thanks a lot.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -671,7 +673,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-69
     nameRight: Rena
-    textRight: Oh, why don't you come join the@"Kamihama Magia Union", Ranka?
+    textRight: Oh, why don't you join the@Kamihama Magia Union, Ranka?
   - autoTurnLast: 1
     bg: bg_adv_17213.jpg
     chara:
@@ -690,7 +692,7 @@ story:
       tear: 1
       voiceFullAuto: fullvoice/section_102504/vo_full_102504-11-70
     nameCenter: Rena
-    textCenter: …………
+    textCenter: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 2
     bgm: stop

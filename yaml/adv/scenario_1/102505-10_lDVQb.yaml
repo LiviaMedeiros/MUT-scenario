@@ -24,20 +24,20 @@ story:
       motion: 0
       pos: 2
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-2
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: Oh...
   - chara:
     - id: 103701
       lipSynch: 0
     nameLeft: Nayuta
-    textLeft: …………[wait:1.0][chara:103701:cheek_0][chara:103701:motion_300][chara:103701:lipSynch_1]Um,
-      it's been...a long time...
+    textLeft: '...[wait:1.0][chara:103701:lipSynch_1][chara:103701:voiceFull_fullvoice/section_102505/vo_full_102505-10-3][chara:103701:cheek_0][chara:103701:motion_300]Um,
+      it''s been...a long time...'
   - chara:
     - id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-4
       voiceFullStop: fullvoice/section_102505/vo_full_102505-10-3
-    nameRight: Nayuta's mother
-    textRight: It really has been a long time.@Are you doing well?
+    nameRight: Nayuta's Mother
+    textRight: It really has been a while.@How are you doing?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -45,13 +45,12 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-5
     nameLeft: Nayuta
-    textLeft: Yes, I'm doing well in school, and I don't have any particular health
-      problems...
+    textLeft: I'm doing well in school, and I'm in good health...
   - chara:
     - id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-6
-    nameRight: Nayuta's mother
-    textRight: And Papa?
+    nameRight: Nayuta's Mother
+    textRight: And how's your Papa?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -59,7 +58,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-7
     nameLeft: Nayuta
-    textLeft: …………
+    textLeft: '...'
   - bgm: bgm03_story12
     chara:
     - id: 103701
@@ -67,23 +66,24 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-8
     nameLeft: Nayuta
-    textLeft: You want me to say it even though you already@know? How much do you
-      know?
+    textLeft: You want me to say it even though you already@know? How much have you
+      heard?
   - chara:
     - id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-9
-    nameRight: Nayuta's mother
-    textRight: '...You''re right, I heard everything from my brother-in-law.'
+    nameRight: Nayuta's Mother
+    textRight: '...You''re right, I heard everything@from my brother-in-law.'
   - chara:
     - id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-10
-    nameRight: Nayuta's mother
-    textRight: You wanted to meet me because you're looking for Papa,
+    nameRight: Nayuta's Mother
+    textRight: You wanted to meet me because@you're looking for Papa,
   - chara:
     - id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-11
-    nameRight: Nayuta's mother
-    textRight: so you wanted the information I've gathered@about where Papa is, right...?
+    nameRight: Nayuta's Mother
+    textRight: so you want the information I've gathered@about where Papa is, is that
+      right...?
   - chara:
     - cheek: 1
       eyeClose: 1
@@ -91,38 +91,38 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-12
     nameLeft: Nayuta
-    textLeft: That's right...@Really, I'm sorry...
+    textLeft: That's right...@I'm truly sorry...
   - chara:
     - id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-13
-    nameRight: Nayuta's mother
-    textRight: Why are you apologizing?
+    nameRight: Nayuta's Mother
+    textRight: What are you apologizing for?
   - chara:
     - eyeClose: 0
       id: 103701
       motion: 100
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-14
     nameLeft: Nayuta
-    textLeft: Because, Mama has been thinking about me while searching for Papa.
+    textLeft: Because, Mama, you've been thinking@about me while searching for Papa,
   - chara:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-15
     nameLeft: Nayuta
-    textLeft: The reason I wanted the information is...
+    textLeft: but the reason that I want the information is...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-16
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: I can see Papa in your eyes.@They haven't changed since way back then.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-17
-    nameRight: Nayuta's mother
-    textRight: It's my fault that I couldn't be the mother that you wanted me to be.
+    nameRight: Nayuta's Mother
+    textRight: It's my fault that I couldn't be the mother@that you wanted me to be.
   - chara:
     - id: 103701
       motion: 400
@@ -132,20 +132,20 @@ story:
   - chara:
     - id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-19
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: Adults shouldn't demand love from their children.
   - chara:
     - id: 103701
       motion: 300
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-20
     nameLeft: Nayuta
-    textLeft: But, doesn't your daughter make you angry?@Now that I'm here shamelessly
+    textLeft: But, doesn't your daughter make you angry? Now@that I'm here shamelessly
       face-to-face with you...
   - chara:
     - id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-21
-    nameRight: Nayuta's mother
-    textRight: I'm not saying it's zero, but I am also sad.
+    nameRight: Nayuta's Mother
+    textRight: I'm won't say I don't feel that way a little,@and I do have some grief...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -153,21 +153,20 @@ story:
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-22
     - id: 103701
       motion: 0
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: However, that doesn't change the fact that@you are my daughter, Nayuta.
   - chara:
     - id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-23
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: I suppose I'm doing this because I still love you...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-24
-    nameRight: Nayuta's mother
-    textRight: Do you still hate Mama, Nayuta?@Why don't you open up and just tell
-      me?
+    nameRight: Nayuta's Mother
+    textRight: Do you still hate me, Nayuta?@Why don't you open up and just tell me?
   - chara:
     - id: 103701
       motion: 100
@@ -178,8 +177,7 @@ story:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-26
     nameLeft: Nayuta
-    textLeft: But after thinking about what Uncle has told me,@there is something
-      that I learned...
+    textLeft: But in thinking about Uncle's words to me,@I realized something...
   - chara:
     - id: 103701
       motion: 1
@@ -191,7 +189,7 @@ story:
       face: mtn_ex_050.exp3.json
       id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-28
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: Why...?
   - chara:
     - id: 103701
@@ -203,44 +201,44 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-30
     nameLeft: Nayuta
-    textLeft: However, the feeling that Mama had disappeared...
+    textLeft: However, the feeling of Mama@disappearing from my life...
   - chara:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-31
     nameLeft: Nayuta
-    textLeft: has always blown through me like a draft...
+    textLeft: It's always blown through me like@a draft that can't be sealed.
   - chara:
     - id: 103701
       motion: 0
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-32
     nameLeft: Nayuta
-    textLeft: As my room would get bigger,@there was always a gap in my heart.
+    textLeft: As my room would get bigger,@there was always that gap in my heart.
   - chara:
     - cheek: 2
       id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-33
     nameLeft: Nayuta
-    textLeft: Knowing that Mama didn't even fight to keep me@after breaking up...
+    textLeft: Knowing that you didn't even fight@to keep me when you left...
   - chara:
     - eyeClose: 1
       id: 103701
       motion: 400
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-34
     nameLeft: Nayuta
-    textLeft: made me want to scratch at that space until it was completely erased.
+    textLeft: It made that gap itch.@I wanted to make it go away.
   - bgm: stop
     chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-35
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: I'm sorry I made you feel that way...
   - bgm: bgm03_story05
     chara:
     - id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-36
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: In the end, I said things that tested your love...
   - chara:
     - eyeClose: 0
@@ -260,26 +258,26 @@ story:
     - id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-39
     nameLeft: Nayuta
-    textLeft: do you think the three of us could have been@a family...?
+    textLeft: do you think the three of us could@have kept being a family...?
   - chara:
     - id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-40
-    nameRight: Nayuta's mother
-    textRight: It may have been possible, but talking about what@has already passed
-      us won't bring it back.
+    nameRight: Nayuta's Mother
+    textRight: It may have been possible, but talking about@what's already passed
+      won't bring it back.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-41
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: Though it does make for a brighter future.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-42
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: I still don't know why I ever changed, though...
   - chara:
     - id: 103701
@@ -292,7 +290,7 @@ story:
       face: mtn_ex_050.exp3.json
       id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-44
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: Do you know?
   - chara:
     - eyeClose: 1
@@ -305,7 +303,7 @@ story:
       face: mtn_ex_030.exp3.json
       id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-46
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: It's because of a Magical Girl's wish, right?
   - chara:
     - cheek: 0
@@ -315,12 +313,12 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-47
     nameLeft: Nayuta
-    textLeft: '[chara:103701:effect_emotion_surprise_0][se:7226_shock]!?'
+    textLeft: '[chara:103701:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-48
-    nameRight: Nayuta's mother
-    textRight: Well, that's fine, just take this with you.
+    nameRight: Nayuta's Mother
+    textRight: Well, that's fine.@Just take this with you.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -328,11 +326,11 @@ story:
       lipSynch: 1
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-49
     nameLeft: Nayuta
-    textLeft: This isー
+    textLeft: This is―
   - chara:
     - id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-50
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: It's what you wanted. I hope it gives you a lead.
   - chara:
     - cheek: 1
@@ -348,7 +346,7 @@ story:
       face: mtn_ex_011.exp3.json
       id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-52
-    nameRight: Nayuta's mother
+    nameRight: Nayuta's Mother
     textRight: It's nothing.
   - chara:
     - cheek: 0
@@ -356,7 +354,7 @@ story:
       id: 103701
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-53
     nameLeft: Nayuta
-    textLeft: I hope that one day the three of us@could live together again.
+    textLeft: I hope that one day the three of us@might live together again.
   - bgm: stop
     chara:
     - cheek: 0
@@ -367,15 +365,15 @@ story:
       face: mtn_ex_050.exp3.json
       id: 103701
       motion: 0
-    nameRight: Nayuta's mother
-    textRight: I don't think so.
+    nameRight: Nayuta's Mother
+    textRight: I don't think that'll happen.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 800600
       voiceFullAuto: fullvoice/section_102505/vo_full_102505-10-55
-    nameRight: Nayuta's mother
-    textRight: Though I do think I can take you away from Papa.
+    nameRight: Nayuta's Mother
+    textRight: Though perhaps I might snag you away from Papa.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

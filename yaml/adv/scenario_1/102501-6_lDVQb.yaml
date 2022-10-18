@@ -60,8 +60,7 @@ story:
       voiceFull: fullvoice/section_102501/vo_full_102501-6-6
     enableSkipAutoTurn: 1
     nameRight: Felicia
-    textRight: Ohh, I'm bein' careless,[chara:100502:lipSynch_0][wait:0.8][chara:100502:cheek_0][chara:100502:face_mtn_ex_010.exp.json][chara:100502:lipSynch_1]@I
-      don't wanna get cavities.
+    textRight: Ohh, I'm bein' careless,@I don't wanna get cavities.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -94,13 +93,13 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-8
     nameLeft: Yachiyo
-    textLeft: It's concerning, but our opponents probably need@time to think on it.
+    textLeft: It's concerning, but our opponents probably@need time to think on it.
   - chara:
     - id: 100202
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-9
     nameLeft: Yachiyo
-    textLeft: Besides, if it ends up getting too late,@they can always talk to her
-      at school tomorrow.
+    textLeft: Besides, if it ends up getting too late,@we can always talk to her at
+      school tomorrow.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -109,7 +108,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-10
     nameRight: Sana
-    textRight: I see, Tsuruno is in the same high school,@so it should be okay...
+    textRight: I see, Tsuruno goes to the same high school,@so it should be okay...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -130,14 +129,14 @@ story:
       motion: 0
       pos: 0
     nameRight: Ui
-    textRight: I hope everyone can get along like this. Right, Sis?
+    textRight: I hope everyone can get along like this.@Right, Sis?
   - chara:
     - id: 100104
       motion: 301
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-12
     nameLeft: Iroha
     textLeft: But what should I do about the compensation@that Kanagi was talking
-      about...
+      about...?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -149,7 +148,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-13
     nameRight: Nemu
-    textRight: If you try negotiating as things are, it's evident that@the whole thing
+    textRight: If you try negotiating as things are, it's evident@that the whole thing
       will break apart.
   - chara:
     - cheek: 0
@@ -168,20 +167,19 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-15
     nameLeft: Ui
-    textLeft: Because there's no compensation...?
+    textLeft: Because we don't have any compensation...?
   - chara:
     - id: 101470
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-16
     nameRight: Nemu
-    textRight: Right, we need to convert all of that accumulated malice into something
-      appealing enough...
+    textRight: Right, we need something appealing enough to@sublimate all of that
+      accumulated malice,
   - chara:
     - id: 101470
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-17
     nameRight: Nemu
-    textRight: in order for them to alter their course,@which is something we don't
-      have.
+    textRight: in order for them to alter their course.
   - chara:
     - id: 101470
       motion: 300
@@ -244,7 +242,7 @@ story:
       voiceFull: fullvoice/section_102501/vo_full_102501-6-24
     enableSkipAutoTurn: 1
     nameRight: Nemu
-    textRight: It's a secret until the day comes *chuckle*
+    textRight: It's a secret until the day comes.@*Chuckle*
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -268,7 +266,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-26
     nameLeft: Iroha
-    textLeft: Uh, sure... but won't you be in danger...?
+    textLeft: Uh, sure...but won't you be in danger...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -277,8 +275,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-27
     nameLeft: Yachiyo
-    textLeft: They may already bear a grudge against us,@can you try to not anger
-      them further...?
+    textLeft: They're already bearing a grudge,@so can you try to not anger them further...?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -299,7 +296,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-29
     nameRight: Nemu
-    textRight: You can rest easy,@we have no intention of causing problems.
+    textRight: You can rest easy, we have no@intention of causing problems.
   - chara:
     - cheek: 1
       eyeClose: 1
@@ -357,7 +354,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-33
     nameCenter: Eternal Sakura
-    textCenter: ｜…………｜
+    textCenter: '| ... |'
   - autoTurnLast: 0.2
     chara:
     - id: 304302
@@ -380,31 +377,31 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-35
     nameRight: Eternal Sakura
-    textRight: ｜…………｜
+    textRight: '| ... |'
   - bgm: bgm01_anime02
     chara:
     - id: 101470
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-36
     nameLeft: Nemu
-    textLeft: How unusual, are you thinking about something?
+    textLeft: How unusual. Are you thinking about something?
   - chara:
     - id: 304302
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-37
     nameRight: Eternal Sakura
-    textRight: ｜ Yes, about how to live, and about my life. ｜
+    textRight: '| Yes, about how to live, and about my life. |'
   - chara:
     - id: 304302
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-38
     nameRight: Eternal Sakura
-    textRight: ｜ However, I just arrived at my answer. ｜
+    textRight: '| However, I just arrived at my answer. |'
   - chara:
     - id: 101470
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-39
     nameLeft: Nemu
-    textLeft: And the answer is?
+    textLeft: And your answer is?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -413,13 +410,13 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-40
     nameRight: Eternal Sakura
-    textRight: ｜ I live for you four girls. ｜
+    textRight: '| I live for you four girls. |'
   - chara:
     - id: 304302
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-41
     nameRight: Eternal Sakura
-    textRight: ｜ Though, I also want to leave a mark of my life@in everyone's hearts.
-      ｜
+    textRight: '| Though, I also want to leave a mark@of my life in everyone''s hearts.
+      |'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -427,7 +424,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-42
     nameLeft: Nemu
-    textLeft: (Uwasa...what incredibly mysterious beings.)
+    textLeft: (Uwasa...what marvelous beings.)
     turnEffect: thinking
   - chara:
     - eyeClose: 1
@@ -436,7 +433,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-43
     nameLeft: Nemu
-    textLeft: (She has changed in a way that is irrelevant to her storyline...)
+    textLeft: (She has changed in a way that is@irrelevant to her storyline...)
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -445,7 +442,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-44
     nameRight: Eternal Sakura
-    textRight: ｜ Nemu, are you happy? ｜
+    textRight: '| Nemu, are you happy? |'
     turnEffect: stop
   - chara:
     - eyeClose: 0
@@ -454,19 +451,20 @@ story:
       motion: 100
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-45
     nameLeft: Nemu
-    textLeft: Seeing Sakurako think about various things,@it feels like you've grown.
+    textLeft: Seeing you contemplate various things,@Sakurako, it feels like you've
+      grown.
   - chara:
     - id: 304302
       motion: 1
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-46
     nameRight: Eternal Sakura
-    textRight: ｜ Grown? ｜
+    textRight: '| Grown? |'
   - chara:
     - id: 101470
       motion: 200
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-47
     nameLeft: Nemu
-    textLeft: Like the Rumor of Anonー@...like Ai was.
+    textLeft: Like the Rumor of Anon―@...like Ai was.
   - chara:
     - id: 101470
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-48
@@ -496,7 +494,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-51
     nameLeft: Nemu
-    textLeft: (No, Kagome Satori,@and Touka's older cousin Nayuta Satomi too.)
+    textLeft: (No, Kagome Satori, and Touka's@older cousin Nayuta Satomi too.)
   - chara:
     - eyeClose: 0
       id: 101470
@@ -504,7 +502,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-52
     nameLeft: Nemu
-    textLeft: My intention to atone will create more sin,@there's no running away,
+    textLeft: My intention to atone will create more sin.@There's no running away,
       at all...
     turnEffect: stop
   - autoTurnLast: 1
@@ -524,7 +522,7 @@ story:
       face: mtn_ex_050.exp3.json
       id: 304302
     nameLeft: Nemu
-    textLeft: This magic...!?
+    textLeft: This magic...?!
   - autoTurnLast: 0.5
     flashEffect: flashWhite2
     textClear: 1
@@ -615,7 +613,7 @@ story:
       id: 101470
     - effect: fadeout
       id: 304302
-  - nameCenter: Juri's voice
+  - nameCenter: Juri's Voice
     textCenter: Phew, it woulda been bad if I got the wrong house,
     voiceFullAuto: fullvoice/section_102501/vo_full_102501-6-55
   - autoTurnFirst: 2.3
@@ -627,7 +625,7 @@ story:
       pos: 1
       voiceFull: fullvoice/section_102501/vo_full_102501-6-56
     nameCenter: Juri
-    textCenter: but this is a real nice bingo.[chara:102400:lipSynch_0][wait:0.8][chara:102400:cheek_0][chara:102400:face_mtn_ex_012.exp.json][chara:102400:lipSynch_1]@*Grin*
+    textCenter: but this is a real nice bingo.@*Grin*
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp3.json

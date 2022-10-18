@@ -234,7 +234,7 @@ story:
     - id: 102600
       voiceFull: fullvoice/section_event_1068/vo_full_506882-82-24
       voiceFullStop: fullvoice/section_event_1068/vo_full_506882-82-23
-    textRight: It hasn't been long since I met with Shizuka-chan and Sunao-chan,
+    textRight: It hasn't been long since I met with Shizuka and Sunao,
   - chara:
     - id: 102600
       motion: 200
@@ -364,7 +364,7 @@ story:
     voiceFull: fullvoice/section_event_1068/vo_full_506882-82-39
     voiceFullStop: fullvoice/section_event_1068/vo_full_506882-82-38
   - nameNarration: Chiharu
-    narration: ―Chiharu―@That's our Shizuka-chan!
+    narration: ―Chiharu―@That's our Shizuka!
     voiceFull: fullvoice/section_event_1068/vo_full_506882-82-40
     voiceFullStop: fullvoice/section_event_1068/vo_full_506882-82-39
   - nameNarration: Sunao
