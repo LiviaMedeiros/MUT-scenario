@@ -23,7 +23,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-1
     nameCenter: Alexandra
-    textCenter: '.....'
+    textCenter: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -80,7 +80,8 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-5
     nameCenter: Himena
-    textCenter: (They're more focused than we thought, like they're@going for a one-shot...?)
+    textCenter: (They're more focused than we thought, like@they're trying to take
+      us out in one blow...?)
   - autoTurnLast: 0.01
     item:
     - action:
@@ -128,7 +129,7 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-7
     nameCenter: Himena
-    textCenter: ――gh?!
+    textCenter: ―gh?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -160,14 +161,14 @@ story:
       id: 102600
       motion: 0
       pos: 1
-    nameRight: Ryouko
-    textRight: If we hadn't lost the family's [textYellow:Kimochi] stone, we@wouldn't
-      have to be doin' this.
+    nameRight: Ryoko
+    textRight: If you hadn't taken the [textYellow:Kimochi] Stone,@we wouldn't be
+      havin' to do this.
   - chara:
     - id: 304700
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-10
     nameLeft: Chika
-    textLeft: I don't wish to fight, but you're too dangerous if left alone.
+    textLeft: I don't wish to fight, but you're@too dangerous to be left alone.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -176,14 +177,14 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-11
     nameCenter: Chiharu
-    textCenter: It's time for you to leave. I'm going to exterminate@the source of
-      all of this evil!
+    textCenter: It's time for you to leave the stage.@I'm going to rip out this evil
+      at its source!
   - chara:
     - id: 102600
       motion: 100
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-12
     nameCenter: Chiharu
-    textCenter: This is the only way we can end this with as little@damage as possible!
+    textCenter: This is the only way we can end this@with as little damage as possible!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -225,7 +226,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-13
     nameLeft: Himena
-    textLeft: Kyaha★ You can't just call me evil!
+    textLeft: Kyaha★@You can't just call me evil!
   - chara:
     - id: 102600
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-14
@@ -238,7 +239,7 @@ story:
     flashEffect: flashWhiteSlow1
     nameRight: Chiharu
     se: 7211_souljem_02
-    textRight: That laughs while hurting the defenseless!
+    textRight: '...that laughs while hurting the defenseless!'
   - chara:
     - cheek: 0
       effect: shake
@@ -272,20 +273,20 @@ story:
       motion: 0
       pos: 2
     nameLeft: Chika
-    textLeft: Ryouko, while we have a chance!
+    textLeft: Ryoko, while we have a chance!
   - chara:
     - id: 305800
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-18
-    nameRight: Ryouko
-    textRight: You're gonna repent in hell. Though, I'll leave the@judgment to the
+    nameRight: Ryoko
+    textRight: You're gonna repent in hell. Though, I'll@leave the judgment to the
       Ten Kings.
   - chara:
     - id: 304700
       motion: 100
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-19
     nameLeft: Chika
-    textLeft: You guys as well!
+    textLeft: You girls as well!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -313,7 +314,7 @@ story:
   - bgm: stop
     flashEffect: flashWhiteSlow2
     nameNarration: ""
-    narration: ～～♪～～♪
+    narration: ~~♪~~♪
     narrationBg: ""
     narrationCoverOpacity: 80
     narrationEffect: in
@@ -329,7 +330,7 @@ story:
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-22
     nameLeft: ""
     surround: stop
-    textLeft: Wha-...
+    textLeft: Wha―...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -338,7 +339,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-23
     nameRight: ""
-    textRight: This...is the same as back at the container terminal...
+    textRight: This...is the same as back at the cargo port...
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -347,7 +348,7 @@ story:
       motion: 300
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-24
-    nameLeft: Ryouko
+    nameLeft: Ryoko
     textLeft: So you had a buddy with you...
   - autoTurnLast: 0.2
     chara:
@@ -369,7 +370,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Alexandra
-    textRight: Once you hear this pleasant tone, you don't feel like@fighting anymore,
+    textRight: Once you hear this pleasant tone, you don't@feel like fighting anymore,
       do you♪
   - chara:
     - cheek: 0
@@ -378,7 +379,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-26
     nameRight: Alexandra
-    textRight: Uhuhu♪
+    textRight: '*Giggle*♪'
   - bgm: bgm23_magus01
     chara:
     - id: 102800
@@ -394,7 +395,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-28
     nameRight: Chiharu
-    textRight: What...did you just say...!? There's no way I'm@going to stop...!
+    textRight: What...did you just say...?!@There's no way I'm going to stop...!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -408,7 +409,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-30
     nameRight: Chiharu
-    textRight: I can't sense any evil coming from you,
+    textRight: I can't sense any malice coming from you.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -417,8 +418,8 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-31
     nameRight: Chiharu
-    textRight: And there's nothing more dangerous than someone@that hurts without
-      evil...!
+    textRight: And there's nothing more dangerous than@someone that hurts others without
+      malice...!
   - chara:
     - cheek: 0
       effect: shake
@@ -436,13 +437,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-33
     nameLeft: Himena
-    textLeft: Boo hoo, and here we thought we could get along@with you.
+    textLeft: Boo hoo, and here I thought@we could get along with you.
   - chara:
     - id: 102600
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-34
     nameRight: Chiharu
-    textRight: You were saying that the Tokime clan and Neo@Magius are similar, weren't
+    textRight: You were saying that the Tokime Clan and@Neo-Magius are similar, weren't
       you...?
   - chara:
     - cheek: 0
@@ -466,8 +467,8 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-37
     nameLeft: Himena
-    textLeft: You say you're different - that you're blades of the@land of the rising
-      sun.
+    textLeft: You say you're different―@that you're blades of the Land of the Rising
+      Sun.
   - chara:
     - id: 102600
       motion: 1
@@ -481,7 +482,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-39
     nameRight: Chiharu
-    textRight: You and I have completely different foundations@for what we think...!
+    textRight: You and I have completely different@foundations for what we think...!
   - chara:
     - id: 102800
       motion: 0
@@ -503,9 +504,9 @@ story:
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-42
     nameNarration: Himena
     narration: If Magical Girls are the ones protecting people,@if we're the ones
-      fighting witches,@and if we're the ones that make wishes@that have advanced
+      fighting Witches,@and if we're the ones that make wishes@that have advanced
       humanity,@does that not prove that Magical Girls exist@as "beings superior to
-      humans?"
+      humans"?
     narrationBg: ""
     narrationEffect: in
   - chara:
@@ -513,20 +514,20 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-43
     narration: Right now we exist in such a shitty@little condition that we all end
-      in despair.@But once we surpass that, us cuties will be@the "top of the food
-      chain" and@have nothing left to fear.
+      in despair.@But once we get past that, us cuties will be@the top of the food
+      chain and@have nothing left to fear.
   - chara:
     - id: 102800
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-44
-    narration: Entertainers - athletes - cultural icons - we@deserve to be bowed to
-      more than any of these@adored people.
+    narration: Entertainers―athletes―cultural icons―@we deserve to be bowed to more
+      than any@of these adored people.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 102800
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-45
-    narration: Because we are the "new generation of humans."
+    narration: Because we're the@new generation of humans.
   - autoTurnLast: 0.1
     narrationEffect: out
   - chara:
@@ -534,7 +535,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-46
     nameRight: Chiharu
-    textRight: '.....'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -542,12 +543,12 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-47
     nameLeft: Himena
-    textLeft: Join us cuties in getting the auto puri sys.
+    textLeft: Join us cuties in acquiring the auto puri sys.
   - chara:
     - id: 102800
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-48
     nameLeft: Himena
-    textLeft: We'll never have witches,
+    textLeft: We'll never have Witches,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -556,8 +557,8 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-49
     nameLeft: Himena
-    textLeft: And we'll be at the top of the world rebuilding@society with a new set
-      of rules.
+    textLeft: and we'll be at the top of the world, rebuilding@society with a new
+      set of rules.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -580,7 +581,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-52
     nameLeft: Himena
-    textLeft: '.....'
+    textLeft: '...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -600,7 +601,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-53
     nameCenter: ""
-    textCenter: '.....'
+    textCenter: '...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -626,7 +627,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-54
     nameCenter: Himena
-    textCenter: '...So that''s how it goes. Guess we just give up.'
+    textCenter: '...So that''s how it goes.@Guess we just give up.'
   - autoTurnLast: 0.2
     chara:
     - id: 102800
@@ -648,7 +649,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-56
     nameLeft: Himena
-    textLeft: Go ahead and let them back. Thanks, Sasha...
+    textLeft: It's about to get rough.@Thanks, Sasha...
   - bgm: stop
     nameNarration: ""
     narration: '*Strum...♪*'
@@ -663,7 +664,7 @@ story:
       motion: 0
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-9-58
-    nameRight: Ryouko
+    nameRight: Ryoko
     textRight: Aren't ya glad ya gave up?
   - chara:
     - cheek: 0

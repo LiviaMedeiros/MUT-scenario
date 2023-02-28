@@ -1,18 +1,21 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_14042.jpg
-    bgm: bgm03_story07
+  - autoTurnLast: 0.4
+    bg: bg_adv_14042.jpg
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 302502
-      lipSynch: 0
       motion: 0
       pos: 1
+    turnChangeIn: fadeIn
+  - bgm: bgm03_story07
+    chara:
+    - id: 302502
+      lipSynch: 0
     nameCenter: Ren
     textCenter: …
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - nameNarration: Narration
     narration: World Teddy Bear Collection@-Teddy Bear Exhibition-
@@ -28,6 +31,7 @@ story:
     textCenter: (...A teddy bear exhibition, huh...)
     turnEffect: thinking
   - autoTurnLast: 0.01
+    bg: white
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -36,34 +40,33 @@ story:
       pos: 1
     turnChangeIn: fadeIn
     turnEffect: stop
-  - bg: bg_adv_21073.jpg
-    chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 303101
+  - chara:
+    - id: 303101
       motion: 200
-    nameCenter: Rika
-    textCenter: I'm so sorry! I already have plans that day,@so I can't make it.
+    nameNarration: Rika
+    narration: I'm so sorry! I already have plans that day,@so I can't make it.
+    narrationBg: narration
+    narrationEffect: in
     turnChangeOut: fadeOut
-    turnEffect: blackFrame
-  - bg: bg_adv_14042.jpg
+  - autoTurnLast: 0.01
+    bg: bg_adv_14042.jpg
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302502
       motion: 0
       pos: 1
-    nameNarration: Ren
+    narrationEffect: out
+    turnChangeIn: fadeIn
+  - nameNarration: Ren
     narration: Our schedules didn't match, so she@couldn't go to the exhibit with
       me.
-    narrationBg: bg_adv_21073.jpg
+    narrationBg: bg_adv_narration.jpg
     narrationEffect: in
-    turnEffect: stop
+    turnChangeOut: fadeOut
   - narration: We haven't hung out much@since then.
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 302502
+    - id: 302502
       lipSynch: 0
       motion: 300
     nameCenter: Ren
@@ -71,9 +74,10 @@ story:
     textCenter: (We haven't gotten together lately...)
     turnEffect: thinking
   - autoTurnLast: 0.01
+    bg: bg_adv_21031.jpg
     chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
+    - cheek: 1
+      face: mtn_ex_011.exp.json
       id: 303101
       motion: 0
       pos: 0
@@ -84,11 +88,8 @@ story:
       pos: 2
     turnChangeIn: fadeIn
     turnEffect: stop
-  - bg: bg_adv_21031.jpg
-    chara:
-    - cheek: 1
-      face: mtn_ex_011.exp.json
-      id: 303101
+  - chara:
+    - id: 303101
       motion: 200
     nameLeft: Rika
     nameRight: Ren
@@ -97,7 +98,6 @@ story:
     turnEffect: blackFrame
   - chara:
     - cheek: 1
-      face: mtn_ex_010.exp.json
       id: 302501
       motion: 100
     textRight: Hee hee...@You like bears?
@@ -110,27 +110,22 @@ story:
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_001.exp.json
       id: 302502
-      motion: 0
+      motion: 1
       pos: 1
     turnChangeIn: fadeIn
     turnEffect: stop
   - bg: bg_adv_14042.jpg
     chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 302502
+    - id: 302502
       lipSynch: 0
-      motion: 1
     nameCenter: Ren
     textCenter: (Rika...@I wonder if she likes teddy bears...)
     turnChangeOut: fadeOut
     turnEffect: thinking
   - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 302502
+    - id: 302502
       lipSynch: 0
     textCenter: …
     turnEffect: stop
@@ -151,10 +146,10 @@ story:
       at the art@museum in the Chuo district on Sunday.@Wanna go?'
     narrationBg: bg_adv_14042.jpg
     narrationEffect: in
+    narrationHAlignment: left
+    narrationPosX: 180
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 302502
+    - id: 302502
       lipSynch: 0
     narrationEffect: out
     textCenter: (I hope she doesn't think I'm being@too pushy...)
@@ -177,18 +172,18 @@ story:
       so I won''t@be able to hang out for a while...! (>_<)'
     narrationBg: bg_adv_14042.jpg
     narrationEffect: in
+    narrationHAlignment: left
+    narrationPosX: 180
     turnEffect: stop
   - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 302502
+    - id: 302502
       lipSynch: 0
     narrationEffect: out
     textCenter: …
   - nameNarration: Ren
     narration: I'll be honest...@I was so shocked that I thought I@might just collapse
       right on the spot...
-    narrationBg: bg_adv_14042.jpg
+    narrationBg: bg_adv_narration.jpg
     narrationEffect: in
   - narration: Extra classes?@Extra classes!@Nothing I can do about that...@But still...
   - narration: This shouldn't make me cry...@It shouldn't...
@@ -202,18 +197,21 @@ story:
     narrationEffect: out
     textCenter: (...It's no one's fault, so.....)
     turnEffect: thinking
-  - bg: bg_adv_21242.jpg
+  - autoTurnLast: 0.8
+    bg: bg_adv_21242.jpg
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 800700
       motion: 0
       pos: 1
+    turnChangeIn: fadeIn
+    turnEffect: stop
+  - chara:
+    - id: 800700
     nameCenter: ""
     textCenter: Sunday limited-time only sale!@Only until 5 PM! Hurry! Buy now!
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-    turnEffect: stop
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -225,15 +223,13 @@ story:
     textCenter: (...Oh, right...@Today is Sunday...)
     turnEffect: thinking
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 302502
+    - id: 302502
       lipSynch: 0
       motion: 300
     textCenter: (...If it weren't for her extra@classes, then right now...)
   - autoTurnLast: 0.01
     chara:
-    - cheek: 0
+    - cheek: 1
       face: mtn_ex_010.exp.json
       id: 303101
       motion: 0
@@ -245,11 +241,9 @@ story:
       pos: 2
     turnChangeIn: whiteIn
     turnEffect: stop
-  - bg: bg_adv_21041.jpg
+  - bg: bg_adv_21401.jpg
     chara:
-    - cheek: 1
-      face: mtn_ex_010.exp.json
-      id: 303101
+    - id: 303101
       motion: 100
     nameLeft: Rika
     nameRight: Ren
@@ -257,9 +251,7 @@ story:
     turnChangeOut: whiteOut
     turnEffect: promist
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 302501
+    - id: 302501
       motion: 100
     textRight: Hehe... What do you expect?@It's a teddy bear exhibit!
   - autoTurnLast: 0.01
@@ -273,9 +265,7 @@ story:
     turnEffect: stop
   - bg: bg_adv_21242.jpg
     chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 302502
+    - id: 302502
       lipSynch: 0
     nameCenter: Ren
     textCenter: (...Right now we'd be together...@at the teddy bear exhibition...)
@@ -289,9 +279,7 @@ story:
       motion: 200
     textCenter: (Oh! Just listen to me...@I sound like a spoiled child...)
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 302502
+    - id: 302502
       lipSynch: 0
     textCenter: (Rika is working hard right now...)
   - bgm: stop
@@ -307,8 +295,7 @@ story:
       motion: 0
     textCenter: (...Huh...?@...That voice...)
     turnEffect: thinking
-  - bg: bg_adv_21242.jpg
-    bgm: bgm03_story12
+  - autoTurnLast: 0.2
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -320,22 +307,22 @@ story:
       id: 300101
       motion: 0
       pos: 2
+    turnChangeIn: rollInFast
+    turnEffect: stop
+  - bg: bg_adv_21242.jpg
+    bgm: bgm03_story12
+    chara:
+    - id: 303101
     nameLeft: Rika
     nameRight: Kanoko
     textLeft: Hey, thanks for all the help!@Seriously, you guys were great!
-    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
-    turnEffect: stop
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 303101
+    - id: 303101
       motion: 1
     textLeft: Kano, Emirin, thanks so much!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300101
+    - id: 300101
       motion: 100
     textRight: Oh, it was nothing.
   - chara:
@@ -347,9 +334,7 @@ story:
     nameRight: Emiri
     textRight: Yeah, no prob!@We got your back, girl!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 303101
+    - id: 303101
       motion: 100
     textLeft: Oh, I know! Let me buy you guys@bubble tea as thanks!
   - chara:
@@ -387,25 +372,31 @@ story:
       pos: 0
     nameLeft: Rika
     textLeft: Huh?
-  - bg: bg_adv_21242.jpg
+  - autoTurnLast: 0.2
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302502
       motion: 0
       pos: 1
+    turnChangeIn: rollInFast
+  - bg: bg_adv_21242.jpg
+    chara:
+    - id: 302502
     nameCenter: Ren
     textCenter: Oh…
-    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
+  - autoTurnLast: 0.01
+    chara:
+    - id: 302502
+      pos: 0
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
       motion: 1
       pos: 2
-    - id: 302502
-      pos: 0
     nameRight: Rika
     textRight: Huh? Ren?@Ummm…
   - chara:
@@ -413,14 +404,12 @@ story:
       face: mtn_ex_030.exp.json
       id: 303101
       motion: 200
-    nameLeft: Ren
-    nameRight: Rika
     textRight: Errr, this is...ummm, it's not@like that... We just...I mean...
   - chara:
     - cheek: 2
-      face: mtn_ex_030.exp.json
       id: 302502
       motion: 1
+    nameLeft: Ren
     textLeft: '...Errr, umm...@...It''s fine...'
   - chara:
     - cheek: 0
@@ -433,6 +422,7 @@ story:
     - effect: fadeout
       id: 302502
       tear: 1
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

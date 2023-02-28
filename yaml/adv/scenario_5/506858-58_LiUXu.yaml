@@ -321,7 +321,7 @@ story:
   - chara:
     - id: 801000
     textBg: shout
-    textRight: '[bgEffect:shakeSmall]Tokime Isshin Style...Meter-Leap Decapitation!!'
+    textRight: '[bgEffect:shakeSmall]Tokime Unified Style...Meter-Leap Decapitation!!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

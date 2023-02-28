@@ -12,8 +12,8 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story02
     nameNarration: Rika
-    narration: When going out to watch a movie with Ren@I happened to get to know
-      her birthday...
+    narration: When going out to watch a movie with Ren@I happened to find out her
+      birthday...
     narrationBg: bg_adv_21073.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -134,7 +134,7 @@ story:
   - chara:
     - id: 303101
       lipSynch: 0
-    textLeft: (Now that I'm actually here, I really tense up...)
+    textLeft: (Now that I'm actually here, I'm really tensing up...)
   - chara:
     - eyeClose: 1
       id: 303101
@@ -172,7 +172,7 @@ story:
       id: 303101
       lipSynch: 0
       motion: 1
-    textLeft: (...That's right,@Ren buys a lot of color pencils...)
+    textLeft: (...That's right,@Ren buys a lot of colored pencils...)
   - autoTurnLast: 0.5
     bg: bg_adv_11042.jpg
     chara:
@@ -284,7 +284,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 303101
       motion: 201
-    textCenter: '...None of those sound like a great fit either, I think...'
+    textCenter: '...None of those sound like a great fit either,@I think...'
   - chara:
     - id: 303101
       lipSynch: 0
@@ -407,7 +407,7 @@ story:
     - id: 303101
       lipSynch: 0
       motion: 1
-    textCenter: (...But, I guess she wouldn't normally walk around@with her color
+    textCenter: (...But, I guess she wouldn't normally walk@around with her colored
       pencils.)
   - chara:
     - id: 303101
@@ -436,13 +436,13 @@ story:
       face: mtn_ex_010.exp.json
       id: 303101
       motion: 100
-    textCenter: I've decided!@Her birthday present will be color pencils!
+    textCenter: I've decided!@Her birthday present will be colored pencils!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 303101
       motion: 1
-    textCenter: Mmm...but, she already has tons of color pencils, doesn't she...
+    textCenter: Mmm...but, she already has tons of@colored pencils, doesn't she...
   - chara:
     - id: 303101
     textCenter: Umm...
@@ -453,7 +453,7 @@ story:
   - chara:
     - id: 303101
       motion: 201
-    textCenter: If it's just normal color pencils,@there won't be that much of an
+    textCenter: If it's just normal colored pencils,@there won't be that much of an
       impact.
   - bgm: stop
     nameNarration: Rika

@@ -11,7 +11,7 @@ story:
     turnChangeOut: fadeOut
     turnEffect: sepiaFrame
   - narration: While Liz kept up the assault@against Corbeau...
-  - narration: Darc and I had a Witch to deal with.
+  - narration: Tart and I had a Witch to deal with.
   - autoTurnLast: 0.01
     bg: black
     item:
@@ -108,7 +108,7 @@ story:
   - chara:
     - id: 402100
       motion: 400
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Wh-whaaat?!
   - autoTurnLast: 0.01
     chara:
@@ -429,7 +429,7 @@ story:
     - id: 402101
       lipSynch: 0
       motion: 400
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: '...?!'
     turnChangeOut: whiteOut
   - autoTurnLast: 0.2

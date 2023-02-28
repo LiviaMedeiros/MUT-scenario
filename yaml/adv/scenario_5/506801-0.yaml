@@ -108,7 +108,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102601
-    textCenter: Maybe I oughta do a little exercise to build up my strength!
+    textCenter: Maybe I oughta do a little exercise to build up my @strength!
   - autoTurnLast: 0.2
     chara:
     - id: 102601
@@ -126,7 +126,7 @@ story:
     textRight: Come on now, dear.
   - chara:
     - id: 800600
-    textRight: If you want to be Mr. Todoroki, you'll need brains as well.
+    textRight: If you want to be like Mr. Todoroki, @you'll need brains as well.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -146,7 +146,7 @@ story:
   - chara:
     - id: 102601
       motion: 300
-    textLeft: A tradition that'll end with my generation, if I have anything to say
+    textLeft: A tradition that'll end with my generation, @if I have anything to say
       about it...
   - enableSkipAutoTurn: 1
     nameNarration: ""
@@ -195,7 +195,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102601
       motion: 300
-    textLeft: Ye-s...
+    textLeft: Yeees...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -211,9 +211,10 @@ story:
       soulGem: 0
     textCenter: '...'
   - nameNarration: ""
-    narration: '"Today''s Parliament is focusing on the case of crimes by Ministry
-      of Defense officials @that have been concealed by the Metropolitan Police Department.@Angry
-      rebukes from both sides continue to escalate in the Houses of Parliament."'
+    narration: '"Today''s Parliament is focusing on the case of crimes @committed
+      by Ministry of Defense officials which @were concealed by the Metropolitan Police
+      Department.@Angry rebukes from both sides continue to @escalate in the Houses
+      of Parliament."'
     narrationBg: ""
     narrationEffect: in
   - chara:
@@ -221,7 +222,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102601
     narrationEffect: out
-    textCenter: How can there be bad guys in the police? They're supposed to be heroes...
+    textCenter: How can there be bad guys in the police? @They're supposed to be heroes...
   - bgm: stop
     nameNarration: Chiharu
     narration: One call...
@@ -303,7 +304,7 @@ story:
   - narration: Driving along the expressways...
   - narration: Trundling over a mountain road...
   - narration: Getting out of the car...
-  - narration: And walking down a path that stretched deep into the forest...
+  - narration: And walking down a path that @stretched deep into the forest...
   - narration: To a place deep inside, somewhere that I @"couldn't even find on satellite
       images" @when I looked it up on my phone.
   - narration: The Tokime Clan's village...
@@ -357,13 +358,12 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 801000
-    textRight: Yes... Actually, @I have something to tell you before that myself,
-      too.
+    textRight: Yes... Actually, I have something @to tell you before that.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801000
-    textRight: Could you spare some time for that?
+    textRight: Could you spare some time?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -403,11 +403,11 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102501
-    textLeft: Have you gotten used to staying at Lady Mikoshiba's home?
+    textLeft: Have you gotten used to staying at @Lady Mikoshiba's home?
   - chara:
     - id: 102701
       motion: 300
-    textRight: Yes, though I'm still learning about all the household items and rules.
+    textRight: Yes, though I'm still learning about all the @household items and rules.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

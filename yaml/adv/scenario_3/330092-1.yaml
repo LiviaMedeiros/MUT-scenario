@@ -31,7 +31,7 @@ story:
       motion: 0
       pos: 2
       posX: 40
-    nameRight: ' Kyubey'
+    nameRight: Kyubey
     textRight: Make a contract with me@and become a Magical Girl.
   - chara:
     - cheek: 0
@@ -186,6 +186,7 @@ story:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 300901
+      lipSynch: 0
       motion: 0
     textLeft: '*Gasp*'
   - chara:
@@ -206,7 +207,7 @@ story:
       pos: 2
       posX: 40
     nameLeft: Manaka
-    nameRight: ' Kyubey'
+    nameRight: Kyubey
     textLeft: Rabbit-thing!@[chara:300901:effect_emotion_joy_0][se:7222_happy]Oh,
       thank you, you wonderful rabbit!
     turnChangeIn: fadeIn
@@ -228,5 +229,5 @@ story:
     textRight: I'm glad to hear that.@But I'm not a rabbit.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

@@ -82,7 +82,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - nameRight: Qube
-    textRight: Congratulations, Darc.
+    textRight: Congratulations, Tart.
     turnChangeOut: fadeOut
   - textRight: We've now regained many of the most vital@fragments of this world's
       true history.
@@ -95,7 +95,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 402101
       motion: 100
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Thank you very much, Monsieur Angel!
   - autoTurnLast: 0.01
     bg: bg_adv_20103.jpg
@@ -141,7 +141,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 402601
       motion: 100
-    textRight: We did. Darc brought about a miracle.
+    textRight: We did. Tart brought about a miracle.
   - chara:
     - id: 402601
     textRight: After the French troops were replenished even@further with new recruits...
@@ -156,7 +156,7 @@ story:
     textRight: What's more...
   - chara:
     - id: 402601
-    textRight: Many of the English soldiers had been saved@by Darc, who stood with
+    textRight: Many of the English soldiers had been saved@by Tart, who stood with
       the French army.
   - chara:
     - id: 402601
@@ -170,14 +170,14 @@ story:
     - id: 402601
       motion: 0
     nameLeft: Liz
-    textLeft: We owe it all to Darc.
+    textLeft: We owe it all to Tart.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 402101
       motion: 300
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: N-no, that's hardly...!
   - chara:
     - id: 402601
@@ -200,7 +200,7 @@ story:
   - chara:
     - id: 402601
       lipSynch: 0
-    textRight: (It was as though all of their prayers @empowered Darc to do that.)
+    textRight: (It was as though all of their prayers @empowered Tart to do that.)
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -273,7 +273,7 @@ story:
       id: 402101
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: What is it?
   - chara:
     - cheek: 0
@@ -304,7 +304,7 @@ story:
     chara:
     - id: 402100
       motion: 100
-    nameRight: Darc
+    nameRight: Tart
     textRight: Yaaah![flashEffect:flashWhite2][bgEffect:shakeLarge][surround:4021A01]
     turnChangeOut: fadeOut
   - chara:
@@ -356,7 +356,7 @@ story:
   - chara:
     - id: 402101
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Yes, I remember...
     turnChangeOut: fadeOut
   - chara:
@@ -386,7 +386,7 @@ story:
   - chara:
     - id: 402201
       motion: 1
-    textLeft: Those are what Corbeau used to keep Darc in@that nightmare of a dream!
+    textLeft: Those are what Corbeau used to keep Tart in@that nightmare of a dream!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -400,7 +400,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 402201
-    textLeft: Corbeau was the one rampaging around in@Darc's dreams back then...
+    textLeft: Corbeau was the one rampaging around in@Tart's dreams back then...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -456,7 +456,7 @@ story:
       id: 402101
       motion: 400
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: We will ready ourselves at once!
   - autoTurnLast: 0.2
     chara:

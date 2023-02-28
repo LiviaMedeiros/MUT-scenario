@@ -186,7 +186,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102601
-    textRight: S—sorry...
+    textRight: S-sorry...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -251,7 +251,7 @@ story:
     chara:
     - eyeClose: 1
       id: 102601
-    textRight: When they first told me about it, I couldn't believe it either.
+    textRight: When they first told me about it, I couldn't believe it @either.
   - chara:
     - eyeClose: 0
       id: 102601
@@ -268,7 +268,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102601
-    textRight: Well, assuming I'm actually qualified to become a Diviner...
+    textRight: Well, assuming I'm actually qualified to become a @Diviner...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -299,7 +299,7 @@ story:
     textRight: Therefore, please rest assured.
   - chara:
     - id: 800600
-    textLeft: I can't be sure about this, just hearing from people directly connected...
+    textLeft: I can't be sure about this, just hearing from people @directly connected...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -387,7 +387,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Sunao
-    textLeft: So, Lady Mikoshiba...@what will Chiharu's wish be?
+    textLeft: So, Lady Mikoshiba...@What will Chiharu's wish be?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -414,8 +414,8 @@ story:
     narration: '*Flip*'
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
-  - narration: To uncover the evidence @being concealed by the National Police Agency
-      @concerning the crimes of Ministry of Defense officials.
+  - narration: To uncover the evidence being concealed @by the National Police Agency
+      concerning @the crimes of Ministry of Defense officials.
     narrationHAlignment: left
     narrationPosX: 180
   - chara:
@@ -434,9 +434,10 @@ story:
     turnChangeIn: fadeIn
     turnEffect: blackFrame
   - nameNarration: ""
-    narration: '"Today''s Parliament is focusing on the case of crimes by Ministry
-      of Defense officials @that have been concealed by the Metropolitan Police Department.
-      @Angry rebukes from both sides continue to escalate in the Houses of Parliament."'
+    narration: '"Today''s Parliament is focusing on the case of crimes @committed
+      by Ministry of Defense officials which @were concealed by the Metropolitan Police
+      Department.@Angry rebukes from both sides continue to @escalate in the Houses
+      of Parliament."'
     narrationBg: ""
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -446,7 +447,7 @@ story:
       id: 102601
     nameCenter: Chiharu
     narrationEffect: out
-    textCenter: How can there be bad guys in the police? They're supposed to be heroes...
+    textCenter: How can there be bad guys in the police? @They're supposed to be heroes...
   - autoTurnLast: 2
     bg: bg_adv_50012.jpg
     chara:
@@ -471,14 +472,14 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 801800
-    textRight: It's a wish that must be granted, for the sake of protecting our nation
+    textRight: It's a wish that must be granted, for the sake of @protecting our nation
       and its people.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 801800
-    textRight: '...Even among the allies of justice, there are still evildoers that
-      nest inside justice.'
+    textRight: '...Even among the allies of justice, there are still @evildoers that
+      nest alongside the righteous.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -489,7 +490,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801800
-    textRight: Therefore, thou shall use thy power to guide them in the right direction.
+    textRight: Therefore, thou shall use thy power to guide them @in the right direction.
   - chara:
     - id: 801800
     textRight: Understand?
@@ -528,8 +529,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 102501
       motion: 0
-    textLeft: Chiharu, let's practice at noon tomorrow! I think my mom will help you
-      out.
+    textLeft: Chiharu, let's practice at noon tomorrow! I think @my mom will help
+      you out.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -601,10 +602,10 @@ story:
     textLeft: Mom...?
   - chara:
     - id: 800600
-    textRight: Chiharu... Are you really going to become a Diviner...?
+    textRight: Chiharu... Are you really going to become a @Diviner...?
   - chara:
     - id: 800600
-    textRight: Curiosity kills the cat. Mr. Todoroki said that too, right...?
+    textRight: Curiosity kills the cat. Mr. Todoroki said that too, @right...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

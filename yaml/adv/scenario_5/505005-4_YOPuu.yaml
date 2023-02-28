@@ -452,6 +452,10 @@ story:
       pos: 2
       posX: 40
       posY: 0
+    - effect: fadeout
+      id: 801202
+    - effect: fadeout
+      id: 200652
     textClear: 1
   - chara:
     - cheek: 0

@@ -82,7 +82,7 @@ story:
   - chara:
     - id: 402100
       motion: 300
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: B-but I wasn't the one who caused it...
     turnChangeOut: fadeOut
   - chara:
@@ -133,7 +133,7 @@ story:
       id: 402100
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: It's strange, though...
   - chara:
     - id: 402100
@@ -179,7 +179,7 @@ story:
     - eyeClose: 1
       id: 402600
       lipSynch: 0
-    textLeft: (Darc is the one always standing right at the@heart of France's karmic
+    textLeft: (Tart is the one always standing right at the@heart of France's karmic
       destiny.)
   - autoTurnLast: 0.01
     bg: bg_adv_20093.jpg
@@ -220,7 +220,7 @@ story:
       id: 402100
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: You mean the march towards Reims?
   - chara:
     - id: 830000
@@ -361,7 +361,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 402100
-    nameRight: Darc
+    nameRight: Tart
     textRight: Yes!
   - autoTurnLast: 0.2
     chara:
@@ -373,7 +373,7 @@ story:
   - chara:
     - id: 402100
       motion: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: Let us advance as one.
   - chara:
     - id: 402100

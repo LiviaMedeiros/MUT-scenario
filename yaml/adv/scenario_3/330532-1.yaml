@@ -368,6 +368,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 305301
+      lipSynch: 0
       motion: 200
     textCenter: (Okay, then!)
     turnEffect: thinking

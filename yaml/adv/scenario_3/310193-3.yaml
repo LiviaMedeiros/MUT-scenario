@@ -9,10 +9,7 @@ story:
     narrationEffect: in
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-  - narration: Unfortunately, that meant all the resentment@I had at home had nowhere
-      to go and@kept on growing stronger...
-  - bg: bg_adv_21291.jpg
-    chara:
+  - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 101901
@@ -22,8 +19,14 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 800700
-      motion: 200
+      motion: 0
       pos: 2
+    narration: Unfortunately, that meant all the resentment@I had at home had nowhere
+      to go and@kept on growing stronger...
+  - bg: bg_adv_16111.jpg
+    chara:
+    - id: 800700
+      motion: 200
     nameLeft: Tsukasa
     nameRight: Tsukasa's Father
     narrationEffect: out
@@ -78,7 +81,7 @@ story:
       lipSynch: 0
     textLeft: '...'
   - nameNarration: ""
-    narration: No...
+    narration: '*Snap*...'
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
   - chara:
@@ -132,7 +135,7 @@ story:
       pos: 1
       soulGem: 0
     surround: 1019A01
-    textCenter: ♪
+    textCenter: ～～♪～～♪
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -141,7 +144,7 @@ story:
       id: 101901
       lipSynch: 0
     surround: 1018A03
-    textCenter: ♪♪
+    textCenter: ' ♪～～♪～～'
   - chara:
     - id: 101901
       motion: 0
@@ -167,7 +170,7 @@ story:
   - chara:
     - id: 101901
     textCenter: Tsukuyo... I want to talk to you again...
-  - bg: bg_adv_21291.jpg
+  - bg: bg_adv_16111.jpg
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

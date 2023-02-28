@@ -478,7 +478,7 @@ story:
   - chara:
     - id: 300301
     nameRight: Hinano
-    textRight: Sometimes they can be more difficult to deal with@than you could imagine.
+    textRight: Sometimes they can be more difficult to deal with@than you would imagine.
   - chara:
     - id: 305401
       motion: 100
@@ -514,7 +514,7 @@ story:
     - id: 300301
       motion: 0
     nameRight: Hinano
-    textRight: The accumulation of time is more important than@learning flashy techniques.
+    textRight: Time spent practicing is more important than@learning flashy techniques.
   - chara:
     - id: 300301
     nameRight: Hinano

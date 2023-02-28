@@ -126,7 +126,7 @@ story:
       motion: 0
       pos: 2
     turnChangeIn: fadeIn
-  - bg: bg_adv_21041.jpg
+  - bg: bg_adv_21401.jpg
     chara:
     - id: 303101
       motion: 100

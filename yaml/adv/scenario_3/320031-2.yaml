@@ -21,7 +21,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Homura
-    textRight: How about that one over there? @It looks like it has some cute girly
+    textRight: How about that one over there?@It looks like it has some cute girly
       stuff...
   - chara:
     - cheek: 0
@@ -44,7 +44,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 200301
     nameNarration: Homura
-    narration: I would have loved to just spend @time like this forever with Madoka.
+    narration: I would have loved to just spend@time like this forever with Madoka.
     narrationBg: bg_adv_15041.jpg
     narrationEffect: in
     surround: stop
@@ -56,7 +56,7 @@ story:
       id: 200301
       motion: 0
     narrationEffect: out
-    textRight: ―?!@[chara:200301:motion_400:cheek_1:face_mtn_ex_020.exp.json]Madoka!
+    textRight: '...?!@[chara:200301:motion_400:cheek_1:face_mtn_ex_020.exp.json]Madoka!'
   - autoTurnLast: 1
     flashEffect: flashWhiteSlow2
     se: 7211_souljem_02
@@ -271,7 +271,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 301000
       motion: 100
-    textRight: That's correct! Not only am I a super @model, I'm also a super Magical
+    textRight: That's correct! Not only am I a super@model, I'm also a super Magical
       Girl!
   - chara:
     - cheek: 1
@@ -297,14 +297,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 301000
       motion: 1
-    textRight: I believe you're already aware of this, but @my name is Ria Ami.
+    textRight: I believe you're already aware of this, but@my name is Ria Ami.
   - chara:
     - cheek: 0
       effect: emotion_surprise_0
       face: mtn_ex_050.exp.json
       id: 301000
     se: 7226_shock
-    textRight: '...Ugh, quit it...! @[chara:301000:cheek_1:face_mtn_ex_030.exp.json]Quit
+    textRight: '...Ugh, quit it...!@[chara:301000:cheek_1:face_mtn_ex_030.exp.json]Quit
       staring at me like that!'
   - chara:
     - cheek: 1

@@ -49,7 +49,7 @@ story:
       motion: 0
       pos: 2
       posX: 40
-    nameRight: ' Kyubey'
+    nameRight: Kyubey
     textRight: Yes, that was me.
   - chara:
     - id: 810000
@@ -82,7 +82,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 303001
     textLeft: Maybe I can save Auntie and the shop?
-  - bg: bg_adv_21241.jpg
+  - bg: bg_adv_11101.jpg
     bgm: stop
     chara:
     - cheek: 0
@@ -262,5 +262,5 @@ story:
   - autoTurnLast: 2
     narrationEffect: out
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

@@ -16,7 +16,7 @@ story:
       pos: 2
     nameLeft: Hinano
     nameRight: Sayaka
-    textRight: Ahem! So let's go over what we know about @the case so far.
+    textRight: Ahem! So let's go over what we know about@the case so far.
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -26,7 +26,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 200401
-    textRight: 'Ahem! The victim was Hinano Miyako...@ '
+    textRight: Ahem! The victim was Hinano Miyako...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -35,7 +35,7 @@ story:
       motion: 400
     textRight: '[chara:200401:effect_emotion_surprise_0][se:7226_shock]Wait, you said
       "kids" before...[chara:200401:lipSynch_0][wait:0.8][chara:200401:cheek_0][chara:200401:face_mtn_ex_040.exp.json][chara:200401:lipSynch_1]are
-      you older @than me?!'
+      you older@than me?!'
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -46,7 +46,7 @@ story:
     - id: 200401
       motion: 0
     textRight: Oh, nothing, nothing![chara:200401:lipSynch_0][wait:0.8][chara:200401:cheek_0][chara:200401:face_mtn_ex_020.exp.json][chara:200401:lipSynch_1]
-      ...Anyway! Let's@start again from the top!
+      ...Anyway!@Let's start again from the top!
   - chara:
     - eyeClose: 1
       id: 200401
@@ -127,7 +127,7 @@ story:
     textRight: Yeah, I am. Whoa, that's one heck of a@coincidence, isn't it?
   - chara:
     - id: 300301
-    textLeft: 'So you came here chasing a Witch...@ '
+    textLeft: So you came here chasing a Witch...
   - chara:
     - id: 300301
       motion: 200
@@ -156,7 +156,7 @@ story:
     textLeft: Yeah, thought so.
   - chara:
     - id: 300301
-    textLeft: I mean, whoever heard of a Witch doing a @hit and run?
+    textLeft: I mean, whoever heard of a Witch doing a@hit and run?
   - chara:
     - id: 300301
     textLeft: But that means we aren't any closer to@figuring out who the culprit
@@ -184,7 +184,7 @@ story:
       id: 200401
       motion: 0
     textRight: Magical Detective?! [chara:200401:lipSynch_0][wait:0.8][chara:200401:cheek_0][chara:200401:face_mtn_ex_010.exp.json][chara:200401:lipSynch_1]Oh,
-      I like that! @Sounds cool!
+      I like that!@Sounds cool!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -243,7 +243,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300301
       motion: 100
-    textLeft: My scientific know-how is about to blow @your mind!
+    textLeft: My scientific know-how is about to blow@your mind!
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json

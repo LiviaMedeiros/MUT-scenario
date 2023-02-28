@@ -201,7 +201,7 @@ story:
   - chara:
     - id: 102700
       motion: 0
-    textCenter: I know it's just hearsay...
+    textCenter: I know I didn't witness anything myself...
   - chara:
     - cheek: 2
       eyeClose: 0
@@ -209,7 +209,7 @@ story:
       id: 102700
       motion: 100
       tear: 1
-    textCenter: But if I don't do this, I'll...!
+    textCenter: But if I don't act, then...!
   - chara:
     - id: 102501
     textLeft: '...I''m going to be another corpse down in those @waters.'

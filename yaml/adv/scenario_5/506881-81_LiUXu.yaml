@@ -125,7 +125,7 @@ story:
       posX: 0
       posY: 80
     nameCenter: Kyubey
-    textCenter: Hello. You're the ones who called me out, right?
+    textCenter: Hello. You're the ones who called out to me, right?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

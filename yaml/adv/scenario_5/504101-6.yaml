@@ -5,15 +5,15 @@ story:
     turnChangeIn: fadeIn
   - bg: black
     nameNarration: Nagisa
-    narration: By revealing my true identity, I succeeded in uniting the Kamihama
+    narration: By revealing my true identity,@I succeeded in uniting the@Kamihama
       Magical Girls as one!
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: Of course, I did have some reservations about revealing quite so much...
-      @but Kamihama's in a state of crisis! @I can just smooth things over with everyone
-      involved however I want afterward.
-  - narration: What matters most is that thanks to this, @we're making good progress
-      on defeating the ex-Nagisas! @So far, so good!
+  - narration: Of course, I did have some reservations@about revealing quite so much...@but
+      Kamihama's in a state of crisis! @I can just smooth things over with everyone
+      involved@however I want afterward.
+  - narration: What matters most is that thanks to this,@we're making good progress
+      on defeating the ex-Nagisas!@So far, so good!
   - bgm: bgm03_story08
     narration: '...BUT!'
   - narration: One of our allies, Akira Shinobu, @has introduced us to Kako Natsume
@@ -340,6 +340,12 @@ story:
       motion: 400
     nameLeft: Akira
     textLeft: Yeah! Right, Nagisa-chan?
+  - autoTurnLast: 0.01
+    chara:
+    - effect: fadeout
+      id: 301101
+    - effect: fadeout
+      id: 300801
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -448,10 +454,17 @@ story:
       pos: 2
     nameRight: Akira
     textRight: Geeze, not now...!
-  - bg: bg_adv_46403.jpg
+  - autoTurnLast: 0.1
+    bg: bg_adv_46403.jpg
     bgChangeEffect: enterWitchSpace
     bgm: bgm03_story10
+    se: 7208_wander_into
     chara:
+    - effect: fadeout
+      id: 300801
+    - effect: fadeout
+      id: 200701
+  - chara:
     - cutInId: 1
       id: 6403
       name: sprite_0
@@ -461,9 +474,8 @@ story:
       id: 200701
       motion: 400
       pos: 2
-    nameLeft: Charlotte
-    se: 7208_wander_into
-    textLeft: △◆★■◎▼!
+    nameLeft: ""
+    textLeft: △◆★■◎▼！
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

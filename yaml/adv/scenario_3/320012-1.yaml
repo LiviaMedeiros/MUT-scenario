@@ -73,7 +73,7 @@ story:
       motion: 100
       pos: 1
     narrationEffect: out
-    textCenter: …
+    textCenter: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -121,7 +121,7 @@ story:
       lipSynch: 1
       motion: 300
     textLeft: Aww... I'm soaked now.@What a pain!
-  - nameRight: ""
+  - nameRight: ???
     textRight: Um...
   - chara:
     - cheek: 0
@@ -136,7 +136,6 @@ story:
       id: 301101
       motion: 100
       pos: 2
-    nameRight: ???
     surround: stop
     textRight: You can...@Use this handkerchief, if you like...
   - chara:
@@ -197,13 +196,13 @@ story:
       id: 301101
       lipSynch: 0
       motion: 1
-    textRight: …
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 200101
       lipSynch: 0
-    textLeft: …
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -351,7 +350,7 @@ story:
   - bg: bg_adv_11023.jpg
     bgChangeEffect: fade
     bgm: stop
-    narration: But…@I had to change buses…
+    narration: But...@I had to change buses…
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

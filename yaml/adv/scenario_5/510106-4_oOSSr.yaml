@@ -21,7 +21,7 @@ story:
   - chara:
     - id: 402101
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Monsieur Angel... How does summoning Ui...
     turnChangeOut: fadeOut
   - chara:
@@ -176,7 +176,7 @@ story:
     nameRight: Qube
     textRight: Let's put what we've learned into order.
     turnChangeOut: fadeOut
-  - textRight: First, the incident where our enemies used@Darc's dream to lay a curse
+  - textRight: First, the incident where our enemies used@Tart's dream to lay a curse
       on her.
   - textRight: That experiment of theirs ended in failure@thanks to interference from
       the future.
@@ -315,7 +315,7 @@ story:
   - chara:
     - id: 402101
       lipSynch: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '...'
   - chara:
     - cheek: 0
@@ -324,7 +324,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Liz
-    textRight: Are you all right, Darc? You've been quiet@for some time.
+    textRight: Are you all right, Tart? You've been quiet@for some time.
   - bgm: bgm03_story20
     chara:
     - id: 402101
@@ -451,7 +451,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 402101
       motion: 100
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: That's right!
   - chara:
     - cheek: 0

@@ -41,8 +41,8 @@ story:
     - id: 303101
       motion: 0
     nameNarration: Rika
-    narration: 'Recipient: Ren☆@This might just sound like an@excuse to you, but I
-      didn''t lie...@I wasn''t just hanging out with the girls...'
+    narration: 'Recipient: Ren☆@Sorry about before...@This might just sound like an@excuse
+      to you, but I didn''t lie...@I wasn''t just hanging out with the girls...'
     narrationBg: bg_adv_21073.jpg
     narrationEffect: in
     narrationHAlignment: left
@@ -350,9 +350,9 @@ story:
     narration: I wanted to make my dear friend happy,@so I made a present for her.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
-  - narration: I didn't want to hurt my dear friend,@so I avoided her...
+  - narration: I didn't want to hurt her,@so I avoided her...
   - narration: But by doing that,@I think I just ended up making my dear friend sad,@and
-      hurt her...
+      hurt her anyway...
   - narration: Is it just going to stay like this,@without me being able to give her
       the present...?
   - narration: I really don't want that...

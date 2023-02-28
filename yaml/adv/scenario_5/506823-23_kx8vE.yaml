@@ -37,13 +37,13 @@ story:
   - chara:
     - id: 102601
       lipSynch: 0
-    textCenter: (I made our last greeting with a smile, @since I told myself I'd see
+    textCenter: (I ended our last meeting with a smile, @since I told myself I'd see
       her off with one...)
   - chara:
     - eyeClose: 0
       id: 102601
       lipSynch: 0
-    textCenter: (But why am I so unhappy...?)
+    textCenter: (So why am I so unhappy...?)
   - chara:
     - id: 102601
       motion: 1

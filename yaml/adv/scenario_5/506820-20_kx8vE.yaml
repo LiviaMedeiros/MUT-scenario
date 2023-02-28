@@ -148,7 +148,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102601
       motion: 100
-    textLeft: Okay—, see you tomorrow—.
+    textLeft: Okaaay, see you tomorrooow.
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -176,13 +176,13 @@ story:
   - chara:
     - id: 102601
       lipSynch: 0
-    textCenter: (Wah—, it's still early...it's still early, but @I already feel sad...)
+    textCenter: (Waaah, it's still early...it's still early, but @I already feel sad...)
     turnChangeOut: fadeOut
     turnEffect: thinking
   - chara:
     - id: 102601
       lipSynch: 0
-    textCenter: (Even though we can still meet each other after @Shizuka goes outside...)
+    textCenter: (Even though we'll still be able to meet again @after Shizuka leaves...)
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -339,7 +339,7 @@ story:
       id: 102600
       lipSynch: 0
       motion: 1
-    textRight: (This is tougher than the one before...)
+    textRight: (This is tougher than the one I fought before...)
     turnEffect: thinking
   - chara:
     - cheek: 0
@@ -436,7 +436,7 @@ story:
     chara:
     - eyeClose: 1
       id: 102600
-    nameCenter: Shizuka'S Voice
+    nameCenter: Shizuka's Voice
     textBg: shout
     textCenter: '[flashEffect:flashWhite2][surround:3028A01]Haaaaah!!'
   - autoTurnLast: 0.2

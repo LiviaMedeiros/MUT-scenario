@@ -327,7 +327,6 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100100
-      live2dName: live2d_0
       motion: 400
       mouthOpen: 1
       pos: 2
@@ -349,7 +348,6 @@ story:
     - cheek: 0
       face: mtn_ex_060.exp.json
       id: 100100
-      live2dName: live2d_0
       motion: 300
       mouthOpen: 1
     flashEffect: flashWhite2
@@ -368,7 +366,6 @@ story:
       name: sprite_0
     - effect: fadeout
       id: 100100
-      live2dName: live2d_0
     item:
     - path: resource/scenario/img/6211_winch_emblem.png
       visible: hide

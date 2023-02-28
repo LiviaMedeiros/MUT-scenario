@@ -12,7 +12,7 @@ story:
     turnChangeIn: fadeIn
   - nameNarration: Rika
     narration: I decided that I was going to give colored pencils@to Ren for her birthday,@but
-      I want to give her something more@than just normal color pencils.
+      I want to give her something more@than just normal colored pencils.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -44,13 +44,14 @@ story:
       motion: 100
     textCenter: That's it! That's an awesome idea!
   - nameNarration: Rika
-    narration: I decided that Ren's present@would be color pencils and a pencil case.
+    narration: I decided that Ren's present@would be colored pencils and a pencil
+      case.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
   - narration: Of course, it wouldn't just be a normal pencil set,@I would engrave
       her name on the pencils@and I would decorate the case@with a lily of the valley.
   - narration: But...since that wasn't something@I could possibly make by myself,@I
-      got the heir of Yayoi Plating@Kano-sensei to teach me and help me work on it.
+      got Kano, the heir of Yayoi Plating,@to teach me and help me work on it.
   - autoTurnLast: 0.3
     bg: bg_adv_21161.jpg
     chara:
@@ -96,18 +97,18 @@ story:
       motion: 1
       pos: 2
     nameRight: Kanoko
-    textRight: But really, thanks, Uncle.
+    textRight: But really, thanks Pops.
   - chara:
     - id: 300101
-    textRight: Letting us borrow the factory and machines@just like that...
+    textRight: Letting us borrow the factory and@machines just like that...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800700
-    textLeft: I don't have any reason to reject a request
+    textLeft: I don't have any reason to reject a request.
   - chara:
     - id: 800700
-    textLeft: from you or your friend, Kanoko!
+    textLeft: From you or your friend, Kanoko!
   - chara:
     - id: 800700
     textLeft: So, let me explain how this works.
@@ -120,7 +121,7 @@ story:
     nameRight: Rika
     textRight: Yes, please do!
   - nameNarration: Rika
-    narration: With Kano and her uncle's help,@the name engraving was a success!
+    narration: With Kano and the man's help,@the name engraving was a success!
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     surround: stop
@@ -139,14 +140,14 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameNarration: Rika
-    narration: Which meant the next thing to do@was making and forming the case!
+    narration: Which meant the next thing to do@was to make and form the case!
     narrationBg: bg_adv_16101.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: While borrowing space and machinery@in the Yayoi Plating factory,@I
       would work every day to make the case!
   - bgm: stop
-    narration: '...or at least, that was the plan.'
+    narration: '...Or at least, that was the plan.'
   - bg: bg_adv_16101.jpg
     bgm: bgm03_story16
     chara:
@@ -182,7 +183,7 @@ story:
     textLeft: '[chara:300101:effect_emotion_angry_0][se:7219_strain]That''s no good!'
   - chara:
     - id: 300101
-    textLeft: With the wrong material, the engraving can end up@with a completely
+    textLeft: With the wrong material, the engraving can end@up with a completely
       different look, okay?!
   - chara:
     - id: 300101
@@ -227,8 +228,8 @@ story:
       lipSynch: 0
     textCenter: (A message from Ren...!)
   - nameNarration: Ren
-    narration: 'Ren☆@To: Ayano Rika@Subject: Exhibition invitation@I got tickets to
-      a picture book exhibition@next Saturday.@Do you wanna go together?'
+    narration: 'Ren☆@To: Rika Ayano@Subject: Exhibit Invitation@I got tickets to a
+      picture book@exhibit for next Saturday.@Do you wanna go together?'
     narrationBg: bg_adv_21073.jpg
     narrationEffect: in
     narrationHAlignment: left
@@ -240,7 +241,7 @@ story:
       lipSynch: 1
       motion: 400
     narrationEffect: out
-    textCenter: '[chara:303101:effect_emotion_surprise_0][se:7226_shock]... Hwe?!'
+    textCenter: '[chara:303101:effect_emotion_surprise_0][se:7226_shock]...Hwe?!'
   - chara:
     - id: 303101
       lipSynch: 0
@@ -281,8 +282,8 @@ story:
   - chara:
     - id: 303101
       motion: 0
-    narration: Also, at this rate,@I'll be going searching for materials@with Kano
-      again next Saturday too...
+    narration: Also, at this rate,@I'll be searching for materials@with Kano again
+      next Saturday too...
   - chara:
     - id: 303101
       lipSynch: 0
@@ -297,9 +298,8 @@ story:
     - id: 303101
       motion: 0
     nameNarration: Rika
-    narration: 'To: Ren☆@Thank you so much for the invite,@I''m really glad (*‘w‘
-      *) but I''m so sorry!@I''m already busy with plans on Saturday,@so I can''t
-      gooo! (>_<)'
+    narration: 'To: Ren☆@Thanks for the invite, but I already have@plans on Saturday,
+      so I can''t make it! (>_<)'
     narrationBg: bg_adv_21073.jpg
     narrationEffect: in
     narrationHAlignment: left
@@ -350,7 +350,7 @@ story:
   - chara:
     - id: 303101
       motion: 201
-    textRight: Kuaah～!@It's a lot harder than I thought it'd be...
+    textRight: Kuaah~!@It's a lot harder than I thought it'd be...
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
@@ -433,7 +433,7 @@ story:
   - chara:
     - id: 300101
       motion: 200
-    textLeft: But before that, let's take a break okay?
+    textLeft: But before that, let's take a break, okay?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -537,9 +537,8 @@ story:
     - id: 300101
       motion: 0
     nameNarration: Ren
-    narration: 'Ren☆@To: Ayano Rika@Subject: Teddy bear exhibition@It looks like there
-      is a teddy bear exhibition@in Central ward art gallery.@Why don''t we try going
-      there next Sunday?'
+    narration: 'Ren☆@To: Rika Ayano@Subject: Teddy Bear Exhibit@There''s a teddy bear
+      exhibit at the art@museum in the Chuo district on Sunday.@Wanna go?'
     narrationBg: bg_adv_16102.jpg
     narrationEffect: in
     narrationHAlignment: left

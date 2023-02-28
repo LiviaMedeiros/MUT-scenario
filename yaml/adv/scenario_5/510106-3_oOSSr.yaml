@@ -26,7 +26,7 @@ story:
   - chara:
     - id: 402101
       lipSynch: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '...'
   - bgm: bgm03_story08
     chara:
@@ -48,7 +48,7 @@ story:
     textRight: Yes, though I didn't know she did this.
   - chara:
     - id: 101503
-    textRight: I had no idea she met Darc and her friends@in a dream...
+    textRight: I had no idea she met Tart and her friends@in a dream...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -112,7 +112,7 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 402201
-    textLeft: Darc's nightmare must've had a curse on it@that kept us from remembering.
+    textLeft: Tart's nightmare must've had a curse on it@that kept us from remembering.
   - autoTurnLast: 0.01
     bg: bg_adv_narration.jpg
     chara:
@@ -150,7 +150,7 @@ story:
   - bgm: bgm05_event05
     textRight: So, during the fight for Orléans...
     turnChangeOut: fadeOut
-  - textRight: '...Darc was kept prisoner inside her own@dream, to force her into
+  - textRight: '...Tart was kept prisoner inside her own@dream, to force her into
       becoming a Witch?'
   - textRight: And Iroha Tamaki and her friend helped guide@her to a solution...
   - chara:
@@ -240,7 +240,7 @@ story:
   - textRight: It first started to form immediately @after Elisa arrived in Orléans.
   - textRight: But we had actually recorded signs of the@Time Paradox only a short
       time before...
-  - textRight: '...just around when Darc was having her@nightmare.'
+  - textRight: '...just around when Tart was having her@nightmare.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -248,7 +248,7 @@ story:
       motion: 400
     nameLeft: Ui
     textLeft: But why would they happen then?
-  - textRight: I imagine because whether they would occur@depended on if Darc awoke
+  - textRight: I imagine because whether they would occur@depended on if Tart awoke
       safely or not.
   - textRight: If she hadn't, then I expect the future@would change quite drastically.
   - textRight: To put it simply...
@@ -276,7 +276,7 @@ story:
     - id: 101503
       motion: 300
     nameRight: Ui
-    textRight: What would happen if Iroha and Yachiyo didn't@come to help Darc?
+    textRight: What would happen if Iroha and Yachiyo didn't@come to help Tart?
     turnChangeOut: fadeOut
   - chara:
     - id: 402201
@@ -290,7 +290,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Melissa
-    textRight: If she won, then that would mean Darc would@become a Witch...
+    textRight: If she won, then that would mean Tart would@become a Witch...
   - chara:
     - id: 402201
     textLeft: That would presumably throw all of Europe,@no, all of the world into
@@ -313,7 +313,7 @@ story:
       id: 402601
       motion: 0
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: But didn't we win when Iroha came to help us?
   - chara:
     - id: 402601

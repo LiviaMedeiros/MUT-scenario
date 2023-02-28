@@ -15,13 +15,13 @@ story:
     - id: 102801
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-8-1
     nameCenter: Himena
-    textCenter: Yes yes, O and K.
+    textCenter: Yes yes, a-okay.
     turnChangeOut: fadeOutLogo_Neomagi
   - chara:
     - id: 102801
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-8-2
     nameCenter: Himena
-    textCenter: If that's what Shizuka of Tokime happened to say...
+    textCenter: If that's what Shizuka of the@Tokime happened to say...
   - chara:
     - eyeClose: 1
       id: 102801
@@ -30,7 +30,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-8-3
     nameCenter: Himena
-    textCenter: '.....'
+    textCenter: '...'
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -47,21 +47,21 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-8-5
     nameCenter: Himena
-    textCenter: The BF said that's good enough info for him.
+    textCenter: My bae said that's good enough info for him.
   - chara:
     - id: 102801
       motion: 300
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-8-6
     nameCenter: Himena
-    textCenter: Who woulda known we'd get one chance to snag us@a partner just by
-      being attacked.
+    textCenter: And thanks to getting attacked, we've now got@an outside shot at checking
+      up on our opponents...
   - chara:
     - id: 102801
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-8-7
     nameCenter: Himena
-    textCenter: All this cutie had to do is invite her herself. Talk@about good timing.
+    textCenter: Looks like perfect opportunity to@give them the sales pitch myself.
   - autoTurnLast: 1
     bg: bg_adv_13143.jpg
     chara:
@@ -93,7 +93,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-8-10
     nameRight: Chiharu
-    textRight: Shizuka and Sunao, you should just focus on finding@their base.
+    textRight: Shizuka and Sunao, you should just@focus on finding their base.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -104,7 +104,7 @@ story:
     - id: 102601
       motion: 0
     nameLeft: Sunao
-    textLeft: We still need to check who in the branch families@can join this operation...
+    textLeft: We still need to check who in the branch@families can join this operation...
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -128,7 +128,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-8-14
     nameRight: Chiharu
-    textRight: I'll be fine, Chika and Ryouko will be with me.
+    textRight: I'll be fine, Chika and Ryoko will be with me.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

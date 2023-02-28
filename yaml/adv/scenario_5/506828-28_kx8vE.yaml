@@ -169,7 +169,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102500
-    textRight: Stone-holding? Is that what you want?
+    textRight: You want us to pile rocks on you?
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp.json

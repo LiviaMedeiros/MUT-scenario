@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm01_anime07
     chara:
     - cheek: 0
@@ -15,7 +15,7 @@ story:
       pos: 2
       posX: 40
     nameLeft: Manaka
-    nameRight: ' Kyubey'
+    nameRight: Kyubey
     textRight: The entrance exam to St. Liliana Academy?
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -95,13 +95,13 @@ story:
     textLeft: But still...
   - bgm: bgm03_story07
     nameNarration: Manaka's Father
-    narration: I think this is our last chance @to save the restaurant.
-    narrationBg: bg_adv_21221.jpg
+    narration: '"I think this is our last chance@to save the restaurant."'
+    narrationBg: bg_adv_19221.jpg
     narrationEffect: in
-  - narration: I want to do everything@I can to make it happen.
-  - narration: Relying on my daughter@to save me... What a pathetic father I am...
-  - narration: It's inexcusable...@Me laying such a burden on you...
-  - narration: But...will you fulfill your father's@first and last selfish wish?
+  - narration: '"I want to do everything@I can to make it happen."'
+  - narration: '"Relying on my daughter@to save me... What a pathetic father I am..."'
+  - narration: '"It''s inexcusable...@Me laying such a burden on you..."'
+  - narration: '"But...will you fulfill your father''s@first and last selfish wish?"'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -110,7 +110,7 @@ story:
       soulGem: 0
     - id: 810000
     nameLeft: Manaka
-    nameRight: ' Kyubey'
+    nameRight: Kyubey
     narrationEffect: out
     textLeft: I'd never seen my dad look so weak and@defeated before...
   - chara:
@@ -140,12 +140,12 @@ story:
   - bgm: stop
     chara:
     - id: 810000
-    textRight: 'Manaka, '
+    textRight: Manaka...
   - bgm: bgm01_anime07
     chara:
     - id: 810000
       motion: 0
-    textRight: when I last saw him, he did not appear@to have gotten any smaller.
+    textRight: When I last saw him, he did not appear@to have gotten any smaller.
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -173,5 +173,5 @@ story:
     textLeft: Now go! Shoo!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

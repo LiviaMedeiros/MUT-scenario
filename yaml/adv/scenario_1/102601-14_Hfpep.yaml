@@ -17,7 +17,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-1
     nameCenter: Alexandra
-    textCenter: '.....'
+    textCenter: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 103501
@@ -31,19 +31,19 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-3
     nameCenter: Alexandra
-    textCenter: Hime is still attempting to win the Tokime clan,
+    textCenter: Hime is still attempting to@win over the Tokime Clan,
   - chara:
     - id: 103501
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-4
     nameCenter: Alexandra
-    textCenter: And she's about to start moving.
+    textCenter: and she's about to start moving.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 103501
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-5
     nameCenter: Alexandra
-    textCenter: I thought it would be a little later before she@started causing trouble,
+    textCenter: I thought it would be a little longer before@she started causing trouble,
       though...
   - chara:
     - cheek: 0
@@ -53,29 +53,30 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-6
     nameCenter: Alexandra
-    textCenter: '.....'
+    textCenter: '...'
   - chara:
     - id: 103501
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-7
     nameCenter: Alexandra
-    textCenter: Her end goal is still the same - she wants humans@under Magical Girls.
+    textCenter: Her end goal is still the same. She wants@humans to serve under Magical
+      Girls.
   - chara:
     - id: 103501
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-8
     nameCenter: Alexandra
-    textCenter: That is why she is trying to enact Magical Girl@supremacy,
+    textCenter: That is why she's trying to@enact Magical Girl Supremacy,
   - chara:
     - id: 103501
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-9
     nameCenter: Alexandra
-    textCenter: So that the world can know the existence of@Magical Girls.
+    textCenter: so that the world will know the@existence of Magical Girls.
   - chara:
     - id: 103501
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-10
     nameCenter: Alexandra
-    textCenter: What is happening to Tokime is just one event@along the way.
+    textCenter: What is happening to the Tokime is@just one event along the way.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -85,7 +86,7 @@ story:
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-11
     nameCenter: Alexandra
     surround: stop
-    textCenter: …………
+    textCenter: '...'
     turnEffect: stop
   - chara:
     - eyeClose: 0
@@ -99,10 +100,10 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-12a
     nameCenter: Alexandra
-    textCenter: Is the only one that's subconsciously resisting@really just Iroha...?
+    textCenter: Is it really only Iroha Tamaki@that's subconsciously resisting...?
   - bgm: stop
     nameRight: Himena's Voice
-    textRight: Whatcha talking about?
+    textRight: Whatcha talkin' 'bout?
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-13
   - chara:
     - cheek: 0
@@ -111,7 +112,7 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-14
     nameCenter: Alexandra
-    textCenter: '[chara:103501:effect_emotion_surprise_0][se:7226_shock]――gh?!'
+    textCenter: '[chara:103501:effect_emotion_surprise_0][se:7226_shock]*Gasp*'
   - autoTurnLast: 0.2
     chara:
     - id: 103501
@@ -173,7 +174,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-21
     nameLeft: Alexandra
-    textLeft: A-and since there's no one around here at night, I@thought maybe I could
+    textLeft: A-and since there's no one around here at night,@I thought maybe I could
       sing a little.
   - chara:
     - eyeClose: 1
@@ -190,7 +191,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-14-23
     nameLeft: Alexandra
-    textLeft: '.....'
+    textLeft: '...'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

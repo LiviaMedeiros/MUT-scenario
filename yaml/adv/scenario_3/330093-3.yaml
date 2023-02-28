@@ -12,7 +12,7 @@ story:
       tear: 1
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       motion: 1
       pos: 0
     nameLeft: Manaka
@@ -29,28 +29,28 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
     textLeft: Well, thank you.@But as a chef, it's to be expected.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
     textLeft: More importantly…
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     textLeft: Are you really a Magical Girl, Sana?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
     textLeft: If you are, then being the first one in line@to buy my bento...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       motion: 200
     textLeft: Shouldn't be a problem at all.
   - chara:
@@ -67,7 +67,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 1
     textLeft: '...Wow.@You certainly are honest, huh?'
   - chara:
@@ -79,7 +79,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
     textLeft: Yes?
   - chara:
     - cheek: 1
@@ -97,14 +97,14 @@ story:
     - cheek: 0
       effect: emotion_surprise_0
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       motion: 400
     se: 7226_shock
     textLeft: Yeah yeah yeah!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     textLeft: I get it.@You're a presumptuous person.
   - chara:
@@ -116,7 +116,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       motion: 1
     textLeft: What is it?
   - bgm: bgm03_story07
@@ -134,7 +134,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 0
     textLeft: …
@@ -152,7 +152,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 300
     textLeft: …
@@ -192,19 +192,19 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     textLeft: Sana...
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
     textLeft: …
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 300
     textLeft: ("Don't worry about the shape...")
@@ -218,7 +218,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     textLeft: Huh?
   - chara:
@@ -235,12 +235,12 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
     textLeft: It's fine.@The bentos aren't the only food I have…
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
     textLeft: Look![chara:300900:motion_100] I've got a nice chunky soup!@I brought
       it from home.
   - chara:
@@ -254,7 +254,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     textLeft: I can't tell if you're sniffling from@crying or because you're smelling...
   - chara:
@@ -266,13 +266,13 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 1
     textLeft: Ha.@Oh well, I guess I don't have a choice…
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 100
     textLeft: Here, try some of the soup too!
   - chara:
@@ -284,18 +284,18 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 1
     textLeft: Well, the bento is cold, right?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
     textLeft: So a bit of warm soup...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 100
     textLeft: Should make your meal even better!
   - chara:
@@ -312,7 +312,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 1
     textLeft: How is it?
   - chara:
@@ -341,32 +341,32 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
     textLeft: Right?
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 0
     textLeft: (Look at that smile...)
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
     textLeft: (It's because of my cooking...)
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 200
     textLeft: (My food has the power to bring that@kind of smile to a person's face...)
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 0
     textLeft: (Now I remember why...)
@@ -374,21 +374,21 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 300
     textLeft: (The reason I started cooking...)
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 1
     textLeft: Sana...
     turnEffect: stop
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
     textLeft: How can I quit when I have@a customer like you...
   - chara:
     - cheek: 0

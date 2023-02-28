@@ -27,7 +27,7 @@ story:
     textLeft: Thank you for your politeness. @I am Shizuka Tokime's mother.
   - chara:
     - id: 801000
-    textLeft: As a fellow mother of a Diviner, I very much look forward to working
+    textLeft: As a fellow mother of a Diviner, I very much look @forward to working
       with you.
   - chara:
     - cheek: 0
@@ -38,7 +38,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 801000
-    textLeft: I know you're worried, but it'll be alright. Those daughters of ours
+    textLeft: I know you're worried, but it'll be alright. Those @daughters of ours
       are strong.
   - autoTurnLast: 0.5
     chara:
@@ -74,7 +74,7 @@ story:
     textRight: I was wondering what the practice would be, @but it's FIGHTING practice?!
   - chara:
     - id: 102501
-    textLeft: As you saw yesterday, improving your senses is necessary to fight against
+    textLeft: As you saw yesterday, improving your senses is @necessary to fight against
       Devils.
   - chara:
     - id: 102601
@@ -85,7 +85,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 102501
       motion: 100
-    textLeft: My mother is a master of Tokime Isshin Style.
+    textLeft: My mother is a master of Tokime Unified Style.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -97,7 +97,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102601
       motion: 200
-    textRight: Woah-!
+    textRight: Woah—!
   - chara:
     - id: 102701
       motion: 200
@@ -129,10 +129,10 @@ story:
       face: mtn_ex_020.exp.json
       id: 102601
       motion: 0
-    textRight: Ye—yes!
+    textRight: Y-yes!
   - chara:
     - id: 801000
-    textLeft: Then, first, try striking me however you like with this bamboo sword.
+    textLeft: Then, first, try striking me however you like with @this bamboo sword.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -210,7 +210,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Shizuka's Mother
-    textLeft: Hahaha, @just kidding. Rest for a while.
+    textLeft: Hahaha, just kidding. @Rest for a while.
   - chara:
     - id: 102601
       motion: 300
@@ -255,7 +255,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Sunao
-    textLeft: Don't lose heart, Chiharu. If you shine in just one area, that's enough.
+    textLeft: Don't lose heart, Chiharu. If you shine in just @one area, that's enough.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -286,7 +286,7 @@ story:
     textLeft: Also, courage is very important.
   - chara:
     - id: 801000
-    textLeft: Strength and technique are one thing, but changing your heart is much
+    textLeft: Strength and technique are one thing, but changing @your heart is much
       more difficult.
   - chara:
     - cheek: 0
@@ -356,7 +356,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Shizuka
-    textLeft: That's a shame to hear said about me...
+    textLeft: It's frustrating to hear you say that...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -369,7 +369,7 @@ story:
     - id: 801000
     - id: 102601
       motion: 0
-    textLeft: So keep that courage in your heart, and head to the ceremony with confidence.
+    textLeft: So keep that courage in your heart, and head to @the ceremony with confidence.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -377,7 +377,7 @@ story:
     textLeft: Because that will to protect something, deep inside @of you,
   - chara:
     - id: 801000
-    textLeft: will undoubtedly lead you to protect the nation and save people.
+    textLeft: will undoubtedly lead you to defend the nation and @save people.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -442,13 +442,13 @@ story:
     textLeft: Is something the matter?
   - chara:
     - id: 800700
-    textRight: I'm here to tell y'all that things are ready up at the shrine.
+    textRight: I'm here to tell y'all that things are ready up at the @shrine.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 800700
-    textRight: '''Course, we still have some time. Feel free to drop by once you''ve
-      all had dinner.'
+    textRight: '''Course, we still have some time. Come on over @after you''ve all
+      had dinner.'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json

@@ -133,7 +133,7 @@ story:
       pos: 0
     nameLeft: Mikoshiba
     nameRight: Chiharu
-    textLeft: Chiharu
+    textLeft: Chiharu.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

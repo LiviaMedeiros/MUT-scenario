@@ -20,8 +20,8 @@ story:
       motion: 0
       pos: 0
     nameLeft: Shizuku
-    textLeft: Right... [chara:300701:cheek_0:face_mtn_ex_010.exp.json]I've been waiting...
-      @I mean, welcome.
+    textLeft: Right... [chara:300701:cheek_0:face_mtn_ex_010.exp.json]I've been waiting...@I
+      mean, welcome.
   - chara:
     - cheek: 0
       effect: emotion_surprise_0
@@ -41,12 +41,12 @@ story:
       face: mtn_ex_030.exp.json
       id: 301901
       motion: 100
-    textRight: That was the perfect chance for @a witty comeback!
+    textRight: That was the perfect chance for@a witty comeback!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300701
-    textLeft: Oh, yeah... @[chara:300701:cheek_0:face_mtn_ex_000.exp.json]Sorry, sorry...
+    textLeft: Oh, yeah...@[chara:300701:cheek_0:face_mtn_ex_000.exp.json]Sorry, sorry...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -59,7 +59,7 @@ story:
       id: 300701
       lipSynch: 0
       motion: 300
-    textLeft: (I don't know if anyone @could deal with your jokes...)
+    textLeft: (I don't know if anyone@could deal with your jokes...)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -111,7 +111,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 301901
-    textLeft: And a cola float is a cola float. @Makes sense!
+    textLeft: And a cola float is a cola float.@Makes sense!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -197,7 +197,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 301901
       motion: 0
-    textLeft: Ah, got it, got it! @[chara:301901:cheek_0:face_mtn_ex_010.exp.json]Totally
+    textLeft: Ah, got it, got it!@[chara:301901:cheek_0:face_mtn_ex_010.exp.json]Totally
       understand.
   - chara:
     - cheek: 0

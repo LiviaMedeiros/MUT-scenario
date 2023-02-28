@@ -59,6 +59,8 @@ story:
     chara:
     - effect: fadeout
       id: 303201
+    - effect: fadeout
+      id: 800700
     textClear: 1
   - autoTurnLast: 0.5
     chara:

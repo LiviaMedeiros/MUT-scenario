@@ -246,7 +246,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 800600
-    textRight: Sunao becoming a Diviner would've been a surprise to Mikoshiba.
+    textRight: Sunao becoming a Diviner would've been a surprise @to Mikoshiba.
   - chara:
     - id: 800600
     textRight: So she turned to us, which led to a domino row of unexpected incidents.

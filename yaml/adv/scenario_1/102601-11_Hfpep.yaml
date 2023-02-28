@@ -20,8 +20,8 @@ story:
     - id: 305800
       motion: 100
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-1
-    nameRight: Ryouko
-    textRight: Come on, Chiharu. Ain't it better to withdraw?
+    nameRight: Ryoko
+    textRight: Come on, Chiharu.@Ain't it better for us to withdraw?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -31,14 +31,15 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-2
     nameRight: Chika
-    textRight: Our goal was only to take out our enemy's boss.@Now with this many
-      people...
+    textRight: Our goal was only to take out our enemy's boss.@Now that there's this
+      many people...
   - chara:
     - id: 304700
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-3
     nameRight: Chika
-    textRight: If we pursue too far, there will only be more@injured to care for.
+    textRight: If we go too far pursing them, there@will only be more injured to care
+      for.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -55,7 +56,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-5
     nameLeft: Chiharu
-    textLeft: Okay, I'll do as Ryouko and Chika say.
+    textLeft: Okay, I'll do as you say, Ryoko, Chika.
   - chara:
     - id: 102600
       motion: 100
@@ -75,7 +76,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-7
     nameLeft: Himena
-    textLeft: '...One day Tokime will be right beside us cuties.'
+    textLeft: '...One day the Tokime will stand beside us cuties.'
   - chara:
     - cheek: 0
       id: 102600
@@ -83,7 +84,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-8
     nameRight: Chiharu
-    textRight: Hm! Don't be so sure about that!
+    textRight: Hmph! Don't be so sure about that!
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -99,7 +100,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-9
     nameLeft: Himena
-    textLeft: '.....'
+    textLeft: '...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -118,14 +119,14 @@ story:
       motion: 0
       pos: 2
     nameLeft: San
-    textLeft: Withdrawing before they get bogged down. Our@opponents have made a wise
+    textLeft: Withdrawing before they get bogged down.@Our opponents have made a wise
       decision.
   - chara:
     - id: 103200
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-11
     nameRight: Miyuri
-    textRight: '...Huu...huu...'
+    textRight: '*Inhale*@*Exhale*'
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -138,7 +139,7 @@ story:
     - id: 103200
       lipSynch: 0
     nameRight: Miyuri
-    textRight: …………[wait:1.0][chara:103200:motion_000][chara:103200:cheek_0][chara:103200:face_mtn_ex_050.exp.json][chara:103200:lipSynch_1]Ha-
+    textRight: '...[wait:1.0][chara:103200:motion_000][chara:103200:cheek_0][chara:103200:face_mtn_ex_050.exp.json][chara:103200:lipSynch_1][chara:103200:voiceFull_fullvoice/section_102601/vo_full_102601-11-13]Ha.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -162,7 +163,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-16
     nameLeft: Himena
-    textLeft: This cutie's totally O and K★
+    textLeft: This cutie's totally a-okay★
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -180,13 +181,13 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-18
     nameRight: Alexandra
-    textRight: But Hime, why did you allow them to attack you...?
+    textRight: But Hime, why did you@allow them to attack you...?
   - chara:
     - id: 103500
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-19
     nameRight: Alexandra
-    textRight: Miyu was right in calling you careless. You even@knew you were being
+    textRight: Miyu was right in calling you careless.@You even knew you were being
       spied on...
   - chara:
     - cheek: 0
@@ -196,7 +197,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-20
     nameLeft: Himena
-    textLeft: This cutie wanted to take a chance and measure@how they'd react.
+    textLeft: This cutie wanted to take a chance@and measure how they'd react.
   - chara:
     - id: 103500
       motion: 0
@@ -223,7 +224,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-22
     nameLeft: Himena
-    textLeft: '.....'
+    textLeft: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
     chara:
@@ -244,7 +245,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-23
     nameCenter: ""
-    textCenter: '.....'
+    textCenter: '...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -270,7 +271,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-24
     nameCenter: Himena
-    textCenter: '...So that''s how it goes. Guess we just give up.'
+    textCenter: '...So that''s how it goes.@Guess we just give up.'
   - autoTurnLast: 0.2
     bg: bg_adv_21562.jpg
     chara:
@@ -290,7 +291,7 @@ story:
     - id: 102800
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-11-25
     nameLeft: Himena
-    textLeft: That the Tokime clan is just like us after all.
+    textLeft: That the Tokime Clan is just like us after all.
     turnChangeOut: fadeOut
   - autoTurnLast: 2
     turnChangeIn: fadeIn

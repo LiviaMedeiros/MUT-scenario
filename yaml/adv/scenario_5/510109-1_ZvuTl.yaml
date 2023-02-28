@@ -105,7 +105,7 @@ story:
   - chara:
     - id: 402100
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: The English Magical Girls...
     turnChangeOut: rollOutFast
   - autoTurnLast: 2
@@ -329,7 +329,7 @@ story:
     - id: 402200
       motion: 100
     textBg: shout
-    textRight: Darc!
+    textRight: Tart!
   - chara:
     - cheek: 1
       effect: slideInRightFast
@@ -338,7 +338,7 @@ story:
       motion: 100
       pos: 1
       posX: -80
-    nameCenter: Darc
+    nameCenter: Tart
     textBg: shout
     textCenter: I'm ready![flashEffect:flashWhite2][bgEffect:shakeLarge][surround:4021A03]
   - chara:
@@ -573,7 +573,7 @@ story:
   - chara:
     - id: 402100
       motion: 1
-    nameCenter: Darc
+    nameCenter: Tart
     narrationEffect: out
     textCenter: Liz! Melissa! Are you all right?!
   - autoTurnLast: 0.2
@@ -593,7 +593,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Melissa
-    textRight: Darc!
+    textRight: Tart!
   - chara:
     - id: 402200
       motion: 1
@@ -787,7 +787,7 @@ story:
   - chara:
     - id: 402200
       lipSynch: 0
-    textLeft: (Darc and Elisa better take out that Witch@soon.)
+    textLeft: (Tart and Elisa better take out that Witch@soon.)
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

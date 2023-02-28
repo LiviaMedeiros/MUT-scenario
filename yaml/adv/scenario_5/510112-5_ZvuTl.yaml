@@ -140,7 +140,7 @@ story:
       lipSynch: 0
       motion: 1
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: (I will be sentenced to burn at the stake?)
     turnEffect: thinking
   - chara:
@@ -196,7 +196,7 @@ story:
       pos: 0
       soulGem: 0
     nameLeft: Ui
-    textLeft: Darc...?
+    textLeft: Tart...?
   - autoTurnLast: 1.6
     bg: bg_adv_20081.jpg
     chara:
@@ -218,7 +218,7 @@ story:
   - chara:
     - id: 402101
       lipSynch: 0
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
@@ -243,7 +243,7 @@ story:
     - id: 402600
       motion: 1
     nameRight: Elisa
-    textRight: Let's say, then, that Darc's sacrifice is@already set in stone.
+    textRight: Let's say, then, that Tart's sacrifice is@already set in stone.
     turnChangeOut: fadeOut
   - chara:
     - id: 402600
@@ -268,7 +268,7 @@ story:
       id: 402100
       motion: 0
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Choose...
   - chara:
     - cheek: 1

@@ -37,7 +37,7 @@ story:
     - id: 801800
     nameLeft: Mikoshiba
     nameRight: Sunao
-    textLeft: I heard from the daughter of the head family, @though.
+    textLeft: I heard from the daughter of the head family.
     turnChangeOut: fadeOut
   - chara:
     - id: 801800
@@ -52,24 +52,24 @@ story:
     textLeft: You. Toki girl...
   - chara:
     - id: 801800
-    textLeft: I'd like to request this of you, but if you've gotten attached to them,
+    textLeft: I'd like to request this of you, but if you've gotten @attached to them,
       you won't be of any use.
   - chara:
     - id: 801800
-    textLeft: You're just some young girl, after all.
+    textLeft: I can't rely on you if you just act like a little girl, @after all.
   - chara:
     - id: 102701
       motion: 100
-    textRight: '...But.'
+    textRight: '...But...'
   - chara:
     - id: 102701
       motion: 0
-    textRight: Then, how are we going to eliminate Chiharu Hiroe...?
+    textRight: Then, how are we going to@eliminate Chiharu Hiroe...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801800
-    textLeft: If we simply leave her alone, the shadows ought to devour her.
+    textLeft: If we simply leave her alone,@the shadows ought to devour her.
   - autoTurnLast: 2
     bg: bg_adv_50011.jpg
     bgm: stop
@@ -218,7 +218,7 @@ story:
       id: 102700
       motion: 100
       pos: 2
-    textRight: No, I'm sorry for not recalling about this sooner.
+    textRight: No, I'm sorry for not recalling this sooner.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

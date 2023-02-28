@@ -59,7 +59,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 300701
       motion: 0
-    textRight: What? @[chara:3000701:motion_101]Yeah, I guess I could...
+    textRight: What?@[chara:3000701:motion_101]Yeah, I guess I could...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -104,7 +104,7 @@ story:
       id: 300701
       lipSynch: 0
       motion: 1
-    textRight: (This is getting her more worked up @than the fight with that Witch...)
+    textRight: (This is getting her more worked up@than the fight with that Witch...)
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -295,32 +295,32 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 301901
-    textLeft: Punk? @Who said anything about punk?
+    textLeft: Punk?@Who said anything about punk?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 301901
       motion: 200
-    textLeft: Hey! @Needle Roller aren't punks!
+    textLeft: Hey!@Needle Roller aren't punks!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 301901
       motion: 100
-    textLeft: They're good guys! C'mon, you're gonna @be laughing your head off in
+    textLeft: They're good guys! C'mon, you're gonna@be laughing your head off in
       a minute!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300701
       motion: 101
-    textRight: Wait... @That's not what I'm talking about...
+    textRight: Wait...@That's not what I'm talking about...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 301901
       motion: 0
-    textLeft: NNNGAAAH! No more questions! @C'mon, they're on any minute now!
+    textLeft: NNNGAAAH! No more questions!@C'mon, they're on any minute now!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

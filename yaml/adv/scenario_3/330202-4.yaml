@@ -226,7 +226,7 @@ story:
       pos: 0
     nameLeft: Himika
     textLeft: '...'
-  - bg: bg_adv_21241.jpg
+  - bg: bg_adv_11101.jpg
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -258,8 +258,8 @@ story:
       pos: 2
     nameLeft: Himika
     nameRight: Ayame
-    textLeft: '[chara:302001:effect_emotion_surprise_0][se:7226_shock]...?! I got
-      it![chara:302001:lipSynch_0][wait:0.8][chara:302001:cheek_0][chara:302001:face_mtn_ex_011.exp.json][chara:302001:lipSynch_1]'
+    textLeft: '[chara:302001:effect_emotion_surprise_0][se:7226_shock]...?!@[chara:302001:lipSynch_0][wait:0.8][chara:302001:cheek_0][chara:302001:face_mtn_ex_011.exp.json][chara:302001:lipSynch_1]I
+      got it!'
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: stop

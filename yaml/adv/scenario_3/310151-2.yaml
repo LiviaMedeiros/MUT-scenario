@@ -1,13 +1,24 @@
 ---
 story:
   group_1:
-  - autoTurnLast: 0.01
+  - armatureList:
+    - animation:
+      - action
+      armatureId: 1
+      filePath: resource/image_native/effect/story/general/3003_petal_messageback.ExportJson
+      zOrder: messageBack
+    - animation:
+      - action
+      armatureId: 2
+      filePath: resource/image_native/effect/story/general/6001_petal_bgfront.ExportJson
+      zOrder: bgFront
+    autoTurnLast: 0.01
     bg: bg_adv_19092.jpg
     bgm: bgm03_story02
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -15,7 +26,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -23,13 +34,13 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
     nameRight: Nemu
     textLeft: A career path...
     turnChangeOut: fadeOut
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     textRight: '...questionnaire?'
   - chara:
@@ -55,7 +66,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -68,7 +79,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101501
@@ -78,7 +89,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -87,15 +98,15 @@ story:
     nameRight: Nemu
     textRight: As for me, I've already rejected some offers@from some publishers.
   - chara:
-    - id: 101403
+    - id: 101471
     textRight: I mean, I can earn a living as a writer just@from ad revenue.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
     textRight: I've been able to engage in my creative@pursuits free of economic concerns.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     textRight: So in that regard, I suppose I've also@reached some of my goals.
   - chara:
@@ -106,7 +117,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     - id: 101501
       pos: 1
     textClear: 1
@@ -116,7 +127,6 @@ story:
       lipSynch: 0
     nameCenter: Ui
     textCenter: (They both know exactly what they want to@do.)
-    turnEffect: thinking
   - chara:
     - id: 101501
       lipSynch: 0
@@ -154,7 +164,6 @@ story:
     nameLeft: Ui
     nameRight: Eternal Sakura
     textRight: Ui? Are you sad?
-    turnEffect: stop
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -199,7 +208,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -210,19 +219,19 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 400
     - eyeClose: 0
       id: 101501
       motion: 0
     textRight: I think we're just an exception though.
   - chara:
-    - id: 100701
+    - id: 100770
     textRight: Why not try comparing yourself to someone@else?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -238,7 +247,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       motion: 0
     textRight: The Magical Girl you became friends with@recently.
   - chara:
@@ -248,6 +257,9 @@ story:
       motion: 100
     textLeft: '...Oh!'
   - autoTurnLast: 2
+    deleteArmatureList:
+    - 1
+    - 2
     turnChangeIn: fadeIn
 version: 3
 ...

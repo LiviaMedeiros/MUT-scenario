@@ -48,7 +48,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -80,7 +80,7 @@ story:
     - effect: fadeout
       id: 715000
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - chara:
     - cheek: 0
@@ -121,7 +121,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: White Feather
-    textLeft: '[chara:715100:lipSynch_1]Understood...'
+    textLeft: '...[wait:1.0][chara:715100:lipSynch_1]Understood...'
   - nameNarration: White Feather
     narration: '"Our wish is for every Magical Girl@in Kamihama to work for the Magius,@like
       we all did before."'
@@ -170,7 +170,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -179,7 +179,7 @@ story:
     nameRight: Touka
     textRight: They want to free Magical Girls, but they@don't know how.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 200
     textRight: They understand they won't be able to do it@with their current power
       and intelligence.
@@ -367,7 +367,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -376,31 +376,31 @@ story:
     nameCenter: Nemu
     textCenter: So, you wanted to drag us along with you...
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 300
     textCenter: I see. We changed you irrevocably...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
     textCenter: I suppose in a sense it is our responsibility@to follow you to the
       grave.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       motion: 0
     textCenter: However, you are very, very wrong about one@thing. We have not abandoned
       our ideals.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -409,16 +409,16 @@ story:
     nameCenter: Touka
     textCenter: That's right. We may not be the Magius@anymore, but...
   - chara:
-    - id: 100701
+    - id: 100770
     textCenter: We're still trying to free Magical Girls.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 201
     textCenter: Just this time we are working with the other@Magical Girls in Kamihama.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     textClear: 1
   - chara:
     - cheek: 0
@@ -476,7 +476,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -490,13 +490,13 @@ story:
     nameRight: Nemu
     textRight: What do you say?
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     textRight: Why don't you work alongside us here, help@us seek liberation?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -520,7 +520,7 @@ story:
       lipSynch: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
     surround: 7003_wind
     textBg: shout
     textLeft: '...?!'
@@ -569,7 +569,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1

@@ -35,7 +35,7 @@ story:
     - eyeClose: 1
       id: 402101
       lipSynch: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '...'
     turnChangeOut: fadeOut
   - chara:
@@ -190,7 +190,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 402101
       lipSynch: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '[chara:402101:effect_emotion_surprise_0][se:7226_shock]...?'
   - chara:
     - id: 402101
@@ -238,7 +238,7 @@ story:
       id: 402101
       motion: 300
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: Ui... Where is she going?
   - autoTurnLast: 0.2
     chara:
@@ -265,7 +265,7 @@ story:
   - chara:
     - id: 402101
       motion: 100
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: I did.
   - bgm: stop
     chara:
@@ -398,7 +398,7 @@ story:
     se: 7208_wander_into
     textClear: 1
     turnEffect: stop
-  - nameNarration: Darc
+  - nameNarration: Tart
     narration: '[textBlack:"Ui!"]'
     turnChangeOut: whiteOut
   - autoTurnLast: 1
@@ -471,7 +471,7 @@ story:
       pos: 0
       soulGem: 0
     nameLeft: Ui
-    textLeft: Darc...and Elisa!
+    textLeft: Tart...and Elisa!
   - chara:
     - id: 402600
     nameRight: Elisa

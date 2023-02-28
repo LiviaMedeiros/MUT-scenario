@@ -110,6 +110,8 @@ story:
     chara:
     - effect: fadeout
       id: 200300
+    - effect: fadeout
+      id: 200100
     textClear: 1
   - chara:
     - cheek: 0

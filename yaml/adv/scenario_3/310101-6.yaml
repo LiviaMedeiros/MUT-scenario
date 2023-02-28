@@ -1,161 +1,150 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_46001.jpg
-    bgm: bgm01_battle04
+  - autoTurnLast: 0.01
     chara:
+    - id: 6001
+      name: sprite_0
+      pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 101000
       motion: 0
-      pos: 0
-    nameLeft: Momoko
-    textLeft: There you are, Witch.
+      pos: 2
     turnChangeIn: fadeIn
+  - bg: bg_adv_46001.jpg
+    bgm: bgm01_anime15
+    nameRight: Momoko
+    textRight: There you are, Witch.
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 101000
+    - id: 101000
       motion: 100
-    textLeft: '...She''s got a lotta nerve tryin''@to screw up this concert for me!'
+    textRight: '...She''s got a lotta nerve tryin''@to screw up this concert for me!'
+  - chara:
+    - id: 101000
+    textRight: No accountin' for bad taste!
+  - chara:
+    - id: 101000
+      motion: 1
+    textRight: Now I'm real pissed.
+  - chara:
+    - id: 101000
+    textRight: I'm gonna get rough with ya...
+  - chara:
+    - id: 101000
+    textRight: So you'll just have to accept it!
+  - chara:
+    - id: 101000
+      motion: 200
+      mouthOpen: 1
+    textRight: Hmph!@[chara:101000:motion_200:cheek_1]Prepare yourself!
+  - bgm: stop
+    nameCenter: ???
+    textCenter: There! The Witch...@...and a Magical Girl?!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_050.exp.json
       id: 101000
-    textLeft: No accountin' for bad taste!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 101000
+      lipSynch: 0
       motion: 0
-    textLeft: Now I'm real pissed.
+      mouthOpen: 0
+    textRight: '[chara:101000:effect_emotion_surprise_0][se:7226_shock]...Ah!@[wait:1.0][chara:101000:lipSynch_1]Who
+      the?'
+  - autoTurnLast: 0.02
+    chara:
+    - id: 101000
+      pos: 0
+  - chara:
+    - cheek: 0
+      face: mtn_ex_050.exp.json
+      id: 100900
+      lipSynch: 0
+      motion: 400
+      pos: 2
+    nameRight: ???
+    textRight: Wha?!@[wait:1.0][chara:100900:lipSynch_1]You! You're that girl!
+  - chara:
+    - id: 101000
+      lipSynch: 0
+    nameLeft: Momoko
+    textLeft: Huh?@[wait:1.0][chara:101000:lipSynch_1]You!
+  - bgm: bgm01_battle02
+    chara:
+    - id: 101000
+      motion: 400
+    textLeft: Whaaaat?!@You're a Magical Girl too?!
+  - chara:
+    - id: 100900
+      motion: 100
+    textRight: Hold on. You are too?!
+  - chara:
+    - id: 101000
+      motion: 300
+    textLeft: I just happen to talk to a Magical Girl...
+  - chara:
+    - id: 101000
+    textLeft: AND she likes the same idol as me...
+  - chara:
+    - id: 101000
+      motion: 0
+    textLeft: Coincidences like this actually happen?!
+  - chara:
+    - id: 100900
+      motion: 0
+    nameRight: ???
+    textRight: I-I'm as surprised as you!
+  - autoTurnLast: 0.2
+    chara:
+    - effect: fadeout
+      id: 101000
+    - effect: fadeout
+      id: 100900
+    textClear: 1
+  - chara:
+    - id: 6001
+      name: sprite_0
+      pos: 1
+    nameCenter: ""
+    textCenter: '[flashEffect:flashWhite2][bgEffect:shakeLarge]□◇☆◎▲☆◎□'
+  - autoTurnLast: 0.2
+    chara:
+    - effect: fadeout
+      id: 6001
+      name: sprite_0
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 101000
       motion: 1
-    textLeft: I'm gonna get rough with ya...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 101000
-    textLeft: So you'll just have to accept it!
-  - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 101000
-      mouthOpen: 1
-    textLeft: Hmph!@[chara:101000:motion_200:cheek_1]Prepare yourself!
-  - bgm: stop
-    se: 7107_arrivalone
-    textRight: There! The Witch...@...and a Magical Girl?!
-  - chara:
-    - cheek: 0
-      effect: emotion_surprise_0
-      face: mtn_ex_050.exp.json
-      id: 101000
-    se: 7226_shock
-    textLeft: '...Ah!@[chara:101000:motion_000]Who the?'
-  - chara:
-    - cheek: 1
-      face: mtn_ex_050.exp.json
-      id: 100900
-      motion: 0
-      pos: 2
-    nameRight: ???
-    textRight: Wha?! You! @You're that girl!
-  - chara:
-    - cheek: 1
-      face: mtn_ex_050.exp.json
-      id: 101000
-      mouthOpen: 1
-    textLeft: Huh?@You!
-  - bgm: bgm04_movie08
-    chara:
-    - cheek: 1
-      face: mtn_ex_050.exp.json
-      id: 101000
-      motion: 400
-      mouthOpen: 1
-    textLeft: Whaaaat?!@You're a Magical Girl too?!
-  - chara:
-    - cheek: 1
-      face: mtn_ex_050.exp.json
-      id: 100900
-      motion: 400
-    textRight: Hold on. You are too?!
-  - chara:
-    - cheek: 1
-      face: mtn_ex_050.exp.json
-      id: 101000
-      motion: 300
-    textLeft: I just happen to talk to a Magical Girl...
-  - chara:
-    - cheek: 1
-      face: mtn_ex_050.exp.json
-      id: 101000
-    textLeft: AND she likes the same idol as me...
-  - chara:
-    - cheek: 1
-      face: mtn_ex_050.exp.json
-      id: 101000
-      motion: 0
-    textLeft: Coincidences like this actually happen?!
-  - chara:
-    - cheek: 1
-      face: mtn_ex_050.exp.json
-      id: 100900
-      motion: 0
-    textRight: I-I'm as surprised as you!
-  - bgEffect: shakeSmall
-    chara:
-    - id: 6001
-      name: sprite_0
       pos: 0
-    - effect: fadeout
-      id: 100900
-    flashEffect: flashWhite2
-    nameLeft: ""
-    textLeft: □◇☆◎▲☆◎□
-  - chara:
-    - cheek: 1
+    - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101000
-      motion: 0
-      pos: 0
-    - cheek: 1
-      face: mtn_ex_030.exp.json
       id: 100900
       motion: 0
       pos: 2
     nameLeft: Momoko
-    nameRight: ???
-    textLeft: '...But[chara:101000:cheek_0:face_mtn_ex_020.exp.json:motion_001] this
-      is no time for that!'
+    textLeft: '...But this is no time for that!'
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 101000
-      motion: 0
+    - id: 101000
     textLeft: You came here to beat the Witch too, right?
   - chara:
-    - cheek: 1
+    - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100900
+      motion: 100
     textRight: Y-yeah...
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 101000
+    - id: 101000
       motion: 200
     textLeft: So let's take it on together!@Okay?
   - chara:
-    - cheek: 1
+    - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100900
-    textRight: Huh?@Oh yeah...[chara:100900:cheek_1:face_mtn_ex_050.exp.json:motion_400]
-      Sure!
+      motion: 400
+    textRight: Huh?@Oh yeah... Sure!
   - autoTurnFirst: 5.8
     bg: bg_adv_narration.jpg
     bgm: stop
@@ -167,7 +156,7 @@ story:
       pos: 1
       voice: vo_char_1010_00_03
     nameCenter: Momoko
-    textCenter: This always happens. I have the @worst timing. All I can do is laugh!
+    textCenter: This always happens. I have the@worst timing. All I can do is laugh!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: stop

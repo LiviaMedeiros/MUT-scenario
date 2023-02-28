@@ -16,7 +16,7 @@ story:
       pos: 2
     nameLeft: Kako
     nameRight: Felicia
-    textLeft: The final showdown... Hmm, what should @we do?
+    textLeft: The final showdown... Hmm, what should@we do?
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -45,13 +45,13 @@ story:
       motion: 100
       pos: 0
     nameLeft: Ayame
-    textLeft: 'Then let''s just think of one ourselves!@ '
+    textLeft: Then let's just think of one ourselves!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100501
       motion: 100
-    textRight: Man, that sounds like a major pain. Why@don't we just fight?
+    textRight: Man, that sounds like a major pain.@Why don't we just fight?
   - chara:
     - cheek: 0
       face: mtn_ex_022.exp.json
@@ -61,7 +61,7 @@ story:
       pos: 0
     nameLeft: Kako
     textBg: shout
-    textLeft: No! That's absolutely not allowed! You@have to make it a game!
+    textLeft: No! That's absolutely not allowed!@You have to make it a game!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -135,7 +135,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100501
       motion: 400
-    textRight: Geeze, I was just kiddin’!
+    textRight: Geeze, I was just kiddin'!
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -271,7 +271,7 @@ story:
     nameLeft: Felicia
     nameRight: Ayame
     surround: 7003_wind
-    textRight: (Felicia... She's awesome! Really@super-duper fast!)
+    textRight: (Felicia... She's awesome!@Really super-duper fast!)
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: thinking

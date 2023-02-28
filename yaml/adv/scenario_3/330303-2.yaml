@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21241.jpg
+  - bg: bg_adv_11101.jpg
     bgm: bgm03_story09
     chara:
     - cheek: 0
@@ -15,7 +15,7 @@ story:
       motion: 1
       pos: 2
     nameLeft: Konomi
-    nameRight: Kako
+    nameRight: Kaede
     textLeft: Then wrap a ribbon around it, and...
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -69,7 +69,7 @@ story:
     textRight: No problem!
   - nameNarration: Konomi
     narration: After all…when you think presents,@you think of birthdays!
-    narrationBg: bg_adv_21241.jpg
+    narrationBg: bg_adv_11101.jpg
     narrationEffect: in
   - narration: So we came up with the idea of@making birthday cakes out of flowers.
   - chara:
@@ -130,7 +130,7 @@ story:
     textRight: Tee hee hee...
   - narration: Kaede had the idea to fill the@flower cakes with real sweets.@But that
       wasn't even the best part...
-    narrationBg: bg_adv_21241.jpg
+    narrationBg: bg_adv_11101.jpg
     narrationEffect: in
   - chara:
     - cheek: 1
@@ -213,7 +213,7 @@ story:
       motion: 1
     textLeft: Everyone will really start to appreciate how@special flowers are!
   - narration: So that was that.@We took Kako's idea...
-    narrationBg: bg_adv_21241.jpg
+    narrationBg: bg_adv_11101.jpg
     narrationEffect: in
   - narration: 'Each birthday cake was made from birth @flowers for each month, and
       we included '
@@ -229,7 +229,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Konomi
-    nameRight: Kako
+    nameRight: Kaede
     narrationEffect: out
     textLeft: The signs for the fair are all done too...
   - chara:
@@ -256,5 +256,5 @@ story:
     textRight: Yeah!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

@@ -44,7 +44,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Melissa
-    textRight: Does that mean Darc and Ui are the only ones@asleep?
+    textRight: Does that mean Tart and Ui are the only ones@asleep?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -111,7 +111,7 @@ story:
   - chara:
     - id: 402201
       motion: 100
-    textLeft: If a form can protect Darc, then that's the@one I prefer.
+    textLeft: If a form can protect Tart, then that's the@one I prefer.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -178,7 +178,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402201
-    textLeft: And that was how I met Darc.
+    textLeft: And that was how I met Tart.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

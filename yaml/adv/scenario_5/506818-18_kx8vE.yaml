@@ -49,7 +49,7 @@ story:
       pos: 2
     nameLeft: Chiharu
     nameRight: Shizuka
-    textRight: I picked up your signal nearby, so I came over here to see...
+    textRight: I noticed your presence nearby, @so I came over here to see...
   - chara:
     - id: 102501
     textRight: But you're actually climbing up here...?

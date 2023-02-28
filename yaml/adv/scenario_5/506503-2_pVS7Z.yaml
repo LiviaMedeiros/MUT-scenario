@@ -107,7 +107,7 @@ story:
     - eyeClose: 0
       id: 402101
       lipSynch: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '...'
   - bgm: bgm03_story10
     chara:
@@ -180,7 +180,7 @@ story:
       id: 402101
       motion: 100
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Let's go and rescue Melissa!
   - bgm: stop
     chara:
@@ -285,7 +285,7 @@ story:
       motion: 400
       pos: 1
       posX: 120
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: Mademoiselle Ui!
   - autoTurnLast: 1
     bgEffect: shakeSmall
@@ -377,7 +377,7 @@ story:
       id: 402100
       motion: 201
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: We must hurry!
   - chara:
     - id: 402200

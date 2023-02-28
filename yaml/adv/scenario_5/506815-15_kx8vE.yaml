@@ -226,7 +226,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Sunao
-    textLeft: You received a Jewel when you became a Diviner, @I imagine?
+    textLeft: You should have a Jewel that you received @when you became a Diviner.
   - chara:
     - id: 102701
     textLeft: Your power as a Diviner is stored within it.
@@ -302,7 +302,7 @@ story:
     textLeft: Please hand it over to Lady Mikoshiba.
   - chara:
     - id: 102701
-    textLeft: She is the priestess, so she ought to lay it to rest properly.
+    textLeft: She is the priestess, so she ought to lay it to rest @properly.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -342,7 +342,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102701
-    textRight: Are you going to be alright, what with the recent lack @of Devils?
+    textRight: Are you going to be alright, considering the recent @lack of Devils?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -355,7 +355,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Chiharu
-    textRight: But what d'you think happens if it gets completely tainted?
+    textRight: But what do you think happens if it gets completely @tainted?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -433,7 +433,7 @@ story:
     textLeft: We've defeated almost all the Devils around the @village,
   - chara:
     - id: 102701
-    textLeft: but I expect that my town's had an increase in Devils while I've been
+    textLeft: but I expect that my town's had an increase in @Devils while I've been
       away.
   - chara:
     - cheek: 0
@@ -455,7 +455,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Sunao
-    textRight: Yes. I'll be on my own, after all.
+    textRight: Right. I'll be on my own, after all.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

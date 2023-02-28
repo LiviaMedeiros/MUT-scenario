@@ -206,7 +206,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 400
-    textLeft: 'How in the world did it get to this?@ '
+    textLeft: How in the world did it get to this?
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json

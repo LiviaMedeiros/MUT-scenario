@@ -50,7 +50,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801000
-    textLeft: Only people of Mikoshiba can read that script.
+    textLeft: Only those of the Mikoshiba clan can read that script.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

@@ -72,7 +72,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-1
     nameLeft: Mitama
-    textLeft: Yes, Iroha was checking how Ikumi is doing...
+    textLeft: Alright, Iroha's gone to check@on how Ikumi is doing...
     turnChangeOut: fadeOut
   - chara:
     - id: 100201
@@ -101,7 +101,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-4
     nameLeft: Yachiyo
-    textLeft: I really wish we could, but she still seems very@unstable...
+    textLeft: I really wish we could give her that,@but she still seems pretty shaky...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -119,7 +119,7 @@ story:
       motion: 301
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-6
     nameLeft: Yachiyo
-    textLeft: That's why for now it's more assuring to have@someone with her...
+    textLeft: That's why for now it's more assuring@to have someone with her...
   - autoTurnLast: 0.2
     chara:
     - id: 100201
@@ -138,7 +138,7 @@ story:
     - id: 101700
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-8
     nameLeft: Mitama
-    textLeft: Word is that Neo Magius' leader was attacked by@Tokime.
+    textLeft: Word is that the leader of the Neo-Magius@was attacked by the Tokime.
   - chara:
     - eyeClose: 0
       id: 100201
@@ -146,18 +146,18 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-9
     nameRight: Yachiyo
-    textRight: '...So they did? The Tokime clan also...'
+    textRight: '...Well, it seems the Tokime@Clan is quite determined.'
   - chara:
     - id: 100201
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-10
     nameRight: Yachiyo
-    textRight: Sent their girls after their leader,
+    textRight: It's just like them to go after the leader,
   - chara:
     - id: 100201
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-11
     nameRight: Yachiyo
-    textRight: Despite that their leader seemed to be quite strong@on her own.
+    textRight: but she might be quite capable herself.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -166,8 +166,8 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-12
     nameRight: Mifuyu
-    textRight: Even though Neo Magius was in the middle of@disbanding, she was capable
-      of restoring it...
+    textRight: Even though the Neo-Magius were in the middle@of disbanding, she was
+      able to unite them...
   - autoTurnLast: 0.2
     chara:
     - id: 100601
@@ -181,13 +181,13 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-13
     nameRight: Kanagi
-    textRight: With that said,
+    textRight: With that said...
   - chara:
     - id: 101601
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-14
     nameRight: Kanagi
-    textRight: while they're out fighting each other, we should be@making a decision.
+    textRight: While they're out fighting each other,@we should be making a decision.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -196,7 +196,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-15
     nameLeft: Mifuyu
-    textLeft: But Promised Blood has not given us any leads...
+    textLeft: But Promised Blood hasn't given us any leads...
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp3.json
@@ -211,13 +211,15 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-17
     nameLeft: Yachiyo
-    textLeft: If they had used their stone's magic to hide@their base again,
+    textLeft: I'd thought that they might try to make use of@magic-infused stones
+      again to conceal their base,
   - chara:
     - id: 100201
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-18
     nameLeft: Yachiyo
-    textLeft: I was hoping we could turn the tables and@find the base itself, but...
+    textLeft: and I'd been hoping to turn it around@and use it to track them down,
+      but...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -238,19 +240,19 @@ story:
       motion: 0
       pos: 0
     nameRight: Tsukasa
-    textRight: From what I heard, they're using guerilla tactics to@try to steal the
-      [textYellow:Kimochi] stones...
+    textRight: From what I heard, they're using guerrilla tactics@to try to steal
+      the [textYellow:Kimochi] Stones...
   - chara:
     - id: 101801
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-20
     nameLeft: Tsukuyo
-    textLeft: I had also heard from Sana at school...
+    textLeft: I was also told by Sana at school...
   - chara:
     - id: 101801
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-21
     nameLeft: Tsukuyo
-    textLeft: that anyone who possesses a [textYellow:Kimochi] stone should@not remain
+    textLeft: that anyone who possesses a [textYellow:Kimochi]@Stone should not remain
       alone.
   - autoTurnLast: 0.2
     chara:
@@ -272,7 +274,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Yachiyo
-    textRight: Yes, there's no doubt about it. They're deliberately@trying to exhaust
+    textRight: Yes, there's no doubt about it.@They're deliberately trying to exhaust
       us...
   - chara:
     - cheek: 0
@@ -282,7 +284,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-23
     nameLeft: Mitama
-    textLeft: Things are only going to get worse at this rate, so@why don't we just
+    textLeft: Things are only going to get worse at this rate,@so why don't we just
       go attack the prison?
   - chara:
     - cheek: 0
@@ -306,12 +308,12 @@ story:
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-25
     nameRight: Kanagi
     textRight: '...Last time we were only able to locate their@shortcut thanks to
-      Ryou''s ability.'
+      Midori''s ability.'
   - chara:
     - id: 101601
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-26
     nameRight: Kanagi
-    textRight: If we attempt to go underground, we'll only get@lost and ambushed.
+    textRight: If we attempt to go underground,@we'll only get lost and ambushed.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp3.json
@@ -320,7 +322,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-27
     nameLeft: Yachiyo
-    textLeft: Yeah...if we're going to attack, we need it to@be one decisive strike.
+    textLeft: Yeah...if we're going to attack, we need@to do it in one decisive strike.
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -329,7 +331,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-28
     nameRight: Kanagi
-    textRight: Hm...
+    textRight: Mmhm...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -338,7 +340,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-29
     nameRight: Mifuyu
-    textRight: If only the camera had not been destroyed...
+    textRight: If only her camera hadn't been destroyed...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -365,7 +367,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-32
     nameRight: Mifuyu
-    textRight: That's right, there are things that all of us@can still do.
+    textRight: That's right, there are things@that all of us can still do.
   - autoTurnLast: 0.2
     chara:
     - id: 100601
@@ -379,7 +381,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-33
     nameRight: Kanagi
-    textRight: Have there been any developments on your end,@Azusa?
+    textRight: Have there been any developments@on your end, Azusa?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -388,7 +390,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-34
     nameLeft: Mifuyu
-    textLeft: I did in fact bring a report on the Mirrors.
+    textLeft: I did in fact bring a report on Mirrors.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -404,13 +406,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-37
     nameLeft: Mifuyu
-    textLeft: Alina is the only one that can map out the Mirrors,
+    textLeft: Alina is the only one that can map out Mirrors.
   - chara:
     - id: 100601
       motion: 100
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-38
     nameLeft: Mifuyu
-    textLeft: However I did request a team to go seek out and@kill the witch.
+    textLeft: However, I did request a search team@that can fight off Witches.
   - autoTurnLast: 0.2
     chara:
     - id: 100601
@@ -432,13 +434,13 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-40
     nameRight: Mifuyu
-    textRight: I believe she decided it was a necessary sacrifice@to get her memories
+    textRight: I believe she decided it was a necessary@sacrifice to get her memories
       back.
   - chara:
     - id: 100601
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-41
     nameRight: Mifuyu
-    textRight: Alina knows it would be too difficult to capture it@on her own.
+    textRight: Alina knows that it's too much@for her to conquer all alone.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -453,8 +455,8 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-43
     nameLeft: Mitama
-    textLeft: The girls that aren't competing for the [textYellow:Kimochi]@stones
-      are planning on investigating the Mirrors,@right?
+    textLeft: The girls that aren't competing for the [textYellow:Kimochi]@Stones
+      are planning to investigate Mirrors, right?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -472,7 +474,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-45
     nameRight: Tsukasa
-    textRight: Right.
+    textRight: Right!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -482,14 +484,14 @@ story:
     - id: 101700
       motion: 0
     nameRight: Tsukasa
-    textRight: Although this'll be complicated since Ryou was@killed right after Alina
+    textRight: Although, this'll be complicated since Ryo@was killed right after Alina
       retreated.
   - chara:
     - id: 101901
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-47
     nameRight: Tsukasa
-    textRight: Actually, even though I get why she did, it pains@my heart too...
+    textRight: Actually, even though I get why she did,@it pains my heart too...
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -498,13 +500,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-48
     nameLeft: Mifuyu
-    textLeft: That Alina, she knew we were in danger, though.
+    textLeft: That Alina, even though she@knew we were in danger.
   - chara:
     - id: 101901
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-49
     nameRight: Tsukasa
-    textRight: Her being so detached is kinda frustrating, isn't it...
+    textRight: Her being so detached is kinda frustrating,@isn't it...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -513,7 +515,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-50
     nameLeft: Mitama
-    textLeft: Alina's warped mentality hasn't changed even with@her memories missing,
+    textLeft: Alina's warped mentality hasn't changed@even with her memories missing,
       huh?
   - chara:
     - cheek: 0
@@ -528,7 +530,7 @@ story:
     bgm: stop
     enableSkipAutoTurn: 1
     nameNarration: ""
-    narration: ～～♪～～♪
+    narration: ~~♪~~♪
     narrationBg: ""
     narrationEffect: in
     surround: 7105_telphone
@@ -544,7 +546,7 @@ story:
     enableSkipAutoTurn: 0
     nameLeft: Yachiyo
     surround: stop
-    textLeft: '...From Iroha?'
+    textLeft: '...A call from Iroha?'
   - autoTurnLast: 0.01
     bg: bg_adv_narration.jpg
     chara:
@@ -573,7 +575,7 @@ story:
       motion: 401
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-55
     nameRight: Iroha
-    textRight: Just as I was about to get to Ikumi's place, I@got a call!
+    textRight: Just as I was on my way over@to Ikumi's place, I got a call!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -581,19 +583,19 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-56
     nameLeft: Yachiyo
-    textLeft: Yeah...
+    textLeft: Uhuh...
   - chara:
     - id: 100101
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-57
     nameRight: Iroha
-    textRight: She was with Hinano and Sakurako,
+    textRight: She'd been with Hinano and Sakurako,
   - chara:
     - id: 100101
       motion: 400
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-58
     nameRight: Iroha
-    textRight: But it sounds like she just suddenly ran away!
+    textRight: but it sounds like she just suddenly ran away!
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp3.json
@@ -615,13 +617,13 @@ story:
       motion: 400
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-61
     nameLeft: Yachiyo
-    textLeft: She can't, it's too dangerous!
+    textLeft: She can't, that's too dangerous!
   - chara:
     - id: 100101
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-62
     nameRight: Iroha
-    textRight: Yes, so Momoko and I are heading there!
+    textRight: Yes, so Momoko and I are heading over there!
   - chara:
     - id: 100201
       motion: 0
@@ -657,7 +659,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-65
     nameRight: Yachiyo
-    textRight: '...Haa...'
+    textRight: '...*Sigh*...'
     turnChangeOut: rollOutFast
   - chara:
     - id: 101700
@@ -670,7 +672,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-67
     nameRight: Yachiyo
-    textRight: Ikumi is going to Kamihama Prison on her own...
+    textRight: Ikumi is headed to Kamihama Prison on her own...
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp3.json
@@ -687,7 +689,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-16-69
     nameRight: Kanagi
-    textRight: Must be unbearable...
+    textRight: It must be unbearable...
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

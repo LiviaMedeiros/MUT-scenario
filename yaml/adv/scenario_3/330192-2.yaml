@@ -57,7 +57,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301901
       motion: 100
-    textRight: Okay, here goes. @[chara:301901:cheek_0:face_mtn_ex_020.exp.json]Time
+    textRight: Okay, here goes.@[chara:301901:cheek_0:face_mtn_ex_020.exp.json]Time
       for some good one-liners...
   - chara:
     - cheek: 0
@@ -84,7 +84,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 301901
     se: 7226_shock
-    textRight: '...Oh, right! @[chara:301901:motion_0]How could I forget?'
+    textRight: '...Oh, right!@[chara:301901:motion_0]How could I forget?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

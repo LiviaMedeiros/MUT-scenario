@@ -21,7 +21,7 @@ story:
     - id: 102601
     nameLeft: Shizuka
     nameRight: Chiharu
-    textRight: But what d'you think happens if it gets completely tainted?
+    textRight: But what do you think happens if it gets completely tainted?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -230,7 +230,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801800
-    textLeft: Oh, I do beg pardon.
+    textLeft: Oh, I do beg thy pardon.
   - chara:
     - id: 801800
     textLeft: Y'see, when the power of your Jewel there becomes completely tainted,

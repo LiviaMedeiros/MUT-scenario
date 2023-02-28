@@ -24,7 +24,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-2
     nameCenter: Chika
-    textCenter: Thank you very much. I will let them know.
+    textCenter: Thank you very much.@I'll let them know.
   - nameNarration: ""
     narration: '*Flap flap flap flap...*'
     narrationBg: ""
@@ -60,7 +60,7 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-6
     nameRight: Asahi
-    textRight: Wow, that must be useful. Being able to hear what@birds have to say.
+    textRight: Wow, that must be useful. Being able to@hear what birds have to say.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -68,7 +68,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-7
     nameLeft: Chika
-    textLeft: Even though I'm borrowing nature's power, this is@the extent of it.
+    textLeft: Even though I'm borrowing nature's power,@this is the extent of it.
   - chara:
     - id: 304701
       motion: 300
@@ -98,7 +98,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-11
     nameLeft: Chika
-    textLeft: But Asahi, does your hunting not also protect the@ecosystem?
+    textLeft: But, Asahi, does your hunting not@also protect the ecosystem?
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -110,7 +110,7 @@ story:
     nameRight: Asahi
     textRight: Just hearing you say that puts my heart at ease.
   - nameCenter: Chiharu's Voice
-    textCenter: Ah, Chika! Birdy came back!?
+    textCenter: Ah, Chika! Birdy came back?!
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-13
   - chara:
     - cheek: 0
@@ -125,7 +125,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Chika
-    textLeft: Yes, the information was relayed just fine.
+    textLeft: Yes, and they relayed the information just fine.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -154,7 +154,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-17
     nameRight: Shizuka
-    textRight: Yeah, I honestly did not expect it to return@so swiftly!
+    textRight: Yeah, I honestly didn't expect@it to return so swiftly!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -162,7 +162,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-18
     nameLeft: Chika
-    textLeft: Today was just a fluke.
+    textLeft: Today was just lucky.
   - chara:
     - id: 304701
       motion: 1
@@ -173,7 +173,7 @@ story:
     - id: 304701
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-20
     nameLeft: Chika
-    textLeft: So it really doesn't have much of a success rate.
+    textLeft: so this method really doesn't@have much of a success rate.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -182,7 +182,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-21
     nameRight: Chiharu
-    textRight: So, where is it!? "Himena Aika's" school!
+    textRight: So, where is it?!@Where is Himena Aika's school!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -191,14 +191,14 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-22
     nameLeft: Chika
-    textLeft: '"Kamihama Future Academy" in Sakae Ward.'
+    textLeft: Kamihama Future Academy, in Sakae Ward.
   - chara:
     - id: 304701
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-23
     nameLeft: Chika
-    textLeft: This is the first time I've heard of this school, so@let me check it
-      out later.
+    textLeft: This is the first time I've heard of this school,@so allow me to check
+      it out later.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -207,7 +207,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-24
     nameRight: Shizuka
-    textRight: '...Before you investigate, is there a possibility that@it could have
+    textRight: '...Before you investigate, is there a chance@that Birdy could have
       been mistaken?'
   - chara:
     - cheek: 0
@@ -217,8 +217,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-25
     nameLeft: Chika
-    textLeft: '.....[wait:1.0][chara:304701:cheek_0][chara:304701:face_mtn_ex_030.exp.json][chara:304701:lipSynch_1]There
-      is.'
+    textLeft: '...There is.[wait:1.0][chara:304701:cheek_0][chara:304701:lipSynch_1]'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -247,7 +246,7 @@ story:
       id: 102601
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-28
     nameRight: Chiharu
-    textRight: This may look like bullying, and Koichi Todoroki@is going to be angry
+    textRight: This may look like bullying, and Kouichi Todoroki@is going to be angry
       with me,
   - chara:
     - cheek: 0
@@ -265,7 +264,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-30
     nameLeft: Shizuka
-    textLeft: Besides, there is sense in striking Himena Aika.
+    textLeft: Besides, there is sense in striking@against Himena Aika.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -279,14 +278,14 @@ story:
     - id: 102701
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-32
     nameRight: Sunao
-    textRight: The Neo Magius have taken shape thanks to@Himena.
+    textRight: The Neo-Magius have taken shape@thanks to Himena.
   - chara:
     - id: 102501
       motion: 200
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-33
     nameLeft: Shizuka
-    textLeft: Right, as long as no one else is holding her up,@taking her down will
+    textLeft: Right, as long as no one else is holding them up,@taking her down will
       collapse them.
   - chara:
     - cheek: 0
@@ -296,14 +295,14 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-34
     nameLeft: Asahi
-    textLeft: And this way we don't cause more unnecessary@injuries to others.
+    textLeft: And this way we don't cause more@unnecessary injuries to others.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 103401
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-35
     nameLeft: Asahi
-    textLeft: Lady Chiharu, it's likely that Koichi Todoroki will@forgive you.
+    textLeft: Miss Chiharu, it's likely that Kouichi Todoroki@will forgive you.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -315,7 +314,7 @@ story:
     textRight: You think so?!
   - bgm: stop
     nameNarration: Hagumu's Voice
-    narration: I-I'm sorryyy...!
+    narration: I-I'm terribly sorryyy...!
     narrationBg: ""
     narrationEffect: in
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-37
@@ -339,7 +338,7 @@ story:
     - id: 305801
       motion: 100
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-38
-    nameLeft: Ryouko
+    nameLeft: Ryoko
     textLeft: Goodness, what a surprise this is.
     turnChangeOut: fadeOut
   - chara:
@@ -351,7 +350,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-39
     nameLeft: Chiharu
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - id: 102901
       motion: 300
@@ -366,8 +365,8 @@ story:
       motion: 300
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-41
-    nameLeft: Ryouko
-    textLeft: I open the front door, and in comes the Neo Magius@we hate so much.
+    nameLeft: Ryoko
+    textLeft: I open the front door, and in comes@the Neo-Magius we hate so much.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -377,7 +376,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-42
     nameLeft: Shizuka
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -385,8 +384,8 @@ story:
       motion: 0
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-43
-    nameLeft: Ryouko
-    textLeft: I'm sure ya already figured it out, but the boss@is pretty pissed as
+    nameLeft: Ryoko
+    textLeft: I'm sure ya already figured it out,@but the boss is pretty pissed as
       is.
   - autoTurnLast: 2.6
     chara:
@@ -396,9 +395,9 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102601/vo_full_102601-7-44
     enableSkipAutoTurn: 1
-    nameLeft: Ryouko
-    textLeft: If I could read her mind, she'd say somethin' like@"what the hell do
-      you want?" ...probably?
+    nameLeft: Ryoko
+    textLeft: If I could read her mind, she'd say somethin' like@"What the hell do
+      you want?" ...Probably?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -413,13 +412,13 @@ story:
       voiceFullStop: fullvoice/section_102601/vo_full_102601-7-44
     enableSkipAutoTurn: 0
     nameLeft: Shizuka
-    textLeft: That's precise.
+    textLeft: That's precisely it.
   - chara:
     - eyeClose: 1
       id: 102501
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-46
     nameLeft: Shizuka
-    textLeft: Though I would add "were you Himena Aika,@you would be cut down."
+    textLeft: Though I would add "Were you Himena@Aika, you would be cut down."
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -455,7 +454,7 @@ story:
       tear: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-50
     nameRight: Hagumu
-    textRight: Um, could you just pretend this didn't happen@and let us go home...?
+    textRight: Um, could you just pretend this didn't@happen and let us go home...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -464,7 +463,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-51
     nameLeft: Chiharu
-    textLeft: '...I''m starting to pity you guys.'
+    textLeft: '...I''m starting to feel bad for you guys.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -481,8 +480,8 @@ story:
       motion: 0
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-53
-    nameLeft: Ryouko
-    textLeft: If you came here for something, say it and take off.
+    nameLeft: Ryoko
+    textLeft: If you came here for something,@say it and take off.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp3.json
@@ -490,8 +489,8 @@ story:
       motion: 200
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-54
-    nameLeft: Ryouko
-    textLeft: If you leave without talking, I'm gonna be worried@about ya.
+    nameLeft: Ryoko
+    textLeft: If you leave without talking,@I'm gonna be worried about ya.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -518,7 +517,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-57
     nameRight: Shigure
-    textRight: Yeah...because we and the Tokime people@are so alike...
+    textRight: Yeah...because we and the@Tokime people are so alike...
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp3.json
@@ -544,7 +543,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-60
     nameLeft: Shizuka
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - cheek: 1
       eyeClose: 0
@@ -552,7 +551,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-61
     nameRight: Shigure
-    textRight: '.....'
+    textRight: '...'
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -561,7 +560,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-62
     nameLeft: Shizuka
-    textLeft: '...Haa, tell her this:'
+    textLeft: '...*Sigh*@Tell her this:'
   - chara:
     - eyeClose: 0
       id: 102501
@@ -569,7 +568,7 @@ story:
     - id: 102901
       motion: 0
     nameLeft: Shizuka
-    textLeft: So long as our resentment remains, I will not offer@my hand.
+    textLeft: So long as our resentment remains,@I will not offer my hand.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -578,7 +577,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-7-64
     nameLeft: Shizuka
-    textLeft: However, were she to reach out in private, perhaps@there could be something...
+    textLeft: However, I might just reach behind my back...
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp3.json

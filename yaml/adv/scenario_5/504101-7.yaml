@@ -9,12 +9,12 @@ story:
     narration: '"NAGISA IS THE ANGEL OF CHEESE!"'
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: '...Such was the tall tale I spouted to get the Kamihama Magical Girls
+  - narration: '...Such was the tall tale I spouted@to get the Kamihama Magical Girls
       on my side!'
-  - narration: '...N-no, I mean! Um... right! Such was the ultimate, perfect strategy
-      I concocted to get everyone on my side!'
-  - narration: But even Nagisa didn't think that alone would be enough to win@ their
-      trust. In order to trick-- @I mean, convince everyone that Nagisa was a special,
+  - narration: '...N-no, I mean!@Um... right!@Such was the ultimate, perfect strategy@I
+      concocted to get everyone on my side!'
+  - narration: But even Nagisa didn't think that alone@would be enough to win their
+      trust.@In order to trick-- @I mean, convince everyone that Nagisa was a special,
       @noble being who stood above them all,@this was the proof I used...
   - bg: bg_adv_46403.jpg
     chara:
@@ -319,7 +319,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301201
       motion: 400
-    textRight: And it seems like everyone else is satisfied with it, so that's that.
+    textRight: And it seems like everyone else is satisfied with it,@so that's that.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -340,7 +340,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301201
       motion: 0
-    textRight: '*Chuckle*... really, I feel like I could accept anything now. It''s
+    textRight: '*Chuckle*... Really, I feel like I could accept anything@now. It''s
       all OK by me.'
   - chara:
     - cheek: 0
@@ -372,7 +372,7 @@ story:
   - chara:
     - id: 301201
       lipSynch: 0
-    textRight: (All three of us have confirmed it... so my job's done @for now.)
+    textRight: (All three of us have confirmed it... so my job's done@for now.)
   - chara:
     - id: 301201
       lipSynch: 0
@@ -411,7 +411,7 @@ story:
       motion: 400
       pos: 0
     se: 7205_magic_girl
-    textLeft: We're headed in now!
+    textLeft: We're heading in now!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -437,7 +437,7 @@ story:
       name: sprite_0
       pos: 0
     nameRight: Akira
-    textRight: '[flashEffect:flashWhite2][se:6057_hit_strike_06_s] ...Thanks for the
+    textRight: '[flashEffect:flashWhite2][se:6057_hit_strike_06_s]...Thanks for the
       good review!'
   - bgEffect: shakeSmall
     flashEffect: flashRed1
@@ -450,7 +450,7 @@ story:
       id: 300800
       motion: 200
     textRight: But you might be exaggerating a little!
-  - textRight: Alright, let's finish this thing off with some teamwork! Center around
+  - textRight: Alright, let's finish this thing off with some@teamwork! Center around
       Nagisa-chan!
   - chara:
     - cheek: 0
@@ -532,7 +532,7 @@ story:
       id: 200700
       motion: 400
     nameLeft: Nagisa
-    textLeft: EUREKA! @I've figured out the strategy at last!
+    textLeft: EUREKA!@I've figured out the strategy at last!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -546,9 +546,9 @@ story:
       face: mtn_ex_020.exp.json
       id: 200700
       motion: 0
-    textLeft: This witch is a really pesky one that keeps @reappearing no matter how
+    textLeft: This witch is a really pesky one that keeps@reappearing no matter how
       many you defeat...
-  - textLeft: But I have a strategy that'll let us round them all up @for good!
+  - textLeft: But I have a strategy that'll let us round them all up@for good!
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -623,6 +623,12 @@ story:
       pos: 2
     nameRight: Kako
     textRight: Yikes, we'd better focus...!
+  - autoTurnLast: 0.1
+    chara:
+    - effect: fadeout
+      id: 301100
+    - effect: fadeout
+      id: 200700
   - chara:
     - cutInId: 1
       id: 6403

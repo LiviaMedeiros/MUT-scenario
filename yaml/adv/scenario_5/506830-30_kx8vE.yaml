@@ -20,7 +20,7 @@ story:
     - id: 801800
     nameLeft: Mikoshiba
     nameRight: Sunao
-    textLeft: I heard from the daughter of the head family, @though.
+    textLeft: I heard from the daughter of the head family.
     turnChangeOut: fadeOut
   - chara:
     - id: 801800
@@ -39,11 +39,11 @@ story:
       you won't be of any use.
   - chara:
     - id: 801800
-    textLeft: You're just some young girl, after all.
+    textLeft: I can't rely on you if you just act like a little girl, @after all.
   - chara:
     - id: 102701
       motion: 100
-    textRight: '...But.'
+    textRight: '...But...'
   - chara:
     - id: 102701
       motion: 0

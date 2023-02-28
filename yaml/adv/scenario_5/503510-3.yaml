@@ -1,39 +1,37 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21242.jpg
-    bgm: bgm01_anime03
+  - autoTurnLast: 0.5
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300801
-      motion: 300
+      motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 302501
       motion: 0
       pos: 2
+    turnChangeIn: fadeIn
+  - bg: bg_adv_21242.jpg
+    bgm: bgm01_anime03
+    chara:
+    - id: 300801
+      motion: 300
     nameLeft: Akira
     nameRight: Ren
     textLeft: Ugh...@It was just terrible, I tell you.
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300801
+    - id: 300801
     textLeft: He just kept getting madder and madder...
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300801
+    - id: 300801
       motion: 200
     textLeft: But Rika just kept right@on giggling the whole time.
   - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 302501
+    - id: 302501
       motion: 1
     textRight: Oh, errr, well that's...
   - chara:
@@ -44,7 +42,6 @@ story:
       pos: 0
     - effect: fadeout
       id: 302501
-      motion: 0
     nameNarration: Ren
     narration: This is the "Counseling Room"@that Rika's Magical Girl friend,@Emiri
       Kisaki, and her friends run...
@@ -60,9 +57,7 @@ story:
     narrationEffect: out
     textRight: Hey there!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300801
+    - id: 300801
       motion: 100
     textLeft: Oh, Konomi!@Good to see you!
   - chara:
@@ -78,9 +73,7 @@ story:
       motion: 0
     textLeft: Oh, [chara:300801:lipSynch_0][wait:0.7][chara:300801:cheek_0][chara:300801:face_mtn_ex_011.exp.json][chara:300801:lipSynch_1]thanks!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 303001
+    - id: 303001
       motion: 100
     textRight: '*Giggle* No problem!@Can I put them inside?'
   - chara:
@@ -94,7 +87,6 @@ story:
       face: mtn_ex_050.exp.json
       id: 300801
       motion: 0
-      pos: 0
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 302501
@@ -108,14 +100,11 @@ story:
   - narration: Rika and I go to different schools,@so this is where we always wait
       for@each other when class is over.
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300801
+    - id: 300801
     narrationEffect: out
     textLeft: '...That''s right, and then...@Huh? What were we talking about again?'
   - chara:
-    - cheek: 0
-      id: 302501
+    - id: 302501
       motion: 1
     nameRight: Ren
     textRight: Errr, the man got mad...@And then Rika...
@@ -132,20 +121,14 @@ story:
       motion: 0
     textRight: I see...
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300801
+    - id: 300801
       motion: 0
     textLeft: Well, what can you do? Right?
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300801
+    - id: 300801
     textLeft: Rika is, you know...she just@does whatever she feels like.
   - chara:
-    - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 300801
+    - id: 300801
       motion: 200
     textLeft: She doesn't really spend her time reading@the situation if you know
       what I mean.
@@ -162,38 +145,26 @@ story:
       motion: 0
     textLeft: Err...
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 302501
+    - id: 302501
       motion: 1
     textRight: I mean...if I'm ever feeling even a@little bit bad, th-then she always...
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 302501
+    - id: 302501
     textRight: She always asks me...@Are you okay?
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 302501
+    - id: 302501
       motion: 100
     textRight: Are you tired?@I wonder how she always knows...
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 302501
+    - id: 302501
       motion: 1
     textRight: I mean, she always has such@perfect timing when she asks!
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300801
+    - id: 300801
       lipSynch: 0
-      mouthOpen: 0
-    textLeft: …
+    textLeft: '...'
   - chara:
     - cheek: 1
-      face: mtn_ex_050.exp.json
       id: 302501
       motion: 200
     textRight: Plus, just a little earlier she—!
@@ -201,11 +172,10 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300801
+      lipSynch: 1
     textLeft: Hehe...@Hahaha...
   - chara:
-    - cheek: 1
-      face: mtn_ex_050.exp.json
-      id: 302501
+    - id: 302501
       motion: 0
     textRight: '...Huh? Ummm...'
   - chara:
@@ -214,9 +184,7 @@ story:
       id: 300801
     textLeft: Ren, whenever the conversation turns@to Rika...
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300801
+    - id: 300801
       motion: 100
     textLeft: You suddenly have so much to say.
   - chara:
@@ -226,14 +194,11 @@ story:
       motion: 1
     textRight: '[chara:302501:effect_emotion_surprise_0][se:7226_shock]Huh?!@R-really…?'
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 300801
+    - id: 300801
       motion: 200
     textLeft: Yep.@No doubt about it.
   - chara:
     - cheek: 2
-      face: mtn_ex_001.exp.json
       id: 302501
       lipSynch: 0
     textRight: …
@@ -313,9 +278,7 @@ story:
     nameLeft: Emiri
     textLeft: What's wrong, Renki?
   - chara:
-    - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 300601
+    - id: 300601
     textLeft: You're shaking your head so hard,@it looks like it's gonna fly off.
   - chara:
     - cheek: 0
@@ -341,14 +304,11 @@ story:
     nameLeft: Emiri
     textLeft: Come on!@Tell me already! What is it?
   - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 300601
+    - id: 300601
       motion: 200
     textLeft: Were you bad-mouthing Rikki?
   - chara:
     - cheek: 2
-      face: mtn_ex_050.exp.json
       id: 302501
       motion: 400
     textRight: '[chara:302501:effect_emotion_surprise_0][se:7226_shock]What?!@C-come
@@ -369,9 +329,7 @@ story:
     textLeft: I mean...we're best friends!
   - bgm: stop
     chara:
-    - cheek: 2
-      face: mtn_ex_050.exp.json
-      id: 302501
+    - id: 302501
       lipSynch: 0
       motion: 0
     textRight: '...!'
@@ -379,11 +337,11 @@ story:
     nameNarration: Ren
     narration: We're best friends.@What I stumble and hesitate@over saying, she says
       as if it's@the simplest thing in the world.
-    narrationBg: bg_adv_21242.jpg
+    narrationBg: bg_adv_narration.jpg
     narrationEffect: in
   - narration: The things that I can only hope for...@She seems to be able to do@them
       all with perfect ease.
-  - bg: bg_adv_11042.jpg
+  - autoTurnLast: 0.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -395,33 +353,28 @@ story:
       id: 302501
       motion: 0
       pos: 2
+    narrationEffect: out
+    turnChangeIn: fadeIn
+  - bg: bg_adv_11042.jpg
+    chara:
+    - id: 303101
     nameLeft: Rika
     nameRight: Ren
-    narrationEffect: out
     textLeft: Ren, do you like to draw?
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 302501
+    - id: 302501
     textRight: Draw...?
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 303101
+    - id: 303101
       motion: 0
     textLeft: Yeah.
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 303101
+    - id: 303101
       motion: 100
     textLeft: You collect colored pencils, right?@So I just figured you must draw.
   - chara:
-    - cheek: 0
-      face: mtn_ex_001.exp.json
-      id: 302501
+    - id: 302501
       motion: 1
     textRight: '...I do draw, but...@Well…I''m not any good really...'
   - chara:
@@ -432,7 +385,6 @@ story:
     textLeft: Oh come on!@I wanna see them!
   - chara:
     - cheek: 1
-      face: mtn_ex_001.exp.json
       id: 302501
       motion: 100
     textRight: The drawings in my diary?
@@ -451,7 +403,6 @@ story:
     textLeft: Well, then I guess I can't ask you to@show them to me.
   - chara:
     - cheek: 0
-      face: mtn_ex_001.exp.json
       id: 302501
       motion: 1
     textRight: Err, well...but...@If it's just the drawings, I guess...
@@ -463,17 +414,13 @@ story:
     textLeft: Seriously? [chara:303101:lipSynch_0][wait:0.7][chara:303101:motion_100][chara:303101:cheek_0][chara:303101:face_mtn_ex_011.exp.json][chara:303101:lipSynch_1]Yay!
   - chara:
     - cheek: 1
-      face: mtn_ex_001.exp.json
       id: 302501
       lipSynch: 0
       motion: 0
-    textRight: (Errr, ummm...!)[chara:302501:lipSynch_0][wait:0.9][chara:302501:motion_400][chara:302501:cheek_1][chara:302501:face_mtn_ex_050.exp.json][chara:302501:effect_emotion_surprise_0][se:7226_shock]
+    textRight: (Errr, ummm...)@[wait:0.9][chara:302501:motion_400][chara:302501:cheek_1][chara:302501:face_mtn_ex_050.exp.json][chara:302501:effect_emotion_surprise_0][se:7226_shock]...!)
   - chara:
-    - cheek: 1
-      face: mtn_ex_050.exp.json
-      id: 302501
+    - id: 302501
       motion: 0
-      pos: 2
     nameNarration: Narration
     narration: June 8th@Today, I went with Rika to...
     narrationBg: bg_adv_11042.jpg
@@ -481,9 +428,7 @@ story:
   - narration: July 20th@Today, Rika gave me...
   - narration: August 1st@Rika told me something about...
   - chara:
-    - cheek: 1
-      face: mtn_ex_050.exp.json
-      id: 302501
+    - id: 302501
       lipSynch: 0
       motion: 400
     narrationEffect: out
@@ -510,15 +455,11 @@ story:
       motion: 400
     textRight: Umm...! Ahhh...errr...!
   - chara:
-    - cheek: 2
-      face: mtn_ex_050.exp.json
-      id: 302501
+    - id: 302501
       motion: 200
     textRight: N...N...No...!@I, umm, I changed my mind...!
   - chara:
-    - cheek: 2
-      face: mtn_ex_050.exp.json
-      id: 302501
+    - id: 302501
       lipSynch: 0
       motion: 1
     textRight: ( I can't let her see this...!)
@@ -530,9 +471,7 @@ story:
     textLeft: Oh, okay.@I shouldn't have asked in the first place.
     turnEffect: stop
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 303101
+    - id: 303101
       motion: 1
     textLeft: '...If you ever change your mind, will@you show me?'
   - chara:
@@ -543,5 +482,5 @@ story:
     textRight: '...O-okay...'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

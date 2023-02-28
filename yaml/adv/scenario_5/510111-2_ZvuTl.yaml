@@ -176,7 +176,7 @@ story:
       id: 402600
       motion: 200
       mouthOpen: 1
-    textRight: Liz! Melissa! Come! We have to support@Darc.
+    textRight: Liz! Melissa! Come! We have to support@Tart.
   - chara:
     - cheek: 2
       face: mtn_ex_020.exp.json
@@ -230,14 +230,14 @@ story:
       motion: 1
       pos: 2
     nameRight: Liz
-    textRight: Now, Darc!
+    textRight: Now, Tart!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 402100
       motion: 0
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Here goes...
   - bgm: stop
     chara:
@@ -328,7 +328,7 @@ story:
       id: 402200
       motion: 1
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '...?!'
   - chara:
     - cheek: 0
@@ -373,7 +373,7 @@ story:
       lipSynch: 0
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Hm...?
   - chara:
     - id: 402400
@@ -478,7 +478,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 402100
       motion: 200
-    nameRight: Darc
+    nameRight: Tart
     textRight: Ui!
   - chara:
     - cheek: 0

@@ -58,7 +58,7 @@ story:
       id: 402101
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Why would that be, Monsieur Angel?
   - textRight: I suspect that these events are very@significant, when looking back
       in history.
@@ -125,7 +125,7 @@ story:
     - cheek: 0
       id: 402201
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: What?
   - chara:
     - id: 402201
@@ -306,7 +306,7 @@ story:
       id: 402101
       motion: 100
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: But Elisa...
   - bgm: bgm03_story05
     chara:
@@ -326,7 +326,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Melissa
-    textLeft: Darc is right!
+    textLeft: Tart is right!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -386,13 +386,13 @@ story:
   - chara:
     - id: 402601
       motion: 200
-    textRight: I will start calling La Pucelle "Darc", too.
+    textRight: I will start calling La Pucelle "Tart", too.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 402101
       motion: 100
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: A-agreed!
   - autoTurnLast: 0.2
     chara:

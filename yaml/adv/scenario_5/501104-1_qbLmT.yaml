@@ -49,16 +49,10 @@ story:
       id: 100501
     textRight: Time to POUND some mochi!
   - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 301101
-      motion: 0
-      pos: 0
-    - cheek: 0
-      face: mtn_ex_010.exp.json
+    - effect: fadeout
       id: 302801
-      motion: 0
-      pos: 2
+    - effect: fadeout
+      id: 100501
     nameNarration: ""
     narration: Felicia and Ayame joined a mochi@pounding event in Kako's neighborhood.
     narrationBg: bg_adv_11041.jpg
@@ -68,6 +62,12 @@ story:
       face: mtn_ex_050.exp.json
       id: 301101
       motion: 1
+      pos: 0
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 302801
+      motion: 0
+      pos: 2
     nameLeft: Kako
     narrationEffect: out
     textLeft: You've never done it before?

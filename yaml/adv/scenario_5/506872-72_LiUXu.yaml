@@ -69,7 +69,7 @@ story:
   - chara:
     - id: 102601
       motion: 200
-    textLeft: It still smells...!
+    textLeft: I can still smell it...!
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json

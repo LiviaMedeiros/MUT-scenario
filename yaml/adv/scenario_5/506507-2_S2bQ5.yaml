@@ -61,7 +61,7 @@ story:
       posY: 0
       visible: appear
       zOrder: charaFront
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '...'
   - chara:
     - eyeClose: 0
@@ -109,7 +109,7 @@ story:
       id: 402101
       lipSynch: 0
       motion: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: '...'
     turnEffect: promist
   - autoTurnLast: 1.5
@@ -120,7 +120,7 @@ story:
     turnChangeIn: whiteIn
     turnChangeInTime: 1
     turnEffect: stop
-  - nameNarration: Darc
+  - nameNarration: Tart
     narration: '[textBlack:I wonder when@this fragment was taken from...?]'
     turnChangeOut: whiteOut
     turnEffect: stop
@@ -205,7 +205,7 @@ story:
   - chara:
     - id: 402100
       motion: 1
-    nameRight: Darc
+    nameRight: Tart
     textRight: It-it's a pleasure...
   - autoTurnLast: 0.01
     chara:
@@ -349,7 +349,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 402301
       motion: 300
-    textRight: After all, we have Darc on our side!
+    textRight: After all, we have Tart on our side!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

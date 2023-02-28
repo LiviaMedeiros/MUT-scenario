@@ -118,10 +118,10 @@ story:
   - chara:
     - eyeClose: 1
       id: 200401
-    textRight: 'I don''t even care if it doesn''t work out.@ '
+    textRight: I don't even care if it doesn't work out.
   - chara:
     - id: 200401
-    textRight: 'I just want to enjoy this view with him...@ '
+    textRight: I just want to enjoy this view with him...
   - chara:
     - eyeClose: 0
       id: 200401
@@ -189,7 +189,7 @@ story:
       mouthOpen: 0
     textRight: Yeah, okay!
   - nameNarration: Sayaka
-    narration: Thanks to the perfume that Magical Girl @gave me, I was able to meet
+    narration: Thanks to the perfume that Magical Girl@gave me, I was able to meet
       another girl.
     narrationBg: bg_adv_14013.jpg
     narrationEffect: in

@@ -1,12 +1,12 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm01_anime07
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 0
       pos: 0
@@ -16,7 +16,7 @@ story:
       posX: 40
     nameLeft: Manaka
     nameRight: ' Kyubey'
-    textLeft: Is a small price to pay!@…
+    textLeft: '...'
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -26,7 +26,7 @@ story:
     - cheek: 1
       effect: emotion_angry_0
       face: mtn_ex_020.exp.json
-      id: 300900
+      id: 300902
       motion: 400
       mouthOpen: 1
     se: 7219_strain
@@ -34,8 +34,8 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
-    textLeft: Err… Well…@[chara:300900:motion_300:effect_emotion_sad_0][se:7224_fall_into]I
+      id: 300902
+    textLeft: Err... Well...@[chara:300900:motion_300:effect_emotion_sad_0][se:7224_fall_into]I
       guess I can't deny it.[chara:300900:lipSynch_0]
   - chara:
     - cheek: 0
@@ -49,7 +49,7 @@ story:
     - cheek: 0
       effect: emotion_surprise_0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     se: 7226_shock
     textLeft: Okay!@Another guest chef job?
@@ -66,10 +66,10 @@ story:
       us!
   - nameNarration: Manaka
     narration: That's right.@Thanks to my marketing work,@we're suddenly super popular...
-    narrationBg: bg_adv_21221.jpg
+    narrationBg: bg_adv_19221.jpg
     narrationEffect: in
   - narration: I'm glad the restaurant, @and not just me, is @getting popular again
-      too…
+      too...
   - narration: But all the requests we@get are for guest chef jobs.
   - narration: It's frustrating, but the little rabbit@is right. Nothing's new. You
       can still@hear a pin drop when you come in...
@@ -79,7 +79,7 @@ story:
       id: 800900
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       motion: 1
     nameLeft: Manaka
     narrationEffect: out
@@ -94,38 +94,38 @@ story:
       id: 800900
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
     textLeft: Oh, yeah!@[chara:300900:motion_000]Good luck!
   - bgm: stop
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
-    textLeft: …
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
     textLeft: '"Watch the place," he says...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       motion: 300
     textLeft: But we probably won't even get a single@customer today...
   - bgm: bgm03_story11
     narration: Still, thanks to the work@coming in, at least our@profits are increasing...
-    narrationBg: bg_adv_21221.jpg
+    narrationBg: bg_adv_19221.jpg
     narrationEffect: in
   - narration: Even though originally my father said he@wanted to fill the restaurant
-      with customers @again, like it was in the old days…
+      with customers @again, like it was in the old days...
   - narration: Seeing him go out to cook@every day, I have to admit@he looks really
       happy.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       motion: 1
     nameLeft: Manaka
     narrationEffect: out
@@ -133,24 +133,24 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 0
-    textLeft: …
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
-    textLeft: It sure is quiet in here…
+      id: 300902
+    textLeft: It sure is quiet in here...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
     textLeft: What was the point of it all?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 300900
+      id: 300902
       motion: 300
     textLeft: Why did I work so hard to@promote our restaurant?
   - autoTurnFirst: 3.8
@@ -159,21 +159,21 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 100
       pos: 1
       voice: vo_char_3009_00_04
     nameCenter: Manaka
-    textCenter: We're busy every day… @I'm probably just tired…
+    textCenter: We're busy every day...@I'm probably just tired...
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
     turnEffect: stop
   - autoTurnFirst: 3.5
     chara:
-    - id: 300900
+    - id: 300902
       motion: 200
   - chara:
-    - id: 300900
+    - id: 300902
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

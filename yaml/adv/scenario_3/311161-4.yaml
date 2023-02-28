@@ -6,7 +6,7 @@ story:
     bgm: bgm01_anime02
     chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 101601
       motion: 0
       pos: 1
@@ -114,8 +114,8 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 800500
-      motion: 0
+      id: 832400
+      motion: 1
       pos: 2
     nameRight: Kanagi's Brother
     textRight: Wow, you're reading manga for girls, Sis?@That's not something you
@@ -129,11 +129,12 @@ story:
     nameLeft: Kanagi
     textLeft: I *am* a girl too, you know.
   - chara:
-    - id: 800500
+    - id: 832400
+      motion: 0
     nameRight: Kanagi's Brother
     textRight: It's drawn so cutely, too. Is it interesting?
   - chara:
-    - id: 800500
+    - id: 832400
     nameRight: Kanagi's Brother
     textRight: Let me read it for a sec...
   - bgm: stop
@@ -150,7 +151,8 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 800500
+      id: 832400
+      motion: 200
       pos: 2
     nameRight: Kanagi's Brother
     textRight: Huh?
@@ -180,14 +182,15 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 800500
+      id: 832400
+      motion: 0
       pos: 2
     nameRight: Kanagi's Brother
     textRight: I see. Makes sense, I guess.
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
-      id: 800500
+      id: 832400
     textClear: 1
   - chara:
     - cheek: 0

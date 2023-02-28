@@ -150,7 +150,7 @@ story:
       face: mtn_ex_021.exp.json
       id: 102501
       motion: 300
-    textLeft: Hrmph...well, yes, I know little about the world.
+    textLeft: Hrmph... Well, yes, I know little about the world.
   - chara:
     - cheek: 0
       eyeClose: 0

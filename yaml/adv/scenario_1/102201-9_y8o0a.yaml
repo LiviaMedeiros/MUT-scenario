@@ -402,13 +402,14 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-9-36
       voiceFullStop: fullvoice/section_102201/vo_full_102201-9-35
     nameRight: ""
-    textRight: Our goal is the enormous amount@of energy that was in this place...
+    textRight: Our goal is to claim the enormous amount@of energy that was in this
+      place...
   - chara:
     - id: 770000
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-9-37
       voiceFullStop: fullvoice/section_102201/vo_full_102201-9-36
-    textRight: And the lives of you all,@the Magical Girls of Kamihama!!!
+    textRight: And to end the lives of you all,@the Magical Girls of Kamihama!!!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

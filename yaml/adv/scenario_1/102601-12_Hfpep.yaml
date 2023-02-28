@@ -22,7 +22,7 @@ story:
     - id: 102601
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-1
     nameRight: Chiharu
-    textRight: I wasn't able to get the [textYellow:Kimochi] stone back...
+    textRight: I wasn't able to get the [textYellow:Kimochi] Stone back...
     turnChangeOut: fadeOutLogo_Tokime
   - chara:
     - eyeClose: 1
@@ -30,7 +30,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-2
     nameLeft: Shizuka
-    textLeft: We were searching for the base, but had no such@luck.
+    textLeft: We were searching for their base,@but had no such luck.
   - autoTurnLast: 1.6
     chara:
     - eyeClose: 0
@@ -38,7 +38,7 @@ story:
       voiceFull: fullvoice/section_102601/vo_full_102601-12-3
     enableSkipAutoTurn: 1
     nameRight: Chiharu
-    textRight: And we even checked out Himena's school! I'm so@frustrated...!
+    textRight: And we even checked out Himena's school!@I'm so frustrated...!
   - chara:
     - id: 102601
       motion: 200
@@ -52,7 +52,7 @@ story:
       voiceFullStop: fullvoice/section_102601/vo_full_102601-12-3
     enableSkipAutoTurn: 0
     nameLeft: Shizuka
-    textLeft: Do not let your emotions rush you.
+    textLeft: Don't let your emotions drive you.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -60,7 +60,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-5
     nameLeft: Shizuka
-    textLeft: If you start running about with a grudge, you will@be no different than
+    textLeft: If you start running around with a grudge,@you'll be no different than
       Promised Blood.
   - chara:
     - cheek: 0
@@ -70,7 +70,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-6
     nameRight: Chiharu
-    textRight: That...I understand, but...
+    textRight: That's...I understand that, but...
   - chara:
     - cheek: 0
       effect: shake
@@ -96,13 +96,13 @@ story:
       id: 102601
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-9
     nameRight: Chiharu
-    textRight: I'm worried if it's still attached, so I keep@touching it...
+    textRight: I keep worrying if it's still attached,@so I keep touching it to check...
   - chara:
     - id: 102701
       motion: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-10
     nameLeft: Sunao
-    textLeft: '...You may be frightened because you let Himena@escape...'
+    textLeft: '...You may be frightened because@you let Himena escape...'
   - chara:
     - id: 102601
       motion: 0
@@ -114,7 +114,7 @@ story:
       id: 102601
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-12
     nameRight: Chiharu
-    textRight: I've been letting anger get the best of me, but@I think I'm more scared
+    textRight: I've been letting anger get the best of me,@but I think I'm more scared
       of her...
   - chara:
     - cheek: 0
@@ -124,13 +124,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-13
     nameLeft: Shizuka
-    textLeft: And on top of that she is eerie. It's impossible to@know what she is
-      thinking...
+    textLeft: On top of everything else she's quite eerie. It's@impossible to know
+      what she's thinking...
   - chara:
     - id: 102501
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-14
     nameLeft: Shizuka
-    textLeft: Does she really think that we are similar...?
+    textLeft: Does she really think that we're similar...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -155,7 +155,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-17
     nameLeft: Shizuka
-    textLeft: Really... understanding her is futile...
+    textLeft: Really...understanding her is futile...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -166,18 +166,19 @@ story:
     - id: 102601
       motion: 0
     nameLeft: Sunao
-    textLeft: It is...
+    textLeft: It really is...
   - chara:
     - id: 102701
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-19
     nameLeft: Sunao
-    textLeft: We don't want anyone other than Magical Girls to@yield to us,
+    textLeft: We have no interest in getting people that@aren't Magical Girls to yield
+      to us,
   - chara:
     - id: 102701
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-20
     nameLeft: Sunao
-    textLeft: So joining together is out of the question...
+    textLeft: so joining together is out of the question...
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -185,18 +186,18 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-21
     nameRight: Chiharu
-    textRight: Maybe we should concentrate on attacking the@Neo Magius base.
+    textRight: Maybe we should concentrate on@attacking the Neo-Magius base.
   - chara:
     - id: 102601
       motion: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-22
     nameRight: Chiharu
-    textRight: Thanks to Shigure, Hagumu, and Union,
+    textRight: Thanks to Shigure's and@Hagumu's time in the Union,
   - chara:
     - id: 102601
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-23
     nameRight: Chiharu
-    textRight: We know the base is in Daito Ward now...
+    textRight: we know their base is somewhere@in Daito Ward now...
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp3.json
@@ -205,13 +206,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-24
     nameLeft: Shizuka
-    textLeft: Plus it is dangerous for them to know where our@base is,
+    textLeft: Plus, it's dangerous to@have them know our base,
   - chara:
     - id: 102501
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-12-25
     nameLeft: Shizuka
-    textLeft: So that may be the better idea.
+    textLeft: so that may be the better idea.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

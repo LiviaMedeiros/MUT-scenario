@@ -41,7 +41,7 @@ story:
       id: 800200
       motion: 0
       pos: 0
-    nameLeft: ""
+    nameLeft: Yu
     textLeft: Come over here!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
@@ -79,7 +79,8 @@ story:
       soulGem: 0
     narrationEffect: out
     turnEffect: sepiaFrame
-  - textLeft: Yu...@Why do you hang out with Ayaka so much?
+  - nameLeft: ""
+    textLeft: Yu...@Why do you hang out with Ayaka so much?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -131,7 +132,8 @@ story:
       id: 800200
       motion: 0
       pos: 0
-    textLeft: What's up, Ayaka? @[chara:800200:cheek_0:face_mtn_ex_011.exp.json]You're
+    nameLeft: Yu
+    textLeft: What's up, Ayaka?@[chara:800200:cheek_0:face_mtn_ex_011.exp.json]You're
       looking down.
   - chara:
     - cheek: 1
@@ -142,8 +144,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 800200
-    textLeft: Did something happen? You can talk @to me, you know. I'll cheer you
-      up!
+    textLeft: Did something happen? You can talk@to me, you know. I'll cheer you up!
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -154,7 +155,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 800200
-    textLeft: What're you talking about? @We all look out for each other, right?
+    textLeft: What're you talking about?@We all look out for each other, right?
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -166,14 +167,14 @@ story:
       face: mtn_ex_030.exp.json
       id: 301901
       lipSynch: 0
-    textRight: (You say that...but this is totally a @one-way street, and you know
+    textRight: (You say that...but this is totally a@one-way street, and you know
       it.)
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 301901
       lipSynch: 0
-    textRight: (You're always the one pulling me @up out of the dark.)
+    textRight: (You're always the one pulling me@up out of the dark.)
   - bg: bg_adv_21142.jpg
     chara:
     - cheek: 1
@@ -225,7 +226,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 300701
       lipSynch: 0
-    textRight: …
+    textRight: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -253,7 +254,7 @@ story:
       motion: 0
       pos: 0
       soulGem: 0
-    nameRight: ' Kyubey'
+    nameRight: Kyubey
     narrationEffect: out
     textRight: So, what is your wish?
     turnEffect: sepiaFrame
@@ -270,7 +271,7 @@ story:
       id: 800200
       motion: 0
       pos: 1
-    textCenter: Don't worry, Ayaka! @I know you can do it!
+    textCenter: Don't worry, Ayaka!@I know you can do it!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - bg: bg_adv_47105.jpg
@@ -283,7 +284,7 @@ story:
       pos: 1
       soulGem: 0
     nameCenter: Ayaka
-    textCenter: …@[chara:301901:lipSynch_1]I…
+    textCenter: '...@[chara:301901:lipSynch_1]I...'
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -336,12 +337,12 @@ story:
       face: mtn_ex_030.exp.json
       id: 300701
       lipSynch: 0
-    textRight: …
+    textRight: '...'
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
       id: 301901
-    textLeft: If you were just thanking me @to be polite, that'd be one thing.
+    textLeft: If you were just thanking me@to be polite, that'd be one thing.
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -364,8 +365,7 @@ story:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 301901
-    textLeft: I'm [chara:301901:motion_0]just an impostor. @A copy of my friend's
-      personality.
+    textLeft: I'm [chara:301901:motion_0]just an impostor.@A copy of my friend's personality.
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -382,8 +382,8 @@ story:
       id: 300701
       lipSynch: 0
       motion: 0
-    textRight: …
+    textRight: '...'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

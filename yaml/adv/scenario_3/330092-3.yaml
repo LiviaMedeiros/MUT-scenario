@@ -42,7 +42,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 1
       mouthOpen: 1
       pos: 0
@@ -69,13 +69,13 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 100
     textLeft: Here you go. Thanks!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 0
       mouthOpen: 1
     textLeft: Okay, that's it for today!@All special bentos have been sold out!
@@ -98,7 +98,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 100
       pos: 1
     nameCenter: Manaka
@@ -118,7 +118,7 @@ story:
     - cheek: 0
       effect: emotion_surprise_0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       motion: 1
     nameCenter: Manaka
     narrationEffect: out
@@ -127,12 +127,12 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
     textCenter: I need to [chara:300900:motion_100]put out the "we're closed" sign@for
       tomorrow!
   - chara:
     - effect: fadeout
-      id: 300900
+      id: 300902
     narration: That's right.@I don't sell bentos on Thursdays.@Why, you ask?
     narrationBg: bg_adv_12071.jpg
     narrationEffect: in
@@ -141,7 +141,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 1
       pos: 0
     nameLeft: Manaka
@@ -152,7 +152,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     textLeft: Today's main dish is stuffed cabbage stew!
   - chara:
@@ -167,7 +167,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
     textLeft: It is!@[chara:300900:motion_100]Give it a try!
   - narration: That's right! After the exchange party,@I started to get tons of requests
       from the@girls at St. Liliana Academy...
@@ -183,7 +183,7 @@ story:
       motion: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 1
     nameLeft: Manaka
     nameRight: Rich girl
@@ -192,38 +192,38 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     textLeft: A f-finger...what...?@Ummm...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
     textLeft: (For times like these...)
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 400
     textLeft: (I've got my pocket-sized "Yutaka Hayashi's@Dining Etiquette Handbook"!)
   - chara:
     - effect: emotion_surprise_0
       face: mtn_ex_020.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
     se: 7226_shock
     textLeft: (...Got it!)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     textLeft: Certainly!@I'll get you a finger bowl right away!
   - chara:
     - effect: fadeout
-      id: 300900
+      id: 300902
     - effect: fadeout
       id: 801000
     narration: Looks like it's going to take a@little more time for me to get used@to
@@ -239,7 +239,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 1
       pos: 0
     nameLeft: Manaka
@@ -249,7 +249,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
     textLeft: Yes.
   - chara:
     - cheek: 0
@@ -265,7 +265,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     textLeft: Yes...@What is it?
   - chara:
@@ -277,24 +277,25 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801000
-    textRight: He would really like to try your @restaurant's food sometime.
+    textRight: He would really like to try your@restaurant's food sometime.
   - chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
+      lipSynch: 0
     textLeft: Oh!
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 400
     textLeft: Of course!
   - narration: If it means spreading the word@of how good our food is...
     narrationBg: bg_adv_21221.jpg
     narrationEffect: in
-  - narration: Some trouble in high-society culture…
+  - narration: Some trouble in high-society culture…@Is a small price to pay!
   - autoTurnLast: 2
     narrationEffect: out
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

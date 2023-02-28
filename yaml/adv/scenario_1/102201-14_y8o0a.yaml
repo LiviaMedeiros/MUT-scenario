@@ -320,7 +320,7 @@ story:
       id: 100201
       voiceFull: fullvoice/section_102201/vo_full_102201-14-40
       voiceFullStop: fullvoice/section_102201/vo_full_102201-14-39
-    textRight: Sorry for doubting you after all that's happened...
+    textRight: Sorry for doubting you after everything that's@happened...
   - chara:
     - eyeClose: 1
       id: 101700

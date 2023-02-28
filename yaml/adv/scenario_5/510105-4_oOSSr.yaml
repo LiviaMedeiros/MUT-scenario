@@ -45,7 +45,7 @@ story:
       id: 402100
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Liz!
   - chara:
     - cheek: 0
@@ -204,7 +204,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 402100
       motion: 400
-    nameRight: Darc
+    nameRight: Tart
     textRight: Wh-whoa!
   - autoTurnLast: 1
     chara:
@@ -230,7 +230,7 @@ story:
       motion: 200
       pos: 1
     nameCenter: Liz
-    textCenter: Darc!
+    textCenter: Tart!
   - chara:
     - id: 402200
       lipSynch: 0
@@ -254,7 +254,7 @@ story:
     - id: 101500
       motion: 200
     nameLeft: Ui
-    textLeft: '[chara:101500:effect_emotion_surprise_0][se:7226_shock]Darc!'
+    textLeft: '[chara:101500:effect_emotion_surprise_0][se:7226_shock]Tart!'
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.2
     chara:
@@ -567,7 +567,7 @@ story:
       id: 402101
       motion: 100
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Thank you for your help, Elisa and Ui!
   - autoTurnLast: 0.2
     chara:

@@ -98,7 +98,7 @@ story:
   - chara:
     - id: 402300
       motion: 200
-    textRight: I can't let her insult Darc anymore!
+    textRight: I can't let her insult Tart anymore!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -293,7 +293,7 @@ story:
   - chara:
     - id: 402100
       lipSynch: 0
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: '...'
     turnChangeOut: whiteOut
     turnChangeOutTime: 2
@@ -302,7 +302,7 @@ story:
     - id: 101503
       motion: 100
     nameRight: Ui
-    textRight: Darc?!
+    textRight: Tart?!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -558,7 +558,7 @@ story:
       id: 402200
       motion: 0
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: The Witch is destroying the fortress!
   - chara:
     - id: 402200
@@ -667,7 +667,7 @@ story:
       id: 402100
       motion: 100
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Ui! Run away!
   - chara:
     - cheek: 0

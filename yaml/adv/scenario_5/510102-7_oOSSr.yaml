@@ -116,7 +116,7 @@ story:
     turnChangeIn: rollInFast
   - chara:
     - id: 402101
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Oh...
     turnChangeOut: rollOutFast
   - chara:
@@ -137,7 +137,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101503
-    textRight: Um, was it...Darc and Liz?
+    textRight: Um, was it...Tart and Liz?
   - chara:
     - id: 402101
       motion: 400
@@ -200,7 +200,7 @@ story:
       id: 402101
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Ui Tamaki of the Order [chara:402101:lipSynch_0][wait:1.2][chara:402101:lipSynch_1]of
       the Dragon?
   - chara:
@@ -230,7 +230,7 @@ story:
       lipSynch: 0
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: (Ui Tamaki...)
     turnEffect: thinking
   - chara:
@@ -260,7 +260,7 @@ story:
     chara:
     - id: 402101
       motion: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: The princess of the Holy Roman Empire?
     turnChangeOut: fadeOut
   - chara:
@@ -310,7 +310,7 @@ story:
     - id: 402101
       lipSynch: 0
       motion: 400
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '[chara:402101:effect_emotion_surprise_0][se:7226_shock]...?! [chara:402101:lipSynch_0][wait:1.0][chara:402101:motion_100][chara:402101:lipSynch_1]That
       voice!'
   - chara:

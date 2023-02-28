@@ -231,7 +231,7 @@ story:
     - id: 402201
       motion: 300
     nameLeft: Liz
-    textLeft: Darc is...to be burned at the stake?
+    textLeft: Tart is...to be burned at the stake?
     turnChangeOut: whiteOut
   - chara:
     - cheek: 2
@@ -261,7 +261,7 @@ story:
   - chara:
     - id: 101503
     textBg: shout
-    textCenter: I could never leave Darc to die, just so I@can go back to my own time!
+    textCenter: I could never leave Tart to die, just so I@can go back to my own time!
   - autoTurnLast: 0.01
     bg: bg_adv_20093.jpg
     chara:
@@ -285,7 +285,7 @@ story:
   - chara:
     - id: 402101
       motion: 201
-    nameRight: Darc
+    nameRight: Tart
     textRight: Ui, you mustn't worry about me.
   - chara:
     - cheek: 2
@@ -294,7 +294,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Melissa
-    textLeft: No! There's no way we can leave you to suffer@at their hands, Darc!
+    textLeft: No! There's no way we can leave you to suffer@at their hands, Tart!
   - chara:
     - cheek: 2
       face: mtn_ex_020.exp.json
@@ -361,7 +361,7 @@ story:
       id: 402100
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: We've already been through this multiple@times?
   - chara:
     - cheek: 0
@@ -537,7 +537,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Elisa
-    textRight: She won't release Darc from her cursed sleep,@so night will swallow
+    textRight: She won't release Tart from her cursed sleep,@so night will swallow
       the world forever...
   - chara:
     - cheek: 1
@@ -546,7 +546,7 @@ story:
       lipSynch: 0
       motion: 300
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: '...'
   - chara:
     - cheek: 1

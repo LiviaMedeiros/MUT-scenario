@@ -243,7 +243,7 @@ story:
       lipSynch: 0
       motion: 1
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: '...'
   - chara:
     - id: 402100
@@ -323,7 +323,7 @@ story:
   - chara:
     - id: 402100
       motion: 400
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: A Witch?!
     turnChangeOut: rollOutFast
   - chara:

@@ -62,7 +62,7 @@ story:
   - chara:
     - id: 402100
       motion: 201
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: It's Melissa! She's fighting the Witch!
     turnChangeOut: rollOutFast
   - chara:
@@ -173,7 +173,7 @@ story:
       id: 402100
       motion: 201
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: Understood!
   - chara:
     - cheek: 0
@@ -240,7 +240,7 @@ story:
   - chara:
     - id: 402100
       motion: 100
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: La Lumière![flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:4021M04]
   - autoTurnLast: 1
     bg: bg_adv_20093.jpg
@@ -302,7 +302,7 @@ story:
   - chara:
     - id: 402100
       motion: 300
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: I-I'm sorry. I thought you were signaling for@my help.
   - chara:
     - id: 402300
@@ -369,7 +369,7 @@ story:
       id: 402100
       motion: 100
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: I'm so glad you're all right, everyone!
   - autoTurnLast: 0.5
     chara:
@@ -385,7 +385,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 402100
-    nameRight: Darc
+    nameRight: Tart
     textRight: You too, Melissa. I'm so relieved!
   - chara:
     - cheek: 0
@@ -393,7 +393,7 @@ story:
       id: 402300
       motion: 1
     nameLeft: Melissa
-    textLeft: Thank you, Darc.
+    textLeft: Thank you, Tart.
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -423,7 +423,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 402300
       motion: 1
-    textLeft: I am Darc's attendant.
+    textLeft: I am Tart's attendant.
   - chara:
     - id: 402300
     textLeft: My name is Melissa de Vignolles.
@@ -490,7 +490,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 402300
-    nameRight: Darc
+    nameRight: Tart
     textRight: What happened to La Hire?
   - bgm: stop
     chara:
@@ -525,7 +525,7 @@ story:
       id: 402100
       motion: 0
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Then La Hire is...?!
   - chara:
     - cheek: 0

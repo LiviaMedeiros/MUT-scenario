@@ -20,7 +20,7 @@ story:
   - narration: A boy and a girl, does that mean it's a date?@Nope...probably not.
   - narration: He just wants to look around the stores@here for a CD by his favorite
       violinist.
-  - narration: So then why did I come early to @Kamihama today, you ask?
+  - narration: So then why did I come early to@Kamihama today, you ask?
   - narration: I want to find an awesome new outfit@to wear, that's why!
   - chara:
     - cheek: 0
@@ -47,7 +47,7 @@ story:
       face: mtn_ex_040.exp.json
       id: 200401
       motion: 0
-    textCenter: I think it was coming from that way. Maybe@there's a Witch?
+    textCenter: I think it was coming from that way.@Maybe there's a Witch?
   - autoTurnLast: 0.01
     bg: bg_adv_21021.jpg
     chara:
@@ -144,7 +144,7 @@ story:
     - cheek: 0
       face: mtn_ex_040.exp.json
       id: 200401
-    textRight: 'I was just passing by.@ '
+    textRight: I was just passing by.
   - chara:
     - id: 300301
       motion: 0
@@ -220,8 +220,8 @@ story:
   - chara:
     - id: 200401
       motion: 200
-    textRight: Looks like a job for Detective Sayaka! @We'll get to the bottom of
-      this together!
+    textRight: Looks like a job for Detective Sayaka!@We'll get to the bottom of this
+      together!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

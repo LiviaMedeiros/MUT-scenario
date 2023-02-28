@@ -187,7 +187,7 @@ story:
     - eyeClose: 1
       id: 402200
       motion: 1
-    textCenter: I'd expect nothing less from the French army@that Darc led.
+    textCenter: I'd expect nothing less from the French army@that Tart led.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -286,7 +286,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 402200
       lipSynch: 0
-    textCenter: (Darc... Please make it in time!)
+    textCenter: (Tart... Please make it in time!)
   - bgm: stop
     chara:
     - id: 402200
@@ -296,7 +296,7 @@ story:
       id: 830100
       motion: 0
       pos: 2
-    nameNarration: Darc
+    nameNarration: Tart
     narration: '"Get down!"'
     narrationBg: bg_adv_20093.jpg
     narrationEffect: in
@@ -333,7 +333,7 @@ story:
   - chara:
     - id: 402100
       motion: 100
-    nameCenter: Darc
+    nameCenter: Tart
     textBg: shout
     textCenter: '[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:3025A02]La
       Lumière!'
@@ -388,13 +388,13 @@ story:
       id: 402100
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Is everyone all right?!
   - chara:
     - id: 402200
       motion: 100
     nameLeft: Liz
-    textLeft: Darc! You saved us.
+    textLeft: Tart! You saved us.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -434,7 +434,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Liz
-    textLeft: The baron is right, Darc.
+    textLeft: The baron is right, Tart.
   - chara:
     - id: 402200
     textLeft: Everyone here believes you are our last hope.

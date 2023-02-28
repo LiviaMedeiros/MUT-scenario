@@ -27,7 +27,7 @@ story:
       motion: 200
     nameCenter: Chiharu
     narrationEffect: out
-    textCenter: Hmph. @It does smell...
+    textCenter: Hmph. @I can smell something...
   - chara:
     - eyeClose: 1
       id: 102601
@@ -87,7 +87,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102601
-    textCenter: So, since Mr. Todoroki gave a positive response too,
+    textCenter: So, since Mr. Todoroki gave it his approval,
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -144,7 +144,7 @@ story:
   - chara:
     - id: 102601
       lipSynch: 0
-    textCenter: (About those people who got arrested for growing @grass out in the
+    textCenter: (About those people who got arrested for growing @herbs out in the
       mountains!)
   - chara:
     - cheek: 0

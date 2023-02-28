@@ -398,7 +398,7 @@ story:
     - id: 300601
       motion: 300
     nameLeft: Hinano
-    textLeft: (That woman on the roof... She's acting strange...@Isn't that a Witch's
+    textLeft: (That woman on the roof... She's acting strange...@Is that a Witch's
       Kiss...?!)
     turnChangeOut: rollOutFast
   - chara:

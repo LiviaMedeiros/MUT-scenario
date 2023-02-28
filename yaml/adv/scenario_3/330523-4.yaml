@@ -293,7 +293,16 @@ story:
       motion: 400
       tear: 1
     textCenter: I should've...been with you...
-  - nameNarration: ""
+  - chara:
+    - id: 305201
+      pos: 0
+    item:
+    - path: resource/scenario/img/51126_tower_Ashley/51126_kumanosuke.png
+      posX: 300
+      posY: 0
+      scale: 1
+      setVisible: 1
+    nameNarration: ""
     narration: '*Crash*'
     narrationBg: bg_adv_21471.jpg
     narrationEffect: in
@@ -304,13 +313,14 @@ story:
       id: 305201
       motion: 0
       tear: 1
+    nameLeft: Ashley
     narrationEffect: out
-    textCenter: What...?
+    textLeft: What...?
   - chara:
     - cheek: 2
       id: 305201
       tear: 1
-    textCenter: The teddy bear he sent me fell over? Why did@that happen out of nowhere?
+    textLeft: The teddy bear he sent me fell over? Why did@that happen out of nowhere?
   - chara:
     - cheek: 2
       eyeClose: 1
@@ -319,16 +329,16 @@ story:
       lipSynch: 0
       motion: 1
       tear: 1
-    textCenter: '...'
+    textLeft: '...'
   - chara:
     - cheek: 2
       face: mtn_ex_050.exp.json
       id: 305201
       tear: 1
-    textCenter: Daddy...?
+    textLeft: Daddy...?
   - chara:
     - id: 305201
-    textCenter: Are you trying to tell me...I shouldn't have@said that?
+    textLeft: Are you trying to tell me...I shouldn't have@said that?
   - autoTurnLast: 0.01
     bg: bg_adv_narration.jpg
     chara:
@@ -384,8 +394,14 @@ story:
       face: mtn_ex_030.exp.json
       id: 305201
       motion: 1
-      pos: 1
+      pos: 0
       tear: 1
+    item:
+    - path: resource/scenario/img/51126_tower_Ashley/51126_kumanosuke.png
+      posX: 300
+      posY: 0
+      scale: 1
+      setVisible: 1
     narrationEffect: out
     turnChangeIn: fadeIn
   - autoTurnLast: 0.01
@@ -396,47 +412,47 @@ story:
       id: 305201
       lipSynch: 0
       tear: 1
-    nameCenter: Ashley
-    textCenter: '...'
+    nameLeft: Ashley
+    textLeft: '...'
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 0
       id: 305201
       motion: 0
-    textCenter: I understand...
+    textLeft: I understand...
   - chara:
     - id: 305201
       tear: 1
-    textCenter: Some things are more important than@wallowing in my regret.
+    textLeft: Some things are more important than@wallowing in my regret.
   - chara:
     - cheek: 2
       id: 305201
       lipSynch: 0
       tear: 1
-    textCenter: '...'
+    textLeft: '...'
   - chara:
     - cheek: 2
       id: 305201
       tear: 1
-    textCenter: I'm...
+    textLeft: I'm...
   - chara:
     - cheek: 2
       face: mtn_ex_010.exp.json
       id: 305201
       tear: 1
-    textCenter: I'm going to do what I love, and make my mark@on the world. Like he
+    textLeft: I'm going to do what I love, and make my mark@on the world. Like he
       said.
   - chara:
     - id: 305201
       motion: 300
-    textCenter: I want to make him proud, so...I'm going to@live my own life. It's
-      my life to live...
+    textLeft: I want to make him proud, so...I'm going to@live my own life. It's my
+      life to live...
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
       id: 305201
       tear: 1
-    textCenter: I swear it on this teddy bear that he gave@me...
+    textLeft: I swear it on this teddy bear that he gave@me...
   - nameNarration: Ashley
     narration: As long as I don't forget@the words he left me, I'll be okay...
     narrationBg: bg_adv_21471.jpg
@@ -447,13 +463,13 @@ story:
       id: 305201
       tear: 1
     narrationEffect: out
-    textCenter: So, Daddy...
+    textLeft: So, Daddy...
   - chara:
     - cheek: 2
       eyeClose: 1
       id: 305201
       tear: 1
-    textCenter: Please forgive these tears...
+    textLeft: Please forgive these tears...
   - autoTurnFirst: 2.3
     bg: bg_adv_narration.jpg
     bgm: stop

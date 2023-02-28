@@ -1,8 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_13021.jpg
-    bgm: bgm03_story02
+  - autoTurnLast: 0.01
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -10,18 +9,25 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 2
+    turnChangeIn: fadeIn
+  - bg: bg_adv_13021.jpg
+    bgm: bgm03_story02
     nameRight: Akira
     textRight: Did you find it?
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-  - chara:
+  - autoTurnLast: 0.2
+    chara:
     - cheek: 0
-      effect: slideInLeft
+      effect: slideInLeftFast
       face: mtn_ex_020.exp.json
       id: 100301
       motion: 0
       mouthOpen: 0
       pos: 0
+    textClear: 1
+  - chara:
+    - id: 100301
+      motion: 200
     nameLeft: Tsuruno
     textLeft: No I haven't!
   - chara:
@@ -34,6 +40,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100301
+      motion: 0
       mouthOpen: 0
     textLeft: You do this all the time,@right Akira-sensei?
   - chara:
@@ -41,7 +48,7 @@ story:
       face: mtn_ex_040.exp.json
       id: 100301
       mouthOpen: 0
-    textLeft: Like you look for lost dogs…?
+    textLeft: Like you look for lost dogs...?
   - chara:
     - cheek: 0
       id: 300801
@@ -71,7 +78,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 100301
       mouthOpen: 0
-    textLeft: Makes sense to me! They rely on you...@[chara:100301:lipSynch_0][freeze:1][chara:100301:cheek_0][chara:100301:face_mtn_ex_010.exp.json][chara:100301:motion_101][chara:100301:lipSynch_1]That's
+    textLeft: Makes sense to me! They rely on you...@[chara:100301:lipSynch_0][wait:1.0][chara:100301:cheek_0][chara:100301:face_mtn_ex_010.exp.json][chara:100301:motion_101][chara:100301:lipSynch_1]That's
       why you're strong!
   - chara:
     - cheek: 0
@@ -124,7 +131,7 @@ story:
       motion: 400
       mouthOpen: 1
     textBg: shout
-    textLeft: Hey! That dog! @[chara:100301:effect_emotion_surprise_0][se:7226_shock]Isn't
+    textLeft: Hey! That dog!@[chara:100301:effect_emotion_surprise_0][se:7226_shock]Isn't
       that the one in the photo?!
   - chara:
     - cheek: 0
@@ -132,7 +139,7 @@ story:
       id: 300801
       motion: 0
       mouthOpen: 1
-    textRight: Huh?@[chara:300801:lipSynch_0][freeze:1.0][chara:300801:motion_200][chara:300801:cheek_0][chara:300801:face_mtn_ex_020.exp.json][chara:300801:lipSynch_1]Oh!
+    textRight: Huh?@[chara:300801:lipSynch_0][wait:1.0][chara:300801:motion_200][chara:300801:cheek_0][chara:300801:face_mtn_ex_020.exp.json][chara:300801:lipSynch_1]Oh!
       It is! You're right!
   - chara:
     - cheek: 0
@@ -140,15 +147,14 @@ story:
       id: 100301
       motion: 101
       mouthOpen: 0
-    textLeft: Leave it to me!@[chara:100301:lipSynch_0][freeze:0.8][chara:100301:mouthOpen_1][chara:100301:lipSynch_1]Just
+    textLeft: Leave it to me!@[chara:100301:lipSynch_0][wait:1.0][chara:100301:mouthOpen_1][chara:100301:lipSynch_1]Just
       wait right here!
-  - chara:
-    - cheek: 0
-      effect: slideOutLeft
-      face: mtn_ex_010.exp.json
+  - autoTurnLast: 0.5
+    chara:
+    - effect: slideOutLeftFast
       id: 100301
-      motion: 0
-      mouthOpen: 0
+    textClear: 1
+  - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300801
@@ -158,7 +164,7 @@ story:
   - bgEffect: shakeLarge
     chara:
     - cheek: 0
-      effect: slideInRight
+      effect: slideInRightFast
       face: mtn_ex_021.exp.json
       id: 100301
       motion: 0
@@ -177,7 +183,7 @@ story:
       mouthOpen: 0
       pos: 2
     nameRight: Akira
-    textRight: That's a private garden!@[chara:300801:lipSynch_0][freeze:0.4][chara:300801:cheek_0][chara:300801:face_mtn_ex_050.exp.json][chara:300801:mouthOpen_1][chara:300801:lipSynch_1]Ah,
+    textRight: That's a private garden!@[chara:300801:lipSynch_0][wait:1.0][chara:300801:cheek_0][chara:300801:face_mtn_ex_050.exp.json][chara:300801:lipSynch_1]Ah,
       don't step on any flowers!
   - chara:
     - cheek: 0
@@ -185,14 +191,13 @@ story:
       motion: 200
       mouthOpen: 0
     textLeft: Ugh, it's too fast! Darn...!
+  - autoTurnLast: 0.2
+    chara:
+    - effect: slideOutLeftFast
+      id: 100301
+    textClear: 1
   - bgEffect: shakeLarge
     chara:
-    - cheek: 0
-      effect: slideOutLeft
-      face: mtn_ex_010.exp.json
-      id: 100301
-      motion: 0
-      mouthOpen: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300801
@@ -209,7 +214,7 @@ story:
       mouthOpen: 0
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Oh, so close!@[chara:100301:lipSynch_0][freeze:1.0][chara:100301:motion_200][chara:100301:cheek_0][chara:100301:face_mtn_ex_020.exp.json][chara:100301:lipSynch_1]Here
+    textLeft: Oh, so close!@[chara:100301:lipSynch_0][wait:1.0][chara:100301:motion_200][chara:100301:cheek_0][chara:100301:face_mtn_ex_020.exp.json][chara:100301:lipSynch_1]Here
       goes NOTHING...!
     turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
@@ -221,20 +226,26 @@ story:
       mouthOpen: 0
       pos: 1
     nameCenter: Akira
-    textCenter: '...Ah!@[chara:300801:lipSynch_0][freeze:0.5][chara:300801:lipSynch_1]...Ugh,[chara:300801:lipSynch_0][freeze:0.7][chara:300801:lipSynch_1]
+    textCenter: '...Ah!@[chara:300801:lipSynch_0][wait:1.0][chara:300801:lipSynch_1]...Ugh,[chara:300801:lipSynch_0][wait:1.0][chara:300801:lipSynch_1]
       it''s no good...[chara:300801:effect_emotion_sad_0][se:7224_fall_into]'
     turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
-  - chara:
+  - autoTurnLast: 0.01
+    chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_010.exp.json
+      id: 100301
+      motion: 0
+      mouthOpen: 0
+      pos: 0
+    turnChangeIn: rollInFast
+  - chara:
+    - face: mtn_ex_011.exp.json
       id: 100301
       motion: 200
-      mouthOpen: 0
       pos: 0
     nameLeft: Tsuruno
     textLeft: Come here YOU!@I got it! YAAAAAAY!
-    turnChangeIn: rollInFast
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -245,7 +256,7 @@ story:
       mouthOpen: 0
       pos: 2
     nameRight: Akira
-    textRight: …
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -256,5 +267,5 @@ story:
     textRight: '...What should I do...'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

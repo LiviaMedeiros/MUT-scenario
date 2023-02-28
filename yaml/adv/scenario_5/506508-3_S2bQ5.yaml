@@ -186,7 +186,7 @@ story:
   - chara:
     - id: 402100
       lipSynch: 0
-    nameRight: Darc
+    nameRight: Tart
     textRight: '...'
   - autoTurnLast: 0.2
     chara:
@@ -345,7 +345,7 @@ story:
   - chara:
     - id: 402100
       motion: 1
-    nameRight: Darc
+    nameRight: Tart
     textRight: The future...?
   - chara:
     - cheek: 0
@@ -373,7 +373,7 @@ story:
       id: 402100
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Miracles that defy...[chara:402100:lipSynch_0][wait:1][chara:402100:lipSynch_1]reason?
   - chara:
     - cheek: 0

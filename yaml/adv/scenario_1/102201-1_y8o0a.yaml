@@ -519,8 +519,8 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-1-50
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-49
     nameLeft: Kaede
-    textLeft: Rena, you cried about messing up the English@day words for last year's
-      final exam too.
+    textLeft: Rena, you cried about messing up the English@words for weekdays on last
+      year's final exam too.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -633,7 +633,7 @@ story:
     - path: resource/scenario/img/part2_chapter1/103101_kimochi_bracelet.png
       visible: hide
     nameLeft: Momoko
-    textLeft: It came up on our contact@network yesterday, right?
+    textLeft: It came up in our group@chat yesterday, right?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -664,7 +664,7 @@ story:
     - id: 100901
       voiceFull: fullvoice/section_102201/vo_full_102201-1-66
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-65
-    textRight: I've never heard of Witches@dropping things to begin with.
+    textRight: I've never heard of Witches@dropping anything like that.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -674,7 +674,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-1-67
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-66
     nameLeft: Kaede
-    textLeft: I don't think I've ever heard@of anything like that either.
+    textLeft: I don't think I've ever heard@of that sort of thing either.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -729,7 +729,7 @@ story:
     - id: 100901
       voiceFull: fullvoice/section_102201/vo_full_102201-1-74
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-73
-    textRight: Kaede is gonna start cleaning stairs again.
+    textRight: You're gonna make Kaede@start cleaning stairs again.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -739,7 +739,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-1-75
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-74
     nameLeft: Kaede
-    textLeft: Then Rena will start crying@her eyes out too, huh?
+    textLeft: And then Rena will start@crying her eyes out too, huh?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -774,7 +774,7 @@ story:
       motion: 1
       voiceFull: fullvoice/section_102201/vo_full_102201-1-79
       voiceFullStop: fullvoice/section_102201/vo_full_102201-1-78
-    textLeft: The magic felt different from@either Witches or Uwasa...
+    textLeft: The magic felt different from@both Witches and Uwasa...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

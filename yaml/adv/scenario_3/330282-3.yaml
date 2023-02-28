@@ -61,7 +61,7 @@ story:
       id: 301101
       motion: 1
     textLeft: A-anyway! [chara:301101:lipSynch_0][wait:0.6][chara:301101:cheek_0][chara:301101:face_mtn_ex_011.exp.json][chara:301101:lipSynch_1]We
-      need something to draw... @Hmm...
+      need something to draw...@Hmm...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -233,7 +233,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 100501
       lipSynch: 0
-    textCenter: (I'll draw Kako holdin' this here... @[chara:100501:lipSynch_0][wait:0.8][chara:100501:cheek_0][chara:100501:face_mtn_ex_010.exp.json]Wow,
+    textCenter: (I'll draw Kako holdin' this here...@[chara:100501:lipSynch_0][wait:0.8][chara:100501:cheek_0][chara:100501:face_mtn_ex_010.exp.json]Wow,
       it looks really cool!)
     turnEffect: thinking
   - chara:
@@ -308,8 +308,8 @@ story:
     - cheek: 0
       id: 301101
       lipSynch: 0
-    textLeft: '[chara:301101:lipSynch_0][wait:0.8][chara:301101:lipSynch_1]The muscles
-      are so...bulging...'
+    textLeft: '...[chara:301101:lipSynch_0][wait:0.8][chara:301101:lipSynch_1]The
+      muscles are so...bulging...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

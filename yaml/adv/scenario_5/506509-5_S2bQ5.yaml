@@ -25,7 +25,7 @@ story:
   - chara:
     - effect: shake
       id: 402100
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: I can't...I can't do a single thing?!
   - autoTurnLast: 0.01
     chara:
@@ -212,7 +212,7 @@ story:
   - chara:
     - id: 402100
       motion: 201
-    nameLeft: Darc
+    nameLeft: Tart
     narrationEffect: out
     textLeft: I...I can move!
   - chara:
@@ -253,7 +253,7 @@ story:
   - chara:
     - id: 402100
       motion: 100
-    nameRight: Darc
+    nameRight: Tart
     textRight: Ui! The Blank Prophecy!
   - autoTurnLast: 1
     flashEffect: explosion
@@ -288,7 +288,7 @@ story:
   - chara:
     - cheek: 1
       id: 402100
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: The French army is in grave danger!
   - chara:
     - cheek: 1
@@ -297,7 +297,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Elisa
-    textLeft: Please return Darc and I to the fragment@we were viewing.
+    textLeft: Please return Tart and I to the fragment@we were viewing.
   - chara:
     - id: 101500
       motion: 100
@@ -328,7 +328,7 @@ story:
       lipSynch: 0
       motion: 200
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Ah![flashEffect:flashWhite2][bgEffect:shakeSmall][chara:402100:effect_shake][surround:4024A05]
   - chara:
     - id: 402100

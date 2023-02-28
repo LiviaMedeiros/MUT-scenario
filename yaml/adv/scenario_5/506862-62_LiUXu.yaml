@@ -59,8 +59,8 @@ story:
   - chara:
     - id: 102500
       motion: 300
-    textRight: '...Then even if anything happens here, I suppose my mother ought to
-      keep you safe...'
+    textRight: '...Then even if anything happens here, I suppose my @mother ought
+      to keep you safe...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -73,7 +73,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102500
       motion: 0
-    textRight: Can anyone call my mother?
+    textRight: Can anyone summon my mother?
   - bgm: stop
     chara:
     - cheek: 0
@@ -134,10 +134,10 @@ story:
       id: 800800
       motion: 0
       pos: 0
-    textLeft: Yes, I saw that too.
+    textLeft: Yes, I'm sure I saw her too.
   - chara:
     - id: 800800
-    textLeft: But I don't think I ever saw her since we evacuated @to this house...
+    textLeft: But I don't think I've seen her since we evacuated @to this house...
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -157,13 +157,14 @@ story:
     - id: 102500
       motion: 200
     nameCenter: Shizuka
-    textCenter: How can only my and Chiharu's mothers not have evacuated...?
+    textCenter: Don't tell me that my and Chiharu's mothers are @the only ones that
+      haven't evacuated...?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 102500
-    textCenter: The only explanation I can come up with is they got targeted...
+    textCenter: The only explanation I can come up with is they @were targeted...
   - chara:
     - cheek: 0
       eyeClose: 1

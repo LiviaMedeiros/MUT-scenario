@@ -17,24 +17,23 @@ story:
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 150
-    progressNarration: '[textBlack:At this time, several groups in Kamihama are]@[textBlack:close
-      to "][textRed:we''re splitting into our own group.][textBlack:"]'
+    progressNarration: '[textBlack:At this time, the various factions in Kamihama@have
+      ][textRed:settled into two broad camps][textBlack:.]'
     turnChangeOut: fadeOut
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-1
-  - progressNarration: '[textBlack:That means that each Magical Girl group''s]@[textBlack:goals
-      and ideas of what they must do]@[textBlack:are clashing as the battle for the]@[textYellow:Kimochi]
-      [textBlack:stones has reached its high point.]'
+  - progressNarration: '[textBlack:This grand posture arose from the struggle]@[textBlack:over
+      the ][textYellow:Kimochi][textBlack: Stones, in which]@[textBlack:the factions''
+      objectives and stances]@[textBlack:on being Magical Girls collided.]'
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-2
-  - progressNarration: '[textBlack:However, I''m certain the Magical Girls will]@[textBlack:enter
-      a new battle soon enough, and]@[textBlack:once again wear out their minds and
-      bodies.]'
+  - progressNarration: '[textBlack:However, despite the toll previously]@[textBlack:inflicted
+      on their bodies and spirits,]@[textBlack:I believe renewed conflict between]@[textBlack:all
+      Magical Girls is imminent.]'
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-3
-  - progressNarration: '[textBlack:So, while there is still some time left in]@[textBlack:this
-      calm, I will reflect back on the]@[textBlack:events that have happened since
-      then.]'
+  - progressNarration: '[textBlack:So, while we still have a lull in the fighting,]@[textBlack:I
+      will reflect back on the events]@[textBlack:that have transpired since then.]'
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-4
-  - progressNarration: '[textBlack:Right... This was all triggered by the death]@[textBlack:of
-      one Magical Girl.]'
+  - progressNarration: '[textBlack:Yes... Events set irrevocably in motion]@[textBlack:by
+      the death of one Magical Girl.]'
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-5
   - autoTurnLast: 1
     bg: black
@@ -57,7 +56,7 @@ story:
       posY: 0
       visible: appear
   - nameNarration: Ikumi
-    narration: ―Ikumi―@Ryou!
+    narration: ―Ikumi―@Ryo!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -85,12 +84,12 @@ story:
     narrationHAlignment: left
     narrationPosX: 150
     progressNarration: '[textBlack:From that moment on, the flames of battle]@[textBlack:over
-      the] [textYellow:Kimochi] [textBlack:stones rose high,]@[textBlack:allowing
+      the] [textYellow:Kimochi] [textBlack:Stones rose high,]@[textBlack:allowing
       no one to turn back.]'
     turnChangeOut: fadeOut
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-9
-  - progressNarration: '[textBlack:Thinking on it, maybe that''s how the]@[textYellow:Kimochi]
-      [textBlack:felt about it, too.]'
+  - progressNarration: '[textBlack:Thinking on it, maybe that''s how]@[textBlack:the
+      ][textYellow:Kimochi] [textBlack:felt about it, too.]'
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-10
   - autoTurnLast: 0.2
     bg: bg_adv_24031.jpg
@@ -114,17 +113,17 @@ story:
       lipSynch: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-11
     nameNarration: Ui
-    narration: Those who are present now, and the Magical Girls@that will hear us
-      elsewhere may continue@to fight. We will judge and choose who will be@admitted
-      based on the results.
+    narration: Those who are present now,@and the Magical Girls that will hear us
+      elsewhere@may continue to fight.@We will judge and choose who will be admitted@based
+      on the results.
     narrationBg: ""
     narrationEffect: in
     turnChangeOut: fadeOut
   - chara:
     - id: 101500
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-12
-    narration: If those who our rules do not apply to try to fight@or take actions
-      against this matter, we will take@measures to separate them into another barrier.
+    narration: If those who our rules do not apply to@try to fight or take actions
+      against this matter,@we will take measures to separate them@into another Labyrinth.
   - autoTurnLast: 0.2
     bg: black
     item:
@@ -145,7 +144,7 @@ story:
     progressNarration: '[textBlack:And then, a few days after that...]@[textBlack:It
       turned out that the Magical Girls that heard]@[textBlack:the words of the] [textYellow:Kimochi]
       [textBlack:would all be the]@[textBlack:ones that would continue the battle]@[textBlack:for
-      the] [textYellow:Kimochi] [textBlack:stones.]'
+      the] [textYellow:Kimochi] [textBlack:Stones.]'
     turnChangeOut: fadeOut
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-14
   - autoTurnLast: 0.5
@@ -171,14 +170,14 @@ story:
     narrationLineMargin: 80
     narrationLineSpace: 20
     narrationPosX: 150
-    progressNarration: 'Kamihama Magia Union:'
+    progressNarration: Kamihama Magia Union
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-15
   - progressNarration: Their goal is to expand the Automatic@Purification System across
-      the world, so@that all Magical Girls can be free@of the fate of becoming witches.
+      the world, so@that all Magical Girls can be free@from the fate of becoming Witches.
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-16
-  - progressNarration: Some of those who couldn't join and help their@friends instead
-      try to spread the word of Magical@Girls to the world, supporting their friends
-      on@the frontlines as they remain behind them.
+  - progressNarration: Some of those who couldn't join the fight@instead try to spread
+      the word of Magical@Girls to the world, supporting their friends on@the frontlines
+      as they remain behind them.
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-17
   - autoTurnLast: 0.2
     bg: black
@@ -203,7 +202,7 @@ story:
     narrationLineMargin: 80
     narrationLineSpace: 20
     narrationPosX: 150
-    progressNarration: 'Promised Blood:'
+    progressNarration: Promised Blood
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-18
   - progressNarration: To get revenge on Kamihama, they're trying to@steal the Automatic
       Purification System so they@can save the Magical Girls in Futatsugi, their home.
@@ -234,11 +233,11 @@ story:
     narrationLineMargin: 80
     narrationLineSpace: 20
     narrationPosX: 150
-    progressNarration: 'Tokime Clan:'
+    progressNarration: Tokime Clan
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-21
-  - progressNarration: The blades that protect the land of the rising@sun, the pride
+  - progressNarration: The blades that protect the Land of the Rising@Sun, the pride
       of their clan. They seek to fulfill@their duty by freeing Magical Girls from@the
-      fate of becoming witches.
+      fate of becoming Witches.
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-22
   - progressNarration: These girls carry pride in being Magical Girls,@which played
       a part in them leaving the Union.
@@ -266,9 +265,9 @@ story:
     narrationLineMargin: 80
     narrationLineSpace: 20
     narrationPosX: 150
-    progressNarration: 'Neo Magius:'
+    progressNarration: Neo-Magius
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-24a
-  - progressNarration: To remove all of their regrets and their@feelings of inferiority,
+  - progressNarration: To be rid of all of their regrets and their@feelings of inferiority,
       they want to rise above@all other people and Magical Girls, so that@no one can
       go against them.
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-24b
@@ -298,7 +297,7 @@ story:
     narrationLineMargin: 80
     narrationLineSpace: 20
     narrationPosX: 150
-    progressNarration: And the last group I have seen...
+    progressNarration: And the last group that appeared...
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-26
   - progressNarration: I still don't understand@what their goal is...
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-26a
@@ -324,22 +323,22 @@ story:
     narrationLineMargin: 30
     narrationLineSpace: 20
     narrationPosX: 150
-    progressNarration: What I do know at this point is that each@group of 12 Magical
-      Girls the [textYellow:Kimochi] had@selected were ready to fight.
+    progressNarration: What I do know at this point is that the [textYellow:Kimochi]@selected
+      twelve Magical Girls from each@group, and they were ready to fight.
     turnChangeOut: fadeOut
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-27
   - progressNarration: Some of the Magical Girls felt something was off@about the
       [textYellow:Kimochi] that bound them to rules.
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-27a
-  - progressNarration: Since then, one... two... many things behind the@scenes would
+  - progressNarration: Since then, one...two...many things behind@the scenes would
       work in tandem@to push everyone down.
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-28
-  - progressNarration: One day, Himuro had told me something ―@that only Union is
-      resisting.
+  - progressNarration: One day, Miss Rabi said something to me―@that only the Union
+      was resisting.
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-28a
-  - progressNarration: Now I'm starting to wonder if she was actually@right. Union,
-      or perhaps just Iroha, is the only@irregularity in the universe that is defying@her
-      fate.
+  - progressNarration: Now I'm starting to wonder if she may have@been right. The
+      Union, or perhaps even just@Iroha, is the only irregularity that is@defying
+      her fate in the universe.
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-28b
   - autoTurnLast: 0.2
     narrationEffect: out
@@ -367,8 +366,8 @@ story:
       voiceFull: fullvoice/section_102601/vo_full_102601-1-30
     enableSkipAutoTurn: 1
     nameRight: Hikaru
-    textRight: '[chara:100100:effect_7000_attack01][surround:1022A01]It''s ''bout
-      time you hand that@[textYellow:Kimochi] stone over, don''t ya think!?'
+    textRight: It's 'bout time you hand that@[textYellow:Kimochi] Stone over, don't
+      ya think?!
     turnChangeOut: fadeOut
   - autoTurnLast: 1.5
     chara:
@@ -395,19 +394,19 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-32
     nameLeft: Iroha
-    textLeft: How can you be so calm about@continuing this fighting...?
+    textLeft: How are you so unconcerned about@continuing to fight like this...?
   - chara:
     - id: 100100
       motion: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-33
     nameLeft: Iroha
-    textLeft: Don't you realize one person has@already died...!?
+    textLeft: Don't you realize that someone@has already died...?!
   - chara:
     - id: 102200
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-34
     nameRight: Hikaru
-    textRight: She deserved it; why are you acting@like it's so tragic!?
+    textRight: She deserved it. Why are you@acting like it's so tragic?!
   - autoTurnLast: 2
     chara:
     - cheek: 0
@@ -418,8 +417,8 @@ story:
       voiceFull: fullvoice/section_102601/vo_full_102601-1-35
     enableSkipAutoTurn: 1
     nameLeft: Iroha
-    textLeft: '[chara:102200:effect_7001_attack02][se:6000_hit_shooting_01_s]I can''t
-      give this stone to someone@that says she deserved it!'
+    textLeft: I can't give this Stone to anyone@that would would say she deserved
+      that!
   - autoTurnLast: 1
     chara:
     - effect: 7001_attack02
@@ -437,7 +436,7 @@ story:
       voiceFullStop: fullvoice/section_102601/vo_full_102601-1-35
     enableSkipAutoTurn: 0
     nameRight: Hikaru
-    textRight: '[chara:102200:effect_7003_damage02][se:5000_shooting_01_s][bgEffect:shakeSmall]Nau-!'
+    textRight: '[chara:102200:effect_7003_damage02][se:5000_shooting_01_s][bgEffect:shakeSmall]Ngh―!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp3.json
@@ -446,7 +445,8 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-37
     nameRight: Hikaru
-    textRight: As expected, even the pacifist Iroha@can be motivated in a competition.
+    textRight: As expected, even a pacifist like you can get@motivated when it's finders-keepers
+      time.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -461,7 +461,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-38
     nameCenter: Iroha
-    textCenter: (Geez, I was supposed to meet@Shizuka at Suitoku Temple...)
+    textCenter: (Geeze, I was supposed to meet@Shizuka at Suitoku Temple...)
   - autoTurnLast: 0.5
     bgm: stop
     chara:
@@ -484,7 +484,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-39
     nameCenter: Iroha
-    textCenter: No way...!?
+    textCenter: No way...?!
   - autoTurnLast: 1.2
     chara:
     - id: 100100
@@ -552,7 +552,7 @@ story:
       motion: 201
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-43
     nameLeft: Yachiyo
-    textLeft: Hit and run until we get too tired,@is that your plan...
+    textLeft: Hit and run until you wear us down,@is that your plan?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -568,7 +568,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-44
     nameCenter: Hikaru
-    textCenter: As long as we win, it's okay!
+    textCenter: As long as we win, it's all okay!
   - autoTurnLast: 0.2
     chara:
     - id: 102200
@@ -620,13 +620,13 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-48
     nameRight: Hikaru
-    textRight: I anticipated this and let@you charge right into my pocket.
+    textRight: I figured this would happen,@so I got right in close.
   - chara:
     - id: 102200
       motion: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-49
     nameRight: Hikaru
-    textRight: Now we can have our one-versus-one@without any worries!
+    textRight: Now we can have our one-on-one@without any worries!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -643,12 +643,12 @@ story:
       soulGem: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-50
     nameCenter: Kagome
-    textCenter: '...Got in.'
+    textCenter: '...I got in.'
   - chara:
     - id: 102001
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-51
-    nameCenter: Aru
+    nameCenter: Aru-
     textCenter: <You're not a Magical Girl, but you can@enter without being isolated...?>
   - chara:
     - cheek: 0
@@ -679,7 +679,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Hikaru
-    textRight: Today's the day you become dust@by my blade!
+    textRight: Today's the day you become@dust by my blade!
     turnChangeOut: fadeOut
   - chara:
     - id: 100100
@@ -705,7 +705,7 @@ story:
       soulGem: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-55
     nameCenter: Kagome
-    textCenter: '.....'
+    textCenter: '...'
   - autoTurnLast: 0.2
     bg: black
     bgm: stop
@@ -767,7 +767,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-60
     nameRight: Ikumi
-    textRight: '.....'
+    textRight: '...'
   - chara:
     - id: 300301
       motion: 0
@@ -781,7 +781,7 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-62
     nameRight: Ikumi
-    textRight: Kumi... still has to be a maid...
+    textRight: Kumi...still has to be a maid...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -831,13 +831,13 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-68
     nameRight: Ikumi
-    textRight: Should I... still be crying...
+    textRight: Should I...still be crying...?
   - chara:
     - id: 300301
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-1-69
     nameLeft: Hinano
-    textLeft: Now's the time to...
+    textLeft: Now's the time for it...
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

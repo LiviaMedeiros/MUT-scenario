@@ -67,11 +67,11 @@ story:
         - fadeTo:
             duration: 0.1
             opacity: 0
+      iPhoneXScale: 1
       opacity: 255
-      path: resource/scenario/img/black.jpg
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
-      scale: 1
       setVisible: 1
   - chara:
     - cheek: 0
@@ -107,19 +107,19 @@ story:
       lipSynch: 0
     textCenter: (I'm going to turn into a Witch.)
   - chara:
+    - effect: fadeout
+      id: 200302
+    narration: '[textRed:Why]? Why, why, why?'
+    narrationBg: black
+    narrationEffect: in
+  - chara:
     - cheek: 0
-      effect: fadeout
+      effect: ef_adv_08
       face: mtn_ex_020.exp.json
       id: 200302
       motion: 0
       pos: 1
       posX: 0
-    narration: '[textRed:Why]? Why, why, why?'
-    narrationBg: black
-    narrationEffect: in
-  - chara:
-    - effect: ef_adv_08
-      id: 200302
     narration: '[textRed:Why]? Why couldn''t I [textRed:protect] her?'
   - chara:
     - cheek: 0
@@ -336,8 +336,9 @@ story:
     bg: bg_adv_46001.jpg
     bgChangeEffect: fade
     item:
-    - opacity: 30
-      path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      opacity: 30
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
       setVisible: 1
@@ -421,7 +422,7 @@ story:
     turnChangeInTime: 0.5
   - bgm: stop
     item:
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/black.png
       setVisible: 0
     nameNarration: ???
     narration: This is [textRed:goodbye]...
@@ -443,8 +444,9 @@ story:
       name: sprite_0
       pos: 0
     item:
-    - opacity: 30
-      path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      opacity: 30
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
       setVisible: 1
@@ -524,7 +526,7 @@ story:
       motion: 100
       pos: 2
     item:
-    - path: resource/scenario/img/black.jpg
+    - path: resource/scenario/img/black.png
       setVisible: 0
     turnChangeIn: fadeIn
     turnChangeInTime: 0.5
@@ -559,8 +561,9 @@ story:
       visible: hide
     - path: resource/scenario/img/chapter5/101505_alina_doppel_clay.png
       visible: hide
-    - opacity: 30
-      path: resource/scenario/img/black.jpg
+    - iPhoneXScale: 1
+      opacity: 30
+      path: resource/scenario/img/black.png
       posX: 0
       posY: 0
       setVisible: 1

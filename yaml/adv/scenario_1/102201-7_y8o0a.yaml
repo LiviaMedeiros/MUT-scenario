@@ -69,7 +69,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Mitama
-    textLeft: Kanagi sensed them as well,@but it seems it wasn't just one...
+    textLeft: Kanagi sensed one as well,@but it seems there were more...
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -156,8 +156,8 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-7-10
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-9
     nameRight: Iroha
-    textRight: Yes, it could just be that the Feathers who were@part of the Wings
-      of the Magius came back...
+    textRight: Yes, it could just be that Feathers who were@part of the Wings of the
+      Magius came back...
   - chara:
     - id: 100101
       voiceFull: fullvoice/section_102201/vo_full_102201-7-11
@@ -465,7 +465,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-7-40
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-39
     nameLeft: Kanagi
-    textLeft: First the mysterious Witches, now Magical Girls.@People are liable to
+    textLeft: First the mysterious Witches, now Magical Girls.@I'm sure everyone will
       be surprised.
   - autoTurnLast: 0.2
     chara:
@@ -706,7 +706,8 @@ story:
       motion: 0
       voiceFull: fullvoice/section_102201/vo_full_102201-7-66
       voiceFullStop: fullvoice/section_102201/vo_full_102201-7-65
-    textLeft: If I used it for coordination,@I'm afraid my Soul Gem wouldn't survive...
+    textLeft: If I used it for empowering someone,@I'm afraid their Soul Gem wouldn't
+      survive...
   - chara:
     - id: 101700
       motion: 200

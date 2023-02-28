@@ -57,7 +57,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 102700
-    textLeft: Though it seemed that Lady Mikoshiba had some expectations for you...
+    textLeft: Even though Lady Mikoshiba had expectations for you...
   - chara:
     - eyeClose: 0
       id: 102601

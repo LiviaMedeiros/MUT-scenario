@@ -61,7 +61,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 402101
       motion: 100
-    nameRight: Darc
+    nameRight: Tart
     textRight: Many soldiers have returned to us in droves,@spurred on by His Majesty's
       arrival!
   - autoTurnLast: 0.01
@@ -96,7 +96,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Elisa
-    textRight: You two haven't taken your eyes off of Darc@in a while. Are you monitoring
+    textRight: You two haven't taken your eyes off of Tart@in a while. Are you monitoring
       her?
   - chara:
     - cheek: 0
@@ -170,7 +170,7 @@ story:
       id: 402101
       motion: 400
       pos: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: '[chara:402101:effect_emotion_surprise_0][se:7226_shock]Wh...[chara:402101:lipSynch_0][wait:1][chara:402101:lipSynch_1]what?'
   - autoTurnLast: 0.2
     chara:
@@ -374,7 +374,7 @@ story:
   - chara:
     - id: 402101
       motion: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: Oh! Ui!
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.2
@@ -389,7 +389,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Ui
-    textRight: You sure were surrounded by a lot of @important people, huh Darc?
+    textRight: You sure were surrounded by a lot of @important people, huh Tart?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -407,7 +407,7 @@ story:
       id: 402101
       motion: 300
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: I'm only a simple country girl, so it's quite@nerve-wracking to stand
       next to them.
   - chara:
@@ -541,13 +541,13 @@ story:
       motion: 400
       pos: 2
     nameRight: Melissa
-    textRight: Darc, did you drink any of it?!
+    textRight: Tart, did you drink any of it?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 402101
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Er... No, not yet, but...
   - chara:
     - cheek: 0
@@ -597,7 +597,7 @@ story:
     chara:
     - id: 402101
       motion: 201
-    nameCenter: Darc
+    nameCenter: Tart
     narrationEffect: out
     textBg: shout
     textCenter: '...nooooooooot...'
@@ -663,7 +663,7 @@ story:
       id: 402101
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: What?
   - chara:
     - cheek: 2
@@ -706,7 +706,7 @@ story:
     - id: 402101
       motion: 100
     textBg: shout
-    textRight: Nooo, stop! Darc, stop it!
+    textRight: Nooo, stop! Tart, stop it!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout

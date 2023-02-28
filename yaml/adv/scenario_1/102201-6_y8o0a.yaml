@@ -26,7 +26,7 @@ story:
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-6-1
     nameLeft: Mitama
-    textLeft: Magical Girls from outside of Kamihama?
+    textLeft: A Magical Girl from outside of Kamihama?
     turnChangeOut: fadeOut
   - chara:
     - id: 101601
@@ -34,7 +34,7 @@ story:
       voiceFull: fullvoice/section_102201/vo_full_102201-6-2
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-1
     nameRight: Kanagi
-    textRight: Indeed. I finally detected a@reaction like that myself.
+    textRight: Indeed. I finally detected her magic myself.
   - chara:
     - id: 101601
       voiceFull: fullvoice/section_102201/vo_full_102201-6-3
@@ -280,8 +280,7 @@ story:
       id: 101700
       voiceFull: fullvoice/section_102201/vo_full_102201-6-28
       voiceFullStop: fullvoice/section_102201/vo_full_102201-6-27
-    textLeft: Still, aside from that one rampage the@other day, it's calmed down these
-      days.
+    textLeft: Still, aside from that one rampage a bit@ago, it's calmed down recently.
   - nameNarration: ""
     narration: '*Door opening*'
     narrationEffect: in

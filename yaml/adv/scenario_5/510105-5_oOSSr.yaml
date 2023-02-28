@@ -142,7 +142,7 @@ story:
       id: 402101
       lipSynch: 0
       motion: 1
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: '...'
   - autoTurnLast: 1.5
     bg: white
@@ -152,7 +152,7 @@ story:
     turnChangeIn: whiteIn
     turnChangeInTime: 1
     turnEffect: stop
-  - nameNarration: Darc
+  - nameNarration: Tart
     narration: '[textBlack:Is this...]'
     turnChangeOut: whiteOut
   - nameNarration: Liz
@@ -196,11 +196,11 @@ story:
     textRight: We came here to meet you.
     turnChangeOut: fadeOut
     turnEffect: sepiaFrame
-  - textRight: We'd like to call you "Darc", if that's all@right with you.
+  - textRight: We'd like to call you "Tart", if that's all@right with you.
   - chara:
     - id: 402101
       motion: 400
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Th-that's fine!
   - chara:
     - id: 402101
@@ -226,7 +226,7 @@ story:
   - chara:
     - id: 402101
       motion: 100
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:4021A01]Arrrgh!'
     turnChangeOut: fadeOut
   - chara:
@@ -320,7 +320,7 @@ story:
       id: 402101
       motion: 100
       soulGem: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Yes!
   - chara:
     - cheek: 0
@@ -329,7 +329,7 @@ story:
     textLeft: She can be a bit crazy sometimes, but she's@my precious little sister.
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
-  - nameNarration: Darc
+  - nameNarration: Tart
     narration: That's right...@Those miraculously peaceful days...
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
@@ -340,7 +340,7 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
   - bgm: stop
-    nameNarration: Darc
+    nameNarration: Tart
     narration: And my dearest little sister,@Catherine, perished.
     narrationBg: black
     narrationEffect: in
@@ -366,8 +366,8 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
   - bgm: bgm03_story07
-    nameNarration: Darc
-    narration: ―Darc―@Monsieur Angel...
+    nameNarration: Tart
+    narration: ―Tart―@Monsieur Angel...
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -375,13 +375,13 @@ story:
     narrationLineMargin: 35
     narrationLineSpace: 20
     turnChangeOut: fadeOut
-  - narration: ―Darc―@I have made my choice.
-  - narration: ―Darc―@I won't allow this cruelty@to happen again, to anyone.
-  - narration: ―Darc―@I will become...a Magical Girl.
+  - narration: ―Tart―@I have made my choice.
+  - narration: ―Tart―@I won't allow this cruelty@to happen again, to anyone.
+  - narration: ―Tart―@I will become...a Magical Girl.
   - nameNarration: Qube
-    narration: ―Qube―@Okay, Darc... What will you wish for?
-  - nameNarration: Darc
-    narration: ―Darc―@The power to bring light to all of France!
+    narration: ―Qube―@Okay, Tart... What will you wish for?
+  - nameNarration: Tart
+    narration: ―Tart―@The power to bring light to all of France!
   - autoTurnLast: 1
     bg: bg_adv_20082.jpg
     chara:
@@ -421,7 +421,7 @@ story:
     - id: 810000
     nameRight: Qube
     textRight: Without a doubt...
-  - textRight: Darc is a light of hope that just may clear@away the dark clouds of
+  - textRight: Tart is a light of hope that just may clear@away the dark clouds of
       this country.
   - autoTurnLast: 0.01
     bg: bg_adv_20102.jpg
@@ -499,7 +499,7 @@ story:
     - id: 402101
       lipSynch: 0
       motion: 300
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '...'
   - autoTurnLast: 0.2
     chara:

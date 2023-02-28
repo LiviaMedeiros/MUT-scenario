@@ -1,18 +1,19 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21141.jpg
+  - autoTurnLast: 0.01
     chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 100201
       motion: 0
       mouthOpen: 0
-      pos: 0
-    nameLeft: Yachiyo
-    surround: 7001_birdsong
-    textLeft: '...Oh?'
+      pos: 1
     turnChangeIn: fadeIn
+  - bg: bg_adv_21141.jpg
+    nameCenter: Yachiyo
+    surround: 7001_birdsong
+    textCenter: '...Oh?'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -20,80 +21,87 @@ story:
       id: 100201
       motion: 100
       mouthOpen: 0
-    textLeft: Tsuruno?@What are you doing here?
+    textCenter: Tsuruno?@What are you doing here?
   - chara:
+    - id: 100201
+      pos: 2
     - cheek: 2
       face: mtn_ex_050.exp.json
       id: 100301
       motion: 0
       mouthOpen: 0
-      pos: 2
+      pos: 0
       tear: 1
-    nameRight: Tsuruno
-    textRight: Ah!@[chara:100301:lipSynch_0][freeze:1][chara:100301:cheek_2][chara:100301:face_mtn_ex_030.exp.json][chara:100301:tear_1][chara:100301:lipSynch_1]*Sniffle*...*Sniffle*...
+    nameLeft: Tsuruno
+    textLeft: Ah!@[chara:100301:lipSynch_0][wait:1][chara:100301:cheek_2][chara:100301:face_mtn_ex_030.exp.json][chara:100301:tear_1][chara:100301:lipSynch_1]*Sniffle*...*Sniffle*...
   - chara:
     - id: 100301
-      motion: 300
+      motion: 200
       mouthOpen: 1
     textBg: shout
-    textRight: Master Yachiyooo!
+    textLeft: Master Yachiyooo!
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 100201
       motion: 400
       mouthOpen: 0
-    textLeft: W-wait!@[chara:100201:effect_emotion_surprise_0][se:7226_shock]Why are
-      you crying?
+    nameRight: Yachiyo
+    textRight: W-wait!@[chara:100201:effect_emotion_surprise_0][se:7226_shock]Why
+      are you crying?
   - chara:
     - cheek: 0
       id: 100201
       mouthOpen: 0
-    textLeft: What's wrong?@Did something happen?
+    textRight: What's wrong?@Did something happen?
   - chara:
     - id: 100301
       motion: 0
       mouthOpen: 0
-    textRight: '...I...'
+    textLeft: '...I...'
   - chara:
     - id: 100301
-      motion: 200
+      motion: 300
       mouthOpen: 1
     textBg: shout
-    textRight: '...I...!!'
-  - bg: bg_adv_21141.jpg
-    bgm: bgm03_story07
+    textLeft: '...I...!!'
+  - autoTurnLast: 2
+    bgm: stop
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100201
       motion: 0
       mouthOpen: 0
-      pos: 0
+      pos: 2
     - cheek: 2
       face: mtn_ex_030.exp.json
       id: 100301
       motion: 0
       mouthOpen: 0
-      pos: 2
+      pos: 0
       tear: 1
-    nameLeft: Yachiyo
-    nameRight: Tsuruno
-    surround: stop
-    textLeft: '...So then you messed up at that factory?'
     turnChangeIn: fadeIn
+  - bg: bg_adv_21141.jpg
+    bgm: bgm03_story07
+    chara:
+    - id: 100301
+    nameLeft: Tsuruno
+    nameRight: Yachiyo
+    surround: stop
+    textRight: '...So then you messed up at that factory?'
     turnChangeOut: fadeOut
   - chara:
     - id: 100301
       motion: 300
       mouthOpen: 0
-    textRight: Y-yes...waaaaaah....@I bell bown and bwoke a bunch of stuff...
+    textLeft: Y-yes...waaaaaah....@I bell bown and bwoke a bunch of stuff...
   - chara:
     - cheek: 0
       face: mtn_ex_014.exp.json
       id: 100201
       mouthOpen: 0
-    textLeft: Tsuruno, please blow your nose.@Here, blow.
+    textRight: Tsuruno, please blow your nose.@Here, blow.
   - chara:
     - cheek: 2
       face: mtn_ex_021.exp.json
@@ -101,7 +109,7 @@ story:
       motion: 200
       mouthOpen: 0
       tear: 1
-    textRight: '*TOOOOOT*'
+    textLeft: '*TOOOOOT*'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -109,33 +117,33 @@ story:
       motion: 0
       mouthOpen: 0
       tear: 0
-    textRight: '...So then I fell down and @parts went flying everywhere...'
+    textLeft: '...So then I fell down and @parts went flying everywhere...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100201
       motion: 100
       mouthOpen: 0
-    textLeft: And they got mad at you?
+    textRight: And they got mad at you?
   - chara:
     - id: 100301
       motion: 300
       mouthOpen: 0
-    textRight: No, everyone was very nice...@They said it was fine...
+    textLeft: No, everyone was very nice...@They said it was fine...
   - chara:
     - cheek: 2
       face: mtn_ex_040.exp.json
       id: 100301
       mouthOpen: 1
       tear: 1
-    textRight: But actually, that only made me @feel... It only made me feel worse!
+    textLeft: But actually, that only made me @feel... It only made me feel worse!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100201
       motion: 400
       mouthOpen: 0
-    textLeft: '*Sigh* You''re crying again?@Please try not to.'
+    textRight: '*Sigh* You''re crying again?@Please try not to.'
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -143,39 +151,39 @@ story:
       motion: 0
       mouthOpen: 0
       tear: 0
-    textRight: O-okay… *Sniff* *Sniff*
+    textLeft: O-okay… *Sniff* *Sniff*
   - chara:
     - id: 100301
       mouthOpen: 0
       tear: 0
-    textRight: S-so anyway...@I can't go back...
+    textLeft: S-so anyway...@I can't go back...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 100201
       motion: 200
       mouthOpen: 0
-    textLeft: So your training is over?
+    textRight: So your training is over?
   - chara:
     - id: 100301
       motion: 300
       mouthOpen: 0
       tear: 0
-    textRight: Huh?! W-well, I...@Y-yes, I guess it is...
+    textLeft: Huh?! W-well, I...@Y-yes, I guess it is...
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
       id: 100301
       mouthOpen: 1
       tear: 1
-    textRight: '...I''m no good!@I''m no good like this!'
+    textLeft: '...I''m no good!@I''m no good like this!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100201
       motion: 0
       mouthOpen: 0
-    textLeft: Tsuruno...
+    textRight: Tsuruno...
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -183,38 +191,38 @@ story:
       motion: 0
       mouthOpen: 0
       tear: 0
-    textRight: I can't do anything!@I need to get stronger!
+    textLeft: I can't do anything!@I need to get stronger!
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 100301
       mouthOpen: 0
       tear: 0
-    textRight: Unless I do something, my home, @my family, our restaurant...
+    textLeft: Unless I do something, my home, @my family, our restaurant...
   - chara:
     - cheek: 2
       id: 100301
       motion: 200
       mouthOpen: 1
       tear: 0
-    textRight: I need to be strong enough to handle@everything myself!
+    textLeft: I need to be strong enough to handle@everything myself!
   - chara:
     - id: 100301
       mouthOpen: 0
       tear: 1
-    textRight: '...waaah...'
+    textLeft: '...waaah...'
   - chara:
     - cheek: 0
       face: mtn_ex_014.exp.json
       id: 100201
       motion: 100
       mouthOpen: 0
-    textLeft: Calm down, okay?
+    textRight: Calm down, okay?
   - chara:
     - cheek: 0
       id: 100201
       mouthOpen: 0
-    textLeft: '...Try not to make a big deal out @of everything.'
+    textRight: '...Try not to make a big deal out @of everything.'
   - chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
@@ -222,13 +230,13 @@ story:
       motion: 0
       mouthOpen: 0
       tear: 0
-    textRight: '...Huh?[chara:100301:effect_emotion_surprise_0][se:7226_shock]'
+    textLeft: '...Huh?[chara:100301:effect_emotion_surprise_0][se:7226_shock]'
   - chara:
     - cheek: 0
       id: 100201
       motion: 200
       mouthOpen: 0
-    textLeft: Instead of agonizing over little things,@why not try expanding your
+    textRight: Instead of agonizing over little things,@why not try expanding your
       thinking a bit?
   - chara:
     - cheek: 1
@@ -237,51 +245,51 @@ story:
       motion: 300
       mouthOpen: 0
       tear: 0
-    textRight: But...
+    textLeft: But...
   - chara:
     - cheek: 0
       id: 100201
       motion: 0
       mouthOpen: 0
-    textLeft: There must be something you can do @to improve things.
+    textRight: There must be something you can do @to improve things.
   - chara:
     - cheek: 0
       id: 100201
       mouthOpen: 0
-    textLeft: Working a little bit every day to reach @a big goal is also important,
+    textRight: Working a little bit every day to reach @a big goal is also important,
       you know.
   - chara:
     - id: 100301
       motion: 0
       mouthOpen: 0
       tear: 0
-    textRight: '...Something I can do...'
+    textLeft: '...Something I can do...'
   - chara:
     - cheek: 0
       id: 100201
       motion: 200
       mouthOpen: 0
-    textLeft: Yes, if you just keep building on something,@your efforts will eventually
+    textRight: Yes, if you just keep building on something,@your efforts will eventually
       be rewarded.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 100201
       mouthOpen: 0
-    textLeft: Don't get discouraged. @Just keep trying, okay?
+    textRight: Don't get discouraged. @Just keep trying, okay?
   - chara:
     - cheek: 2
       id: 100301
       mouthOpen: 1
       tear: 1
-    textRight: Master Yachiyooo!
+    textLeft: Master Yachiyooo!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 100201
       motion: 0
       mouthOpen: 0
-    textLeft: Oh no, come on now...@Here, blow.
+    textRight: Oh no, come on now...@Here, blow.
   - chara:
     - cheek: 2
       face: mtn_ex_021.exp.json
@@ -289,14 +297,14 @@ story:
       motion: 200
       mouthOpen: 0
       tear: 1
-    textRight: '...*TOOOOOOT!!*...'
+    textLeft: '...*TOOOOOOT!!*...'
   - chara:
     - cheek: 0
       face: mtn_ex_014.exp.json
       id: 100201
       motion: 201
       mouthOpen: 0
-    textLeft: Good!@Now then, where shall we get started?
+    textRight: Good!@Now then, where shall we get started?
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -304,8 +312,8 @@ story:
       motion: 0
       mouthOpen: 0
       tear: 1
-    textRight: '...*Sniff*...@...First thing is...'
+    textLeft: '...*Sniff*...@...First thing is...'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

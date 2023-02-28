@@ -20,7 +20,7 @@ story:
     - id: 103501
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-1
     nameRight: Alexandra
-    textRight: Uhuhu♪
+    textRight: '*Giggle*♪'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -28,7 +28,7 @@ story:
       id: 103501
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-2
     nameRight: Alexandra
-    textRight: If the Tokime clan isn't monolithic like you said,@Hime,
+    textRight: If it's like you said and the@Tokime Clan isn't monolithic, Hime,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -37,7 +37,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-3
     nameRight: Alexandra
-    textRight: then we might be able to cut them down to size@through lots of persuasion♪
+    textRight: then we might be able to cut them down@to size through lots of persuasion♪
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -81,7 +81,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-8
     nameRight: San
-    textRight: In other words, Tokime is not united in thought nor@policy...
+    textRight: In other words, the Tokime are not@united in their thoughts and policy...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -95,8 +95,8 @@ story:
       motion: 0
       pos: 0
     nameRight: Miyuri
-    textRight: But but, they seemed like they were all in agreement@about being the
-      blades that protect the land of the rising sun...
+    textRight: But but, they all seemed to agree in being@blades protecting the Land
+      of the Rising Sun.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -105,15 +105,15 @@ story:
       motion: 1
       pos: 2
     nameRight: Alexandra
-    textRight: '.....[wait:1.0][chara:103501:motion_000][chara:103501:cheek_0][chara:103501:face_mtn_ex_050.exp.json][chara:103501:lipSynch_1]Don''t
-      tell me,'
+    textRight: '...[wait:1.0][chara:103501:motion_000][chara:103501:cheek_0][chara:103501:face_mtn_ex_050.exp3.json][chara:103501:lipSynch_1][chara:103501:voiceFull_fullvoice/section_102601/vo_full_102601-13-10]Don''t
+      tell me...'
   - chara:
     - id: 103501
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-11
       voiceFullStop: fullvoice/section_102601/vo_full_102601-13-10
     nameRight: Alexandra
-    textRight: The relationship between humans and magical girls...@The very core
+    textRight: The relationship between humans and Magical Girls...@The very core
       foundation of their ideology is blurry...?
   - chara:
     - cheek: 0
@@ -137,13 +137,13 @@ story:
     - id: 102801
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-14
     nameLeft: Himena
-    textLeft: we noticed a girl was interested in what we@were saying,
+    textLeft: we noticed a girl was interested@in what we were saying,
   - chara:
     - id: 102801
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-15
     nameLeft: Himena
-    textLeft: so we have a chance to cut them down and rake@them up.
+    textLeft: so we have a chance to cut them@down and rake them up.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -152,7 +152,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-16
     nameRight: Miyuri
-    textRight: Ha - I came up with an idea! It's genius!
+    textRight: Ha―@I came up with an idea! It's genius!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -167,8 +167,8 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-18
     nameRight: Miyuri
-    textRight: If you're going to poke at all the wavering girls and@bring them to
-      Neo Magius,
+    textRight: If you're going to poke at all the wavering girls@and bring them into
+      the Neo-Magius,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -177,7 +177,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-19
     nameRight: Miyuri
-    textRight: you can do the exact same thing with the Union@Magical Girls!
+    textRight: you can do the exact same thing@with the Union Magical Girls!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -186,7 +186,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-20
     nameLeft: Himena
-    textLeft: Ahh... To be real with you, we kinda need to be@subtle here?
+    textLeft: Ahh... To be real with you, we kinda@need to be subtle here?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -201,13 +201,14 @@ story:
       motion: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-22
     nameLeft: Himena
-    textLeft: Weren't they already broken apart once before by@being invited to the
-      Wings of Magius?
+    textLeft: Weren't they already broken apart once before@by being invited to the
+      Wings of the Magius?
   - chara:
     - id: 102801
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-23
     nameLeft: Himena
-    textLeft: So the moment they start getting invitations they'd@realize within seconds.
+    textLeft: So the moment they start getting invitations@they'd figure us out within
+      seconds.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -216,7 +217,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-24
     nameRight: Miyuri
-    textRight: Muu... is that so...
+    textRight: Mmm... Is that so...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -225,13 +226,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-25
     nameLeft: San
-    textLeft: That's all right.
+    textLeft: That's alright.
   - chara:
     - id: 103101
       motion: 100
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-26
     nameLeft: San
-    textLeft: If we can take down the Tokime clan, we'll have@the advantage anyway.
+    textLeft: If we can take down the Tokime Clan,@we'll have the advantage anyway.
   - autoTurnLast: 0.2
     chara:
     - id: 103101
@@ -245,7 +246,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-27
     nameLeft: Alexandra
-    textLeft: Then all that's left is how to bring them in.
+    textLeft: Then all that's left is how to reel them in.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -254,7 +255,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-28
     nameRight: San
-    textRight: If we go talk to them directly, we'll only be met@with stubbornness
+    textRight: If we go talk to them directly, we'll only be@met with stubbornness
       in response...
   - autoTurnLast: 0.2
     chara:
@@ -269,7 +270,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-29
     nameLeft: Himena
-    textLeft: Honestly, that's the only thing this cutie and@the BF are worried about.
+    textLeft: Honestly, that's the only thing this cutie@and the bae are worried about.
   - chara:
     - eyeClose: 1
       id: 102801
@@ -303,7 +304,7 @@ story:
   - chara:
     - id: 102901
     nameCenter: Hagumu's Voice
-    textCenter: Haa... haa... I'm sorry we're late...
+    textCenter: '*Pant* *Pant*@I''m sorry we''re late...'
     voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-31
   - autoTurnLast: 0.5
     textClear: 1
@@ -320,7 +321,7 @@ story:
       motion: 200
       pos: 2
     nameLeft: Shigure
-    textLeft: '...Huu, hee...'
+    textLeft: '*Pant*@Phew...'
   - chara:
     - id: 103001
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-33
@@ -342,7 +343,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-35
     nameLeft: Himena
-    textLeft: You've been keeping contact, so this cutie is@O and K with it,
+    textLeft: You've been keeping in contact,@so this cutie is a-okay with it.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -359,12 +360,12 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-37
     nameRight: Hagumu
-    textRight: I had to carry the costumes and sets for their@upcoming play...
+    textRight: I had to carry the costumes and sets@for their upcoming play...
   - chara:
     - id: 102801
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-38
     nameLeft: Himena
-    textLeft: Hum...
+    textLeft: Hmm...
   - chara:
     - id: 102801
       motion: 0
@@ -394,7 +395,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-42
     nameLeft: Himena
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -403,7 +404,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-43
     nameLeft: Himena
-    textLeft: Of course the BF would feel the same way.
+    textLeft: Of course my bae would feel the same way.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp3.json
@@ -423,7 +424,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-45
     nameLeft: Himena
-    textLeft: We've come up with a way to split apart the@Tokime★
+    textLeft: We've come up with a way to@split apart the Tokime★
   - autoTurnLast: 1.5
     bgm: stop
     chara:
@@ -466,7 +467,7 @@ story:
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-48
     nameRight: Hagumu
-    textRight: Even if you tell me to get a costume, I don't think@I can just get
+    textRight: Even if you tell me to get a costume, I don't@think I can just get
       one on my own...!
   - chara:
     - cheek: 0
@@ -494,7 +495,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-51
     nameRight: Shigure
-    textRight: Eh!? Instructor...!?
+    textRight: Eh?! Instructor...?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -511,13 +512,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-53
     nameLeft: San
-    textLeft: Back during the festivals, I was handling@some needlework.
+    textLeft: Back during the festivals,@I did handle some needlework.
   - chara:
     - id: 103101
       motion: 100
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-54
     nameLeft: San
-    textLeft: I don't know how much I can help, but what do@you think?
+    textLeft: I don't know how much I can help,@but what do you think?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -549,18 +550,18 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-58
     nameRight: Hagumu
-    textRight: Though I'll have to look into the details to get a@higher quality.
+    textRight: Though I'll have to look into some@details if we want a higher quality.
   - chara:
     - id: 103101
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-59
     nameLeft: San
-    textLeft: In that case let's get someone else to do the@research.
+    textLeft: In that case let's get someone@else to do the research.
   - chara:
     - id: 103101
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-60
     nameLeft: San
-    textLeft: If Princess says "this" will cut them down,
+    textLeft: If Princess says this will cut them down,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -585,7 +586,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-62
     nameCenter: Alexandra
-    textCenter: '.....'
+    textCenter: '...'
   - autoTurnLast: 1
     bg: bg_adv_17023.jpg
     bgm: stop
@@ -616,7 +617,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-64
     nameLeft: Himena
-    textLeft: Tanks for today, Sasha.
+    textLeft: Thankies for today, Sasha.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -625,13 +626,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-65
     nameLeft: Himena
-    textLeft: Mentioning the Tokime were here really was a life saver.
+    textLeft: Mentioning the Tokime were here@really was a life saver.
   - chara:
     - id: 103501
       motion: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-66
     nameRight: Alexandra
-    textRight: Not at all, I just want to support your@dream is all, Hime.
+    textRight: Not at all, I just want to support@your dream is all, Hime.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -667,7 +668,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-70
     nameCenter: Himena
-    textCenter: (Are you...going to the ocean again to collect more@of that sea breeze
+    textCenter: (Are you...going to the ocean again to collect@more of that sea breeze
       smell...?)
   - chara:
     - cheek: 0
@@ -678,7 +679,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-13-71
     nameCenter: Himena
-    textCenter: '.....'
+    textCenter: '...'
   - chara:
     - id: 102801
       motion: 100

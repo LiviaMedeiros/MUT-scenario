@@ -64,7 +64,7 @@ story:
       id: 402300
       motion: 0
       pos: 2
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Er...
   - chara:
     - cheek: 2
@@ -210,7 +210,7 @@ story:
   - chara:
     - id: 402100
       lipSynch: 0
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: '...'
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.2
@@ -230,7 +230,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Liz
-    textRight: Darc!
+    textRight: Tart!
   - chara:
     - id: 402500
       motion: 200
@@ -269,7 +269,7 @@ story:
       id: 402100
       lipSynch: 0
       motion: 0
-    nameRight: Darc
+    nameRight: Tart
     textRight: '...'
   - chara:
     - cheek: 0
@@ -468,11 +468,11 @@ story:
       motion: 100
       pos: 2
     nameRight: Liz
-    textRight: Now, Darc! Let's storm the village.
+    textRight: Now, Tart! Let's storm the village.
   - chara:
     - id: 402100
       motion: 100
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Certainly! Everyone, forge ahead to Patay!
   - chara:
     - id: 402100
@@ -741,8 +741,8 @@ story:
     turnChangeIn: fadeIn
     turnEffect: stop
   - flashEffect: flashWhiteSlow1
-    nameNarration: Darc
-    narration: ― Darc ―@We must keep going!
+    nameNarration: Tart
+    narration: ― Tart ―@We must keep going!
     narrationAnchor: bottom
     narrationBg: ""
     narrationCoverOpacity: 110
@@ -752,7 +752,7 @@ story:
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - flashEffect: flashWhiteSlow2
-    narration: ― Darc ―@Keep your faith in France's future!@It lies just beyond that
+    narration: ― Tart ―@Keep your faith in France's future!@It lies just beyond that
       light!
   - autoTurnLast: 0.01
     bg: black

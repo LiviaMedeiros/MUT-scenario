@@ -135,7 +135,7 @@ story:
     chara:
     - id: 402101
       motion: 400
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: What?
     turnChangeOut: fadeOut
   - chara:
@@ -199,7 +199,7 @@ story:
   - chara:
     - id: 402101
       motion: 400
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Melissa's father?!
   - chara:
     - cheek: 0
@@ -217,7 +217,7 @@ story:
     textRight: Yes, we must go.
   - chara:
     - id: 402201
-    textRight: By "monster" they must mean a Witch. Darc@and I will go!
+    textRight: By "monster" they must mean a Witch. Tart@and I will go!
   - autoTurnLast: 0.01
     bg: bg_adv_narration.jpg
     chara:
@@ -286,7 +286,7 @@ story:
   - chara:
     - id: 402101
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Thank you.
   - autoTurnLast: 0.2
     chara:

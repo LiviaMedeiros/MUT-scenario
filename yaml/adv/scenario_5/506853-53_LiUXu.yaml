@@ -281,7 +281,7 @@ story:
   - chara:
     - id: 102601
       motion: 0
-    textLeft: Shizuka... You mean the whole village is a Labyrinth...?
+    textLeft: Shizuka... You mean the whole village is a @Labyrinth...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

@@ -209,7 +209,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-4-20
       voiceFullStop: fullvoice/section_102201/vo_full_102201-4-19
-    textRight: '[chara:100501:effect_emotion_joy_0][se:7222_happy]It''s a welcome
+    textRight: '[chara:100501:effect_emotion_joy_0][se:7222_happy]It''s a festival
       of flaming hot Chinese food!'
   - autoTurnLast: 1
     chara:
@@ -477,7 +477,7 @@ story:
       id: 304601
       voiceFull: fullvoice/section_102201/vo_full_102201-4-50
       voiceFullStop: fullvoice/section_102201/vo_full_102201-4-49
-    textRight: For now we just have to leave it to Ikumi,@since she's an alumnus there.
+    textRight: For now we just have to leave it to Ikumi,@since she's an alumna there.
   - chara:
     - eyeClose: 0
       id: 300301

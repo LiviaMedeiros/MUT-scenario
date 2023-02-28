@@ -91,7 +91,7 @@ story:
     - id: 402101
       lipSynch: 0
       motion: 1
-    nameRight: Darc
+    nameRight: Tart
     textRight: '...'
   - autoTurnLast: 0.6
     chara:
@@ -160,7 +160,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Melissa
-    textLeft: Darc!
+    textLeft: Tart!
   - chara:
     - id: 402200
       motion: 100
@@ -197,7 +197,7 @@ story:
       id: 402100
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: But if we beat her...she'll become a Witch.
   - chara:
     - id: 402700
@@ -216,7 +216,7 @@ story:
       pos: 1
       posX: 80
     nameCenter: Melissa
-    textCenter: Careful, Darc!
+    textCenter: Careful, Tart!
   - autoTurnLast: 0.5
     bgEffect: shakeSmall
     chara:
@@ -308,7 +308,7 @@ story:
     chara:
     - id: 402100
       lipSynch: 0
-    nameRight: Darc
+    nameRight: Tart
     textRight: '...'
     turnChangeOut: whiteOut
     turnChangeOutTime: 2
@@ -327,8 +327,8 @@ story:
       posY: 0
       visible: appear
     turnChangeIn: fadeIn
-  - nameNarration: Darc
-    narration: ― Darc ―@You can no longer hold us back.
+  - nameNarration: Tart
+    narration: ― Tart ―@You can no longer hold us back.
     narrationAnchor: bottom
     narrationBg: ""
     narrationCoverOpacity: 110
@@ -337,9 +337,9 @@ story:
     narrationLineMargin: 25
     narrationLineSpace: 20
     turnChangeOut: fadeOut
-  - narration: ― Darc ―@No matter what happens...
+  - narration: ― Tart ―@No matter what happens...
   - nameNarration: Melissa
-    narration: ― Melissa ―@We've made up our minds.@We will stick by Darc's side!
+    narration: ― Melissa ―@We've made up our minds.@We will stick by Tart's side!
   - nameNarration: Liz
     narration: ― Liz ―@And we will continue to do so until@light is returned to France!
   - nameNarration: Elisa

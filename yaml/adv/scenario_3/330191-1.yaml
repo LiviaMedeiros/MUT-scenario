@@ -101,7 +101,7 @@ story:
       motion: 401
       pos: 2
     nameRight: Shizuku
-    textRight: Oh, no! @[chara:300700:cheek_0:face_mtn_ex_020.exp.json]Look out!!
+    textRight: Oh, no!@[chara:300700:cheek_0:face_mtn_ex_020.exp.json]Look out!!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -181,14 +181,14 @@ story:
       face: mtn_ex_050.exp.json
       id: 301900
       motion: 0
-    textRight: Are you crazy? @[chara:301900:cheek_0:face_mtn_ex_010.exp.json]We've
+    textRight: Are you crazy?@[chara:301900:cheek_0:face_mtn_ex_010.exp.json]We've
       totally got this!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300700
       motion: 0
-    textLeft: We...do? @[chara:300700:cheek_0:face_mtn_ex_000.exp.json]Do you have
+    textLeft: We...do?@[chara:300700:cheek_0:face_mtn_ex_000.exp.json]Do you have
       a plan?
   - bgm: bgm04_movie08
     chara:
@@ -240,7 +240,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 301900
       motion: 100
-    textRight: Oh, c'mon, c'mon, c'mooon! @[chara:301900:cheek_0:face_mtn_ex_010.exp.json]Everything's
+    textRight: Oh, c'mon, c'mon, c'mooon!@[chara:301900:cheek_0:face_mtn_ex_010.exp.json]Everything's
       gonna be just fine!
   - chara:
     - cheek: 0

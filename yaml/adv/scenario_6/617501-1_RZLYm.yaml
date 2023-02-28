@@ -290,7 +290,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -304,7 +304,7 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
       id: 100601
     textClear: 1
@@ -312,7 +312,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -339,7 +339,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -351,14 +351,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 100
       pos: 0
     nameLeft: Touka
-    textLeft: What did everyone in the Tokime clan get, @I wonder?
+    textLeft: What did everyone in the Tokime Clan get, @I wonder?
   - autoTurnLast: 1.5
     bg: bg_adv_21201.jpg
     chara:
@@ -430,7 +430,7 @@ story:
       motion: 400
     nameLeft: Chiharu
     textLeft: Huh!?[wait:0.8][chara:102601:cheek_0][chara:102601:lipSynch_1] @That
-      bag, is it Todoroki Koichi's!? [chara:102601:effect_emotion_joy_0][se:7222_happy]
+      bag, is it Todoroki Koichi's!?
   - bgm: bgm03_story09
     chara:
     - cheek: 1
@@ -695,7 +695,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -708,7 +708,7 @@ story:
     nameLeft: Touka
     textLeft: Well, various things seem to be continuing to @happen with them, but...
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     nameLeft: Touka
     textLeft: It's fine if they can still interact with us. [chara:100701:lipSynch_0][wait:1.0][chara:100701:cheek_0][chara:100701:face_mtn_ex_011.exp.json][chara:100701:lipSynch_1]

@@ -1,8 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_11091.jpg
-    bgm: bgm03_story02
+  - autoTurnLast: 0.01
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -16,13 +15,18 @@ story:
       motion: 0
       mouthOpen: 0
       pos: 2
+    turnChangeIn: fadeIn
+  - bg: bg_adv_11091.jpg
+    bgm: bgm03_story02
+    chara:
+    - id: 100300
     nameLeft: Tsuruno
     textLeft: My family runs a Chinese restaurant...
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       id: 101000
+      motion: 1
       mouthOpen: 0
     nameRight: Momoko
     textRight: Yeah, we know that.
@@ -107,8 +111,8 @@ story:
       id: 100300
       motion: 0
       mouthOpen: 0
-    textLeft: The problem's [chara:100300:lipSynch_0][freeze:0.5][chara:100300:cheek_0][chara:100300:face_mtn_ex_030.exp.json][chara:100300:lipSynch_1]my
-      dad.
+    textLeft: The problem's...[chara:100300:lipSynch_0][wait:1.0][chara:100300:cheek_0][chara:100300:face_mtn_ex_030.exp.json][chara:100300:lipSynch_1]
+      my dad.
   - chara:
     - cheek: 0
       id: 100300
@@ -202,7 +206,7 @@ story:
       pos: 2
     nameRight: Rena
     textBg: shout
-    textRight: 800 million![chara:100900:effect_emotion_surprise_0][se:7226_shock]
+    textRight: '[chara:100900:effect_emotion_surprise_0][se:7226_shock]800 million!'
   - chara:
     - cheek: 0
       id: 100300
@@ -234,7 +238,7 @@ story:
       id: 100300
       motion: 400
       mouthOpen: 0
-    textLeft: Huh? Really?@[chara:100300:lipSynch_0][freeze:1][chara:100300:cheek_0][chara:100300:face_mtn_ex_030.exp.json][chara:100300:lipSynch_1]...Err,
+    textLeft: Huh? Really?@[chara:100300:lipSynch_0][wait:1.0][chara:100300:cheek_0][chara:100300:face_mtn_ex_030.exp.json][chara:100300:lipSynch_1]...Err,
       okay...
   - autoTurnLast: 2
     turnChangeIn: fadeIn

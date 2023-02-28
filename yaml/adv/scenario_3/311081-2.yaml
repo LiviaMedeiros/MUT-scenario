@@ -16,7 +16,7 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
-    bg: bg_adv_21025.jpg
+    bg: bg_adv_21491.jpg
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -330,7 +330,7 @@ story:
       id: 100801
     narration: Why is that...?
   - autoTurnLast: 0.01
-    bg: bg_adv_21025.jpg
+    bg: bg_adv_21491.jpg
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -395,7 +395,7 @@ story:
       pos: 1
     narrationEffect: out
     turnChangeIn: fadeIn
-  - bg: bg_adv_21025.jpg
+  - bg: bg_adv_21491.jpg
     chara:
     - id: 101201
       motion: 100

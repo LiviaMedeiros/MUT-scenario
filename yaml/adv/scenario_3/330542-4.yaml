@@ -286,7 +286,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Mitsune
-    textLeft: No good...it was all fake.
+    textLeft: No good...it was all fakeouts.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

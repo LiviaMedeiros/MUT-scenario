@@ -41,7 +41,7 @@ story:
       id: 402101
       motion: 201
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: U-um, what was that mysterious scene that we@just saw?
   - chara:
     - cheek: 0
@@ -69,7 +69,7 @@ story:
       id: 402101
       motion: 1
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Then we fought?
   - chara:
     - cheek: 0
@@ -99,7 +99,7 @@ story:
       eyeClose: 1
       face: mtn_ex_010.exp.json
       id: 402301
-    textLeft: When it comes to Darc, I lose sight of@everything.
+    textLeft: When it comes to Tart, I lose sight of@everything.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -144,7 +144,7 @@ story:
   - chara:
     - id: 402101
       motion: 400
-    nameRight: Darc
+    nameRight: Tart
     narrationEffect: out
     textRight: Melissa! Look!
   - autoTurnLast: 0.01
@@ -256,7 +256,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: ef_adv_02
   - nameRight: Qube
-    textRight: Now do you understand, Darc?
+    textRight: Now do you understand, Tart?
     turnChangeOut: fadeOut
   - textRight: This is what we can achieve.
   - textRight: If we collect the Fragments of True History,@we can recover the correct
@@ -266,7 +266,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 402101
       motion: 100
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Yes! I understand now, Monsieur Angel!
   - autoTurnLast: 0.01
     bg: bg_adv_20093.jpg
@@ -287,7 +287,7 @@ story:
   - chara:
     - id: 402101
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Thank you, Elisa and Ui.
     turnChangeOut: fadeOut
   - chara:

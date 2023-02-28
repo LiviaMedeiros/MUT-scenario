@@ -225,7 +225,7 @@ story:
   - chara:
     - id: 402101
       motion: 100
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: What is it?
   - chara:
     - id: 830100
@@ -257,7 +257,7 @@ story:
   - chara:
     - id: 402101
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Does this mean we may be able to win back@another Fragment of True History?
   - chara:
     - cheek: 0
@@ -294,7 +294,7 @@ story:
   - chara:
     - id: 402101
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: We will head for the church. Ui, make sure@you have the Blank Prophecy.
     turnChangeOut: fadeOut
   - chara:

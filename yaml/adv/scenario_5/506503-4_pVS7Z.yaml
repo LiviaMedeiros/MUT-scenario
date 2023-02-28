@@ -99,7 +99,7 @@ story:
   - chara:
     - id: 402101
       motion: 1
-    nameRight: Darc
+    nameRight: Tart
     textRight: This is a Fragment of True History?
   - chara:
     - id: 402601
@@ -197,7 +197,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 402101
       motion: 201
-    nameRight: Darc
+    nameRight: Tart
     textRight: All right, let's give it a try!
   - chara:
     - cheek: 0
@@ -287,7 +287,7 @@ story:
   - chara:
     - id: 402101
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Y-yes, I am!
   - autoTurnLast: 0.5
     se: 7205_magic_girl
@@ -318,7 +318,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 402100
       motion: 400
-    nameLeft: Darc
+    nameLeft: Tart
     narrationEffect: out
     textLeft: Whoa!
   - autoTurnLast: 0.1
@@ -379,7 +379,7 @@ story:
     - id: 402301
       motion: 400
     nameRight: Melissa
-    textRight: You can do it, Darc!
+    textRight: You can do it, Tart!
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
@@ -430,7 +430,7 @@ story:
       motion: 400
     nameRight: Melissa
     narrationEffect: out
-    textRight: Oh no, Darc's sword!
+    textRight: Oh no, Tart's sword!
   - chara:
     - id: 402201
       motion: 100
@@ -467,7 +467,7 @@ story:
   - chara:
     - id: 402100
       motion: 300
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: I...I lost.
   - autoTurnLast: 0.01
     bgm: stop

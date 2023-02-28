@@ -25,7 +25,7 @@ story:
     - id: 102601
     nameLeft: Sunao
     nameRight: Chiharu
-    textRight: Shizuka, Sunao, the Devil's reaction is getting stronger...
+    textRight: Shizuka, Sunao, the Devil's presence is getting @stronger...
     turnChangeOut: fadeOut
   - chara:
     - id: 102701

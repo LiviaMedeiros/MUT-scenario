@@ -105,7 +105,7 @@ story:
     turnChangeOut: fadeOut
   - narration: Movies, music, TV shows, celebrities...@All the other girls naturally@seem
       to like things like that...@But I've never found anything@that excites me.
-  - bg: bg_adv_13062.jpg
+  - bg: bg_adv_14101.jpg
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -128,11 +128,11 @@ story:
   - chara:
     - face: mtn_ex_010.exp.json
       id: 800100
-    textLeft: We still have next year's inter-high @event!
+    textLeft: We still have next year's inter-high@event!
   - chara:
     - cheek: 2
       id: 800200
-    textRight: '*Sniff*...*Sniff*... @...Yeah...'
+    textRight: '*Sniff*...*Sniff*...@...Yeah...'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout

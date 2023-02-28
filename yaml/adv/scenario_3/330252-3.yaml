@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21161.jpg
+  - bg: bg_adv_16101.jpg
     bgm: bgm01_anime03
     chara:
     - cheek: 0
@@ -62,7 +62,7 @@ story:
       pos: 0
     nameLeft: Ren
     textLeft: E-excuse us...
-  - bg: bg_adv_21161.jpg
+  - bg: bg_adv_16101.jpg
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -173,7 +173,7 @@ story:
     nameNarration: Ren
     narration: The next person I met was Kanoko Yayoi.@Her parents manage a metal
       plating factory,@but apparently, her dream is to become@a designer...
-    narrationBg: bg_adv_21161.jpg
+    narrationBg: bg_adv_16101.jpg
     narrationEffect: in
     turnEffect: stop
   - chara:
@@ -226,7 +226,7 @@ story:
       id: 303101
     nameNarration: Ren
     narration: What she showed us was a dress@decorated with tons of mushrooms.
-    narrationBg: bg_adv_21161.jpg
+    narrationBg: bg_adv_16101.jpg
     narrationEffect: in
   - narration: The shimeji they were talking about...@They really had meant@the variety
       of mushroom...
@@ -501,5 +501,5 @@ story:
     textRight: '...Th-thanks. Thank you...'
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

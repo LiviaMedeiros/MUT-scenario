@@ -17,7 +17,7 @@ story:
       pos: 2
     nameLeft: Ayaka
     nameRight: Shizuku
-    textLeft: …@[chara:301901:lipSynch_1]Awesome, huh?[chara:301901:lipSynch_0]
+    textLeft: '...@[chara:301901:lipSynch_1]Awesome, huh?[chara:301901:lipSynch_0]'
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -63,13 +63,13 @@ story:
       face: mtn_ex_050.exp.json
       id: 300701
       lipSynch: 0
-    textRight: …@[chara:300701:cheek_0:face_mtn_ex_000.exp.json:lipSynch_1]What's
-      gotten into you?
+    textRight: '...@[chara:300701:cheek_0:face_mtn_ex_000.exp.json:lipSynch_1]What''s
+      gotten into you?'
   - chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 301901
-    textLeft: Huh? @[chara:301901:motion_0]Wh-what do you mean?
+    textLeft: Huh?@[chara:301901:motion_0]Wh-what do you mean?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -85,7 +85,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 301901
       lipSynch: 0
-    textLeft: Huh?@[chara:301901:lipSynch_0][freeze:0.5][chara:301901:cheek_1:face_mtn_ex_030.exp.json:lipSynch_0]…
+    textLeft: Huh?@[chara:301901:lipSynch_0][freeze:0.5][chara:301901:cheek_1:face_mtn_ex_030.exp.json:lipSynch_0]...
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -127,7 +127,7 @@ story:
       lipSynch: 0
       motion: 0
       pos: 2
-    textRight: …
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json

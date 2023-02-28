@@ -12,7 +12,7 @@ story:
     bgm: bgm01_anime03
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 301050
       motion: 1
       pos: 1
@@ -25,15 +25,15 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301050
       motion: 400
-    narration: '"Perfect! @Looking good!"'
+    narration: '"Perfect!@Looking good!"'
   - autoTurnLast: 0.01
     bg: bg_adv_21321.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 800700
       motion: 0
       pos: 1
@@ -44,12 +44,12 @@ story:
   - chara:
     - id: 800700
     nameCenter: ""
-    textCenter: Alright, we’re done here!
+    textCenter: Alright, we're done here!
     turnChangeOut: fadeOut
   - chara:
     - id: 800700
     nameCenter: ""
-    textCenter: That’s a wrap for our public promo!
+    textCenter: That's a wrap for our public promo!
   - chara:
     - effect: fadeout
       id: 800700
@@ -59,12 +59,12 @@ story:
     narrationEffect: in
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303201
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 301050
       motion: 0
       pos: 0
@@ -73,14 +73,14 @@ story:
     textRight: Wow...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 303201
       motion: 100
     nameRight: Mayu
     textRight: You were so cool, Ria!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 303201
     nameRight: Mayu
     textRight: 'Did you select that outfit yourself? '
@@ -92,15 +92,15 @@ story:
     textLeft: Indeed I did!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 300901
       motion: 400
       pos: 2
     nameRight: Manaka
-    textRight: It’s amazing - you look just like a model!
+    textRight: It's amazing - you look just like a model!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301050
       motion: 400
       pos: 0
@@ -109,7 +109,7 @@ story:
       What else did you think I was?!'
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 303201
       motion: 1
       pos: 2
@@ -117,15 +117,15 @@ story:
     textRight: '...Let''s see, our next appointment is...'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303201
       motion: 300
       pos: 2
     nameRight: Mayu
-    textRight: A supermarket in Shinsei...for a children’s @candy sampling event?
+    textRight: A supermarket in Shinsei...for a children's@candy sampling event?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 800700
       motion: 0
       pos: 2
@@ -134,32 +134,32 @@ story:
   - chara:
     - id: 800700
     nameRight: ""
-    textRight: We're struggling in Shinsei Ward. It's a complete @landslide for the
+    textRight: We're struggling in Shinsei Ward. It's a complete@landslide for the
       Acorns right now.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 300901
       motion: 200
       pos: 0
     nameLeft: Manaka
-    textLeft: This feels less like a fan poll, and more like a @grassroots election
+    textLeft: This feels less like a fan poll, and more like a@grassroots election
       campaign...
   - autoTurnLast: 1
     bg: bg_adv_21091.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 801300
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 801600
       motion: 0
       pos: 1
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 801200
       motion: 0
       pos: 2
@@ -182,7 +182,7 @@ story:
     - id: 801200
       mouthOpen: 0
     nameRight: ""
-    textRight: I’m gonna vote for you guys!
+    textRight: I'm gonna vote for you guys!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -192,7 +192,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 301050
       motion: 1
       pos: 0
@@ -205,7 +205,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301050
       motion: 0
       pos: 1
@@ -218,12 +218,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 800101
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 800301
       motion: 0
       pos: 2
@@ -236,7 +236,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301050
       lipSynch: 0
       motion: 400
@@ -252,14 +252,14 @@ story:
     textLeft: (Could she possibly be...a fan of mine?)
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 800301
       pos: 2
     nameRight: ""
     textRight: Oh...I guess it's not?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 301050
       motion: 0
       pos: 0
@@ -277,27 +277,27 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 800101
       motion: 0
       mouthOpen: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 800301
       mouthOpen: 1
     nameCenter: ""
     textBg: shout
-    textCenter: We will! We’re rooting for you!
+    textCenter: We will! We're rooting for you!
   - autoTurnLast: 0.4
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 300901
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 800700
       motion: 0
       pos: 2
@@ -306,7 +306,7 @@ story:
     - id: 300901
       motion: 1
     nameLeft: Manaka
-    textLeft: '...I didn’t realize she actually had real life fans.'
+    textLeft: '...I didn''t realize she actually had real life fans.'
     turnChangeOut: fadeOut
   - chara:
     - id: 800700
@@ -315,11 +315,11 @@ story:
   - chara:
     - id: 800700
     nameRight: ""
-    textRight: People hear that she's always giving her all, @so they wanna root for
+    textRight: People hear that she's always giving her all,@so they wanna root for
       her.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 300901
       motion: 300
     nameLeft: Manaka
@@ -328,29 +328,29 @@ story:
   - chara:
     - id: 300901
     nameLeft: Manaka
-    textLeft: Goodness knows how long she'll be able to @keep hiding that.
+    textLeft: Goodness knows how long she'll be able to@keep hiding that.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 800700
     nameRight: ""
     textRight: Oh, is that so?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 800700
     nameRight: ""
     textRight: Not that a heart of gold is a bad thing to have.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 300901
       motion: 0
     nameLeft: Manaka
     textLeft: '...You have a point.'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301050
       motion: 0
       pos: 0
@@ -359,7 +359,7 @@ story:
   - chara:
     - id: 800700
     nameRight: ""
-    textRight: We're all done for the day. Head home and get some @rest!
+    textRight: We're all done for the day. Head home and get some@rest!
   - armatureList:
     - animation:
       - action
@@ -372,7 +372,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_014.exp.json
+      face: mtn_ex_014.exp3.json
       id: 100205
       motion: 0
       pos: 1
@@ -393,7 +393,7 @@ story:
     chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_014.exp.json
+      face: mtn_ex_014.exp3.json
       id: 100205
       motion: 0
       pos: 1
@@ -419,12 +419,12 @@ story:
     bgChangeEffect: cameraPan
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303201
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 300901
       motion: 0
       pos: 0
@@ -432,7 +432,7 @@ story:
     textRight: So everyone around here must be an acorn fan...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 303201
       motion: 400
       pos: 2
@@ -440,21 +440,21 @@ story:
     textRight: I...I wonder if they'll notice us...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 300901
       motion: 200
       pos: 0
     nameLeft: Manaka
-    textLeft: Considering how Ria is sticking out @like a sore thumb, they're bound
+    textLeft: Considering how Ria is sticking out@like a sore thumb, they're bound
       to.
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301050
       live2dParam:
         name: PARAM_SUNGLASSES
-        value: 1
+        value: 0
       motion: 0
       pos: 1
     turnChangeIn: rollInFast
@@ -467,7 +467,7 @@ story:
     - id: 301050
       motion: 200
     nameCenter: Ria
-    textCenter: I hadn't realized Yachiyo Nanami was shooting a @promo today as well.
+    textCenter: I hadn't realized Yachiyo Nanami was shooting a@promo today as well.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -475,12 +475,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303201
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 300901
       motion: 300
       pos: 0
@@ -488,7 +488,7 @@ story:
     textLeft: Snooping on her like this will just psych us out...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 303201
       lipSynch: 0
       motion: 1
@@ -497,20 +497,20 @@ story:
     textRight: '...@...'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 300901
       motion: 1
       pos: 0
     nameLeft: Manaka
-    textLeft: '...Don’t tell me it’s already happened to you.'
+    textLeft: '...Don''t tell me it''s already happened to you.'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303201
       motion: 400
       pos: 2
     nameRight: Mayu
-    textRight: Ah...no, it hasn’t!
+    textRight: Ah...no, it hasn't!
   - chara:
     - id: 300901
       motion: 300
@@ -518,11 +518,11 @@ story:
     textLeft: It just seemed like you've been staring at Yachiyo all @this time.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 303201
       pos: 2
     nameRight: Mayu
-    textRight: It's true. It's just...I noticed that the way Yachiyo @walks and poses...
+    textRight: It's true. It's just...I noticed that the way Yachiyo@walks and poses...
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -534,12 +534,12 @@ story:
   - autoTurnLast: 0.01
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301050
       lipSynch: 0
       live2dParam:
         name: PARAM_SUNGLASSES
-        value: 1
+        value: 0
       motion: 0
       pos: 1
     turnChangeIn: rollInFast
@@ -551,7 +551,7 @@ story:
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 301050
       lipSynch: 0
       motion: 300
@@ -561,13 +561,13 @@ story:
     - id: 301050
       lipSynch: 0
     nameCenter: Ria
-    textCenter: (I've always looked up to her. I thought she was the @most beautiful
+    textCenter: (I've always looked up to her. I thought she was the@most beautiful
       woman in the world.)
   - chara:
     - id: 301050
       lipSynch: 0
     nameCenter: Ria
-    textCenter: (Before I became a Magical Girl...every day, in my @room...)
+    textCenter: (Before I became a Magical Girl...every day, in my@room...)
   - chara:
     - id: 301050
       lipSynch: 0
@@ -579,7 +579,7 @@ story:
       id: 301050
       lipSynch: 0
     nameCenter: Ria
-    textCenter: (In those days, Yachiyo was on an entirely @different level than I...)
+    textCenter: (In those days, Yachiyo was on an entirely@different level than I...)
   - chara:
     - eyeClose: 1
       id: 301050
@@ -589,11 +589,11 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301050
       lipSynch: 0
     nameCenter: Ria
-    textCenter: (...that soon, she and I will be competing @on the same stage...!)
+    textCenter: (...that soon, she and I will be competing@on the same stage...!)
   - chara:
     - id: 301050
       lipSynch: 0
@@ -606,12 +606,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 300901
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 303201
       motion: 100
       pos: 2
@@ -638,26 +638,26 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story02
     nameNarration: ""
-    narration: Just one day left ‘til it’s finally Valentine’s! ♪
+    narration: Just one day left 'til it's finally Valentine's! ♪
     narrationBg: ""
     narrationCoverOpacity: 160
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: The Acorn-Walnut Wars, which we at BiBi have been closely @following,
+  - narration: The Acorn-Walnut Wars, which we at BiBi have been closely@following,
       is on the home stretch!
-  - narration: The midterm results have shown that each side has won four @of the
-      nine wards! It looks like it all comes down to Chuo - @continuing its streak
-      of being @the fiercest fight in the polls!
+  - narration: The midterm results have shown@that each side has won four@of the nine
+      wards!@It looks like it all comes down to Chuo -@continuing its streak of being
+      @the fiercest fight in the polls!
   - autoTurnLast: 0.01
     bg: bg_adv_21221.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100205
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 800600
       motion: 0
       pos: 2
@@ -673,25 +673,25 @@ story:
     narration: It's a close match.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 800600
     nameRight: ""
     narrationEffect: out
-    textRight: Team Acorn began with a big lead in Minaminagi @and Sankyo,
+    textRight: Team Acorn began with a big lead in Minaminagi@and Sankyo,
   - chara:
     - id: 800600
     nameRight: ""
-    textRight: but we ultimately lost the advantage, which allowed @Team Walnut to
+    textRight: but we ultimately lost the advantage, which allowed@Team Walnut to
       seize the vote.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 800600
     nameRight: ""
-    textRight: But then we made a big comeback and took Mizuna, @which is a real game-changer.
+    textRight: But then we made a big comeback and took Mizuna,@which is a real game-changer.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 801000
       motion: 0
       pos: 2
@@ -700,29 +700,29 @@ story:
       second.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 800600
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: We have to focus on this despite our other @commitments.
+    textRight: We have to focus on this despite our other@commitments.
   - chara:
     - id: 100205
       motion: 201
       pos: 0
     nameLeft: Yachiyo
-    textLeft: I'll be attending every event I can. I refuse to lose @because I didn’t
+    textLeft: I'll be attending every event I can. I refuse to lose@because I didn't
       put in enough effort.
   - autoTurnLast: 0.01
     bg: bg_adv_21483.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 801100
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301050
       motion: 0
       pos: 0
@@ -737,7 +737,7 @@ story:
     - id: 801100
     nameRight: ""
     narrationEffect: out
-    textRight: Wow! We're doing way better than I thought! @At one point, we had over
+    textRight: Wow! We're doing way better than I thought!@At one point, we had over
       60% of the vote!
   - chara:
     - id: 801100
@@ -746,7 +746,7 @@ story:
   - chara:
     - id: 801100
     nameRight: ""
-    textRight: The attendees at our events love that you're so @beautiful yet so approachable.
+    textRight: The attendees at our events love that you're so@beautiful yet so approachable.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -756,26 +756,26 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 300901
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 303201
       motion: 0
       pos: 2
     nameLeft: Manaka
     textLeft: Yachiyo was saddled with so many events early on,
   - nameLeft: Manaka
-    textLeft: so we took advantage of how busy she was and @used my sales skills to
+    textLeft: so we took advantage of how busy she was and@used my sales skills to
       snatch the lead.
   - chara:
     - eyeClose: 1
       id: 300901
       motion: 300
     nameLeft: Manaka
-    textLeft: Still, I’m crushed that we lost Mizuna...
+    textLeft: Still, I'm crushed that we lost Mizuna...
   - chara:
     - eyeClose: 0
       id: 300901
@@ -785,10 +785,10 @@ story:
   - chara:
     - id: 300901
     nameLeft: Manaka
-    textLeft: Shouldn’t have expected anything else from Ria.
+    textLeft: Shouldn't have expected anything else from Ria.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 303201
       motion: 400
       pos: 2
@@ -796,15 +796,15 @@ story:
     textRight: '...B-but it''s going to be okay!'
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 303201
       motion: 100
       pos: 2
     nameRight: Mayu
-    textRight: We’ll be making our final push on Valentine’s Day! @We can do it!
+    textRight: We'll be making our final push on Valentine's Day!@We can do it!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301050
       motion: 1
       pos: 0
@@ -812,7 +812,7 @@ story:
     textLeft: Yes, we shall!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 800700
       motion: 0
       pos: 2
@@ -820,7 +820,7 @@ story:
     textRight: The deadline for voting is tomorrow at noon.
   - chara:
     - cheek: 2
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 800700
       motion: 0
     - id: 301050
@@ -830,12 +830,12 @@ story:
       in Chuo.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 800700
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: We're starting bright and early, so make sure @you’re on time!
+    textRight: We're starting bright and early, so make sure @you're on time!
   - autoTurnLast: 0.01
     bg: bg_adv_14011.jpg
     deleteArmatureList:
@@ -851,7 +851,7 @@ story:
     bg: bg_adv_14031.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 301050
       motion: 0
       pos: 1
@@ -868,7 +868,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301050
       lipSynch: 0
       motion: 0
@@ -876,7 +876,7 @@ story:
     textCenter: (Setting up three alarms was a worthy investment @after all.)
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301050
       lipSynch: 0
       motion: 0
@@ -893,7 +893,7 @@ story:
     - cheek: 0
       effect: ef_adv_01
       eyeClose: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301050
       lipSynch: 0
       motion: 400
@@ -911,7 +911,7 @@ story:
   - bgm: bgm03_story10
     chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 800900
       lipSynch: 0
       motion: 0
@@ -937,7 +937,7 @@ story:
     turnEffect: stop
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 301050
       motion: 0
       pos: 1
@@ -945,7 +945,7 @@ story:
     textCenter: That man…!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 301050
       pos: 1
     nameCenter: Ria

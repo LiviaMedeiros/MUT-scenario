@@ -1172,5 +1172,275 @@ story:
   - chara:
     - id: 111700
       textHomeStatus: Clear
+  group_44:
+  - autoTurnFirst: 3
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_011.exp.json
+      id: 111700
+      motion: 100
+      pos: 1
+      tear: 0
+      voice: vo_game_0102_01
+      textHome: Happy New Year!
+  - autoTurnFirst: 3.5
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 111700
+      motion: 1
+      textHome: This year, the Coordinator's@offering sincere goods
+  - autoTurnFirst: 4.3
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 111700
+      textHome: that'll make@everyone happy~.
+  - chara:
+    - id: 111700
+      textHomeStatus: Clear
+  group_45:
+  - autoTurnFirst: 1.7
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp.json
+      id: 111700
+      motion: 0
+      pos: 1
+      tear: 0
+      voice: vo_game_0102_02
+      textHome: Welcome♪
+  - autoTurnFirst: 3.2
+    chara:
+    - id: 111700
+      motion: 200
+      textHome: How do I look? They say it's@a good omen to greet others@while wearing
+        a haregi~.
+  - autoTurnFirst: 2.5
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 111700
+  - chara:
+    - id: 111700
+      textHomeStatus: Clear
+  group_46:
+  - autoTurnFirst: 3.9
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp.json
+      id: 111700
+      motion: 1
+      pos: 1
+      tear: 0
+      voice: vo_game_0102_03
+      textHome: When a new year starts@and everyone comes@back here again,
+  - autoTurnFirst: 1.8
+    chara:
+    - id: 111700
+      motion: 300
+      textHome: it makes the Coordinator@really happy~.
+  - autoTurnFirst: 1.8
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 111700
+  - chara:
+    - id: 111700
+      textHomeStatus: Clear
+  group_47:
+  - autoTurnFirst: 5.1
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp.json
+      id: 111700
+      motion: 300
+      pos: 1
+      tear: 0
+      voice: vo_game_0102_04
+      textHome: Who would like their@Soul Gem to be the first@adjusted one of the
+        year?
+  - autoTurnFirst: 0.9
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 111700
+      motion: 0
+      textHome: Please, step forward.
+  - autoTurnFirst: 2
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 111700
+      motion: 200
+  - chara:
+    - id: 111700
+      textHomeStatus: Clear
+  group_48:
+  - autoTurnFirst: 2
+    chara:
+    - cheek: 1
+      eyeClose: 1
+      face: mtn_ex_030.exp.json
+      id: 111700
+      motion: 300
+      pos: 1
+      tear: 0
+      voice: vo_game_0102_08
+      textHome: '*Pant*... *Pant*...'
+  - autoTurnFirst: 0.1
+    chara:
+    - eyeClose: 0
+      id: 111700
+      textHome: Sorry, I was in a@rush to buy some@good luck charms.
+  - autoTurnFirst: 4
+    chara:
+    - id: 111700
+      motion: 0
+  - autoTurnFirst: 1.5
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 111700
+      motion: 200
+      textHome: I'd like this business@to thrive too, you know?
+  - autoTurnFirst: 1.7
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 111700
+  - chara:
+    - id: 111700
+      textHomeStatus: Clear
+  group_49:
+  - autoTurnFirst: 5.3
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp.json
+      id: 111700
+      motion: 1
+      pos: 1
+      tear: 0
+      voice: vo_game_0102_09
+      textHome: Have you done your first@shrine visit of the year yet?@It's fine to
+        pray to God,
+  - autoTurnFirst: 2.6
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 111700
+      textHome: but make sure to@thank him afterward.
+  - autoTurnFirst: 4.5
+    chara:
+    - cheek: 0
+      face: mtn_ex_010.exp.json
+      id: 111700
+      motion: 300
+      textHome: After all, isn't it@wonderful to be alive?
+  - chara:
+    - id: 111700
+      textHomeStatus: Clear
+  group_50:
+  - autoTurnFirst: 3.7
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_051.exp.json
+      id: 111700
+      motion: 0
+      pos: 1
+      tear: 0
+      voice: vo_game_0102_10
+      textHome: It's already@evening outside, huh~.
+  - autoTurnFirst: 2.4
+    chara:
+    - cheek: 1
+      eyeClose: 1
+      id: 111700
+      tear: 1
+      textHome: '*Yawn*...'
+  - autoTurnFirst: 0.1
+    chara:
+    - eyeClose: 0
+      id: 111700
+      tear: 0
+      textHome: I'm definitely feeling@a bit relaxed right now...
+  - autoTurnFirst: 3.5
+    chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 111700
+      motion: 200
+  - autoTurnFirst: 3.6
+    chara:
+    - id: 111700
+      textHome: What would happen@to me if I made a@kotatsu in the shop...
+  - chara:
+    - id: 111700
+      textHomeStatus: Clear
+  group_51:
+  - autoTurnFirst: 3.2
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_010.exp.json
+      id: 111700
+      motion: 1
+      pos: 1
+      tear: 0
+      voice: vo_game_0102_11
+      textHome: Oh, it's already time@to close up shop?
+  - autoTurnFirst: 3.9
+    chara:
+    - id: 111700
+      motion: 0
+      textHome: Don't you worry,@I've prepared just enough
+  - autoTurnFirst: 3.5
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 111700
+      motion: 100
+      textHome: New Year's@limited-time goods@for everyone~.
+  - chara:
+    - id: 111700
+      textHomeStatus: Clear
+  group_52:
+  - autoTurnFirst: 2.5
+    chara:
+    - cheek: 0
+      eyeClose: 0
+      face: mtn_ex_051.exp.json
+      id: 111700
+      motion: 400
+      pos: 1
+      tear: 0
+      voice: vo_game_0102_12
+      textHome: '*Gasp*!@What if during New Year''s,'
+  - autoTurnFirst: 5.3
+    chara:
+    - id: 111700
+      textHome: we sold good luck charms@to Magical Girls under@a "Mitama Shrine"?!
+  - autoTurnFirst: 3.8
+    chara:
+    - cheek: 0
+      face: mtn_ex_011.exp.json
+      id: 111700
+      motion: 200
+      textHome: Oh, this could be@a wonderful idea!
+  - autoTurnFirst: 3
+    chara:
+    - cheek: 0
+      face: mtn_ex_030.exp.json
+      id: 111700
+      textHome: I wonder if anyone would@get mad at us, though...
+  - chara:
+    - id: 111700
+      textHomeStatus: Clear
 version: 3
 ...

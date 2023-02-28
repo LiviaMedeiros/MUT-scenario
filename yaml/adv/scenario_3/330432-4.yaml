@@ -747,7 +747,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -755,7 +755,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -765,7 +765,7 @@ story:
     nameRight: Nemu
     textLeft: Ui! Iroha! We're here to visit you!
   - chara:
-    - id: 101403
+    - id: 101471
     textRight: Hello. How is Sakurako doing?
   - chara:
     - cheek: 0
@@ -778,12 +778,12 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       motion: 400
-    textLeft: '[chara:100701:effect_emotion_surprise_0][se:7226_shock]Huh?! Y-you
+    textLeft: '[chara:100770:effect_emotion_surprise_0][se:7226_shock]Huh?! Y-you
       startled me!'
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     textRight: You seem well. Are you having a good time?
   - chara:
@@ -795,11 +795,11 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     - effect: fadeout
       id: 304302
     - effect: fadeout
-      id: 100701
+      id: 100770
     textClear: 1
   - chara:
     - cheek: 0
@@ -821,7 +821,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -840,7 +840,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1

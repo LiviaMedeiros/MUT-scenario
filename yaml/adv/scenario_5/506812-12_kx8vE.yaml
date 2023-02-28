@@ -105,7 +105,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102601
       motion: 0
-    textRight: Yeah, this reaction feels different from @Shizuka's and Sunao's.
+    textRight: Yeah, it's different than the feeling I @get from you two.
   - chara:
     - id: 102601
     textRight: I think it's probably a Devil.
@@ -116,14 +116,14 @@ story:
       motion: 200
       pos: 0
     nameLeft: Shizuka
-    textLeft: Which direction did you feel the reaction from?
+    textLeft: Which direction did you feel it coming from?
   - chara:
     - id: 102601
       motion: 100
     textRight: Further ahead this way!
   - chara:
     - id: 102501
-    textLeft: In that case, we should give up on that one for today.
+    textLeft: In that case, we should give up on that one for @today.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -143,7 +143,7 @@ story:
   - chara:
     - id: 102501
       motion: 0
-    textLeft: The one over in that direction is the Wavering Deity...
+    textLeft: The one over in that direction is the Wavering @Deity...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -183,7 +183,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 102601
-    textRight: Hmn—...
+    textRight: Hmn...
   - chara:
     - id: 102501
       motion: 100
@@ -208,7 +208,7 @@ story:
   - nameNarration: Sunao
     narration: ―Sunao―@Yes. A mysterious Devil that drifts in circles@around the village,
       never going anywhere else.
-  - narration: ―Sunao―@It's also said to be Tokime's guardian god.
+  - narration: ―Sunao―@It's also said to be the guardian god of the Tokime.
   - nameNarration: Chiharu
     narration: ―Chiharu―@Even though it's a Devil?
   - nameNarration: Sunao

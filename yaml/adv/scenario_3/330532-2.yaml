@@ -129,6 +129,16 @@ story:
     - id: 801000
     textRight: Yes, it's a rather complicated management@issue.
   - chara:
+    - effect: fadeout
+      id: 800800
+    - effect: fadeout
+      id: 801000
+    nameNarration: Ikumi
+    narration: The owner and our teacher told us that@the cafe was getting evicted
+      because@the building was old and had to be demolished.
+    narrationBg: bg_adv_narration.jpg
+    narrationEffect: in
+  - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 305301
@@ -140,12 +150,7 @@ story:
       id: 800800
       motion: 0
       pos: 2
-    nameNarration: Ikumi
-    narration: The owner and our teacher told us that@the cafe was getting evicted
-      because@the building was old and had to be demolished.
-    narrationBg: bg_adv_narration.jpg
-    narrationEffect: in
-  - narration: They were looking for a new location,@but hadn't found anything yet.
+    narration: They were looking for a new location,@but hadn't found anything yet.
   - narration: They were also considering shutting@down the maid cafe business if@they
       couldn't find a new spot.
   - chara:

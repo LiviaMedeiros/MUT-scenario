@@ -204,7 +204,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 304302
       lipSynch: 0
-    textLeft: '[chara:304302:eyeClose_0][chara:304302:lipSynch_1]| Very well... |'
+    textLeft: '| ...[wait:1.0][chara:304302:eyeClose_0][chara:304302:lipSynch_1]Very
+      well... |'
   - bgm: bgm03_story06
     chara:
     - id: 304302
@@ -397,7 +398,8 @@ story:
     - 1
     - 2
     item:
-    - path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
       posX: 0
       posY: 0
       visible: appear

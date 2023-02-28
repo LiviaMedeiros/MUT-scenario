@@ -75,7 +75,7 @@ story:
       lipSynch: 0
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: '...'
   - chara:
     - cheek: 0
@@ -97,7 +97,7 @@ story:
       lipSynch: 0
     nameCenter: Melissa
     narrationEffect: out
-    textCenter: (Darc is carrying her flag beside the@altar...)
+    textCenter: (Tart is carrying her flag beside the@altar...)
   - chara:
     - id: 402301
       lipSynch: 0
@@ -124,7 +124,7 @@ story:
     chara:
     - id: 402100
       motion: 1
-    nameRight: Darc
+    nameRight: Tart
     narrationEffect: out
     textRight: Your Highness... No, Your Majesty.
   - chara:
@@ -197,7 +197,7 @@ story:
     - id: 402301
       motion: 1
     nameRight: Melissa
-    textRight: Darc!
+    textRight: Tart!
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.01
     chara:
@@ -233,7 +233,7 @@ story:
     - id: 402201
       motion: 100
     nameCenter: Liz
-    textCenter: Darc...
+    textCenter: Tart...
     turnChangeOut: rollOutFast
   - autoTurnLast: 1
     bg: bg_adv_20121.jpg
@@ -265,7 +265,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 402100
       motion: 400
-    nameRight: Darc
+    nameRight: Tart
     textRight: N-no! Your Majesty, I would never...
   - chara:
     - id: 402100
@@ -361,7 +361,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 402101
       motion: 100
-    nameRight: Darc
+    nameRight: Tart
     textRight: Yes.
   - chara:
     - id: 402101
@@ -462,7 +462,7 @@ story:
       id: 402101
       motion: 100
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Yes, let's go!
   - autoTurnLast: 0.01
     bgm: stop
@@ -481,7 +481,7 @@ story:
     turnChangeOut: rollOutFast
   - chara:
     - id: 402101
-    nameCenter: Darc
+    nameCenter: Tart
     narrationEffect: out
     textCenter: Huh? What's going on here?
   - autoTurnLast: 0.2
@@ -523,7 +523,7 @@ story:
     textRight: '[chara:402301:effect_emotion_surprise_0][se:7226_shock]What?!'
   - chara:
     - id: 830000
-    textLeft: Everyone is saying it's another of Darc's @miracles!
+    textLeft: Everyone is saying it's another of Tart's @miracles!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -543,13 +543,13 @@ story:
       motion: 100
       pos: 2
     nameRight: Liz
-    textRight: Darc!
+    textRight: Tart!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 402101
       motion: 100
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Yes! This is all thanks to Ui!
   - chara:
     - cheek: 0

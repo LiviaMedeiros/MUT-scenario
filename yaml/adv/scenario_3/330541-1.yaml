@@ -111,8 +111,7 @@ story:
   - nameNarration: ""
     narration: '*Taptaptap*'
     turnChangeOut: fadeOut
-  - narration: 'isnt the first period starting early?@i was having such a good dream...@Notification:
-      6 Likes'
+  - narration: 6 Likes
     narrationHAlignment: left
     narrationPosX: 180
   - autoTurnLast: 1
@@ -219,7 +218,7 @@ story:
       id: 305401
       lipSynch: 0
     nameCenter: Mitsune
-    textCenter: (What's...with that...)
+    textCenter: (What...the heck...)
   - chara:
     - id: 305401
       lipSynch: 0
@@ -272,8 +271,7 @@ story:
   - nameNarration: ""
     narration: '*Taptaptap*'
     turnChangeOut: fadeOut
-  - narration: 'my friend got me a surprise!@its a make-up assignment lmao@Notification:
-      8 Likes'
+  - narration: 8 Likes
     narrationHAlignment: left
     narrationPosX: 180
   - autoTurnLast: 1
@@ -385,7 +383,7 @@ story:
   - chara:
     - id: 800600
     nameLeft: Mitsune's Mother
-    textLeft: We've been waiting for a long time...@And she hasn't changed a bit!
+    textLeft: We've already waited so long...@And she hasn't changed a bit!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -415,7 +413,7 @@ story:
       lipSynch: 0
       pos: 1
     nameCenter: Mitsune
-    textCenter: (When they're the ones who were so scared of me...@[chara:305401:lipSynch_0][wait:0.8][chara:305401:cheek_0][chara:305401:motion_200][chara:305401:lipSynch_0]and
+    textCenter: (When they're the ones who were so scared...@[chara:305401:lipSynch_0][wait:0.8][chara:305401:cheek_0][chara:305401:motion_200][chara:305401:lipSynch_0]and
       avoided me this whole time...?!)
   - armatureList:
     - animation:
@@ -432,8 +430,7 @@ story:
   - nameNarration: ""
     narration: '*Taptaptap*'
     turnChangeOut: fadeOut
-  - narration: 'watching a movie with my family! (^^)/@mom and dad cry too much lololol@Notification:
-      3 Likes'
+  - narration: 3 Likes
     narrationHAlignment: left
     narrationPosX: 180
   - autoTurnLast: 1.3
@@ -483,7 +480,7 @@ story:
     narrationEffect: in
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: ≫a sparkling high school life?@    your messages are so samey and fake.@≫its
+    narration: ≫a perfect high school life?@    your messages are so samey and fake.@≫its
       so obvious how empty your real life is lmao@≫That's just the kind of person
       they are.@    Leave them alone.
     narrationHAlignment: left

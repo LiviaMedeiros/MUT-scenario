@@ -166,9 +166,9 @@ story:
     narrationLineSpace: 20
   - narration: ―Chiharu―@............There's something there...
   - nameNarration: ???
-    narration: ―???―@I'm surprised that the Tokime would call me again.@I could swear
-      that they'd only just called me recently.
-  - narration: ―???―@Are you perhaps @the girl who wants a wish granted?
+    narration: ―???―@I'm surprised the Tokime would call me again so soon.@I could
+      swear they'd already summoned me recently.
+  - narration: ―???―@Are you perhaps the next @girl who wants a wish granted?
   - nameNarration: Chiharu
     narration: ―Chiharu―@It's talking...!
   - autoTurnLast: 0.01

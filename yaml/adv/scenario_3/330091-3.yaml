@@ -1,23 +1,29 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21072.jpg
-    bgm: bgm01_anime03
+  - autoTurnLast: 0.2
+    bg: bg_adv_21072.jpg
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300902
-      motion: 200
+      motion: 0
       pos: 0
       soulGem: 0
+    turnChangeIn: fadeIn
+  - bgm: bgm01_anime03
+    chara:
+    - id: 300902
+      motion: 200
     nameLeft: Manaka
     textLeft: 710!@The founding of the ancient capital in Nara!
+    turnChangeOut: fadeOut
   - chara:
     - id: 810000
       motion: 0
       pos: 2
       posX: 40
-    nameRight: ' Kyubey'
+    nameRight: Kyubey
     textRight: 794!@The year the capital changed to Kyoto.
   - chara:
     - cheek: 1
@@ -57,6 +63,7 @@ story:
     chara:
     - effect: fadeout
       id: 810000
+    textClear: 1
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -143,8 +150,9 @@ story:
       id: 300902
       motion: 100
     textLeft: Bring it on, science!@I'll drop you like a hot potato!
-  - bg: bg_adv_21073.jpg
-    bgm: bgm01_anime07
+  - autoTurnLast: 1
+    bg: bg_adv_21073.jpg
+    bgm: stop
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -152,9 +160,12 @@ story:
       motion: 1
       pos: 0
       soulGem: 0
+    turnChangeIn: fadeIn
+  - bgm: bgm01_anime07
+    chara:
+    - id: 300902
     nameLeft: Manaka
     textLeft: Phosphorus... "P"...@Like for "pudding"...
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -191,8 +202,11 @@ story:
       face: mtn_ex_020.exp.json
       id: 300902
     textLeft: Okay!@I'll just whip something up!
-  - bg: bg_adv_21221.jpg
-    bgm: bgm03_story09
+  - autoTurnLast: 0.1
+    bg: bg_adv_19231.jpg
+    bgm: stop
+    turnChangeIn: rollIn
+  - bgm: bgm03_story09
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -203,7 +217,6 @@ story:
       soulGem: 0
     nameCenter: Manaka
     textCenter: (First I'll set the heat to a gentle medium....)
-    turnChangeIn: rollIn
     turnChangeOut: rollOut
   - chara:
     - cheek: 0
@@ -247,7 +260,8 @@ story:
       id: 300902
       motion: 100
     textCenter: I'll pour on a bit of my strawberry aurora@sauce and voilà!
-  - chara:
+  - bg: bg_adv_21073.jpg
+    chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300902
@@ -276,7 +290,7 @@ story:
       motion: 0
       pos: 2
       posX: 40
-    nameRight: ' Kyubey'
+    nameRight: Kyubey
     textRight: I cannot understand@what you are saying at all.
   - chara:
     - cheek: 0
@@ -326,5 +340,5 @@ story:
     textCenter: (That I absolutely refuse to lose!)
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

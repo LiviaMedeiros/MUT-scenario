@@ -450,6 +450,10 @@ story:
       id: 303901
     se: 7107_arrivalone
     textClear: 1
+  - autoTurnLast: 0.1
+    chara:
+    - effect: fadeout
+      id: 304001
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json

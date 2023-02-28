@@ -668,11 +668,7 @@ story:
     textCenter: Konoha!
     turnChangeIn: whiteIn
     turnChangeOut: whiteOut
-  - chara:
-    - effect: fadeout
-      id: 302701
-      pos: 1
-    narration: That's why...
+  - narration: That's why...
     narrationEffect: in
   - chara:
     - cheek: 0

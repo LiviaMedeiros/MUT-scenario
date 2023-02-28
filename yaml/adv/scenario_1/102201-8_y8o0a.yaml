@@ -272,7 +272,7 @@ story:
       motion: 200
       voiceFull: fullvoice/section_102201/vo_full_102201-8-33
       voiceFullStop: fullvoice/section_102201/vo_full_102201-8-32
-    textRight: I was also forbidden from removing the Bracelet...
+    textRight: The Bracelet rejected my attempt to take it off too...
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -285,8 +285,8 @@ story:
       id: 100101
       voiceFull: fullvoice/section_102201/vo_full_102201-8-35
       voiceFullStop: fullvoice/section_102201/vo_full_102201-8-34
-    textRight: I think, it might be that I can only hand it@over to people that I
-      would trust with my life...
+    textRight: I think, it might be that I can only hand it@over to someone that I
+      could trust with my life...
   - chara:
     - id: 101700
       motion: 1

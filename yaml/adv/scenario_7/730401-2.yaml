@@ -110,7 +110,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -120,14 +120,14 @@ story:
     turnChangeIn: fadeIn
     turnEffect: sepiaFrame
   - chara:
-    - id: 101403
+    - id: 101471
     nameCenter: Nemu
     textCenter: Perhaps it's been happening unconsciously?@You see, your magic...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
     textCenter: I suppose you could call it "kotodama". A force that@controls people
       via the words you communicate.
   - autoTurnLast: 0.01

@@ -193,7 +193,7 @@ story:
       id: 102600
       motion: 200
     textBg: shout
-    textRight: '[flashEffect:flashWhite2][surround:1026A01]! Noooo———!!!'
+    textRight: '[flashEffect:flashWhite2][surround:1026A01]Noooo———!!!'
   - autoTurnLast: 0.5
     bgEffect: shakeLarge
     chara:

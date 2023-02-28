@@ -26,11 +26,13 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 760000
+      live2dName: live2d_0
       motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 760090
+      id: 760000
+      live2dName: live2d_1
       motion: 0
       pos: 2
     narrationEffect: out
@@ -40,6 +42,7 @@ story:
   - bgm: bgm05_event03
     chara:
     - id: 760000
+      live2dName: live2d_0
     nameCenter: ""
     questTurnChangeOut: fadeOut
     textBg: shout
@@ -48,8 +51,10 @@ story:
     chara:
     - effect: fadeout
       id: 760000
+      live2dName: live2d_0
     - effect: fadeout
-      id: 760090
+      id: 760000
+      live2dName: live2d_1
     textClear: 1
   - chara:
     - cheek: 0

@@ -20,17 +20,17 @@ story:
   - chara:
     - id: 102700
       lipSynch: 0
-    textCenter: (It might be my fault that the situation's gotten so complicated...)
+    textCenter: (It might be my fault that the situation's gotten so @complicated...)
   - chara:
     - id: 102700
       lipSynch: 0
       motion: 300
-    textCenter: (Because I became a Diviner without Mikoshiba's permission...)
+    textCenter: (Because I became a Diviner without Mikoshiba's @permission...)
   - chara:
     - eyeClose: 1
       id: 102700
       lipSynch: 0
-    textCenter: (And I was punished by being forced to kill @someone...)
+    textCenter: (And my punishment was being forced to kill...)
   - autoTurnLast: 1.5
     bg: bg_adv_21081.jpg
     chara:
@@ -57,7 +57,7 @@ story:
     textRight: It's not Sunao's fault, though, we swear!
   - chara:
     - id: 800700
-    textRight: We're the ones to blame for not telling her about Diviners...!
+    textRight: We're the ones to blame for not telling her about @Diviners...!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -67,7 +67,7 @@ story:
   - chara:
     - id: 801800
     textBg: shout
-    textLeft: Have ye forgotten that your family was born of a Tokime branch family?!
+    textLeft: Have ye forgotten that your family was born of a @Tokime branch family?!
   - chara:
     - id: 800700
     textRight: We are fully aware of that...!
@@ -83,7 +83,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 801800
       motion: 0
-    textLeft: You kept this from her on purpose for some reason, didn't ye...?
+    textLeft: You kept this from her on purpose for some reason, @didn't ye...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -95,7 +95,7 @@ story:
     textRight: '...'
   - chara:
     - id: 800600
-    textRight: We didn't want her to develop an interest in them. In Diviners...
+    textRight: We didn't want her to develop an interest in them. @In Diviners...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -150,7 +150,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 801800
-    textLeft: I'm saying that one of the Tokime bloodline must not make such a wish.
+    textLeft: I'm saying that one of the Tokime bloodline must @not make such a wish.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -165,14 +165,17 @@ story:
   - autoTurnLast: 0.01
     turnChangeIn: fadeIn
   - nameNarration: Mikoshiba
-    narration: '"Thou must atone for thine and thy parents'' crime'
+    narration: '"Thou must atone for thine and thy parents'' crime @with thy own behavior."'
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: with thy own behavior."
-  - narration: '"Even if thou hast become a Diviner wastefully,'
-  - narration: there are mountains of things thou canst do in the village."
-  - narration: '"If anyone who disobeys our will doth appear,'
+  - narration: '"Even if thou hast become a Diviner wastefully, @there are mountains
+      of things thou canst do in the village."'
+  - narration: '"If anyone who disobeys our will doth appear... @Thou shalt kill that
+      person."'
+  - narration: '"Thou cannot refuse."'
+  - narration: '"Kill others to atone for your crime, @or thy parents die to atone
+      for your crime. @Two choices, but in essence, only one."'
   - autoTurnLast: 2
     bg: bg_adv_50031.jpg
     chara:
@@ -188,13 +191,14 @@ story:
   - chara:
     - id: 102700
       lipSynch: 0
-    nameCenter: ""
-    textCenter: thou shalt kill that person."
+    nameCenter: Sunao
+    textCenter: (I'm still afraid...)
     turnChangeOut: fadeOut
   - chara:
     - id: 102700
       lipSynch: 0
-    textCenter: '"Thou cannot refuse."'
+    textCenter: (But if we take care of the Devil fast enough, @maybe I can save Mom
+      and Dad too...)
   - bgm: stop
     chara:
     - cheek: 0
@@ -202,15 +206,16 @@ story:
       face: mtn_ex_020.exp.json
       id: 102700
       lipSynch: 0
-    textCenter: '"Kill others to atone for your crime,'
+    textCenter: '...'
   - chara:
     - eyeClose: 0
       id: 102700
       motion: 100
-    textCenter: or thy parents die to atone for your crime.
+    textCenter: If Mikoshiba's there, I take her into custody, and @question her after
+      the Devil is defeated...
   - chara:
     - id: 102700
-    textCenter: Two choices, but in essence, only one."
+    textCenter: Once she's in her right mind, I'll ask her what she @was thinking...
   - autoTurnLast: 0.2
     chara:
     - id: 102700
@@ -220,14 +225,13 @@ story:
     - id: 7107
       name: sprite_0
       pos: 0
-    nameLeft: Sunao
+    nameLeft: ""
     textBg: shout
-    textLeft: (I'm still afraid...)
+    textLeft: '............!!'
   - chara:
     - id: 102700
       motion: 200
-    textRight: (But if we take care of the Devil fast enough, maybe I can save Mom
-      and Dad too...)
+    textRight: Move aside! I have business in this house!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

@@ -86,7 +86,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 301901
       motion: 0
-    textLeft: As long as I'm here, @Kamihama will be safe!
+    textLeft: As long as I'm here,@Kamihama will be safe!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -111,7 +111,7 @@ story:
       id: 301901
       mouthOpen: 1
     se: 7222_happy
-    textLeft: Hyaaahahaha! @Ahahahahaaa!
+    textLeft: Hyaaahahaha!@Ahahahahaaa!
   - bgm: stop
     chara:
     - cheek: 0
@@ -149,7 +149,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 300701
       motion: 400
-    textRight: What?! @Wh-what's wrong?!
+    textRight: What?!@Wh-what's wrong?!
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -199,18 +199,18 @@ story:
       id: 301901
       motion: 200
       mouthOpen: 1
-    textLeft: Nooo! @No, no, no, no, nooo!
+    textLeft: Nooo!@No, no, no, no, nooo!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300701
-    textRight: Wha—?! @[chara:300701:motion_0]What's the problem?
+    textRight: Wha—?!@[chara:300701:motion_0]What's the problem?
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 301901
       motion: 300
-    textLeft: I screwed up...! @It's already too late...!
+    textLeft: I screwed up...!@It's already too late...!
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -245,7 +245,7 @@ story:
       mouthOpen: 1
       pos: 1
     textBg: shout
-    textCenter: All you guys and gals out there @[chara:801100:effect_emotion_angry_0][se:7219_strain]ready
+    textCenter: All you guys and gals out there@[chara:801100:effect_emotion_angry_0][se:7219_strain]ready
       to get crazy tonight?!!!
     turnChangeIn: whiteIn
     turnChangeOut: whiteOut

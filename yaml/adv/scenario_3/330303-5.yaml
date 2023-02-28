@@ -1,21 +1,21 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21241.jpg
+  - bg: bg_adv_11101.jpg
     bgm: bgm03_story09
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_010.exp3.json
       id: 303001
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 301101
       motion: 1
       pos: 2
     nameLeft: Konomi
-    nameRight: Kako
+    nameRight: Kaede
     surround: 7102_townbuzz
     textLeft: Phew...@Good thing she wasn't too hard to beat.
     turnChangeIn: fadeIn
@@ -64,6 +64,7 @@ story:
       motion: 400
       mouthOpen: 1
       pos: 2
+    nameRight: Kaede
     textRight: O-okay!
   - chara:
     - cheek: 0
@@ -271,7 +272,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Konomi
-    nameRight: Kaede
+    nameRight: Kako
     textLeft: Congratulations! Everything sold!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut

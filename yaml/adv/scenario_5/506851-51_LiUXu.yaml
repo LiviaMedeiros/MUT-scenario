@@ -58,7 +58,7 @@ story:
     textLeft: Given what you just said, I suppose all of that was @real.
   - chara:
     - id: 102501
-    textLeft: How I almost sank to the bottom of the water, @how you purified my Jewel...
+    textLeft: How I almost sank to the bottom of the river, @how you purified my Jewel...
   - autoTurnLast: 0.1
     chara:
     - id: 102501
@@ -98,7 +98,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102601
-    textRight: Then this is real. That's the rule, after all!
+    textRight: Then this is real, not a dream.@That's the rule, after all!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -223,7 +223,7 @@ story:
       id: 102701
       motion: 0
     surround: 7001_birdsong
-    textRight: I'm sorry. I didn't. I haven't saved you at all...
+    textRight: I'm sorry. I didn't. I didn't save you at all...
   - chara:
     - id: 102701
     textRight: In fact, I attempted to kill you...

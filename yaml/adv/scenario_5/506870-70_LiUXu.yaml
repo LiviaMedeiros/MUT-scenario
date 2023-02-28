@@ -172,7 +172,7 @@ story:
     textRight: You're going to pop a blood vessel in your head, @getting that angry...
   - chara:
     - id: 801800
-    textLeft: You loathesome little Hiroe girl...
+    textLeft: You loathsome little Hiroe girl...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -239,7 +239,7 @@ story:
     textRight: So that whole story is true...?
   - chara:
     - id: 102500
-    textRight: How we're just used-up dregs after our wishes were granted...
+    textRight: How we're just used-up dregs after our wishes are granted...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

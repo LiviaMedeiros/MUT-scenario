@@ -448,7 +448,7 @@ story:
   - chara:
     - id: 402201
       motion: 100
-    textLeft: If a form can protect Darc, then that's the@one I prefer.
+    textLeft: If a form can protect Tart, then that's the@one I prefer.
   - autoTurnLast: 0.01
     bg: bg_adv_20073.jpg
     chara:

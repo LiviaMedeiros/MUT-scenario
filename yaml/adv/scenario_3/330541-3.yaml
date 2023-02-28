@@ -33,12 +33,12 @@ story:
     - effect: fadeout
       id: 305401
     textClear: 1
-  - nameNarration: ""
-    narration: 'blue_exe: ggwp'
-  - nameNarration: ""
-    narration: 'blue_exe: youre definitely mvp of this quest mist@an absolute boss'
-  - nameNarration: ""
-    narration: 'blue_exe: seriously when do you even sleep?'
+  - nameNarration: blue_exe
+    narration: ggwp
+  - nameNarration: blue_exe
+    narration: youre definitely mvp of this quest mist@an absolute boss
+  - nameNarration: blue_exe
+    narration: seriously when do you even sleep?
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -192,7 +192,7 @@ story:
   - chara:
     - id: 810000
     nameRight: Kyubey
-    textRight: You've exhausted too much of your magic power.@Look at your Soul Gem.
+    textRight: You've exhausted too much of your magic.@Look at your Soul Gem.
   - chara:
     - id: 305401
       motion: 100
@@ -201,8 +201,7 @@ story:
   - chara:
     - id: 810000
     nameRight: Kyubey
-    textRight: The gleam of your Soul Gem represents the@current reserve of your magic
-      power.
+    textRight: The gleam of your Soul Gem represents the@current reserve of your power.
   - chara:
     - id: 305401
       motion: 1
@@ -216,7 +215,7 @@ story:
   - chara:
     - id: 810000
     nameRight: Kyubey
-    textRight: Magic power is also used to maintain the@bodies of Magical Girls.
+    textRight: Magic is also used to maintain the@bodies of Magical Girls.
   - chara:
     - id: 810000
     nameRight: Kyubey
@@ -224,7 +223,7 @@ story:
   - chara:
     - id: 810000
     nameRight: Kyubey
-    textRight: That means your Soul Gem is almost@depleted of magic power.
+    textRight: That means your Soul Gem is almost@depleted of magical power.
   - chara:
     - id: 810000
     nameRight: Kyubey

@@ -122,7 +122,7 @@ story:
       id: 402600
       motion: 1
       pos: 2
-    nameCenter: Darc & Elisa
+    nameCenter: Tart & Elisa
     textCenter: '...?!'
   - autoTurnLast: 0.2
     chara:
@@ -215,7 +215,7 @@ story:
       posX: 120
     - id: 101500
       mouthOpen: 0
-    nameCenter: Darc
+    nameCenter: Tart
     textBg: shout
     textCenter: '[flashEffect:flashRed1][bgEffect:shakeLarge][chara:402100:effect_shake][se:3001_chara_damage]Ui!'
   - autoTurnLast: 0.2
@@ -413,11 +413,11 @@ story:
       pos: 1
       posX: -90
     nameLeft: Liz
-    textLeft: You go with her, Darc! I can handle this.
+    textLeft: You go with her, Tart! I can handle this.
   - chara:
     - id: 402100
       motion: 100
-    nameRight: Darc
+    nameRight: Tart
     textRight: Very well. Off we go!
   - autoTurnLast: 0.1
     chara:
@@ -517,7 +517,7 @@ story:
   - chara:
     - id: 402100
       motion: 400
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: They're everywhere...
   - autoTurnLast: 0.01
     narrationBg: bg_adv_20093.jpg

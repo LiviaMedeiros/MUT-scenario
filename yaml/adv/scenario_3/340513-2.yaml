@@ -34,7 +34,7 @@ story:
       lipSynch: 0
     nameRight: Fate
     textRight: What?!
-  - autoTurnLast: 0.01
+  - autoTurnLast: 0.1
     chara:
     - effect: slideOutRightFast
       id: 405200

@@ -75,7 +75,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -118,7 +118,7 @@ story:
     - id: 715000
     textRight: I am prepared.
   - chara:
-    - id: 101403
+    - id: 101471
       lipSynch: 0
     nameCenter: Nemu
     textCenter: '...'
@@ -129,7 +129,7 @@ story:
     - effect: fadeout
       id: 715000
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - chara:
     - cheek: 0
@@ -160,7 +160,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       lipSynch: 0
       live2dParam:
         name: PARAM_BRACELET
@@ -178,7 +178,7 @@ story:
       motion: 0
       pos: 2
     surround: stop
-    textCenter: '[chara:101403:effect_emotion_surprise_0][se:7226_shock]...?!'
+    textCenter: '[chara:101471:effect_emotion_surprise_0][se:7226_shock]...?!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -186,7 +186,7 @@ story:
     - effect: fadeout
       id: 715100
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - autoTurnLast: 2
     chara:
@@ -255,7 +255,7 @@ story:
       pos: 2
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -276,7 +276,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
     nameLeft: Nemu
     textLeft: Both of you...
   - autoTurnLast: 0.2
@@ -284,7 +284,7 @@ story:
     chara:
     - effect: fadeout
       id: 715104
-    - id: 101403
+    - id: 101471
       pos: 1
     surround: stop
     textClear: 1
@@ -315,7 +315,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       motion: 200
     nameCenter: Nemu
     surround: 7202_telepathy
@@ -561,7 +561,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -586,7 +586,7 @@ story:
       motion: 0
       pos: 1
     - eyeClose: 1
-      id: 101403
+      id: 101471
       lipSynch: 0
       motion: 300
     nameRight: Nemu
@@ -608,7 +608,7 @@ story:
     - id: 715100
       pos: 0
     - eyeClose: 0
-      id: 101403
+      id: 101471
       motion: 1
     textRight: '*Pant* *Pant*'
   - autoTurnLast: 0.01

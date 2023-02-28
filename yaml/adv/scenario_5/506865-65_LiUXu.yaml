@@ -328,7 +328,7 @@ story:
     textRight: My and Charu's mothers are missing...
   - chara:
     - id: 102700
-    textLeft: Both of yours, on top of everything else...
+    textLeft: Both of your mothers, on top of everything else...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -350,7 +350,7 @@ story:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 102500
-    textRight: Wait, Charu's calling me...
+    textRight: Wait, Charu's calling to me...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

@@ -19,7 +19,7 @@ story:
   - chara:
     - id: 402100
       motion: 100
-    nameRight: Darc
+    nameRight: Tart
     textRight: Yaaah![flashEffect:flashWhite2][bgEffect:shakeLarge][surround:4021A01]
     turnChangeOut: fadeOut
   - chara:
@@ -97,7 +97,7 @@ story:
   - chara:
     - id: 402100
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: We're free!
     turnChangeOut: whiteOut
     turnChangeOutTime: 1.2
@@ -120,7 +120,7 @@ story:
     turnChangeIn: whiteIn
     turnChangeInTime: 1
     turnEffect: stop
-  - nameNarration: Darc
+  - nameNarration: Tart
     narration: '[textBlack:I beg of you, please... Let us make in time!]'
     turnChangeOut: whiteOut
   - autoTurnLast: 0.01
@@ -242,7 +242,7 @@ story:
   - chara:
     - id: 402100
       motion: 100
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Everyone, we are here!
   - autoTurnLast: 0.2
     chara:
@@ -296,7 +296,7 @@ story:
       id: 402200
       motion: 1
     nameLeft: Liz
-    textLeft: Darc...
+    textLeft: Tart...
   - chara:
     - cheek: 2
       effect: shake
@@ -320,7 +320,7 @@ story:
       id: 402100
       motion: 201
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Liz! Melissa!
   - chara:
     - cheek: 0
@@ -400,7 +400,7 @@ story:
       id: 402100
       motion: 1
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: The English soldiers, too...
   - chara:
     - id: 402100
@@ -483,7 +483,7 @@ story:
       pos: 1
   - chara:
     - id: 402100
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: I have only ever had one simple goal, which@was to save my country.
   - chara:
     - id: 402100
@@ -534,7 +534,7 @@ story:
       pos: 2
     flashEffect: explosion
     nameRight: Liz
-    textRight: Look at Darc.
+    textRight: Look at Tart.
   - chara:
     - id: 402300
       motion: 300
@@ -560,8 +560,8 @@ story:
             posY: -80
       path: resource/scenario/img/51065_singleraid_tart2/51065_tart_2ndform.jpg
   - flashEffect: explosion
-    nameNarration: Darc
-    narration: ― Darc ―@Now I can never offer you absolution for@attempting to bring
+    nameNarration: Tart
+    narration: ― Tart ―@Now I can never offer you absolution for@attempting to bring
       everything to ruin!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
@@ -571,7 +571,7 @@ story:
     narrationLineSpace: 20
     turnChangeOut: whiteOut
   - flashEffect: flashWhiteSlow2
-    narration: ― Darc ―@I will save all of them!
+    narration: ― Tart ―@I will save all of them!
   - autoTurnLast: 0.01
     bg: bg_adv_20091.jpg
     chara:
@@ -633,7 +633,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Melissa
-    textRight: Darc...
+    textRight: Tart...
   - chara:
     - id: 402200
       motion: 1
@@ -786,7 +786,7 @@ story:
     textClear: 1
     turnChangeIn: whiteIn
     turnChangeInTime: 2
-  - nameNarration: Darc
+  - nameNarration: Tart
     narration: '[jingle:4021M08][textBlack:"It ends here."]'
     turnChangeOut: whiteOut
   - nameNarration: Corbeau

@@ -174,8 +174,8 @@ story:
       pos: 0
     nameRight: ???
     textBg: shout
-    textRight: '[surround:1022A01][chara:100100:effect_7001_attack02]That you don''t
-      even know is infuriating to us!'
+    textRight: '[surround:1022A01][chara:100100:effect_7001_attack02]The fact that
+      you don''t even@know is infuriating to us!'
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json

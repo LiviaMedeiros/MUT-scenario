@@ -43,6 +43,9 @@ story:
       id: 100900
       motion: 0
       pos: 0
+    - effect: fadeout
+      id: 101100
+      live2dName: live2d_1
     se: 7205_magic_girl
     textClear: 1
     voiceFullStop: fullvoice/section_102005/vo_full_102005-8-1

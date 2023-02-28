@@ -52,7 +52,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 800600
     nameNarration: ""
-    narration: '*knock-knock*'
+    narration: '*Knock knock*'
     narrationBg: bg_adv_21441.jpg
     narrationEffect: in
   - nameNarration: ???
@@ -60,7 +60,7 @@ story:
   - chara:
     - id: 102601
     narrationEffect: out
-    textRight: Is that the Diviners they mentioned yesterday?
+    textRight: Could that be the Diviners @they mentioned yesterday?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -126,8 +126,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102501
-    textRight: Yep, the same as the village's name. And we happen @to be the Tokime
-      clan's head family.
+    textRight: Yep, the same as the village's name. We happen @to be the Tokime clan's
+      head family.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -157,7 +157,7 @@ story:
   - chara:
     - id: 102501
       motion: 100
-    textRight: Sunao, did you hear that? She called Lady Mikoshiba "granny".
+    textRight: Sunao, did you hear that? @She called Lady Mikoshiba "Granny".
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -165,7 +165,7 @@ story:
       motion: 1
       pos: 2
     nameRight: ???
-    textRight: I've certainly never heard anyone call her that before.
+    textRight: I've certainly never heard anyone @call her that before.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -178,7 +178,7 @@ story:
       id: 102701
       motion: 0
     nameRight: Sunao
-    textRight: Nice to meet you; my name is Sunao Toki. @Best regards.
+    textRight: Nice to meet you, my name is Sunao Toki. @Best regards.
   - chara:
     - id: 102601
       motion: 0
@@ -217,12 +217,12 @@ story:
       motion: 1
       pos: 2
     nameRight: Shizuka
-    textRight: I may not know exactly what 'Granny' has told you so far,
+    textRight: I may not know exactly what 'Granny' has told you @so far,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102501
-    textRight: but please don't be nervous. We're simply here to explain what Diviners
+    textRight: but please don't be nervous. We're simply here to @explain what Diviners
       are.
   - chara:
     - id: 800600
@@ -310,7 +310,7 @@ story:
     - id: 102701
     nameLeft: Sunao
     nameRight: Chiharu
-    textLeft: And around here is the village's public meeting place.
+    textLeft: And around here is the village's public meeting @place.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -338,7 +338,7 @@ story:
       motion: 100
     nameLeft: Shizuka
     nameRight: Chiharu
-    textLeft: And, if you climb up this way, you'll see the village's shrine.
+    textLeft: And, if you climb up this way, you'll see the village's @shrine.
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -366,7 +366,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102601
       motion: 0
-    textRight: I was surprised to see that my phone was out of service, too!
+    textRight: Yeah, I was surprised to see that my phone was @out of service!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -400,7 +400,7 @@ story:
       motion: 300
     nameLeft: Shizuka
     nameRight: Sunao
-    textLeft: Phew... We've walked a long way—.
+    textLeft: Phew... We've walked a long way...
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 1
@@ -480,14 +480,14 @@ story:
       motion: 0
       pos: 2
     nameRight: Sunao
-    textRight: Haha
+    textRight: Haha.
   - bgm: bgm23_tokime04
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
       id: 102501
       motion: 100
-    textLeft: So, on that note. Has Granny Mikoshiba at least told you the general
+    textLeft: So, on that note. Has Granny Mikoshiba at least @told you the general
       summary?
   - chara:
     - cheek: 0
@@ -525,7 +525,7 @@ story:
     - eyeClose: 0
       id: 102501
       motion: 0
-    textLeft: We have the power to grant wishes, for the salvation of the Land of
+    textLeft: We have the power to grant wishes, for the @salvation of the Land of
       the Rising Sun.
   - chara:
     - id: 102501
@@ -602,7 +602,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102601
-    textRight: Well, that's what I'd like to say, but I honestly don't know about
+    textRight: Well, that's what I'd like to say, but I honestly don't @know about
       all this...
   - chara:
     - cheek: 0
@@ -773,7 +773,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102601
       lipSynch: 0
-    textRight: (But not from fear... This heartbeat is one of admiration...!)
+    textRight: (But not from fear... @This heartbeat is one of admiration...!)
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

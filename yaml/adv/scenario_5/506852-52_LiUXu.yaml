@@ -95,7 +95,7 @@ story:
     textRight: Yes. An awful scene suddenly flashed @through my mind...
   - chara:
     - id: 102701
-    textRight: Could all the Diviners who "left" be those corpses @down in the water...?
+    textRight: Could all the Diviners who "left" be those corpses @in the water...?
   - chara:
     - eyeClose: 1
       id: 102501
@@ -267,7 +267,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102500
       tear: 1
-    textRight: We just literally sacrificed our souls, didn't we...?!
+    textRight: We literally sacrificed our souls, didn't we...?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

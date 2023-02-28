@@ -43,7 +43,7 @@ story:
     textLeft: Phew...
   - chara:
     - id: 801000
-    textLeft: See? Whenever you lose your cool, you just rush straight forward.
+    textLeft: See? Whenever you lose your cool, you just rush @straight forward.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -132,7 +132,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Sunao
-    textRight: And her sense was good to begin with.
+    textRight: And her instincts were good to begin with.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -140,8 +140,8 @@ story:
       motion: 0
       pos: 0
     nameLeft: Shizuka's Mother
-    textLeft: You may say that, but you three have just been @playing this whole time,
-      haven't you?
+    textLeft: You may say that, but you three have just been @playing around this
+      whole time, haven't you?
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -175,10 +175,10 @@ story:
   - chara:
     - id: 102601
       motion: 0
-    textRight: By the way, I was thinking about something while we were talking.
+    textRight: By the way, I was thinking about something while @we were talking.
   - chara:
     - id: 102601
-    textRight: You don't know anything about the world outside the @village, do you,
+    textRight: You don't know anything about the world outside @the village, do you,
       Shizuka?
   - chara:
     - id: 102501
@@ -198,7 +198,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102501
       motion: 1
-    textLeft: Yeah. I've seen cars, but I've only ever seen trains in pictures.
+    textLeft: Yeah. I've seen cars, but I've only ever seen trains in @pictures.
   - chara:
     - id: 102501
     textLeft: Isn't everyone in the village the same way?
@@ -209,7 +209,7 @@ story:
   - chara:
     - id: 102501
       motion: 100
-    textLeft: Yeah, you're the only ones who've come in from outside.
+    textLeft: Yeah, you're the only ones who've come in from @outside.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -217,7 +217,8 @@ story:
       motion: 1
       pos: 2
     nameRight: Chiharu
-    textRight: Huh, I see. That's not inconvenient for you guys?
+    textRight: Huh, I see. So not having modern stuff isn't @inconvenient for you
+      guys?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -230,10 +231,10 @@ story:
       motion: 0
       pos: 0
     nameLeft: Shizuka's Mother
-    textLeft: There wasn't much cultural separation at first, apparently.
+    textLeft: There wasn't much cultural separation at first, @apparently.
   - chara:
     - id: 801000
-    textLeft: Though that was a very long time ago, before we cut @off interaction
+    textLeft: Though that was a very long time ago, before we @cut off interaction
       with other villages.
   - chara:
     - cheek: 0
@@ -258,7 +259,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801000
-    textLeft: Also, it's not as if the village is completely free of modern technology.
+    textLeft: Also, it's not as if the village is completely free of @modern technology.
   - chara:
     - id: 801000
     textLeft: I wouldn't know where the exact cutoff point is, @though.
@@ -294,7 +295,7 @@ story:
   - chara:
     - id: 102601
       motion: 200
-    textRight: Not that. @I mean the smell of an incident...!
+    textRight: No no, I mean the smell of an incident...!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -303,13 +304,13 @@ story:
     textLeft: Eeh...?
   - chara:
     - id: 102501
-    textLeft: You've been saying that every day since you became @a Diviner.
+    textLeft: You've been saying that every day since you @became a Diviner.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102601
       motion: 0
-    textRight: I'm telling the truth! I get this weird rustling feeling...
+    textRight: I'm telling the truth! @I get this weird rustling feeling...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -343,7 +344,7 @@ story:
     textLeft: Well, dwelling on it won't get you anywhere.
   - chara:
     - id: 801000
-    textLeft: Let's rest for a little bit longer, then start practicing again.
+    textLeft: Let's rest for a little bit longer, then start practicing @again.
   - chara:
     - id: 801000
     - cheek: 0

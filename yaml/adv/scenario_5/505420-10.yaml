@@ -5,16 +5,16 @@ story:
     bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 100701
+      face: mtn_ex_050.exp3.json
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 0
       pos: 0
     - cheek: 1
-      face: mtn_ex_030.exp.json
-      id: 101403
+      face: mtn_ex_030.exp3.json
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -23,31 +23,31 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story05
     chara:
-    - id: 100701
+    - id: 100770
       motion: 400
     nameLeft: Touka
     textLeft: What? People were saying all those things@behind my back?
     turnChangeOut: fadeOut
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameRight: Nemu
     textRight: Hearing all of that all at once is rather@embarrassing.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     - effect: fadeout
-      id: 100701
+      id: 100770
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 400
       pos: 2
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 304302
       motion: 0
       pos: 0
@@ -55,14 +55,14 @@ story:
     textRight: What about me?! What did they say about@me?!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 304302
       motion: 100
     nameLeft: Eternal Sakura
     textLeft: '| They said you were a sweet girl. |'
   - chara:
     - cheek: 1
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 100
     textRight: Aw.
@@ -76,7 +76,7 @@ story:
     textLeft: '| You helped just by being there, Ui. |'
   - chara:
     - cheek: 1
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101501
       motion: 200
     textRight: Hee hee!
@@ -89,12 +89,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100601
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100101
       motion: 0
       pos: 2
@@ -109,7 +109,7 @@ story:
     textLeft: I'll be stopping by your house regularly from@now on, Touka.
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 100201
       motion: 200
       pos: 2
@@ -117,14 +117,14 @@ story:
     textRight: That's the first I'm hearing of this. Why?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 100601
       motion: 300
     textLeft: I really need to get into pharmacy school...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 100701
+      face: mtn_ex_010.exp3.json
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -134,7 +134,7 @@ story:
     textRight: When she joined the Wings, I lent her an @apartment and gave her a
       scholarship.
   - chara:
-    - id: 100701
+    - id: 100770
     textRight: She has to see her responsibilities through.
   - chara:
     - id: 100601
@@ -142,7 +142,7 @@ story:
     textLeft: I brought this on myself...
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100601
     textLeft: But it's a good opportunity to spend time@with Touka.
   - chara:
@@ -151,16 +151,16 @@ story:
     textLeft: She'll tutor me for my studies, and I'll@teach her about moral philosophy.
   - chara:
     - cheek: 0
-      face: mtn_ex_051.exp.json
+      face: mtn_ex_051.exp3.json
       id: 100201
       motion: 0
       pos: 2
     nameRight: Yachiyo
-    textRight: You're the girl who just assumed someone else@should get you tea.[chara:100201:lipSynch_0][wait:1.0][chara:100201:cheek_0][chara:100201:face_mtn_ex_030.exp.json:motion_301][chara:100201:lipSynch_1]
+    textRight: You're the girl who just assumed someone else@should get you tea.[chara:100201:lipSynch_0][wait:1.0][chara:100201:cheek_0][chara:100201:face_mtn_ex_030.exp3.json:motion_301][chara:100201:lipSynch_1]
       Is that a good idea?
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100101
       motion: 200
       pos: 0
@@ -168,8 +168,8 @@ story:
     textLeft: What are you going to do, Nemu?
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
-      id: 101403
+      face: mtn_ex_000.exp3.json
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -178,54 +178,54 @@ story:
     nameRight: Nemu
     textRight: As you can see, I can no longer walk.
   - chara:
-    - id: 101403
+    - id: 101471
     textRight: I'll occasionally ask the Eternal Sakura for@help when I need it.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 101403
+      face: mtn_ex_010.exp3.json
+      id: 101471
       motion: 100
     textRight: But whenever I'm having a bad day, would it@be okay if I came to visit
       you here?
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     - effect: fadeout
       id: 100101
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 100701
+      face: mtn_ex_050.exp3.json
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 400
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100601
       motion: 400
       pos: 0
     nameCenter: Mifuyu & Touka
-    textCenter: '[chara:100601:effect_emotion_surprise_0][se:7226_shock][chara:100701:effect_emotion_surprise_0][se:7226_shock]...?!'
+    textCenter: '[chara:100601:effect_emotion_surprise_0][se:7226_shock][chara:100770:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 1
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100601
     nameLeft: Mifuyu
     textLeft: What?! That's not fair!
   - chara:
     - cheek: 1
-      face: mtn_ex_020.exp.json
-      id: 100701
+      face: mtn_ex_020.exp3.json
+      id: 100770
       motion: 201
     nameRight: Touka
     textRight: Yeah! No fair!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 100201
       motion: 200
       pos: 0
@@ -237,14 +237,14 @@ story:
     textLeft: Though I do ask that we avoid gatherings this@big...
   - chara:
     - cheek: 0
-      face: mtn_ex_014.exp.json
+      face: mtn_ex_014.exp3.json
       id: 100201
       motion: 100
     textLeft: '*Giggle*'
   - bgm: bgm01_anime03
     chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100301
       motion: 201
       pos: 2
@@ -255,7 +255,7 @@ story:
     textRight: All righty! Enough serious talk!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 0
     textRight: Today is Touka and Nemu's inauguration as@the Brains of Kamihama!
@@ -266,7 +266,7 @@ story:
       noggins of yours!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 100301
       motion: 200
     textRight: Yep, yep!
@@ -279,12 +279,12 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 100401
       motion: 1
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100501
       motion: 1
       pos: 0
@@ -292,7 +292,7 @@ story:
     textRight: Felicia, it's almost time to go pick up the@pizzas...
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100501
       motion: 100
     nameLeft: Felicia
@@ -306,7 +306,7 @@ story:
     textRight: What...?
   - chara:
     - cheek: 0
-      face: mtn_ex_014.exp.json
+      face: mtn_ex_014.exp3.json
       id: 100201
       motion: 200
       pos: 0
@@ -314,19 +314,19 @@ story:
     textLeft: I'll go with you, Sana.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100401
       motion: 100
     textRight: Okay!
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 100201
       motion: 100
     textLeft: Felicia, you better show me that island@later.
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 400
       pos: 2
@@ -342,7 +342,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_021.exp.json
+      face: mtn_ex_021.exp3.json
       id: 100101
       lipSynch: 0
       motion: 301
@@ -352,7 +352,7 @@ story:
   - chara:
     - cheek: 0
       eyeClose: 1
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100101
       lipSynch: 0
     nameCenter: Iroha
@@ -365,11 +365,11 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100101
       motion: 100
     - cheek: 0
-      face: mtn_ex_014.exp.json
+      face: mtn_ex_014.exp3.json
       id: 100201
       motion: 0
       pos: 0
@@ -387,30 +387,30 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 101403
+      face: mtn_ex_010.exp3.json
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 100701
+      face: mtn_ex_010.exp3.json
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 0
       pos: 1
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 0
       pos: 2
     nameLeft: Nemu
     textLeft: I'll help, Iroha.
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 400
     nameCenter: Touka
     textCenter: Me too.
@@ -424,13 +424,13 @@ story:
     - effect: fadeout
       id: 101501
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100101
       motion: 401
       pos: 1
@@ -440,12 +440,12 @@ story:
     bg: bg_adv_21261.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100101
       motion: 1
       pos: 0
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 304302
       motion: 0
       pos: 2
@@ -469,7 +469,7 @@ story:
     textRight: '| Only if you want me to, Iroha. |'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100101
       motion: 200
     textLeft: Huh? Then why did you follow us in here?
@@ -490,41 +490,43 @@ story:
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 100701
+      face: mtn_ex_010.exp3.json
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
+        value: 1
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_000.exp.json
-      id: 101403
+      face: mtn_ex_000.exp3.json
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
+        value: 1
       motion: 0
       pos: 2
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 304302
       motion: 1
       pos: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 100701
+      face: mtn_ex_050.exp3.json
+      id: 100770
       motion: 400
       posX: 80
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 101403
+      face: mtn_ex_050.exp3.json
+      id: 101471
       motion: 400
       posX: -80
     nameLeft: Touka
     textLeft: Nyagh!
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: Wh-what's this about?!
   - chara:
@@ -537,37 +539,37 @@ story:
     - effect: fadeout
       id: 304302
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100101
       motion: 0
       pos: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 0
       pos: 2
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 304302
       motion: 1
       pos: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 400
       posX: -80
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100101
       motion: 400
       posX: 80

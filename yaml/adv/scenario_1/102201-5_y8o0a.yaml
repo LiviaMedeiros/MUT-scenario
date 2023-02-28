@@ -368,7 +368,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 101201
       motion: 0
-    textRight: Sorry...for saying something like this...
+    textRight: Sorry...for saying something like that...
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -486,7 +486,8 @@ story:
       lipSynch: 0
       motion: 300
       voiceFull: fullvoice/section_102201/vo_full_102201-5-56
-    textCenter: (I'd heard the reports, but there really@is a mysterious Magical Girl...)
+    textCenter: (I'd heard the reports, but there really is a@mysterious Magical Girl
+      out there...)
   - chara:
     - id: 101601
       lipSynch: 0

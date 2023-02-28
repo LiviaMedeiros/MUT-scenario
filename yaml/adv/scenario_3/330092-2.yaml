@@ -1,12 +1,12 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm03_story09
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       motion: 1
       pos: 0
     - cheek: 1
@@ -31,12 +31,14 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
+    - id: 801100
+      mouthOpen: 0
     textLeft: Ah, so you're the amateurs…
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
     textLeft: '...who''ll be working under me today, huh?'
   - chara:
     - cheek: 1
@@ -58,37 +60,37 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300900
+      id: 300902
       motion: 200
     textLeft: The exchange party starts at 12:30.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     textLeft: I want everything lined up on the tables,@fresh out of the oven!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300900
+      id: 300902
     textLeft: Timing is critical, so there can't be@any mistakes!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300900
+      id: 300902
       motion: 1
     textLeft: There's no time for fooling around in@my kitchen!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 0
       mouthOpen: 1
     textLeft: Now then...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 100
     textLeft: Allez Cuisine!
   - chara:
@@ -99,10 +101,11 @@ story:
       mouthOpen: 1
       pos: 2
     textRight: Oui, [chara:801100:effect_emotion_sad_0][se:7224_fall_into]Chef...
-  - chara:
+  - bg: bg_adv_19231.jpg
+    chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       motion: 100
       pos: 0
     - cheek: 0
@@ -124,7 +127,7 @@ story:
     - cheek: 0
       effect: emotion_surprise_0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     se: 7226_shock
     textLeft: You! Wait!
@@ -138,12 +141,12 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
     textLeft: The potatoes need to be fried@before you stir them into the sauce.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 1
     textLeft: I want them nice and flaky!
   - chara:
@@ -154,7 +157,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 300900
+      id: 300902
       motion: 1
       pos: 0
     - cheek: 0
@@ -177,12 +180,12 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
     textLeft: Yes. It keeps the meat nice and tender@when you cook it.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 100
     textLeft: Plus I like adding a Japanese touch to@my food!
   - bgm: bgm04_movie08
@@ -194,7 +197,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 0
       pos: 1
     nameCenter: Manaka
@@ -204,17 +207,17 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 200
     textCenter: It's the secret ingredient that gives this@dish its special something.
   - nameNarration: Cook
-    narration: What an idea!
-    narrationBg: bg_adv_21221.jpg
+    narration: '"What an idea!"'
+    narrationBg: bg_adv_19231.jpg
     narrationEffect: in
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 300900
+      id: 300902
       motion: 1
       pos: 1
     nameCenter: Manaka
@@ -225,23 +228,23 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 400
     textCenter: That's it!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 0
     textCenter: I'll add some tomatoes to the sauce to give@it a little more sweetness
       and acidity!
-  - narration: Yes, that's it!
-    narrationBg: bg_adv_21221.jpg
+  - narration: '"Yes, that''s it!"'
+    narrationBg: bg_adv_19231.jpg
     narrationEffect: in
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 200
       pos: 1
     nameCenter: Manaka
@@ -249,13 +252,13 @@ story:
     textCenter: I want that butter to coat each and every@grain of rice!
     turnChangeIn: rollIn
     turnChangeOut: rollOut
-  - narration: All I can say is...brilliant!
-    narrationBg: bg_adv_21221.jpg
+  - narration: '"All I can say is...brilliant!"'
+    narrationBg: bg_adv_19231.jpg
     narrationEffect: in
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 0
       pos: 1
     nameCenter: Manaka
@@ -266,16 +269,16 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 200
     textCenter: Take special care when@you put on the garnish...
-  - narration: It's so beautiful!
-    narrationBg: bg_adv_21221.jpg
+  - narration: '"It''s so beautiful!"'
+    narrationBg: bg_adv_19231.jpg
     narrationEffect: in
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 0
       pos: 1
@@ -287,26 +290,26 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 300
     textCenter: (...9, 8...)
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
     textCenter: (...6, 5…@...3, 2…)
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
-      id: 300900
+      id: 300902
       motion: 100
     textCenter: Everything's all set!@I want it out there in the next 2 minutes!
   - narration: Oui, Chef!
-    narrationBg: bg_adv_21221.jpg
+    narrationBg: bg_adv_19231.jpg
     narrationEffect: in
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm04_movie37
     chara:
     - cheek: 2
@@ -341,7 +344,7 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 300
       pos: 1
@@ -354,23 +357,23 @@ story:
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
       motion: 1
     textCenter: (I wasn't the least bit nervous!)
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       lipSynch: 0
     textCenter: (Because I knew it...)
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
-      id: 300900
+      id: 300902
       motion: 100
     textCenter: (I just knew it would work out like this!)
   - autoTurnLast: 2
     turnChangeIn: fadeIn
-version: 2
+version: 3
 ...

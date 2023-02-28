@@ -125,7 +125,7 @@ story:
     - eyeClose: 0
       id: 402101
       lipSynch: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '...'
   - chara:
     - eyeClose: 0
@@ -257,7 +257,7 @@ story:
       id: 402101
       motion: 0
       pos: 0
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: We need to enter Reims so we can achieve@our final goal.
   - chara:
     - id: 402101
@@ -287,7 +287,7 @@ story:
       pos: 2
       soulGem: 0
     nameRight: Elisa
-    textRight: Yes, we should do as Darc says. Let's go.
+    textRight: Yes, we should do as Tart says. Let's go.
   - chara:
     - id: 101503
       motion: 100

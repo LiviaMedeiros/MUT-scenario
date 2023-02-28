@@ -120,7 +120,7 @@ story:
       id: 402101
       motion: 400
       pos: 2
-    nameRight: Darc
+    nameRight: Tart
     textRight: Oh...
   - chara:
     - cheek: 0
@@ -151,7 +151,7 @@ story:
       id: 402101
       lipSynch: 0
       motion: 300
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '...'
   - chara:
     - cheek: 0
@@ -300,7 +300,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 402301
       motion: 1
-    textRight: Everyone loves Darc.
+    textRight: Everyone loves Tart.
   - chara:
     - id: 402301
     textRight: If someone's in danger, she doesn't hesitate@for a moment.
@@ -379,7 +379,7 @@ story:
   - chara:
     - id: 402100
       lipSynch: 0
-    nameCenter: Darc
+    nameCenter: Tart
     textCenter: '...'
     turnChangeOut: whiteOut
     turnChangeOutTime: 2
@@ -402,7 +402,7 @@ story:
     - id: 402301
       motion: 1
     nameRight: Melissa
-    textRight: Even when I became a Magical Girl, Darc@would...
+    textRight: Even when I became a Magical Girl, Tart@would...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -461,7 +461,7 @@ story:
       and company.
   - chara:
     - id: 402301
-    textRight: Darc protected us!
+    textRight: Tart protected us!
   - autoTurnLast: 0.01
     bg: bg_adv_20112.jpg
     chara:
@@ -543,7 +543,7 @@ story:
     surround: 4025A07
     turnChangeIn: whiteIn
   - nameNarration: Melissa
-    narration: ― Melissa ―@Darc...
+    narration: ― Melissa ―@Tart...
     narrationAnchor: bottom
     narrationBg: narration
     narrationCoverOpacity: 110
@@ -552,8 +552,8 @@ story:
     narrationLineMargin: 35
     narrationLineSpace: 20
     turnChangeOut: whiteOut
-  - nameNarration: Darc
-    narration: ― Darc ―@I'm glad you're safe...
+  - nameNarration: Tart
+    narration: ― Tart ―@I'm glad you're safe...
   - autoTurnLast: 0.01
     narrationEffect: out
     turnChangeIn: fadeIn
@@ -567,7 +567,7 @@ story:
   - nameNarration: Melissa
     narration: '"It was right then and there...@That was when I became a Magical Girl."'
     narrationBg: bg_adv_narration.jpg
-  - narration: '"I wished so that Darc, who had thrown@her body in front of enemy
+  - narration: '"I wished so that Tart, who had thrown@her body in front of enemy
       fire to save me,@and my father would both be healed."'
   - autoTurnLast: 0.01
     item:

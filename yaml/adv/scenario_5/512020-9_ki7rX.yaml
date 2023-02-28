@@ -12,7 +12,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -21,7 +21,7 @@ story:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -30,15 +30,15 @@ story:
     flashEffect: explosion
     textClear: 1
   - chara:
-    - id: 100701
-    - id: 101403
+    - id: 100770
+    - id: 101471
     nameCenter: Touka & Nemu
     textCenter: '...'
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       motion: 100
     nameRight: Nemu
     textRight: '...Hm...?'
@@ -46,41 +46,41 @@ story:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       motion: 400
     nameLeft: Touka
     textLeft: Unyaa?! This is...huh?
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
     textLeft: We...
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: Were sleeping...?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       lipSynch: 0
       motion: 300
     nameRight: Nemu
     textRight: '...'
   - bgm: bgm03_story07
     chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: Kuu, Mii... Magical Girl of the future...
   - chara:
-    - id: 100701
+    - id: 100770
       lipSynch: 0
       motion: 0
     nameLeft: Touka
-    textLeft: '[chara:100701:effect_emotion_surprise_0][se:7226_shock]...?!'
+    textLeft: '[chara:100770:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       motion: 201
     nameLeft: Touka
     textLeft: There's no way that was a dream!
@@ -88,7 +88,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -96,7 +96,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -104,42 +104,42 @@ story:
       pos: 2
     turnChangeIn: fadeIn
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameRight: Nemu
     textRight: Touka, how much do you remember?
     turnChangeOut: fadeOut
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
     textLeft: In the future world, we met a single Magical Girl...
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     nameLeft: Touka
     textLeft: And then we tried to peek into that girl's far@future!
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
     nameRight: Nemu
     textRight: Then it's the same as me. Though...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       motion: 0
     nameRight: Nemu
     textRight: The last thing we saw was...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       motion: 300
     nameLeft: Touka
     textLeft: '...Yeah...'
   - chara:
-    - id: 100701
-    - id: 101403
+    - id: 100770
+    - id: 101471
     nameCenter: Touka & Nemu
     textCenter: '...'
   - autoTurnLast: 0.5
@@ -189,7 +189,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -197,7 +197,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -207,25 +207,25 @@ story:
     turnChangeInTime: 2
     turnEffect: stop
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 0
     nameLeft: Touka
     textLeft: '...Do you remember that part?'
     turnChangeOut: whiteOut
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: '...Yeah.'
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: We saw up to the last single page.
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: But...
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 400
     nameLeft: Touka
     textLeft: The last page was...pure white, wasn't it?
@@ -244,7 +244,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -252,7 +252,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -262,107 +262,107 @@ story:
     turnChangeInTime: 2
     turnEffect: stop
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: But...as far as I remember...
     turnChangeOut: whiteOut
     turnChangeOutTime: 2
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: What I felt from that page was a feeling of@happiness...
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameRight: Nemu
     textRight: '...I remember that much...'
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 400
     nameLeft: Touka
     textLeft: Me too...
   - chara:
-    - id: 101403
+    - id: 101471
       lipSynch: 0
       motion: 300
     nameRight: Nemu
     textRight: '...'
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 0
     nameLeft: Touka
     textLeft: It is okay...to put our faith in it?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
     nameRight: Nemu
     textRight: '...That''s the reason we''re working so hard now'
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameRight: Nemu
     textRight: Together with Ui and Iroha.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
     nameRight: Nemu
     textRight: Am I wrong...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
     nameLeft: Touka
     textLeft: Ah...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 200
     nameLeft: Touka
     textLeft: You're right!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       lipSynch: 0
       motion: 1
     nameRight: Nemu
     textRight: '...'
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 0
-    - id: 100701
+    - id: 100770
       motion: 1
     nameRight: Nemu
     textRight: Perhaps that mysterious diary...
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: Had no intention to show us...
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: The last page...
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
     nameRight: Nemu
     textRight: What was written on there...
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: Was the ending of a story of one Magical Girl...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       motion: 100
     nameLeft: Touka
     textLeft: '...Why?'
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 0
     nameRight: Nemu
     textRight: It's the same as before when a blank page@appeared.
@@ -401,7 +401,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -409,7 +409,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -421,45 +421,45 @@ story:
     turnChangeIn: fadeIn
     turnEffect: stop
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 201
     nameLeft: Touka
     textLeft: Ahh!
     turnChangeOut: fadeOut
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameRight: Nemu
     textRight: '...Seems you figured it out.'
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       motion: 200
     nameLeft: Touka
     textLeft: Of course!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       motion: 1
-    - id: 101403
+    - id: 101471
       motion: 0
     nameLeft: Touka
     textLeft: A future that will continue to be happy was@written in the diary.
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
     textLeft: Though whether it will actually conclude with a@happy ending...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       motion: 200
     nameRight: Nemu
     textRight: Yes.
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
     textRight: Doesn't it mean that...everything from here on@depends on us?
   - autoTurnLast: 2

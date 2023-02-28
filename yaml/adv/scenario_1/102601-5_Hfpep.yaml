@@ -41,12 +41,12 @@ story:
       motion: 300
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-3
     nameRight: Hagumu
-    textRight: It gets so noisy around election time,@doesn't it...
+    textRight: It gets so noisy around election time,@doesn't it...?
   - chara:
     - id: 103001
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-4
     nameRight: Hagumu
-    textRight: I'm happy that the eastern candidates are@doing well, though...
+    textRight: I'm happy that the Eastern candidates@are doing well, though...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
@@ -55,7 +55,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-5
     nameLeft: Shigure
-    textLeft: The times are changing, so it'd be nice@if the elections would make
+    textLeft: The times are changing, so it'd be nice if the@elections would make
       some progress, too...
   - chara:
     - cheek: 0
@@ -69,7 +69,7 @@ story:
   - autoTurnLast: 3
     enableSkipAutoTurn: 1
     nameNarration: ""
-    narration: ～～♪～～♪
+    narration: ~~♪~~♪
     narrationBg: ""
     narrationEffect: in
     surround: 7105_telphone
@@ -84,7 +84,7 @@ story:
     nameRight: Hagumu
     narrationEffect: out
     surround: stop
-    textRight: Wa, ah, it's Himena.
+    textRight: Wah, ah, it's Himena.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -113,7 +113,8 @@ story:
     - id: 102801
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-10
     nameRight: Himena
-    textRight: Yaho, how's Suitoku Temple looking?@Find any Union coming and going?
+    textRight: Yo there, how's Suitoku Temple looking?@Find any Union peeps coming
+      and going?
     turnChangeOut: rollOutFast
   - chara:
     - id: 103001
@@ -130,13 +131,13 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-12
     nameLeft: Shigure
-    textLeft: Yeah, even when we try detecting any nearby@magic, there's no reactions.
+    textLeft: Yeah, even when we try detecting for@nearby magic, there're no reactions.
   - chara:
     - id: 102901
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-13
     nameLeft: Shigure
-    textLeft: Maybe the talks about Union cutting their@ties with Tokime... Were true
-      after all...
+    textLeft: Maybe the talks about the Union cutting their@ties with the Tokime...were
+      true after all...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -154,15 +155,15 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-15
     nameRight: Himena
-    textRight: Mmm honestly maybe a little~
+    textRight: Mmm, honestly maybe a little~
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 102801
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-16
     nameRight: Himena
-    textRight: This cutie just talked to the feathers,@but it seems they're losing
-      contact with them.
+    textRight: This cutie just talked to the Feathers, but it@seems they really have
+      dropped contact.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -177,7 +178,7 @@ story:
       motion: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-18
     nameRight: Himena
-    textRight: Yeah, Union and Tokime really did like@cut their ties.
+    textRight: Yeah, the Union and Tokime really@did cut their ties for real.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -217,7 +218,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-21
     nameLeft: Himena
-    textLeft: Sup, did you finish all your investigating,@Sasha?
+    textLeft: Sup, Sasha! Did you finish all your investigating?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -226,7 +227,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-22
     nameRight: Alexandra
-    textRight: I did finish, but I think the results@come to the same conclusion.
+    textRight: I did, but I think I just got the@same answer as everyone else.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -235,7 +236,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-23
     nameRight: Alexandra
-    textRight: Union and Tokime aren't working together♪
+    textRight: The Union and Tokime aren't working together♪
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -244,12 +245,12 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-24
     nameLeft: Himena
-    textLeft: We just like got all the proof,@and we're totally O and K!
+    textLeft: We just got like all the proof,@and we're totally a-okay!
   - chara:
     - id: 102801
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-25
     nameLeft: Himena
-    textLeft: Even if they want to hide it,@they have to show it eventually.
+    textLeft: Even if they wanted to hide it,@they'd have to show eventually.
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -278,7 +279,7 @@ story:
     - id: 103501
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-28
     nameRight: Alexandra
-    textRight: This may also be in our favor,
+    textRight: Things may be going in our favor,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -289,7 +290,7 @@ story:
       face: mtn_ex_050.exp3.json
       id: 102801
     nameRight: Alexandra
-    textRight: But we still need to pay attention@to our surroundings♪
+    textRight: but we still need to pay attention@to our surroundings♪
   - autoTurnLast: 0.2
     chara:
     - eyeClose: 1
@@ -316,7 +317,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-31
     nameRight: Alexandra
-    textRight: Yeah, is it okay?
+    textRight: Yeah, is that okay?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -325,7 +326,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-32
     nameLeft: Himena
-    textLeft: Well, for now isn't it fine?@Let's ask my BF.
+    textLeft: Well, for now isn't it fine?@Lemme ask my bae.
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -334,33 +335,33 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-33
     nameLeft: Himena
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - id: 103501
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-34
     nameRight: Alexandra
-    textRight: '.....'
+    textRight: '...'
   - chara:
     - eyeClose: 0
       id: 102801
       motion: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-35
     nameLeft: Himena
-    textLeft: Just like how we're after Tokime,
+    textLeft: Just as we're after the Tokime,
   - chara:
     - id: 102801
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-36
     nameLeft: Himena
-    textLeft: whoever's over there must be aiming@for this cutie.
+    textLeft: whoever's over there must@be aiming for this cutie.
   - chara:
     - id: 102801
       motion: 200
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-37
     nameLeft: Himena
     textLeft: Man, we drop one arm, and they want to@sell us every ounce of fight
-      they got.
+      they've got.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -378,7 +379,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-39
     nameLeft: Himena
-    textLeft: Tanks★
+    textLeft: Thankies★
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -386,7 +387,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-40
     nameLeft: Himena
-    textLeft: By the way, there's one other thing the BF said@that's bugging me.
+    textLeft: By the way, there's one other thing@my bae said that's bugging me.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp3.json
@@ -432,7 +433,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-46
     nameRight: Alexandra
-    textRight: Maybe the scent got all over me while I was@checking out Minaminagi♪
+    textRight: Maybe the scent got all over me while@I was checking out Minaminagi♪
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -460,7 +461,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-49
     nameLeft: Himena
-    textLeft: '.....'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp3.json
@@ -484,7 +485,7 @@ story:
       lipSynch: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-52
     nameLeft: Himena
-    textLeft: (When she went to Takarazaki to recruit@the instructor and Miyuri...)
+    textLeft: (When we went to Takarazaki to@recruit the Instructor and Miyuri...)
   - chara:
     - cheek: 0
       id: 102801
@@ -493,7 +494,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-5-53
     nameLeft: Himena
-    textLeft: (What did Sasha do in her hometown that@she wasn't able to finish...?)
+    textLeft: (What did Sasha go do in her hometown@that she wasn't able to finish...?)
   - bgm: stop
     chara:
     - cheek: 0

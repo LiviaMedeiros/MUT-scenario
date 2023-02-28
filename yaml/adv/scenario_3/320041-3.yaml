@@ -39,7 +39,7 @@ story:
   - chara:
     - id: 300301
       motion: 400
-    textLeft: 'For instance, if we use this blacklight...@ '
+    textLeft: For instance, if we use this blacklight...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -137,7 +137,7 @@ story:
   - chara:
     - id: 300301
       motion: 0
-    textLeft: That's possible, but since there aren't any @other suspicious ones...
+    textLeft: That's possible, but since there aren't any@other suspicious ones...
   - chara:
     - id: 300301
       mouthOpen: 1
@@ -167,7 +167,7 @@ story:
     textLeft: Hmm? What's up?
   - chara:
     - id: 200401
-    textRight: Look at these prints... They stretch to way @over there.
+    textRight: Look at these prints... They stretch to way@over there.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

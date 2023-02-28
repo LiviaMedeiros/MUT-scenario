@@ -56,8 +56,8 @@ story:
       motion: 400
       pos: 0
     nameLeft: Himika
-    textLeft: I'm going to stick this white flower[chara:302001:lipSynch_0][wait:0.8][chara:302001:eyeClose_1]
-      into@the water and say the magic words.[chara:302001:lipSynch_1]
+    textLeft: I'm going to stick this white flower...@[chara:302001:lipSynch_0][wait:0.8][chara:302001:eyeClose_1]into
+      the water and say the magic words.[chara:302001:lipSynch_1]
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -162,7 +162,7 @@ story:
     textLeft: You don't have to be a Magical Girl to@learn this magic.
     turnEffect: ef_adv_02
   - autoTurnLast: 0.1
-    bg: bg_adv_21241.jpg
+    bg: bg_adv_11101.jpg
     surround: stop
     turnChangeIn: fadeIn
     turnEffect: stop

@@ -115,7 +115,7 @@ story:
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
   - autoTurnLast: 0.5
-    bg: bg_adv_21041.jpg
+    bg: bg_adv_21401.jpg
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

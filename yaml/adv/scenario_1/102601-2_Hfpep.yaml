@@ -40,7 +40,7 @@ story:
       pos: 1
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-2-3
     nameCenter: Himena
-    textCenter: Fo' now, something like that.
+    textCenter: For the mo', something like that.
   - autoTurnLast: 0.2
     chara:
     - id: 102801
@@ -73,17 +73,17 @@ story:
     - id: 810000
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-2-6
     nameRight: Kyubey
-    textRight: If you can get all of the [textYellow:Kimochi] stones,
+    textRight: If you can get all of the [textYellow:Kimochi] Stones,
   - chara:
     - id: 810000
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-2-7
     nameRight: Kyubey
-    textRight: And get the Automatic Purification@System under control,
+    textRight: and get the Automatic Purification@System under control,
   - chara:
     - id: 810000
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-2-8
     nameRight: Kyubey
-    textRight: It should not be impossible.
+    textRight: it should not be impossible.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -92,7 +92,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-2-9
     nameLeft: Himena
-    textLeft: So we just need to figure it out,@then we're O and K!
+    textLeft: So we just need to figure it out,@then we're a-okay!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
@@ -101,7 +101,7 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-2-10
     nameLeft: Himena
-    textLeft: This plan's going to need some men,@so maybe we'll grab Tokime~
+    textLeft: This plan's going to need some more hands,@so maybe we'll grab the Tokime~
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp3.json
@@ -119,7 +119,7 @@ story:
       pos: 2
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-2-12
     nameRight: Miyuri
-    textRight: How was it, how was it?@What you felt about what Kyubey told you!
+    textRight: How was it, how was it?@How'd your talk with Kyubey go?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
@@ -128,13 +128,12 @@ story:
       pos: 0
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-2-13
     nameLeft: Himena
-    textLeft: It felt great★
+    textLeft: It's all looking good★
   - chara:
     - id: 102801
       voiceFullAuto: fullvoice/section_102601/vo_full_102601-2-14
     nameLeft: Himena
-    textLeft: Nothing is stopping us cuties from@making progress towards becoming
-      gods.
+    textLeft: Nothing is stopping us cuties@from our path to becoming gods.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

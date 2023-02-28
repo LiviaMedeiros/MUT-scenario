@@ -226,7 +226,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 800100
-    textLeft: You probably angered our god, not got @attacked.
+    textLeft: Rather than getting attacked, @you probably angered our god.
   - chara:
     - id: 800100
     textLeft: Because you entered without permission...

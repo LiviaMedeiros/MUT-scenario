@@ -109,7 +109,8 @@ story:
     textRight: Sure.
   - autoTurnLast: 2
     item:
-    - path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
+    - iPhoneXScale: 1
+      path: resource/scenario/img/51030_fishing_homura/51030_homura_dairy.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -140,9 +141,10 @@ story:
   - narration: 　
   - narration: 　
   - narration: 　
-  - narration: 'I''ll secretly write their names down here:'
   - narration: Ui Tamaki@Touka Satomi@Nemu Hiiragi
   - narration: And...@The older girl who waited for us,@Iroha Tamaki.
+  - narration: '| That is how I came to live in@this fictional version of Kamihama,@within
+      Nemu''s notebook pages. |'
   - autoTurnLast: 1
     bg: bg_adv_19092.jpg
     item:
@@ -163,13 +165,12 @@ story:
       zOrder: bgFront
     autoTurnLast: 0.2
   - nameNarration: Eternal Sakura
-    narration: '| That is how I came to live in@this fictional version of Kamihama,@within
-      Nemu''s notebook pages. |'
+    narration: '| That was the beginning.@I wasn''t fully conscious yet,@for I was
+      just a story. |'
     narrationBg: ""
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: '| That was the beginning.@I wasn''t fully conscious yet,@for I was
-      just a story. |'
+  - narration: ""
   - autoTurnLast: 2
     deleteArmatureList:
     - 1

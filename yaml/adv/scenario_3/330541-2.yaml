@@ -61,7 +61,7 @@ story:
     turnEffect: stop
   - nameNarration: Mitsune
     narration: Jun and I became friends after she@saved me from a Witch...@And the
-      days that followed were sparkling...
+      days that followed were radiant...
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -333,7 +333,7 @@ story:
     - id: 305101
       motion: 200
     nameCenter: Jun
-    textCenter: Don't cry like that... Since it's you, you'll be@alright.
+    textCenter: Don't cry like that... Knowing you, you'll be@alright.
     turnChangeOut: fadeOut
   - chara:
     - id: 305101

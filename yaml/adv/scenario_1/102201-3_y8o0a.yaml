@@ -109,7 +109,7 @@ story:
     - id: 300301
       voiceFull: fullvoice/section_102201/vo_full_102201-3-9
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-8
-    textRight: Drug development also takes months or@years until proper implementation.
+    textRight: Medicinal development also takes months@or years until proper implementation.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -193,7 +193,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-3-18
       voiceFullStop: fullvoice/section_102201/vo_full_102201-3-17
-    textRight: I can't seem to tell either after being@separated from the main body...
+    textRight: After being separated from the main body,@I can't seem to tell either...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

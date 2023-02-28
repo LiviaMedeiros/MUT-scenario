@@ -28,7 +28,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 402100
       motion: 201
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: '*Sigh* We made it through somehow!'
   - chara:
     - cheek: 0
@@ -187,8 +187,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 402100
-    nameRight: Darc
-    textRight: Please call me Darc!
+    nameRight: Tart
+    textRight: Please call me Tart!
   - autoTurnLast: 1
     turnChangeIn: fadeIn
   - nameNarration: Ui
@@ -197,7 +197,7 @@ story:
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: Did my sister...
-  - narration: '...meet Darc?'
+  - narration: '...meet Tart?'
   - autoTurnLast: 1
     bg: bg_adv_20102.jpg
     chara:
@@ -216,7 +216,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 402101
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: 'And Monsieur Angel told me... '
     turnChangeOut: fadeOut
   - chara:
@@ -313,7 +313,7 @@ story:
     textRight: I see. Now I understand!
     turnChangeOut: whiteOut
   - textRight: To put it simply...
-  - textRight: This world is Darc's dream!
+  - textRight: This world is Tart's dream!
   - autoTurnLast: 1
     turnChangeIn: fadeIn
   - nameNarration: Ui
@@ -321,7 +321,7 @@ story:
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: '...to save Darc from being trapped@inside her own dream?'
+  - narration: '...to save Tart from being trapped@inside her own dream?'
   - autoTurnLast: 1
     bg: bg_adv_20101.jpg
     chara:
@@ -373,13 +373,13 @@ story:
     - id: 402200
       motion: 1
     nameRight: Liz
-    textRight: Darc, head to Orléans! You're looking for@the Cathedral of the Holy
+    textRight: Tart, head to Orléans! You're looking for@the Cathedral of the Holy
       Cross.
     turnChangeOut: whiteOut
   - chara:
     - id: 402100
       motion: 201
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: Understood!
   - chara:
     - cheek: 0
@@ -393,7 +393,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Yachiyo
-    textLeft: Let's run, Iroha! We'll cover Darc!
+    textLeft: Let's run, Iroha! We'll cover Tart!
   - chara:
     - id: 100100
       motion: 200
@@ -416,7 +416,7 @@ story:
   - chara:
     - id: 402100
       motion: 1
-    nameLeft: Darc
+    nameLeft: Tart
     textLeft: And I will never...
     turnChangeOut: whiteOut
   - chara:
@@ -427,7 +427,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 100100
       motion: 301
-    textRight: I'll never forget you either, Darc!
+    textRight: I'll never forget you either, Tart!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

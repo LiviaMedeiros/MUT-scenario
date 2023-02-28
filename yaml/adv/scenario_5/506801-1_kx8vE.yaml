@@ -4,20 +4,20 @@ story:
   - bg: bg_adv_50022.jpg
     bgm: stop
     nameNarration: Chiharu
-    narration: I asked about my family on the way there.
+    narration: I asked about my family history on the way there.
     narrationBg: black
     narrationEffect: in
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-  - narration: It seemed that long, long ago, @our Hiroe family @had consisted of
-      people who left Tokime Village.
-  - narration: And females in the Hiroe family had been told @to be wary of the Tokime
-      Clan.
-  - narration: Apparently, my mom had been frightened while on the phone @because
-      the Tokime head family had gotten hold of our address, @and because the legends
-      had been true all along.
+  - narration: It seems that long, long ago, @the Hiroe family was formed by people
+      @who left Tokime Village.
+  - narration: And that females in the Hiroe family had been @told to be wary of the
+      Tokime Clan.
+  - narration: Apparently, the phone call had frightened @my mom because the Tokime
+      head family @had gotten a hold of our address, proving @that the legends had
+      been true all along.
   - narration: The whole thing certainly does feel mysterious.
-  - narration: They say we moved out of the village generations ago, @and I have no
+  - narration: They say we moved out of the village generations ago, @so I have no
       idea why we were summoned.
   - narration: But despite all that, @I felt as if our feet had just naturally carried
       us @to this little recess in the mountains.
@@ -48,7 +48,7 @@ story:
   - chara:
     - id: 102601
       motion: 200
-    textCenter: Every time I take a breath, my lungs feel that much cleaner—!
+    textCenter: Every time I take a breath, my lungs feel that much @cleaner—!
   - autoTurnLast: 0.2
     chara:
     - id: 102601

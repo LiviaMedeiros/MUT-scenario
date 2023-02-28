@@ -142,7 +142,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Hinano
-    textRight: I see... Then I'll give you this to congratulate@your growth.
+    textRight: I see... Then I'll give you this to congratulate@you on your growth.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -525,7 +525,7 @@ story:
     - id: 305401
       motion: 300
     nameCenter: Mitsune
-    textCenter: Because it's not cool at all...
+    textCenter: Because this isn't cold at all...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

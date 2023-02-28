@@ -89,7 +89,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 303101
-    textLeft: Eh... Are you sure?
+    textLeft: Oh... Are you sure?
   - chara:
     - id: 302501
       motion: 200
@@ -115,7 +115,7 @@ story:
   - chara:
     - id: 303101
       motion: 100
-    textLeft: Okay then, we'll meet up here@after we're done buying!
+    textLeft: Okay then, we'll meet up here@after we're done!
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -143,7 +143,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 303101
       lipSynch: 0
-    textCenter: (...If I had bought both the drinks and tickets...)
+    textCenter: (...If I was buying both the drinks and tickets...)
   - chara:
     - id: 303101
       lipSynch: 0
@@ -320,7 +320,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 303101
       lipSynch: 1
-    textCenter: Hmm～
+    textCenter: Hmm~
     turnEffect: stop
   - chara:
     - cheek: 0
@@ -349,7 +349,7 @@ story:
       lipSynch: 1
       motion: 100
     nameLeft: Rika
-    textLeft: Nono, I wasn't waiting at all, y'know?@I just got back here too.
+    textLeft: No no, I wasn't waiting at all, y'know?@I just got back here too.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -374,9 +374,9 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story05
     nameNarration: Rika
-    narration: The protagonist in the movie@"The Classroom Dyed Madder Red"@that I
-      saw with Ren was about a high school girl@who was gentle and earnest, but also
-      clumsy@and bad at talking to people.
+    narration: The movie "The Classroom Dyed Madder Red"@that I saw with Ren was about
+      a high school girl@who was gentle and earnest, but also clumsy@and bad at talking
+      to people.
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -419,11 +419,11 @@ story:
     textLeft: Haa... That was super good...!
   - chara:
     - id: 303101
-    textLeft: The main couple was good,@and I cried a lot in that one scene～!
+    textLeft: The main couple was good,@and I cried a lot during that one scene~!
   - chara:
     - id: 303101
       motion: 400
-    textLeft: The one where her childhood friend helped her@for her sake.
+    textLeft: The one where her childhood friend helped her.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
