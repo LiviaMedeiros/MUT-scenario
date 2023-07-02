@@ -28,6 +28,7 @@ story:
     voiceFull: fullvoice/section_101604/vo_full_101604-3-3
     voiceFullStop: fullvoice/section_101604/vo_full_101604-3-2
   - autoTurnLast: 0.01
+    bg: bg_adv_47112.jpg
     chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -40,16 +41,18 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
     voiceFullStop: fullvoice/section_101604/vo_full_101604-3-3
-  - bg: bg_adv_46104.jpg
+  - autoTurnLast: 0.5
     bgm: bgm01_anime15
     chara:
-    - id: 6104
+    - id: 6112
       name: sprite_0
       pos: 0
-    nameLeft: ""
+    nameLeft: Yachiyo
     nameRight: Iroha
-    textLeft: '[flashEffect:flashWhite2][bgEffect:shakeLarge]...!!!'
     turnChangeOut: fadeOut
+  - autoTurnLast: 0.7
+    bgEffect: shakeLarge
+    flashEffect: flashWhite2
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
@@ -146,13 +149,19 @@ story:
       voiceFullStop: fullvoice/section_101604/vo_full_101604-3-14
     nameRight: Iroha
     textRight: Yes!
-  - chara:
-    - id: 7104
+  - autoTurnLast: 0.2
+    chara:
+    - effect: fadeout
+      id: 100600
+    textClear: 1
+    voiceFullStop: fullvoice/section_101604/vo_full_101604-3-15
+  - autoTurnLast: 0.1
+    chara:
+    - id: 7112
       name: sprite_0
       pos: 0
-    nameLeft: ""
-    textLeft: 菫ｗｐ＊斬翫Лｑ!!
-    voiceFullStop: fullvoice/section_101604/vo_full_101604-3-15
+  - autoTurnLast: 0.5
+    bgEffect: shakeSmall
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

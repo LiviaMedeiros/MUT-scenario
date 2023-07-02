@@ -110,7 +110,7 @@ story:
       pos: 0
     narration: '"Merry Christmas of Death!"'
   - autoTurnLast: 0.01
-    bg: bg_adv_21025.jpg
+    bg: bg_adv_21491.jpg
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -307,7 +307,7 @@ story:
     textLeft: I, Alina, shall be going now.
   - nameNarration: ""
     narration: '*Thump*'
-    narrationBg: bg_adv_21025.jpg
+    narrationBg: bg_adv_21491.jpg
     narrationEffect: in
   - chara:
     - cheek: 0
@@ -332,7 +332,7 @@ story:
       id: 100801
     nameNarration: ""
     narration: '*Clatter*'
-    narrationBg: bg_adv_21025.jpg
+    narrationBg: bg_adv_21491.jpg
     narrationEffect: in
   - chara:
     - id: 101201

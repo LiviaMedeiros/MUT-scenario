@@ -82,7 +82,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300801
       mouthOpen: 0
-    textLeft: I survived thanks to Meiyui.@　
+    textLeft: I survived thanks to Meiyui.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

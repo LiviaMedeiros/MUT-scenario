@@ -9,7 +9,7 @@ story:
     narrationEffect: in
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-  - bg: bg_adv_21025.jpg
+  - bg: bg_adv_21491.jpg
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -171,7 +171,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 300101
       motion: 300
-    textLeft: I wouldn't want you to have any regrets... @I could just make some small—
+    textLeft: I wouldn't want you to have any regrets...@I could just make some small—
   - chara:
     - cheek: 0
       face: mtn_ex_022.exp.json
@@ -259,7 +259,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 300301
       lipSynch: 0
-    textLeft: (I have plenty of experience with kids all @the time during my workshops...)
+    textLeft: (I have plenty of experience with kids all@the time during my workshops...)
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -316,7 +316,7 @@ story:
     textRight: Thanks so much!
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51006_halloween/memoria_1133.png
+    - path: resource/scenario/img/51006_halloween/memoria_1133.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -327,9 +327,9 @@ story:
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
-    narrationFontSize: 28
+    narrationFontSize: 30
     narrationLineMargin: 35
-    narrationLineSpace: 10
+    narrationLineSpace: 20
     turnChangeOut: fadeOut
   - narration: ―Kyoko―@Pathetic knight! You've meddled@in our affairs for too long!
   - narration: ―Kyoko―@Now this is what you call@fightin' a losing battle.
@@ -356,7 +356,7 @@ story:
     narration: ―Karin―@Look it up in the dictionary, then!
   - autoTurnLast: 0.01
     item:
-    - path: resource/scenario/img/51006_halloween/memoria_1133.png
+    - path: resource/scenario/img/51006_halloween/memoria_1133.jpg
       visible: hide
     narrationEffect: out
     turnChangeIn: fadeIn

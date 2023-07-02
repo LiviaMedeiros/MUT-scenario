@@ -31,7 +31,7 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 770081
-    nameRight: Torayamachi Girl
+    nameRight: ""
     textRight: Yeah, thanks... @That helps...
   - chara:
     - cheek: 0
@@ -41,13 +41,13 @@ story:
       motion: 300
       pos: 0
     nameLeft: Yuna
-    textLeft: '...[wait:0.8][chara:102102:lipSynch_1]I''m glad you made it back...
-      Thanks for that.'
+    textLeft: '...[wait:0.8][chara:102102:lipSynch_1]I''m glad that you made it back...
+      @Thank you so much.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770081
-    textRight: I heard you went through a rough patch too...
+    textRight: I heard you went through a rough patch, too...
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -58,7 +58,7 @@ story:
     - eyeClose: 0
       id: 102102
       motion: 0
-    textLeft: Everyone that's here now is all that's left of @Torayamachi.
+    textLeft: Everyone gathered here now is all that remains of @Torayamachi.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -70,7 +70,7 @@ story:
   - chara:
     - id: 770081
       lipSynch: 0
-    textRight: '......'
+    textRight: '...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -90,14 +90,14 @@ story:
       motion: 0
       pos: 2
     nameLeft: Hikaru
-    textLeft: So, what did you call us over for? You sounded like @you were in a hurry
-      on the phone.
+    textLeft: So, what'd you call us over for? You sounded like @you were in a hurry
+      over the phone.
   - chara:
     - id: 302100
       motion: 200
     nameRight: Sakuya
-    textRight: It's obvious that there'll be a big commotion if this @girl just shows
-      up at home after all this time.
+    textRight: There'll obviously be a big commotion if this @girl just shows up at
+      home after all this time.
   - chara:
     - id: 302100
     textRight: And she'll probably end up in the hospital for a while.
@@ -118,30 +118,30 @@ story:
       id: 770081
       motion: 0
       pos: 2
-    nameRight: Torayamachi Girl
-    textRight: My phone broke and I ran out of money.
+    nameRight: ""
+    textRight: My phone broke and I ran out of funds.
   - chara:
     - id: 770081
-    textRight: The police wouldn't lend me any money, and @strangers are scary.
+    textRight: The cops wouldn't lend me any money, and @strangers are scary.
   - chara:
     - id: 770081
     textRight: I got into so much trouble...
   - chara:
     - id: 770081
-    textRight: I even thought about getting myself on the news so I could be taken
+    textRight: I even thought about getting myself on the news so I could get taken
       home in a police car.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770081
-    textRight: It doesn't matter right now... There's something @more important I
-      have to tell you.
+    textRight: That doesn't matter right now, though... @There's something more important
+      I have to tell you.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 200
-    textLeft: You mean... you found out...
+    textLeft: You mean...you found out...
   - chara:
     - id: 770081
     textRight: Yes...
@@ -168,17 +168,17 @@ story:
       face: mtn_ex_050.exp.json
       id: 102102
       motion: 0
-    textLeft: What's... with that outfit...?
+    textLeft: What's...with that outfit...?
   - chara:
     - id: 715001
       motion: 300
-    textRight: While I was chasing that witch, I ended up in a city called Kamihama.
+    textRight: While I was chasing that Witch, I ended up in a city called Kamihama.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102102
       motion: 1
-    textLeft: That's that new city that suffered a huge disaster recently, right...?
+    textLeft: That's that booming city that suffered a huge @disaster recently, right...?
   - chara:
     - id: 715001
       motion: 0
@@ -187,8 +187,8 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 715001
-    textRight: There was an organization in the city called the Wings of Magius, and
-      they wore robes like this...
+    textRight: There was an organization in the city called the @Wings of the Magius,
+      and they wore robes like this...
   - chara:
     - id: 102102
     textLeft: An organization...?
@@ -201,7 +201,7 @@ story:
       id: 102102
       lipSynch: 0
       motion: 400
-    textLeft: '......!?'
+    textLeft: —?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -221,44 +221,44 @@ story:
   - chara:
     - id: 715001
       motion: 200
-    nameNarration: Torayamachi Girl
-    narration: Their objective was the release of Magical Girls. In other @words,
-      to save them from their fate of becoming witches.
+    nameNarration: ""
+    narration: '"Their objective was the liberation of Magical Girls. @In other words,
+      to save them from their fate @of becoming Witches."'
     narrationEffect: in
     turnChangeOut: fadeOut
   - chara:
     - id: 715001
-    narration: To do that, they protected the Rumors of the city and @captured witches.
+    narration: '"To do that, they protected the Rumors of the city and @captured Witches."'
   - chara:
     - id: 715001
       motion: 300
-    narration: No one used a single Grief Seed there.
+    narration: '"No one used a single Grief Seed there,"'
   - chara:
     - id: 715001
       motion: 0
-    narration: But, instead of transforming to witches, they were able to @summon
-      what was called a Doppel.
+    narration: '"but instead of turning into Witches, they were able to @summon what
+      was called a "Doppel"."'
   - chara:
     - id: 715001
       motion: 400
-    narration: The city had become heaven on earth for Magical Girls. @There, you
-      never turn into a witch, @even if you don't fight them.
+    narration: '"The city had become a haven for Magical Girls, @where you''ll never
+      turn into a Witch, @even if you don''t fight any."'
   - chara:
     - id: 715001
       motion: 0
-    narration: I joined the group as a Black Feather, one of the low-level @members,
-      so I wasn't told exactly how everything worked. I @was just a pawn for the sake
-      of the release of Magical Girls.
+    narration: '"I joined the group as a Black Feather, one of the @low-level members,
+      so I wasn''t told exactly how everything @worked. I was just a pawn for the
+      sake of liberation."'
   - chara:
     - id: 715001
       motion: 300
-    narration: I didn't learn the truth until the day Eve went out of control @and
-      Walpurgisnacht arrived in the city, which caused the @disaster you mentioned.
+    narration: '"I didn''t find out until the day that Eve went out of @control and
+      Walpurgisnacht arrived in the city, which @caused the disaster you mentioned."'
   - chara:
     - id: 715001
       motion: 0
-    narration: After that, the Magius fell apart, and all their secrets were @revealed.
-      That was when I learned the truth...
+    narration: '"After that, the Magius fell apart, and all of their secrets were
+      @revealed. That was when I learned the truth..."'
   - autoTurnLast: 0.2
     bg: bg_adv_21141.jpg
     chara:
@@ -272,8 +272,8 @@ story:
   - chara:
     - id: 715001
       motion: 200
-    nameCenter: Torayamachi Girl
-    textCenter: For the sake of their release, they lured witches to @the city from
+    nameCenter: ""
+    textCenter: For the sake of their salvation, they lured Witches @to the city from
       all across the country!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.2
@@ -298,7 +298,7 @@ story:
       id: 102300
       motion: 400
       pos: 2
-    textLeft: '......!?'
+    textLeft: '*Gasp*?!'
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -319,7 +319,7 @@ story:
   - chara:
     - id: 715001
       motion: 200
-    textCenter: They were just thoughtlessly gathering witches for themselves!
+    textCenter: They were just thoughtlessly gathering Witches for themselves!
   - autoTurnLast: 0.2
     chara:
     - id: 715001
@@ -332,28 +332,28 @@ story:
       motion: 0
       pos: 0
     nameLeft: Ao
-    textLeft: '... The other Magical Girls in the organization, @were they okay with
+    textLeft: '...The other Magical Girls in the organization... @Were they okay with
       that?'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 715001
       motion: 300
-    textRight: The truth had been hidden until the organization collapsed, and everyone
-      working as a Black Feather @was pretty weak.
+    textRight: The truth had been hidden until the organization collapsed, and all
+      of the Black Feathers were pretty weak.
   - chara:
     - id: 715001
-    textRight: So I think everyone was focused more on saving themselves than about
-      the other cities...
+    textRight: So I think everyone was focused more on saving themselves than the
+      fate of other cities...
   - chara:
     - id: 715001
       motion: 0
     textRight: Plus, if their system had been successful, it was supposed to spread
-      over every part of the country.
+      across the entire country.
   - chara:
     - id: 715001
-    textRight: Which means all the other Magical Girls would have been saved by the
-      time every member got back to @their hometown...
+    textRight: Which means all the other Magical Girls would've @been saved by the
+      time they got back to their @hometowns...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -364,25 +364,18 @@ story:
     textLeft: So, are things different now...?
   - chara:
     - id: 102200
-    textLeft: The Magical Girls here in Futatsugi City, are we never going to transform
-      into witches...?
+    textLeft: Are we never gonna turn into Witches here @in Futatsugi...?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 715001
       motion: 0
-    textRight: There was another group of Magical Girls in @Kamihama who somehow knew
-      that the system,
-  - chara:
-    - cheek: 0
-      face: mtn_ex_020.exp.json
-      id: 715001
-      motion: 0
-    textRight: would require hundreds of thousands of @human lives to be sacrificed.
+    textRight: The liberation plan was stopped by another group @of Magical Girls
+      who knew the risk
   - chara:
     - id: 715001
-    textRight: To avoid that atrocity from being born, they put a @stop to the release
-      of Magical Girls.
+    textRight: that it would create a horrible Witch and involve hundreds of thousands
+      of casualties.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -390,7 +383,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Sakuya
-    textLeft: That many people died there...? That's a massacre...
+    textLeft: 'THAT many people could''ve died...? That would''ve @been a massacre... '
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -398,24 +391,25 @@ story:
       motion: 300
       pos: 0
     nameLeft: Hikaru
-    textLeft: Was there no way to get around that...?
+    textLeft: Was there no way to get around it...?
   - chara:
     - id: 715001
-    textRight: But that system is still active in Kamihama.
+    textRight: But the system is still active in Kamihama.
   - chara:
     - id: 715001
       motion: 400
     textBg: shout
-    textRight: And we gained nothing for what we'd lost to create @that system!
+    textRight: And we gained NOTHING for what we'd lost to @create it!
   - chara:
     - id: 715001
       motion: 200
     textBg: shout
-    textRight: They destroyed their city and killed so many people @and Magical Girls!
+    textRight: They destroyed their city and sacrificed so many @people and Magical
+      Girls!
   - chara:
     - id: 715001
     textBg: shout
-    textRight: And they're the only ones who benefitted from it!
+    textRight: And they're the ONLY ones who benefitted from it!
   - chara:
     - id: 715001
       motion: 0
@@ -450,7 +444,7 @@ story:
     - id: 715001
       lipSynch: 0
       motion: 400
-    textRight: '......!?'
+    textRight: —?!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -487,15 +481,15 @@ story:
       face: mtn_ex_050.exp.json
       id: 102200
       motion: 200
-    textRight: Y-Yes...
+    textRight: A-aye...
   - chara:
     - id: 102102
-    textLeft: Call Juri out to the Monzen Bridge.
+    textLeft: Call Juri out to Monzenbashi.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102200
-    textRight: B-But Yuna, you're...
+    textRight: B-but Yuna, you're...
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -507,7 +501,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 100
-    textRight: Yes!
+    textRight: Aye!
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -530,13 +524,13 @@ story:
   - chara:
     - id: 102102
       motion: 100
-    textLeft: You go find Kyubey and bring it to me.
+    textLeft: Go find Kyubey and bring it to me.
   - chara:
     - id: 102102
-    textLeft: You said before that you didn't know where it was.
+    textLeft: You said before that you didn't know where it was,
   - chara:
     - id: 102102
-    textLeft: But you should know now.
+    textLeft: but you should know now.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -553,7 +547,7 @@ story:
   - chara:
     - id: 102300
       motion: 400
-    textRight: '....O-Okay, I''ll do that~'
+    textRight: '....O-okay, right away~'
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -573,17 +567,16 @@ story:
     textLeft: Now, I need you to tell me more.
   - chara:
     - id: 102102
-    textLeft: What are the Magical Girls in Kamihama doing @now...?
+    textLeft: What are the Magical Girls in Kamihama doing @at present...?
   - chara:
     - id: 715001
-    nameRight: Torayamachi Girl
-    textRight: The Magius and those that stopped them, @they're both working together
-      now.
+    nameRight: ""
+    textRight: The Magius and the girls who stopped them have started working together.
   - chara:
     - id: 102102
       motion: 100
-    textLeft: They're playing nice with them so they can remain @safe from turning
-      into witches...?
+    textLeft: They're playing nice with each other so that they @can remain safe from
+      turning into Witches...?
   - chara:
     - id: 715001
       motion: 200
@@ -592,7 +585,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 102102
-    textLeft: How idealistic of them.
+    textLeft: How very idealistic.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -601,7 +594,7 @@ story:
       pos: 1
       posX: 40
     nameCenter: Sakuya
-    textCenter: Yuna... are we going to help them do that?
+    textCenter: Yuna... Are we going to help them do that?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -614,13 +607,13 @@ story:
       id: 302100
       lipSynch: 0
       motion: 400
-    textCenter: '......!?'
+    textCenter: —?!
   - autoTurnLast: 0.3
     turnChangeIn: fadeIn
     turnEffect: stop
   - nameNarration: Yuna
-    narration: The voices of the girls we lost... they're echoing @inside my head
-      right now...
+    narration: '"The voices of the girls we lost...are echoing @inside of my head
+      right now..."'
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut

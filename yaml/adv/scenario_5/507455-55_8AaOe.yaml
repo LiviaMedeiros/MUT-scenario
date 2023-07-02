@@ -19,12 +19,12 @@ story:
     chara:
     - id: 102301
     nameRight: Ao
-    textRight: Are you sure it's a good idea for me to come @with you?~
+    textRight: Are you sure it's a good idea for me to come @with you~?
     turnChangeOut: fadeOut
   - chara:
     - id: 102301
       motion: 400
-    textRight: What if they call me a traitor and get super @ticked off?~
+    textRight: What if they call me a traitor and get super @ticked off~?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -33,7 +33,7 @@ story:
     textLeft: Now that Janomiya has joined with Torayamachi,
   - chara:
     - id: 102103
-    textLeft: The fact is that Ryuugasaki is weaker than ever.
+    textLeft: the fact is that Ryuugasaki is weaker than ever.
   - chara:
     - id: 102103
     textLeft: And bringing you is the best way to prove that.
@@ -48,7 +48,7 @@ story:
   - chara:
     - id: 102301
       motion: 300
-    textRight: I'm not sure about that...~
+    textRight: I'm not sure about that~...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -74,7 +74,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 800301
-    nameCenter: Ryuugasaki Girl
+    nameCenter: ""
     textCenter: With things the way they are, I'd be stupid to go @against Torayamachi.
     turnChangeOut: fadeOut
   - chara:
@@ -106,7 +106,7 @@ story:
       motion: 1
       pos: 2
     nameLeft: Yuna
-    textLeft: Thanks. That means a lot to us.
+    textLeft: Thank you. That means a lot to us.
   - autoTurnLast: 0.5
     bg: bg_adv_21131.jpg
     chara:
@@ -118,13 +118,14 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 800101
-    nameCenter: Ryuugasaki Girl
+    nameCenter: ""
     textCenter: You went out of your way to come to me with the @leader of Janomiya,
-      huh? Are you just here to show @off how strong your gang is now?
+      huh?
     turnChangeOut: fadeOut
   - chara:
     - id: 800101
-    textCenter: Talk about poor taste.
+    textCenter: You just here to flex how strong your gang is now? @Talk about poor
+      taste.
   - autoTurnLast: 0.2
     chara:
     - id: 800101
@@ -140,12 +141,12 @@ story:
     textLeft: It's not like we're trying to wipe out Ryuugasaki.
   - chara:
     - id: 102201
-    textLeft: We just think that all of the Magical Girls in Futatsugi should unite
+    textLeft: We just think that all of the Magical Girls in @Futatsugi should unite
       together.
   - chara:
     - id: 800101
-    nameRight: Ryuugasaki Girl
-    textRight: Even if witches have been coming back, they might disappear again.
+    nameRight: ""
+    textRight: Even if Witches have been coming back, they might disappear again.
   - chara:
     - id: 800101
     textRight: I don't want to bet on a short-lived hope that'll just make me suffer
@@ -161,12 +162,13 @@ story:
   - chara:
     - id: 102103
       motion: 0
-    textLeft: But we think that we should at least be able to cooperate for now.
+    textLeft: However, we do believe that we should at least @be able to cooperate
+      for the time being.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 800101
-    textRight: '... maybe you''re right.'
+    textRight: '...Maybe you have a point.'
   - autoTurnLast: 0.5
     bg: bg_adv_21111.jpg
     chara:
@@ -182,7 +184,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 800202
-    textCenter: Because Juri's is as good as finished, and I like you.
+    textCenter: Because Juri's is good as finished, and I like you.
   - autoTurnLast: 0.2
     chara:
     - id: 800202
@@ -195,7 +197,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Ao
-    textLeft: You like me?~
+    textLeft: You like me~?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -235,7 +237,7 @@ story:
     textRight: I want you to show me your proof.
   - chara:
     - id: 800202
-    textRight: The evidence that explains why witches disappeared, and why they're
+    textRight: The evidence that explains why Witches @disappeared, and why they're
       back now...
   - chara:
     - cheek: 0
@@ -243,7 +245,7 @@ story:
       id: 102103
       lipSynch: 0
       motion: 400
-    textLeft: '[chara:102103:effect_emotion_surprise_0][se:7226_shock]......!?'
+    textLeft: '[chara:102103:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -263,13 +265,13 @@ story:
       id: 102103
       lipSynch: 0
       motion: 0
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102103
       lipSynch: 1
-    textLeft: Okay, I understand...
+    textLeft: Very well. I understand...
   - autoTurnLast: 2.5
     bg: bg_adv_21221.jpg
     bgm: stop
@@ -295,7 +297,7 @@ story:
     - id: 102301
       motion: 100
     nameRight: Ao
-    textRight: Basically because everyone seemed kind of neutral~
+    textRight: Everyone seemed kind of neutral, basically~
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -303,7 +305,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Hikaru
-    textRight: I really didn't expect so many of them still believed in Juri.
+    textRight: I really didn't expect so many of them to still @believe in Juri.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -316,11 +318,12 @@ story:
       face: mtn_ex_030.exp.json
       id: 102103
       motion: 300
-    textLeft: She really is a unique case...
+    textLeft: She is quite the unique case...
   - chara:
     - eyeClose: 1
       id: 102103
-    textLeft: Seems like there was more holding them together @than just her strength.
+    textLeft: It appears that there was more holding them @together than her strength
+      alone.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -354,7 +357,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Hikaru
-    textLeft: Where are you going?
+    textLeft: Where are you goin'?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -365,14 +368,14 @@ story:
     - id: 102201
       lipSynch: 0
       motion: 400
-    textLeft: '[chara:102201:effect_emotion_surprise_0][se:7226_shock]......!?'
+    textLeft: '[chara:102201:effect_emotion_surprise_0][se:7226_shock]—?!'
   - chara:
     - id: 102301
       motion: 1
-    textRight: We haven't run into Ranka at all today.
+    textRight: We haven't run into Ranka at all today,
   - chara:
     - id: 102301
-    textRight: So she's probably at their base.
+    textRight: so I bet that's where she is.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -387,12 +390,12 @@ story:
       id: 102301
       motion: 400
     textRight: I mean, Juri's probably still recovering from the @wounds my battle
-      axe gave her, right?~
+      axe gave her, right~?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102301
-    textRight: I won't have a problem dealing with a wounded dragon~
+    textRight: I won't have any problems dealing with a wounded dragon~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -400,7 +403,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Hikaru
-    textLeft: I-I'll go with you, I can't let you go by yourself!
+    textLeft: I-I'll go with you! I can't let you go by yourself!
   - chara:
     - id: 102201
     textLeft: After all, I promised I'd protect you, Ao!

@@ -12,7 +12,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -20,7 +20,7 @@ story:
       pos: 1
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -30,18 +30,18 @@ story:
   - chara:
     - id: 101501
     nameLeft: Ui
-    textLeft: I’m baack!
+    textLeft: I'm baack!
     turnChangeOut: fadeOut
   - chara:
-    - id: 101403
+    - id: 101471
     nameCenter: Touka & Nemu
     textCenter: Thanks for having us.
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
       id: 101501
     textClear: 1
@@ -57,12 +57,12 @@ story:
       motion: 0
       pos: 2
     nameLeft: Yachiyo
-    textLeft: Oh my, welcome. I’m making tea currently, @please wait a moment.
+    textLeft: Oh my, welcome. I'm making tea currently,@please wait a moment.
   - chara:
     - id: 100401
       motion: 100
     nameRight: Sana
-    textRight: Ah, I’ll help too…
+    textRight: Ah, I'll help too...
   - autoTurnLast: 0.3
     chara:
     - cheek: 0
@@ -72,7 +72,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -83,17 +83,17 @@ story:
     - id: 101501
       lipSynch: 0
     nameLeft: Ui
-    textLeft: …
+    textLeft: '...'
     turnChangeOut: fadeOut
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameRight: Nemu
     textRight: Ui, why do you keep looking at the kitchen?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -107,7 +107,7 @@ story:
       id: 101501
       pos: 0
     nameLeft: Ui
-    textLeft: Oh, that’s not why…
+    textLeft: Oh, that's not why...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -115,11 +115,11 @@ story:
       motion: 100
       pos: 0
     nameLeft: Ui
-    textLeft: I’m observing userName right now.
+    textLeft: I'm observing userName right now.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       motion: 400
     nameRight: Touka
     textRight: '...Observing?'
@@ -127,15 +127,15 @@ story:
     bg: white
     turnChangeIn: fadeIn
   - nameNarration: Ui
-    narration: '[textBlack:“userName Observation Journal”]'
+    narration: '[textBlack:"userName Observation Journal"]'
     narrationCoverOpacity: 0
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 150
     turnChangeOut: fadeOut
   - nameNarration: Ui
-    narration: '[textBlack:Because userName’s small, it can’t do any physical work,
-      @but it tries to help all the time.]'
+    narration: '[textBlack:Because userName''s small, it can''t do any physical work,@but
+      it tries to help all the time.]'
   - autoTurnLast: 0.3
     bg: bg_adv_21261.jpg
     chara:
@@ -155,13 +155,13 @@ story:
     - id: 100201
       motion: 301
     nameLeft: Yachiyo
-    textLeft: Let’s see… Do we have sweets…?
+    textLeft: Let's see... Do we have sweets...?
     turnChangeOut: fadeOut
   - chara:
     - id: 100401
       motion: 100
     nameRight: Sana
-    textRight: I’m pretty sure there’s the yokan we got @the other day…
+    textRight: I'm pretty sure there's the yokan we got@the other day...
   - chara:
     - cheek: 0
       face: mtn_ex_014.exp.json
@@ -169,14 +169,14 @@ story:
       motion: 1
       pos: 0
     nameLeft: Yachiyo
-    textLeft: Oh, that’s right.
+    textLeft: Oh, that's right.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 100201
       pos: 0
     nameLeft: Yachiyo
-    textLeft: Hmm… We still have some biscuits. @Which would be best?
+    textLeft: Hmm... We still have some biscuits.@Which would be best?
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -184,11 +184,11 @@ story:
       motion: 200
       pos: 2
     nameRight: Sana
-    textRight: U-Um… I’m fine with either…
+    textRight: U-Um... I'm fine with either...
   - chara:
     - id: 100201
     nameLeft: Yachiyo
-    textLeft: I see… How about you, userName?
+    textLeft: I see... How about you, userName?
   - chara:
     - id: 810100
       motion: 100
@@ -202,7 +202,7 @@ story:
       id: 100201
       motion: 200
     nameLeft: Yachiyo
-    textLeft: You’re saying… biscuits.
+    textLeft: You're saying... biscuits.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -210,7 +210,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Sana
-    textLeft: Then for the tea…
+    textLeft: Then for the tea...
   - chara:
     - id: 100401
     nameLeft: Sana
@@ -224,7 +224,7 @@ story:
     - id: 100401
       motion: 100
     nameLeft: Sana
-    textLeft: Yeah, I think this one’s suitable too…
+    textLeft: Yeah, I think this one's suitable too...
   - autoTurnLast: 0.3
     chara:
     - id: 100401
@@ -237,11 +237,11 @@ story:
       motion: 201
       pos: 0
     nameLeft: Yachiyo
-    textLeft: Alright, let’s brew it.
+    textLeft: Alright, let's brew it.
   - chara:
     - id: 100201
     nameLeft: Yachiyo
-    textLeft: There’s quite a few people today…
+    textLeft: There's quite a few people today...
   - chara:
     - id: 100201
       motion: 100
@@ -259,7 +259,7 @@ story:
     - id: 100201
       motion: 0
     nameLeft: Yachiyo
-    textLeft: And then the biscuits too…
+    textLeft: And then the biscuits too...
   - chara:
     - id: 810100
       pos: 2
@@ -273,13 +273,13 @@ story:
       motion: 200
       pos: 0
     nameLeft: Yachiyo
-    textLeft: No, I don’t think you’re able to.
+    textLeft: No, I don't think you're able to.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 810100
     nameRight: userName
-    textRight: '...Mokyuu…'
+    textRight: '...Mokyuu...'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -305,7 +305,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -314,7 +314,7 @@ story:
       pos: 1
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -327,15 +327,15 @@ story:
     bg: white
     turnChangeIn: fadeIn
   - nameNarration: Ui
-    narration: '[textBlack:userName has things it can do and things @it can’t… but
-      it does its very best with all of them. @It feels like it''s completely a member
-      @of our family!]'
+    narration: '[textBlack:userName has things it can do and things@it can''t... but
+      it does its very best with all of them.@It feels like it''s completely a member@of
+      our family!]'
     narrationCoverOpacity: 0
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 150
     turnChangeOut: fadeOut
-  - narration: '[textBlack:I hope we can better understand userName from now on @and
+  - narration: '[textBlack:I hope we can better understand userName from now on@and
       become even closer to it.]'
   - narration: '[textBlack:The End]'
   - autoTurnLast: 1
@@ -354,7 +354,7 @@ story:
     - id: 101501
       motion: 100
     nameCenter: Ui
-    textCenter: Mm, I’m done writing!
+    textCenter: Mm, I'm done writing!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.3
     chara:
@@ -364,21 +364,21 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 0
       pos: 2
     nameRight: Nemu
-    textRight: '...I’m very intrigued.'
+    textRight: '...I''m very intrigued.'
   - chara:
     - cheek: 1
       face: mtn_ex_041.exp.json
       id: 101501
       pos: 0
     nameLeft: Ui
-    textLeft: Ehehe, I’m a bit embarrassed,
+    textLeft: Ehehe, I'm a bit embarrassed,
   - chara:
     - cheek: 1
       face: mtn_ex_010.exp.json
@@ -389,7 +389,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -398,9 +398,9 @@ story:
     nameRight: Touka
     textRight: Yep.
   - chara:
-    - id: 100701
+    - id: 100770
     nameRight: Touka
-    textRight: Despite it not using scientific documentation, @it’s likely to be worth
+    textRight: Despite it not using scientific documentation,@it's likely to be worth
       consulting.
   - chara:
     - cheek: 0
@@ -413,27 +413,27 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 200
       pos: 2
     nameRight: Nemu
-    textRight: '...Our investigation of userName from a few days ago @is lacking,
-      after all.'
+    textRight: '...Our investigation of userName from a few days ago@is lacking, after
+      all.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       pos: 2
     nameRight: Nemu
-    textRight: I believe Ui’s journal would be valuable as @qualitative data.
+    textRight: I believe Ui's journal would be valuable as@qualitative data.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameRight: Nemu
-    textRight: With this, we’ll be able to reach a deeper layer of insight.
+    textRight: With this, we'll be able to reach a deeper layer of insight.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

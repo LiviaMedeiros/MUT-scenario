@@ -27,12 +27,12 @@ story:
       motion: 400
     nameLeft: Yuna
     narrationEffect: out
-    textLeft: '!?'
+    textLeft: '*Gasp*?!'
   - chara:
     - id: 102400
       motion: 400
     nameRight: Juri
-    textRight: What the...!?
+    textRight: What the...?!
   - autoTurnLast: 1
     bg: bg_adv_20522.jpg
     bgChangeEffect: fade
@@ -70,7 +70,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: ""
-    textCenter: '[chara:770084:effect_7001_attack02]Haa!'
+    textCenter: '[chara:770084:effect_7001_attack02]Hah!'
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -97,7 +97,7 @@ story:
     - id: 770088
       mouthOpen: 0
     nameRight: ""
-    textRight: '[chara:770083:effect_7002_damage01][se:3001_chara_damage][bgEffect:shakeLarge]Argh...!'
+    textRight: '[chara:770083:effect_7002_damage01][se:3001_chara_damage][bgEffect:shakeLarge]Augh...!'
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -166,7 +166,7 @@ story:
   - autoTurnLast: 0.5
     turnChangeOut: rollOutFast
   - nameNarration: ""
-    narration: '"KYAAAAH!"'
+    narration: '"AAAAAAAH!"'
     narrationEffect: in
   - narration: '"D-don''t...!"'
   - chara:
@@ -178,7 +178,7 @@ story:
     nameCenter: Juri
     narrationEffect: out
     textBg: shout
-    textCenter: What the hell's going on!?
+    textCenter: What the fuck's going on?!
   - autoTurnLast: 0.2
     chara:
     - id: 102400
@@ -194,7 +194,7 @@ story:
       motion: 0
       pos: 0
     nameRight: Juri
-    textRight: Ao, you're alright!?
+    textRight: Ao, are you alright?!
   - chara:
     - eyeClose: 1
       id: 102300
@@ -206,14 +206,14 @@ story:
       face: mtn_ex_020.exp.json
       id: 102300
       motion: 400
-    textLeft: And we're here to put an end to your era@of exploitation!
+    textLeft: And we're here to put an end to your era @of exploitation!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102400
       lipSynch: 0
       motion: 400
-    textRight: '......!?'
+    textRight: —?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -221,7 +221,7 @@ story:
       motion: 200
       mouthOpen: 1
     textBg: shout
-    textLeft: '[surround:1012A02][flashEffect:flashWhite2]UuuyaaAAAAAH!!'
+    textLeft: '[surround:1012A02][flashEffect:flashWhite2]Uryaaaah!'
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -232,8 +232,8 @@ story:
     - id: 102300
       mouthOpen: 0
     textBg: shout
-    textRight: '[surround:1012A03][flashEffect:flashRed2][chara:102400:effect_shake][bgEffect:shakeLarge]Huh!?
-      ...AAAAH!'
+    textRight: '[surround:1012A03][flashEffect:flashRed2][chara:102400:effect_shake][bgEffect:shakeLarge]Guh?!
+      ...AAAAAHH!'
   - autoTurnLast: 0.5
     chara:
     - effect: slideOutRightFast
@@ -246,7 +246,7 @@ story:
       mouthOpen: 1
       pos: 1
     nameCenter: Ao
-    textCenter: '*Pant... pant...*'
+    textCenter: '*Pant*...*Huff*...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -254,7 +254,7 @@ story:
       lipSynch: 0
       motion: 200
       mouthOpen: 0
-    textCenter: (We can do this...then there'll be nobody@left to hurt us...!)
+    textCenter: (We can do this... Then there'll be nobody @left to hurt us...!)
   - chara:
     - id: 102300
       lipSynch: 0
@@ -263,7 +263,7 @@ story:
     - id: 102300
       lipSynch: 1
       motion: 400
-    textCenter: Hikaru!!
+    textCenter: Hikaru!
   - autoTurnLast: 0.1
     bgm: stop
     chara:
@@ -282,7 +282,7 @@ story:
     - id: 102200
       lipSynch: 0
     nameRight: Hikaru
-    textRight: …………
+    textRight: '...'
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.2
     chara:
@@ -321,7 +321,7 @@ story:
       motion: 0
       pos: 0
     nameRight: ""
-    textRight: …………
+    textRight: '...'
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -364,7 +364,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Hikaru
-    textRight: I joined your gang as a spy, to report@everything you were doing to
+    textRight: I joined your gang as a spy to report @everything you were doing to
       Yuna...
   - chara:
     - id: 102300
@@ -372,27 +372,27 @@ story:
     textLeft: So you betrayed us...
   - chara:
     - id: 102200
-    textRight: A loyal member of Torayamachi from the@very beginning...
+    textRight: A loyal member of Torayamachi from the @very beginning...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 200
-    textRight: After being drawn to meet Yuna through@a wish, devoted to achieving
-      her goals.
+    textRight: After being drawn to meet Yuna through @a wish, and devoted to achieving
+      her goals...
   - chara:
     - id: 102200
-    textRight: Alongside an army of shadows,@a noble Horse galloping forth.
+    textRight: Alongside an army of shadows, @a noble Horse gallops forth.
   - chara:
     - id: 102200
       motion: 100
-    textRight: That's the truth behind me,@Hikaru Kirari.
+    textRight: That's the truth behind me, @Hikaru Kirari.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 102300
       motion: 400
-    textLeft: Hikaru...you're Torayamachi's Horse...
+    textLeft: Hikaru... You're Torayamachi's Horse...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -400,20 +400,20 @@ story:
       motion: 1
       pos: 2
     nameRight: Yuna
-    textRight: I was certain this would be the final@battle.
+    textRight: I was certain that this would be the final @battle,
   - chara:
     - id: 102102
-    textRight: So I decided to bring her out from the@shadows.
+    textRight: so I decided to bring her out from the @shadows.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102300
       lipSynch: 0
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - id: 102300
       motion: 0
-    textLeft: The Janomiya girls in Torayamachi...@did you kill them...?
+    textLeft: The Janomiya girls in Torayamachi... @Did you kill them...?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -426,7 +426,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102200
-    textRight: They're all alive, waiting on the other@side of the bridge.
+    textRight: They're all alive, waitin' on the other @side of the bridge.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -435,7 +435,7 @@ story:
     textRight: It wasn't done out of mercy or anything.
   - chara:
     - id: 102200
-    textRight: I understand your feelings, so I want@to make your wishes come true.
+    textRight: I understand your feelings, so I wanna @make your wishes come true.
   - chara:
     - eyeClose: 1
       id: 102200
@@ -444,7 +444,7 @@ story:
     - eyeClose: 0
       id: 102200
       motion: 100
-    textRight: That's why Torayamachi will take over@your wish.
+    textRight: That's why Torayamachi will take over @your wish.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -457,7 +457,7 @@ story:
     - eyeClose: 1
       id: 102300
       motion: 200
-    textLeft: We ended up corned at the last moment...
+    textLeft: We ended up cornered at the last moment...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -469,7 +469,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102300
       motion: 400
-    textLeft: Girls...let's take down the last boss!
+    textLeft: Girls... Let's bring down the final boss!
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
@@ -498,7 +498,7 @@ story:
     - id: 770186
       mouthOpen: 1
     nameNarration: ""
-    narration: Haaah!
+    narration: '"Haaah!"'
     narrationEffect: in
   - autoTurnLast: 0.01
     bgm: stop
@@ -510,24 +510,24 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameNarration: Hikaru
-    narration: I hate to do this, but if you really@want to do it the hard way.
+    narration: I hate to do this, but if you really @wanna do it the hard way...
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: We'll make your wish come true, Ao.
-  - narration: So...please forgive me for hurting you for now.
+  - narration: So... Please forgive me for hurting you for now.
   - autoTurnLast: 2
     bgm: bgm23_promised01
     narrationEffect: out
   - nameNarration: Hikaru
-    narration: I, Hikaru Kirari,@am Yuna's strongest spear and shield!
+    narration: I, Hikaru Kirari, @am Yuna's strongest spear and shield!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
     narrationFontSize: 30
     narrationLineMargin: 35
     narrationLineSpace: 20
-  - narration: With everything I have,@I'll put an end to this battle!
+  - narration: With everything I have, @I'll put an end to this battle!
   - narration: March forth, Hikaru Army!
   - narration: Run down Janomiya!
   - autoTurnLast: 0.01

@@ -37,7 +37,7 @@ story:
       id: 101200
       motion: 100
     textRight: Magic isn't just for attacking... You can@imbue it in other things...
-  - bg: bg_adv_21025.jpg
+  - bg: bg_adv_21491.jpg
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

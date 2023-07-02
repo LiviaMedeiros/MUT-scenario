@@ -30,7 +30,7 @@ story:
       id: 102102
       motion: 300
     nameLeft: Yuna
-    textLeft: '... It''s going to be a while before we''ve both @recovered.'
+    textLeft: '...It''s going to be a while before we''ve both @recovered.'
   - autoTurnLast: 1.5
     chara:
     - effect: ef_adv_09
@@ -45,28 +45,28 @@ story:
   - chara:
     - id: 102200
       motion: 0
-    textRight: Still, I have to apologize... @I should've liste-
+    textRight: Still, I've gotta apologize... @I should've liste–
   - chara:
     - id: 102102
       motion: 200
-    textLeft: I made that decision. You have nothing to apologize @for.
+    textLeft: The decision was mine. You have nothing to @apologize for.
   - chara:
     - id: 102102
       motion: 1
-    textLeft: How's Ao...?
+    textLeft: How is Ao...?
   - chara:
     - id: 102200
       motion: 200
     textRight: I ran into the other Janomiya girls before I got to @the river,
   - chara:
     - id: 102200
-    textRight: so she should be fine unless something went wrong.
+    textRight: so she should be fine unless somethin' went wrong.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102102
       motion: 0
-    textLeft: I see, I'm glad to hear that...
+    textLeft: I see. I'm glad to hear that...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -75,7 +75,7 @@ story:
   - chara:
     - id: 102200
       motion: 100
-    textRight: Yes...?
+    textRight: Aye...?
   - chara:
     - id: 102102
       motion: 200
@@ -83,7 +83,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 102102
-    textLeft: If the two gangs get into a fight again, everyone will @get hurt...
+    textLeft: If our gangs get into a fight again, everyone @will get hurt...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -101,7 +101,7 @@ story:
     - eyeClose: 1
       id: 102102
       tear: 1
-    textLeft: I can't stand seeing people getting killed anymore...
+    textLeft: I can't stand to watch anyone else get killed...
   - autoTurnLast: 1.5
     bg: bg_adv_21133.jpg
     chara:
@@ -140,24 +140,24 @@ story:
       face: mtn_ex_010.exp.json
       id: 102401
       motion: 1
-    textLeft: Did you kill Ranka? Or did you two make up?
+    textLeft: Did ya kill Ranka? Or did you two make up?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102301
       motion: 300
-    textRight: '... None of your business.'
+    textRight: '...None of your business.'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102401
-    textLeft: Heh.
+    textLeft: Heehee.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102401
       motion: 100
-    textLeft: Well, she couldn't have given you an honest apology without taking things
+    textLeft: Well, she couldn't have given you an honest apology without takin' things
       that far.
   - chara:
     - id: 102401
@@ -179,8 +179,8 @@ story:
       face: mtn_ex_050.exp.json
       id: 102401
       motion: 200
-    textLeft: Anyway, aren't you going to thank Juri the Great for everything she
-      did for you?
+    textLeft: Anyway, aren't ya gonna thank Juri the Great for everything she did
+      for you?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -191,7 +191,7 @@ story:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102401
-    textLeft: That's just how I am, it won't change for as long as I @live.
+    textLeft: That's just how I am. It won't change for as long as I @live.
   - chara:
     - id: 102301
       motion: 0
@@ -201,7 +201,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102401
       motion: 0
-    textLeft: Ao, if you're going to Torayamachi, tell them @something for me.
+    textLeft: Ao, if you're goin' to Torayamachi, tell them @something for me.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -214,7 +214,7 @@ story:
       will be considered an enemy.
   - chara:
     - id: 102401
-    textLeft: If they join our gang before then, we won't hurt @them.
+    textLeft: If they join our gang before then, we won't hurt @'em.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json

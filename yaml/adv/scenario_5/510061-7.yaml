@@ -95,7 +95,7 @@ story:
       face: mtn_ex_042.exp.json
       id: 100201
       motion: 200
-    textLeft: So, I understand that we're here to talk @about a Halloween play.
+    textLeft: So, I understand that we're here to talk@about a Halloween play.
     turnEffect: stop
   - chara:
     - cheek: -1
@@ -131,7 +131,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 100501
-    textRight: You even limit how much time I can play @video games!
+    textRight: You even limit how much time I can play@video games!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -370,7 +370,7 @@ story:
       id: 101201
       motion: 0
     textLeft: Once things got rolling, it really did start@being fun!
-  - bg: bg_adv_21025.jpg
+  - bg: bg_adv_21491.jpg
     bgm: bgm03_story02
     chara:
     - cheek: 0

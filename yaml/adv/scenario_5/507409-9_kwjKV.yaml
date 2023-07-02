@@ -20,7 +20,7 @@ story:
     nameCenter: Juri
     se: 7211_souljem_02
     surround: 7003_wind
-    textCenter: '............'
+    textCenter: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 1.5
     chara:
@@ -38,20 +38,20 @@ story:
     - id: 102401
       lipSynch: 0
       motion: 1
-    textCenter: (A few of them, too...)
+    textCenter: (A few of 'em, too...)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102401
       lipSynch: 0
-    textCenter: (I guess they're getting a bit impatient...)
+    textCenter: (I guess they're startin' to get impatient...)
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102401
       lipSynch: 1
       motion: 0
-    textCenter: I should get out of here before they notice me...
+    textCenter: I should get outta here before they notice me...
   - autoTurnLast: 0.5
     bg: bg_adv_20032.jpg
     chara:
@@ -89,7 +89,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102401
       motion: 300
-    textLeft: This really isn't Juri the Great's kind of thing, though.
+    textLeft: Still, this really isn't Juri the Great's kinda thing.
   - chara:
     - id: 102301
       motion: 200
@@ -106,7 +106,7 @@ story:
   - chara:
     - id: 102301
       motion: 100
-    textRight: So we just take more time to look into it~
+    textRight: We'll just have to take more time to look into it, @then~
   - chara:
     - id: 102401
       motion: 0
@@ -116,7 +116,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102301
       motion: 400
-    textRight: But no more peeking, okay?~
+    textRight: But no more peeking, okay~?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -124,12 +124,12 @@ story:
     textLeft: Huh? Why not?
   - chara:
     - id: 102301
-    textRight: You got lucky today, but all it takes is one slip up and you'll be
+    textRight: You got lucky today, but all it takes is one slip up @and you'll be
       caught and killed. Bad End.
   - chara:
     - id: 102301
       motion: 300
-    textRight: You know that, right?~
+    textRight: You know that, right~?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -138,7 +138,7 @@ story:
     textLeft: That's none of your business.
   - chara:
     - id: 102401
-    textLeft: If they find me, I'll just burn them to a crisp.
+    textLeft: If they find me, I'll just cook 'em well-done.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -150,32 +150,32 @@ story:
       face: mtn_ex_010.exp.json
       id: 102401
       motion: 1
-    textLeft: Ranka should be hitting me up any time now.
+    textLeft: Ranka should be hittin' me up any time now.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 102301
       motion: 100
-    textRight: Do you have her doing something?
+    textRight: Do you have her doing something...?
   - chara:
     - id: 102401
     textLeft: There's this seventh grader on my team.
   - chara:
     - id: 102401
-    textLeft: She's been officially found guilty.
+    textLeft: She's been officially found guilty,
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102401
       motion: 200
-    textLeft: And we were waiting until the right moment to catch her.
+    textLeft: and we were waitin' 'til the right moment to @catch her.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102301
       lipSynch: 0
       motion: 0
-    textRight: '.......'
+    textRight: '...'
   - nameNarration: ""
     narration: '[surround:7105_telphone]～～♪～～♪'
     narrationEffect: in
@@ -196,13 +196,13 @@ story:
     - id: 102401
       pos: 1
     nameCenter: Juri
-    textCenter: '... Did you get her?'
+    textCenter: '...Did you get her?'
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102401
       lipSynch: 0
-    textCenter: '............'
+    textCenter: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -229,24 +229,24 @@ story:
     chara:
     - id: 770085
       lipSynch: 0
-    nameRight: Magical Girl
-    textRight: '............'
+    nameRight: ""
+    textRight: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 102400
       motion: 200
-    textLeft: So, you really did it?
+    textLeft: So ya really did it?
   - chara:
     - id: 770085
       lipSynch: 1
-    textRight: I'm... so sorry...
+    textRight: I'm...so sorry...
   - chara:
     - id: 102400
-    textLeft: Crying won't get you anywhere. I want to hear the whole story.
+    textLeft: Cryin' won't get you anywhere. I wanna hear the @whole story.
   - chara:
     - id: 102400
       motion: 1
-    textLeft: Now look me in the eye and tell me... @why did you steal our Grief Seeds?
+    textLeft: Now look me in the eye and tell me... @Why did you steal our Grief Seeds?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -257,7 +257,7 @@ story:
     textRight: Juri, you have to handle this delicately.
   - chara:
     - id: 102400
-    textLeft: I've got this.
+    textLeft: I got this.
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -265,37 +265,37 @@ story:
       lipSynch: 0
       motion: 0
       pos: 2
-    nameRight: Magical Girl
-    textRight: '........'
+    nameRight: ""
+    textRight: '...'
   - chara:
     - id: 770085
       lipSynch: 1
-    textRight: I wanted to... help my friends...
+    textRight: I wanted to...help my friends...
   - chara:
     - id: 102400
       motion: 0
-    textLeft: Where are your friends?
+    textLeft: Where are you friends?
   - chara:
     - id: 770085
-    textRight: To-Torayamachi... @Everyone's stressed out over there...
+    textRight: T-Torayamachi... @Everyone's stressed out over there...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
-    textLeft: A Torayamachi girl stealing our Grief Seeds while @they're claiming
-      that witches are returning...
+    textLeft: A Torayamachi girl stealin' our Grief Seeds while @they're sayin' that
+      Witches are returning...
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 100
-    textLeft: What you've done totally disproves what they @claimed.
+    textLeft: What you did totally disproves what they @claimed.
   - chara:
     - cheek: 1
       face: mtn_ex_050.exp.json
       id: 770085
       lipSynch: 0
-    textRight: '........'
+    textRight: '...'
   - autoTurnLast: 0.2
     chara:
     - id: 770085
@@ -311,13 +311,13 @@ story:
       id: 102300
       motion: 0
       pos: 2
-    nameLeft: Magical Girl
-    textLeft: What are you going to do to me...?
+    nameLeft: ""
+    textLeft: What are you gonna do to me...?
   - chara:
     - id: 102300
       lipSynch: 0
     nameRight: Ao
-    textRight: '.......'
+    textRight: '...'
   - autoTurnLast: 0.2
     chara:
     - id: 770085
@@ -330,10 +330,10 @@ story:
       motion: 0
       pos: 0
     nameLeft: Juri
-    textLeft: Look me in the eyes... and tell me their plan against @us.
+    textLeft: Look me in the eyes...and tell me their plan @against us.
   - chara:
     - id: 770085
-    nameRight: Magical Girl
+    nameRight: ""
     textRight: If I do, will you let me go?
   - chara:
     - cheek: 0
@@ -344,13 +344,13 @@ story:
   - chara:
     - cheek: 0
       id: 770085
-    textRight: '... we''re setting gems on the West and East bridges to get you to
-      go through the middle.'
+    textRight: '...We''re setting stones on East and West Oogibashi to get you to
+      go through Monzenbashi.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
-    textLeft: So Yuna thinks we're going to use those two bridges, huh.
+    textLeft: So Yuna thinks we're gonna use those two @bridges, eh?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -369,7 +369,7 @@ story:
       live on?
   - chara:
     - id: 770085
-    textRight: But you said yo-...
+    textRight: But you said yo–
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
@@ -381,10 +381,10 @@ story:
       face: mtn_ex_050.exp.json
       id: 770085
       lipSynch: 0
-    textRight: '........!?'
+    textRight: '*Gasp*?!'
   - chara:
     - id: 102400
-    textLeft: You're going to be food for us.
+    textLeft: You're gonna be food for us.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -402,8 +402,8 @@ story:
   - chara:
     - id: 102300
       motion: 0
-    textRight: Her gem was just purified, so it’s not like she's going @to become
-      a witch anytime soon.
+    textRight: Her Soul Gem was just purified, so it’s not like @she's going to become
+      a Witch anytime soon.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
@@ -419,15 +419,15 @@ story:
       id: 770085
       motion: 0
       pos: 2
-    nameRight: Magical Girl
+    nameRight: ""
     textRight: No...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102400
       motion: 100
-    textLeft: She'll run out of magical power eventually. Well, @her mind will probably
-      break long before that.
+    textLeft: She'll run outta magic power eventually. Well, @her mind'll probably
+      break way before that.
   - chara:
     - id: 770085
     textRight: No...!
@@ -442,18 +442,18 @@ story:
       face: mtn_ex_050.exp.json
       id: 770085
       lipSynch: 0
-    textRight: '........'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102400
       motion: 200
-    textLeft: Heh.
+    textLeft: Heehee.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102400
-    textLeft: I'm kidding, I'm kidding. @I hope you learned your lesson.
+    textLeft: I'm kiddin', I'm kiddin'. @I hope ya learned your lesson.
   - bgm: stop
     chara:
     - cheek: 2
@@ -462,7 +462,7 @@ story:
       lipSynch: 1
       mouthOpen: 1
     textBg: shout
-    textRight: NOOOOOOOOO!!!
+    textRight: NOOOOOOOOO!!
     turnEffect: blackPromist
   - autoTurnLast: 1
     bgEffect: shakeLarge
@@ -476,7 +476,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102400
       motion: 400
-    textLeft: What the...!? Come on, are you serious!?
+    textLeft: What the...?! C'mon, are you serious?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -484,7 +484,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Ranka
-    textRight: I told you to handle this delicately...!
+    textRight: I TOLD you to handle this delicately...!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -492,13 +492,13 @@ story:
       motion: 0
       pos: 2
     nameRight: Ao
-    textRight: '... What do we do now?'
+    textRight: '...What do we do now?'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
       motion: 300
-    textLeft: Even if she isn't one of us, I wasn't going to kill her...
+    textLeft: Even if she isn't one of us, I wasn't gonna kill her...
   - chara:
     - id: 102400
     textLeft: The best we can do is mourn her, I guess?
@@ -520,7 +520,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102300
       motion: 100
-    textRight: I was talking about the witch~
+    textRight: I was talking to the Witch~
   - autoTurnLast: 2
     turnChangeIn: fadeIn
     turnEffect: stop

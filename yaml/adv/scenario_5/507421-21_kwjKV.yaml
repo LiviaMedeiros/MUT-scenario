@@ -31,18 +31,18 @@ story:
     - id: 102200
       motion: 300
     nameRight: Hikaru
-    textRight: '*Pant pant*...'
+    textRight: '*Pant* *Pant*'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       id: 102200
       motion: 0
-    textRight: Things are going really well with Ranka's@team, but...
+    textRight: Things are going really well against Ranka's @squad, but...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102200
-    textRight: What's going on with Sakuya...?
+    textRight: How's Sakuya holding up...?
   - chara:
     - id: 102200
       motion: 200
@@ -53,11 +53,10 @@ story:
       id: 102102
       motion: 300
     nameLeft: Yuna
-    textLeft: Yeah...
+    textLeft: I did...
   - chara:
     - id: 102102
-    textLeft: She said Juri's being even more aggressive@than we'd expected she'd
-      be...
+    textLeft: She told me that Juri is being even more aggressive @than anticipated...
   - chara:
     - id: 102102
     textLeft: One of ours was killed...
@@ -65,7 +64,7 @@ story:
     - id: 102200
       lipSynch: 0
       motion: 400
-    textRight: '!?'
+    textRight: What?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -77,11 +76,11 @@ story:
       face: mtn_ex_032.exp.json
       id: 102102
       motion: 200
-    textLeft: If Sakuya's team hadn't retreated, things@would be even worse at this
+    textLeft: If Sakuya's team hadn't retreated, @things would be even worse at this
       point...
   - chara:
     - id: 102102
-    textLeft: So I think she made the right call...
+    textLeft: I believe she made the right call...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -95,10 +94,10 @@ story:
       face: mtn_ex_030.exp.json
       id: 102102
       motion: 1
-    textLeft: Yeah...
+    textLeft: Indeed...
   - chara:
     - id: 102102
-    textLeft: If we don't do something,@Sakuya's going to run right into Ranka...
+    textLeft: If we don't act quickly, @Sakuya is going to run right into Ranka...
   - chara:
     - id: 102102
     textLeft: And then Juri will catch up from behind...
@@ -109,17 +108,17 @@ story:
       motion: 300
       pos: 2
     nameRight: Hikaru
-    textRight: Torayamachi will be sandwiched between@Ryuugasaki's teams...
+    textRight: Torayamachi will be sandwiched between @Ryuugasaki's teams...
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp.json
       id: 102102
       motion: 300
-    textLeft: We could probably still win, but the chaos@would cause far too much
-      damage on both sides...
+    textLeft: We could likely still win, but the chaos @would cause far too much damage
+      on both sides...
   - chara:
     - id: 102102
-    textLeft: Too many casualties for the survivors to@even mourn...
+    textLeft: Too many casualties for the survivors to @even mourn...
   - bgm: stop
     chara:
     - cheek: 0
@@ -127,7 +126,7 @@ story:
       id: 102200
       lipSynch: 0
       motion: 0
-    textRight: '............'
+    textRight: '...'
   - chara:
     - id: 102200
       lipSynch: 1
@@ -142,7 +141,7 @@ story:
     chara:
     - id: 102200
       motion: 1
-    textRight: What if we use the central bridge instead?
+    textRight: What if we use Monzenbashi instead?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -153,14 +152,14 @@ story:
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 200
-    textLeft: '...I get it.@If we go sound towards the bridge...'
+    textLeft: '...I get it. @If we advance south towards the bridge...'
   - chara:
     - id: 102200
       motion: 100
-    textRight: Mmh.
+    textRight: Uh-huh.
   - chara:
     - id: 102200
-    textRight: Sakuya and Ranka will both try to regroup@with their other teams.
+    textRight: Sakuya and Ranka will both try to regroup @with their other teams.
   - chara:
     - id: 102200
       motion: 0
@@ -173,8 +172,8 @@ story:
       visible: appear
     turnChangeIn: fadeIn
   - nameNarration: Hikaru
-    narration: '"If we can lead them in that direction,@it should be possible to regroup
-      like that."'
+    narration: '"If we can lead ''em in that direction, @it should be possible to
+      regroup like that."'
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -182,8 +181,8 @@ story:
     narrationLineMargin: 60
     narrationLineSpace: 15
     turnChangeOut: fadeOut
-  - narration: '"Plus we have the sniper team by the bridge,@so if Ryuugasaki regroups
-      near there,@they should still be able to take them all out at once."'
+  - narration: '"Plus we have our sniper team by the bridge, @so if Ryuugasaki regroups
+      near there, @they should still be able to take ''em all out at once."'
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -204,7 +203,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 102102
-    textLeft: If we can pull it off, it should be a similar@result to our original
+    textLeft: If we can pull this off, it should work out @similarly to our original
       plan.
     turnChangeOut: fadeOut
   - chara:
@@ -215,7 +214,7 @@ story:
     - eyeClose: 0
       id: 102102
       motion: 400
-    textLeft: Let's do it.@I'll call Sakuya.
+    textLeft: Let's do it. @I'll call Sakuya.
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

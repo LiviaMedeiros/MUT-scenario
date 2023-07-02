@@ -269,8 +269,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: ???
-    textLeft: As expected from people who would do things so@peculiarly like you Kamihama
-      Magical Girls do...
+    textLeft: As expected, you Kamihama girls sure are peculiar...
   - chara:
     - id: 102200
       voiceFull: fullvoice/section_102201/vo_full_102201-11-22

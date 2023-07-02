@@ -11,15 +11,15 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - bgm: bgm23_promised05
-    nameNarration: ???
-    narration: Everything has gone according to plan... @That sweet romance you've
-      been wishing for, @I'll tear it to shreds!
+    nameNarration: ""
+    narration: '"Everything has gone according to plan... @That sweet romance you''ve
+      been wishing for, @I''ll tear it to shreds!"'
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: Where's Mitsuru...
-  - narration: He's fallen for the one you hate most @and will never come back to
-      you again.
+  - narration: '"Where''s Mitsuru...?"'
+  - narration: '"He''s fallen for the one you hate most @and will never come back
+      to you again."'
   - bgm: stop
     chara:
     - id: 102400
@@ -34,7 +34,7 @@ story:
   - chara:
     - id: 102400
       lipSynch: 0
-    textCenter: '............'
+    textCenter: '...'
   - bgm: bgm23_promised03
     chara:
     - cheek: 1
@@ -42,11 +42,11 @@ story:
       id: 102400
       motion: 100
     textBg: shout
-    textCenter: Damn it! How could you do this to me!?
+    textCenter: Dammit! How could you do this to me?!
   - chara:
     - id: 102400
       motion: 200
-    textCenter: Another cliffhanger! @I hate this!!!
+    textCenter: Another cliffhanger! @I hate this!!
   - autoTurnLast: 0.2
     chara:
     - id: 102400
@@ -67,14 +67,14 @@ story:
   - chara:
     - id: 102400
       motion: 0
-    textLeft: I can't stand it when something doesn't have a clear ending!
+    textLeft: I can't stand it when somethin' doesn't have a clear ending!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102400
       motion: 400
-    textLeft: '[chara:102400:effect_emotion_surprise_0][se:7226_shock]Wait, when did
-      you get here!?'
+    textLeft: '[chara:102400:effect_emotion_surprise_0][se:7226_shock]Wait, when the
+      fuck did you get here?!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -86,7 +86,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 304400
       motion: 100
-    textRight: Look, I just bought a new video game. Want to play it with me?
+    textRight: Look, I just bought a new video game. Wanna play it with me?
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
@@ -106,7 +106,7 @@ story:
     textLeft: '[chara:102400:effect_emotion_joy_0][se:7222_happy]Perfect.'
   - chara:
     - id: 102400
-    textLeft: With this stalemate between us and Torayamachi @going on, I'll take
+    textLeft: With this stalemate between us and Torayamachi @goin' on, I'll take
       anything that puts me in a better mood.
   - chara:
     - id: 304400
@@ -120,7 +120,7 @@ story:
     textLeft: Oh, come on...
   - chara:
     - id: 102400
-    textLeft: How's Juri the Great losing to you going to make me @feel any better?
+    textLeft: How's losing to you supposed to make Juri the Great @feel any better?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -138,7 +138,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
-    textLeft: That's what's got me so ticked off...
+    textLeft: That's what's got me so pissed off...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -147,32 +147,32 @@ story:
     textRight: Then what if we join forces with them instead?
   - chara:
     - id: 304400
-    textRight: People are saying that witches are reappearing in Futatsugi.
+    textRight: People are saying that Witches are reappearing in Futatsugi.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 200
-    textLeft: Do you really expect me to believe something @like that?
+    textLeft: Do ya really expect me to believe somethin' @like that?
   - chara:
     - id: 102400
     - id: 304400
       motion: 0
-    textLeft: I'd rather spend my time cutting down the number @of magical girls that
-      need Seeds,
+    textLeft: I'd rather spend my time cuttin' down the number @of Magical Girls that
+      need Seeds
   - chara:
     - id: 102400
-    textLeft: rather than making friends and starving along with them.
+    textLeft: than makin' friends and starving along with them.
   - chara:
     - id: 102400
       motion: 1
-    textLeft: Speaking of, you know that girl who stole some @of our Grief Seeds?
+    textLeft: Speaking of, y'know that girl who stole some @of our Grief Seeds?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 304400
       motion: 1
-    textRight: That 7th grade kid? @We only suspect her of it.
+    textRight: That seventh grader? @We only suspect her of it.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
@@ -181,11 +181,11 @@ story:
     textLeft: I don't care if she was suspected or intercepted.
   - chara:
     - id: 102400
-    textLeft: Someone like that needs to "go", don't you think?
+    textLeft: Someone like that needs to "go", don't ya think?
   - chara:
     - id: 102400
-    textLeft: Its one less mouth to feed, plus we'll get a @Grief Seed back from her
-      if we turn her into a witch.
+    textLeft: It's one less mouth to feed, plus we'll even get a @Grief Seed back
+      from her if we turn her into a Witch.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -197,17 +197,17 @@ story:
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
-    textLeft: Of course not, I'm just kidding.
+    textLeft: '''Course not. I''m just kiddin''.'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102400
-    textLeft: Though I'm dead serious about crushing @Torayamachi.
+    textLeft: Though I'm dead serious about crushin' @Torayamachi.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
-    textLeft: But since we're evenly matched, @I can't do a thing about it...
+    textLeft: But since we're evenly matched, @I can't do jack about it...
   - chara:
     - cheek: 1
       effect: shake
@@ -216,8 +216,8 @@ story:
       id: 102400
       motion: 200
     textLeft: It. [chara:102400:lipSynch_0][wait:0.3][chara:102400:lipSynch_1]Really.
-      [chara:102400:lipSynch_0][wait:0.3][chara:102400:lipSynch_1]Ticks. [chara:102400:lipSynch_0][wait:0.3][chara:102400:lipSynch_1]Me.
-      [chara:102400:lipSynch_0][wait:0.3][chara:102400:effect_shake][chara:102400:lipSynch_1]Off...!!
+      [chara:102400:lipSynch_0][wait:0.3][chara:102400:lipSynch_1]Pisses. [chara:102400:lipSynch_0][wait:0.3][chara:102400:lipSynch_1]Me.
+      [chara:102400:lipSynch_0][wait:0.3][chara:102400:effect_shake][chara:102400:lipSynch_1]Off...!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -229,7 +229,7 @@ story:
       eyeClose: 0
       face: mtn_ex_020.exp.json
       id: 102400
-    textLeft: You think me getting angry is funny...?
+    textLeft: You think me gettin' angry is funny...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -238,7 +238,7 @@ story:
     textRight: That's not it.
   - chara:
     - id: 304400
-    textRight: But maybe I can cheer you up a bit, @after all.
+    textRight: But maybe I can cheer you up a bit @after all.
   - bgm: stop
     chara:
     - cheek: 0
@@ -254,8 +254,8 @@ story:
     textRight: We're not so evenly matched anymore.
   - chara:
     - id: 102400
-    textLeft: Really...? @[chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_020.exp.json:motion_100][chara:102400:lipSynch_1]What
-      makes you think that?
+    textLeft: Oh yeah...? @[chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_020.exp.json:motion_100][chara:102400:lipSynch_1]What
+      makes ya think that?
   - chara:
     - id: 304400
       motion: 1
@@ -264,7 +264,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102400
-    textLeft: Their Army of Shadows... @they lost it...?
+    textLeft: Their Army of Shadows... @They lost it...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -275,7 +275,7 @@ story:
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 200
-    textLeft: Hehe~ @You should've told me sooner, then!
+    textLeft: Heehee. @You shoulda told me sooner, then!
   - autoTurnLast: 0.2
     chara:
     - cheek: 0
@@ -288,7 +288,7 @@ story:
     - id: 102300
       lipSynch: 0
     nameCenter: Ao
-    textCenter: '............'
+    textCenter: '...'
     turnChangeOut: rollOut
   - chara:
     - cheek: 0

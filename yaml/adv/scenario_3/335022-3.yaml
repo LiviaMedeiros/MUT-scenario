@@ -209,7 +209,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -217,7 +217,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -228,14 +228,14 @@ story:
     turnChangeIn: fadeIn
     turnEffect: ef_adv_10
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 200
     textLeft: I already know this story!
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       motion: 200
     textRight: Stop it, Touka.
   - textRight: Sakurako worked very hard to find one.

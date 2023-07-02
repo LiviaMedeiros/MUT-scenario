@@ -192,7 +192,7 @@ story:
     turnEffect: stop
   - narration: Even if I try to fight alone I'll need@to steal other people's Grief
       Seeds@just to stay alive...
-  - bg: bg_adv_21025.jpg
+  - bg: bg_adv_21491.jpg
     bgm: stop
     chara:
     - cheek: 0

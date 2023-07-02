@@ -18,8 +18,8 @@ story:
   - bgm: bgm24_story04
     chara:
     - id: 770183
-    nameLeft: Ryuugasaki Girl
-    textLeft: Ugh... I can't die in a place like this...
+    nameLeft: ""
+    textLeft: Ngh... I can't die in a place like this...
     turnChangeOut: fadeOut
   - chara:
     - id: 770183
@@ -30,11 +30,12 @@ story:
     - id: 770087
     - id: 770183
       mouthOpen: 0
-    nameRight: Janomiya Girl
+    nameRight: ""
     textRight: Hmph... Sorry, but we've got you cornered.
   - chara:
     - id: 770183
-    textLeft: You damn small fries... screw you all...
+    textLeft: I gave you the short end of the stick...and now @you wanna fuck me with
+      it, huh...?
   - chara:
     - id: 770087
     textBg: shout
@@ -43,45 +44,47 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770183
-    textLeft: '[chara:770183:effect_7003_damage02][se:3001_chara_damage][bgEffect:shakeSmall]Ugh...argh...'
+    textLeft: '[chara:770183:effect_7003_damage02][se:3001_chara_damage][bgEffect:shakeSmall]Ugh...
+      ah...'
   - chara:
     - id: 770087
-    textRight: We won't forget... our grudge against you...
+    textRight: We won't forget...our grudge against you...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770088
       motion: 0
       pos: 1
-    nameCenter: Janomiya Girl
-    textCenter: Our grudge against all of you...
+    nameCenter: ""
+    textCenter: Our grudge against both of you...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770186
       motion: 0
       pos: 2
-    nameRight: Janomiya Girl
+    nameRight: ""
     textRight: Will you at least regret your actions now...?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770183
-    textLeft: '... It was either eat or be eaten back then. @Why would I... regret
-      it now...?'
+    textLeft: '...It was either eat or be eaten back then. @Why would I...regret it
+      now...?'
   - autoTurnLast: 1
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770186
       lipSynch: 0
-    textRight: '[flashEffect:explosion]......!'
+    textRight: '[flashEffect:explosion]...!'
   - autoTurnLast: 1
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770183
-    textLeft: '[flashEffect:flashRed2][se:3001_chara_damage][chara:770183:effect_shake][bgEffect:shakeLarge]Argh...ugh...'
+    textLeft: '[flashEffect:flashRed2][se:3001_chara_damage][chara:770183:effect_shake][bgEffect:shakeLarge]Ka...
+      aah...'
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -105,19 +108,19 @@ story:
     - id: 304400
       motion: 300
     nameLeft: Ranka
-    textLeft: '*Pant pant pant* It''s all over for me... Haha...'
+    textLeft: '*Pant*... *Huff*... It''s all over for me... Haha...'
     turnChangeOut: rollOutFast
   - chara:
     - id: 102300
       motion: 100
     nameRight: Ao
-    textRight: Any last words?~
+    textRight: Any last words~?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 304400
       motion: 200
-    textLeft: '[surround:3016A01][chara:102300:effect_7000_attack01]... I have plenty
+    textLeft: '[surround:3016A01][chara:102300:effect_7000_attack01]...I have plenty
       more to say!'
   - chara:
     - cheek: 0
@@ -149,11 +152,11 @@ story:
     turnEffect: ef_adv_02
   - chara:
     - id: 770086
-    nameLeft: Janomiya Girl
+    nameLeft: ""
     textLeft: Okay...!
   - chara:
     - id: 770088
-    nameCenter: Janomiya Girl
+    nameCenter: ""
     textCenter: Sure...!
   - autoTurnLast: 0.5
     chara:
@@ -183,7 +186,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 304400
       mouthOpen: 0
-    textLeft: Argh...
+    textLeft: Guh...
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -220,12 +223,12 @@ story:
     - id: 102300
       lipSynch: 0
     nameRight: Ao
-    textRight: '......'
+    textRight: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 304400
       motion: 300
-    textLeft: You controlled those girls to attack me from behind, huh... I didn't
+    textLeft: You controlled those girls to attack me from behind, huh...? I didn't
       expect that...
   - chara:
     - id: 102300
@@ -240,7 +243,7 @@ story:
     - eyeClose: 1
       id: 304400
       motion: 0
-    textLeft: Now, finish me off... I'm the one with a Game Over here...
+    textLeft: Now finish me off... I'm the one with a Game Over here...
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -248,7 +251,7 @@ story:
       motion: 400
       mouthOpen: 1
     textBg: shout
-    textRight: '[surround:1012A02]Haaah!'
+    textRight: '[surround:1012A02]...Haaah!'
   - chara:
     - eyeClose: 1
       id: 304400
@@ -256,14 +259,14 @@ story:
     - eyeClose: 1
       id: 102300
       mouthOpen: 0
-    textLeft: '[surround:1012A04][bgEffect:shakeLarge]......'
+    textLeft: '[surround:1012A04][bgEffect:shakeLarge]...'
   - bgm: bgm03_story08
     chara:
     - eyeClose: 0
       id: 304400
       lipSynch: 1
       motion: 300
-    textLeft: Why the hell... are you hesitating... @now of all times...?
+    textLeft: Why the hell...are you hesitating now...of all @times...?
   - chara:
     - id: 304400
       motion: 1
@@ -274,7 +277,7 @@ story:
     textLeft: Seriously, you always fall short when it counts...
   - chara:
     - id: 304400
-    textLeft: I don't get it, how can you always be like this...? @How can you stay
+    textLeft: I don't get it. How can you always be like this...? @How can you stay
       so innocent like this...?
   - chara:
     - id: 102300
@@ -317,7 +320,7 @@ story:
     - eyeClose: 1
       id: 102300
       lipSynch: 0
-    textRight: '......'
+    textRight: '...'
   - chara:
     - cheek: 1
       eyeClose: 1
@@ -331,14 +334,14 @@ story:
       lipSynch: 0
       motion: 400
       tear: 1
-    textRight: '......!'
+    textRight: '...!'
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
       id: 102300
       lipSynch: 1
       tear: 1
-    textRight: That's... all I've wanted to hear, all this time...
+    textRight: That's...all I've wanted to hear, all this time...
   - autoTurnLast: 1.5
     bg: bg_adv_21133.jpg
     chara:
@@ -358,7 +361,7 @@ story:
       motion: 300
       mouthOpen: 1
     nameRight: Hikaru
-    textRight: '*Pant pant pant*'
+    textRight: '*Pant*...*Pant*...'
     turnChangeOut: fadeOut
   - autoTurnLast: 1
     chara:
@@ -372,14 +375,14 @@ story:
       id: 102400
       motion: 300
     nameLeft: Juri
-    textLeft: Ugh... Phew...
+    textLeft: Rrgh... Whew...
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 0
-    textLeft: You did pretty well against Juri the Great... @Not only that...
+    textLeft: You did pretty damn well against Juri the Great... @Not only that...
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
@@ -400,8 +403,8 @@ story:
     turnChangeIn: rollInFast
   - chara:
     - id: 770083
-    nameCenter: Ryuugasaki Girl
-    textCenter: Argh...
+    nameCenter: ""
+    textCenter: '*Wheeze*...'
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.1
     chara:
@@ -423,8 +426,8 @@ story:
     turnChangeIn: rollInFast
   - chara:
     - id: 770085
-    nameLeft: Ryuugasaki Girl
-    textLeft: '...Ugh.'
+    nameLeft: ""
+    textLeft: '...Ungh.'
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.1
     chara:
@@ -443,7 +446,7 @@ story:
   - chara:
     - id: 102400
     nameRight: Juri
-    textRight: You even went out of your way to deal with the @others.
+    textRight: You even went outta your way to deal with the @others.
     turnChangeOut: rollOutFast
   - chara:
     - id: 102400
@@ -453,7 +456,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
-    textRight: Despite that, it seems like you've already run out of stamina.
+    textRight: Despite that, it seems like you already ran out of stamina.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
@@ -474,7 +477,7 @@ story:
       motion: 400
       pos: 1
     nameCenter: Hikaru
-    textCenter: '...!@[wait:0.8][chara:102200:cheek_0][chara:102200:lipSynch_1]Stop...!'
+    textCenter: '...! @[wait:0.8][chara:102200:cheek_0][chara:102200:lipSynch_1]Don''t...!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -502,33 +505,33 @@ story:
       lipSynch: 0
       motion: 400
     nameLeft: Yuna
-    textLeft: '......!?'
+    textLeft: '...?!'
   - chara:
     - id: 102400
       motion: 1
-    textRight: I'd say there's just the right number of Magical Girls @in the city
-      right now.
+    textRight: There's probably just the right number of @Magical Girls in the city
+      at the moment,
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
-    textRight: Maybe these girls don't need to fight anymore.
+    textRight: so maybe the rest of these chicks don't have @a reason to fight anymore,
   - chara:
     - id: 102400
-    textRight: But Juri the Great still hasn't fought you when you're @in peak form.
+    textRight: but Juri the Great still hasn't fought ya when you're @in peak form.
   - chara:
     - cheek: -1
       face: mtn_ex_020.exp.json
       id: 102102
       lipSynch: 1
       motion: 0
-    textLeft: '... So?'
+    textLeft: '...And?'
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 200
-    textRight: So if the tigers don't do anything, the dragons will swallow them whole.
+    textRight: If the tiger doesn't do anything, the dragon @will swallow her whole.
   - chara:
     - cheek: -1
       face: mtn_ex_031.exp.json

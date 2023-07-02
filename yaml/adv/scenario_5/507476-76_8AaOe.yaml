@@ -24,8 +24,8 @@ story:
   - chara:
     - eyeClose: 1
       id: 102102
-    textCenter: I'm on the verge of becoming something inhuman... @and I feel like
-      once I do, there'll be no turning @back...
+    textCenter: I am on the verge of becoming something inhuman... @And I feel like
+      once I do, there will be no turning @back...
   - chara:
     - eyeClose: 1
       id: 102102
@@ -35,31 +35,31 @@ story:
     - eyeClose: 1
       id: 102102
       lipSynch: 0
-    textCenter: '......'
+    textCenter: '...'
   - chara:
     - eyeClose: 1
       id: 102102
       lipSynch: 0
-    textCenter: '......'
+    textCenter: '...'
   - chara:
     - eyeClose: 0
       id: 102102
       lipSynch: 1
       motion: 200
-    textCenter: I can't hear her... all I hear is...
+    textCenter: I can't hear her... All I hear is...
   - nameNarration: ""
     narration: '"Kyaaaaah!"'
     narrationEffect: in
-  - narration: '"Ugh...argh...uh."'
-  - narration: '"No...I don''t want...to..."'
-  - narration: '"Help... them..."'
+  - narration: '"Guh...aaah...ngh..."'
+  - narration: '"No... I don''t want...to..."'
+  - narration: '"H-help...me..."'
   - narration: '"Yuna...!"'
   - chara:
     - eyeClose: 1
       id: 102102
     narrationEffect: out
-    textCenter: The voices of the girls who lost their lives... they're so loud that
-      I can't hear your voice anymore, Senpai...
+    textCenter: The voices of the girls who lost their lives... They're @so loud that
+      I can no longer hear your voice, Senpai...
   - chara:
     - eyeClose: 0
       id: 102102
@@ -70,13 +70,13 @@ story:
       eyeClose: 1
       face: mtn_ex_020.exp.json
       id: 102102
-    textCenter: I...
+    textCenter: I'm...
   - autoTurnLast: 0.5
     bg: black
     bgm: stop
     turnChangeIn: fadeIn
   - nameNarration: Yuna
-    narration: will become a demon...
+    narration: '"Going to become a demon..."'
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut
@@ -97,7 +97,7 @@ story:
       lipSynch: 0
     nameLeft: Yuna
     surround: 7003_wind
-    textLeft: '......'
+    textLeft: '...'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -106,28 +106,28 @@ story:
       motion: 100
       pos: 2
     nameRight: Juri
-    textRight: You're looking pretty impatient, Big Sis.
+    textRight: Lookin' pretty impatient, Sis.
   - chara:
     - id: 102400
-    textRight: You're still recovering, aren't you? I wouldn't go overboard if I were
+    textRight: You're still recovering, aren't ya? I wouldn't go overboard if I was
       you.
   - chara:
     - eyeClose: 1
       id: 102102
       lipSynch: 0
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
-    textRight: '... Say something already.'
+    textRight: '...Say somethin'' already.'
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 1
-    textRight: Well, I get it.
+    textRight: Eh, I get it.
   - chara:
     - id: 102400
     textRight: Most of your former allies are on my side now.
@@ -230,18 +230,18 @@ story:
       motion: 0
       pos: 2
     nameLeft: Hikaru
-    textLeft: That's only because Yuna convinced them into @joining up with you.
+    textLeft: That's only 'cause Yuna convinced them to @join up with you.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 102400
       motion: 200
-    textRight: Butt out, Horse.
+    textRight: Fuck off, Horse.
   - chara:
     - id: 102200
       lipSynch: 0
       motion: 200
-    textLeft: '......!'
+    textLeft: Hmph!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -269,8 +269,8 @@ story:
       motion: 0
       pos: 0
     nameRight: Juri
-    textRight: It's nice that you're finally ready to fight me, but I'm @not interested
-      in it if you're not fully recovered yet.
+    textRight: It's nice that you're finally ready to fight me, but I @ain't interested
+      if you're not fully recovered yet.
   - chara:
     - id: 102400
     textRight: So why don't we do this some other time?
@@ -284,7 +284,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 100
-    textRight: Listen, even if it's you, I can't go all out against you while you're
+    textRight: Listen, even if it's you, I can't go all out against ya @while you're
       wounded.
   - chara:
     - id: 102102
@@ -309,26 +309,26 @@ story:
       face: mtn_ex_021.exp.json
       id: 102102
       motion: 0
-    textLeft: I didn't come here to be defeated.
+    textLeft: I did not come here to be defeated.
   - chara:
     - id: 102400
       motion: 300
-    textRight: You... since when did you have such a clear intent to kill...?
+    textRight: You... Since when did you have such a clear intent to kill...?
   - chara:
     - id: 102102
-    textLeft: I'll go first.
+    textLeft: I will go first.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 0
-    textRight: '... I guess you really are prepared.'
+    textRight: '...I guess you really are prepared.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 1
-    textLeft: But before we start, you have to promise me one @thing.
+    textLeft: Before we start, however, you have to promise me @one thing.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -337,7 +337,7 @@ story:
     textRight: What, you want your girls back...?
   - chara:
     - id: 102102
-    textLeft: Juri...[chara:102102:lipSynch_0][wait:0.8][chara:102102:cheek_0][chara:102102:face_mtn_ex_010.exp.json:motion_100][chara:102102:lipSynch_1]you're
+    textLeft: Juri... [chara:102102:lipSynch_0][wait:0.8][chara:102102:cheek_0][chara:102102:face_mtn_ex_010.exp.json:motion_100][chara:102102:lipSynch_1]You're
       going to be mine.
   - chara:
     - cheek: 1
@@ -349,7 +349,7 @@ story:
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 100
-    textRight: I just got a little bit of a chill from that.
+    textRight: I kinda got a chill from that.
   - chara:
     - id: 102400
     textRight: Fine, if you win, I'll be all yours.
@@ -376,7 +376,7 @@ story:
       mouthOpen: 1
     nameCenter: Juri & Yuna
     textBg: shout
-    textCenter: You guys! (Everyone!)
+    textCenter: You punks! (Everyone!)
   - chara:
     - id: 102400
       mouthOpen: 0

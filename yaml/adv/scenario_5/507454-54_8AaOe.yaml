@@ -26,16 +26,16 @@ story:
       id: 102200
       motion: 300
     nameRight: Hikaru
-    textRight: It doesn't seem like it...
+    textRight: Doesn't seem like it...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102102
-    textLeft: I see, not today either, huh...
+    textLeft: I see. Not today either, hm...
   - chara:
     - id: 102102
       motion: 300
-    textLeft: She's probably still out to get Ranka, then.
+    textLeft: I presume she's still out to get Ranka, then.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -47,8 +47,8 @@ story:
       face: mtn_ex_000.exp.json
       id: 102102
       motion: 0
-    textLeft: I know they were both members of Monzenbashi. @They both worked for
-      the Bat, right?
+    textLeft: I had seen both of them in Monzenbashi. @They were pawns for the Bat,
+      correct?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -66,14 +66,14 @@ story:
   - chara:
     - eyeClose: 0
       id: 102102
-    textLeft: Since it's a grudge between those two, @I'm not going to intervene.
+    textLeft: Since it's a personal grudge, @I'm not going to intervene.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102102
       motion: 100
-    textLeft: I think for now, we should let her do what she wants, @so she can sort
-      her feelings out.
+    textLeft: I think for now, we should let her do what she @wants, so that she can
+      sort her feelings out.
   - chara:
     - id: 102200
       motion: 300
@@ -101,7 +101,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102102
-    textLeft: Yeah, that's why I need to see her.
+    textLeft: Indeed, which is why I need to see her.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -174,22 +174,22 @@ story:
   - chara:
     - id: 102102
       motion: 0
-    textLeft: You should head to the Janomiya base.
+    textLeft: You should head to Janomiya's base.
   - chara:
     - id: 102102
-    textLeft: None of them are here today, so they're probably @over there.
+    textLeft: None of them are here today, so that's @most likely where they are.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102200
       motion: 200
-    textRight: You don't think they're going to betray us, do you!?
+    textRight: You don't think they're gonna betray us, do you?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102102
       motion: 100
-    textLeft: Hehe, I'm not worried about that.
+    textLeft: Hmhm, I'm not worried about that..
   - autoTurnLast: 1
     bg: bg_adv_21031.jpg
     bgm: stop
@@ -208,7 +208,7 @@ story:
   - bgm: bgm23_promised04
     chara:
     - id: 770186
-    nameRight: Janomiya Girl
+    nameRight: ""
     textRight: Are we really not going to do anything as Janomiya anymore?
     turnChangeOut: fadeOut
   - chara:
@@ -216,7 +216,7 @@ story:
       face: mtn_ex_051.exp.json
       id: 102300
     nameLeft: Ao
-    textLeft: Did you call me out here to ask me that?~
+    textLeft: Did you call me out here to ask me that~?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -239,7 +239,7 @@ story:
     textLeft: We lost and got a Game Over~
   - chara:
     - id: 102300
-    textLeft: And I don't think anyone wants to rise up against Torayamachi again
+    textLeft: And I don't think anyone wants to rise up against @Torayamachi again
       and get themselves killed.
   - chara:
     - id: 102300
@@ -247,15 +247,15 @@ story:
     textLeft: The power balance has finally collapsed, @you know?
   - chara:
     - id: 102300
-    textLeft: If Torayamachi and Ryuugasaki are going to talk @things out, I think
-      we should wait and see what @happens~
+    textLeft: If Torayamachi and Ryuugasaki are gonna talk @things out, I think we
+      should wait and see what @happens~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770186
       motion: 0
       pos: 2
-    textRight: But it feels like, how do I say it... @like you're just forcing yourself
+    textRight: But it feels like, how do I say this... @Like you're just forcing yourself
       to be happy...
   - chara:
     - id: 770186
@@ -286,7 +286,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 770087
       lipSynch: 0
-    textRight: '[chara:770087:effect_emotion_surprise_0][se:7226_shock]......!?'
+    textRight: '[chara:770087:effect_emotion_surprise_0][se:7226_shock]—?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -296,13 +296,13 @@ story:
     - eyeClose: 1
       id: 102300
       motion: 300
-    textLeft: I couldn't count the number of times she took advantage of me... how
-      many times I almost died because of her.
+    textLeft: I can't count the number of times she took @advantage of me... How many
+      times I almost died @because of her.
   - chara:
     - eyeClose: 0
       id: 102300
       motion: 0
-    textLeft: So I want you all to let me at least do that much~
+    textLeft: So I want you guys to let me at least do that much~
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -322,8 +322,8 @@ story:
       now.
   - chara:
     - id: 102300
-    textLeft: I think there's going to be a talk between the two @gangs, so let's
-      not interfere, okay?~
+    textLeft: I think there's gonna be a talk between the two @gangs, so let's not
+      interfere, okay~?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -349,7 +349,7 @@ story:
       face: mtn_ex_051.exp.json
       id: 102300
       motion: 0
-    textLeft: Hikaru.
+    textLeft: Hikaru?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -372,7 +372,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 102300
       motion: 0
-    textLeft: So what do you mean by great timing?
+    textLeft: So what do you mean by "great timing"?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -381,7 +381,7 @@ story:
     textRight: It's about the negotiations with Ryuugasaki.
   - chara:
     - id: 102200
-    textRight: Yuna needs your help to get them to join us.
+    textRight: Yuna needs your help to get 'em to join us.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json

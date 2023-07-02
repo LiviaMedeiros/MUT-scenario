@@ -141,8 +141,8 @@ story:
       face: mtn_ex_011.exp.json
       id: 300601
       motion: 200
-    textRight: Yep! Just recently, in fact![chara:300601:lipSynch_0][wait:0.8][chara:300601:cheek_0][chara:300601:face_mtn_ex_050.exp.json][chara:300601:lipSynch_1]
-      ...Oh, let me@try something!
+    textRight: Yep! Just recently, in fact![chara:300601:lipSynch_0][wait:0.8][chara:300601:cheek_0][chara:300601:face_mtn_ex_050.exp.json][chara:300601:lipSynch_1]@...Oh,
+      let me try something!
   - chara:
     - id: 100301
       motion: 100
@@ -173,13 +173,12 @@ story:
   - bgm: bgm03_story06
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_001.exp.json
       id: 401201
       motion: 1
       pos: 2
     nameRight: Umika
-    textRight: Where...@[chara:401201:lipSynch_0][wait:0.8][chara:401201:cheek_0][chara:401201:face_mtn_ex_001.exp.json][chara:401201:lipSynch_1]Wh-where
-      was she this whole time?!
+    textRight: So... where exactly has 'our' Kazumi@been this whole time?
   - chara:
     - cheek: -1
       face: mtn_ex_021.exp.json
@@ -207,7 +206,8 @@ story:
       motion: 0
       pos: 1
     nameCenter: Yachiyo
-    textCenter: A number of particularly sketchy "Rumors"@have been going around recently.
+    textCenter: A number of particularly sketchy "[textBlue:Rumors]"@have been going
+      around recently.
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -241,7 +241,8 @@ story:
     textCenter: But something's different.
   - chara:
     - id: 100201
-    textCenter: So, I decided to track down one of these@Rumors and see for myself...
+    textCenter: So, I decided to track down one of these@[textBlue:Rumors] and see
+      for myself...
   - bg: bg_adv_narration.jpg
     bgm: bgm03_story14
     chara:
@@ -291,7 +292,7 @@ story:
     nameLeft: Yachiyo
     nameRight: Ria
     narrationEffect: out
-    textLeft: I encountered that Rumor myself!
+    textLeft: I encountered that [textBlue:Rumor] myself!
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
@@ -321,7 +322,7 @@ story:
   - chara:
     - id: 100201
       lipSynch: 0
-    textCenter: (Could this be the Rumor?!)
+    textCenter: (Could this be the [textBlue:Rumor]?!)
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json
@@ -399,12 +400,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Umika
-    textRight: E-even unconsciously...
-  - chara:
-    - cheek: 0
-      face: mtn_ex_010.exp.json
-      id: 401201
-    textRight: Kazumi must've been trying to come@back home...
+    textRight: So Kazumi had been trying to escape@by herself...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -412,7 +408,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Kaoru
-    textRight: S-so, you're saying she got mixed up in that@Rumor?
+    textRight: S-so, you're saying she got mixed up in that@[textBlue:Rumor]?
   - chara:
     - cheek: -1
       face: mtn_ex_042.exp.json
@@ -452,7 +448,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Kaoru
-    textRight: So what was that about taking her down?
+    textRight: So if you saved her, what do you mean by@"taking her down" with you?
   - chara:
     - cheek: -1
       face: mtn_ex_000.exp.json

@@ -12,7 +12,7 @@ story:
   - chara:
     - id: 810100
     nameCenter: userName
-    textCenter: …
+    textCenter: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.3
     chara:
@@ -25,7 +25,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -33,35 +33,35 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 1
       pos: 2
     nameCenter: Touka & Nemu
-    textCenter: …
+    textCenter: '...'
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
     nameRight: Nemu
-    textRight: It can even take the electric train…
+    textRight: It can even take the electric train...
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
-    textLeft: Isn’t this getting a free ride?
+    textLeft: Isn't this getting a free ride?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       motion: 100
       pos: 2
     nameRight: Nemu
-    textRight: How to put it, it’s the same as how pets are treated.
+    textRight: How to put it, it's the same as how pets are treated.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       motion: 200
       pos: 0
     nameLeft: Touka
@@ -69,26 +69,26 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       motion: 1
       pos: 2
     nameRight: Nemu
-    textRight: That’s how things are…
+    textRight: That's how things are...
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
     nameRight: Nemu
-    textRight: Actually, normal people can’t see it in the end…
+    textRight: Actually, normal people can't see it in the end...
   - chara:
-    - id: 101403
+    - id: 101471
     nameRight: Nemu
-    textRight: It’s like trying to collect train tickets from a ghost.
+    textRight: It's like trying to collect train tickets from a ghost.
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
-      id: 101403
+      id: 101471
     - effect: fadeout
-      id: 100701
+      id: 100770
     textClear: 1
   - autoTurnLast: 0.1
     bg: bg_adv_21631.jpg
@@ -99,8 +99,8 @@ story:
       motion: 0
       pos: 1
     textClear: 1
-  - nameLeft: Emiri’s Voice
-    textLeft: Eh~? It’s userName!
+  - nameLeft: Emiri's Voice
+    textLeft: Eh~? It's userName!
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -126,13 +126,13 @@ story:
       pos: 2
       posX: 40
     nameLeft: Kisaki Emiri
-    textLeft: If you’ve got the time, wanna hang again?
+    textLeft: If you've got the time, wanna hang again?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 810100
     nameRight: userName
-    textRight: Mokyu, mokyuu…
+    textRight: Mokyu, mokyuu...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -147,7 +147,7 @@ story:
       id: 810100
       motion: 100
     nameRight: userName
-    textRight: Kyu-pi… Kyuii!
+    textRight: Kyu-pi... Kyuii!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -155,7 +155,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Kisaki Emiri
-    textLeft: Hmm, hmm…
+    textLeft: Hmm, hmm...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -163,7 +163,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Kisaki Emiri
-    textLeft: Ha, although I’ve got no clue what you’re saying!
+    textLeft: Ha, although I've got no clue what you're saying!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -177,7 +177,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Kisaki Emiri
-    textLeft: But I can understand you’ve got other things to do.
+    textLeft: But I can understand you've got other things to do.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -198,7 +198,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -206,29 +206,29 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 300
       pos: 2
     nameRight: Nemu
-    textRight: userName has quite a few connections…
+    textRight: userName has quite a few connections...
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 300
       pos: 0
     nameLeft: Touka
-    textLeft: It’s active in a large area too, maybe it’s possible @that…
+    textLeft: It's active in a large area too, maybe it's possible@that...
   - nameNarration: ""
-    narration: “Next stop, in front of Sankyo Ward Office. @Doors open on the left.”
+    narration: '"Next stop, in front of Sankyo Ward Office.@Doors open on the left."'
     narrationEffect: in
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     narrationEffect: out
   - chara:
     - id: 810100
@@ -258,7 +258,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -266,20 +266,20 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 200
       pos: 2
     nameRight: Nemu
-    textRight: Touka…
+    textRight: Touka...
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
       pos: 0
     nameLeft: Touka
-    textLeft: Yes, let’s get off fast…!
+    textLeft: Yes, let's get off fast...!
   - autoTurnLast: 1
     bg: bg_adv_13061.jpg
     bgm: stop
@@ -330,7 +330,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Utsuho Natsuki
-    textLeft: That’s great, just like that!
+    textLeft: That's great, just like that!
   - autoTurnLast: 0.3
     bg: bg_adv_16061.jpg
     chara:
@@ -373,7 +373,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Chiaki Riko
-    textLeft: If I’m with all of you, even looking after the store @is fun!
+    textLeft: If I'm with all of you, even looking after the store@is fun!
   - autoTurnLast: 0.3
     bg: bg_adv_21131.jpg
     chara:
@@ -408,7 +408,7 @@ story:
       id: 302001
       pos: 0
     nameLeft: Mao Himika
-    textLeft: Gather extra…!
+    textLeft: Gather extra...!
   - chara:
     - id: 810100
       motion: 100
@@ -421,7 +421,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Mao Himika
-    textLeft: Thank you, you’ve been a big help.
+    textLeft: Thank you, you've been a big help.
   - autoTurnLast: 0.3
     bg: bg_adv_18041.jpg
     bgm: stop
@@ -442,7 +442,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -450,53 +450,53 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 0
       pos: 2
     nameLeft: Touka
-    textLeft: '...Ha, the area it operates in is even bigger than we thought, nyaa…'
+    textLeft: '...Ha, the area it operates in is even bigger than we thought, nyaa...'
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 200
     nameRight: Nemu
-    textRight: It’s practically all of Kamihama…
+    textRight: It's practically all of Kamihama...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       pos: 2
     nameRight: Nemu
-    textRight: Even a tiger with a large territory wouldn’t travel @this much.
+    textRight: Even a tiger with a large territory wouldn't travel@this much.
   - chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 101403
+      id: 101471
       motion: 1
       pos: 2
     nameRight: Nemu
-    textRight: And it seems to have interacted with many @magical girls…
+    textRight: And it seems to have interacted with many@magical girls...
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     nameLeft: Touka
     textLeft: What exactly is its goal...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       motion: 0
       pos: 2
     nameRight: Nemu
-    textRight: Ah…
+    textRight: Ah...
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - autoTurnLast: 1.2
     chara:
@@ -510,7 +510,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -518,22 +518,22 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 0
       pos: 2
     nameRight: Nemu
-    textRight: userName got on the bus…
+    textRight: userName got on the bus...
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
-    textLeft: Eh!? Um…
+    textLeft: Eh!? Um...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
-      id: 100701
+      id: 100770
       motion: 400
     nameLeft: Touka
     textLeft: Taxiii!
@@ -550,7 +550,7 @@ story:
     narrationEffect: out
     textRight: It's just you young ladies on this trip?
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 201
       pos: 0
     nameLeft: Touka
@@ -558,7 +558,7 @@ story:
   - chara:
     - id: 800900
     nameRight: ""
-    textRight: O-Okay…!
+    textRight: O-Okay...!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

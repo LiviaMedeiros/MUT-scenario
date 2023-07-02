@@ -11,13 +11,13 @@ story:
     turnChangeOut: fadeOut
   - narration: But...
   - nameNarration: ""
-    narration: '"Yet, with no discernible themes, your art is @a powerful drug that
+    narration: '"Yet, with no discernible themes, your art is@a powerful drug that
       may drive people mad."'
-  - narration: If you don't intend to change the world,@stop creating.
+  - narration: '"If you don''t intend to change the world,@stop creating."'
   - nameNarration: Alina
     narration: After hearing those words,@I realized I had nothing.
   - autoTurnLast: 1
-    bg: bg_adv_21025.jpg
+    bg: bg_adv_21491.jpg
     chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -30,7 +30,7 @@ story:
   - nameNarration: Alina
     narration: Even traveling the world and seeing about @all there is to see didn't
       fix that.
-    narrationBg: bg_adv_21025.jpg
+    narrationBg: bg_adv_21491.jpg
     narrationEffect: in
     turnChangeOut: fadeOut
   - narration: Over this past month, I haven't changed.
@@ -328,7 +328,7 @@ story:
       id: 101201
       lipSynch: 0
       motion: 0
-    textRight: '[chara:101201:lipSynch_1]Is that weird?'
+    textRight: '...[wait:1.0][chara:101201:lipSynch_1]Is that weird?'
   - chara:
     - id: 100801
       motion: 0

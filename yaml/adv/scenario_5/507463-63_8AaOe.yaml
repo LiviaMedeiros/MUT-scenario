@@ -19,23 +19,24 @@ story:
     chara:
     - id: 102103
     nameRight: Yuna
-    textRight: Hey, Ao.
+    textRight: Pardon me, Ao.
     turnChangeOut: fadeOut
   - chara:
     - id: 102301
       motion: 200
     nameLeft: Ao
-    textLeft: Not now~ @Don't talk to me right now~
+    textLeft: One sec~ @Don't talk to me right now~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102103
       motion: 300
-    textRight: Sorry.
+    textRight: I'm sorry.
   - chara:
     - id: 102103
       motion: 1
-    textRight: But we need to talk. I'm glad you finally decided to come here but...
+    textRight: We need to talk, though. I am glad that you @finally decided to come
+      here, but...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -46,7 +47,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102301
       motion: 400
-    textLeft: You may fall prey to my battleaxe!~
+    textLeft: You may fall prey to my battle axe~!
   - chara:
     - id: 102103
     textRight: I wasn't expecting you to bring your own video @games and ask to use
@@ -68,14 +69,14 @@ story:
       motion: 200
     - eyeClose: 0
       id: 102301
-    textRight: And then to spend all your time playing games like @this is your own
-      house.
+    textRight: '...and then spend all of your time playing games @as if this is your
+      own house.'
   - chara:
     - eyeClose: 0
       id: 102103
       motion: 0
-    textRight: I have to prepare for tomorrow's meeting, so it'd be great if you could
-      at least turn it down a little...
+    textRight: I must prepare for tomorrow's meeting, so it would @be great if you
+      could at least turn it down a little...
   - chara:
     - cheek: 0
       face: mtn_ex_063.exp.json
@@ -100,7 +101,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102301
-    textLeft: But my parents don't like me playing games, so I had @to escape my house
+    textLeft: But my parents don't like me playing games, so I @had to escape my house
       and do it here~
   - chara:
     - cheek: 0
@@ -121,7 +122,7 @@ story:
       id: 102301
     textLeft: Because she's my other self. The me who can fight.
   - nameNarration: ""
-    narration: '[se:7106_telmail]*Notification sound*'
+    narration: '[se:7106_telmail]*Bing*'
     narrationEffect: in
   - chara:
     - cheek: 0
@@ -135,7 +136,7 @@ story:
       id: 102201
       motion: 0
     narrationEffect: out
-    textRight: What was that sound?
+    textRight: What was that noise?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -155,7 +156,7 @@ story:
   - chara:
     - id: 102301
       motion: 100
-    textLeft: Mmh, well, this was a direct message.
+    textLeft: Mm, well, this was a direct message.
   - chara:
     - id: 102301
     textLeft: So only I can read it.
@@ -166,7 +167,7 @@ story:
       id: 102301
       lipSynch: 0
       motion: 400
-    textLeft: '............!?'
+    textLeft: '*Gasp*?!'
   - chara:
     - id: 102301
       lipSynch: 1
@@ -186,17 +187,17 @@ story:
       id: 102103
       lipSynch: 0
       motion: 400
-    textRight: '[chara:102103:effect_emotion_surprise_0][se:7226_shock]......!?'
+    textRight: '[chara:102103:effect_emotion_surprise_0][se:7226_shock]—?!'
   - chara:
     - id: 102301
-    textLeft: She always shows up at this time for the boss.
+    textLeft: She always shows up at this time for the boss,
   - chara:
     - id: 102301
-    textLeft: So I was going to try contacting her.
+    textLeft: so I was gonna try contacting her,
   - chara:
     - id: 102301
       motion: 300
-    textLeft: But she beat me to it.
+    textLeft: but she beat me to it.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -204,7 +205,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Hikaru
-    textRight: So that's why you've been playing games so much @here, huh!
+    textRight: So that's why you've been playin' games here @all the time, huh!
   - chara:
     - id: 102301
       motion: 100
@@ -227,7 +228,7 @@ story:
     - id: 304400
       motion: 200
     nameNarration: Ranka
-    narration: randios @ I knew you'd show up here @if you were really coming after
+    narration: randios @i knew you'd show up here if you were @really coming after
       me.
     narrationEffect: in
     narrationHAlignment: left
@@ -236,33 +237,33 @@ story:
   - chara:
     - id: 102300
     nameNarration: Ao
-    narration: blue_axe @ Despite seeing you in real life so many times, @I couldn't
+    narration: blue_axe @Despite seeing you in real life so many times, @I couldn't
       catch you. But in this game, @you can talk to anyone as long as you know @their
       player name.
   - chara:
     - id: 304400
       motion: 1
     nameNarration: Ranka
-    narration: randios @ You can thank me for not blocking you. @It's hard to believe
-      you didn't block me either, @though.
+    narration: randios @you can thank me for not blocking you. @it's hard to believe
+      you didn't block me either tbh.
   - chara:
     - id: 102300
       motion: 200
     nameNarration: Ao
-    narration: blue_axe @ Why would I get rid of a way to contact the person @I want
+    narration: blue_axe @Why would I get rid of a way to contact the person @I want
       to kill?
   - chara:
     - id: 102300
       motion: 0
-    narration: blue_axe @ So, why are you sending me a message? @You want to poke
-      fun at me and tick me off? @Or do you want me to come kill you?
+    narration: blue_axe @So, why are you sending me a message? @You want to poke fun
+      at me and tick me off? @Or do you want me to come kill you?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 304400
       motion: 300
     nameNarration: Ranka
-    narration: randios @The second one, I guess. I want to talk to you in person.
+    narration: randios @the second one, i guess. i wanna talk to you in person.
   - chara:
     - id: 102300
       motion: 100
@@ -274,8 +275,8 @@ story:
       id: 304400
       motion: 0
     nameNarration: Ranka
-    narration: randios @It's settled, then. @Meet me tomorrow night at Janomiya's
-      base. @I'll be there on my own, @but you can bring friends if you want.
+    narration: randios @it's settled, then. @meet me tomorrow night at janomiya's
+      base. @i'll be there on my own, @but you can bring friends if you want.
   - autoTurnLast: 0.01
     bg: bg_adv_21463.jpg
     chara:
@@ -294,7 +295,7 @@ story:
   - chara:
     - id: 102301
       lipSynch: 0
-    textLeft: '............'
+    textLeft: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 102201
@@ -307,7 +308,7 @@ story:
       motion: 1
       pos: 0
     nameLeft: Yuna
-    textLeft: She's obviously up to something. You'd better take someone with you.
+    textLeft: She's obviously up to something. You had better @take someone with you.
   - chara:
     - id: 102201
       motion: 0
@@ -319,14 +320,14 @@ story:
       motion: 200
       pos: 0
     nameLeft: Ao
-    textLeft: No, half of this is about my revenge, so I'm going @solo tomorrow~
+    textLeft: No, this is partly a personal thing, @so I'm going solo tomorrow~.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102201
       motion: 400
       mouthOpen: 1
-    textRight: '[chara:102201:effect_emotion_surprise_0][se:7226_shock]What!?'
+    textRight: '[chara:102201:effect_emotion_surprise_0][se:7226_shock]What?!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -334,7 +335,7 @@ story:
       motion: 100
     - id: 102201
       mouthOpen: 0
-    textLeft: It's Hard Mode after all~
+    textLeft: It's Hard Mode, after all~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -346,7 +347,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 102301
       motion: 200
-    textLeft: Then, why don't you come with me, Hikaru?
+    textLeft: Then why don't you come with me, Hikaru?
   - chara:
     - id: 102301
     textLeft: Just you would be more than enough.
@@ -359,7 +360,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102301
       motion: 0
-    textLeft: I'm going to step outside for some fresh air~
+    textLeft: I'm gonna step outside for some fresh air~
   - autoTurnLast: 1
     bgm: stop
     chara:
@@ -378,7 +379,7 @@ story:
   - chara:
     - id: 102201
       motion: 1
-    textRight: '... Are you sure I don''t need to go with you...?'
+    textRight: '...Are you sure I don''t need to go with you...?'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -387,25 +388,25 @@ story:
     textLeft: I'm more worried about Ao.
   - chara:
     - id: 102103
-    textLeft: She seems like she's on thin ice right now.
+    textLeft: She seems like she's on thin ice right now,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102103
       motion: 0
-    textLeft: So I want you to keep an eye on her.
+    textLeft: so I want you to keep an eye on her.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102103
       motion: 0
-    textLeft: Plus, it'd be better to not have Torayamachi's Horse @show up at the
-      meeting.
+    textLeft: Plus, it would be better not to have the @Horse of Torayamachi show
+      up at the meeting.
   - chara:
     - eyeClose: 1
       id: 102201
       motion: 0
-    textRight: '... I understand.'
+    textRight: '...I understand.'
   - chara:
     - cheek: 0
       eyeClose: 0

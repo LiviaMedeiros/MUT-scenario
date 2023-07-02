@@ -1,24 +1,28 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_14062.jpg
+  - autoTurnLast: 0.01
+    bg: bg_adv_14062.jpg
     bgm: bgm01_anime03
     chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_050.exp.json
       id: 301601
-      motion: 200
+      motion: 0
       pos: 0
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 302901
       motion: 0
       pos: 2
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 301601
+      motion: 200
     nameLeft: Kokoro
     nameRight: Masara
     textLeft: Eyyyaahh... *Sigh*
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -114,18 +118,22 @@ story:
       lipSynch: 0
       motion: 200
     textRight: '...'
-  - bg: bg_adv_11061.jpg
-    bgm: bgm03_story02
+  - autoTurnLast: 0.5
+    bg: bg_adv_11061.jpg
+    bgm: stop
     chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 302901
       motion: 0
       pos: 2
+    turnChangeIn: fadeIn
+  - bgm: bgm03_story02
+    chara:
+    - id: 302901
     nameLeft: Mitama
     nameRight: Masara
     textRight: Hello.
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -144,7 +152,8 @@ story:
       motion: 1
     textLeft: Oh, really? [chara:101700:lipSynch_0][wait:1.0][chara:101700:cheek_0][chara:101700:face_mtn_ex_010.exp.json][chara:101700:lipSynch_1]*Giggle*
       Come on in.
-  - chara:
+  - autoTurnLast: 0.5
+    chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 101700
@@ -153,11 +162,14 @@ story:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 302901
+      motion: 0
+      pos: 2
+    turnChangeIn: fadeIn
+  - chara:
+    - id: 302901
       lipSynch: 0
       motion: 200
-      pos: 2
     textRight: '...'
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -207,31 +219,39 @@ story:
   - chara:
     - id: 101700
     textLeft: She?
-  - bg: bg_adv_14062.jpg
+  - autoTurnLast: 1
+    bg: bg_adv_14062.jpg
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 301601
       motion: 0
       pos: 1
-    nameCenter: Kokoro
-    textCenter: The last time we all took a trip together@as a family...we went hiking.
     turnChangeIn: fadeIn
-    turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
+    - id: 301601
+    nameCenter: Kokoro
+    textCenter: The last time we all took a trip together@as a family...we went hiking.
+    turnChangeOut: fadeOut
+  - autoTurnLast: 0.01
+    chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 301601
-      motion: 200
+      motion: 0
       pos: 1
-    textCenter: Still, for me...
     turnChangeIn: fadeIn
+  - chara:
+    - id: 301601
+      motion: 200
+    textCenter: Still, for me...
     turnChangeOut: fadeOut
   - chara:
     - id: 301601
     textCenter: '...it''s probably the most unforgettable@memory I have, by far.'
-  - bg: bg_adv_11061.jpg
+  - autoTurnLast: 1
+    bg: bg_adv_11061.jpg
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -243,12 +263,14 @@ story:
       id: 302901
       motion: 0
       pos: 2
+    turnChangeIn: fadeIn
+    turnEffect: stop
+  - chara:
+    - id: 101700
     nameLeft: Mitama
     nameRight: Masara
     textLeft: Ahaaa... I see.
-    turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-    turnEffect: stop
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

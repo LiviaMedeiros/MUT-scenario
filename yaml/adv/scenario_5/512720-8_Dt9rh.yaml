@@ -62,7 +62,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101450
+      id: 101472
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -76,7 +76,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: blackFrame
   - chara:
-    - id: 101450
+    - id: 101472
     nameRight: Nemu
     textRight: But I want Sakurako to experience what it's@like to accomplish something.
     turnChangeOut: fadeOut
@@ -90,7 +90,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101450
+      id: 101472
       motion: 100
     nameRight: Nemu
     textRight: '*Chuckle* Real experience is the greatest@treasure of all.'
@@ -466,7 +466,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100750
+      id: 100771
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -474,7 +474,7 @@ story:
       pos: 1
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101450
+      id: 101472
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -491,22 +491,22 @@ story:
     chara:
     - cheek: 1
       face: mtn_ex_011.exp.json
-      id: 100750
+      id: 100771
       motion: 201
     textClear: 1
   - autoTurnLast: 1.5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101450
+      id: 101472
       motion: 100
     textClear: 1
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
-      id: 101450
+      id: 101472
     - effect: fadeout
-      id: 100750
+      id: 100771
     - effect: fadeout
       id: 101550
     textClear: 1

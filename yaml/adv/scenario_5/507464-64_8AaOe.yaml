@@ -14,12 +14,12 @@ story:
     chara:
     - id: 102400
     nameCenter: Juri
-    textCenter: Yuna's being too hopeful.
+    textCenter: Yuna's bein' too hopeful.
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
     - id: 102400
-    textCenter: There'll be another shortage around here soon... and you know what
+    textCenter: There'll be another shortage around here soon... @And you know what
       comes next.
   - chara:
     - cheek: 0
@@ -57,7 +57,7 @@ story:
     textLeft: I'm absolutely sure~
   - chara:
     - id: 102301
-    textLeft: If anything, I'm excited that I can finally put an end @to it all.
+    textLeft: If anything, I'm excited that I can finally put an @end to it all.
   - autoTurnLast: 0.3
     bg: bg_adv_21381.jpg
     chara:
@@ -101,7 +101,7 @@ story:
     turnEffect: stop
   - chara:
     - id: 102201
-    textRight: Your vengeance and the peace Yuna is working toward...
+    textRight: Your vengeance and the peace Yuna's workin' @toward...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -114,7 +114,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 102301
       motion: 0
-    textLeft: Me too...~
+    textLeft: Me too~
   - autoTurnLast: 0.3
     bg: bg_adv_21381.jpg
     chara:
@@ -132,14 +132,14 @@ story:
   - chara:
     - id: 102300
       motion: 300
-    textLeft: Even if things settle down around here, it won't last long...
+    textLeft: No matter how peaceful it gets around here, @it won't last long...
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
     - id: 102400
       motion: 100
     nameRight: Juri
-    textRight: That's right. @Eventually we'll return to that madness.
+    textRight: Uh-huh. @Eventually, we'll return to this shitshow.
   - chara:
     - id: 102400
     textRight: There's a limit to how many Magical Girls can survive @in this city.
@@ -170,8 +170,8 @@ story:
     - id: 304400
       motion: 300
     nameNarration: Ranka
-    narration: randios@　Weren't you planning on killing me? @I was actually a little
-      disappointed when I heard @from Juri what happened between you two.
+    narration: randios @weren't you planning on killing me? @ngl i was a little disappointed
+      when i heard @from juri what happened between you two.
     narrationEffect: in
     narrationHAlignment: left
     narrationPosX: 100
@@ -180,7 +180,7 @@ story:
     - id: 102300
       motion: 300
     nameNarration: Ao
-    narration: blue_axe@　I think... @there's something else I have to do, @before
+    narration: blue_axe @I think... @There's something else I have to do, @before
       I can do that...
   - autoTurnLast: 1.5
     bg: bg_adv_21031.jpg
@@ -220,13 +220,13 @@ story:
     textCenter: Welcome, Ao.
   - chara:
     - id: 304400
-    textCenter: I'm Ranka Chizu, the second in command of Monzenbashi.
+    textCenter: I'm Ranka Chizu, the second-in-command of Monzenbashi.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 304400
       motion: 200
-    textCenter: And look who else is here, that annoying girl from @the other night.
+    textCenter: And look who else is here, that little shit from @the other night.
   - autoTurnLast: 0.2
     chara:
     - id: 304400
@@ -239,30 +239,31 @@ story:
       motion: 200
       pos: 2
     nameRight: Hikaru
-    textRight: How rude.
+    textRight: Talk about rude.
   - chara:
     - id: 102200
     textRight: You're just upset that your gang fell for @Torayamachi's plan.
   - chara:
     - id: 102200
       motion: 100
-    textRight: And I'm not "that annoying girl", I'm Hikaru Kirari.
+    textRight: And I'm not "that little shit", I'm Hikaru Kirari.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 304400
       motion: 100
     nameLeft: Ranka
-    textLeft: In that case, why don't you become something more suited to that name?
+    textLeft: Your name means "sparkling", right? In that case, @why don't you become
+      something more suited to @that name?
   - chara:
     - id: 102200
       motion: 0
-    textRight: '... What''s that supposed to mean?'
+    textRight: '...What are you gettin'' at?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304400
-    textLeft: I mean you're going to become a star.
+    textLeft: I mean you're gonna be crushed into stardust.
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -275,7 +276,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102200
       motion: 200
-    textRight: As the horse of Torayamachi, I will not go down that easily.
+    textRight: As the Horse of Torayamachi, I won't go down that easily.
   - autoTurnLast: 0.5
     bgm: stop
     chara:
@@ -288,13 +289,12 @@ story:
       face: mtn_ex_060.exp.json
       id: 102200
       motion: 300
-    textRight: '[surround:3016A06][chara:102200:effect_7003_damage02][bgEffect:shakeLarge]Argh...
-      Ugh...'
+    textRight: '[surround:3016A06][chara:102200:effect_7003_damage02][bgEffect:shakeLarge]Aah...ugh...'
   - chara:
     - cheek: 0
       face: mtn_ex_063.exp.json
       id: 102200
-    textRight: What?... Ao?...
+    textRight: Huh...? Ao...?
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
@@ -302,7 +302,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Ao
-    textLeft: I had to... do this... for myself...
+    textLeft: I had to...do this...for myself...
   - chara:
     - eyeClose: 1
       id: 102300

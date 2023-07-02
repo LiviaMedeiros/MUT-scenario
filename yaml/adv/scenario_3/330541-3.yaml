@@ -33,12 +33,12 @@ story:
     - effect: fadeout
       id: 305401
     textClear: 1
-  - nameNarration: blue_exe
-    narration: ggwp
-  - nameNarration: blue_exe
-    narration: youre definitely mvp of this quest mist@an absolute boss
-  - nameNarration: blue_exe
-    narration: seriously when do you even sleep?
+  - nameNarration: ""
+    narration: 'blue_axe: ggwp'
+  - nameNarration: ""
+    narration: 'blue_axe: youre definitely mvp of this quest mist@an absolute boss'
+  - nameNarration: ""
+    narration: 'blue_axe: seriously when do you even sleep?'
   - chara:
     - cheek: 0
       eyeClose: 1

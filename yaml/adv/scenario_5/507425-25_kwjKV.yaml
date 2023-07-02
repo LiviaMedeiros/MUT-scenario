@@ -9,8 +9,8 @@ story:
     narration: '[flashEffect:flashRed1]"Uuu...aaaAAAHHHH!"'
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: '[flashEffect:flashRed1]"Someone...argh!"'
-  - narration: '[flashEffect:flashWhite1]"Yaaah!!"'
+  - narration: '[flashEffect:flashRed1]"Someone...ngh!"'
+  - narration: '[flashEffect:flashWhite1]"Seyaaah!"'
   - narration: '[flashEffect:flashRed1]"Ugh..."'
   - chara:
     - cheek: 0
@@ -21,13 +21,13 @@ story:
       pos: 1
     nameCenter: Ao
     narrationEffect: out
-    textCenter: (It doesn't matter if Torayamachi knows@this area better or not...)
+    textCenter: (It doesn't matter if Torayamachi knows @this area better or not...)
   - chara:
     - eyeClose: 1
       id: 102300
       lipSynch: 0
       motion: 300
-    textCenter: (This isn't guerilla warfare...it's@just a massacre...)
+    textCenter: (This isn't guerilla warfare...it's @just a massacre...)
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -44,7 +44,7 @@ story:
       motion: 0
       pos: 2
     nameRight: ""
-    textRight: Found you!@Ryuugasaki!
+    textRight: Found you, Ryuugasaki!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -52,7 +52,7 @@ story:
       motion: 400
       mouthOpen: 1
     textBg: shout
-    textCenter: '[chara:770081:effect_7001_attack02][surround:1012A02]Ugh, AAAAAH!'
+    textCenter: '[chara:770081:effect_7001_attack02][surround:1012A02]Urgh, AAAAAAH!'
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -60,7 +60,7 @@ story:
       id: 770081
     - id: 102300
       mouthOpen: 0
-    textRight: '[surround:1012A04][chara:770081:effect_7003_damage02][bgEffect:shakeLarge]Ugh...!!'
+    textRight: '[surround:1012A04][chara:770081:effect_7003_damage02][bgEffect:shakeLarge]Guh...!'
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -71,8 +71,8 @@ story:
     - id: 102300
       lipSynch: 0
       motion: 0
-    textCenter: (I've got to take out Juri and Yuna...@otherwise this isn't going
-      to end...!!)
+    textCenter: (I've got to take out Juri and Yuna... @Otherwise this is never going
+      to end...!)
   - autoTurnLast: 0.2
     bg: bg_adv_21393.jpg
     chara:
@@ -91,7 +91,7 @@ story:
     - id: 102400
       motion: 200
     nameRight: Juri
-    textRight: You knew things would end up like@this from the start...?
+    textRight: You knew things would end up like @this from the start...?
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -127,7 +127,7 @@ story:
     - id: 770087
       lipSynch: 0
     nameCenter: ""
-    textCenter: …………
+    textCenter: '...'
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.2
     chara:
@@ -142,22 +142,22 @@ story:
       pos: 0
     nameLeft: Ao
     surround: 7202_telepathy
-    textLeft: We can't let the fight continue any@longer...
+    textLeft: We can't let the fighting continue any @longer...
     turnEffect: ef_adv_02
   - chara:
     - id: 102300
       motion: 200
-    textLeft: It's not how the plan went, but we'll@kill Juri and Yuna at the same
-      time...
+    textLeft: It's not how the plan was supposed to go, @but we'll kill Juri and Yuna
+      at the same time...
   - chara:
     - id: 770087
       lipSynch: 1
     nameRight: ""
-    textRight: '...Got it.@That was my thought too.'
+    textRight: '...Got it. @That was my thought too.'
   - chara:
     - id: 102300
       motion: 0
-    textLeft: We'll sneak up on them quietly...and@take them out in one strike...
+    textLeft: We'll sneak up on them quietly...and @take them out in one strike...
   - chara:
     - id: 770087
     textRight: Right...
@@ -182,21 +182,22 @@ story:
       motion: 0
       pos: 2
     nameLeft: Yuna
-    textLeft: It turns out that you guys figured out more@of our plan than we'd expected.
+    textLeft: It turns out that your girls figured out more @of our plan than we'd
+      expected,
   - chara:
     - id: 102102
-    textLeft: And that's why it turned into such@a mess.
+    textLeft: which is why this devolved into such @a mess.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 200
     nameRight: Juri
-    textRight: My team's pretty good, isn't it?
+    textRight: My team's pretty sweet, ain't it?
   - chara:
     - id: 102102
       motion: 300
-    textLeft: That's why so much blood has been@shed by both sides.
+    textLeft: Thanks to you, both sides have @shed untold amounts of blood.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -208,7 +209,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 0
-    textLeft: No, you surrender.
+    textLeft: No, YOU surrender.
   - chara:
     - id: 102102
     textLeft: I...
@@ -229,7 +230,7 @@ story:
       mouthOpen: 1
     nameCenter: Yuna & Juri
     textBg: shout
-    textCenter: '...WILL DESTROY YOU!!'
+    textCenter: '...WILL DESTROY YOU!'
   - autoTurnLast: 0.1
     bg: black
     bgm: stop
@@ -252,7 +253,7 @@ story:
       motion: 300
       pos: 1
     nameNarration: Yuna
-    narration: '[surround:1012A04][chara:102102:effect_7002_damage01]"Ggh...argh..."'
+    narration: '[surround:1012A04][chara:102102:effect_7002_damage01]"Ggh...aah..."'
   - autoTurnLast: 0.2
     bg: bg_adv_21393.jpg
     chara:
@@ -273,13 +274,13 @@ story:
       id: 102400
       lipSynch: 0
     surround: 7003_wind
-    textRight: …………
+    textRight: '...'
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 1
       id: 102102
       lipSynch: 0
-    textLeft: …………
+    textLeft: '...'
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -301,7 +302,7 @@ story:
       motion: 0
       pos: 0
     nameRight: ""
-    textRight: '*Pant...pant...pant...*'
+    textRight: '*Huff*...*Pant*...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -374,9 +375,9 @@ story:
     - 1
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: How do you use the gems that Ryuugasaki@had already found out about?@By
-      "changing" the position or "leaving them be",@the gears of fate would have moved@in
-      a very different direction.
+    narration: What do you do with the stones that Ryuugasaki @had already found out
+      about? @By "changing the position" or "leaving them be", @the gears of fate
+      would have moved @in very different directions.
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut

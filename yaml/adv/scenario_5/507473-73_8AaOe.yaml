@@ -19,37 +19,37 @@ story:
     chara:
     - id: 102201
     nameRight: Hikaru
-    textRight: So everyone in Janomiya is doing well now, huh...?
+    textRight: So everyone in Janomiya's doin' well now, huh...?
     turnChangeOut: fadeOut
   - chara:
     - id: 102301
       motion: 200
     nameLeft: Ao
-    textLeft: Yeah, we got the apology we'd wanted
+    textLeft: Yeah. We got the apology we'd wanted,
   - chara:
     - id: 102301
-    textLeft: and we were able to get rid of the one that didn't @regret what they
-      had done~
+    textLeft: and we were able to get rid of the one who didn't @regret what she'd
+      done~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102301
       motion: 300
-    textLeft: But Torayamachi... must be having a hard time @right now~
+    textLeft: But Torayamachi...must be having a hard time @right now~
   - chara:
     - id: 102201
       motion: 0
-    textRight: Everyone left
+    textRight: Everyone left,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102201
       motion: 100
-    textRight: So right now, Yuna and I have the base to ourselves.
+    textRight: so right now, Yuna and I have the base to ourselves.
   - chara:
     - id: 102301
       motion: 0
-    textLeft: I don't get it~ @Why are you saying that with a smile?~
+    textLeft: I don't get it~ @Why are you saying that with a smile~?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -61,7 +61,7 @@ story:
       face: mtn_ex_051.exp.json
       id: 102301
       motion: 1
-    textLeft: Wait, which gang do you think I'm with?~
+    textLeft: Wait, which gang do you think I'm with~?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -107,12 +107,12 @@ story:
       face: mtn_ex_010.exp.json
       id: 102201
       motion: 100
-    textRight: Either way, Yuna wants everyone to go over to Ryuugasaki.
+    textRight: Either way, Yuna wants everyone to go over to Ryuugasaki,
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102201
-    textRight: And I'm with her on that one.
+    textRight: and I'm with her on that one.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -131,19 +131,19 @@ story:
       face: mtn_ex_000.exp.json
       id: 102301
       motion: 1
-    textLeft: That so~
+    textLeft: That so~?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102201
       motion: 0
-    textRight: What are you going to do now, anyway?
+    textRight: What are you gonna do now, anyway?
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_030.exp.json
       id: 102301
-    textLeft: Everyone else in Janomiya has joined Ryuugasaki @now.
+    textLeft: Everyone else in Janomiya has joined Ryuugasaki @already.
   - chara:
     - id: 102301
     textLeft: But I still can't make up my mind...
@@ -173,7 +173,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102201
       motion: 400
-    textRight: '[chara:102201:effect_emotion_surprise_0][se:7226_shock]Oh, come on!'
+    textRight: '[chara:102201:effect_emotion_surprise_0][se:7226_shock]Aw, c''mon!'
   - chara:
     - id: 102301
       motion: 1
@@ -189,7 +189,7 @@ story:
     textRight: How shrewd...
   - bgm: stop
     nameNarration: ""
-    narration: '[surround:7105_telphone]*Cell phone ringing*'
+    narration: '[surround:7105_telphone]*Phone ringing*'
     narrationEffect: in
   - chara:
     - cheek: 0
@@ -205,7 +205,7 @@ story:
       id: 102201
       motion: 200
     surround: 7003_wind
-    textRight: It's... Sakuya!
+    textRight: It's...Sakuya!
   - autoTurnLast: 0.2
     bg: bg_adv_narration.jpg
     chara:
@@ -225,7 +225,7 @@ story:
     chara:
     - id: 102201
     nameLeft: Hikaru
-    textLeft: Sakuya! Where in the world are you!
+    textLeft: Sakuya! Where the heck are you?!
     turnChangeOut: fadeOut
     turnEffect: thinking
   - chara:
@@ -234,23 +234,23 @@ story:
       id: 302100
       motion: 400
     nameRight: Sakuya
-    textRight: Whoa, what!? Didn't Yuna tell you!?
+    textRight: Whoa, what?! Didn't Yuna tell you?!
   - chara:
     - id: 102201
       motion: 1
-    textLeft: She told me you were in some city gathering information.
+    textLeft: She told me you were in some city gatherin' information.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302100
       motion: 0
-    textRight: That's right. Yuna let me spend a lot of her money.
+    textRight: That's right. Yuna let me spend a ton of her money.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 302100
       motion: 100
-    textRight: Wait no, that's not important!
+    textRight: Wait, no, that's not important!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -260,7 +260,7 @@ story:
       I couldn't find her.
   - chara:
     - id: 302100
-    textRight: So after that, I went to the city where we'd last heard from her.
+    textRight: So after that, I went to the city where we'd last @heard from her.
   - chara:
     - id: 102201
       motion: 0
@@ -270,20 +270,20 @@ story:
       face: mtn_ex_030.exp.json
       id: 302100
       motion: 300
-    textRight: I couldn't find her anywhere.
+    textRight: Not a trace.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102201
       motion: 400
-    textLeft: Isn't the whole thing a bust then!?
+    textLeft: Does that mean the whole thing's a bust?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 302100
       motion: 0
-    textRight: That's what I thought, but then I finally found her on my way back
-      home.
+    textRight: That's what I thought too, but then I finally found @her on my way
+      back home.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -305,26 +305,26 @@ story:
       id: 102201
       lipSynch: 0
       motion: 300
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 302100
       motion: 200
-    textRight: Did you get that!?
+    textRight: Did you get that?!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102201
       lipSynch: 1
       motion: 400
-    textLeft: Huh? Oh?
+    textLeft: Huh? Oh!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102201
       motion: 100
-    textLeft: Yes!
+    textLeft: Aye!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -354,14 +354,14 @@ story:
     - id: 102201
       motion: 200
     nameRight: Hikaru
-    textRight: She found the Torayamachi girl that had been @chasing a witch down.
+    textRight: She found the Torayamachi girl who'd been @chasing a Witch down.
   - chara:
     - id: 102301
       motion: 400
     textLeft: Huh...
   - chara:
     - id: 102201
-    textRight: 'It sounds like some sort of emergency. '
+    textRight: 'It sounds like some kinda emergency. '
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

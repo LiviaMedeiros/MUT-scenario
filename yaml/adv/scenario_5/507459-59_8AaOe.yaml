@@ -29,11 +29,11 @@ story:
       id: 102301
       lipSynch: 0
       motion: 300
-    textCenter: (Ranka... She's probably hiding in here...)
+    textCenter: (Ranka...is probably hiding in here...)
   - chara:
     - id: 102301
       lipSynch: 0
-    textCenter: (And she must be with Juri...)
+    textCenter: (And I bet she's with Juri...)
   - chara:
     - eyeClose: 1
       id: 102301
@@ -43,7 +43,7 @@ story:
     - eyeClose: 1
       id: 102301
       lipSynch: 0
-    textCenter: '............'
+    textCenter: '...'
   - chara:
     - eyeClose: 1
       id: 102301
@@ -59,11 +59,11 @@ story:
     - eyeClose: 0
       id: 102301
       lipSynch: 0
-    textCenter: '(Player: Ao Kasane)'
+    textCenter: '(Player: Ao Kasane.)'
   - chara:
     - id: 102301
       lipSynch: 0
-    textCenter: '(Difficulty: Easy Mode)'
+    textCenter: '(Difficulty: Easy Mode.)'
   - chara:
     - id: 102301
       lipSynch: 1
@@ -115,7 +115,7 @@ story:
       pos: 1
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: '*Footsteps*'
+    narration: '*Footsteps*...'
     narrationBg: bg_adv_21381.jpg
     narrationCoverOpacity: 150
     narrationEffect: in
@@ -124,7 +124,7 @@ story:
     - id: 102300
       lipSynch: 0
     narrationEffect: out
-    textCenter: '............'
+    textCenter: '...'
   - chara:
     - id: 102300
       lipSynch: 0
@@ -151,7 +151,7 @@ story:
       motion: 400
       pos: 0
     nameLeft: Ao
-    textLeft: '!!'
+    textLeft: Ah!!
   - bgm: bgm24_story05
     chara:
     - cheek: 0
@@ -160,7 +160,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Juri
-    textRight: I almost got you. Haha~
+    textRight: Almost got ya. Heehee~
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -173,7 +173,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102400
       motion: 1
-    textRight: No more friendly tone with me?@[chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_010.exp.json][chara:102400:lipSynch_1]Well,
+    textRight: No more friendly tone with me? @[chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_010.exp.json][chara:102400:lipSynch_1]Eh,
       I was your enemy the whole time anyway.
   - chara:
     - cheek: 0
@@ -183,7 +183,7 @@ story:
     textLeft: Where's Ranka~?
   - chara:
     - id: 102400
-    textRight: She left like an hour ago.
+    textRight: She left, like, an hour ago.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -195,10 +195,10 @@ story:
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 200
-    textRight: Barging into the base of the gang you betrayed all on your own.
+    textRight: Bargin' into the base of the gang you betrayed, all on your own.
   - chara:
     - id: 102400
-    textRight: You've got a lot of guts, I'll give you that.
+    textRight: You got a lot of guts, I'll give ya that.
   - autoTurnLast: 2.5
     chara:
     - eyeClose: 1
@@ -209,7 +209,7 @@ story:
   - chara:
     - id: 102300
       motion: 0
-    textLeft: You want to fight me here?~
+    textLeft: You want to fight me here~?
   - chara:
     - eyeClose: 0
       id: 102400
@@ -230,7 +230,7 @@ story:
       motion: 100
       pos: 1
     nameCenter: Juri
-    textCenter: Just come and try me. You might get yourself a nice souvenir for Torayamachi.
+    textCenter: Just come an' try me. You might get yourself a nice souvenir for Torayamachi.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -248,7 +248,7 @@ story:
       motion: 200
       mouthOpen: 1
     textBg: shout
-    textCenter: This isn't a freaking game!
+    textCenter: This ain't a fuckin' game!
   - bgm: stop
     chara:
     - cheek: 0
@@ -257,13 +257,13 @@ story:
       lipSynch: 0
     - id: 102400
       mouthOpen: 0
-    textLeft: '............!?'
+    textLeft: —?!
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 0
-    textCenter: Now you've got your weapon out, what happens @next?
+    textCenter: Now that you got your weapon out, @what happens next?
   - autoTurnLast: 1
     chara:
     - effect: shake
@@ -272,11 +272,11 @@ story:
   - chara:
     - id: 102400
       motion: 1
-    textCenter: Your axe versus Juri the Great's flamethrower. @Which do you think
-      will hit first...?
+    textCenter: Your axe versus Juri the Great's flamethrower. @Which d'you think
+      is gonna hit first...?
   - chara:
     - id: 102400
-    textCenter: These flames will burn you... it'll hurt bad...
+    textCenter: These flames WILL burn you... It'll hurt like hell...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -286,26 +286,26 @@ story:
     chara:
     - id: 102400
       motion: 200
-    textCenter: What you're doing here with Juri the Great isn't fake.
+    textCenter: What you're doin' here with me ain't fake.
   - chara:
     - id: 102400
-    textCenter: It's a real fight, there's no mode select.
+    textCenter: It's a real fight. There's no mode select.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 102400
       motion: 100
     textBg: shout
-    textCenter: It's just a painful, agonizing fight to the death!
+    textCenter: Just a painful, agonizing fight to the death!
   - chara:
     - id: 102400
-    textCenter: Stop seeing reality as a game...
+    textCenter: Stop seein' reality as a game...
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 102300
       mouthOpen: 1
-    textLeft: '*Pant...pant...*'
+    textLeft: '*Pant*... *Pant*...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -325,7 +325,7 @@ story:
       mouthOpen: 1
     - id: 102400
       mouthOpen: 0
-    textLeft: '[se:8001_flame_01_v][chara:102300:effect_7003_damage02][bgEffect:shakeSmall]Ugh!'
+    textLeft: '[se:8001_flame_01_v][chara:102300:effect_7003_damage02][bgEffect:shakeSmall]Urgh!'
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -334,14 +334,13 @@ story:
   - chara:
     - id: 102400
       motion: 0
-    textCenter: You've been lying to yourself@[chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_010.exp.json:motion_100][chara:102400:lipSynch_1]like
-      that since you were in my gang.
+    textCenter: You've been lyin' to yourself like that since you were @in my gang.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
       motion: 300
-    textCenter: Otherwise you couldn't cope with it, could you?
+    textCenter: Otherwise you couldn't cope with it, could ya?
   - autoTurnLast: 0.2
     chara:
     - id: 102400
@@ -354,86 +353,85 @@ story:
       lipSynch: 0
       motion: 0
       pos: 0
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - id: 102400
       motion: 0
-    textRight: You're a soft girl like that.[chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_010.exp.json:motion_100][chara:102400:lipSynch_1]
-      But I took a liking to that kindness.
+    textRight: You're a softie like that. [chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_010.exp.json:motion_100][chara:102400:lipSynch_1]But
+      I took a liking to that kindness.
   - chara:
     - id: 102400
-    textRight: You're trying to act the part of a bad guy, but you're actually pure.
+    textRight: You're tryin' to play the part of a bad guy, but you're actually innocent.
   - chara:
     - id: 102400
       motion: 1
-    textRight: The fact that I'm still alive proves you're not ready to @kill someone.
+    textRight: The fact that I'm still kickin' proves you're not @ready to kill someone.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
-    textRight: Just stop it, already.
+    textRight: Just give it up, already.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102300
       motion: 200
-    textLeft: Stop what...?
+    textLeft: Give what up...?
   - chara:
     - id: 102400
       motion: 200
-    textRight: Getting revenge on Ranka.
+    textRight: Gettin' revenge on Ranka.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
-    textRight: She's changed too. You should've seen as much @when you were in Ryuugasaki,
+    textRight: She's changed, too. You shoulda seen as much @when you were in Ryuugasaki,
       right?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
-    textRight: Instead of her, you should be worrying about @yourself.
+    textRight: Instead of her, you should be worryin' about @yourself.
   - chara:
     - id: 102400
-    textRight: You've got to stop letting yourself be taken in by Torayamachi's pipe
-      dream.
+    textRight: You gotta stop lettin' yourself be taken in by Torayamachi's pipe dream.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 102300
       lipSynch: 0
       motion: 400
-    textLeft: '[chara:102300:effect_emotion_surprise_0][se:7226_shock]......!?'
+    textLeft: '[chara:102300:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102300
       lipSynch: 1
       motion: 200
-    textLeft: It's not a pipe dream. They promised they'd set us all free and give
-      us peace.
+    textLeft: It's not a pipe dream. They promised they'd @end the exploitation and
+      give us peace...!
   - chara:
     - id: 102300
     textLeft: Everyone in Janomiya believes in them!
   - chara:
     - id: 102400
       motion: 300
-    textRight: There's no guarantee that witches are back for good. Imagine what'll
-      happen if we stop fighting and keep @the current number of Magical Girls.
+    textRight: There's no guarantee Witches are back for good. @Imagine what'll happen
+      if we stop fighting and keep @the current number of Magical Girls.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102300
       lipSynch: 0
       motion: 0
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - id: 102400
-    textRight: Yuna's being too hopeful.
+    textRight: Yuna's bein' too hopeful.
   - chara:
     - id: 102400
-    textRight: There'll be another shortage around here soon... and you know what
+    textRight: There'll be another shortage around here soon... @And you know what
       comes next.
   - chara:
     - cheek: 0
@@ -447,7 +445,7 @@ story:
       lipSynch: 1
       motion: 300
       mouthOpen: 1
-    textLeft: '*Pant...pant...*'
+    textLeft: '*Pant*...*Wheeze*...'
   - chara:
     - eyeClose: 1
       id: 102300
@@ -463,8 +461,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 102400
       motion: 200
-    textRight: So let Juri the Great help you out. Let's wipe out more Magical Girls
-      together.
+    textRight: So let Juri the Great lend you a hand. Let's wipe out more Magical
+      Girls together.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -502,24 +500,24 @@ story:
     - id: 102300
       motion: 300
     nameLeft: Ao
-    textLeft: No matter how peaceful it gets, it will be the same @in the end...
+    textLeft: No matter how peaceful it gets around here, @it won't last long...
     turnChangeOut: fadeOut
   - chara:
     - id: 102400
       motion: 100
     nameRight: Juri
-    textRight: Yeah, the only word for that is "madness."
+    textRight: Uh-huh. @Eventually, we'll return to this shitshow.
   - chara:
     - id: 102400
-    textRight: This town can only sustain so many magical girls.
+    textRight: There's a limit to how many Magical Girls @can survive in this city.
   - chara:
     - id: 102400
       motion: 0
-    textRight: To do that...
+    textRight: And in order to be a survivor...
   - chara:
     - eyeClose: 1
       id: 102300
-    textLeft: We have to reduce the...
+    textLeft: We have to get rid of others.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
@@ -568,7 +566,7 @@ story:
     - id: 102300
       motion: 0
       mouthOpen: 1
-    textLeft: '*Pant...pant...*'
+    textLeft: '*Huff*... *Pant*...'
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -585,7 +583,7 @@ story:
       face: mtn_ex_032.exp.json
       id: 102400
       motion: 300
-    textRight: This city is a nightmare for people like her...
+    textRight: She ain't cut out for a city like this...
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

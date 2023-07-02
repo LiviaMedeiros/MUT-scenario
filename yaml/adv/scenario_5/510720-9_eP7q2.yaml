@@ -65,7 +65,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -73,7 +73,7 @@ story:
       pos: 1
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -84,9 +84,9 @@ story:
     - effect: fadeout
       id: 101501
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     nameNarration: ""
     narration: '*Click*...'
     narrationBg: bg_adv_21201.jpg
@@ -181,7 +181,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -206,7 +206,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
-      id: 101403
+      id: 101471
       motion: 0
     nameLeft: Nemu
     textLeft: '...A mother''s love?'
@@ -219,7 +219,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 101403
+      id: 101471
     nameLeft: Nemu
     textLeft: '...I didn''t do anything in particular.'
   - autoTurnLast: 0.2
@@ -227,7 +227,7 @@ story:
     - effect: fadeout
       id: 304601
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - chara:
     - cheek: 0
@@ -258,7 +258,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -266,7 +266,7 @@ story:
       pos: 0
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -282,7 +282,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101403
+      id: 101471
     nameCenter: Nemu
     textCenter: I welcome the change. Let's make some@memories.
   - chara:
@@ -295,9 +295,9 @@ story:
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
-      id: 100701
+      id: 100770
     - effect: fadeout
-      id: 101403
+      id: 101471
     textClear: 1
   - autoTurnLast: 0.2
     chara:
@@ -413,7 +413,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -422,7 +422,7 @@ story:
     nameLeft: Touka
     textLeft: But, that involves the precise location of@Sakurako's [textBlue:Rumor].
   - chara:
-    - id: 100701
+    - id: 100770
     nameLeft: Touka
     textLeft: I would prefer to keep it secret...
   - chara:
@@ -445,7 +445,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -478,19 +478,19 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 101403
+      id: 101471
       motion: 200
     nameLeft: Nemu
     textLeft: I understand. I'll help you.
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 0
     nameLeft: Nemu
     textLeft: If friendship is about supporting each other@as you move forward...
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
-      id: 101403
+      id: 101471
     nameLeft: Nemu
     textLeft: I suppose "motherly love" is for giving them@a push from behind.
   - chara:
@@ -511,7 +511,7 @@ story:
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -521,7 +521,7 @@ story:
     textLeft: Mmngh...
   - chara:
     - eyeClose: 1
-      id: 100701
+      id: 100770
     nameLeft: Touka
     textLeft: I suppose, if the location can be hidden...mmm,@well, it's fine...
   - chara:

@@ -104,7 +104,7 @@ story:
     turnChangeOut: rollOutFast
     turnEffect: thinking
   - autoTurnLast: 0.01
-    bg: bg_adv_21025.jpg
+    bg: bg_adv_21491.jpg
     chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -165,7 +165,7 @@ story:
       id: 101201
       lipSynch: 0
       motion: 300
-    textCenter: '(I... I haven''t done anything wrong...)@ '
+    textCenter: (I... I haven't done anything wrong...)
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json
@@ -487,7 +487,7 @@ story:
     textLeft: That's it...
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
-    bg: bg_adv_21025.jpg
+    bg: bg_adv_21491.jpg
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -553,7 +553,7 @@ story:
       id: 101201
       lipSynch: 0
       motion: 200
-    textLeft: '(I''m responsible for what I started!)@ '
+    textLeft: (I'm responsible for what I started!)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

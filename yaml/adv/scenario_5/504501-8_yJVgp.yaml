@@ -2,7 +2,7 @@
 story:
   group_1:
   - autoTurnLast: 0.01
-    bg: bg_adv_21025.jpg
+    bg: bg_adv_21491.jpg
     bgm: bgm03_story01
     chara:
     - cheek: 0
@@ -202,7 +202,7 @@ story:
       lipSynch: 0
       motion: 400
     narrationEffect: out
-    textLeft: '[chara:101201:effect_emotion_surprise_0][se:7226_shock]?!'
+    textLeft: '[chara:101201:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - eyeClose: 1
       id: 100801

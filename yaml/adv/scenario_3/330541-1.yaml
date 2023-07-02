@@ -111,7 +111,8 @@ story:
   - nameNarration: ""
     narration: '*Taptaptap*'
     turnChangeOut: fadeOut
-  - narration: 6 Likes
+  - narration: 'first period is way too early!@i was having such a good dream...@Notification:
+      6 Likes'
     narrationHAlignment: left
     narrationPosX: 180
   - autoTurnLast: 1
@@ -271,7 +272,8 @@ story:
   - nameNarration: ""
     narration: '*Taptaptap*'
     turnChangeOut: fadeOut
-  - narration: 8 Likes
+  - narration: 'my friend got me a surprise!@its a make-up assignment lmao@Notification:
+      8 Likes'
     narrationHAlignment: left
     narrationPosX: 180
   - autoTurnLast: 1
@@ -430,7 +432,8 @@ story:
   - nameNarration: ""
     narration: '*Taptaptap*'
     turnChangeOut: fadeOut
-  - narration: 3 Likes
+  - narration: 'watching a movie with my family! (^^)/@mom and dad cry too much lololol@Notification:
+      3 Likes'
     narrationHAlignment: left
     narrationPosX: 180
   - autoTurnLast: 1.3

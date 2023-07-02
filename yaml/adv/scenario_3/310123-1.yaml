@@ -1,7 +1,7 @@
 ---
 story:
   group_1:
-  - bg: bg_adv_21025.jpg
+  - bg: bg_adv_21491.jpg
     bgm: stop
     chara:
     - cheek: -1
@@ -111,7 +111,7 @@ story:
       motion: 300
       pos: 0
     nameLeft: Momoko
-    textLeft: She's been actin' like her head's in the @clouds recently, hasn't she?
+    textLeft: She's been actin' like her head's in the@clouds recently, hasn't she?
   - nameNarration: Karin
     narration: What Alina-senpai said just keeps@echoing in my head, over and over.
     narrationBg: bg_adv_15043.jpg
@@ -265,7 +265,7 @@ story:
   - textRight: That doesn't change the fact she's stolen@things over and over, does
       it?!
   - nameNarration: Karin
-    narration: Once she learned that Grandma was going to @live with us to recover
+    narration: Once she learned that Grandma was going to@live with us to recover
       from her illness...
     narrationBg: bg_adv_21082.jpg
     narrationEffect: in
@@ -308,7 +308,7 @@ story:
       id: 801400
       motion: 0
     textLeft: Tonight is Halloween...
-  - textLeft: I wish that Magical Kirin could exorcise  @my illness...
+  - textLeft: I wish that Magical Kirin could exorcise@my illness...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

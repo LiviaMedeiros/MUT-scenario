@@ -182,7 +182,7 @@ story:
   - chara:
     - id: 101801
       lipSynch: 0
-    textLeft: '(She would never believe me...)@ '
+    textLeft: (She would never believe me...)
   - autoTurnLast: 2
     turnChangeIn: fadeIn
     turnEffect: stop

@@ -19,15 +19,15 @@ story:
     chara:
     - id: 102300
     nameLeft: Ao
-    textLeft: I hope orange juice is good?~
+    textLeft: I hope orange juice is fine~?
     turnChangeOut: fadeOut
   - chara:
     - id: 102200
     nameRight: Hikaru
-    textRight: Oh, @yeah, thanks...
+    textRight: Oh, sure, thanks...
   - chara:
     - id: 102300
-    textLeft: It sucks that Ryuugasaki tried to jump you like that, before...
+    textLeft: It sucks that Ryuugasaki tried to jump you @like that earlier...
   - chara:
     - id: 102300
       motion: 200
@@ -37,14 +37,14 @@ story:
       face: mtn_ex_011.exp.json
       id: 102200
       motion: 100
-    textRight: Well, you saved my life after all, @so I decided to put my faith in
+    textRight: Well, you saved my life, after all, @so I decided to put my faith in
       you.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102200
       motion: 300
-    textRight: But... what exactly is this place...?
+    textRight: But... What exactly is this place...?
   - chara:
     - id: 102200
     textRight: There's a bunch of other Magical Girls here...
@@ -86,7 +86,7 @@ story:
       id: 102200
       motion: 0
       pos: 2
-    textLeft: Well...
+    textLeft: Hehe...
   - chara:
     - eyeClose: 0
       id: 102300
@@ -97,35 +97,35 @@ story:
       face: mtn_ex_050.exp.json
       id: 102200
       motion: 1
-    textRight: Janomiya... huh...
+    textRight: Janomiya...huh...
   - chara:
     - id: 102300
-    textLeft: Right~
+    textLeft: Mm-hm~
   - chara:
     - id: 102300
       motion: 0
-    textLeft: I'll bet you've only heard of Torayamachi and @Ryuugasaki, right?~
+    textLeft: I'll bet you've only heard of Torayamachi and @Ryuugasaki, right~?
   - chara:
     - id: 102300
-    textLeft: And there used to be Monzenbashi, but that team's long gone~
+    textLeft: And there used to be Monzenbashi, @but that team's long gone~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102200
       motion: 0
-    textRight: Y-Yeah, that's right...
+    textRight: Y-yeah, that's true...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 102300
       motion: 200
-    textLeft: As for us~ We're like the assassin's guild in a video game.
+    textLeft: As for us~... We're like the assassin's guild in a video game.
   - chara:
     - id: 102300
     textLeft: Though in another way, we're just parasites.
   - chara:
     - id: 102300
-    textLeft: Every one of us belongs to either Torayamachi or Ryuugasaki.
+    textLeft: Every one of us also belongs to either @Torayamachi or Ryuugasaki.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -137,16 +137,16 @@ story:
       id: 102200
       lipSynch: 0
       motion: 400
-    textRight: '[chara:102200:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:102200:effect_emotion_surprise_0][se:7226_shock]*Gasp*?!'
   - chara:
     - id: 102300
       motion: 1
-    textLeft: If you're good at tricking others and keeping secrets, being with us
-      is like playing on easy mode.
+    textLeft: If you're good at tricking others and keeping secrets, @being with us
+      is like playing on Easy Mode.
   - chara:
     - id: 102200
       lipSynch: 1
-    textRight: Do you girls really...
+    textRight: Do you guys really...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -169,14 +169,15 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102300
-    textLeft: But you know, the older girls in the other groups do things much, much
+    textLeft: But you know, the older girls in the other groups @do things much, much
       worse.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102300
       motion: 300
-    textLeft: I've lost count of how many younger girls suffered because of them...
+    textLeft: I've lost count of how many younger girls @have suffered because of
+      them...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -227,17 +228,17 @@ story:
     turnChangeIn: rollInFast
   - chara:
     - id: 102200
-    textRight: Now that I think of it, everyone here looks young...
+    textRight: Now that you mention it, @everyone here looks young...
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 102300
-    textLeft: Oh, you noticed?~
+    textLeft: Oh, you noticed~?
   - chara:
     - id: 102300
       motion: 300
-    textLeft: Everyone in Janomiya is fifteen or younger~
+    textLeft: Everyone in Janomiya is fifteen or under~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -258,7 +259,7 @@ story:
     textRight: I'm thirteen.
   - chara:
     - id: 102300
-    textLeft: Then, why not join Janomiya and help us?
+    textLeft: Then why not join Janomiya and help us?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -272,7 +273,7 @@ story:
   - chara:
     - id: 102200
       motion: 0
-    textRight: Then what?
+    textRight: Then what do you want help with...?
   - bgm: stop
     chara:
     - cheek: 0
@@ -286,7 +287,7 @@ story:
       id: 102200
       lipSynch: 0
       motion: 400
-    textRight: '[chara:102200:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textRight: '[chara:102200:effect_emotion_surprise_0][se:7226_shock]...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -309,7 +310,7 @@ story:
       id: 770186
       motion: 0
       pos: 0
-    nameLeft: Magical Girl
+    nameLeft: ""
     textLeft: '[flashEffect:flashWhiteSlow2][se:7211_souljem_02]We''ll kill you without
       a moment''s hesitation.'
   - chara:
@@ -345,7 +346,7 @@ story:
     - eyeClose: 0
       id: 102300
       motion: 200
-    textLeft: We've all suffered so much... @but it just makes us want it more and
+    textLeft: We've all suffered so much... @But it just makes us want it more and
       more...
   - chara:
     - id: 102300
@@ -363,7 +364,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 200
-    textRight: Mmh, I've made up my mind. I'll help you out!
+    textRight: Mm, I've made up my mind. I'm in!
   - chara:
     - id: 102300
       motion: 100
@@ -373,7 +374,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102200
       motion: 100
-    textRight: I'm Hikaru Kirari, glad to be here!
+    textRight: I'm Hikaru Kirari! Glad to be here!
   - chara:
     - id: 102200
       motion: 0
@@ -381,11 +382,11 @@ story:
   - chara:
     - id: 102300
       motion: 400
-    textLeft: You're eager to get started, huh~
+    textLeft: You're eager to get started, huh~?
   - chara:
     - id: 102200
       motion: 1
-    textRight: I said I've made up my mind.
+    textRight: Told you I made up my mind.
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -423,7 +424,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 102300
-    textLeft: And then, off with their heads.
+    textLeft: And then it's off with their heads.
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -433,7 +434,7 @@ story:
     - id: 102200
       motion: 0
     textLeft: We'll kill the Fang of Torayamachi, Yuna Kurena, @and the Flame of Ryuugasaki,
-      Juri Oba.
+      Juri Ooba.
   - chara:
     - id: 102300
     textLeft: And then I, Ao Kasane, the Venom of Janomiya, @will turn this city into
@@ -441,35 +442,35 @@ story:
   - chara:
     - id: 102200
       motion: 400
-    textRight: Wow...
+    textRight: Woah...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102300
       motion: 1
-    textLeft: Are you judging us?~
+    textLeft: Are you judging us~?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102200
       motion: 200
-    textRight: I'm just surprised at how determined you are. @I even got goosebumps!
+    textRight: I'm just surprised by how determined you are. @I even got goosebumps!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102200
       motion: 1
-    textRight: But, are you sure the gangs are going to fight?
+    textRight: But are you sure the gangs are gonna fight?
   - chara:
     - id: 102200
-    textRight: I've heard they're both locked in a stalemate...
+    textRight: I heard they're locked in a stalemate...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102300
       motion: 0
-    textLeft: Apparently Torayamachi lost their Horse~ @If that's true, its only a
-      matter of time~
+    textLeft: Apparently Torayamachi lost their Horse~ @If that's true, it's only
+      a matter of time~
   - chara:
     - id: 102200
       motion: 300
@@ -480,7 +481,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102300
       motion: 300
-    textLeft: A mysterious Magical Girl that can summon an army against her foes.
+    textLeft: A mysterious Magical Girl who can summon an army against her foes.
   - chara:
     - eyeClose: 0
       id: 102300
@@ -497,10 +498,10 @@ story:
       face: mtn_ex_000.exp.json
       id: 102300
       motion: 200
-    textLeft: You've got it~
+    textLeft: You've got it~!
   - chara:
     - id: 102300
-    textLeft: There are plenty of other strats to use aside from rushing or turtling.
+    textLeft: There are plenty of other strats to use @aside from rushing or turtling.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

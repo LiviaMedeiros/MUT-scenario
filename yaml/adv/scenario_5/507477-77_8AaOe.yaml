@@ -22,7 +22,7 @@ story:
       mouthOpen: 1
     nameRight: Juri
     textBg: shout
-    textRight: '[se:8000_flame_01_s][chara:102102:effect_7000_attack01]Burn!'
+    textRight: '[se:8000_flame_01_s][chara:102102:effect_7000_attack01]BURN!'
     turnChangeOut: fadeOut
   - chara:
     - id: 102102
@@ -30,7 +30,7 @@ story:
     - id: 102400
       mouthOpen: 0
     nameLeft: Yuna
-    textLeft: Hmph... you take way too long to spray that fire.
+    textLeft: Hmph... You take far too long to spray that fire.
   - autoTurnLast: 1
     chara:
     - cheek: 0
@@ -47,13 +47,13 @@ story:
       id: 102400
       lipSynch: 0
       motion: 400
-    textRight: '......!'
+    textRight: Tch!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
       lipSynch: 1
-    textRight: Seriously, where's all of that stamina coming from...?
+    textRight: Seriously, where the fuck's all that stamina comin' from...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -65,7 +65,7 @@ story:
       face: mtn_ex_031.exp.json
       id: 102102
       motion: 300
-    textLeft: This is the place where Senpai became a witch.
+    textLeft: This is the place where Senpai became a Witch.
   - autoTurnLast: 0.3
     bg: bg_adv_20522.jpg
     chara:
@@ -77,13 +77,13 @@ story:
       pos: 1
     turnChangeIn: fadeIn
     turnEffect: blackFrame
-  - nameNarration: Senpai
-    narration: It's alright... @our last six months together weren't in vain... @and
-      now I'll live on within you...
+  - nameNarration: ""
+    narration: '"It''s alright... @Our last six months together weren''t in vain...
+      @And now I''ll live on within you..."'
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: Just remember... @whenever you need help, I'll be right there with
-      you... @alright...?
+  - narration: '"Just remember... Whenever you need help, @I''ll be right there with
+      you... Alright...?"'
   - chara:
     - eyeClose: 0
       id: 102102
@@ -91,9 +91,9 @@ story:
       motion: 0
     nameCenter: Yuna
     narrationEffect: out
-    textCenter: '............!'
-  - nameNarration: Senpai
-    narration: Argh... Ugh...
+    textCenter: '*Sob*...*Sniffle*...!'
+  - nameNarration: ""
+    narration: '"Gh... urgh..."'
     narrationEffect: in
   - chara:
     - id: 102102
@@ -101,12 +101,12 @@ story:
       motion: 400
     narrationEffect: out
     textBg: shout
-    textCenter: Senpai!!
-  - nameNarration: Senpai
-    narration: Yuna... please be safe... @My death will probably stain Futatsugi City
-      red...
+    textCenter: Senpai!
+  - nameNarration: ""
+    narration: '"Yuna... Please be safe... @My death will probably stain Futatsugi
+      City red..."'
     narrationEffect: in
-  - narration: '[bgEffect:shakeLarge]Ugh, aaaargh!!'
+  - narration: '[bgEffect:shakeLarge]"Ugh– AAAAAAAAGH!!"'
   - autoTurnLast: 0.3
     bg: bg_adv_20521.jpg
     chara:
@@ -130,15 +130,16 @@ story:
   - chara:
     - id: 102102
       motion: 300
-    textLeft: And her legacy that I decided to carry on,
+    textLeft: And I can no longer carry on
   - chara:
     - eyeClose: 1
       id: 102102
-    textLeft: I can't carry it anymore.
+    textLeft: the legacy of kindness that she passed down to me...
   - chara:
     - id: 102400
       motion: 100
-    textRight: '[chara:102102:effect_7001_attack02][se:8000_flame_01_s]Shut up already!'
+    textRight: '[chara:102102:effect_7001_attack02][se:8000_flame_01_s]Shut the hell
+      up already!'
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -176,19 +177,18 @@ story:
   - chara:
     - id: 102102
       motion: 100
-    textLeft: For all that thrashing around you did, is this really @the best you
-      could do?
+    textLeft: For someone who had been running roughshod, @I must say I'm rather underwhelmed.
     turnChangeOut: fadeOut
     turnEffect: sepiaFrame
   - chara:
     - id: 102400
       motion: 300
-    textRight: Shut up, you wannabe leader. Who the hell do you @think you are?
+    textRight: Shut up, you wannabe leader... @Who the hell do you think you are?
   - chara:
     - id: 102400
       motion: 200
-    textRight: Juri the Great's been leading these girls for a full @year! You think
-      you can just start bossing us @around?
+    textRight: Juri the Great's been leadin' these girls for a full @year! You think
+      you can just start bossin' us around?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -197,14 +197,14 @@ story:
     textLeft: You've only been leading them with brute force and fear.
   - chara:
     - id: 102102
-    textLeft: Now that Senpai's gone, I'm the one who will carry @on her legacy and
+    textLeft: Now that Senpai is gone, I'm the one who will carry @on her legacy and
       give these girls some sense of @stability.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 0
-    textRight: And you're using brute force to get me to fall in line. How ironic
+    textRight: And you're usin' brute force to get me to fall in line. @How ironic
       is that?
   - chara:
     - id: 102102
@@ -213,8 +213,8 @@ story:
   - chara:
     - id: 102400
       motion: 100
-    textRight: '... Heh. [chara:102400:lipSynch_0][wait:0.8][chara:102400:cheek_0][chara:102400:face_mtn_ex_010.exp.json][chara:102400:lipSynch_1]More
-      or less. Alright, fine. Have it your way.'
+    textRight: '...Heehee... [chara:102400:lipSynch_0][wait:0.8][chara:102400:cheek_0][chara:102400:face_mtn_ex_010.exp.json][chara:102400:lipSynch_1]More
+      or less. Alright, fine. @Have it your way.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -222,10 +222,10 @@ story:
       motion: 0
     - id: 102102
       motion: 0
-    textRight: But you're going to regret letting me live.
+    textRight: But you're gonna regret lettin' me live.
   - chara:
     - id: 102400
-    textRight: The longer I wait, the hotter my flames burn.
+    textRight: The longer I wait, the hotter my flames burn...
   - chara:
     - eyeClose: 1
       id: 102400
@@ -236,7 +236,7 @@ story:
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 200
-    textRight: You'll be burnt to a crisp by Juri the Great's inferno.
+    textRight: you'll be torched well-done by Juri the Great's @inferno.
   - autoTurnLast: 0.2
     bg: bg_adv_20521.jpg
     chara:
@@ -281,7 +281,7 @@ story:
       motion: 100
       mouthOpen: 1
     textBg: shout
-    textRight: '[se:8000_flame_01_s][chara:102102:effect_7001_attack02]doesn''t it!'
+    textRight: '[se:8000_flame_01_s][chara:102102:effect_7001_attack02]don''t it!'
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -291,18 +291,18 @@ story:
       motion: 0
     - id: 102400
       mouthOpen: 0
-    textLeft: '[chara:102102:effect_7003_damage02][se:8001_flame_01_v][bgEffect:shakeSmall]......!'
+    textLeft: '[chara:102102:effect_7003_damage02][se:8001_flame_01_v][bgEffect:shakeSmall]Nh!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
-    textRight: But the more Kyubey we killed, the less witches we could find around
+    textRight: But the more Kyubey we killed, the less Witches we could find around
       the city.
   - chara:
     - id: 102400
-    textRight: That's only natural. Fewer Kyubey means fewer @Magical Girls, and fewer
-      Magical Girls means fewer @witches.
+    textRight: Makes sense. Fewer Kyubey means fewer Magical @Girls, and fewer Magical
+      Girls means fewer Witches.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -317,7 +317,7 @@ story:
       motion: 100
     textBg: shout
     textRight: '[se:8000_flame_01_s][chara:102102:effect_7000_attack01]That''s because
-      I didn''t want to just play nice and die @of hunger together!'
+      I didn''t wanna just play nice and die @of hunger together!'
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -327,7 +327,7 @@ story:
       motion: 300
       mouthOpen: 1
     textBg: shout
-    textLeft: '[chara:102102:effect_7002_damage01][se:8001_flame_01_v][bgEffect:shakeSmall]Arrrgh!'
+    textLeft: '[chara:102102:effect_7002_damage01][se:8001_flame_01_v][bgEffect:shakeSmall]AAAAAH!'
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
@@ -335,11 +335,11 @@ story:
       motion: 200
     - id: 102102
       mouthOpen: 0
-    textRight: Hahaha, it's hot isn't it...? @I want you to burn even more!
+    textRight: Hahaha, it's hot, ain't it...? @I want ya to burn even more!
   - chara:
     - eyeClose: 0
       id: 102102
-    textLeft: '... And when witches disappeared from the city...!'
+    textLeft: '...And when Witches disappeared from the city...!'
   - chara:
     - id: 102400
     textRight: Yeah, that's when the [textRed:Bloody Tragedy] began.
@@ -366,32 +366,32 @@ story:
     chara:
     - id: 102102
       lipSynch: 0
-    textLeft: '......'
+    textLeft: '...'
     turnChangeOut: whiteOut
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102400
       motion: 400
-    textRight: Are you serious!?
+    textRight: Are you for real?!
   - chara:
     - id: 102102
       motion: 100
-    textLeft: You know what caused the [textRed:Bloody Tragedy]?
+    textLeft: Do you know what caused the [textRed:Bloody Tragedy]?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 200
-    textRight: '[se:8000_flame_01_s][chara:102102:effect_7000_attack01]The witches
-      vanishing.'
+    textRight: '[se:8000_flame_01_s][chara:102102:effect_7000_attack01]The Witches
+      vanishin''.'
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
       id: 102102
       lipSynch: 0
       motion: 300
-    textLeft: '[chara:102102:effect_7002_damage01][se:8000_flame_01_s][bgEffect:shakeSmall]......'
+    textLeft: '[chara:102102:effect_7002_damage01][se:8000_flame_01_s][bgEffect:shakeSmall]...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -405,19 +405,19 @@ story:
       id: 102400
       motion: 100
     textBg: shout
-    textRight: '[se:8000_flame_01_s][chara:102102:effect_7001_attack02]That''s something
-      you don''t even know!'
+    textRight: '[se:8000_flame_01_s][chara:102102:effect_7001_attack02]That''s somethin''
+      even you don''t know!'
   - chara:
     - eyeClose: 1
       id: 102102
       lipSynch: 0
       motion: 0
-    textLeft: '[chara:102102:effect_7003_damage02][se:8001_flame_01_v][bgEffect:shakeSmall]......'
+    textLeft: '[chara:102102:effect_7003_damage02][se:8001_flame_01_v][bgEffect:shakeSmall]...'
   - chara:
     - id: 102400
       motion: 0
-    textRight: How the hell are you still standing...? How are you walking like my
-      flames are nothing to you...!?
+    textRight: How the fuck are you still standin'...? How are you walkin' like my
+      flames are nothin' to you...?!
   - chara:
     - cheek: 1
       eyeClose: 0
@@ -433,7 +433,7 @@ story:
       id: 102102
       motion: 0
       mouthOpen: 1
-    textLeft: '*Pant pant*'
+    textLeft: '*Pant*...*Pant*...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -447,10 +447,11 @@ story:
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 1
-    textLeft: They were the ones who took our witches away...
+    textLeft: They were the ones who took our Witches away...
   - chara:
     - id: 102102
-    textLeft: They were the ones who caused us to fight and @caused us to die.
+    textLeft: They were the ones who forced us to fight and @take the lives of our
+      friends.
   - chara:
     - cheek: 1
       face: mtn_ex_021.exp.json
@@ -462,7 +463,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
-    textRight: Now I get it... it's them you want to kill, huh...
+    textRight: Now I getcha... It's them you wanna kill, huh...
   - chara:
     - id: 102102
       motion: 0
@@ -474,17 +475,17 @@ story:
     - eyeClose: 1
       id: 102400
       motion: 200
-    textRight: Hmph...
+    textRight: Tsk...
   - chara:
     - eyeClose: 0
       id: 102400
-    textRight: You're going to turn yourself into a witch with all of @that hate you
-      have toward them...!
+    textRight: You're gonna turn yourself into a Witch with all @that hate you have
+      towards them...!
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 102400
-    textRight: Before that happens... I'll burn you to death!
+    textRight: Before that happens... I'll burn ya to death!
   - chara:
     - id: 102400
       motion: 100

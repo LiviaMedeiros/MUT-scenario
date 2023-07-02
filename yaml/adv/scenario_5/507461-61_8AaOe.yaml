@@ -14,19 +14,19 @@ story:
     - id: 102400
       motion: 300
     nameCenter: Juri
-    textCenter: Screw you, Ao...
+    textCenter: Fuck you, Ao...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
       lipSynch: 0
-    textCenter: (My wounds look like they reopened...)
+    textCenter: (Looks like my wounds reopened...)
   - chara:
     - eyeClose: 1
       id: 102400
       lipSynch: 1
-    textCenter: (I don't want to make my dad worry anymore...)
+    textCenter: (I don't wanna make my dad worry anymore...!)
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -38,7 +38,7 @@ story:
     - eyeClose: 1
       id: 102400
       lipSynch: 0
-    textCenter: '............'
+    textCenter: '...'
   - autoTurnLast: 0.5
     bg: bg_adv_20521.jpg
     chara:
@@ -53,7 +53,7 @@ story:
     - id: 102400
       lipSynch: 0
       motion: 200
-    textCenter: (Alright, the next target is the Bat of Monzenbashi...)
+    textCenter: (Alright, next target is the Bat of Monzenbashi...)
     turnChangeOut: fadeOut
     turnEffect: sepiaFrame
   - chara:
@@ -62,33 +62,33 @@ story:
       id: 102400
       lipSynch: 0
       motion: 1
-    textCenter: (I can't let them keep control of the bridges like @this...)
+    textCenter: (I can't let her gang keep control of the bridges @like this...)
   - chara:
     - id: 102400
       lipSynch: 0
-    textCenter: (They're blocking my way to Big Sis...)
+    textCenter: (They're blockin' my way to Sis...)
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102400
       lipSynch: 0
       motion: 0
-    textCenter: '............'
+    textCenter: '...'
   - nameLeft: ???
     textBg: shout
-    textLeft: Arrgh!
+    textLeft: AAAAH!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
       lipSynch: 0
       motion: 0
-    textCenter: (... is that them over there...?)
+    textCenter: (...Is that them over there...?)
   - chara:
     - id: 102400
       lipSynch: 0
-    textCenter: (One, two, three............[wait:1.2][chara:102400:cheek_0][chara:102400:face_mtn_ex_020.exp.json]seven
-      of them...)
+    textCenter: (One, two, three... [wait:1.2][chara:102400:cheek_0][chara:102400:face_mtn_ex_020.exp.json]Seven
+      of 'em...)
   - chara:
     - id: 102400
       lipSynch: 0
@@ -99,7 +99,7 @@ story:
       id: 102400
       lipSynch: 0
       motion: 400
-    textCenter: '............!?'
+    textCenter: —?!
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
@@ -127,7 +127,7 @@ story:
       mouthOpen: 1
     nameRight: Ao
     textBg: shout
-    textRight: '[chara:102300:effect_7002_damage01][se:3001_chara_damage][bgEffect:shakeSmall]Ugh...!'
+    textRight: '[chara:102300:effect_7002_damage01][se:3001_chara_damage][bgEffect:shakeSmall]AGH...!'
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -138,18 +138,18 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 770183
-    nameLeft: Bat
-    textLeft: Give us your Grief Seed already.
+    nameLeft: ""
+    textLeft: C'mon, hand over your Grief Seed already.
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
       id: 102300
       motion: 0
       pos: 2
-    textRight: I can't... I fought hard to get this myself...
+    textRight: N-no way... I fought hard to get this myself...
   - chara:
     - id: 770183
-    textLeft: Yeah, that's why you've gotta give it to us.
+    textLeft: Yeah, which is exactly why you've gotta give it to us.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -162,7 +162,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102300
       motion: 300
-    textRight: '[chara:102300:effect_7003_damage02][se:3001_chara_damage][bgEffect:shakeSmall]Ugh...!'
+    textRight: '[chara:102300:effect_7003_damage02][se:3001_chara_damage][bgEffect:shakeSmall]Guh...!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -176,7 +176,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 770183
-    textLeft: Don't you think so... Ranka...?
+    textLeft: Don't you think so...Ranka...?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -186,7 +186,7 @@ story:
     - eyeClose: 0
       id: 102300
       motion: 0
-    nameLeft: Ranka
+    nameLeft: ""
     textLeft: Well, I guess you're right...
   - chara:
     - id: 304400
@@ -204,25 +204,25 @@ story:
       id: 102300
       lipSynch: 0
       motion: 200
-    textRight: '............'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770183
       motion: 0
       pos: 2
-    nameRight: Bat
-    textRight: Do it...Ranka...
+    nameRight: ""
+    textRight: Do it... Ranka...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 304400
       lipSynch: 0
       motion: 400
-    textLeft: '............!?'
+    textLeft: —?!
   - chara:
     - id: 770183
-    textRight: She needs to learn her lesson, and she needs to learn @it now.
+    textRight: She needs to learn her lesson, and she needs to @learn it now.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -251,13 +251,13 @@ story:
       face: mtn_ex_030.exp.json
       id: 102300
     nameRight: Ao
-    textRight: '[chara:102300:effect_7002_damage01][surround:3016A03][bgEffect:shakeSmall]Ugh!'
+    textRight: '[chara:102300:effect_7002_damage01][surround:3016A03][bgEffect:shakeSmall]Gh-!'
   - chara:
     - cheek: 0
       id: 304400
       lipSynch: 0
       motion: 200
-    textLeft: '[chara:102300:effect_7001_attack02][surround:3016A05]............'
+    textLeft: '[chara:102300:effect_7001_attack02][surround:3016A05]...'
   - autoTurnLast: 1
     chara:
     - eyeClose: 1
@@ -265,7 +265,7 @@ story:
       motion: 300
       mouthOpen: 1
     textBg: shout
-    textRight: '[chara:102300:effect_7003_damage02][surround:3016A06][bgEffect:shakeLarge]Aaaaargh!'
+    textRight: '[chara:102300:effect_7003_damage02][surround:3016A06][bgEffect:shakeLarge]AaaAAAH!'
   - chara:
     - eyeClose: 1
       id: 304400
@@ -274,14 +274,14 @@ story:
     - eyeClose: 1
       id: 102300
       mouthOpen: 0
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - cheek: 1
       eyeClose: 1
       face: mtn_ex_030.exp.json
       id: 102300
       tear: 1
-    textRight: Ugh... Stop it... I got it...
+    textRight: '*Pant*... Stop... I get...it...'
   - chara:
     - eyeClose: 0
       id: 304400
@@ -294,8 +294,8 @@ story:
       id: 770183
       motion: 0
       pos: 2
-    nameRight: Bat
-    textRight: Yes. Teaching is important, isn't it?
+    nameRight: ""
+    textRight: Yeah. Education's important, isn't it?
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -305,14 +305,14 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 770183
-    textRight: Where are you going?
+    textRight: Where are you goin'?
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
       id: 304400
       motion: 0
       pos: 0
-    textLeft: '... The bathroom.'
+    textLeft: '...The bathroom.'
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
@@ -325,7 +325,7 @@ story:
     - id: 102400
       lipSynch: 0
     nameCenter: Juri
-    textCenter: (What the hell did I just see...?)
+    textCenter: (What the fuck did I just see...?)
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -333,13 +333,13 @@ story:
       id: 102400
       lipSynch: 1
       motion: 200
-    textCenter: What if I just go burn them all...?
+    textCenter: What if I just go burn 'em all...?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102400
       lipSynch: 0
-    textCenter: '............!?'
+    textCenter: '...?!'
   - autoTurnLast: 0.2
     chara:
     - id: 102400
@@ -354,23 +354,23 @@ story:
       pos: 2
       tear: 1
     nameRight: Ranka
-    textRight: '............!?'
+    textRight: '...?!'
   - chara:
     - id: 102400
       lipSynch: 1
     nameLeft: Juri
-    textLeft: Crap...
+    textLeft: Oh shit...
   - chara:
     - id: 304400
       lipSynch: 1
       tear: 1
-    textRight: You're that girl from Ryuugasaki...
+    textRight: You're Ryuugasaki's...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
       motion: 0
-    textLeft: '... you''re crying?'
+    textLeft: '...You''re crying?'
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
@@ -378,14 +378,14 @@ story:
       lipSynch: 0
       motion: 0
       tear: 1
-    textRight: '............'
+    textRight: '...'
   - chara:
     - eyeClose: 1
       id: 304400
       lipSynch: 1
       motion: 300
       tear: 1
-    textRight: Help them... please... I'll do anything you want, @just help them...!
+    textRight: Help me...please... I'll do anything you want, @just help me...!
   - autoTurnLast: 0.3
     bg: bg_adv_21381.jpg
     chara:
@@ -398,24 +398,24 @@ story:
     turnEffect: stop
   - chara:
     - id: 102400
-    textCenter: Anyone would hate Ranka if they went through the same things that
-      Ao did...
+    textCenter: Anyone would hate Ranka if they went through the same shit that Ao
+      did...
     turnChangeOut: fadeOut
   - chara:
     - id: 102400
-    textCenter: What a pain...
+    textCenter: What a pain in the ass...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
       lipSynch: 0
-    textCenter: (...Well, I guess it's the same thing as me going after Yuna...)
+    textCenter: (...Well, it's pretty much the same as me goin' after Yuna...)
   - chara:
     - id: 102400
       lipSynch: 0
       motion: 0
-    textCenter: (I guess you can't stop hating someone just like that @if you believe
-      there's something to gain from killing them...)
+    textCenter: (I guess ya can't suddenly stop hatin' someone @if ya believe there's
+      somethin' to gain from @killin' them...)
   - bgm: stop
     chara:
     - cheek: 0
@@ -441,27 +441,27 @@ story:
   - bgm: bgm23_promised04
     chara:
     - id: 304400
-    textRight: The other girls aren't as disappointed with you as you think they are.
+    textRight: Even if you don't see it, the heart of Ryuugasaki @hasn't been lost.
     turnChangeOut: fadeOut
   - chara:
     - id: 102400
       motion: 0
-    textLeft: '...What makes you so sure?'
+    textLeft: '...What makes ya think that?'
   - chara:
     - id: 304400
       motion: 300
     textRight: We were right about Torayamachi trying to get the @other Ryuugasaki
-      girls to join with them.
+      girls to join them.
   - chara:
     - id: 304400
       motion: 1
-    textRight: But none of them are that flexible to give an easy yes @to an offer
+    textRight: But none of them are so easy as to just give a simple yes to an offer
       like that.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304400
-    textRight: They like you more than you think they do.
+    textRight: They admire you more than you think they do.
   - autoTurnLast: 0.3
     chara:
     - cheek: 0

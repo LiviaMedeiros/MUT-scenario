@@ -22,15 +22,15 @@ story:
       motion: 200
     nameLeft: Hikaru
     questTurnChangeOut: fadeOut
-    textLeft: I'm your loyal horse, but I have to go against you just this once.
+    textLeft: I'm your loyal horse, but I have to go against you @just this once.
     turnChangeOut: fadeOut
   - chara:
     - id: 102100
     nameRight: Yuna
-    textRight: You really want to fight me...?
+    textRight: Do you truly intend to fight me...?
   - chara:
     - id: 102200
-    textLeft: Yes, because it's part of my job to stop you even if I have to risk
+    textLeft: Yes, because it's part of my job to stop you, even if I have to risk
       my own life.
   - chara:
     - id: 102100
@@ -45,7 +45,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102200
       motion: 100
-    textLeft: Because I can hear the same thing as you.
+    textLeft: '''Cause I can hear the same thing as you.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

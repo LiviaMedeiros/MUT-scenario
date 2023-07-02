@@ -9,7 +9,7 @@ story:
     turnChangeOut: fadeOut
   - narration: I'm gonna try not to worry about it...
   - narration: Only Kaede thinks that...
-  - bg: bg_adv_21025.jpg
+  - bg: bg_adv_21491.jpg
     bgm: bgm03_story07
     chara:
     - cheek: 0
@@ -79,7 +79,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 100801
       motion: 200
-    textLeft: Acrylic gouache dries quickly. It's@imperative you be quiet!
+    textLeft: Acrylic gouache dries quickly.@It's imperative you be quiet!
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -160,7 +160,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 100801
       lipSynch: 0
-    textLeft: '[chara:100801:lipSynch_0][wait:0.8][chara:100801:lipSynch_1]Shoo.'
+    textLeft: '...[chara:100801:lipSynch_0][wait:0.8][chara:100801:lipSynch_1]Shoo.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -286,7 +286,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 801400
-    textRight: 'I have a big favor to ask you, Karin.@ '
+    textRight: I have a big favor to ask you, Karin.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -391,7 +391,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 101201
       motion: 0
-    textLeft: 'As the Magical Girl born of Halloween...@ '
+    textLeft: As the Magical Girl born of Halloween...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

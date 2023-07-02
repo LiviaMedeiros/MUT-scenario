@@ -17,7 +17,7 @@ story:
       lipSynch: 0
     nameCenter: Hikaru
     se: 7201_detect_magic
-    textCenter: '!?'
+    textCenter: —?!
     turnChangeOut: fadeOut
   - bgm: bgm24_story05
     chara:
@@ -43,7 +43,7 @@ story:
   - chara:
     - id: 102200
       motion: 0
-    textCenter: No, not yet.@Wait until they're a little closer!
+    textCenter: No, not yet. @Wait 'til they're a little closer!
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -68,7 +68,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 304400
-    nameCenter: Ranka Chizu
+    nameCenter: Ranka
     textCenter: Let's see what they've got...
   - autoTurnLast: 0.3
     chara:
@@ -121,12 +121,12 @@ story:
       id: 770083
       motion: 0
       pos: 2
-    textCenter: That's...Yuna Kureha...!!
+    textCenter: That's...Yuna Kureha...!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304400
-    textCenter: The enemy leader's on the front line,@just like Juri predicted!
+    textCenter: The enemy leader's on the front line, @just like Juri predicted!
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -200,14 +200,14 @@ story:
       id: 304400
       motion: 0
       pos: 0
-    textRight: '...a total of nine. We can easily overrun@them and take off the head
+    textRight: '...A total of nine. We can easily overrun @them and take off the head
       of their gang.'
   - bgm: stop
     chara:
     - id: 304400
       lipSynch: 0
-    nameLeft: Ranka Chizu
-    textLeft: …………
+    nameLeft: Ranka
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -241,12 +241,12 @@ story:
     - id: 102200
       motion: 200
     nameCenter: Hikaru
-    textCenter: Now!!@Hit them from their blind spot!
+    textCenter: NOW! @Hit 'em from their blind spot!
     turnChangeOut: fadeOut
   - chara:
     - id: 770080
     nameRight: ""
-    textRight: Alright, let's go!!
+    textRight: Alright, let's go!
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
@@ -263,7 +263,7 @@ story:
   - chara:
     - id: 770184
     nameRight: ""
-    textRight: '[surround:1002A01][bgEffect:shakeSmall][chara:770184:effect_7002_damage01]Ugh!!'
+    textRight: '[surround:1002A01][bgEffect:shakeSmall][chara:770184:effect_7002_damage01]Ugh!'
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -271,7 +271,7 @@ story:
       id: 304400
       motion: 400
     nameLeft: Ranka
-    textLeft: Damn it!@So that was the Tigers’ strat...!!
+    textLeft: Damn it!@So that was the Tiger's strat...!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -297,7 +297,7 @@ story:
       pos: 0
     nameRight: Hikaru
     textRight: '[chara:770083:effect_7000_attack01][chara:770084:effect_7001_attack02][surround:1022A01]Become
-      the rust on my blade!'
+      rust on my blade!'
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -306,7 +306,7 @@ story:
       mouthOpen: 1
     nameCenter: ""
     textBg: shout
-    textCenter: '[chara:770084:effect_7003_damage02][surround:1022A01][bgEffect:shakeSmall]Argh!'
+    textCenter: '[chara:770084:effect_7003_damage02][surround:1022A01][bgEffect:shakeSmall]Aaah!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -320,7 +320,7 @@ story:
       id: 770083
     nameLeft: ""
     textBg: shout
-    textLeft: '[chara:770083:effect_7002_damage01][surround:1022A01][bgEffect:shakeSmall]Ugh!'
+    textLeft: '[chara:770083:effect_7002_damage01][surround:1022A01][bgEffect:shakeSmall]Guh!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -342,8 +342,8 @@ story:
       id: 770184
       motion: 0
       pos: 2
-    nameLeft: Ranka Chizu
-    textLeft: We need to regroup!@Are you guys alright!?
+    nameLeft: Ranka
+    textLeft: We need to regroup! @Are you guys alright?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -363,7 +363,7 @@ story:
     textLeft: Even if you guys were able to ambush us,
   - chara:
     - id: 304400
-    textLeft: You're still outnumbered.@Everyone, surround them!
+    textLeft: you're still outnumbered. @Everyone, surround them!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -390,7 +390,7 @@ story:
     nameRight: Hikaru
     textRight: No, we need to keep pushing forward!
   - nameCenter: Yuna
-    textCenter: That's right, keep pushing.
+    textCenter: That's right. Keep pushing.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -410,8 +410,8 @@ story:
       id: 770184
       motion: 0
       pos: 2
-    nameLeft: Ranka Chizu
-    textLeft: Huh!?
+    nameLeft: Ranka
+    textLeft: What?!
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
@@ -434,7 +434,7 @@ story:
     - id: 102102
       motion: 100
     nameCenter: Yuna
-    textCenter: The one who's surrounded here is you,@[chara:102102:lipSynch_0][wait:1.0][chara:102102:cheek_0][chara:102102:face_mtn_ex_020.exp.json][chara:102102:lipSynch_1]Ranka
+    textCenter: The one who's surrounded here is you, @[chara:102102:lipSynch_0][wait:1.0][chara:102102:cheek_0][chara:102102:face_mtn_ex_020.exp.json][chara:102102:lipSynch_1]Ranka
       Chizu.
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.3
@@ -457,7 +457,7 @@ story:
       id: 770184
       motion: 0
       pos: 2
-    textLeft: When did you get there...!?
+    textLeft: When did you get here...?!
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
@@ -519,7 +519,7 @@ story:
       mouthOpen: 1
     nameRight: ""
     textBg: shout
-    textRight: '[flashEffect:explosion][surround:0001_jump01]We''re tearing them apart!!'
+    textRight: '[flashEffect:explosion][surround:0001_jump01]We''ll tear them apart!'
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -549,7 +549,7 @@ story:
       pos: 0
     nameCenter: Hikaru
     textBg: shout
-    textCenter: '[flashEffect:explosion][surround:1022A02]YAAAAH!!'
+    textCenter: '[flashEffect:explosion][surround:1022A02]YAAAAH!'
   - autoTurnLast: 1
     bg: white
     chara:
@@ -569,7 +569,7 @@ story:
     - id: 102102
     nameLeft: Yuna
     surround: 7202_telepathy
-    textLeft: We're pushing them toward the@center of town.
+    textLeft: We're pushing them toward the @center of town.
     turnChangeOut: whiteOut
     turnEffect: ef_adv_02
   - chara:
@@ -600,12 +600,12 @@ story:
     - id: 770083
       mouthOpen: 1
     textBg: shout
-    textRight: '[chara:770083:effect_7002_damage01][surround:1022A03][bgEffect:shakeLarge]Argh...!'
+    textRight: '[chara:770083:effect_7002_damage01][surround:1022A03][bgEffect:shakeLarge]Augh...!'
     turnChangeOut: fadeOut
   - chara:
     - id: 770083
       mouthOpen: 0
-    textRight: Ugh...
+    textRight: Ngh...
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -620,7 +620,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770083
-    textRight: We should force our way through and get@to a better position to fight
+    textRight: We should force our way through and get @to a better position to fight
       them!
   - chara:
     - cheek: 0
@@ -628,7 +628,7 @@ story:
       id: 304400
       motion: 200
       pos: 0
-    nameLeft: Ranka Chizu
+    nameLeft: Ranka
     textLeft: That's obviously a trap!
   - chara:
     - cheek: 0
@@ -637,7 +637,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Yuna
-    textRight: Even if it is, are you just going to@stay here and get slaughtered?
+    textRight: Even if it is, are you just going to @stay here and get slaughtered?
   - chara:
     - id: 304400
       lipSynch: 0

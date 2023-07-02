@@ -33,17 +33,17 @@ story:
       lipSynch: 0
     nameRight: Yuna
     narrationEffect: out
-    textRight: '......!?'
+    textRight: '...?!'
   - bgm: bgm03_story07
     chara:
     - eyeClose: 1
       id: 102200
     nameCenter: Hikaru
-    textCenter: I've been with you all this time, so I know everything about you...
+    textCenter: I've been with you this whole time, so I know @everything about you...
   - chara:
     - eyeClose: 1
       id: 102200
-    textCenter: Their voices are echoing inside my little head, too...
+    textCenter: Their voices are echoin' inside my little head, too...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -58,8 +58,8 @@ story:
       eyeClose: 0
       face: mtn_ex_020.exp.json
       id: 102200
-    textCenter: If you really think you have to kill her, I won't stop @you anymore,
-      because everything you say is right @to me.
+    textCenter: If you really think you have to kill her, I won't stop @you, 'cause
+      everything you say is right to me.
   - chara:
     - id: 102200
     textCenter: I will follow you.
@@ -67,15 +67,15 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102200
-    textCenter: But you might want to cool down a bit so you can @get what you want,
-      alright?
+    textCenter: But you might wanna cool down a bit so you can @get what you want,
+      okay?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102100
       lipSynch: 0
       motion: 300
-    textRight: '......'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -88,7 +88,7 @@ story:
       id: 102100
       lipSynch: 1
       motion: 0
-    textRight: '...Hikaru...'
+    textRight: '*Sniffle*...Hikaru...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -99,7 +99,7 @@ story:
     - cheek: 2
       id: 102100
       lipSynch: 0
-    textRight: '......'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -123,7 +123,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 102200
-    textCenter: It's all melted already, though.
+    textCenter: It's all melted already, though...
   - chara:
     - eyeClose: 1
       id: 102100
@@ -143,7 +143,7 @@ story:
       motion: 0
       pos: 1
     nameCenter: Juri
-    textCenter: What the heck is going on...?
+    textCenter: What the hell's goin' on...?
   - chara:
     - eyeClose: 1
       id: 102400

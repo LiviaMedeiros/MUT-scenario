@@ -156,7 +156,7 @@ story:
       pos: 0
       soulGem: 0
     nameLeft: Tsukuyo
-    textLeft: 'Mother, please don''t worry about me...@ '
+    textLeft: Mother, please don't worry about me...
   - chara:
     - id: 101801
     textLeft: I am okay...

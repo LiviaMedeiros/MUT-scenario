@@ -21,7 +21,7 @@ story:
     - id: 102200
       lipSynch: 1
       motion: 200
-    textCenter: '... I''ll take a shortcut!'
+    textCenter: '...I''ll take a shortcut!'
   - autoTurnLast: 0.1
     bg: bg_adv_21153.jpg
     chara:
@@ -33,7 +33,7 @@ story:
     turnChangeIn: rollInFast
   - chara:
     - id: 102200
-    textCenter: Please let me make it... @let me make it...!
+    textCenter: Please let me make it... @Let me make it...!
     turnChangeOut: rollOutFast
   - autoTurnLast: 1.5
     chara:
@@ -68,11 +68,12 @@ story:
       face: mtn_ex_020.exp.json
       id: 304400
     nameLeft: Ranka
-    textLeft: '[chara:304400:effect_7002_damage01][surround:1012A03][bgEffect:shakeSmall]Phew...[chara:304400:lipSynch_0][wait:1.0][chara:304400:cheek_0][chara:304400:motion_200:eyeClose_0][chara:304400:lipSynch_1]if
+    textLeft: '[chara:304400:effect_7002_damage01][surround:1012A03][bgEffect:shakeSmall]Phew...
+      [chara:304400:lipSynch_0][wait:1.0][chara:304400:cheek_0][chara:304400:motion_200:eyeClose_0][chara:304400:lipSynch_1]If
       you really hate me, @you should be able to do more than this...!'
   - chara:
     - id: 304400
-    textLeft: You wanted to do this as your normal self, right!? @Stop hesitating
+    textLeft: You wanted to do this as your normal self, right?! @Stop hesitating
       and come get me!
   - chara:
     - id: 102300
@@ -80,7 +81,7 @@ story:
       mouthOpen: 1
     nameRight: Ao
     textBg: shout
-    textRight: '[surround:1012A01][chara:304400:effect_7001_attack02]Uuuugh... Aaah!'
+    textRight: '[surround:1012A01][chara:304400:effect_7001_attack02]Grrr... Aaah!'
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -91,7 +92,7 @@ story:
     - id: 102300
       mouthOpen: 0
     textBg: shout
-    textLeft: '[chara:304400:effect_7003_damage02][surround:1012A03][bgEffect:shakeSmall]Argh!'
+    textLeft: '[chara:304400:effect_7003_damage02][surround:1012A03][bgEffect:shakeSmall]Ghh-!'
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -127,13 +128,13 @@ story:
       id: 770183
       motion: 0
       pos: 0
-    nameLeft: Ryuugasaki Girl
-    textLeft: '... something''s weird about this.'
+    nameLeft: ""
+    textLeft: '...Something''s weird about this.'
   - chara:
     - id: 770183
       mouthOpen: 1
     textBg: shout
-    textLeft: '[chara:102300:effect_7000_attack01]Aaah!'
+    textLeft: '[chara:102300:effect_7000_attack01]Hah!'
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -143,7 +144,7 @@ story:
     - id: 770183
       mouthOpen: 0
     textBg: shout
-    textRight: '[chara:102300:effect_7002_damage01][se:3001_chara_damage][bgEffect:shakeSmall]Arrrrgh!'
+    textRight: '[chara:102300:effect_7002_damage01][se:3001_chara_damage][bgEffect:shakeSmall]Aaaagh!'
   - autoTurnLast: 1
     chara:
     - effect: slideOutRightFast
@@ -160,7 +161,7 @@ story:
       id: 304400
       motion: 0
       pos: 0
-    nameRight: Ryuugasaki Girl
+    nameRight: ""
     textRight: What the hell are you thinking, Ranka? You just took that attack on
       purpose, didn't you?
   - chara:
@@ -172,7 +173,7 @@ story:
     textLeft: This is how it should be.
   - chara:
     - id: 770183
-    textRight: '... Stop acting so self-important, Ranka...'
+    textRight: '...Don''t try pulling that good-guy act at this @stage of the game...'
   - chara:
     - id: 770183
     textRight: Or I'll kill her myself.
@@ -189,7 +190,7 @@ story:
     - eyeClose: 1
       id: 102300
     nameRight: Ao
-    textRight: '...Ugh...@*Pant* ...Ugh.'
+    textRight: '... Ugh...*Pant* @...ngh...'
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -197,11 +198,11 @@ story:
       id: 770183
       motion: 0
       pos: 0
-    nameLeft: Ryuugasaki Girl
+    nameLeft: ""
     textLeft: Get up...
   - chara:
     - id: 770183
-    textLeft: I'll toy with you a bit longer... @then I'll make you my slave again...
+    textLeft: I'll toy with you a bit longer... @And then I'll make you my slave again...
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -209,7 +210,7 @@ story:
       id: 102300
       lipSynch: 0
       motion: 0
-    textRight: '............'
+    textRight: '...'
   - autoTurnLast: 1
     bgEffect: shakeLarge
     bgm: stop
@@ -221,7 +222,7 @@ story:
     - cheek: 0
       face: mtn_ex_051.exp.json
       id: 102300
-    textLeft: Wh-What the!?
+    textLeft: Wh-what the—?!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -246,7 +247,7 @@ story:
       id: 770186
       motion: 0
       pos: 2
-    nameCenter: Janomiya Girl
+    nameCenter: ""
     textCenter: Ao...!
   - chara:
     - cheek: 0
@@ -255,7 +256,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Ao
-    textLeft: '... You guys?'
+    textLeft: '...You guys?'
   - chara:
     - id: 770087
     textCenter: We all share the same grudge. Don't try to deal with @it by yourself...!
@@ -263,8 +264,8 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770186
-    nameRight: Janomiya Girl
-    textRight: As Janomiya, we'll achieve our peace of mind @together, right!?
+    nameRight: ""
+    textRight: As Janomiya, we're gonna achieve our peace of @mind together, right?!
   - chara:
     - cheek: 1
       face: mtn_ex_030.exp.json
@@ -291,7 +292,7 @@ story:
     nameRight: Juri
     textBg: shout
     textRight: '[se:8000_flame_01_s][chara:102102:effect_7001_attack02]Don''t tell
-      me you''re still going easy on me!'
+      me you''re still goin'' easy on me!'
     turnChangeOut: fadeOut
   - chara:
     - id: 102102
@@ -311,14 +312,14 @@ story:
     - id: 102400
     - id: 102102
       motion: 1
-    textRight: That's my Big Sis...
+    textRight: That's my Sis...
   - chara:
     - id: 102400
       motion: 200
     textRight: Haha.
   - chara:
     - id: 102400
-    textRight: I always have the most fun when I'm fighting you,@Big Sis!
+    textRight: I always have the most fun when I'm fightin' you, Sis!
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -331,35 +332,35 @@ story:
       face: mtn_ex_060.exp.json
       id: 102102
       motion: 0
-    textLeft: '[chara:102102:effect_7002_damage01][se:8001_flame_01_v][bgEffect:shakeSmall]Ugh...!'
+    textLeft: '[chara:102102:effect_7002_damage01][se:8001_flame_01_v][bgEffect:shakeSmall]Ngh...!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102102
-    textLeft: Would you not treat me like your scratching post...?
+    textLeft: Would you not treat me as your scratching post...?
   - chara:
     - id: 102102
       motion: 200
-    textLeft: '[surround:0001_jump01][chara:102400:effect_7001_attack02] I don''t
-      live just to satisfy you.'
+    textLeft: '[surround:0001_jump01][chara:102400:effect_7001_attack02]I don''t live
+      just to satisfy you.'
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 0
-    textRight: You know what I mean, right? Someone as impulsive @as Juri the Great
+    textRight: Y'know what I mean, right? Someone as impulsive @as Juri the Great
       needs someone like...
   - chara:
     - id: 102400
       motion: 400
-    textRight: '[se:8000_flame_01_s ][chara:102102:effect_7001_attack02] You!'
+    textRight: '[se:8000_flame_01_s ][chara:102102:effect_7001_attack02]YOU!'
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
       id: 102102
       motion: 300
-    textLeft: '[chara:102102:effect_7003_damage02][se:8001_flame_01_v][bgEffect:shakeSmall]Argh!'
+    textLeft: '[chara:102102:effect_7003_damage02][se:8001_flame_01_v][bgEffect:shakeSmall]Aah!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -384,7 +385,7 @@ story:
       motion: 200
       mouthOpen: 1
     textBg: shout
-    textCenter: '[flashEffect:explosion]Buuuuuurn!!'
+    textCenter: '[flashEffect:explosion]BUUUUUURN!!'
   - autoTurnLast: 3
     bgm: stop
     chara:
@@ -402,7 +403,7 @@ story:
       lipSynch: 0
     nameCenter: Yuna
     surround: 7003_wind
-    textCenter: '............'
+    textCenter: '...'
     turnChangeOut: whiteOut
   - autoTurnLast: 1
     chara:
@@ -418,21 +419,21 @@ story:
       motion: 0
       pos: 1
     nameCenter: Juri
-    textCenter: '............'
+    textCenter: '...'
   - chara:
     - id: 102400
       lipSynch: 1
       motion: 400
-    textCenter: Huh? You've got to be kidding me...!
+    textCenter: Huh? You gotta be fuckin' kidding me...!
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 102400
       motion: 200
-    textCenter: Hey, Big Sis!
+    textCenter: Oi, Sis!
   - chara:
     - id: 102400
-    textCenter: You can't be weak enough to get beaten like this!
+    textCenter: You can't be weak enough to get your ass kicked like this!
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
@@ -450,49 +451,49 @@ story:
     turnChangeIn: rollInFast
   - chara:
     - id: 102400
-    textRight: Stop playing dead...
+    textRight: Stop playin' dead...
     turnChangeOut: rollOutFast
     turnEffect: blackPromist
   - chara:
     - eyeClose: 1
       id: 102102
       motion: 300
-    textLeft: '...Ugh.'
+    textLeft: '...gh.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102400
       lipSynch: 0
       motion: 400
-    textRight: '......!?'
+    textRight: —?!
   - chara:
     - id: 102400
       lipSynch: 1
-    textRight: The heck... look at your Soul Gem...
+    textRight: The hell... Look at your Soul Gem...
   - chara:
     - eyeClose: 0
       id: 102102
-    textLeft: I'm not the only one... @who needs a Grief Seed...
+    textLeft: I'm not...the only one...who needs @a Grief Seed...
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 102400
       motion: 0
-    textRight: I came here ready to fight, but you didn't...
+    textRight: I was fully prepared to throw down, @but you weren't...
   - chara:
     - cheek: -1
       face: mtn_ex_030.exp.json
       id: 102102
       motion: 0
-    textLeft: I didn't come here to fight, you know.
+    textLeft: I never intended to fight here, you know.
   - chara:
     - id: 102102
       motion: 100
-    textLeft: We both made mistakes, huh...
+    textLeft: We both made mistakes, I suppose...
   - chara:
     - id: 102400
       motion: 100
-    textRight: '... I''m not letting you become a witch.'
+    textRight: '...I''m not lettin'' you become a Witch.'
   - chara:
     - cheek: -1
       face: mtn_ex_020.exp.json
@@ -504,7 +505,7 @@ story:
       lipSynch: 0
     textRight: Tch...
   - nameNarration: Hikaru
-    narration: Go, Hikaru Army!
+    narration: '"Go! Hikaru Army!"'
     narrationEffect: in
     surround: stop
   - autoTurnLast: 1
@@ -532,7 +533,7 @@ story:
       face: mtn_ex_060.exp.json
       id: 102400
       motion: 300
-    textRight: '*Cough cough* Hikaru Army...!?'
+    textRight: '*Cough* *Cough* Hikaru Army...?!'
   - autoTurnLast: 0.01
     item:
     - path: resource/scenario/img/51074_storyselect_promised_blood/memoria_1409.jpg
@@ -542,7 +543,7 @@ story:
     turnChangeIn: fadeIn
     turnEffect: stop
   - nameNarration: Hikaru
-    narration: -Hikaru-@That's right, I'm Yuna's strongest spear and shield. @I'll
+    narration: ―Hikaru―@That's right, I'm Yuna's strongest spear and shield. @I'll
       protect her with my life!
     narrationAnchor: bottom
     narrationCoverOpacity: 110
@@ -552,18 +553,18 @@ story:
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - nameNarration: Yuna
-    narration: -Yuna-@Hikaru...
+    narration: ―Yuna―@Hikaru...
   - nameNarration: Juri
-    narration: -Juri-@I didn't expect anyone to interfere...
-  - narration: -Juri-@Hey, if you're the strongest spear and shield both, @isn't that
-      a contradiction?
+    narration: ―Juri―@I didn't expect anyone to butt in...
+  - narration: ―Juri―@Hey, if you're the strongest spear AND shield, @ain't that a
+      contradiction?
   - nameNarration: Hikaru
-    narration: -Hikaru-@Only if the two oppose each other. @But if one person has
+    narration: ―Hikaru―@Only if the two oppose each other. @But if one person has
       both, it means they're unstoppable!
   - nameNarration: Juri
-    narration: -Juri-@Huh? What's with that logic? @Torayamachi's Fang and Horse...
-      you two are ridiculous...
-  - narration: -Juri-@Fine, come at me. Juri the Great's flames are still burning!
+    narration: ―Juri―@Ha, what kinda logic is that? @Torayamachi's Fang and Horse...
+      You two are ridiculous...
+  - narration: ―Juri―@Fine, bring it on. Juri the Great's flames are still burnin'!
   - autoTurnLast: 2
     bgm: stop
     item:

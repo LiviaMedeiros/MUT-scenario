@@ -16,7 +16,7 @@ story:
   - chara:
     - id: 300301
     nameCenter: Hinano
-    textCenter: The accumulation of time is more important than@learning flashy techniques.
+    textCenter: Time spent practicing is more important than@learning flashy techniques.
     turnChangeOut: fadeOut
   - chara:
     - id: 300301
@@ -73,8 +73,8 @@ story:
     nameRight: Mitsune
     textRight: All right, I beat it without taking damage!@That was a perfect clear!
   - nameNarration: Mitsune
-    narration: It's only been a few months since I became a Magical Girl...@But looking
-      back,@I can see that the little girl was absolutely correct.
+    narration: It's only been a few months@since I became a Magical Girl...@But looking
+      back,@I can see that the little girl@was absolutely correct.
     narrationBg: black
     narrationEffect: in
   - narration: I feel like my steady efforts have paid off@and made me a lot stronger!

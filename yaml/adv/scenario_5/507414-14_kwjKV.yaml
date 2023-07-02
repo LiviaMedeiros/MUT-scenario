@@ -24,7 +24,7 @@ story:
       lipSynch: 0
       motion: 200
     textCenter: (It won't be long before Torayamachi makes their @move, too. I'd better
-      let the team know right away.)
+      let my team know right away.)
   - autoTurnLast: 1
     bg: bg_adv_21031.jpg
     chara:
@@ -60,7 +60,7 @@ story:
       lipSynch: 0
       motion: 0
       pos: 1
-    textCenter: (It's weird there's nobody around...)
+    textCenter: (It's weird that there's nobody around...)
   - autoTurnLast: 3
     chara:
     - eyeClose: 1
@@ -78,11 +78,11 @@ story:
       lipSynch: 0
       motion: 400
     se: 7201_detect_magic
-    textCenter: '......!?'
+    textCenter: —?!
   - chara:
     - id: 102300
       lipSynch: 1
-    textCenter: Isn't that...!
+    textCenter: Ah, this reaction...!
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
@@ -93,8 +93,8 @@ story:
   - chara:
     - id: 770087
       lipSynch: 0
-    nameCenter: Magical Girl
-    textCenter: '......'
+    nameCenter: ""
+    textCenter: '...'
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.1
     chara:
@@ -108,7 +108,7 @@ story:
     - id: 102300
       motion: 200
     nameCenter: Ao
-    textCenter: … No, that's not…
+    textCenter: '...No, it''s not you...'
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.2
     chara:
@@ -121,8 +121,8 @@ story:
       id: 770087
       lipSynch: 0
       pos: 2
-    nameRight: Magical Girl
-    textRight: '......'
+    nameRight: ""
+    textRight: '...'
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -135,9 +135,9 @@ story:
       id: 102300
       motion: 0
     nameLeft: Ao
-    textLeft: Hey...
+    textLeft: Wait...
   - bgm: bgm03_story17
-    textRight: '......'
+    textRight: '...'
   - chara:
     - id: 102300
     textLeft: No way... She's dead...
@@ -149,13 +149,13 @@ story:
       pos: 2
     textRight: This is what happens to those who defy me.
   - nameNarration: ""
-    narration: '[bgEffect:shakeSmall]*Door slams shut*'
+    narration: '[bgEffect:shakeSmall]*SLAM!*'
     narrationEffect: in
   - chara:
     - id: 102300
       motion: 400
     narrationEffect: out
-    textLeft: Th-The door!
+    textLeft: Th-the door!
   - autoTurnLast: 1
     chara:
     - effect: 7001_attack02
@@ -190,7 +190,8 @@ story:
     textRight: I wouldn't look away if I were you, Ao Kasane...
   - chara:
     - id: 770183
-    textRight: You asked for this the moment you let me go...
+    textRight: In this world ruled by the law of the jungle, @it's your fault for
+      letting me go...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -217,16 +218,16 @@ story:
     textRight: Well, whatever it is, the answer is that you're far too soft.
   - chara:
     - id: 770183
-    textRight: That's why your teammate died, and why you've lost your team to me.
+    textRight: That's why your friend died, and why you've lost @your team to me.
   - chara:
     - id: 770183
-    textRight: And why you're about to die.
+    textRight: And why you're about to die as well...
   - chara:
     - cheek: 1
       eyeClose: 1
       face: mtn_ex_020.exp.json
       id: 102300
-    textLeft: Damn it... Damn it...!!
+    textLeft: Damn it... Damn it...!
   - chara:
     - eyeClose: 0
       id: 102300
@@ -240,7 +241,7 @@ story:
     turnChangeIn: whiteIn
     turnChangeInTime: 0.1
   - nameNarration: ""
-    narration: '[textBlack:Forgive... me...]'
+    narration: '[textBlack:"Forgive me..."]'
     narrationCoverOpacity: 0
     narrationEffect: in
     turnChangeOut: whiteOut
@@ -249,7 +250,7 @@ story:
     narrationEffect: out
     se: 3001_chara_damage
   - nameNarration: Ao
-    narration: '[textBlack:Argh... Ugh...]'
+    narration: '[textBlack:"Gh... urgh..."]'
     narrationCoverOpacity: 0
     narrationEffect: in
   - autoTurnLast: 0.01
@@ -271,7 +272,7 @@ story:
     - 1
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: Whether to "Capture" or " Let her go",@that's when the story derailed.
+    narration: Whether to "Capture her" or "Let her go", @that's when the story derailed.
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut

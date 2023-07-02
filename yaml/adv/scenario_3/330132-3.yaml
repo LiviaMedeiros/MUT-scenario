@@ -14,7 +14,7 @@ story:
       motion: 400
       pos: 2
     turnChangeIn: fadeIn
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     bgm: bgm03_story01
     chara:
     - cheek: 1

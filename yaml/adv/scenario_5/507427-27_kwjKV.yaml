@@ -28,7 +28,7 @@ story:
     - id: 102400
       motion: 100
     nameCenter: Juri
-    textCenter: Hey,@Ranka! Ranka!
+    textCenter: Oi, @Ranka! RANKA!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     bg: bg_adv_narration.jpg
@@ -45,8 +45,8 @@ story:
       id: 304400
       motion: 400
       pos: 2
-    nameRight: Ranka Chizu
-    textRight: Will you shut up? Jeez!@I can hear you! Loud and clear!
+    nameRight: Ranka
+    textRight: Will you shut up? Jeez! @I can hear you! Loud and clear!
     turnChangeOut: fadeOut
     turnEffect: thinking
   - chara:
@@ -55,27 +55,26 @@ story:
       id: 102400
       motion: 200
     nameLeft: Juri
-    textLeft: Yuna totally set me up.@Where the hell are you right now?
+    textLeft: Yuna totally set me up. @Where the hell are you right now?
   - chara:
     - id: 102400
-    textLeft: You're out of range of my telepathy.
+    textLeft: You're outta range of my telepathy.
   - chara:
     - id: 304400
       motion: 0
-    textRight: Ao said you might've gotten trapped@or something.
+    textRight: Ao said you might've gotten trapped @or something.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304400
-    textRight: Though hearing the tone you're taking,@it seems like you made it out
+    textRight: Though hearing the tone you're taking, @it seems like you made it out
       somehow.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 0
-    textLeft: If it wasn't for Ao, I would've burned@everything to the ground back
-      there.
+    textLeft: If it wasn't for Ao, I woulda burned @everything to ashes back there.
   - chara:
     - eyeClose: 1
       id: 304400
@@ -87,25 +86,25 @@ story:
       face: mtn_ex_020.exp.json
       id: 304400
       motion: 1
-    textRight: Anyway, my team's on its way to the@central bridge.
+    textRight: Anyway, my team's on our way to Monzenbashi.
   - chara:
     - id: 304400
-    textRight: We're taking the east and west bridges@to avoid the Torayamachi girls
+    textRight: We're taking East and West Oogibashi @to avoid the Torayamachi girls
       on the way.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304400
-    textRight: We should probably get there around the@same time you do.
+    textRight: We should probably get there around the @same time you do.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 100
-    textLeft: Got it. I'm counting on you.
+    textLeft: Got it. I'm countin' on ya.
   - chara:
     - id: 102400
-    textLeft: This could be my last chance to fight@Yuna alone.
+    textLeft: This could be my last chance to fight @Yuna alone.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -136,7 +135,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Ao
-    textRight: '*Pant...pant...*'
+    textRight: '*Pant* *Pant*...'
     turnChangeOut: fadeOut
   - chara:
     - id: 102400
@@ -152,11 +151,11 @@ story:
       face: mtn_ex_021.exp.json
       id: 102400
       motion: 0
-    textLeft: Those rats who sniped Juri the Great's@friends...
+    textLeft: Those bitches who sniped Juri the Great's @friends...
   - chara:
     - id: 102400
       motion: 100
-    textLeft: We're going to crush them,@here and now!
+    textLeft: We're gonna pulverize 'em, @here and now!
   - autoTurnLast: 0.3
     chara:
     - cheek: 0
@@ -173,8 +172,8 @@ story:
   - chara:
     - id: 302100
       motion: 100
-    nameRight: Sakuya Suzuka
-    textRight: I'm going to make them pay for what@they did to us...
+    nameRight: Sakuya
+    textRight: I'm going to make them pay for what @they did to us...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -201,18 +200,18 @@ story:
       id: 302100
       lipSynch: 0
       motion: 0
-    textRight: '......?'
+    textRight: '...?'
   - chara:
     - cheek: 0
       face: mtn_ex_052.exp.json
       id: 102102
       lipSynch: 0
       motion: 400
-    textLeft: '......!?'
+    textLeft: —?!
   - chara:
     - id: 102102
       lipSynch: 1
-    textLeft: What on earth are those girls doing@over there?
+    textLeft: What on earth are those girls doing @over there?
   - autoTurnLast: 0.1
     bg: bg_adv_narration.jpg
     chara:
@@ -230,13 +229,13 @@ story:
   - chara:
     - id: 102102
     surround: 7202_telepathy
-    textLeft: The sniper team has done its job.@Fall back and join up with us!
+    textLeft: The sniper team has done its job. @Fall back and join up with us!
     turnChangeOut: fadeOut
     turnEffect: ef_adv_02
   - chara:
     - id: 770182
     nameRight: ""
-    textRight: No, we're going to stop them from getting@to the bridge!
+    textRight: No, we're going to stop them from getting @to the bridge!
   - autoTurnLast: 0.1
     bg: bg_adv_20223.jpg
     chara:
@@ -310,7 +309,7 @@ story:
     - id: 102400
       motion: 300
     nameRight: Ao
-    textRight: '[se:3001_chara_damage][chara:102400:effect_7003_damage02][chara:102300:effect_7002_damage01][bgEffect:shakeSmall]!!'
+    textRight: '[se:3001_chara_damage][chara:102400:effect_7003_damage02][chara:102300:effect_7002_damage01][bgEffect:shakeSmall]Nh!'
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
@@ -323,26 +322,26 @@ story:
       id: 102400
       motion: 0
     nameLeft: Juri
-    textLeft: They must've put all of their magical@power into their first shot.
+    textLeft: They must've put all of their magical @power into their first shot.
   - chara:
     - id: 102400
       motion: 200
-    textLeft: Ao, take them down with that silly@looking battle axe of yours!
+    textLeft: Ao, take them down with that silly-lookin' @battle axe of yours!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102300
       lipSynch: 0
       motion: 0
-    textRight: '............'
+    textRight: '...'
   - autoTurnLast: 1
     chara:
     - id: 102400
       motion: 400
       mouthOpen: 1
     textBg: shout
-    textLeft: '[flashEffect:explosion][se:8000_flame_01_s]I''M GONNA TURN YOU INTO
-      ASHEEEEES!'
+    textLeft: '[flashEffect:explosion][se:8000_flame_01_s]I''m gonna burn ya to the
+      GROUND!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -369,7 +368,7 @@ story:
       motion: 0
       pos: 2
     nameCenter: ""
-    textCenter: Crap...
+    textCenter: Shit...
   - autoTurnLast: 2
     se: 8002_flame_01_h
     turnChangeIn: whiteIn
@@ -406,12 +405,12 @@ story:
   - chara:
     - eyeClose: 1
       id: 102102
-    textLeft: Why...this can't be...
+    textLeft: Why...? This can't be...
   - chara:
     - id: 302100
       motion: 300
-    nameRight: Sakuya Suzuka
-    textRight: '...Don''t think for a moment that they@wasted their lives...'
+    nameRight: Sakuya
+    textRight: '...Don''t think for a moment that they @wasted their lives...'
   - chara:
     - eyeClose: 1
       id: 102102
@@ -425,18 +424,18 @@ story:
       motion: 0
       pos: 2
     nameRight: Hikaru
-    textRight: …………
+    textRight: '...'
   - chara:
     - id: 102200
       lipSynch: 1
       motion: 300
-    textRight: We're almost to the central bridge...@What are we going to do, Yuna?
+    textRight: We're almost to Monzenbashi... @What are we gonna do, Yuna?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 0
-    textRight: All of our lives depend on the choice@you make here.
+    textRight: All of our lives depend on the choice @you make here.
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -471,18 +470,18 @@ story:
     - eyeClose: 1
       id: 102102
     nameLeft: Yuna
-    textLeft: This is where the final battle is going to be fought...@The most dangerous
+    textLeft: This is where the final battle is going to be @fought... The most dangerous
       point of this entire war.
     turnChangeOut: fadeOut
   - chara:
     - eyeClose: 0
       id: 102102
       motion: 200
-    textLeft: The younger girls still have a future ahead of@them...they're not to
-      follow us into battle.
+    textLeft: The younger girls still have a future ahead of @them... They're not
+      to follow us into battle.
   - chara:
     - id: 102102
-    textLeft: They'll stay behind at the foot of the@bridge.
+    textLeft: They will stay behind at the foot of the @bridge.
   - chara:
     - id: 102102
       motion: 400
@@ -517,28 +516,28 @@ story:
     - cheek: 0
       face: mtn_ex_032.exp.json
       id: 102102
-    textLeft: But it wouldn't feel right if I left@them behind in this decisive moment.
+    textLeft: But it wouldn't feel right if I left @them behind in this decisive moment.
   - chara:
     - id: 102102
-    textLeft: It'd be one of the biggest regrets@of my life.
+    textLeft: It would be one of the biggest regrets @of my life.
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 400
-    textLeft: So I'll bring everyone.
+    textLeft: So I will bring them all.
   - chara:
     - id: 102200
       motion: 200
-    nameRight: Hikaru
+    nameRight: Yuna
     textRight: Are you sure about that?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102102
       motion: 0
-    textLeft: We've made it this far together,@so I believe in them.
+    textLeft: We've made it this far together. @I believe in them.
   - autoTurnLast: 2
     turnChangeIn: fadeIn
   group_4:
@@ -561,10 +560,10 @@ story:
   - select:
     - alternativeId: 9
       group: group_2
-      textSelect: Bring everyone to the bridge
+      textSelect: Leave some of the girls behind
     - alternativeId: 10
       group: group_3
-      textSelect: Leave some of the girls behind
+      textSelect: Bring everyone to the bridge
     turnChangeOut: fadeOut
 version: 3
 ...

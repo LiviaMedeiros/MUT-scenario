@@ -2,7 +2,7 @@
 story:
   group_1:
   - nameNarration: ""
-    narration: "2:00"
+    narration: 2:00 AM
     narrationBg: black
     narrationEffect: in
     turnChangeIn: fadeIn
@@ -21,25 +21,22 @@ story:
     chara:
     - id: 102102
     nameCenter: Yuna
-    textCenter: So, we're going with six teams of three.
+    textCenter: Now then, we've settled on six teams of three.
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
     - id: 102102
       motion: 100
-    textCenter: That's the new plan, assuming Ryuugasaki isn't@using the central bridge
+    textCenter: That is the new plan, assuming that Ryuugasaki @isn't using Monzenbashi
       like we expected.
   - chara:
     - id: 102102
       motion: 400
-    textCenter: I'll go with two teams to the@east bridge,
+    textCenter: I'll take two teams to East Oogibashi, @and Sakuya will take three
+      to West Oogibashi.
   - chara:
     - id: 102102
-      motion: 400
-    textCenter: and Sakuya will go with three@teams to the west bridge.
-  - chara:
-    - id: 102102
-    textCenter: We'll keep one team hidden on standby@by the central bridge.
+    textCenter: We'll keep one team hidden on standby @near Monzenbashi.
   - autoTurnLast: 0.3
     bg: bg_adv_20463.jpg
     chara:
@@ -58,24 +55,25 @@ story:
   - chara:
     - id: 102102
     nameLeft: Yuna
-    textLeft: I see everyone's ready to go here.
+    textLeft: I see that everyone here is set.
     turnChangeOut: fadeOut
   - chara:
     - id: 102200
       motion: 200
     nameRight: Hikaru
-    textRight: Yes, everyone's in place!
+    textRight: Yep, everyone's in place!
   - chara:
     - id: 102102
       motion: 100
-    textLeft: Hikaru, take two girls and position a bit@closer to the bridge.
+    textLeft: Hikaru, take two girls and position yourselves @a bit closer to the
+      bridge.
   - chara:
     - id: 102102
     textLeft: Stay hidden and wait on standby.
   - chara:
     - id: 102200
       motion: 100
-    textRight: Roger!
+    textRight: Aye!
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -97,27 +95,28 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 102102
-    textLeft: Sakuya,@what's your status over there?
+    textLeft: Sakuya, @what's your status over there?
     turnChangeOut: fadeOut
     turnEffect: thinking
   - chara:
     - id: 302100
       motion: 200
-    nameRight: Sakuya Suzuka
+    nameRight: Sakuya
     textRight: We're in position.
   - chara:
     - id: 102102
       motion: 400
-    textLeft: Juri's a straightforward fighter.
+    textLeft: Juri is a straightforward fighter.
   - chara:
     - id: 102102
-    textLeft: Keep your team hidden like mine so we can@surprise them from the flanks.
+    textLeft: Keep your team hidden like mine so that we @can surprise them from the
+      flanks.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302100
       motion: 100
-    textRight: Okay, got it!
+    textRight: Okay, roger that!
   - autoTurnLast: 0.2
     bg: bg_adv_20463.jpg
     chara:
@@ -131,7 +130,7 @@ story:
   - chara:
     - id: 102102
       motion: 300
-    textCenter: Now, let's see how they're going to come@at us.
+    textCenter: Now, let's see how they're going to come @at us.
     turnChangeOut: fadeOut
   - autoTurnLast: 1.5
     bg: bg_adv_21381.jpg
@@ -146,24 +145,24 @@ story:
     - id: 102400
       motion: 100
     nameCenter: Juri
-    textCenter: I'm sure they know we found out@about the gems.
+    textCenter: I'm sure they know we found out @about the stones,
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
     - id: 102400
-    textCenter: So I doubt they're expecting us@to use the central bridge.
+    textCenter: so I doubt they're expectin' us @to use the central bridge.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 200
-    textCenter: That's fine, Juri the Great will give them@just what they want.
+    textCenter: That's fine. Juri the Great will give 'em @exactly what they want.
   - chara:
     - id: 102400
-    textCenter: We'll send one team of nine each to the@east and west bridges.
+    textCenter: We'll send one team of nine each to the @east and west bridges.
   - chara:
     - id: 102400
-    textCenter: If we go straight across them,@we should run right into them.
+    textCenter: If we go straight across, @we should run right into them.
   - autoTurnLast: 0.3
     bg: bg_adv_21503.jpg
     chara:
@@ -205,7 +204,7 @@ story:
       pos: 2
     nameCenter: ""
     textBg: shout
-    textCenter: Yeah!
+    textCenter: YEAH!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -217,24 +216,24 @@ story:
     - id: 770185
       mouthOpen: 0
     nameLeft: Juri
-    textLeft: This battle isn't one to show our strength.
+    textLeft: This battle ain't one to show our strength.
   - chara:
     - id: 102400
-    textLeft: It's not a battle for glory, for honor,@or anything like that, either.
+    textLeft: It's not for glory, or honor, @or anythin' like that, either.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
-    textLeft: Then what is it for, you ask?@You already know, don't you?
+    textLeft: Then what's it for, you ask? @You already know, don't ya?
   - chara:
     - id: 102400
       motion: 200
-    textLeft: We're fighting this war for the sake of@living on.
+    textLeft: We're fightin' this war for the sake of @livin' on.
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json
       id: 102400
-    textLeft: It hurts to kill people, but we've got to@swallow that pain for tonight.
+    textLeft: It hurts to kill people, but we gotta @swallow that pain for tonight.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -250,20 +249,20 @@ story:
       motion: 0
       pos: 2
     nameRight: Ao
-    textRight: …………
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
-    textLeft: Ao, you feeling nervous?
+    textLeft: You nervous, Ao?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102300
       lipSynch: 1
       motion: 200
-    textRight: I guess so~@Maybe just a bit~
+    textRight: I guess so~ @Maybe a little bit~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -275,7 +274,7 @@ story:
       id: 102300
       lipSynch: 0
       motion: 400
-    textRight: …
+    textRight: '*Huff*...'
   - nameNarration: ""
     narration: '[surround:7105_telphone]～～♪～～♪'
     narrationEffect: in
@@ -292,13 +291,13 @@ story:
       motion: 0
       pos: 1
     nameCenter: Juri
-    textCenter: Alright.
+    textCenter: Gotcha.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 100
-    textCenter: Ranka's team is good to go!@Let's do this!!
+    textCenter: Ranka's team is good to go! @Let's do this!
   - autoTurnLast: 1
     bg: bg_adv_20463.jpg
     chara:
@@ -313,7 +312,7 @@ story:
       lipSynch: 0
       motion: 400
     nameCenter: Hikaru
-    textCenter: '[se:7106_telmail]Huh!?'
+    textCenter: '[se:7106_telmail]...?!'
     turnChangeOut: fadeOut
   - chara:
     - id: 102200
@@ -325,14 +324,14 @@ story:
       id: 102200
       lipSynch: 0
       motion: 0
-    textCenter: …………
+    textCenter: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102200
       lipSynch: 0
       motion: 300
-    textCenter: (Ryuugasaki is making their move...)
+    textCenter: (Ryuugasaki's making their move...)
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -352,7 +351,7 @@ story:
       id: 102200
       motion: 0
     nameCenter: Hikaru
-    textCenter: It's nothing...@[chara:102200:lipSynch_0][wait:1.0][chara:102200:cheek_0][chara:102200:face_mtn_ex_020.exp.json:motion_200][chara:102200:lipSynch_1]Let's
+    textCenter: Ah, nothin'... @[chara:102200:lipSynch_0][wait:1.0][chara:102200:cheek_0][chara:102200:face_mtn_ex_020.exp.json:motion_200][chara:102200:lipSynch_1]Let's
       get ready for the enemy's attack...
   - autoTurnLast: 0.2
     bgm: stop

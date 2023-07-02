@@ -19,12 +19,12 @@ story:
     chara:
     - id: 102200
     nameRight: Hikaru
-    textRight: Are you alright, Yuna...?
+    textRight: You alright, Yuna...?
     turnChangeOut: fadeOut
   - chara:
     - id: 102102
     nameLeft: Yuna
-    textLeft: Yeah...
+    textLeft: Yes...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -72,7 +72,7 @@ story:
     textLeft: It's just a little lonely.
   - chara:
     - id: 102102
-    textLeft: Torayamachi's small enough to fit in my bedroom @now...
+    textLeft: Torayamachi is small enough to fit in my bedroom @now...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -80,14 +80,14 @@ story:
       lipSynch: 0
       motion: 0
       pos: 2
-    nameRight: Torayamachi Girl
-    textRight: '......'
+    nameRight: ""
+    textRight: '...'
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
       id: 102102
-    textLeft: I'm sorry, I made things awkward...
+    textLeft: My apologies, I made things awkward...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -100,7 +100,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 1
-    textLeft: You know that already. There's only three days left.
+    textLeft: You know that already. Only three days remain.
   - chara:
     - id: 102102
     textLeft: It's about time you all left for Ryuugasaki.
@@ -131,16 +131,16 @@ story:
       face: mtn_ex_030.exp.json
       id: 770180
       lipSynch: 0
-    textRight: '......'
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 0
-    textLeft: Our goal is to work together to find out why the @witches had disappeared...
+    textLeft: Our goal is to work together to find out why the @Witches had disappeared...
   - chara:
     - id: 102102
-    textLeft: and figure out what to do if it happens again...
+    textLeft: And figure out what to do if it happens again...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -153,15 +153,15 @@ story:
       id: 770082
       motion: 0
       pos: 2
-    nameRight: Torayamachi Girl
-    textRight: We know that... but...
+    nameRight: ""
+    textRight: We know that...but...
   - chara:
     - id: 102102
       motion: 0
     textLeft: My last wish is for all of you to go to Ryuugasaki...
   - chara:
     - id: 102102
-    textLeft: All Juri wants is to fight me once I'm fully recovered...
+    textLeft: The only thing Juri wants is to fight me once @I'm fully recovered...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -174,10 +174,10 @@ story:
       face: mtn_ex_000.exp.json
       id: 102102
       motion: 100
-    textLeft: They'll have what they want then.
+    textLeft: They'll have what they want then,
   - chara:
     - id: 102102
-    textLeft: So Magical Girls won't have to fight each other anymore, and the city
+    textLeft: so Magical Girls won't have to fight each other @anymore, and the city
       will become peaceful.
   - chara:
     - cheek: 0
@@ -185,7 +185,7 @@ story:
       id: 770080
       motion: 0
       pos: 2
-    textRight: What about the disappearance of the witches...?
+    textRight: What about the disappearance of the Witches...?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -196,18 +196,19 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770080
-    textRight: '... I doubt they will.'
+    textRight: '...I doubt that.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102102
-    textLeft: You have to stop being stubborn, or you'll get killed @for nothing.
+    textLeft: You have to stop being stubborn, or you'll get @yourself killed for
+      nothing.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770080
       lipSynch: 0
-    textRight: '......'
+    textRight: '...'
   - chara:
     - eyeClose: 1
       id: 102102
@@ -216,19 +217,19 @@ story:
   - chara:
     - eyeClose: 1
       id: 102102
-    textLeft: Think about your future with them. Now isn't the @time to fight against
+    textLeft: Think about your future with them. Now is not @the time to fight against
       Ryuugasaki.
   - chara:
     - id: 770080
       lipSynch: 1
-    textRight: '...I''m sorry. I''m... really sorry...'
+    textRight: '...I''m sorry. I''m...really sorry...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770082
       motion: 0
       pos: 1
-    nameCenter: Torayamachi Girl
+    nameCenter: ""
     textCenter: But even if I leave you, you'll always be special to me.
   - chara:
     - cheek: 0
@@ -236,7 +237,7 @@ story:
       id: 770180
       motion: 0
       pos: 2
-    textRight: Yuna... I'm sorry I can't do anything for you now... @thank you for
+    textRight: Yuna... I'm sorry I can't do anything for you now... @Thank you for
       everything you did for us.
   - chara:
     - cheek: 0
@@ -273,7 +274,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 400
-    textRight: What are you talking about? I won't.
+    textRight: What are you talking about? No way.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -283,7 +284,7 @@ story:
   - chara:
     - id: 102200
       motion: 1
-    textRight: I think you're misunderstanding things.
+    textRight: I think you're misunderstandin' things.
   - chara:
     - id: 102200
     textRight: You're all mine, Yuna.
@@ -316,7 +317,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102102
       motion: 300
-    textLeft: That's too cruel to me, to your family, and to @everyone...
+    textLeft: That's too cruel to me, to your family, and to @everyone else...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -327,16 +328,16 @@ story:
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 200
-    textRight: But if I die, I'll be waiting for you in hell.
+    textRight: But if I die, I'll be waitin' for you in Hell.
   - chara:
     - id: 102200
-    textRight: And if you die, I'm going to hell with you.
+    textRight: And if you die, I'm goin' to Hell with you.
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_010.exp.json
       id: 102102
-    textLeft: We'll be in hell either way, huh...
+    textLeft: We'll be in Hell either way, huh...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json

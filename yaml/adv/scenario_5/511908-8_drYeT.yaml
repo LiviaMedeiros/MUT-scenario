@@ -5,21 +5,21 @@ story:
     bg: bg_adv_narration.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
-      id: 100701
+      face: mtn_ex_050.exp3.json
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 0
       pos: 0
     turnChangeIn: fadeIn
   - chara:
-    - id: 100701
+    - id: 100770
       motion: 100
     nameRight: Touka
     textRight: Ahh, the world in that app is still running?
@@ -27,20 +27,20 @@ story:
     turnEffect: thinking
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
-      id: 100701
+      face: mtn_ex_030.exp3.json
+      id: 100770
     nameRight: Touka
     textRight: Even I, the creator, had completely forgotten, nya...
   - autoTurnLast: 0.5
     bg: bg_adv_21201.jpg
     chara:
     - cheek: 0
-      face: mtn_ex_041.exp.json
+      face: mtn_ex_041.exp3.json
       id: 101501
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 0
       pos: 0
@@ -64,14 +64,14 @@ story:
     textLeft: The beta game
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100501
-      motion: 400
+      motion: 200
     nameLeft: Felicia
-    textLeft: was actually Touka’s experiment all along!?
+    textLeft: was actually Touka's experiment all along!?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 0
       pos: 0
@@ -79,7 +79,7 @@ story:
     textLeft: What sort of experiment was it?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
       motion: 1
       pos: 2
@@ -88,7 +88,7 @@ story:
   - chara:
     - id: 101501
     nameRight: Ui
-    textRight: we wanted to create a fictional world where @everyone could live happily.
+    textRight: we wanted to create a fictional world where@everyone could live happily.
   - chara:
     - id: 101501
     nameRight: Ui
@@ -100,7 +100,7 @@ story:
     textLeft: Something like... a virtual space?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101501
       motion: 200
       pos: 2
@@ -108,7 +108,7 @@ story:
     textRight: Yes, that!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 100
       pos: 0
@@ -116,15 +116,15 @@ story:
     textLeft: Why would ya suddenly think of that?
   - chara:
     - cheek: 0
-      face: mtn_ex_041.exp.json
+      face: mtn_ex_041.exp3.json
       id: 101501
       motion: 300
       pos: 2
     nameRight: Ui
-    textRight: We couldn’t go outside for so long...
+    textRight: We couldn't go outside for so long...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100301
       motion: 0
       pos: 0
@@ -135,13 +135,13 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101502
       motion: 0
       pos: 0
       soulGem: 0
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100702
       motion: 0
       pos: 2
@@ -167,19 +167,19 @@ story:
     - id: 101502
       motion: 300
     nameLeft: Ui
-    textLeft: Hmm... I haven’t given it much thought,@[chara:101502:lipSynch_0][wait:1.0][chara:101502:cheek_0][chara:101502:face_mtn_ex_010.exp.json:motion_100][chara:101502:lipSynch_1]but
-      it’s probably winter, since there’s Christmas.
+    textLeft: Hmm... I haven't given it much thought,@[chara:101502:lipSynch_0][wait:1.0][chara:101502:cheek_0][chara:101502:face_mtn_ex_010.exp3.json:motion_100][chara:101502:lipSynch_1]but
+      it's probably winter, since there's Christmas.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100702
       motion: 0
       pos: 2
     nameRight: Touka
-    textRight: Christmas...? What’s so great about something like @that, nyaa.
+    textRight: Christmas...? What's so great about something like@that, nyaa.
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 101402
       motion: 100
       pos: 2
@@ -188,30 +188,30 @@ story:
     textRight: Can I ask you for the reason why?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101502
     nameLeft: Ui
-    textLeft: Because everyone looks like they’re having fun and getting all excited!
+    textLeft: Because everyone looks like they're having fun and getting all excited!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101402
       motion: 0
     nameRight: Nemu
-    textRight: I see, that’s very much like you, Ui.
+    textRight: I see, that's very much like you, Ui.
   - chara:
     - cheek: 0
-      face: mtn_ex_000.exp.json
+      face: mtn_ex_000.exp3.json
       id: 101402
       pos: 2
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100702
       motion: 1
       pos: 0
       soulGem: 0
     nameRight: Nemu
-    textRight: Oh... Touka, regarding the virtual game we were @talking about last
+    textRight: Oh... Touka, regarding the virtual game we were@talking about last
       time,
   - chara:
     - id: 101402
@@ -227,7 +227,7 @@ story:
     - eyeClose: 1
       id: 101402
     nameRight: Nemu
-    textRight: A world that is always blanketed in snow and @showered with blessings...
+    textRight: A world that is always blanketed in snow and@showered with blessings...
   - chara:
     - eyeClose: 0
       id: 101402
@@ -236,7 +236,7 @@ story:
     textRight: A paradise where kids never grow up, suffer, or die.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101402
       motion: 100
     nameRight: Nemu
@@ -251,10 +251,10 @@ story:
     - id: 101402
       motion: 0
     nameLeft: Touka
-    textLeft: Equipped with autonomous AI that can evolve @based on real personalities...
+    textLeft: Equipped with autonomous AI that can evolve@based on real personalities...
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 100702
       motion: 200
       pos: 0
@@ -262,7 +262,7 @@ story:
     textLeft: Oh, I know!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100702
     nameLeft: Touka
     textLeft: If the system itself is also designed to evolve autonomously...
@@ -271,12 +271,12 @@ story:
     bgm: stop
     chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 0
       pos: 2
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 0
       pos: 0
@@ -293,11 +293,11 @@ story:
     - id: 100301
       motion: 101
     nameLeft: Tsuruno
-    textLeft: In other words, our AIs are living in that fictional @world
+    textLeft: In other words, our AIs are living in that fictional@world
   - chara:
     - id: 100301
     nameLeft: Tsuruno
-    textLeft: and she was observing how that world would @evolve?
+    textLeft: and she was observing how that world would@evolve?
   - chara:
     - id: 101501
       motion: 0
@@ -305,21 +305,21 @@ story:
     textRight: It seems so...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 100
       pos: 2
     - id: 100301
       motion: 0
     nameRight: Felicia
-    textRight: Was it in testin’ this entire time?
+    textRight: Was it in testin' this entire time?
   - chara:
     - id: 100501
     nameRight: Felicia
-    textRight: We started this game before Ui came to Mikazuki @Villa, y’know?
+    textRight: We started this game before Ui came to Mikazuki@Villa, y'know?
   - chara:
     - cheek: 0
-      face: mtn_ex_040.exp.json
+      face: mtn_ex_040.exp3.json
       id: 100301
     nameLeft: Tsuruno
     textLeft: In the beginning, it was full of people,
@@ -330,7 +330,7 @@ story:
     textLeft: but the number of players began decreasing due to various reasons.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100501
       motion: 300
       pos: 2
@@ -340,16 +340,16 @@ story:
     - id: 100301
       motion: 100
     nameLeft: Tsuruno
-    textLeft: From what happened earlier, it seems that @Touka-chan also completely
+    textLeft: From what happened earlier, it seems that@Touka-chan also completely
       forgot about it...
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 1
       pos: 2
     nameRight: Felicia
-    textRight: So durin’ all this time, our other selves have been @doin’ stuff all
+    textRight: So durin' all this time, our other selves have been@doin' stuff all
       on their own?
   - chara:
     - id: 100301
@@ -359,7 +359,7 @@ story:
   - chara:
     - id: 100301
     nameLeft: Tsuruno
-    textLeft: I don’t know what’s happened since then,
+    textLeft: I don't know what's happened since then,
   - chara:
     - id: 100301
       motion: 101
@@ -373,7 +373,7 @@ story:
     - id: 100501
       motion: 100
     nameRight: Felicia
-    textRight: Weren’t our personalities copied
+    textRight: Weren't our personalities copied
   - chara:
     - id: 100501
     nameRight: Felicia
@@ -382,22 +382,22 @@ story:
     - id: 100301
       motion: 1
     nameLeft: Tsuruno
-    textLeft: That’s right, they originally had our personalities @and memories,
+    textLeft: That's right, they originally had our personalities@and memories,
   - chara:
     - id: 100301
     nameLeft: Tsuruno
-    textLeft: but it seems unnecessary memories were deleted @to adapt them for the
+    textLeft: but it seems unnecessary memories were deleted@to adapt them for the
       game.
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 100501
       motion: 300
     nameRight: Felicia
-    textRight: On top of that, it’s been a pretty long time since @then...
+    textRight: On top of that, it's been a pretty long time since@then...
   - chara:
     - cheek: 0
-      face: mtn_ex_030.exp.json
+      face: mtn_ex_030.exp3.json
       id: 101501
       motion: 100
       pos: 2
@@ -407,69 +407,69 @@ story:
     - id: 100301
       motion: 200
     nameLeft: Tsuruno
-    textLeft: That’s right, they’ve become completely different people after all this
+    textLeft: That's right, they've become completely different people after all this
       time!
   - chara:
     - cheek: 0
-      face: mtn_ex_020.exp.json
+      face: mtn_ex_020.exp3.json
       id: 100501
       motion: 100
       pos: 2
     nameRight: Felicia
-    textRight: So that’s why the other me is dressed like that...
+    textRight: So that's why the other me is dressed like that...
   - chara:
     - id: 100501
     nameRight: Felicia
-    textRight: The real me ain’t gonna get excited over somethin’ @like Christmas.
+    textRight: The real me ain't gonna get excited over somethin'@like Christmas.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 100
       pos: 0
     nameLeft: Tsuruno
-    textLeft: Well, isn’t it interesting? Since when did our other selves
+    textLeft: Well, isn't it interesting? Since when did our other selves
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 100301
       pos: 0
     nameLeft: Tsuruno
     textLeft: start traveling around on a magical, reindeer motorbike?
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 1
       pos: 2
     nameRight: Ui
-    textRight: When we were watching on Tsuruno’s phone,
+    textRight: When we were watching on Tsuruno's phone,
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 101501
     nameRight: Ui
-    textRight: it seemed the two of them stop by towns to @collect fuel,
+    textRight: it seemed the two of them stop by towns to@collect fuel,
   - chara:
     - id: 101501
     nameRight: Ui
     textRight: while heading for the End of the World.
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100501
       motion: 0
       pos: 0
     nameLeft: Felicia
-    textLeft: '...I’m gonna check what’s happenin’ on my phone.'
+    textLeft: '...I''m gonna check what''s happenin'' on my phone.'
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100501
       motion: 300
       pos: 0
     nameLeft: Felicia
-    textLeft: '...Hm? Huh, was there supposed to be this sorta @menu?'
+    textLeft: '...Hm? Huh, was there supposed to be this sorta@menu?'
   - autoTurnLast: 0.2
     chara:
     - id: 100501
@@ -477,7 +477,7 @@ story:
     textClear: 1
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 0
       pos: 0
@@ -487,26 +487,26 @@ story:
     - id: 100501
       motion: 200
     nameRight: Felicia
-    textRight: Press here! Ya can choose the next destination for @the characters!
+    textRight: Press here! Ya can choose the next destination for@the characters!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 100301
       motion: 101
       pos: 0
     nameLeft: Tsuruno
-    textLeft: You’re right!
+    textLeft: You're right!
   - chara:
     - cheek: 0
-      face: mtn_ex_050.exp.json
+      face: mtn_ex_050.exp3.json
       id: 101501
       motion: 300
       pos: 2
     nameRight: Ui
-    textRight: Wasn’t this a game where you could only watch?
+    textRight: Wasn't this a game where you could only watch?
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100301
       motion: 1
       pos: 0
@@ -515,18 +515,18 @@ story:
   - chara:
     - id: 100301
     nameLeft: Tsuruno
-    textLeft: The button was always there, but it couldn’t be @pressed!
+    textLeft: The button was always there, but it couldn't be@pressed!
   - chara:
     - cheek: 0
-      face: mtn_ex_010.exp.json
+      face: mtn_ex_010.exp3.json
       id: 100501
       motion: 1
       pos: 2
     nameRight: Felicia
-    textRight: Then for the next destination... @Wanna try choosin’ one?
+    textRight: Then for the next destination...@Wanna try choosin' one?
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 100301
       motion: 200
       pos: 0
@@ -534,7 +534,7 @@ story:
     textLeft: Yep.
   - chara:
     - cheek: 0
-      face: mtn_ex_011.exp.json
+      face: mtn_ex_011.exp3.json
       id: 101501
       motion: 100
       pos: 2

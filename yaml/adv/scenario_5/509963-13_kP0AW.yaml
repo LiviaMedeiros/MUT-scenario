@@ -45,6 +45,15 @@ story:
     nameRight: Sayuki
     textRight: It's like Hansel and Gretel...
   - chara:
+    - effect: fadeout
+      id: 303301
+    - effect: fadeout
+      id: 101801
+    nameNarration: ""
+    narration: '...'
+    narrationBg: bg_adv_21676.jpg
+    narrationEffect: in
+  - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300901
@@ -55,12 +64,6 @@ story:
       id: 101801
       motion: 1
       pos: 2
-    nameNarration: ""
-    narration: '...'
-    narrationBg: bg_adv_21676.jpg
-    narrationEffect: in
-  - chara:
-    - id: 300901
     nameLeft: Manaka
     narrationEffect: out
     textLeft: Is this a trap?

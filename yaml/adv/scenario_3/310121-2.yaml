@@ -43,8 +43,8 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameNarration: Karin
-    narration: Hmm, Nanaka Tokiwa...@She seems super smart. @She's a Magical Girl
-      you just can't read.
+    narration: Hmm, Nanaka Tokiwa...@She seems super smart.@She's a Magical Girl you
+      just can't read.
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -54,7 +54,7 @@ story:
     turnChangeOut: fadeOut
   - narration: Though she's strong, she has many friends@that help each other. She
       must be nice!
-  - narration: Her friends might be affected if I target@her. I need someone who's
+  - narration: Her friends might be affected if I target her.@I need someone who's
       on their own.@On to the next girl...
   - autoTurnLast: 0.01
     item:
@@ -195,7 +195,7 @@ story:
     textCenter: A Magical Girl?
   - bgm: stop
     nameNarration: ???
-    narration: Trick or treat...
+    narration: '"Trick or treat..."'
     narrationBg: bg_adv_15023.jpg
     narrationEffect: in
   - bgm: bgm03_story10
@@ -207,7 +207,7 @@ story:
     narrationEffect: out
     textCenter: Who are you?
   - nameNarration: ???
-    narration: Trick or treat...
+    narration: '"Trick or treat..."'
     narrationBg: bg_adv_15023.jpg
     narrationEffect: in
   - chara:
@@ -215,9 +215,10 @@ story:
       face: mtn_ex_042.exp.json
       id: 100200
     narrationEffect: out
-    textCenter: Are you playing games with me? [chara:100200:lipSynch_0][wait:1.0][chara:100200:cheek_-1][chara:100200:motion_200][chara:100200:face_mtn_ex_021.exp.json][chara:100200:lipSynch_1]Show@yourself!
+    textCenter: Are you playing games with me?@[chara:100200:lipSynch_0][wait:1.0][chara:100200:cheek_-1][chara:100200:motion_200][chara:100200:face_mtn_ex_021.exp.json][chara:100200:lipSynch_1]Show
+      yourself!
   - nameNarration: ???
-    narration: Trick or treat...
+    narration: '"Trick or treat..."'
     narrationBg: bg_adv_15023.jpg
     narrationEffect: in
   - chara:
@@ -226,8 +227,8 @@ story:
       id: 100200
       motion: 1
     narrationEffect: out
-    textCenter: Aren't you a little early? Why would there  @be a ghost this time
-      of year?
+    textCenter: Aren't you a little early? Why would there@be a ghost this time of
+      year?
   - chara:
     - id: 100200
     textCenter: Halloween's still a little ways away, you@know.
@@ -250,7 +251,8 @@ story:
     - cheek: -1
       face: mtn_ex_042.exp.json
       id: 100200
-    textCenter: …[chara:100200:lipSynch_0][wait:1.0][chara:100200:lipSynch_1]I see...
+    textCenter: '...[chara:100200:lipSynch_0][wait:1.0][chara:100200:lipSynch_1]I
+      see...'
   - nameRight: ???
     textRight: '...'
   - chara:
@@ -365,9 +367,13 @@ story:
     - cheek: -1
       face: mtn_ex_051.exp.json
       id: 100200
+      lipSynch: 0
       motion: 201
     textCenter: '...?!'
-  - textCenter: My Grief Seed... It's gone...
+  - chara:
+    - id: 100200
+      lipSynch: 1
+    textCenter: My Grief Seed... It's gone...
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

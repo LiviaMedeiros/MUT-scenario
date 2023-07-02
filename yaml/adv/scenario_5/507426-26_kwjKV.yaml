@@ -31,12 +31,12 @@ story:
       face: mtn_ex_030.exp.json
       id: 770083
     nameRight: ""
-    textRight: There's way more people than there's@supposed to be!
+    textRight: There's way more people than there's @supposed to be!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770184
-    textLeft: Where the hell are the rest of Torayamachi@hiding!?
+    textLeft: Where the fuck is the rest of Torayamachi @hiding?!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -62,8 +62,8 @@ story:
     textClear: 1
   - chara:
     - id: 304400
-    nameCenter: Ranka Chizu
-    textCenter: There...!?
+    nameCenter: Ranka
+    textCenter: Over there...?!
   - autoTurnLast: 0.5
     chara:
     - effect: 7001_attack02
@@ -73,7 +73,7 @@ story:
     - id: 304400
       lipSynch: 0
       motion: 400
-    textCenter: Ugh!
+    textCenter: Tch!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -97,9 +97,8 @@ story:
   - chara:
     - id: 304400
       motion: 200
-    nameLeft: Ranka Chizu
-    textLeft: We've been counting them as we go along,@there's at least thirty of
-      them!
+    nameLeft: Ranka
+    textLeft: We've been counting them as we go along! @There's, like, thirty of them!
   - chara:
     - id: 304400
     textLeft: There's no way that's right!
@@ -110,19 +109,19 @@ story:
       motion: 400
       pos: 2
     nameRight: Ao
-    textRight: Ranka, what in the world is happening...?@Torayamachi doesn't have
-      this many members...
+    textRight: Ranka, what the heck is happening...? @Torayamachi doesn't have this
+      many members...
   - chara:
     - id: 304400
       motion: 1
-    textLeft: The gems on the bridges...@Did they move them all here...?
+    textLeft: The stones on the bridges... @Did they move them all here...?
   - chara:
     - id: 304400
-    textLeft: And now they're using them to@disorient us...
+    textLeft: And now they're using them to @disorient us...
   - chara:
     - id: 304400
       motion: 300
-    textLeft: They're going to pick us off before@we can find them...
+    textLeft: They're gonna take us out before @we can find them...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -135,18 +134,14 @@ story:
     - eyeClose: 300
       id: 102300
       lipSynch: 0
-    textRight: (If she or Yuna die before I can get them@to the central bridge,)
-  - chara:
-    - eyeClose: 300
-      id: 102300
-      lipSynch: 0
-    textRight: (I won't be able to achieve my objective...!)
+    textRight: (If she or Yuna die before I can get them to @Monzenbashi, I won't
+      be able to achieve @my objective...!)
   - chara:
     - id: 102300
       lipSynch: 0
       motion: 0
-    textRight: (But for now, I need to get out of here, I'll skip@getting a Game Over
-      with the rest of these girls.)
+    textRight: (But for now, I need to get out of here. I'll skip @getting a Game
+      Over with the rest of these girls.)
   - chara:
     - cheek: 0
       face: mtn_ex_063.exp.json
@@ -181,7 +176,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102300
       motion: 300
-    textLeft: You didn't tell me about those gems.
+    textLeft: You didn't tell me about those stones.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -192,7 +187,7 @@ story:
     textRight: I wasn't told about them, either.
   - chara:
     - id: 102200
-    textRight: I think it must've been a last-minute@change...
+    textRight: I think it must've been a last-minute @change...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -210,30 +205,30 @@ story:
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 0
-    textRight: The thing is, Torayamachi is about to@surround Juri.
+    textRight: The thing is, Torayamachi's about to @surround Juri.
   - chara:
     - id: 102200
-    textRight: They'll get you too if you show up@here without a good plan.
+    textRight: They'll get you too if you show up @here without a good plan.
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
       id: 102300
       motion: 300
-    textLeft: But if Juri gets taken down by Yuna, we won't@be able to complete our
+    textLeft: But if Juri gets taken down by Yuna, we won't @be able to complete our
       mission, you know~...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102200
       motion: 300
-    textRight: '...That''s true.'
+    textRight: '...Good point.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 0
-    textRight: Alright, I'll tell you where we are so you@can catch up with us.
+    textRight: Okay, I'll tell you where we are so you @can catch up with us.
   - autoTurnLast: 1
     bg: bg_adv_20463.jpg
     chara:
@@ -253,19 +248,19 @@ story:
   - chara:
     - id: 102300
       motion: 400
-    textCenter: I should be able to lure both gangs onto@the center bridge...
+    textCenter: I should be able to lure both gangs to @Monzenbashi...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 102300
-    textCenter: If I can convince Ranka,@I'm sure I can do it.
+    textCenter: If I can convince Ranka, @I'm sure I can do it.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102300
       lipSynch: 0
       motion: 200
-    textCenter: (I'll use her just as much as she used@me before I crush her...)
+    textCenter: (I'll use her just as much as she used @me before I crush her...)
   - autoTurnLast: 1.5
     bg: bg_adv_21143.jpg
     bgm: stop
@@ -293,12 +288,12 @@ story:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
-    textRight: I hope you like it well done.
+    textRight: I hope ya like it well done.
   - chara:
     - id: 102102
       motion: 100
     nameLeft: Yuna
-    textLeft: Sure, bring it on.
+    textLeft: Fine. Bring it on.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -306,7 +301,7 @@ story:
       motion: 400
       mouthOpen: 1
     textBg: shout
-    textRight: '[se:8000_flame_01_s][chara:102102:effect_7000_attack01]HAAAH!!'
+    textRight: '[se:8000_flame_01_s][chara:102102:effect_7000_attack01]HAAAH!'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -328,22 +323,22 @@ story:
   - chara:
     - id: 102102
     nameCenter: Yuna
-    textCenter: A flamethrower isn't too useful in close@range, is it?
+    textCenter: A flamethrower isn't too useful at close @range, is it?
   - chara:
     - id: 102400
       motion: 200
-    textRight: '[chara:102102:effect_7001_attack02]Don''t look down on me!'
+    textRight: '[chara:102102:effect_7001_attack02]Don''t fuckin'' look down on me!'
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
       id: 102102
       motion: 300
-    textCenter: '[se:3001_chara_damage][chara:102102:effect_7003_damage02][bgEffect:shakeSmall]Ugh.'
+    textCenter: '[se:3001_chara_damage][chara:102102:effect_7003_damage02][bgEffect:shakeSmall]Ngh–!'
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
-    textRight: At this range,@I can just smack you with it.
+    textRight: At this range, @I can just crack ya with it.
   - chara:
     - id: 102400
       motion: 0
@@ -367,18 +362,18 @@ story:
       mouthOpen: 1
     nameCenter: Juri
     textBg: shout
-    textCenter: '[flashEffect:explosion][se:8000_flame_01_s]BUUURN TOOOO A CRIIIIISP!!'
+    textCenter: '[flashEffect:explosion][se:8000_flame_01_s]BUUUUURN!!'
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
       id: 102400
       mouthOpen: 0
-    textCenter: '[chara:102400:effect_7002_damage01][se:3001_chara_damage][bgEffect:shakeSmall]Agh!'
+    textCenter: '[chara:102400:effect_7002_damage01][se:3001_chara_damage][bgEffect:shakeSmall]GAH!'
   - chara:
     - id: 102400
       motion: 300
-    textCenter: Ugh...what just hit me...!?
+    textCenter: Urgh... Who the hell just hit me...?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -386,7 +381,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Yuna
-    textLeft: Who else?@It was me...
+    textLeft: Who else could it have been? @It was me...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -398,25 +393,25 @@ story:
       face: mtn_ex_010.exp.json
       id: 102102
       motion: 100
-    textLeft: That's right.@So when I hit this tire...
+    textLeft: Correct. @So when I struck this tire...
   - chara:
     - id: 102102
-    textLeft: You take the hit along with it.
+    textLeft: You took the hit along with it.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 102400
       motion: 100
-    textCenter: You really are nothing but cheap tricks!
+    textCenter: You really are nothing but cheap-ass tricks!
   - chara:
     - id: 102400
-    textCenter: And on top of that you're way too naive!
+    textCenter: And on top of that, you're WAY too fuckin' naive!
   - chara:
     - id: 102400
       motion: 200
     textBg: shout
     textCenter: '[se:8000_flame_01_s][chara:102102:effect_7001_attack02]How dare someone
-      like you think you could@match me!'
+      like YOU think you could @match me!'
   - chara:
     - cheek: 0
       face: mtn_ex_060.exp.json
@@ -428,7 +423,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
-    textCenter: C'mon, don't frown like that.@I kept it on low heat...
+    textCenter: C'mon, don't frown like that. @I kept it on low heat...
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -445,14 +440,14 @@ story:
     - eyeClose: 0
       id: 102102
       motion: 0
-    textLeft: This fight's already over.
+    textLeft: This fight is already over.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102400
       lipSynch: 0
       motion: 400
-    textCenter: '...!?'
+    textCenter: Wha–?!
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
@@ -508,17 +503,17 @@ story:
     turnChangeIn: rollInFast
   - chara:
     - id: 102400
-    textRight: So you lured Juri the Great into a trap,@huh...
+    textRight: So you lured me into a trap, @huh...
     turnChangeOut: rollOutFast
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 1
-    textRight: Fine, if you wanna play that way.
+    textRight: Fine. If you wanna play that way,
   - chara:
     - id: 102400
-    textRight: Let's see how many Juri the Great can@kill before she goes down!
+    textRight: let's see how many Juri the Great can @kill before she goes down!
   - chara:
     - id: 102400
       motion: 100
@@ -530,9 +525,9 @@ story:
       motion: 300
     textLeft: Are you really fine with that?
   - bgm: stop
-    nameCenter: Hikaru's voice
+    nameCenter: Hikaru's Voice
     textBg: shout
-    textCenter: Stop!
+    textCenter: STOP!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -547,14 +542,14 @@ story:
       motion: 200
       pos: 2
     nameRight: Hikaru
-    textRight: It's true that taking out Juri will@put an end to Ryuugasaki...
+    textRight: It's true that taking out Juri will @put an end to Ryuugasaki...
   - chara:
     - id: 102200
     textRight: But we shouldn't kill her here!
   - chara:
     - id: 102200
       motion: 0
-    textRight: We could capture her and decide what@to do later, couldn't we?
+    textRight: We could capture her and decide what @to do later, couldn't we?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -562,7 +557,7 @@ story:
       motion: 200
       pos: 0
     nameLeft: Juri
-    textLeft: Will you shut up, you little brat!?
+    textLeft: Will you shut the fuck up, you little twerp?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -570,7 +565,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Ao
-    textRight: Also, this isn't the one-on-one battle you@wanted, Juri~
+    textRight: Besides, this isn't the one-on-one battle you @wanted, Juri~
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -582,17 +577,16 @@ story:
       face: mtn_ex_020.exp.json
       id: 102300
       motion: 200
-    textRight: If we retreat to the central bridge,@we can regroup with Ranka and
-      the others.
+    textRight: If we retreat to Monzenbashi, @we can regroup with Ranka and the others.
   - chara:
     - id: 102300
-    textRight: That way, you can fight Yuna the way@you wanted to~
+    textRight: That way, you can fight Yuna the way @you wanted to~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102300
       motion: 300
-    textRight: You wouldn't be satisfied if you went@down like this, would you...?
+    textRight: You wouldn't be satisfied if you went @down like this, would you...?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -604,11 +598,11 @@ story:
       face: mtn_ex_010.exp.json
       id: 102300
       motion: 200
-    textRight: '''Course you can.@Ranka even agreed with it.'
+    textRight: Of course you can. @Ranka even agreed with it.
   - chara:
     - id: 102400
       motion: 200
-    textLeft: Gotcha.@Let's go, Ao!
+    textLeft: Gotcha. @Let's go, Ao!
   - chara:
     - id: 102300
       motion: 400
@@ -638,7 +632,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 400
-    textLeft: Everyone,@we're going to the central bridge!
+    textLeft: Everyone, @we're heading to Monzenbashi!
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

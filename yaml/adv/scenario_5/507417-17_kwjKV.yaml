@@ -2,7 +2,7 @@
 story:
   group_1:
   - nameNarration: ""
-    narration: "2:00"
+    narration: 2:00 AM
     narrationBg: black
     narrationEffect: in
     turnChangeIn: fadeIn
@@ -50,7 +50,7 @@ story:
       pos: 2
     nameCenter: ""
     textBg: shout
-    textCenter: Yeah!
+    textCenter: YEAH!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -62,24 +62,24 @@ story:
     - id: 770185
       mouthOpen: 0
     nameLeft: Juri
-    textLeft: This battle isn't one to show our strength.
+    textLeft: This battle ain't one to show our strength.
   - chara:
     - id: 102400
-    textLeft: It's not a battle for glory, for honor,@or anything like that, either.
+    textLeft: It's not for glory, or honor, @or anythin' like that, either.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
-    textLeft: Then what is it for, you ask?@You already know, don't you?
+    textLeft: Then what's it for, you ask? @You already know, don't ya?
   - chara:
     - id: 102400
       motion: 200
-    textLeft: We're fighting this war for the sake of@living on.
+    textLeft: We're fightin' this war for the sake of @livin' on.
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json
       id: 102400
-    textLeft: It hurts to kill people, but we've got to@swallow that pain for tonight.
+    textLeft: It hurts to kill people, but we gotta @swallow that pain for tonight.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -95,20 +95,20 @@ story:
       motion: 0
       pos: 2
     nameRight: Ao
-    textRight: …………
+    textRight: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
-    textLeft: Ao, you feeling nervous?
+    textLeft: You nervous, Ao?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102300
       lipSynch: 1
       motion: 200
-    textRight: I guess so~@Maybe just a bit~
+    textRight: I guess so~ @Maybe a little bit~
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -120,7 +120,7 @@ story:
       id: 102300
       lipSynch: 0
       motion: 400
-    textRight: …
+    textRight: '*Huff*...'
   - nameNarration: ""
     narration: '[surround:7105_telphone]～～♪～～♪'
     narrationEffect: in
@@ -137,16 +137,16 @@ story:
       motion: 0
       pos: 1
     nameCenter: Juri
-    textCenter: Alright.
+    textCenter: Gotcha.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 100
-    textCenter: Ranka's team is good to go!@Let's do it!!
+    textCenter: Ranka's team is good to go! @Let's do this!
   - chara:
     - id: 102400
-    textCenter: We're going to take two teams of nine and@rush the central bridge!
+    textCenter: We're gonna take two teams of nine and @rush the central bridge!
   - autoTurnLast: 1
     bg: bg_adv_20463.jpg
     chara:
@@ -169,13 +169,13 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 102200
-    textRight: Is Ryuugasaki really coming from the@central bridge?
+    textRight: Is Ryuugasaki really coming from @Monzenbashi?
   - chara:
     - id: 102102
       motion: 200
     nameLeft: Yuna
-    textLeft: Since they noticed our gems, I was sure they'd@split up and come from
-      the east and west...
+    textLeft: Since they noticed our stones, I was certain they'd @split up and come
+      from the east and west...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -187,7 +187,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102102
       motion: 100
-    textLeft: But it's a pleasant surprise...
+    textLeft: It's a pleasant surprise, however...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -202,7 +202,7 @@ story:
   - chara:
     - id: 102200
       motion: 100
-    textRight: '[chara:102200:effect_emotion_surprise_0][se:7226_shock]Yes!?'
+    textRight: '[chara:102200:effect_emotion_surprise_0][se:7226_shock]Aye?!'
   - chara:
     - id: 102102
     textLeft: Call Sakuya.
@@ -212,10 +212,10 @@ story:
   - chara:
     - id: 102102
       motion: 1
-    textLeft: Then the team at the central bridge will@ambush them
+    textLeft: Then the team at Monzenbashi will @ambush them.
   - chara:
     - id: 102102
-    textLeft: and we'll take them down with one swift@strike...
+    textLeft: We'll take them down with one swift @strike.
   - autoTurnLast: 1.5
     bg: bg_adv_20223.jpg
     bgm: stop
@@ -237,20 +237,20 @@ story:
     - id: 102400
       mouthOpen: 1
     nameLeft: Juri
-    textLeft: '*Pant pant pant*...@[chara:102400:lipSynch_0][wait:1.5][chara:102400:eyeClose_0][chara:102400:cheek_0][chara:102400:face_mtn_ex_020.exp.json:mouthOpen_0][chara:102400:lipSynch_1]Man,
+    textLeft: '*Pant* *Pant* @[chara:102400:lipSynch_0][wait:1.5][chara:102400:eyeClose_0][chara:102400:cheek_0][chara:102400:face_mtn_ex_020.exp.json:mouthOpen_0][chara:102400:lipSynch_1]...Man,
       what the hell''s happening here...?'
     turnChangeOut: fadeOut
   - chara:
     - id: 304400
       motion: 200
-    nameRight: Ranka Chizu
-    textRight: No matter where we go, we're completely@surrounded!
+    nameRight: Ranka
+    textRight: No matter where we go, we're completely @surrounded!
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json
       id: 102400
       motion: 300
-    textLeft: It was a bad move to rush in in a big@group, huh...
+    textLeft: It was a bad move to charge in @all at once, huh...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -265,20 +265,20 @@ story:
       face: mtn_ex_020.exp.json
       id: 102400
       lipSynch: 0
-    textLeft: Ugh...
+    textLeft: Rrgh...
   - chara:
     - eyeClose: 0
       id: 102400
       lipSynch: 1
       motion: 100
-    textLeft: No, if we keep together, we should be@able to force our way through...!
+    textLeft: No, if we keep together, we should be @able to force our way through...!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 304400
       motion: 100
       pos: 2
-    nameRight: Ranka Chizu
+    nameRight: Ranka
     textRight: Our morale won't last like this!
   - chara:
     - cheek: 0
@@ -291,7 +291,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 200
-    textLeft: '...Everyone!@Fall back from the bridge!'
+    textLeft: '...Everyone! @Fall back from the bridge!'
   - chara:
     - id: 102400
     textLeft: Follow me!
@@ -300,7 +300,7 @@ story:
       face: mtn_ex_032.exp.json
       id: 102400
       lipSynch: 0
-    textLeft: (What a bust... Juri the Great totally@screwed this up...)
+    textLeft: (What a bust... Juri the Great totally @fucked this up...)
     turnEffect: thinking
   - autoTurnLast: 0.2
     bg: bg_adv_21503.jpg
@@ -316,7 +316,7 @@ story:
     - id: 102400
       mouthOpen: 1
     nameCenter: Juri
-    textCenter: '*Pant pant pant*...'
+    textCenter: '*Pant* *Pant* *Wheeze*'
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.2
     chara:
@@ -340,7 +340,7 @@ story:
       motion: 0
       pos: 2
     nameCenter: ""
-    textCenter: …………
+    textCenter: '...'
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -358,7 +358,7 @@ story:
       motion: 400
       pos: 1
     nameCenter: Juri
-    textCenter: '!!'
+    textCenter: —!!
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -366,7 +366,7 @@ story:
       motion: 100
       mouthOpen: 1
     textBg: shout
-    textCenter: Everyone, scatter!@Get out of their line of sight!!
+    textCenter: EVERYONE, SCATTER! @Get outta their line of sight!!
   - autoTurnLast: 0.1
     bg: bg_adv_20223.jpg
     chara:
@@ -380,7 +380,7 @@ story:
     - id: 102102
     nameCenter: Yuna
     textCenter: Sniper team...@[chara:102102:lipSynch_0][wait:1.0][chara:102102:cheek_0][chara:102102:motion_400][chara:102102:lipSynch_1]OPEN
-      FIRE!!
+      FIRE!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.1
     bg: bg_adv_21503.jpg
@@ -418,7 +418,7 @@ story:
     - id: 770182
       mouthOpen: 1
     textBg: shout
-    textCenter: '[bgEffect:shakeLarge]TAKE THIIIIS!!'
+    textCenter: '[bgEffect:shakeLarge]TAKE THIIIIS!'
   - autoTurnLast: 0.01
     bg: white
     turnChangeIn: whiteIn
@@ -446,8 +446,8 @@ story:
     - 1
     turnChangeIn: fadeIn
   - nameNarration: ""
-    narration: To "accept" Torayamachi's directions, or to "ignore" them?@By accepting
-      them, the gears went awry...
+    narration: To "accept" Torayamachi's directions, or to "ignore" them? @By accepting
+      them, the gears of fate went awry...
     narrationBg: black
     narrationEffect: in
     turnChangeOut: fadeOut

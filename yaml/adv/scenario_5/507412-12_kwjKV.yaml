@@ -36,8 +36,8 @@ story:
     - eyeClose: 1
       id: 102300
       lipSynch: 0
-    textCenter: (So to make it a closer game so we can easily kill Juri and Yuna both,
-      we should...)
+    textCenter: (So to make it a closer game so we can easily kill @both Juri and
+      Yuna, we should...)
   - autoTurnLast: 0.2
     chara:
     - id: 102300
@@ -49,7 +49,7 @@ story:
       id: 770183
       motion: 0
       pos: 2
-    nameRight: Magical Girl
+    nameRight: ""
     textRight: So this is the way you take home, huh, Ao?
   - chara:
     - cheek: 0
@@ -58,7 +58,7 @@ story:
       id: 102300
       motion: 0
     nameLeft: Ao
-    textLeft: Mh...?
+    textLeft: Mm...?
   - chara:
     - id: 102300
     textLeft: I know you from Ryuugasaki...
@@ -71,7 +71,7 @@ story:
   - chara:
     - id: 102300
       lipSynch: 0
-    textLeft: '[chara:102300:effect_emotion_surprise_0][se:7226_shock]...!?'
+    textLeft: '[chara:102300:effect_emotion_surprise_0][se:7226_shock]—?!'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -81,16 +81,16 @@ story:
     textLeft: No way~ You've got me confused for someone else.
   - chara:
     - id: 770183
-    textRight: No, it was totally you. You were working with the @Bat of Monzenbashi.
+    textRight: Nah, it was totally you. You were working under me, @the Bat of Monzenbashi.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102300
       motion: 0
-    textLeft: I told you you've got me mixed up.
+    textLeft: I told you, you've got me mixed up.
   - chara:
     - id: 770183
-    textRight: I was in that gang, too.
+    textRight: We were members of the same gang, you know.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -101,30 +101,30 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 770183
-    textRight: You look pretty upset, all of a sudden.
+    textRight: You've got anger written all over your face.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 770183
-    textRight: I remember it like it was yesterday. Back then you @were always trembling
-      in fear.
+    textRight: I miss those days. Back then, you were @always trembling in fear.
   - chara:
     - id: 770183
-    textRight: But now look at you, an honorable team leader.
+    textRight: But look at you now, an honorable team leader.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102300
       lipSynch: 1
       motion: 200
-    textLeft: We're both with Juri's group now, right?~
+    textLeft: We're both with Juri's gang now, right~?
   - chara:
     - id: 102300
-    textLeft: It's true I had it rough back then, but it's all in the @past now.
+    textLeft: Sure, I still get mad about things sometimes, @but that's all water
+      under the bridge now.
   - chara:
     - id: 102300
       motion: 1
-    textLeft: As members of the same group, let's just start fresh and get along~
+    textLeft: As members of the same team, let's just start fresh @and get along~
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -166,15 +166,15 @@ story:
   - bgm: bgm24_story05
     chara:
     - id: 770183
-    textRight: Attacking me all of a sudden... @what a cheap shot...
+    textRight: Attacking me all of a sudden... @What a cheap shot...
     turnChangeOut: rollOutFast
   - chara:
     - id: 770183
-    textRight: Come on, I don't want to fight with you.
+    textRight: Come on, I don't wanna fight with you.
   - chara:
     - id: 102300
       motion: 200
-    textLeft: Then... what do you want...?
+    textLeft: Then... What do you want...?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -182,8 +182,8 @@ story:
     textRight: How about handing your team over to me?
   - chara:
     - id: 770183
-    textRight: Juri's so stupid, it's only a matter of time before we @can take her
-      down.
+    textRight: Juri's such a dumb bitch, it's only a matter of time before we can
+      take her down.
   - chara:
     - id: 770183
     textRight: After that, you and I could be the ones to make use @of the other Magical
@@ -194,7 +194,7 @@ story:
       id: 102300
       lipSynch: 0
       motion: 400
-    textLeft: '......!?'
+    textLeft: —?!
   - chara:
     - cheek: 1
       eyeClose: 1
@@ -202,7 +202,7 @@ story:
       id: 102300
       lipSynch: 1
       motion: 0
-    textLeft: '... crew you.'
+    textLeft: '...crew you.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -216,12 +216,12 @@ story:
     textLeft: I said screw you.
   - chara:
     - id: 102300
-    textLeft: You really think I'd sell out my team for your stupid plan...!?
+    textLeft: You really think I'd sell out my team for your stupid plan...?!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 770183
-    textRight: That's too bad...@[chara:770183:lipSynch_0][wait:1.0][chara:770183:cheek_0][chara:770183:face_mtn_ex_020.exp.json][chara:102300:effect_7001_attack02][chara:770183:lipSynch_1]then
+    textRight: That's too bad... @[chara:770183:lipSynch_0][wait:1.0][chara:770183:cheek_0][chara:770183:face_mtn_ex_020.exp.json][chara:102300:effect_7001_attack02][chara:770183:lipSynch_1]Then
       I'll just take it by force!
   - chara:
     - cheek: 0
@@ -232,8 +232,8 @@ story:
     textLeft: '...!'
   - chara:
     - id: 770183
-    textRight: Nice dodge... @[chara:770183:lipSynch_0][wait:1.0][chara:770183:cheek_0][chara:102300:effect_7000_attack01][chara:770183:lipSynch_1]but
-      how about this!?
+    textRight: Nice dodge... @[chara:770183:lipSynch_0][wait:1.0][chara:770183:cheek_0][chara:102300:effect_7000_attack01][chara:770183:lipSynch_1]But
+      how about this?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -253,10 +253,10 @@ story:
     textClear: 1
   - chara:
     - id: 770183
-    textRight: I'm surprised you can actually match me evenly...
+    textRight: '...Hmph, what a surprise... @You''ve gotten pretty good...'
   - chara:
     - id: 102300
-    textLeft: I'll crush you... @before anyone else...
+    textLeft: I'll crush you... @Before anyone else...
   - autoTurnLast: 0.5
     chara:
     - id: 102300
@@ -274,10 +274,11 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 770183
-    textRight: I'll admit you've grown since then, but you still can't hide your fear...
+    textRight: Heheh. I'll admit you've grown since then, but @you still can't hide
+      your fear...
   - chara:
     - id: 770183
-    textRight: You still have the same stench of a loser that you @had back then.
+    textRight: You still reek of a little bitch who's just begging @to get bled dry.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -289,7 +290,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 770183
-    textRight: Heh, you flinched...
+    textRight: Ha, you flinched...
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -302,8 +303,8 @@ story:
     bgm: stop
     turnChangeIn: whiteIn
     turnChangeInTime: 0.2
-  - nameNarration: Magical Girl
-    narration: '[flashEffect:flashRed2][surround:1022A01][textBlack:Arrrrgh!?]'
+  - nameNarration: ""
+    narration: '[flashEffect:flashRed2][surround:1022A01][textBlack:"Aaagh–?!"]'
     narrationCoverOpacity: 0
     narrationEffect: in
     turnChangeOut: whiteOut
@@ -334,7 +335,7 @@ story:
     - id: 102200
       motion: 200
     nameCenter: Hikaru
-    textCenter: Are you alright!?
+    textCenter: Are you alright?!
     turnChangeOut: whiteOut
   - chara:
     - cheek: 0
@@ -346,12 +347,12 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102200
-    textCenter: That's how this kind of event goes!
+    textCenter: That's how this kind of story event goes!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770183
-    textRight: Damn it...
+    textRight: Shit...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -370,7 +371,7 @@ story:
     - id: 102300
       mouthOpen: 0
     textRight: '[chara:770183:effect_7002_damage01][surround:1012A03][bgEffect:shakeSmall]
-      Ugh... nng...'
+      Ugh...nngh...'
   - autoTurnLast: 0.5
     chara:
     - effect: fadeout
@@ -386,20 +387,20 @@ story:
     - id: 102300
       motion: 0
     nameRight: Hikaru
-    textRight: What are we going to do with this girl...?
+    textRight: What are we gonna do with her...?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770183
       motion: 0
       pos: 2
-    nameRight: Magical Girl
+    nameRight: ""
     textRight: You can't kill me, @can you... Ao...
   - chara:
     - eyeClose: 1
       id: 102300
       lipSynch: 0
-    textLeft: '......'
+    textLeft: '...'
   - select:
     - alternativeId: 3
       group: group_2
@@ -434,7 +435,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 770183
-    nameRight: Magical Girl
+    nameRight: ""
     textRight: You're really letting me live, huh...
   - chara:
     - cheek: 0
@@ -446,19 +447,19 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 770183
-    textRight: You really are soft...
+    textRight: You really are soft.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 770183
-    textRight: If you don't have the guts to kill, you're just going to keep getting
+    textRight: If you don't have the guts to kill, you're just gonna @keep getting
       used again and again...!
   - chara:
     - cheek: 1
       id: 102300
       motion: 400
     textBg: shout
-    textLeft: Shut up!!!
+    textLeft: SHUT UP!
   - autoTurnLast: 3
     chara:
     - cheek: 1
@@ -477,7 +478,7 @@ story:
       id: 102300
       motion: 300
       mouthOpen: 1
-    textLeft: '*Pant pant*'
+    textLeft: '*Pant* *Pant*'
     turnChangeOut: fadeOut
   - chara:
     - id: 102200
@@ -503,11 +504,11 @@ story:
     - eyeClose: 0
       id: 102300
       motion: 0
-    textLeft: Hikaru... watch me...
+    textLeft: Hikaru... Watch me...
   - chara:
     - id: 102200
       motion: 0
-    textRight: That's... @a shooting game...?
+    textRight: That's... @A shooting game...?
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -524,7 +525,7 @@ story:
       id: 102300
       lipSynch: 0
     narrationEffect: out
-    textLeft: '......[chara:102300:lipSynch_0][wait:1.0][chara:102300:lipSynch_1]See?'
+    textLeft: '...[chara:102300:lipSynch_0][wait:1.0][chara:102300:lipSynch_1]See?'
   - autoTurnLast: 0.01
     bgm: stop
     turnChangeIn: fadeIn
@@ -554,7 +555,7 @@ story:
   - chara:
     - id: 102300
     nameLeft: Ao
-    textLeft: Now you've learned that you can't just take my team from me.
+    textLeft: Now you've learned that you can't just take my @team from me.
     turnChangeOut: fadeOut
   - chara:
     - id: 102300
@@ -564,8 +565,8 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 770183
-    nameRight: Magical Girl
-    textRight: You're going to let me go...?
+    nameRight: ""
+    textRight: You're gonna let me go...?
   - chara:
     - id: 102300
     textLeft: I said get lost.
@@ -573,7 +574,7 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 770183
-    textRight: Showing mercy to someone who tried to kill you, @you really are soft...
+    textRight: Showing mercy to someone who tried to kill you, @what a softie...
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -584,7 +585,7 @@ story:
       id: 102300
       lipSynch: 0
       motion: 300
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json

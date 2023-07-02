@@ -14,7 +14,7 @@ story:
     chara:
     - id: 102102
     nameCenter: Yuna
-    textCenter: What are you girls really here for...?
+    textCenter: What are you girls truly here for...?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -27,7 +27,7 @@ story:
       id: 770180
       motion: 0
       pos: 2
-    nameLeft: Torayamachi Girl
+    nameLeft: ""
     textLeft: Yuna...!
   - autoTurnLast: 0.3
     chara:
@@ -54,8 +54,8 @@ story:
       id: 770085
       motion: 0
       pos: 1
-    nameRight: Ryuugasaki Girl
-    textRight: Guys get ready.
+    nameRight: ""
+    textRight: Guys, get ready.
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -78,7 +78,7 @@ story:
       motion: 0
       pos: 2
     nameLeft: Yuna
-    textLeft: '......!?'
+    textLeft: '...?!'
   - chara:
     - id: 102102
       lipSynch: 1
@@ -92,21 +92,22 @@ story:
     textRight: She doesn't have the power to control her gang anymore...!
   - chara:
     - id: 770180
-    textRight: You even believed us when we told you about @witches reappearing around
+    textRight: You even believed us when we told you about @Witches reappearing around
       here...!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 200
-    textLeft: You said you'd compromise with us... what did you really mean by that?
+    textLeft: You said that you'd compromise with us... @What did you really mean
+      by that?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770184
       motion: 0
       pos: 2
-    textRight: I meant that instead of starting another ugly war, @we'd finish you
+    textRight: I meant that instead of startin' another ugly war, @we'd finish you
       off here and now.
   - chara:
     - id: 770184
@@ -118,28 +119,28 @@ story:
   - chara:
     - id: 102102
       motion: 1
-    textLeft: You killing us here won't avoid the inevitable.
+    textLeft: You killing us here will not prevent the inevitable.
   - chara:
     - id: 102102
-    textLeft: We should do everything we can to find a way out of this before then.
+    textLeft: We should do everything we can to find a way out @of this before then.
   - chara:
     - id: 770184
-    textRight: By then the survivors will have started another war.
+    textRight: By then, the survivors will have started another war.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770083
       motion: 0
       pos: 2
-    textRight: Do you really think anything will change without knowing why witches
-      disappeared in the first place? Don't make me laugh!
+    textRight: You wanna talk countermeasures when we don't @even know why Witches
+      disappeared? Don't make @me laugh!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770184
       motion: 0
       pos: 2
-    nameRight: Ryuugasaki Girl
+    nameRight: ""
     textRight: We only asked for one thing from you, and you @couldn't even accomplish
       it.
   - chara:
@@ -148,14 +149,14 @@ story:
       id: 102102
       lipSynch: 0
       motion: 300
-    textLeft: '......'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770080
       motion: 0
       pos: 2
-    nameRight: Torayamachi Girl
+    nameRight: ""
     textRight: Yuna...
   - autoTurnLast: 0.1
     chara:
@@ -203,7 +204,7 @@ story:
       motion: 0
       pos: 2
     nameCenter: Yuna
-    textCenter: We're...
+    textCenter: This is...
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
@@ -249,7 +250,7 @@ story:
       id: 770180
       motion: 0
       pos: 2
-    textCenter: I'm sorry, girls... I shouldn't have trusted them...
+    textCenter: I'm so sorry, girls... I should never have trusted @them...
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -277,7 +278,7 @@ story:
       motion: 0
       mouthOpen: 1
       pos: 1
-    nameCenter: Ryuugasaki Girl
+    nameCenter: ""
     textBg: shout
     textCenter: Get 'em!
   - autoTurnLast: 0.5
@@ -305,16 +306,16 @@ story:
   - chara:
     - id: 770083
       mouthOpen: 1
-    nameRight: Ryuugasaki Girl
+    nameRight: ""
     textBg: shout
-    textRight: '[chara:102102:effect_7001_attack02]Yunaaa!'
+    textRight: '[chara:102102:effect_7001_attack02]YUNAAAAA!'
     turnChangeOut: rollOutFast
   - chara:
     - id: 102102
     - id: 770083
       mouthOpen: 0
     nameLeft: Yuna
-    textLeft: Tch...@[chara:102102:lipSynch_0][wait:0.8][chara:102102:cheek_0][chara:102102:motion_400][chara:102102:lipSynch_1][surround:0001_jump01][chara:770083:effect_7000_attack01]they
+    textLeft: Ngh... @[chara:102102:lipSynch_0][wait:0.8][chara:102102:cheek_0][chara:102102:motion_400][chara:102102:lipSynch_1][surround:0001_jump01][chara:770083:effect_7000_attack01]They
       took us by surprise...
   - autoTurnLast: 0.5
     chara:
@@ -335,13 +336,12 @@ story:
       motion: 200
       mouthOpen: 1
     textBg: shout
-    textLeft: '[flashEffect:flashWhite2][surround:0001_jump01]Aaaaah!'
+    textLeft: '[flashEffect:flashWhite2][surround:0001_jump01]AAAAAH!'
   - autoTurnLast: 1
     chara:
     - id: 102102
       mouthOpen: 0
-    textRight: '[flashEffect:flashRed2][surround:1005A02][bgEffect:shakeLarge]Ugh...
-      Uh...'
+    textRight: '[flashEffect:flashRed2][surround:1005A02][bgEffect:shakeLarge]Ugh...uh...'
   - autoTurnLast: 0.5
     se: 3102_enemy_dead
     textClear: 1
@@ -357,14 +357,14 @@ story:
     - id: 102102
       lipSynch: 0
       motion: 300
-    textCenter: (This isn't the time for fighting...!)
+    textCenter: (This is not the time for fighting...!)
   - chara:
     - id: 102102
       lipSynch: 1
       motion: 400
-    textCenter: Girls, regroup!! We're getting out of here...!
-  - nameNarration: Torayamachi Girl
-    narration: Aaaaagh!
+    textCenter: GIRLS, REGROUP! We're getting out of here...!
+  - nameNarration: ""
+    narration: '"AAaaAAAH!"'
     narrationEffect: in
   - chara:
     - cheek: 0
@@ -372,7 +372,7 @@ story:
       id: 102102
       lipSynch: 0
     narrationEffect: out
-    textCenter: '......!?'
+    textCenter: '*Gasp*?!'
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
@@ -388,13 +388,13 @@ story:
     turnChangeIn: rollInFast
   - chara:
     - id: 770184
-    nameRight: Ryuugasaki Girl
+    nameRight: ""
     textRight: One down...
     turnChangeOut: rollOutFast
   - chara:
     - id: 770081
-    nameLeft: Torayamachi Girl
-    textLeft: Yu... na...
+    nameLeft: ""
+    textLeft: Yu...na...
   - autoTurnLast: 1
     chara:
     - effect: fadeout
@@ -422,7 +422,7 @@ story:
       id: 770080
       motion: 0
       pos: 0
-    textCenter: '............'
+    textCenter: '...'
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -476,12 +476,12 @@ story:
       id: 770080
       motion: 0
       pos: 0
-    nameLeft: Torayamachi Girl
+    nameLeft: ""
     textLeft: I'm ready to do this...
   - chara:
     - id: 770080
-    nameRight: Torayamachi Girl
-    textRight: Me too... let's go out with a bang...
+    nameRight: ""
+    textRight: Me too... Let's go out with a bang...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -497,15 +497,15 @@ story:
   - chara:
     - id: 102102
       motion: 400
-    textCenter: I won't let either of you get yourselves killed here.
+    textCenter: I will not let either of you get yourselves killed here.
   - chara:
     - id: 102102
       motion: 300
-    textCenter: A world where we kill each other for the sake of @Grief Seeds...
+    textCenter: A world where we slaughter each other for the sake @of Grief Seeds...
   - chara:
     - eyeClose: 1
       id: 102102
-    textCenter: I won't accept that...
+    textCenter: I will never accept that...
   - chara:
     - id: 770080
     textLeft: But...
@@ -518,8 +518,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770080
-    textLeft: '[chara:770080:effect_7003_damage02][se:3001_chara_damage][bgEffect:shakeSmall]
-      Ugh...'
+    textLeft: '[chara:770080:effect_7003_damage02][se:3001_chara_damage][bgEffect:shakeSmall]Ugh...'
   - chara:
     - id: 770080
     textLeft: Ah...
@@ -541,12 +540,12 @@ story:
       face: mtn_ex_052.exp.json
       id: 102102
       motion: 0
-    textLeft: Is this really the time to be chatting? You'll have @plenty of time
+    textLeft: Is this really the time to be chattin'? @You'll have plenty of time
       to talk in hell.
   - chara:
     - id: 102102
       lipSynch: 0
-    textCenter: '............'
+    textCenter: '...'
   - autoTurnLast: 0.3
     bg: bg_adv_narration.jpg
     bgm: stop
@@ -572,25 +571,26 @@ story:
     - eyeClose: 0
       id: 102102
       motion: 200
-    textCenter: I thought we'd really be able to settle things peacefully... Senpai...
-      did I make the wrong choice...?
+    textCenter: I sincerely believed we'd be able to settle things @peacefully...
+      Senpai... Did I make the wrong choice...?
   - chara:
     - cheek: 0
       face: mtn_ex_031.exp.json
       id: 102102
-    textCenter: Everything I thought I should do... was it all wrong...?
-  - nameNarration: ???
-    narration: You worked hard to make last night's fight the final one, @just like
-      you promised. That wasn't wrong, neither was @trying to negotiate with them.
+    textCenter: Everything I thought I should do... @Was it all wrong...?
+  - nameNarration: ""
+    narration: '"You worked hard to make the other night''s fight the @final one,
+      just like you promised. That wasn''t wrong, @and neither was trying to negotiate
+      with them."'
     narrationEffect: in
   - chara:
     - id: 102102
       motion: 0
     narrationEffect: out
     textCenter: But... I don't think I can keep this up anymore...
-  - nameNarration: ???
-    narration: There's someone who's always at your side, pushing @forward along with
-      you. You have to believe in her.
+  - nameNarration: ""
+    narration: '"There''s someone who''s always at your side, pushing @forward along
+      with you. You have to believe in her."'
     narrationEffect: in
   - autoTurnLast: 0.2
     bg: bg_adv_21132.jpg

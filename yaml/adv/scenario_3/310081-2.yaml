@@ -10,7 +10,7 @@ story:
       pos: 1
       soulGem: 0
     turnChangeIn: fadeIn
-  - bg: bg_adv_21025.jpg
+  - bg: bg_adv_21491.jpg
     bgm: bgm03_story06
     chara:
     - id: 100801
@@ -151,8 +151,8 @@ story:
     turnChangeOut: rollOutFast
   - chara:
     - id: 101201
-    textCenter: Oh, Alina. [chara:101201:lipSynch_0][wait:1.5][chara:101201:effect_emotion_surprise_0][se:7226_shock][chara:101201:motion_200][chara:101201:cheek_1][chara:101201:face_mtn_ex_050.exp.json][chara:101201:lipSynch_1]There
-      you are! *Pant*
+    textCenter: Oh, Alina... *Pant*@[chara:101201:lipSynch_0][wait:1.5][chara:101201:effect_emotion_surprise_0][se:7226_shock][chara:101201:motion_200][chara:101201:cheek_1][chara:101201:face_mtn_ex_050.exp.json][chara:101201:lipSynch_1]There
+      you are!
   - autoTurnLast: 0.5
     chara:
     - cheek: 1
@@ -348,7 +348,7 @@ story:
     narrationEffect: in
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-  - narration: Yet with no discernible themes, your art is @a powerful drug that may
+  - narration: Yet with no discernible themes, your art is@a powerful drug that may
       drive people mad.
   - narration: So allow me to say this.
   - narration: If you don't intend to change the world,@stop creating.

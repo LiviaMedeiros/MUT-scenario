@@ -564,7 +564,7 @@ story:
   - autoTurnLast: 1
     bgm: stop
     item:
-    - path: resource/scenario/img/51006_halloween/memoria_1134.png
+    - path: resource/scenario/img/51006_halloween/memoria_1134.jpg
       posX: 0
       posY: 0
       visible: appear
@@ -589,7 +589,7 @@ story:
   - autoTurnLast: 0.01
     bg: bg_adv_21281.jpg
     item:
-    - path: resource/scenario/img/51006_halloween/memoria_1134.png
+    - path: resource/scenario/img/51006_halloween/memoria_1134.jpg
       visible: hide
     narrationEffect: out
     turnChangeIn: rollInFast

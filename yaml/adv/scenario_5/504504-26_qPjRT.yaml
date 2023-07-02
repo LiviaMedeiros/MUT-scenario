@@ -50,7 +50,7 @@ story:
     textCenter: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 2
-    bg: bg_adv_21025.jpg
+    bg: bg_adv_21491.jpg
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -341,7 +341,7 @@ story:
       face: mtn_ex_001.exp.json
       id: 100601
       motion: 0
-    textLeft: I just remembered something!@The [textBlue:Uwasa] of the Happy Stamp...
+    textLeft: I just remembered something!@The [textBlue:Rumor] of the Happy Stamp...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -427,7 +427,7 @@ story:
     textLeft: Yes, I wasn't aware of the finer details@myself...
   - chara:
     - id: 100601
-    textLeft: But it's a jolly [textBlue:Uwasa] that only manifests@during Christmastime.
+    textLeft: But it's a jolly [textBlue:Rumor] that only manifests@during Christmastime.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json

@@ -16,7 +16,7 @@ story:
       motion: 0
       pos: 1
     narration: Or at least, that's what I thought...@Then, out of nowhere...!
-  - bg: bg_adv_21221.jpg
+  - bg: bg_adv_19221.jpg
     chara:
     - id: 300902
     nameCenter: Manaka
@@ -50,7 +50,7 @@ story:
     - cheek: 1
       effect: emotion_joy_0
       id: 800200
-    nameCenter: Leila & Another Student
+    nameCenter: Leila & Other Students
     textCenter: '[chara:301301:effect_emotion_joy_0][se:7222_happy]Thanks for everything!'
   - autoTurnLast: 0.1
     chara:

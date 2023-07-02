@@ -22,17 +22,17 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 770084
-    nameLeft: Ryuugasaki Girl
+    nameLeft: ""
     surround: 7003_wind
     textLeft: These are all of the Magical Girls I could gather from Ryuugasaki.
     turnChangeOut: fadeOut
   - chara:
     - id: 770184
-    nameRight: Ryuugasaki Girl
-    textRight: I asked everyone to participate, but some of them wouldn't come.
+    nameRight: ""
+    textRight: I asked everyone to participate, but some of 'em wouldn't come.
   - chara:
     - id: 770184
-    textRight: Sorry about that.
+    textRight: Sorry 'bout that.
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -59,7 +59,7 @@ story:
       motion: 0
       pos: 0
     nameCenter: Yuna
-    textCenter: Even ten of you would have been enough. @I appreciate your efforts.
+    textCenter: Ten of you is plenty. @I appreciate your efforts.
   - autoTurnLast: 0.5
     bg: bg_adv_21463.jpg
     chara:
@@ -80,7 +80,7 @@ story:
     - id: 102201
       motion: 1
     nameRight: Hikaru
-    textRight: '... Are you sure I don''t need to go with you...?'
+    textRight: '...Are you sure I don''t need to go with you...?'
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
@@ -92,25 +92,25 @@ story:
     textLeft: I'm more worried about Ao.
   - chara:
     - id: 102103
-    textLeft: She seems like she's on thin ice right now.
+    textLeft: She seems like she's on thin ice right now,
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102103
       motion: 0
-    textLeft: So I want you to keep an eye on her.
+    textLeft: so I want you to keep an eye on her.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102103
       motion: 0
-    textLeft: Plus, it'd be better to not have Torayamachi's Horse @show up at the
-      meeting.
+    textLeft: Plus, it would be better not to have the @Horse of Toramayachi show
+      up at the meeting.
   - chara:
     - eyeClose: 1
       id: 102201
       motion: 0
-    textRight: '... I understand.'
+    textRight: '...Got it.'
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -139,14 +139,14 @@ story:
       id: 102102
       lipSynch: 0
       motion: 200
-    textLeft: (Now's the time to show them how serious we are... @it's not about winning
-      or losing anymore.)
+    textLeft: (Now is the time to show them how serious we @are... It is no longer
+      about winning or losing.)
     turnChangeOut: fadeOut
     turnEffect: thinking
   - chara:
     - id: 770083
-    nameRight: Ryuugasaki Girl
-    textRight: Any news on the witches?
+    nameRight: ""
+    textRight: Any news on the Witches?
     turnEffect: stop
   - chara:
     - eyeClose: 0
@@ -165,10 +165,10 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102102
-    textLeft: '... Yes.'
+    textLeft: '...Indeed.'
   - chara:
     - id: 770084
-    textRight: You have no idea what's going to happen next, @do you?
+    textRight: You have no idea what's gonna happen next, @do you?
   - chara:
     - id: 102102
       motion: 300
@@ -180,27 +180,27 @@ story:
     textRight: Let me get this straight...
   - chara:
     - id: 770084
-    textRight: We've been trying to thin the numbers of Magical @Girls so we can keep
+    textRight: We've been trying to thin the number of Magical @Girls so we can keep
       living on.
   - chara:
     - id: 770084
     textRight: And you're here to convince us that we don't have to @do that anymore,
-      because witches are coming back. @Is that right?
+      because Witches are coming back. @Is that right?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 102102
       motion: 0
     textLeft: I believe that if we all work together, at least for the time being,
-      it would probably speed up the investigation.
+      it would likely hasten the investigation.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770083
       motion: 0
       pos: 2
-    textRight: You know how bad things have been between you @and us. And now you
-      want to start over with @a blank slate?
+    textRight: You know how bad things have been between us. @And now you wanna start
+      over with a blank slate?
   - chara:
     - id: 770083
     textRight: I think you're asking too much of us.
@@ -209,12 +209,12 @@ story:
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 200
-    textLeft: '... I don''t think the point of this meeting was to @question me like
-      this, was it?'
+    textLeft: '...I don''t believe that the point of this meeting @was to question
+      me like this, was it?'
   - chara:
     - id: 102102
       motion: 400
-    textLeft: I say what I want to say.
+    textLeft: I've said my piece.
   - chara:
     - id: 102102
     textLeft: You've all agreed to work with me, so we're here to @set some ground
@@ -222,32 +222,32 @@ story:
   - chara:
     - id: 102102
       motion: 1
-    textLeft: If you start picking a fight like this, the whole @meeting is pointless,
-      isn't it?
+    textLeft: If you start picking a fight like this, doesn't that @render our meeting
+      pointless?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770184
       motion: 0
       pos: 2
-    textRight: My apologies.
+    textRight: Sorry.
   - chara:
     - id: 770184
-    textRight: But I want you to consider how these girls are feeling right now.
+    textRight: But I want you to consider how these girls are feelin' right now.
   - chara:
     - id: 770184
-    textRight: Our two gangs have been fighting each other for so long, it’s not that
-      easy to suddenly start cooperating with each other.
+    textRight: Our gangs have been at each other's throats so long, @we can't just
+      start cooperating on a dime.
   - chara:
     - id: 770184
-    textRight: That's why we're being cautious about it.
+    textRight: That's why we're bein' cautious about it.
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_030.exp.json
       id: 102102
       motion: 300
-    textLeft: '... Okay, I understand.'
+    textLeft: '...Fair enough. I understand.'
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -258,25 +258,25 @@ story:
       rules.
   - chara:
     - id: 102102
-    textLeft: That's what you're all here for, isn't it?
+    textLeft: That's what you're all here for, yes?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 770184
-    textRight: We need you to make something clear to us.
+    textRight: We need you to make somethin' clear to us.
   - chara:
     - id: 102102
       motion: 0
-    textLeft: Make something clear?
+    textLeft: What might that be?
   - chara:
     - id: 770184
-    textRight: We've been fighting for so long, it’s hard to tell whose territory
-      is where anymore.
+    textRight: We've been fightin' for so long that it's hard to tell @whose territory's
+      where anymore.
   - bgm: stop
     chara:
     - id: 770184
-    textRight: So before we can join with you, I want us to clear up which territory
-      belongs to who.
+    textRight: So before we can join up with you, I wanna clarify @what turf belongs
+      to who.
   - bgm: bgm23_promised04
     chara:
     - cheek: 0
@@ -284,20 +284,20 @@ story:
       id: 102102
       lipSynch: 0
       motion: 400
-    textLeft: '......!?'
+    textLeft: '...?!'
   - chara:
     - id: 102102
       lipSynch: 1
-    textLeft: Just... what are you getting at...?
+    textLeft: What exactly...are you getting at...?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 0
-    textLeft: It sounds like you're saying...
+    textLeft: It sounds as though you're saying
   - chara:
     - id: 102102
-    textLeft: That you're only agreeing to a ceasefire if we stay @out of your territory...
+    textLeft: that you're only agreeing to a ceasefire if we stay @out of your territory...
   - chara:
     - id: 102102
       motion: 200
@@ -308,7 +308,7 @@ story:
       id: 770084
       motion: 0
       pos: 2
-    textRight: I did a lot of thinking after you invited me.
+    textRight: I mulled it over after you invited me.
   - chara:
     - id: 770084
     textRight: I understand what you're trying to do, but I'm still @not convinced.
@@ -323,7 +323,7 @@ story:
     - id: 102102
       lipSynch: 0
       motion: 0
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -336,11 +336,11 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770184
-    textRight: The time when we decided to start hunting Kyubey...
+    textRight: The time when we decided to start huntin' Kyubey...
   - chara:
     - id: 770184
-    textRight: And the time when all of Futatsugi learned how @Magical Girls became
-      witches...
+    textRight: And the time when all of Futatsugi learned that @Magical Girls become
+      Witches...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -351,7 +351,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102102
       lipSynch: 0
-    textLeft: '............'
+    textLeft: '...'
   - autoTurnLast: 0.1
     chara:
     - cheek: 0
@@ -404,7 +404,7 @@ story:
   - chara:
     - id: 102102
     nameCenter: Yuna
-    textCenter: What are you girls really here for...?
+    textCenter: What are you girls truly here for...?
     turnChangeOut: rollOutFast
   - autoTurnLast: 2
     bgm: stop

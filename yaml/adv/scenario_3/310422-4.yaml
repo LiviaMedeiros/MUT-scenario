@@ -20,7 +20,7 @@ story:
     - eyeClose: 1
       id: 304601
     nameRight: Midori Ryo
-    textRight: '*Sigh…* [chara:304601:lipSynch_0][wait:0.8][chara:304601:cheek_0][chara:304601:eyeClose_0][chara:304601:lipSynch_1]We
+    textRight: '*Sigh...* [chara:304601:lipSynch_0][wait:0.8][chara:304601:cheek_0][chara:304601:eyeClose_0][chara:304601:lipSynch_1]We
       managed to beat it.'
     turnChangeOut: fadeOut
   - chara:
@@ -78,7 +78,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Midori Ryo
-    textRight: How did you get into that situation anyway…?
+    textRight: How did you get into that situation anyway...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -86,7 +86,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: ""
-    textLeft: U-Ughh…
+    textLeft: U-Ughh...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -109,25 +109,25 @@ story:
       motion: 0
       pos: 2
     nameRight: Midori Ryo
-    textRight: (...Hm, it hid…?)
+    textRight: (...Hm, it hid...?)
   - chara:
     - id: 800201
     nameLeft: ""
-    textLeft: H-Huh…? I saw something just now that looked like @a white cat…
+    textLeft: H-Huh...? I saw something just now that looked like@a white cat...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 304601
       lipSynch: 0
     nameRight: Midori Ryo
-    textRight: (This girl has the potential needed to be a @magical girl…)
+    textRight: (This girl has the potential needed to be a@magical girl...)
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 800201
       pos: 0
     nameLeft: ""
-    textLeft: Disregarding that, where am I…?
+    textLeft: Disregarding that, where am I...?
   - chara:
     - cheek: -1
       face: mtn_ex_020.exp.json
@@ -143,7 +143,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Midori Ryo
-    textRight: Yeah, got it, let’s finish tidying things up here first.
+    textRight: Yeah, got it, let's finish tidying things up here first.
   - autoTurnLast: 1.5
     bg: bg_adv_21111.jpg
     bgm: stop
@@ -177,7 +177,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tokiwa Nanaka
-    textLeft: Fufu, this is like an interview. @It’s rather nerve wracking.
+    textLeft: Fufu, this is like an interview.@It's rather nerve wracking.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -195,7 +195,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Midori Ryo
-    textRight: Midori-san’s never heard of you being friends.
+    textRight: Midori-san's never heard of you being friends.
   - chara:
     - cheek: -1
       eyeClose: 1
@@ -203,7 +203,7 @@ story:
       id: 300501
       motion: 300
     nameLeft: Tokiwa Nanaka
-    textLeft: Indeed… I wouldn’t call us friends.
+    textLeft: Indeed... I wouldn't call us friends.
   - chara:
     - eyeClose: 0
       id: 300501
@@ -214,7 +214,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Tokiwa Nanaka
-    textLeft: I didn’t plan on interacting with it any more than @was necessary.
+    textLeft: I didn't plan on interacting with it any more than@was necessary.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -238,7 +238,7 @@ story:
   - chara:
     - id: 300501
     nameLeft: Tokiwa Nanaka
-    textLeft: 'so I couldn’t ignore it. '
+    textLeft: 'so I couldn''t ignore it. '
   - chara:
     - cheek: -1
       face: mtn_ex_010.exp.json
@@ -254,13 +254,13 @@ story:
       motion: 0
       pos: 2
     nameRight: Midori Ryo
-    textRight: Huh, so this is Tokiwa-chan’s way of returning @the favor.
+    textRight: Huh, so this is Tokiwa-chan's way of returning@the favor.
   - chara:
     - id: 300501
       motion: 100
       pos: 0
     nameLeft: Tokiwa Nanaka
-    textLeft: It wasn’t anything that significant.
+    textLeft: It wasn't anything that significant.
   - chara:
     - eyeClose: 1
       id: 300501
@@ -270,13 +270,13 @@ story:
     - eyeClose: 1
       id: 300501
     nameLeft: Tokiwa Nanaka
-    textLeft: a flower arrangement flower that I witlessly @dropped...
+    textLeft: a flower arrangement flower that I witlessly@dropped...
   - chara:
     - eyeClose: 0
       id: 300501
       motion: 0
     nameLeft: Tokiwa Nanaka
-    textLeft: That’s all.
+    textLeft: That's all.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -284,7 +284,7 @@ story:
       motion: 400
       pos: 2
     nameRight: Midori Ryo
-    textRight: One flower… userName sure is conscientious.
+    textRight: One flower... userName sure is conscientious.
   - chara:
     - cheek: -1
       face: mtn_ex_020.exp.json
@@ -315,7 +315,7 @@ story:
     - id: 300501
       motion: 400
     nameLeft: Tokiwa Nanaka
-    textLeft: there’s something I want you to relay.
+    textLeft: there's something I want you to relay.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -335,11 +335,11 @@ story:
       eyeClose: 0
       id: 300501
     nameLeft: Tokiwa Nanaka
-    textLeft: must be wary of userName-san, or Kyubey more @precisely.
+    textLeft: must be wary of userName-san, or Kyubey more@precisely.
   - chara:
     - id: 300501
     nameLeft: Tokiwa Nanaka
-    textLeft: It would be best if it stopped visiting unfriendly @magical girls.
+    textLeft: It would be best if it stopped visiting unfriendly@magical girls.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -359,7 +359,7 @@ story:
   - chara:
     - id: 304601
     nameRight: Midori Ryo
-    textRight: I thought it was for sure trying to contract new @magical girls.
+    textRight: I thought it was for sure trying to contract new@magical girls.
   - chara:
     - cheek: -1
       eyeClose: 1
@@ -367,7 +367,7 @@ story:
       id: 300501
       motion: 100
     nameLeft: Tokiwa Nanaka
-    textLeft: Fufu, it doesn’t have that type of power.
+    textLeft: Fufu, it doesn't have that type of power.
   - chara:
     - eyeClose: 0
       id: 300501
@@ -384,7 +384,7 @@ story:
       lipSynch: 0
       motion: 0
     nameRight: Midori Ryo
-    textRight: (Oh… Was that what it was?)
+    textRight: (Oh... Was that what it was?)
   - autoTurnLast: 0.3
     bg: bg_adv_21153.jpg
     chara:
@@ -423,18 +423,18 @@ story:
       motion: 0
       pos: 2
     nameRight: Midori Ryo
-    textRight: (...Hm, it hid…?)
+    textRight: (...Hm, it hid...?)
   - chara:
     - id: 800201
     nameLeft: ""
-    textLeft: H-Huh…? I saw something just now that looked like @a white cat…
+    textLeft: H-Huh...? I saw something just now that looked like@a white cat...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 304601
       lipSynch: 0
     nameRight: Midori Ryo
-    textRight: (This girl has the potential needed to be a @magical girl…)
+    textRight: (This girl has the potential needed to be a@magical girl...)
   - autoTurnLast: 0.3
     chara:
     - cheek: 0
@@ -456,7 +456,7 @@ story:
       lipSynch: 0
     - id: 0
     nameRight: Midori Ryo
-    textRight: (This was all Midori-san jumping to conclusions… Although…)
+    textRight: (This was all Midori-san jumping to conclusions... Although...)
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -473,7 +473,7 @@ story:
     chara:
     - cheek: 0
       face: mtn_ex_001.exp.json
-      id: 100701
+      id: 100770
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -481,7 +481,7 @@ story:
       pos: 1
     - cheek: 0
       face: mtn_ex_000.exp.json
-      id: 101403
+      id: 101471
       live2dParam:
         name: PARAM_BRACELET
         value: 1
@@ -495,16 +495,16 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm03_story19
     nameNarration: ""
-    narration: “A true story! userName dashes through the nighttime city.”
+    narration: '"A true story! userName dashes through the nighttime city."'
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: Late at night, a white silhouette runs through deserted streets, @the
-      sole little Kyubey that exists in Kamihama… userName.
-  - narration: Under the cover of night, it deceives girls, @urging them to contract...
-  - narration: Or at least that’s what I used to think. @userName apparently no longer
+  - narration: Late at night, a white silhouette runs through deserted streets,@the
+      sole little Kyubey that exists in Kamihama... userName.
+  - narration: Under the cover of night, it deceives girls,@urging them to contract...
+  - narration: Or at least that's what I used to think.@userName apparently no longer
       has the powers Kyubey holds.
-  - narration: Even when treated coldly, it simply earnestly visits magical girls,
-      @seemingly to build a friendly relationship with them.
+  - narration: Even when treated coldly, it simply earnestly visits magical girls,@seemingly
+      to build a friendly relationship with them.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -518,28 +518,28 @@ story:
       face: mtn_ex_010.exp.json
       id: 101501
     nameLeft: Ui
-    textLeft: userName’s been doing its best.
+    textLeft: userName's been doing its best.
   - chara:
-    - id: 100701
+    - id: 100770
       lipSynch: 0
     nameCenter: Touka & Nemu
-    textCenter: …
+    textCenter: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 101501
       motion: 0
     nameLeft: Ui
-    textLeft: Huh? What’s up with you two?
+    textLeft: Huh? What's up with you two?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
-      id: 100701
+      id: 100770
       motion: 100
     nameCenter: Touka
     textCenter: '...Nothing really?'
   - chara:
-    - id: 101403
+    - id: 101471
       motion: 100
     nameRight: Nemu
     textRight: There were just a few things on my mind.
@@ -561,7 +561,7 @@ story:
       motion: 101
       voice: vo_char_1042_00_04
     nameCenter: Yachiyo
-    textCenter: Recently, I keep forgetting this little one is @technically a Kyubey.
+    textCenter: Recently, I keep forgetting this little one is@technically a Kyubey.
     turnChangeOut: fadeOut
   - chara:
     - id: 104201

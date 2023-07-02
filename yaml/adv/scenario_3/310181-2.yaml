@@ -19,7 +19,7 @@ story:
     narrationEffect: out
     turnChangeIn: fadeIn
   - nameNarration: Tsukuyo
-    narration: —Tsukuyo—@That shall conclude rehearsal for today.
+    narration: —Tsukuyo—@That shall conclude rehearsal@for today.
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -106,7 +106,7 @@ story:
     textLeft: Koto club activities have already concluded@for the day...
   - chara:
     - id: 100601
-    textRight: 'No, I''m here for the crafts club.@ '
+    textRight: No, I'm here for the crafts club.
   - chara:
     - cheek: 0
       face: mtn_ex_040.exp.json

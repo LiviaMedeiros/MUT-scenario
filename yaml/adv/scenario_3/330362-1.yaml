@@ -22,7 +22,7 @@ story:
       lipSynch: 0
       motion: 200
     nameCenter: Maria
-    textCenter: (I wonder if Shin and her mom are having fun@today.)
+    textCenter: (I wonder if Shin and his mom are having fun@today.)
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -242,7 +242,7 @@ story:
     narrationEffect: in
   - chara:
     - id: 801000
-    nameLeft: Shin
+    nameLeft: Shin's Mom
     narrationEffect: out
     textLeft: That one flew pretty high too～
   - autoTurnLast: 0.01

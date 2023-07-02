@@ -14,7 +14,7 @@ story:
     - id: 102400
     nameCenter: Juri
     surround: 7003_wind
-    textCenter: That hurts...
+    textCenter: It hurts...
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -22,8 +22,8 @@ story:
       id: 102400
       lipSynch: 0
       motion: 300
-    textCenter: (My wounds have healed a bit, but its still not @enough for me to
-      move around freely, I guess...)
+    textCenter: (My wounds have healed a bit, but I guess it's @still not enough for
+      me to move around freely...)
   - autoTurnLast: 0.3
     bg: bg_adv_21381.jpg
     chara:
@@ -59,7 +59,7 @@ story:
     - id: 102400
       lipSynch: 0
     nameCenter: Juri
-    textCenter: (My bad, Ranka... but I don't have a choice.)
+    textCenter: (Sorry, Ranka...but I don't have a choice.)
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -67,14 +67,14 @@ story:
       id: 102400
       lipSynch: 0
       motion: 0
-    textCenter: (I'm going to hit her with everything I've got until there's nothing
-      left of me.)
+    textCenter: (I'm gonna hit Yuna with everything I got @until there's nothin' left
+      of me.)
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102400
       lipSynch: 1
-    textCenter: '...Phew.'
+    textCenter: '...Whew.'
   - autoTurnLast: 0.2
     chara:
     - id: 102400
@@ -94,14 +94,14 @@ story:
       id: 102400
       lipSynch: 0
     nameLeft: Juri
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102400
       lipSynch: 1
       motion: 200
-    textLeft: You know where. There's only one place you end up after crossing this
+    textLeft: You know where. There's only one place you end up after crossin' this
       bridge.
   - chara:
     - cheek: 0
@@ -113,7 +113,7 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
-    textLeft: I'm going to die a warrior's death.
+    textLeft: I'm gonna die a warrior's death.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -122,7 +122,7 @@ story:
     textRight: '*Sigh*'
   - chara:
     - id: 304400
-    textRight: I went to the base and you weren't there. And now I find you saying
+    textRight: I went to our base and you weren't there. And now I find you saying
       stupid things like that.
   - chara:
     - cheek: 0
@@ -132,7 +132,7 @@ story:
     textLeft: It's not stupid...!
   - chara:
     - id: 102400
-    textLeft: This is something important to Juri the Great!
+    textLeft: This is somethin' important to Juri the Great!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -141,7 +141,7 @@ story:
     textRight: Your life is even more important.
   - chara:
     - id: 304400
-    textRight: Would you really be satisfied with that kind of anticlimactic death?
+    textRight: Would you really be satisfied with such a lame-ass death?
   - chara:
     - id: 304400
       motion: 100
@@ -155,10 +155,10 @@ story:
   - chara:
     - id: 102400
       motion: 300
-    textLeft: Now that she has Torayamachi and Janomiya both.
+    textLeft: Now that she has both Torayamachi and Janomiya,
   - chara:
     - id: 102400
-    textLeft: Her flunkies will take me out before I even get close @to her.
+    textLeft: her flunkies will take me out before I can @even get close to her.
   - chara:
     - eyeClose: 1
       id: 102400
@@ -166,25 +166,25 @@ story:
   - chara:
     - id: 304400
       motion: 200
-    textRight: And so you decided to just charge their base? You're out of your mind.
+    textRight: And so you decided to just charge their base? @You're out of your mind.
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
-    textLeft: '... if you keep talking to me like that, I''ll burn you instead, Ranka.'
+    textLeft: '...If you keep talkin'' to me like that, I''ll burn you @instead, Ranka.'
   - chara:
     - id: 304400
       motion: 0
-    textRight: Just shut up and come back to the base with me.
+    textRight: Just shut up and come back to our base with me.
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 102400
       motion: 100
     textBg: shout
-    textLeft: Why!?
+    textLeft: Why?!
   - bgm: stop
     chara:
     - id: 304400
@@ -193,7 +193,7 @@ story:
     chara:
     - id: 102400
       motion: 0
-    textLeft: '... What makes you think that?'
+    textLeft: '...What makes ya think that?'
   - chara:
     - id: 304400
       motion: 300
@@ -213,7 +213,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102400
-    textLeft: '... So there''s still...'
+    textLeft: '...So there''s still...'
   - chara:
     - id: 304400
       motion: 100
@@ -230,7 +230,7 @@ story:
       id: 304400
       motion: 400
     textRight: '[chara:304400:effect_emotion_surprise_0][se:7226_shock]Wait, you changed
-      your mind already!?'
+      your mind already?!'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -251,23 +251,23 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
-    textLeft: But you've got to be careful too, Ranka.
+    textLeft: But you gotta be careful too, Ranka.
   - chara:
     - cheek: 0
       id: 304400
       motion: 300
-    textRight: '... you mean Ao?'
+    textRight: '...You mean Ao?'
   - chara:
     - id: 102400
       motion: 0
-    textLeft: Even if you didn't want to be the second in @command of the Monzenbashi.
+    textLeft: Even if you didn't wanna be the second-in-command @of Monzenbashi,
   - chara:
     - id: 102400
-    textLeft: That doesn't change the fact that you held that position.
+    textLeft: that doesn't change the fact that you held that @position.
   - chara:
     - id: 102400
       motion: 100
-    textLeft: And that means there's always going to be someone with a grudge against
+    textLeft: And that means there's always gonna be someone @with a grudge against
       you.
   - chara:
     - id: 304400

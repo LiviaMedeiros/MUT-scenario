@@ -200,7 +200,7 @@ story:
     narration: Now I can fight my battles,@armed with my true feelings!
     narrationBg: bg_adv_narration.jpg
     narrationEffect: in
-  - bg: bg_adv_21025.jpg
+  - bg: bg_adv_21491.jpg
     bgm: bgm03_story02
     chara:
     - cheek: 0
@@ -226,8 +226,8 @@ story:
     textRight: I, Alina, do not wish to get in trouble @because of your incompetence.
   - chara:
     - id: 101201
-    textLeft: '[chara:101201:lipSynch_0][wait:1.0][chara:101201:cheek_0][chara:101201:motion_200][chara:101201:face_mtn_ex_021.exp.json][chara:101201:lipSynch_1]Ummm...
-      Here it is!'
+    textLeft: Ummm...[chara:101201:lipSynch_0][wait:1.0][chara:101201:cheek_0][chara:101201:motion_200][chara:101201:face_mtn_ex_021.exp.json][chara:101201:lipSynch_1]
+      Here it is!
   - chara:
     - id: 100801
       motion: 0

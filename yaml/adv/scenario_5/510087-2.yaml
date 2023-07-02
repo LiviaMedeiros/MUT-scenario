@@ -52,7 +52,7 @@ story:
       motion: 100
       pos: 1
     nameCenter: Emiri
-    textCenter: I'm gonna whack ya...[flashEffect:flashWhite2][bgEffect:shakeSmall][se:4056_landing_jump2]hit
+    textCenter: I'm gonna whack ya...@[flashEffect:flashWhite2][bgEffect:shakeSmall][se:4056_landing_jump2]hit
       and run style!
   - chara:
     - cheek: 0
@@ -154,8 +154,8 @@ story:
       face: mtn_ex_051.exp.json
       id: 101700
       motion: 0
-    textLeft: Me?[chara:101700:lipSynch_0][wait:1.0][chara:101700:cheek_0][chara:101700:face_mtn_ex_011.exp.json][chara:101700:lipSynch_1]
-      I'm the Coordinator.
+    textLeft: Me?@[chara:101700:lipSynch_0][wait:1.0][chara:101700:cheek_0][chara:101700:face_mtn_ex_011.exp.json][chara:101700:lipSynch_1]I'm
+      the Coordinator.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -171,7 +171,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Ria
-    textRight: Wh-where's Yachiyo?! Where's Yachiyo@Nanami?!
+    textRight: Wh-where's Yachiyo?!@Where's Yachiyo Nanami?!
   - chara:
     - cheek: -1
       face: mtn_ex_051.exp.json
@@ -239,7 +239,7 @@ story:
       motion: 100
       pos: 2
     nameRight: Tsuruno
-    textRight: I'd like to know, too! [chara:100301:lipSynch_0][wait:1.0][chara:100301:cheek_0][chara:100301:face_mtn_ex_050.exp.json][chara:100301:lipSynch_1]Why?
+    textRight: I'd like to know, too!@[chara:100301:lipSynch_0][wait:1.0][chara:100301:cheek_0][chara:100301:face_mtn_ex_050.exp.json][chara:100301:lipSynch_1]...Why?
   - bgm: bgm03_story08
     chara:
     - cheek: -1
@@ -253,7 +253,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Umika
-    textRight: Yes!
+    textRight: Yes. I'm Umika Misaki.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -261,7 +261,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Kaoru
-    textRight: Do you want something from us?
+    textRight: My name's Kaoru Maki. Would you mind@if I asked why you called us here?
   - chara:
     - cheek: -1
       face: mtn_ex_000.exp.json

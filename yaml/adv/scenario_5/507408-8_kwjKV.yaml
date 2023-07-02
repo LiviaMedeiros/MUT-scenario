@@ -23,7 +23,7 @@ story:
   - bgm: bgm03_story13
     chara:
     - id: 770084
-    nameCenter: Magical Girl
+    nameCenter: ""
     textCenter: Everyone you called for is here.
     turnChangeOut: fadeOut
   - autoTurnLast: 0.3
@@ -47,15 +47,15 @@ story:
       motion: 0
       pos: 2
     nameLeft: Ao
-    textLeft: We're finally going to war with Torayamachi, huh~
+    textLeft: We're finally going to war with Torayamachi, huh~?
   - chara:
     - id: 304400
       motion: 300
     nameRight: Ranka
-    textRight: Sheesh...
+    textRight: Jeez...
   - chara:
     - id: 304400
-    textRight: Since you called them out like that, you must have a strat or two in
+    textRight: Since you called us out like this, you must have a @strat or two in
       mind, right?
   - chara:
     - cheek: 0
@@ -64,7 +64,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Juri
-    textLeft: That's what I called you guys here for.
+    textLeft: That's what I wanted you guys here for.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -73,18 +73,18 @@ story:
     textRight: But you're more familiar with Yuna Kureha than @anyone else here...
   - chara:
     - id: 304400
-    textRight: Which means you should be able to come up with the best strat against
+    textRight: Which means you should be able to come up with @the best strat against
       her, right?
   - chara:
     - id: 102400
       motion: 200
-    textLeft: Actually, I came up with a plan and wanted to hear what you think of
-      it.
+    textLeft: Actually, I came up with a plan myself, and wanted @to hear what you
+      think of it.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 304400
-    textRight: Hmm? Okay. Let's hear it then.
+    textRight: Hmm? Okay. Let's hear it, then.
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -98,7 +98,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102400
       motion: 0
-    textLeft: Yeah, because you're smart, right?
+    textLeft: Yeah, 'cause you're smart, right?
   - chara:
     - cheek: 0
       face: mtn_ex_063.exp.json
@@ -119,7 +119,7 @@ story:
     textLeft: First off, if I was Yuna right now,
   - chara:
     - id: 102400
-    textLeft: I'd be out on the front lines giving my @orders personally.
+    textLeft: I'd be out on the front lines givin' my @orders personally.
   - chara:
     - id: 102400
     textLeft: She'll usually form six three-person units.
@@ -128,8 +128,8 @@ story:
       face: mtn_ex_010.exp.json
       id: 102400
       motion: 100
-    textLeft: Plus, she loves using cheap tricks like luring the @enemy in with gems
-      charged with magical power.
+    textLeft: Plus, she loves using cheap tricks like luring the @enemy in with rocks
+      charged with magic power.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -143,7 +143,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 200
-    textLeft: Juri the Great won't stand for that kind of thing!
+    textLeft: Juri the Great won't stand for that kinda thing!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -154,7 +154,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 304400
-    textRight: Well, teams of three sound nice and flexible.
+    textRight: Still, teams of three do sound nice and flexible.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -162,13 +162,13 @@ story:
       motion: 200
       pos: 2
     nameRight: Ao
-    textRight: Doesn't it?~
+    textRight: Don't they~?
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 0
-    textLeft: Well, @Juri the Great is going with two teams of nine!
+    textLeft: Well, @I'm goin' with two teams of nine!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -176,8 +176,8 @@ story:
       motion: 400
       pos: 2
     nameRight: Ranka
-    textRight: '[chara:304400:effect_emotion_surprise_0][se:7226_shock]Seriously!?
-      @What are you, a frigging moron?'
+    textRight: '[chara:304400:effect_emotion_surprise_0][se:7226_shock]Seriously?!
+      @What are you, a fucking moron?'
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
@@ -185,12 +185,12 @@ story:
       motion: 100
       mouthOpen: 1
     textBg: shout
-    textLeft: The hell did you say!?
+    textLeft: The hell did you say?!
   - chara:
     - id: 102400
       mouthOpen: 0
     textBg: shout
-    textLeft: You have a problem with Juri the Great's plan!?
+    textLeft: You got a problem with Juri the Great's plan?!
   - chara:
     - id: 304400
       motion: 100
@@ -201,8 +201,8 @@ story:
       face: mtn_ex_030.exp.json
       id: 102400
       motion: 0
-    textLeft: Well, yeah, but[chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_050.exp.json:motion_400][chara:102400:lipSynch_1]
-      why did you call me a moron!?
+    textLeft: I mean, yeah, but[chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_050.exp.json:motion_400][chara:102400:lipSynch_1]
+      why'd you call me a moron?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -226,7 +226,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102400
       motion: 300
-    textLeft: You think so too, huh Ao...
+    textLeft: You think so too, huh, Ao...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -236,17 +236,17 @@ story:
   - chara:
     - id: 102300
     textRight: Keeping everyone clustered together means they @won't be able to maneuver
-      around easily.
+      around easily,
   - chara:
     - id: 102300
-    textRight: Which means they can't really go all out either.
+    textRight: which means they can't really go all out, either.
   - chara:
     - id: 102300
       motion: 200
     - id: 102400
       motion: 0
-    textRight: We'd fall right into their traps and it'd be a bloodbath @of a Game
-      Over~
+    textRight: We'd fall right into the enemy's traps, and it'd be a bloodbath of
+      a Game Over~
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -258,7 +258,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102400
       motion: 100
-    textLeft: What? You have something better in mind?
+    textLeft: What? You got somethin' better in mind?
   - chara:
     - id: 102300
       motion: 100
@@ -266,7 +266,7 @@ story:
       you'll act too, right?
   - chara:
     - id: 102300
-    textRight: In that case, we should probably avoid the central bridge altogether.
+    textRight: In that case, we should probably avoid Monzenbashi altogether.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -275,12 +275,12 @@ story:
     textRight: Instead, we should go for the other bridges. East and West Oogibashi.
   - chara:
     - id: 102300
-    textRight: Nine people to attack each bridge. @What do you think?~
+    textRight: Nine people to attack each bridge. @What do you think~?
   - chara:
     - id: 102400
       lipSynch: 0
       motion: 400
-    textLeft: '[chara:102400:effect_emotion_surprise_0][se:7226_shock]......!?'
+    textLeft: '[chara:102400:effect_emotion_surprise_0][se:7226_shock]Oh?!'
   - chara:
     - id: 102400
       lipSynch: 1
@@ -297,7 +297,7 @@ story:
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 1
-    textLeft: If Torayamachi is really expecting us to come @through the central bridge,
+    textLeft: If Torayamachi is really expectin' us to come @through Monzenbashi,
   - chara:
     - id: 102400
     textLeft: then we can crush them with a pincer attack from @the other two bridges.
@@ -310,7 +310,7 @@ story:
   - chara:
     - id: 102400
       motion: 200
-    textLeft: We'd outnumber them and crush them on the east @and west bridges.
+    textLeft: We'd outnumber them and stamp 'em out on @the east and west bridges.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -330,7 +330,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102400
       motion: 0
-    textLeft: Hey, you all!
+    textLeft: Hey, ya bastards!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -347,8 +347,8 @@ story:
       id: 770084
       motion: 0
       pos: 2
-    nameRight: Magical Girl
-    textRight: Y-Yes!
+    nameRight: ""
+    textRight: Y-yes!
   - chara:
     - id: 102400
     textLeft: You heard everything we went over just now, @right?
@@ -363,13 +363,12 @@ story:
   - chara:
     - id: 102400
       motion: 200
-    textLeft: Alright, then pass it on to the others, will you?
+    textLeft: Alright, then pass it on to the others, will ya?
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
-    textLeft: If you mess up on even one detail, I'll burn you all @to a crisp. Got
-      it?
+    textLeft: If you mess up on even one detail, I'll burn you @to a crisp. Got it?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -377,7 +376,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770084
-    textRight: U-Understood!
+    textRight: U-understood!
   - autoTurnLast: 1
     bgm: stop
     chara:
@@ -410,7 +409,7 @@ story:
       id: 102400
       motion: 100
     textLeft: Do you have any damn idea how long I've waited for this? And you want
-      me to wait even longer?
+      me to wait even LONGER?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -424,15 +423,15 @@ story:
       face: mtn_ex_030.exp.json
       id: 102400
       motion: 0
-    textLeft: You agree with her again, huh Ao...
+    textLeft: You agree with her again, huh, Ao...
   - chara:
     - id: 102300
       motion: 1
-    textRight: We leave them tightly wound and waiting for the first attack, and eventually
-      they'll burn out...
+    textRight: We leave them tightly wound and waiting for the @first attack, and
+      eventually they'll burn out...
   - chara:
     - id: 102300
-    textRight: That's your plan, right?~
+    textRight: That's your plan, right~?
   - autoTurnLast: 0.2
     chara:
     - id: 102300
@@ -445,7 +444,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Ranka
-    textRight: You've got it.
+    textRight: You catch on quick.
   - chara:
     - id: 102300
       motion: 100
@@ -471,22 +470,22 @@ story:
       motion: 300
       pos: 1
     nameCenter: Juri
-    textCenter: Geez, you two really do get each other, @huh?
+    textCenter: Man, you two are like peas in a pod.
   - chara:
     - id: 102400
-    textCenter: Juri the Great feels kind of left out...
+    textCenter: Juri the Great feels kinda left out...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
-    textCenter: Well whatever, you guys do whatever you want.
+    textCenter: Eh, whatever. You guys do whatever you want.
   - chara:
     - cheek: 0
       face: mtn_ex_012.exp.json
       id: 102400
       motion: 100
-    textCenter: All Juri the Great wants is a one-on-one showdown @with Yuna.
+    textCenter: All I'm after is a one-on-one showdown @with Yuna.
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

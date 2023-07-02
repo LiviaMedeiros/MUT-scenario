@@ -181,7 +181,7 @@ story:
       id: 300501
       motion: 100
       mouthOpen: 0
-    textRight: It seems we hurt your feelings pretty badly.@　
+    textRight: It seems we hurt your feelings pretty badly.
   - chara:
     - effect: slideOutLeftFast
       id: 100501

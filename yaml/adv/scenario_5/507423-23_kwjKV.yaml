@@ -21,18 +21,18 @@ story:
   - chara:
     - id: 102300
       lipSynch: 0
-    textCenter: (Torayamachi should be headed for the central@bridge...)
+    textCenter: (Torayamachi should be headed for Monzenbashi...)
   - chara:
     - eyeClose: 1
       id: 102300
       lipSynch: 0
-    textCenter: …………
+    textCenter: '...'
   - chara:
     - eyeClose: 0
       id: 102300
       lipSynch: 0
       motion: 0
-    textCenter: (Considering they're waiting in ambush...)
+    textCenter: (Considering that they're waiting in ambush...)
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -50,7 +50,7 @@ story:
     textClear: 1
   - chara:
     - id: 102300
-    textCenter: Huh, is that...
+    textCenter: Wait, is that...
   - autoTurnLast: 0.1
     bg: bg_adv_narration.jpg
     chara:
@@ -81,7 +81,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102300
       motion: 100
-    textLeft: Close enough to use telapathy~
+    textLeft: Close enough to use telepathy~
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -91,18 +91,17 @@ story:
   - chara:
     - id: 102300
       motion: 0
-    textLeft: I bet one of them will take notice soonish@and they'll head for the
-      central bridge~
+    textLeft: I bet one of them will take notice soonish @and they'll head for Monzenbashi~
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102200
       motion: 0
-    textRight: If that's the case, then both sides will probably just@regroup, and
-      the fighting shouldn't be too crazy...
+    textRight: If so, then both sides will probably just @regroup, and the fighting
+      shouldn't get too crazy...
   - chara:
     - id: 102300
-    textLeft: Right~
+    textLeft: Right~?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -114,13 +113,13 @@ story:
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 100
-    textRight: Make sure you don't get too close to there,@alright?
+    textRight: Make sure you don't get too close to there, @alright?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102300
       motion: 100
-    textLeft: '''Course!'
+    textLeft: Of course!
   - chara:
     - id: 102300
       motion: 1
@@ -130,22 +129,22 @@ story:
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 1
-    textRight: In front of the central bridge.
+    textRight: In front of Monzenbashi.
   - chara:
     - id: 102200
-    textRight: They're planning on shooting down the@entire enemy in one volley.
+    textRight: They're planning on shootin' down the @entire enemy team in one volley.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102300
       motion: 0
-    textLeft: And after?
+    textLeft: And after that?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102200
       motion: 200
-    textRight: They're going to split up and use their knowledge@of the city for guerilla
+    textRight: They're gonna split up and use their knowledge @of the city for guerilla
       warfare.
   - chara:
     - cheek: 0
@@ -158,10 +157,10 @@ story:
       face: mtn_ex_030.exp.json
       id: 102200
       motion: 300
-    textRight: Maybe there's something more to it, but...
+    textRight: Maybe there's somethin' more to it, but...
   - chara:
     - id: 102200
-    textRight: I don't know what it could be...
+    textRight: I dunno what it could be...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -170,17 +169,17 @@ story:
     textLeft: If the plan really plays out like that,
   - chara:
     - id: 102300
-    textLeft: then Juri will confront Yuna and challenge@her to a 1v1 fight~
+    textLeft: then Juri will confront Yuna and challenge @her to a one-on-one fight~
   - chara:
     - id: 102300
       motion: 0
-    textLeft: I'm pretty sure that's what Juri's wanted@from the start~
+    textLeft: I'm pretty sure that's what Juri's wanted @from the start~
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102200
       motion: 0
-    textRight: Then is that where you'll accomplish@your objective?
+    textRight: Then is that where you'll accomplish @your objective?
   - chara:
     - id: 102200
     textRight: If we can defeat both Yuna and Juri...
@@ -189,7 +188,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102300
       motion: 400
-    textLeft: No, it won't mean a thing unless we can@wipe out all the other members
+    textLeft: No, it won't mean a thing unless we can @wipe out all the other members
       as well.
   - chara:
     - id: 102300
@@ -199,7 +198,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102200
       motion: 400
-    textRight: 'Th-that''s way too greedy! '
+    textRight: 'Th-that''s way too tall of an order! '
   - chara:
     - id: 102300
       motion: 0
@@ -207,12 +206,12 @@ story:
   - chara:
     - id: 102200
       motion: 300
-    textRight: Umm...
+    textRight: Um...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102300
-    textLeft: Well, maybe there still is a chance~
+    textLeft: Well, maybe there's still a chance~
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -224,41 +223,41 @@ story:
       face: mtn_ex_020.exp.json
       id: 102300
       motion: 100
-    textLeft: We're going with a new strat~.@[chara:102300:lipSynch_0][wait:1.5][chara:102300:cheek_0][chara:102300:face_mtn_ex_010.exp.json][chara:102300:lipSynch_1]With
+    textLeft: We're going with a new strat~ @[chara:102300:lipSynch_0][wait:1.5][chara:102300:cheek_0][chara:102300:face_mtn_ex_010.exp.json][chara:102300:lipSynch_1]With
       this, it should be an easy Mission Complete~
   - chara:
     - id: 102200
       motion: 400
-    textRight: Wh-what are you talking about...!?
+    textRight: Wh-what are you talking about...?!
   - chara:
     - eyeClose: 1
       id: 102300
-    textLeft: '*Giggle*'
+    textLeft: Heheh...
   - chara:
     - eyeClose: 0
       id: 102300
       motion: 1
     - id: 102200
       motion: 0
-    textLeft: We're going to create a situation where Yuna@has to chase down Juri
-      in their fight,
+    textLeft: We're going to create a situation where Yuna @has to chase down Juri
+      in their fight
   - chara:
     - id: 102300
-    textLeft: so that they'll end up in the construction@site near the central bridge~
+    textLeft: so that they'll end up in the construction @site near Monzenbashi~
   - chara:
     - id: 102300
-    textLeft: And if we can get the rest of the gangs@to group up around there too...
+    textLeft: And if we can get the rest of the gangs @to group up around there too...
   - chara:
     - id: 102300
       motion: 200
-    textLeft: We, Janomiya, will have a good chance@of winning~
+    textLeft: We, Janomiya, will have a good chance @of winning~
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102300
       motion: 100
-    textLeft: 'This mission will need a high luck stat,@but it should still be in
-      Normal Mode. '
+    textLeft: 'This mission will need a high luck stat, @but it should still be Normal
+      Mode. '
   - autoTurnLast: 2
     bgm: stop
     surround: stop

@@ -12,13 +12,13 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 800202
-    nameCenter: Ryuugasaki Girl
+    nameCenter: ""
     textCenter: I want you to show me your proof.
     turnChangeOut: fadeOut
     turnEffect: blackFrame
   - chara:
     - id: 800202
-    textCenter: The evidence that explains why witches disappeared, and why they're
+    textCenter: The evidence that explains why Witches @disappeared, and why they're
       back now...
   - autoTurnLast: 0.5
     bg: bg_adv_46001.jpg
@@ -46,14 +46,14 @@ story:
       face: mtn_ex_010.exp.json
       id: 102200
     nameRight: Hikaru
-    textRight: You won't hit anything if you just thrash around without aiming!
+    textRight: You won't hit anything thrashin' around aimlessly @like that!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 200
     textRight: '[surround:1022A01][name:sprite_0:effect_7001_attack02]I''ll cut you
-      to pieces!'
+      to ribbons!'
   - autoTurnLast: 0.5
     chara:
     - id: 6001
@@ -71,7 +71,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Yuna
-    textRight: I won't let your life be wasted.
+    textRight: I will not let your life be wasted.
   - autoTurnLast: 0.5
     chara:
     - cheek: 0
@@ -116,7 +116,7 @@ story:
       pos: 2
     nameRight: Hikaru
     surround: 7003_wind
-    textRight: We found those witches a lot faster than I expected.
+    textRight: We found those Witches a lot faster than I expected.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -131,7 +131,7 @@ story:
   - chara:
     - id: 102102
       motion: 100
-    textLeft: Yeah, let's meet up with them.
+    textLeft: Yes, let's call a meeting.
   - autoTurnLast: 1
     bg: bg_adv_21221.jpg
     chara:
@@ -150,19 +150,19 @@ story:
   - bgm: bgm23_promised02
     chara:
     - id: 800300
-    nameLeft: Janomiya Girl
-    textLeft: I found more witches than I expected during my investigation, too.
+    nameLeft: ""
+    textLeft: I found more Witches than I expected during my investigation, too.
     turnChangeOut: fadeOut
   - chara:
     - id: 800202
-    nameRight: Ryuugasaki Girl
-    textRight: Maybe the number just went up because we were all fighting with each
-      other.
+    nameRight: ""
+    textRight: Maybe the number just went up because we were @all fighting with each
+      other?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 800202
-    textRight: Either way, there's still a lot more witches than @before...
+    textRight: Either way, there's still a lot more Witches than @before...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -170,11 +170,11 @@ story:
       motion: 1
       pos: 0
     nameLeft: Yuna
-    textLeft: I've added up the numbers from you all.
+    textLeft: I've added up the numbers from all of you,
   - chara:
     - id: 102103
-    textLeft: And it shows that there's as many witches as before @the [textRed:Bloody
-      Tragedy]. Maybe even more...
+    textLeft: and it shows that there are as many Witches as @before the [textRed:Bloody
+      Tragedy]. Perhaps even more...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -183,17 +183,17 @@ story:
   - chara:
     - id: 102103
       motion: 200
-    textLeft: Even if we say one seed was good for two or three recoveries...
+    textLeft: Even if we assume that one Grief Seed is good @for two or three recoveries...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102103
-    textLeft: We're probably still going to run a little short on @them, to keep all
-      of us going without issue.
+    textLeft: To keep all of us going without issue, we're @likely still going to
+      run a little short on them.
   - chara:
     - id: 102103
       motion: 0
-    textLeft: We're going to have to manage them smartly.
+    textLeft: We're going to have to manage them efficiently.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -201,42 +201,43 @@ story:
       motion: 1
       pos: 2
     nameRight: Hikaru
-    textRight: Hmm, well we do kill Kyubey on sight in Futatsugi...
+    textRight: Hmm, well, we do kill Kyubey on sight in Futatsugi...
   - chara:
     - id: 102201
-    textRight: Maybe if we stop doing that, we'd start to see more witches?
+    textRight: Maybe if we stop doin' that, we'd start to see more Witches?
   - chara:
     - id: 102103
       motion: 300
-    textLeft: That means we'd be dragging more people into the @fate of Magical Girls.
+    textLeft: That means we would be dragging more people @into the fate of Magical
+      Girls.
   - chara:
     - eyeClose: 1
       id: 102103
-    textLeft: The number of witches equals the number of @Magical Girls who've fallen
-      victim to that fate.
+    textLeft: The number of Witches is equal to the number of @Magical Girls who have
+      fallen victim to that fate.
   - chara:
     - eyeClose: 0
       id: 102103
       motion: 0
-    textLeft: So I don't really care for that idea much.
+    textLeft: So I am not terribly fond of that idea.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102201
       motion: 300
-    textRight: Ah... you're right...
+    textRight: Ah... Good point...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800300
       motion: 0
       pos: 2
-    nameRight: Janomiya Girl
-    textRight: But I'd still say it's a good start, if witches really are coming back.
+    nameRight: ""
+    textRight: But I'd still say it's a good start, if Witches really are coming back.
   - chara:
     - id: 102103
       motion: 200
-    textLeft: '... Yeah.'
+    textLeft: '...Indeed.'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -249,38 +250,38 @@ story:
       face: mtn_ex_010.exp.json
       id: 102103
       motion: 1
-    textLeft: Thank you.
+    textLeft: I would appreciate that.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 800202
-    textRight: I've got an idea for you.
+    textRight: So here's my proposal...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 102103
-    textLeft: Go ahead.
+    textLeft: Do tell.
   - chara:
     - id: 800202
     textRight: I'm sure you've asked other Ryuugasaki girls to join @up with you as
       well.
   - chara:
     - id: 800202
-    textRight: I want all of us to meet with you at once so we can discuss our terms.
+    textRight: I want all of us to meet with you at once so we can negotiate our terms.
   - chara:
     - id: 102103
       motion: 100
-    textLeft: It would be good for everyone to hear everything firsthand, so there's
-      no miscommunications later.
+    textLeft: It would be best for everyone to hear everything firsthand to avoid
+      miscommunications later.
   - chara:
     - id: 102103
-    textLeft: Having a talk in advance sounds good.
+    textLeft: Having a discussion in advance sounds good.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102103
       motion: 0
-    textLeft: We'll accept your suggestion.
+    textLeft: We will accept your proposal.
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

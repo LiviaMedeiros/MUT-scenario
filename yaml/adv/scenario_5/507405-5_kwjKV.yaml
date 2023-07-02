@@ -14,17 +14,18 @@ story:
     chara:
     - id: 102102
     nameNarration: Yuna
-    narration: Juri Oba, the leader of Ryuugasaki, @has declared war on us!
+    narration: Juri Ooba, the leader of Ryuugasaki, @has declared war on us!
     narrationEffect: in
     turnChangeOut: fadeOut
   - chara:
     - id: 102102
       motion: 200
-    narration: If she's still the same person I knew, @she could strike at any time!
+    narration: If she is still the same person I knew, @she could strike at any time!
   - chara:
     - id: 102102
       motion: 400
-    narration: Nobody is to be alone after school! @Be ready for a fight at any time!
+    narration: Nobody is to be alone after school! @Be prepared to fight at a moment's
+      notice!
   - autoTurnLast: 0.01
     bg: bg_adv_20221.jpg
     chara:
@@ -42,16 +43,16 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 800200
-    nameLeft: Girl A
+    nameLeft: ""
     textLeft: Did you get the message from Yuna?
     turnChangeOut: fadeOut
   - chara:
     - id: 800300
-    nameRight: Girl B
+    nameRight: ""
     textRight: Yeah, it seems like Ryuugasaki is really serious about this...
   - chara:
     - id: 800200
-    textLeft: It must be because they found out that we lost the Horse... do you think
+    textLeft: It must be because they found out that we lost the Horse... Do you think
       we can really handle them @without her?
   - chara:
     - cheek: 0
@@ -81,15 +82,16 @@ story:
   - chara:
     - id: 102102
     nameNarration: Yuna
-    narration: There'll be an emergency meeting later today. Everyone @meet up at
-      HQ by 4 PM. If you can't make it, @I'll catch you up on the details later.
+    narration: There will be an emergency meeting later today. @Everyone, please meet
+      up at base by 4 PM. If you cannot @make it, I will catch you up on the details
+      later.
     narrationEffect: in
     turnChangeOut: fadeOut
   - chara:
     - id: 102102
       motion: 400
-    narration: Also, keep away from Oogibashi, Monzenbashi, and @West Oogibashi. Those
-      bridges connect Torayamachi and @Ryuugasaki territory, so they're extremely
+    narration: Also, keep away from East Oogibashi, Monzenbashi, and @West Oogibashi.
+      Those bridges connect Torayamachi and @Ryuugasaki territory, so they are extremely
       dangerous.
   - autoTurnLast: 0.01
     bg: bg_adv_21025.jpg
@@ -110,7 +112,7 @@ story:
     - id: 102103
       lipSynch: 0
     nameLeft: Yuna
-    textLeft: '.........'
+    textLeft: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.5
     chara:
@@ -121,7 +123,7 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 800100
-    nameRight: Student
+    nameRight: ""
     textRight: '[chara:800100:effect_emotion_surprise_0][se:7226_shock]Hang on, Prez!
       We have a meeting to go to!'
   - chara:
@@ -136,22 +138,22 @@ story:
       face: mtn_ex_030.exp.json
       id: 102103
       motion: 300
-    textLeft: But I have some personal stuff to deal with.
+    textLeft: But I have some personal matters to attend to.
   - chara:
     - id: 102103
-    textLeft: I hate to say this, but I'm probably going to be @missing class a lot
+    textLeft: I hate to say this, but I will likely be @missing school quite often
       from now on.
   - chara:
     - id: 102103
       motion: 0
-    textLeft: Please don't think I'm ditching you all.
+    textLeft: Please don't think that I'm abandoning my responsibilities.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 800100
       motion: 0
-    textRight: I see... [chara:800100:lipSynch_0][wait:1.0][chara:800100:cheek_0][chara:800100:face_mtn_ex_011.exp.json][chara:800100:lipSynch_1]you
-      don't have to worry about it...
+    textRight: I see... [chara:800100:lipSynch_0][wait:1.0][chara:800100:cheek_0][chara:800100:face_mtn_ex_011.exp.json][chara:800100:lipSynch_1]Don't
+      worry about it.
   - chara:
     - id: 800100
     textRight: Even if you're not here, nobody would think you're skipping.
@@ -159,8 +161,8 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800100
-    textRight: Because you're the one who made this school a @better place for us
-      all.
+    textRight: Because you're the one who made this school a @better place for all
+      of us.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -185,25 +187,25 @@ story:
   - bgm: bgm03_story10
     chara:
     - id: 770180
-    nameRight: Magical Girl
+    nameRight: ""
     textRight: I'd say we're still strong enough to put up a good @fight against Ryuugasaki...
     turnChangeOut: fadeOut
   - chara:
     - id: 770180
-    textRight: But I don't think fighting is the best option right now.
+    textRight: I don't think fighting is the best option right now, though.
   - chara:
     - id: 770180
     textRight: Since Juri's leading them, a lot of them are probably dissatisfied
       with her leadership.
   - chara:
     - id: 770180
-    textRight: So maybe we could convince them to join our side?
+    textRight: You think we might be able to convince them to join @our side?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102102
       motion: 300
-    textLeft: That doesn't sound realistic...
+    textLeft: That seems unrealistic...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -211,28 +213,28 @@ story:
       motion: 200
       pos: 2
     nameRight: Sakuya
-    textRight: I was on the same team as Juri before we split.
+    textRight: I was on the same team as Juri before she @split off from us.
   - chara:
     - id: 302100
     textRight: She had a strong influence and took care of her girls.
   - chara:
     - id: 102102
       motion: 1
-    textLeft: She may look unlikable, but she actually gets along @with more people
-      than you'd think.
+    textLeft: She may look unlikeable, but she actually @gets along with more people
+      than one would expect.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770180
       motion: 0
       pos: 2
-    nameRight: Magical Girl
+    nameRight: ""
     textRight: So if we tried to get her girls to defect, they'd @probably report
-      it to Juri right away, huh...
+      it to her right away, huh...
   - chara:
     - eyeClose: 1
       id: 102102
-    textLeft: Can't deny that...
+    textLeft: I can't deny that...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -258,16 +260,16 @@ story:
   - chara:
     - eyeClose: 1
       id: 102102
-    textLeft: Well... if I were her, I'd probably...
+    textLeft: Well...if I were her, I would probably...
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 100
-    textLeft: '... Maybe we should use the bridges.'
+    textLeft: '...Perhaps we should use the bridges.'
   - nameNarration: ""
-    narration: '*Door opens*'
+    narration: '*Creak*'
     narrationEffect: in
   - chara:
     - cheek: 0
@@ -275,9 +277,9 @@ story:
       id: 770080
       motion: 0
       pos: 2
-    nameRight: Magical Girl A
+    nameRight: ""
     narrationEffect: out
-    textRight: Um, sorry to interrupt the meeting, do you mind?
+    textRight: Um, sorry to interrupt the meeting. Do you mind?
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
@@ -295,12 +297,12 @@ story:
       id: 770180
       motion: 0
       pos: 0
-    nameLeft: Magical Girl B
+    nameLeft: ""
     textLeft: Where did she come from?
   - bgm: stop
     chara:
     - id: 770080
-    textRight: '... From Ryuugasaki.'
+    textRight: '...Ryuugasaki.'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -309,13 +311,13 @@ story:
       motion: 400
       pos: 0
     nameLeft: Yuna
-    textLeft: '.......!?'
+    textLeft: '...?!'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102102
       lipSynch: 1
-    textLeft: Okay, bring her in.
+    textLeft: Alright, bring her in.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -330,7 +332,7 @@ story:
       id: 102200
       motion: 0
       pos: 2
-    textLeft: What's your name?
+    textLeft: What is your name?
   - chara:
     - id: 102200
       motion: 100
@@ -343,7 +345,7 @@ story:
       id: 770180
       motion: 0
       pos: 2
-    nameRight: Magical Girl
+    nameRight: ""
     textRight: Yuna...
   - chara:
     - id: 770180
@@ -356,7 +358,7 @@ story:
     textLeft: '...We were just discussing how to deal with @Ryuugasaki.'
   - chara:
     - id: 102102
-    textLeft: How do you think Juri Oba will act?
+    textLeft: How do you think Juri Ooba will act?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -425,19 +427,20 @@ story:
       motion: 0
       pos: 1
     nameCenter: Hikaru
-    textCenter: '.........'
+    textCenter: '...'
   - chara:
     - eyeClose: 0
       id: 102200
       lipSynch: 1
-    textCenter: I don't think Juri's good at calculating or enjoys @plotting.
+    textCenter: I don't think Juri's good at calculating or enjoys @plotting. Basically,
+      she's, uh...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102200
       motion: 300
-    textCenter: Basically, she's uh, how should I put this? She usually focuses on
-      one target and puts everything into taking them down.
+    textCenter: How should I put this? She usually focuses on one target and puts
+      everything into takin' them down.
   - chara:
     - id: 102200
     textCenter: She'd come at you head-on, regardless of the @location. Residential
@@ -447,12 +450,12 @@ story:
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 0
-    textCenter: So her and her girls will probably go after whoever @they can find.
+    textCenter: So she and her girls will probably go after whoever @they can find.
   - chara:
     - id: 102200
       motion: 200
-    textCenter: Though I'm sure that you're the one that Juri wants @to take down
-      most of all...
+    textCenter: Though I'm sure that you're the one who Juri wants @to take down most
+      of all...
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -473,7 +476,7 @@ story:
       id: 102102
       motion: 100
     nameCenter: Yuna
-    textCenter: '... Heh.'
+    textCenter: '...Heh.'
   - chara:
     - eyeClose: 0
       id: 102102
@@ -492,23 +495,23 @@ story:
       motion: 0
       pos: 2
     nameLeft: Yuna
-    textLeft: Alright, Hikaru. Welcome to Torayamachi.
+    textLeft: Very well, then. Welcome to Torayamachi.
   - chara:
     - id: 102102
-    textLeft: Now let's get down to business. You'll be helping us @as well.
+    textLeft: Now let's get down to business. You'll be helping us @as well, Hikaru.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 100
     nameRight: Hikaru
-    textRight: Sure!
+    textRight: Aye!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 400
-    textLeft: The rest of you, go find some gems and start putting your power into
+    textLeft: The rest of you, go find some stones and start putting your magic into
       them.
   - autoTurnLast: 0.01
     item:
@@ -549,7 +552,7 @@ story:
   - chara:
     - id: 102200
       lipSynch: 0
-    textRight: '......'
+    textRight: '...'
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
@@ -562,7 +565,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102200
       motion: 100
-    textRight: Th-Thanks!
+    textRight: Th-thanks!
   - autoTurnLast: 0.5
     bg: bg_adv_20222.jpg
     bgm: stop
@@ -593,7 +596,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102103
-    textLeft: Keep an eye on the Grief Seeds we have at the HQ.
+    textLeft: Keep an eye on the Grief Seeds we have at our base.
   - autoTurnLast: 2
     surround: stop
     turnChangeIn: fadeIn

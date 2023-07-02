@@ -2,15 +2,15 @@
 story:
   group_1:
   - bgm: bgm23_promised05
-    nameNarration: Senpai
-    narration: It's alright... our last six months together weren't in vain... @and
-      now I'll live on within you...
+    nameNarration: ""
+    narration: '"It''s alright... Our last six months together weren''t in vain...
+      @And now I''ll live on within you..."'
     narrationBg: bg_adv_20522.jpg
     narrationEffect: in
     turnChangeIn: fadeIn
     turnChangeOut: fadeOut
-  - narration: Just remember... whenever you need help, @I'll be right there with
-      you... alright...?
+  - narration: '"Just remember... Whenever you need help, @I''ll be right there with
+      you... Alright...?"'
   - autoTurnLast: 0.5
     bg: black
     chara:
@@ -50,7 +50,7 @@ story:
       id: 102103
       motion: 1
     nameCenter: Yuna
-    textCenter: The paperwork's done. Is there anything else @you need from me?
+    textCenter: The paperwork is done. Is there anything else @you need from me?
   - autoTurnLast: 0.2
     chara:
     - id: 102103
@@ -62,7 +62,7 @@ story:
       id: 800100
       motion: 0
       pos: 2
-    nameRight: Student
+    nameRight: ""
     textRight: No, that's everything, thank you.
   - chara:
     - cheek: 0
@@ -86,7 +86,7 @@ story:
     textLeft: I had to.
   - chara:
     - id: 102103
-    textLeft: I can't approve something that doesn't fit the theme @of the school
+    textLeft: I cannot approve something that doesn't fit the @theme of the school
       festival.
   - chara:
     - eyeClose: 1
@@ -101,18 +101,18 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 800100
-    textRight: You're right.
+    textRight: Good point.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 800100
-    textRight: Alright, I'll let them know.
+    textRight: Okay, I'll let them know.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102103
       motion: 100
-    textLeft: Thanks, now I need to get going.
+    textLeft: Thank you. Now I need to get going.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -124,7 +124,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 102103
       motion: 0
-    textLeft: I'm pretty busy outside of school.
+    textLeft: I'm rather busy outside of school these days.
   - autoTurnLast: 1
     bg: bg_adv_21462.jpg
     chara:
@@ -141,7 +141,7 @@ story:
     turnChangeOut: fadeOut
   - chara:
     - id: 102103
-    textCenter: Sorry if I made you all wait.
+    textCenter: Apologies if I made you all wait.
   - autoTurnLast: 1.5
     chara:
     - cheek: 0
@@ -195,8 +195,8 @@ story:
       id: 770080
       motion: 0
       pos: 1
-    nameRight: Magical Girl
-    textRight: Besides, you're the leader of Torayamachi, one of the biggest gangs
+    nameRight: ""
+    textRight: Besides, you're the leader of Torayamachi, @one of the biggest gangs
       in Futatsugi City.
   - chara:
     - id: 770180
@@ -223,7 +223,7 @@ story:
       face: mtn_ex_000.exp.json
       id: 102102
       motion: 100
-    textLeft: No thanks, let's hear your report.
+    textLeft: No thanks. Let's hear your report.
   - chara:
     - id: 102102
     textLeft: Sakuya, you look like you want to say something.
@@ -261,16 +261,16 @@ story:
       id: 770080
       motion: 0
       pos: 1
-    nameCenter: Magical Girl
+    nameCenter: ""
     textCenter: What...?
   - chara:
     - id: 770083
-    textCenter: Are you sure it wasn't just a one-off?
+    textCenter: Are you sure it wasn't just a one-off...?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770081
-    nameLeft: Magical Girl
+    nameLeft: ""
     textLeft: They're really scarce, @but finding one isn't unheard of...
   - chara:
     - cheek: 0
@@ -288,23 +288,23 @@ story:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 770081
-    textCenter: '[chara:770080:effect_emotion_surprise_0][se:7226_shock] ......!?'
+    textCenter: '[chara:770080:effect_emotion_surprise_0][se:7226_shock] ...?!'
   - chara:
     - id: 770080
       lipSynch: 1
     textCenter: Grief Seeds, three of them...
   - chara:
     - id: 770081
-    textLeft: Even though its almost impossible to find even one...
+    textLeft: Even though it's almost impossible to find @a single one...
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302100
       motion: 100
-    textRight: Right? You get it now?
+    textRight: Right? You see what I mean?
   - chara:
     - id: 302100
-    textRight: This proves that witches have finally come back!
+    textRight: This proves that Witches have finally come back!
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -319,7 +319,7 @@ story:
       motion: 0
       pos: 0
     nameLeft: Yuna
-    textLeft: I wouldn't go that far. @You could've just gotten lucky.
+    textLeft: I wouldn't go that far. @You could have simply gotten lucky.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -331,39 +331,40 @@ story:
       face: mtn_ex_010.exp.json
       id: 102102
       motion: 100
-    textLeft: But I'm still happy to hear the news.
+    textLeft: That said, I am still happy to hear the news.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 302100
       motion: 1
-    textRight: I thought you'd be!
+    textRight: I thought you would be!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102102
-    textLeft: Though I'd be happier if the girl we sent out @came back...
+    textLeft: Though I would be happier if the girl we sent out @came back...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 302100
       motion: 300
-    textRight: We haven't heard from her since we sent her after @that witch...
+    textRight: We haven't heard from her since we sent her after @that Witch...
   - chara:
     - id: 102102
       motion: 1
-    textLeft: We don't have anyone else who can just take off for days like that...
+    textLeft: We don't have anyone else who can afford to @take off for days like
+      that...
   - chara:
     - id: 102102
-    textLeft: So we can't really send anyone else out...
+    textLeft: So we can't really send anyone else away...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 770180
       motion: 0
       pos: 2
-    nameRight: Magical Girl
-    textRight: Witches vanishing, and witches returning...
+    nameRight: ""
+    textRight: Witches vanishing, and Witches returning...
   - chara:
     - id: 770180
     textRight: Ryuugasaki won't listen to us @unless we can prove both.
@@ -384,14 +385,14 @@ story:
     textLeft: No...
   - chara:
     - id: 102102
-    textLeft: Right now the two sides are evenly matched.
+    textLeft: Right now, both sides are evenly matched.
   - chara:
     - id: 102102
       motion: 0
-    textLeft: We should have time to look into this before the balance tips.
+    textLeft: We should have time to look into this @before the balance shifts.
   - bgm: stop
     nameNarration: ""
-    narration: '[bgEffect:shakeSmall]*Door slams open*'
+    narration: '[bgEffect:shakeSmall]*WHAM!*'
     narrationEffect: in
   - chara:
     - cheek: 0
@@ -403,7 +404,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 770180
     narrationEffect: out
-    textLeft: '[chara:102102:effect_emotion_surprise_0][se:7226_shock]......!?'
+    textLeft: '[chara:102102:effect_emotion_surprise_0][se:7226_shock]...?!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -416,7 +417,7 @@ story:
       id: 770082
       motion: 0
       pos: 2
-    textRight: '*Pant pant pant*'
+    textRight: '*Wheeze* *Pant*'
   - chara:
     - id: 102102
       lipSynch: 1
@@ -427,12 +428,12 @@ story:
       face: mtn_ex_010.exp.json
       id: 770082
       motion: 0
-    textRight: I-It's...
+    textRight: I-it's...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102102
-    textLeft: Is this about Ryuugasaki?
+    textLeft: Is it about Ryuugasaki?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -441,21 +442,21 @@ story:
   - chara:
     - id: 102102
       motion: 100
-    textLeft: Just tell me already.
+    textLeft: Out with it, then.
   - chara:
     - id: 770082
-    textRight: Ryuugasaki knows we lost the Horse...!
+    textRight: Ryuugasaki knows that we lost the Horse...!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102102
       motion: 400
-    textLeft: What!?
+    textLeft: Wha–?!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102102
-    textLeft: '... I can''t believe this.'
+    textLeft: '...I can''t believe this.'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -479,8 +480,8 @@ story:
       id: 770080
       motion: 0
       pos: 1
-    nameRight: Magical Girl
-    textRight: You don't think... one of us told them?
+    nameRight: ""
+    textRight: You don't think...one of us told them?
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -494,10 +495,10 @@ story:
       id: 102102
       motion: 1
       pos: 0
-    textLeft: Nobody else knew about the Horse.
+    textLeft: Nobody else knew about the Horse,
   - chara:
     - id: 102102
-    textLeft: And I wouldn't be surprised if they slipped @a spy into our ranks.
+    textLeft: and I wouldn't be surprised if they slipped @a spy into our ranks.
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -509,20 +510,20 @@ story:
   - chara:
     - id: 102102
       motion: 100
-    textLeft: You know what? Even if there is a spy among us, @I don't care.
+    textLeft: Well, I'm not concerned with who the culprit is @right now.
   - chara:
     - eyeClose: 1
       id: 102102
-    textLeft: But... the scales are tipping now...
+    textLeft: But...the scales are starting to tip...
   - chara:
     - eyeClose: 0
       id: 102102
       motion: 0
-    textLeft: We can't let them take advantage of this.
+    textLeft: We cannot let Ryuugasaki take advantage of this.
   - chara:
     - id: 102102
       motion: 400
-    textLeft: Let everyone know that witches are back.
+    textLeft: Let everyone know that Witches are back.
   - autoTurnLast: 2
     bgm: stop
     turnChangeIn: fadeIn

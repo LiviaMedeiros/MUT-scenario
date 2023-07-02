@@ -15,7 +15,7 @@ story:
       lipSynch: 0
     nameCenter: Yuna
     surround: 7003_wind
-    textCenter: '........'
+    textCenter: '...'
     turnChangeOut: fadeOut
   - chara:
     - id: 102103
@@ -59,8 +59,8 @@ story:
     chara:
     - id: 770080
       lipSynch: 0
-    nameCenter: Magical Girl
-    textCenter: '.......'
+    nameCenter: ""
+    textCenter: '...'
     turnChangeOut: fadeOut
   - autoTurnLast: 0.1
     chara:
@@ -82,7 +82,7 @@ story:
     turnChangeIn: rollInFast
   - chara:
     - id: 770081
-    nameLeft: Magical Girl
+    nameLeft: ""
     textLeft: Another day with no movement from Ryuugasaki...
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.1
@@ -105,7 +105,7 @@ story:
     turnChangeIn: rollInFast
   - chara:
     - id: 770180
-    nameRight: Magical Girl
+    nameRight: ""
     textRight: I don't think I can take this anymore...
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.2
@@ -134,7 +134,7 @@ story:
   - chara:
     - cheek: 1
       id: 770180
-    textRight: We've been waiting on edge for all this time now.
+    textRight: We've been waiting on edge this whole time.
   - chara:
     - id: 770180
     textRight: We can't keep this up much longer...!
@@ -146,11 +146,11 @@ story:
       pos: 1
     - eyeClose: 1
       id: 102102
-    nameCenter: Magical Girl
+    nameCenter: ""
     textCenter: I haven't been able to sleep lately...
   - chara:
     - id: 770080
-    textCenter: Even though nothing's happened, @I can't stop worrying over it...
+    textCenter: Even though nothing's happened, @I can't stop worrying...
   - chara:
     - id: 770080
     textCenter: That they might attack me the moment I let my @guard down...
@@ -171,7 +171,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Sakuya
-    textRight: Yuna... what are we going to do...?
+    textRight: Yuna...what are we going to do...?
   - chara:
     - eyeClose: 0
       id: 102102
@@ -190,7 +190,7 @@ story:
     - eyeClose: 1
       id: 102102
       lipSynch: 0
-    textLeft: '........'
+    textLeft: '...'
   - chara:
     - cheek: 0
       eyeClose: 0
@@ -210,13 +210,13 @@ story:
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 200
-    textLeft: '... A story about a war that''s gone on for nearly @a year.'
+    textLeft: '...A story about a war that has gone on for @nearly a year.'
   - bgm: stop
     chara:
     - id: 102200
       lipSynch: 0
       motion: 0
-    textRight: '......'
+    textRight: '...'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -235,14 +235,14 @@ story:
       face: mtn_ex_030.exp.json
       id: 102102
       motion: 0
-    textCenter: There was a Magical Girl that I looked up to, @who turned into a witch.
+    textCenter: There was a Magical Girl that I looked up to @who turned into a Witch.
   - chara:
     - id: 102102
     textCenter: I spread the story of what happened to warn the @other Magical Girls
       in town,
   - chara:
     - id: 102102
-    textCenter: And we began hunting down Kyubey.
+    textCenter: and we began hunting down Kyubey.
   - chara:
     - id: 102102
       motion: 300
@@ -252,19 +252,20 @@ story:
     textCenter: But when that didn't work, they vanished from the town,
   - chara:
     - id: 102102
-    textCenter: probably thinking there was no longer a benefit to @them being here.
+    textCenter: probably believing that there was no longer a @benefit to them being
+      here.
   - chara:
     - eyeClose: 1
       id: 102102
-    textCenter: That's when witches started to become scarce @around Futatsugi...
+    textCenter: That's when Witches started to become scarce @around Futatsugi...
   - chara:
     - eyeClose: 0
       id: 102102
       motion: 1
-    textCenter: Though there was a small fight when Juri left us,
+    textCenter: Though there was a skirmish when Juri left us,
   - chara:
     - id: 102102
-    textCenter: somehow, we managed to hold together.
+    textCenter: we somehow managed to hold it together.
   - chara:
     - eyeClose: 1
       id: 102102
@@ -291,14 +292,14 @@ story:
       motion: 0
       pos: 2
     nameCenter: Sakuya
-    textCenter: The day that witches completely vanished.
+    textCenter: The day that Witches completely vanished...
   - chara:
     - id: 770180
-    nameLeft: Magical Girl
+    nameLeft: ""
     textLeft: And we started to break apart and fight with each other.
   - chara:
     - id: 770080
-    nameRight: Magical Girl
+    nameRight: ""
     textRight: Our order crumbled, and blood was shed...
   - autoTurnLast: 0.2
     chara:
@@ -316,29 +317,29 @@ story:
       motion: 0
       pos: 1
     nameCenter: Yuna
-    textCenter: Yeah...
+    textCenter: Precisely...
   - chara:
     - id: 102102
-    textCenter: And things just got worse and worse over time...
+    textCenter: And things only got worse and worse over time...
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102102
       motion: 300
-    textCenter: We still don't know why the witches disappeared.
+    textCenter: We still don't know why the Witches disappeared.
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_020.exp.json
       id: 102102
-    textCenter: But there's one thing that's clear in this short @history of ours.
+    textCenter: But there is one thing that's clear in this short @history of ours,
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_030.exp.json
       id: 102102
       motion: 0
-    textCenter: And it's that I started everything.
+    textCenter: and it's that I am the one who started everything.
   - autoTurnLast: 0.2
     chara:
     - id: 102102
@@ -351,7 +352,7 @@ story:
       motion: 300
       pos: 2
     nameRight: Hikaru
-    textRight: Why are you telling us all this...? It sounds like you're trying to
+    textRight: Why are you telling us all this...? It sounds like you're tryin' to
       take all the blame for what's happened...
   - chara:
     - id: 102200
@@ -360,7 +361,7 @@ story:
   - chara:
     - id: 102200
       motion: 200
-    textRight: Did you forget I left Ryuugasaki to join Torayamachi!?
+    textRight: Did you forget that I left that gang for Torayamachi?!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -368,15 +369,15 @@ story:
       motion: 300
       pos: 0
     nameLeft: Sakuya
-    textLeft: It doesn't matter how it started. The disappearance @of the witches
-      cocked the hammer.
+    textLeft: It doesn't matter how it started. The Witches' @disappearance cocked
+      the gun,
   - chara:
     - id: 302100
-    textLeft: And Juri pulled the trigger.
+    textLeft: and Juri pulled the trigger.
   - chara:
     - id: 302100
       motion: 0
-    textLeft: Yuna, I know you've been doing everything you can @for us.
+    textLeft: Yuna, I know you've been doing everything you can @to help.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -400,18 +401,18 @@ story:
       id: 770081
       motion: 0
       pos: 2
-    nameLeft: Magical Girl
+    nameLeft: ""
     textLeft: Same here! That much is for sure!
   - chara:
     - id: 770180
     textLeft: Hearing that story doesn't change what you've done @for us!
   - chara:
     - id: 770080
-    nameCenter: Magical Girl
+    nameCenter: ""
     textCenter: That's right...
   - chara:
     - id: 770081
-    nameRight: Magical Girl
+    nameRight: ""
     textRight: She's right... She's absolutely right...!
   - chara:
     - cheek: 0
@@ -426,7 +427,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102102
       motion: 400
-    textLeft: What I really wanted to tell you all is a hidden part of our history.
+    textLeft: What I really wanted to tell you all is a hidden part @of our history.
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -460,7 +461,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 102102
-    textCenter: And that's Torayamachi's "Horse".
+    textCenter: And that is Torayamachi's "Horse".
   - chara:
     - eyeClose: 1
       id: 102102
@@ -469,14 +470,14 @@ story:
     - eyeClose: 0
       id: 102102
       motion: 0
-    textCenter: And she's always been by our side, watching from @the shadows.
+    textCenter: She has always been by our side, watching from @the shadows.
   - chara:
     - id: 102102
-    textCenter: Even though none of you have seen her...
+    textCenter: Although none of you have seen her...
   - chara:
     - eyeClose: 1
       id: 102102
-    textCenter: I can assure you of something.
+    textCenter: I can assure you of this one thing.
   - chara:
     - eyeClose: 0
       id: 102102
@@ -495,12 +496,12 @@ story:
     - eyeClose: 0
       id: 102102
       motion: 0
-    textCenter: That's why I'm certain! We can win this war!
+    textCenter: That's why I am certain that we can win this war!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102102
-    textCenter: I understand that its hard, but stay strong...!
+    textCenter: I understand that times are hard, but stay strong...!
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

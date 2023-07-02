@@ -452,8 +452,8 @@ story:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102600
-    textCenter: There's not a spot of Mikoshiba in your soul, Shizuka. The Tokimes
-      have always lived on @in you.
+    textCenter: There's not a spot of Mikoshiba in your soul, Shizuka.@The Tokimes
+      have always lived on in you.
   - chara:
     - id: 102600
       motion: 200

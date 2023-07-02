@@ -16,7 +16,7 @@ story:
       motion: 300
     nameCenter: Ao
     surround: 7102_townbuzz
-    textCenter: (With Janomiya, I couldn't get what I wanted...)
+    textCenter: (I couldn't get what I wanted with Janomiya...)
     turnChangeOut: fadeOut
   - autoTurnLast: 0.01
     item:
@@ -40,7 +40,7 @@ story:
   - narration: ―Ao―@You really didn't kill us...
   - nameNarration: Hikaru
     narration: ―Hikaru―@I told you, Ao...
-  - narration: ―Hikaru―@I want to make your wish come true, too...
+  - narration: ―Hikaru―@I wanna make your wish come true, too...
   - autoTurnLast: 0.3
     chara:
     - cheek: 0
@@ -72,17 +72,17 @@ story:
       id: 102301
       lipSynch: 1
       motion: 200
-    textCenter: But I can't just trust them that easily...~
+    textCenter: But I can't just trust them that easily~...
   - chara:
     - id: 102301
       lipSynch: 0
       motion: 300
-    textCenter: (Also, I still need to finish off that one girl, no matter what...)
+    textCenter: (Also, I still need to finish off that one girl, @no matter what...)
   - chara:
     - eyeClose: 1
       id: 102301
       lipSynch: 0
-    textCenter: '......'
+    textCenter: '...'
   - autoTurnLast: 0.2
     bgm: stop
     chara:
@@ -97,19 +97,19 @@ story:
       id: 102301
       lipSynch: 0
       motion: 400
-    textCenter: '......!?'
+    textCenter: '...?!'
   - bgm: bgm03_story10
     chara:
     - id: 102301
       lipSynch: 1
-    textCenter: Ranka Chizu ... the second in command of Monzenbashi...
+    textCenter: Ranka Chizu... The second-in-command of Monzenbashi...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102301
       lipSynch: 0
       motion: 0
-    textCenter: (And she's all alone, this is the chance I've been @waiting for...)
+    textCenter: (And she's all alone. This is the chance I've been @waiting for...)
   - chara:
     - id: 102301
       lipSynch: 1
@@ -122,7 +122,7 @@ story:
       id: 102301
       lipSynch: 0
       motion: 400
-    textCenter: '[chara:102301:effect_emotion_surprise_0][se:7226_shock].....!?'
+    textCenter: '[chara:102301:effect_emotion_surprise_0][se:7226_shock]—?!'
   - autoTurnLast: 0.2
     bg: bg_adv_21151.jpg
     chara:
@@ -165,7 +165,7 @@ story:
       id: 102301
       motion: 0
       pos: 0
-    textRight: Aah, wh-what was that for...!?
+    textRight: Aah, wh-what was that for...?!
   - chara:
     - id: 102301
       motion: 1
@@ -181,7 +181,7 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102201
-    textRight: Ryuugasaki's too beaten up to try picking a fight.
+    textRight: Ryuugasaki's too beaten up to try pickin' a fight.
   - chara:
     - id: 102301
       motion: 400
@@ -191,11 +191,11 @@ story:
       face: mtn_ex_030.exp.json
       id: 102201
       motion: 0
-    textRight: Take her out... [chara:102201:lipSynch_0][wait:0.8][chara:102201:cheek_0][chara:102201:face_mtn_ex_050.exp.json:motion_400][chara:102201:lipSynch_1][chara:102201:effect_emotion_surprise_0][se:7226_shock]huh!?
+    textRight: Take her out... [chara:102201:lipSynch_0][wait:0.8][chara:102201:cheek_0][chara:102201:face_mtn_ex_050.exp.json:motion_400][chara:102201:lipSynch_1][chara:102201:effect_emotion_surprise_0][se:7226_shock]Huh?!
   - chara:
     - id: 102301
       motion: 0
-    textLeft: She was the second in command of Monzenbashi.
+    textLeft: She was the second-in-command of Monzenbashi.
   - chara:
     - id: 102301
     textLeft: I need to at least eliminate her before I can finally @put my past behind
@@ -203,26 +203,26 @@ story:
   - chara:
     - id: 102301
       motion: 100
-    textLeft: Okay?~
+    textLeft: Okay~?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102201
       motion: 300
-    textRight: So this is why you haven't shown up to our base yet...
+    textRight: So this is why you haven't shown up at our base yet...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102201
       motion: 1
-    textRight: The other Janomiya girls are there now, you know? @And Yuna's waiting
+    textRight: The other Janomiya girls are there now, y'know? @And Yuna's waitin'
       for you too!
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 102301
       motion: 0
-    textLeft: Even if the others trust you all, @I don't just yet~
+    textLeft: Even if the others trust you guys, @I don't just yet~
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -239,14 +239,13 @@ story:
     textLeft: But you're at Yuna's beck and call, aren't you?
   - chara:
     - id: 102301
-    textLeft: Even if that's Yuna's plan now, what would you do if @she changed her
-      mind?~
+    textLeft: Even if that's her plan now, what would you do if @she changed her mind~?
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 102201
       motion: 0
-    textRight: Well... I'd still follow Yuna...
+    textRight: Well... I'd still follow her...
   - chara:
     - cheek: 0
       face: mtn_ex_051.exp.json
@@ -269,7 +268,7 @@ story:
       face: mtn_ex_011.exp.json
       id: 102201
       motion: 100
-    textRight: Mmh.
+    textRight: Nope.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -281,7 +280,7 @@ story:
       face: mtn_ex_010.exp.json
       id: 102301
       motion: 400
-    textLeft: Heh~ @That's not a very persuasive argument you know.
+    textLeft: Heh~ @That's not a very persuasive argument, you know.
   - chara:
     - id: 102301
     textLeft: You weirdo~
@@ -310,7 +309,7 @@ story:
   - chara:
     - id: 102201
       motion: 0
-    textRight: You mean Ranka?
+    textRight: You mean kill Ranka?
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -325,8 +324,8 @@ story:
   - chara:
     - id: 102201
       motion: 200
-    textRight: But you have to remember that I'll be doing @everything I can for you
-      as well, Ao!
+    textRight: But you've gotta remember that I'll be doing @everything I can for
+      you too, Ao!
   - chara:
     - id: 102201
     textRight: I want you to at least believe that.

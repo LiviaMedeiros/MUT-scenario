@@ -22,7 +22,7 @@ story:
     turnChangeIn: fadeIn
   - chara:
     - id: 770081
-    nameLeft: Torayamachi Girl
+    nameLeft: ""
     surround: 7003_wind
     textLeft: Yuna...
     turnChangeOut: fadeOut
@@ -51,8 +51,8 @@ story:
       id: 770084
       motion: 0
       pos: 2
-    nameRight: Ryuugasaki Girl
-    textRight: It's... over now...
+    nameRight: ""
+    textRight: It's...over now...
   - autoTurnLast: 0.3
     chara:
     - effect: fadeout
@@ -70,13 +70,13 @@ story:
       mouthOpen: 1
       pos: 1
     nameCenter: Juri
-    textCenter: '*Pant pant*'
+    textCenter: '*Wheeze*...*Huff*...'
   - chara:
     - cheek: 1
       face: mtn_ex_020.exp.json
       id: 102400
       mouthOpen: 0
-    textCenter: Damn it... it wasn't supposed to end this way...
+    textCenter: Dammit... It wasn't supposed to end this way...
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -112,7 +112,7 @@ story:
       id: 102400
       motion: 0
       pos: 1
-    nameLeft: Yuna
+    nameLeft: Yuna's Voice
     textLeft: Don't think you can kill me off that easily.
   - chara:
     - cheek: 0
@@ -120,7 +120,7 @@ story:
       id: 102400
       lipSynch: 0
       motion: 400
-    textCenter: '......!?'
+    textCenter: —?!
   - autoTurnLast: 0.01
     item:
     - path: resource/scenario/img/51074_storyselect_promised_blood/memoria_1410.jpg
@@ -131,7 +131,7 @@ story:
     turnChangeIn: fadeIn
   - bgm: bgm23_promised01
     nameNarration: Juri
-    narration: -Juri-@Who the hell... are you...?
+    narration: ―Juri―@Who the hell...are you...?
     narrationAnchor: bottom
     narrationCoverOpacity: 110
     narrationEffect: in
@@ -140,19 +140,19 @@ story:
     narrationLineSpace: 20
     turnChangeOut: fadeOut
   - nameNarration: Yuna
-    narration: -Yuna-@You know full well who I am... Yuna Kureha...
-  - narration: -Yuna-@The leader of Torayamachi.
-  - narration: -Yuna-@No, from now on, I'm the demon that leads Futatsugi in @revenge
+    narration: ―Yuna―@You know full well who I am... Yuna Kureha...
+  - narration: ―Yuna―@The leader of Torayamachi.
+  - narration: ―Yuna―@No, from now on, I am the demon that leads Futatsugi @in revenge
       against Kamihama.
   - nameNarration: Juri
-    narration: -Juri-@You've got to calm down... or that urge to kill... that grudge...
-      @it'll turn you into a witch...
-  - narration: -Juri-@And you can't be sure that Kamihama's the cause of all this!
+    narration: ―Juri―@You gotta calm down...or that urge to kill...that grudge...
+      @It'll turn ya into a Witch...
+  - narration: ―Juri―@And you can't be sure that Kamihama's the cause of all this!
   - nameNarration: Yuna
-    narration: -Yuna-@Let me explain everything... by the time I'm done, @all the
-      pieces will be put in their place.
+    narration: ―Yuna―@Let me explain everything... By the time I'm done, @all of the
+      pieces will fall into place.
   - nameNarration: Juri
-    narration: -Juri-@There's no way...
+    narration: ―Juri―@There's no way...
   - autoTurnLast: 0.2
     chara:
     - cheek: 0
@@ -173,26 +173,26 @@ story:
   - chara:
     - id: 102100
     nameLeft: Yuna
-    textLeft: The girl we sent to chase after a witch has returned @to Futatsugi.
+    textLeft: The girl we sent to chase after a Witch has returned @to Futatsugi.
     turnChangeOut: fadeOut
   - chara:
     - id: 102100
     textLeft: She told me about a system in Kamihama that @prevents Magical Girls
-      from becoming witches...
+      from becoming Witches...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102400
       motion: 200
     nameRight: Juri
-    textRight: That... can't be...
+    textRight: You're...kiddin' me...
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 102100
       motion: 200
-    textLeft: They stole our witches away from us... they forced @us through that
-      [textRed:Bloody Tragedy].
+    textLeft: They stole our Witches away from us... They forced @us through that
+      Bloody Tragedy.
   - chara:
     - id: 102100
     textLeft: That's how they got their system.
@@ -201,21 +201,21 @@ story:
       face: mtn_ex_020.exp.json
       id: 102400
       motion: 0
-    textRight: '... Is that all really true?'
+    textRight: '...Is that all really true?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102100
       motion: 100
-    textLeft: That's why... my grudge... my anger... my urge to @kill... it's become
-      my hope.
+    textLeft: That's why... My grudge...my anger...my urge to @kill... All of those
+      have become my hope.
   - chara:
     - id: 102100
-    textLeft: We're going to make them bleed just as much as @they made us bleed.
+    textLeft: We shall make them bleed just as much as @they made us bleed.
   - chara:
     - id: 102100
       motion: 0
-    textLeft: We're going to make them pay for the blood we've spilled.
+    textLeft: We shall make them pay for the blood we've spilled.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -252,19 +252,19 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 102100
-    textCenter: You lost this fight.
+    textCenter: You've already lost this fight.
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json
       id: 102400
       motion: 300
-    textRight: Juri the Great... can't work with whatever you are @right now...
+    textRight: Juri the Great...can't work with whatever you are @right now...
   - chara:
     - cheek: 0
       face: mtn_ex_000.exp.json
       id: 102100
       motion: 0
-    textCenter: Can't you hear them inside your head?
+    textCenter: Can you not hear them inside your head?
   - autoTurnLast: 0.01
     bg: black
     turnChangeIn: fadeIn
@@ -272,9 +272,9 @@ story:
     narration: '"Kyaaaaah!"'
     narrationEffect: in
     turnChangeOut: fadeOut
-  - narration: '"Ugh...argh...uh."'
-  - narration: '"No...I don''t want...to..."'
-  - narration: '"Help...them..."'
+  - narration: '"Guh...aaah...ngh..."'
+  - narration: '"No... I don''t want...to..."'
+  - narration: '"H-help...me..."'
   - narration: '"Yuna...!"'
   - autoTurnLast: 0.01
     bg: bg_adv_20522.jpg
@@ -300,11 +300,11 @@ story:
     - eyeClose: 1
       id: 102400
       motion: 200
-    textRight: Stop acting insane...
+    textRight: Stop actin' batshit...
   - chara:
     - eyeClose: 0
       id: 102400
-    textRight: This time, Juri the Great will put a stop to your urge @to kill...
+    textRight: This time, Juri the Great will put a stop to your @bloodlust...
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -317,7 +317,7 @@ story:
       effect: shake
       face: mtn_ex_060.exp.json
       id: 102400
-    textRight: Ugh... Yuna...?
+    textRight: Gah... Yuna...?
   - chara:
     - id: 102100
       motion: 1
@@ -326,12 +326,12 @@ story:
     turnEffect: ef_adv_02
   - chara:
     - id: 102100
-    textCenter: If you're not going to be mine, I'll tear right into your neck.
+    textCenter: If you're not going to be mine, I will tear right into @your neck.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 102400
-    textRight: Are you serious...?
+    textRight: Are you fuckin' serious...?
   - autoTurnLast: 0.3
     bgm: stop
     surround: stop
@@ -352,13 +352,13 @@ story:
       motion: 400
       pos: 0
     surround: 7003_wind
-    textLeft: Ugh...
+    textLeft: Gh...
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
       id: 102400
       motion: 300
-    textRight: That was close... who was that...?
+    textRight: That was close... Who was that...?
   - chara:
     - id: 102100
       motion: 0
@@ -381,7 +381,7 @@ story:
       face: mtn_ex_021.exp.json
       id: 102100
     nameRight: Yuna
-    textRight: Even if it's you, I won't hesitate to kill you.
+    textRight: Even if it's you, I will not hesitate to kill you.
   - autoTurnLast: 2
     surround: stop
     turnChangeIn: fadeIn

@@ -67,7 +67,7 @@ story:
       motion: 100
       voiceFull: fullvoice/section_102201/vo_full_102201-2-5
       voiceFullStop: fullvoice/section_102201/vo_full_102201-2-4
-    textRight: And what would exactly does that mean?
+    textRight: And what exactly does that mean?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
