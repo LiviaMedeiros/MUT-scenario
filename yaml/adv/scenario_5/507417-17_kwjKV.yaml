@@ -237,7 +237,7 @@ story:
     - id: 102400
       mouthOpen: 1
     nameLeft: Juri
-    textLeft: '*Pant* *Pant* @[chara:102400:lipSynch_0][wait:1.5][chara:102400:eyeClose_0][chara:102400:cheek_0][chara:102400:face_mtn_ex_020.exp.json:mouthOpen_0][chara:102400:lipSynch_1]...Man,
+    textLeft: '*Pant* *Pant*@[chara:102400:lipSynch_0][wait:1.5][chara:102400:eyeClose_0][chara:102400:cheek_0][chara:102400:face_mtn_ex_020.exp.json:mouthOpen_0][chara:102400:lipSynch_1]...Man,
       what the hell''s happening here...?'
     turnChangeOut: fadeOut
   - chara:

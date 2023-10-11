@@ -79,7 +79,7 @@ story:
       face: mtn_ex_052.exp.json
       id: 102102
       tear: 1
-    textCenter: Senpai...! @[chara:102102:lipSynch_0][wait:1.0][chara:102102:cheek_2][chara:102102:face_mtn_ex_031.exp.json:motion_200:tear_1][chara:102102:lipSynch_1]SENPAAAAIII!
+    textCenter: Senpai...!@[chara:102102:lipSynch_0][wait:1.0][chara:102102:cheek_2][chara:102102:face_mtn_ex_031.exp.json:motion_200:tear_1][chara:102102:lipSynch_1]SENPAAAAIII!
     turnEffect: blackPromist
   - autoTurnLast: 0.2
     chara:

@@ -221,7 +221,7 @@ story:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 770183
-    textRight: That's too bad... @[chara:770183:lipSynch_0][wait:1.0][chara:770183:cheek_0][chara:770183:face_mtn_ex_020.exp.json][chara:102300:effect_7001_attack02][chara:770183:lipSynch_1]Then
+    textRight: That's too bad...@[chara:770183:lipSynch_0][wait:1.0][chara:770183:cheek_0][chara:770183:face_mtn_ex_020.exp.json][chara:102300:effect_7001_attack02][chara:770183:lipSynch_1]Then
       I'll just take it by force!
   - chara:
     - cheek: 0
@@ -232,7 +232,7 @@ story:
     textLeft: '...!'
   - chara:
     - id: 770183
-    textRight: Nice dodge... @[chara:770183:lipSynch_0][wait:1.0][chara:770183:cheek_0][chara:102300:effect_7000_attack01][chara:770183:lipSynch_1]But
+    textRight: Nice dodge...@[chara:770183:lipSynch_0][wait:1.0][chara:770183:cheek_0][chara:102300:effect_7000_attack01][chara:770183:lipSynch_1]But
       how about this?!
   - chara:
     - cheek: 0

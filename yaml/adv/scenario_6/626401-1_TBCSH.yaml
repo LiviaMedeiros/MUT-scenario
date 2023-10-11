@@ -573,7 +573,7 @@ story:
       id: 102900
       motion: 0
     nameNarration: ""
-    narration: '[surround:1031A01]*TA-TA-TA!*'
+    narration: '[surround:1031A01]*Slap!*'
     narrationBg: bg_adv_21811.jpg
     narrationEffect: in
   - chara:

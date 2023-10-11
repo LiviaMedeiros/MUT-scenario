@@ -254,7 +254,7 @@ story:
     textRight: We're not so evenly matched anymore.
   - chara:
     - id: 102400
-    textLeft: Oh yeah...? @[chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_020.exp.json:motion_100][chara:102400:lipSynch_1]What
+    textLeft: Oh yeah...?@[chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_020.exp.json:motion_100][chara:102400:lipSynch_1]What
       makes ya think that?
   - chara:
     - id: 304400

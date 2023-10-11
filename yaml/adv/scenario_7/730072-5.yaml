@@ -414,7 +414,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Ayaka
-    textLeft: 'Um, it''ll shock a bit,@but I''ve only got a short shortcake... '
+    textLeft: 'Um, it''ll shock a bit,@but there''s not much chocolate... '
   - chara:
     - id: 300350
       lipSynch: 0

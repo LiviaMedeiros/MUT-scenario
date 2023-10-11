@@ -315,7 +315,7 @@ story:
     - id: 770083
       mouthOpen: 0
     nameLeft: Yuna
-    textLeft: Ngh... @[chara:102102:lipSynch_0][wait:0.8][chara:102102:cheek_0][chara:102102:motion_400][chara:102102:lipSynch_1][surround:0001_jump01][chara:770083:effect_7000_attack01]They
+    textLeft: Ngh...@[chara:102102:lipSynch_0][wait:0.8][chara:102102:cheek_0][chara:102102:motion_400][chara:102102:lipSynch_1][surround:0001_jump01][chara:770083:effect_7000_attack01]They
       took us by surprise...
   - autoTurnLast: 0.5
     chara:

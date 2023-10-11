@@ -477,7 +477,7 @@ story:
       motion: 400
       pos: 1
     nameCenter: Hikaru
-    textCenter: '...! @[wait:0.8][chara:102200:cheek_0][chara:102200:lipSynch_1]Don''t...!'
+    textCenter: '...!@[wait:0.8][chara:102200:cheek_0][chara:102200:lipSynch_1]Don''t...!'
   - autoTurnLast: 0.2
     chara:
     - effect: fadeout
@@ -560,7 +560,7 @@ story:
       motion: 0
       pos: 2
     nameRight: Hikaru
-    textRight: '... @[chara:102200:lipSynch_0][wait:0.8][chara:102200:cheek_0][chara:102200:lipSynch_1]Yuna...'
+    textRight: '...@[chara:102200:lipSynch_0][wait:0.8][chara:102200:cheek_0][chara:102200:lipSynch_1]Yuna...'
   - chara:
     - eyeClose: 1
       id: 102102

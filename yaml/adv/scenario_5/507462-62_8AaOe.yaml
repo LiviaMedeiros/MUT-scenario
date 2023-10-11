@@ -293,11 +293,11 @@ story:
     textLeft: Yeah, we can turn the tables on 'em.
   - chara:
     - id: 102400
-    textLeft: And Juri the Great can drag Yuna out in front of her.
+    textLeft: Juri the Great can drag Yuna back out in front @of her...
   - chara:
     - id: 102400
       motion: 100
-    textLeft: It sounds like another excuse for you to thin out the competition.
+    textLeft: And it'll give you guys a chance to thin out @the competition, too.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

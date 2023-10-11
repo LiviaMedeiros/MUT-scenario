@@ -116,7 +116,7 @@ story:
     chara:
     - id: 770184
     nameCenter: ""
-    textCenter: Their guard's down... @[chara:770184:lipSynch_0][wait:1.0][chara:770184:cheek_0][chara:770184:face_mtn_ex_020.exp.json][chara:770184:lipSynch_1]Everyone,
+    textCenter: Their guard's down...@[chara:770184:lipSynch_0][wait:1.0][chara:770184:cheek_0][chara:770184:face_mtn_ex_020.exp.json][chara:770184:lipSynch_1]Everyone,
       get them! NOW!
     turnChangeOut: fadeOut
   - autoTurnLast: 0.1
@@ -197,7 +197,7 @@ story:
       motion: 0
       pos: 1
     textRight: '[flashEffect:flashRed2][se:3001_chara_damage][chara:770180:effect_shake][bgEffect:shakeLarge]Argh...
-      guh... @[chara:770180:lipSynch_0][wait:0.8][chara:770180:lipSynch_1]I''m...sorry...'
+      guh...@[chara:770180:lipSynch_0][wait:0.8][chara:770180:lipSynch_1]I''m...sorry...'
   - autoTurnLast: 1
     chara:
     - effect: fadeout

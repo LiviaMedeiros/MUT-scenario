@@ -84,7 +84,7 @@ story:
   - chara:
     - id: 801000
     nameRight: Shin's Mom
-    textRight: Shin, you're the who doesn't love me.
+    textRight: Shin, you're the one who doesn't love me.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json

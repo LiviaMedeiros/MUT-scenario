@@ -188,7 +188,7 @@ story:
       motion: 201
       voiceFull: fullvoice/section_101401/vo_full_101401-9-19
       voiceFullStop: fullvoice/section_101401/vo_full_101401-9-18
-    textLeft: You'll be sharing a campus with Tsuruno and me then.
+    textLeft: You'll be sharing a campus with Tsuruno@and me then.
   - autoTurnFirst: 0.5
     chara:
     - cheek: 0

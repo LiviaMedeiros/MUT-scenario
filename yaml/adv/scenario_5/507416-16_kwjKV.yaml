@@ -351,7 +351,7 @@ story:
       id: 102200
       motion: 0
     nameCenter: Hikaru
-    textCenter: Ah, nothin'... @[chara:102200:lipSynch_0][wait:1.0][chara:102200:cheek_0][chara:102200:face_mtn_ex_020.exp.json:motion_200][chara:102200:lipSynch_1]Let's
+    textCenter: Ah, nothin'...@[chara:102200:lipSynch_0][wait:1.0][chara:102200:cheek_0][chara:102200:face_mtn_ex_020.exp.json:motion_200][chara:102200:lipSynch_1]Let's
       get ready for the enemy's attack...
   - autoTurnLast: 0.2
     bgm: stop

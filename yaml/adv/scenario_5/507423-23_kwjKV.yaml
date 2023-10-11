@@ -223,7 +223,7 @@ story:
       face: mtn_ex_020.exp.json
       id: 102300
       motion: 100
-    textLeft: We're going with a new strat~ @[chara:102300:lipSynch_0][wait:1.5][chara:102300:cheek_0][chara:102300:face_mtn_ex_010.exp.json][chara:102300:lipSynch_1]With
+    textLeft: We're going with a new strat~@[chara:102300:lipSynch_0][wait:1.5][chara:102300:cheek_0][chara:102300:face_mtn_ex_010.exp.json][chara:102300:lipSynch_1]With
       this, it should be an easy Mission Complete~
   - chara:
     - id: 102200

@@ -306,11 +306,11 @@ story:
       id: 102801
       motion: 1
     nameLeft: ???
-    textLeft: This cutie came all this way to lead them@to the top.
+    textLeft: This cutie is here to be on top of you all.
   - chara:
     - id: 102801
     nameLeft: ???
-    textLeft: Why should I be the one bootlicking?
+    textLeft: Why should I get down on my knees and beg?
   - chara:
     - cheek: 0
       face: mtn_ex_021.exp.json
@@ -318,7 +318,8 @@ story:
       motion: 0
       pos: 0
     nameLeft: ???
-    textLeft: And anyway, what's with all this magical pressure@on the first meeting?
+    textLeft: I mean, what's with all this demonic pressure@right from the very first
+      meeting?
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json

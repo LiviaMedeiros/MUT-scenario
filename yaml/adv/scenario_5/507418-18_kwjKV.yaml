@@ -434,7 +434,7 @@ story:
     - id: 102102
       motion: 100
     nameCenter: Yuna
-    textCenter: The one who's surrounded here is you, @[chara:102102:lipSynch_0][wait:1.0][chara:102102:cheek_0][chara:102102:face_mtn_ex_020.exp.json][chara:102102:lipSynch_1]Ranka
+    textCenter: The one who's surrounded here is you,@[chara:102102:lipSynch_0][wait:1.0][chara:102102:cheek_0][chara:102102:face_mtn_ex_020.exp.json][chara:102102:lipSynch_1]Ranka
       Chizu.
     turnChangeOut: rollOutFast
   - autoTurnLast: 0.3

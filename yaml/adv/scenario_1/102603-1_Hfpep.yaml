@@ -711,7 +711,7 @@ story:
     - id: 100301
       motion: 0
     nameLeft: Yachiyo
-    textLeft: It's our job to make sure you knows where you are,
+    textLeft: It's our job to make sure you know where you are,
   - chara:
     - id: 100201
       voiceFullAuto: fullvoice/section_102603/vo_full_102603-1-73

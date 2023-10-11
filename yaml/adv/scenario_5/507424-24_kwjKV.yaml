@@ -449,7 +449,7 @@ story:
   - chara:
     - id: 102102
       motion: 1
-    textLeft: I told you we that shouldn't do this,
+    textLeft: I told you that we shouldn't do this,
   - chara:
     - cheek: 0
       face: mtn_ex_032.exp.json

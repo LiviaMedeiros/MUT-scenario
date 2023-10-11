@@ -150,8 +150,8 @@ story:
       motion: 200
       pos: 1
       voice: vo_char_1017_00_21
-      textHome: 'Since I can''t fight, becoming stronger@just helps me feel a little
-        better@ and nothing more, though '
+      textHome: Since I can't fight, becoming stronger@just helps me feel a little
+        better@ and nothing more, though.
   - autoTurnFirst: 3.4
     chara:
     - cheek: 0
@@ -185,7 +185,7 @@ story:
       face: mtn_ex_011.exp3.json
       id: 101700
       motion: 0
-      textHome: ' I''m absolutely not exploiting the others@to get Grief Seeds, nope...'
+      textHome: I'm absolutely not exploiting the others@to get Grief Seeds, nope...
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
@@ -381,7 +381,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_char_1017_00_28
-      textHome: '*Yaaawn*@'
+      textHome: '*Yaaawn*'
   - autoTurnFirst: 3.5
     chara:
     - eyeClose: 1
@@ -1479,17 +1479,23 @@ story:
       motion: 300
       pos: 1
       voice: vo_game_0902_01
+      textHome: A day when two lovers can@only meet once a year...
   - autoTurnFirst: 1.5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101700
+      textHome: '*Giggle*'
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101700
       motion: 1
+      textHome: It's quite romantic@if you think about it~.
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_54:
   - autoTurnFirst: 4.2
     chara:
@@ -1500,12 +1506,17 @@ story:
       motion: 0
       pos: 1
       voice: vo_game_0902_02
+      textHome: While I don't have my own@Hikoboshi who visits me,
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
+      textHome: I'm glad that I have@plenty of customers@that come by instead~.
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_55:
   - autoTurnFirst: 5.5
     chara:
@@ -1516,15 +1527,20 @@ story:
       motion: 0
       pos: 1
       voice: vo_game_0902_03
+      textHome: The Coordinator is@currently holding a@Summer Triangle campaign!
   - autoTurnFirst: 1.8
     chara:
     - id: 101700
       motion: 100
+      textHome: I'll be giving out@star-shaped cookies to@those that use my service.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101700
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_56:
   - autoTurnFirst: 2
     chara:
@@ -1535,18 +1551,24 @@ story:
       motion: 1
       pos: 1
       voice: vo_game_0902_04
+      textHome: Welcome♪
   - autoTurnFirst: 2.7
     chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101700
       motion: 400
+      textHome: Events are important too,
   - autoTurnFirst: 2
     chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
+      textHome: but adjustments@come first~.
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_57:
   - autoTurnFirst: 6.4
     chara:
@@ -1557,16 +1579,22 @@ story:
       motion: 300
       pos: 1
       voice: vo_game_0902_08
+      textHome: Now then, I need to put up@the Tanabata decorations@before people
+        arrive.
   - autoTurnFirst: 1.8
     chara:
     - id: 101700
       motion: 0
+      textHome: If you help me out,@I'll give you a discount@on adjustments for today~.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101700
       motion: 200
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_58:
   - autoTurnFirst: 1.2
     chara:
@@ -1577,6 +1605,7 @@ story:
       motion: 0
       pos: 1
       voice: vo_game_0902_09
+      textHome: '*Sigh*...'
   - autoTurnFirst: 0.2
     chara:
     - eyeClose: 0
@@ -1585,13 +1614,19 @@ story:
     chara:
     - id: 101700
       motion: 300
+      textHome: It's so hot and humid now@that I'm sweating@while adjusting...
   - autoTurnFirst: 6
     chara:
     - eyeClose: 1
       id: 101700
       motion: 400
+      textHome: If only I had a kind-hearted@assistant who would@gently wipe off my
+        sweat...
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_59:
-  - autoTurnFirst: 5
+  - autoTurnFirst: 1.5
     chara:
     - cheek: 0
       eyeClose: 0
@@ -1600,22 +1635,36 @@ story:
       motion: 1
       pos: 1
       voice: vo_game_0902_10
+      textHome: According to@the weather forecast,
+  - autoTurnFirst: 3.5
+    chara:
+    - id: 101700
+      textHome: it'll be clear skies@with not a cloud in sight@even at nighttime.
   - autoTurnFirst: 2.3
     chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101700
       motion: 0
-  - autoTurnFirst: 6.2
+      textHome: Thank goodness~.
+  - autoTurnFirst: 3.5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101700
       motion: 300
+      textHome: This precious day@only comes once a year,
+  - autoTurnFirst: 2.7
+    chara:
+    - id: 101700
+      textHome: so it'd be a shame if@Orihime and Hikoboshi@couldn't reunite.
   - autoTurnFirst: 2
     chara:
     - id: 101700
       motion: 200
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_60:
   - autoTurnFirst: 2.6
     chara:
@@ -1626,10 +1675,12 @@ story:
       motion: 0
       pos: 1
       voice: vo_game_0902_11
+      textHome: Even though I'm@serious about my work,
   - autoTurnFirst: 0.4
     chara:
     - eyeClose: 0
       id: 101700
+      textHome: I'd like to go stargazing@with everyone else@for Tanabata too...
   - autoTurnFirst: 5.6
     chara:
     - id: 101700
@@ -1638,11 +1689,16 @@ story:
     chara:
     - id: 101700
       motion: 100
+      textHome: Alright, I've decided!
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101700
+      textHome: I'm going to@close up shop for today!
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_61:
   - autoTurnFirst: 4.3
     chara:
@@ -1653,15 +1709,21 @@ story:
       motion: 100
       pos: 1
       voice: vo_game_0902_12
+      textHome: I decided to splurge a bit@and bought some@fake bamboo branches~.
   - autoTurnFirst: 4.3
     chara:
     - eyeClose: 1
       id: 101700
       motion: 300
+      textHome: I'll wish for everyone@to be able to celebrate@Tanabata next year
+        as well.
   - autoTurnFirst: 2
     chara:
     - eyeClose: 0
       id: 101700
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_62:
   - autoTurnFirst: 1.2
     chara:
@@ -1672,15 +1734,21 @@ story:
       motion: 100
       pos: 1
       voice: vo_game_1102_01
+      textHome: Welcome♪
   - autoTurnFirst: 4.4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101700
+      textHome: The Coordinator's@moon viewing campaign@is now in session!
   - autoTurnFirst: 3
     chara:
     - id: 101700
       motion: 1
+      textHome: Be sure not to miss it~.
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_63:
   - autoTurnFirst: 2.7
     chara:
@@ -1691,18 +1759,24 @@ story:
       motion: 400
       pos: 1
       voice: vo_game_1102_02
+      textHome: Oh, you came here@at a good time.
   - autoTurnFirst: 3.7
     chara:
     - id: 101700
       motion: 0
+      textHome: Right now,@everyone's making@moon viewing dango.
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101700
       motion: 200
+      textHome: Care to join us?
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_64:
-  - autoTurnFirst: 5.5
+  - autoTurnFirst: 3.1
     chara:
     - cheek: 0
       eyeClose: 0
@@ -1711,12 +1785,21 @@ story:
       motion: 300
       pos: 1
       voice: vo_game_1102_03
+      textHome: Since we decided to have@a moon viewing party@on such short notice,
+  - autoTurnFirst: 1.9
+    chara:
+    - id: 101700
+      textHome: there are some girls@that don't know@about it still.
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
+      textHome: It'd make me happier@if you could help@advertise it~.
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_65:
   - autoTurnFirst: 2.3
     chara:
@@ -1727,15 +1810,20 @@ story:
       motion: 1
       pos: 1
       voice: vo_game_1102_04
+      textHome: You have to go@exterminate a Witch now?
   - autoTurnFirst: 2.4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101700
+      textHome: I see, then let me@give you some extra@dango to go at least.
   - autoTurnFirst: 2
     chara:
     - id: 101700
       motion: 300
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_66:
   - autoTurnFirst: 1.9
     chara:
@@ -1746,24 +1834,32 @@ story:
       motion: 200
       pos: 1
       voice: vo_game_1102_08
+      textHome: What a nice morning~.
   - autoTurnFirst: 3.7
     chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101700
+      textHome: Looks like the sky@will be filled with stars@instead of clouds tonight.
   - autoTurnFirst: 4.8
     chara:
     - eyeClose: 1
       id: 101700
       motion: 300
+      textHome: Perhaps because the moon@viewing festival is later, the@sun tried
+        extra hard today.
   - autoTurnFirst: 0.3
     chara:
     - eyeClose: 0
       id: 101700
+      textHome: '...As if~.@That just sounds like@something from a fairy tale.'
   - autoTurnFirst: 4
     chara:
     - id: 101700
       motion: 400
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_67:
   - autoTurnFirst: 3.9
     chara:
@@ -1774,27 +1870,34 @@ story:
       motion: 100
       pos: 1
       voice: vo_game_1102_09
+      textHome: Yay, I was able to@cleanly crack an egg!
   - autoTurnFirst: 4.2
     chara:
     - cheek: 0
       face: mtn_ex_051.exp3.json
       id: 101700
       motion: 0
+      textHome: But if this is supposed@to be a motif for the@moon in the night sky,
   - autoTurnFirst: 3.9
     chara:
     - id: 101700
       motion: 300
+      textHome: it should be fine@to make the egg whites@black, right?
   - autoTurnFirst: 0.9
     chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101700
+      textHome: Alright,@time to turn up the heat!
   - autoTurnFirst: 6
     chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101700
       motion: 200
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_68:
   - autoTurnFirst: 3.1
     chara:
@@ -1805,32 +1908,40 @@ story:
       motion: 1
       pos: 1
       voice: vo_game_1102_10
+      textHome: The moon should be@visible any second now...
   - autoTurnFirst: 2.1
     chara:
     - id: 101700
       motion: 400
+      textHome: Ah, there it is!
   - autoTurnFirst: 2.4
     chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101700
       motion: 300
+      textHome: What a beautiful full moon!
   - autoTurnFirst: 2.8
     chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101700
+      textHome: You can see the@rabbit on it, too~.
   - autoTurnFirst: 1.2
     chara:
     - cheek: 0
       face: mtn_ex_030.exp3.json
       id: 101700
       motion: 200
+      textHome: '...Oh, no,@I don''t actually@believe in all that.'
   - autoTurnFirst: 4
     chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101700
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_69:
   - autoTurnFirst: 2.9
     chara:
@@ -1841,18 +1952,24 @@ story:
       motion: 0
       pos: 1
       voice: vo_game_1102_11
+      textHome: I'm starting to get@REALLY tired@as the night goes on...
   - autoTurnFirst: 5.6
     chara:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101700
       motion: 100
+      textHome: Oh, how about I@adjust you outside while@moon viewing this time?
   - autoTurnFirst: 5.6
     chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101700
       motion: 1
+      textHome: We'll be able to relax more,@so the adjustment might@be more successful.
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
   group_70:
   - autoTurnFirst: 4.5
     chara:
@@ -1863,12 +1980,14 @@ story:
       motion: 300
       pos: 1
       voice: vo_game_1102_12
+      textHome: Preparing for the@moon viewing festival@sure is tough.
   - autoTurnFirst: 5
     chara:
     - cheek: 0
       face: mtn_ex_010.exp3.json
       id: 101700
       motion: 0
+      textHome: But this year, since Mii was@worried, we made moon@viewing dango together.
   - autoTurnFirst: 1.9
     chara:
     - id: 101700
@@ -1878,5 +1997,9 @@ story:
     - cheek: 0
       face: mtn_ex_011.exp3.json
       id: 101700
+      textHome: '*Chuckle*@She''s a sweet girl.'
+  - chara:
+    - id: 101700
+      textHomeStatus: Clear
 version: 3
 ...

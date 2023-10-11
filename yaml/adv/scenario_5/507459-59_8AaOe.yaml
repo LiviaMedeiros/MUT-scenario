@@ -173,7 +173,7 @@ story:
       face: mtn_ex_050.exp.json
       id: 102400
       motion: 1
-    textRight: No more friendly tone with me? @[chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_010.exp.json][chara:102400:lipSynch_1]Eh,
+    textRight: No more friendly tone with me?@[chara:102400:lipSynch_0][wait:1.0][chara:102400:cheek_0][chara:102400:face_mtn_ex_010.exp.json][chara:102400:lipSynch_1]Eh,
       I was your enemy the whole time anyway.
   - chara:
     - cheek: 0
