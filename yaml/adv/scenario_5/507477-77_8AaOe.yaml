@@ -187,7 +187,7 @@ story:
   - chara:
     - id: 102400
       motion: 200
-    textRight: Juri the Great's been leadin' these girls for a full @year! You think
+    textRight: Juri the Great's been leadin' these girls for half a @year! You think
       you can just start bossin' us around?
   - chara:
     - cheek: 0

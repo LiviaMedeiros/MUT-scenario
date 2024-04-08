@@ -287,7 +287,7 @@ story:
   - chara:
     - id: 102400
       motion: 200
-    textRight: Juri the Great's been leadin' these girls for a full @year! You think
+    textRight: Juri the Great's been leadin' these girls for a half a @year! You think
       you can just start bossin' us around?
   - chara:
     - cheek: 0
@@ -313,8 +313,8 @@ story:
   - chara:
     - id: 102400
       motion: 100
-    textRight: '...Heehee...[chara:102400:lipSynch_0][wait:0.8][chara:102400:cheek_0][chara:102400:face_mtn_ex_010.exp.json][chara:102400:lipSynch_1]
-      More or less. Alright, fine. @Have it your way.'
+    textRight: '...Heehee... [chara:102400:lipSynch_0][wait:0.8][chara:102400:cheek_0][chara:102400:face_mtn_ex_010.exp.json][chara:102400:lipSynch_1]More
+      or less. Alright, fine. @Have it your way.'
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
@@ -354,7 +354,7 @@ story:
     turnEffect: stop
   - chara:
     - id: 102103
-    textLeft: I defeated you and forced you to work under me for @a year. I can't
+    textLeft: I defeated you and forced you to work under me for @six months. I can't
       imagine how much you hated that.
     turnChangeOut: fadeOut
     turnEffect: thinking

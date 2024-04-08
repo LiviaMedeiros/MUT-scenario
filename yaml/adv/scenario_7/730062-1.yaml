@@ -20,18 +20,18 @@ story:
     - id: 300651
       motion: 100
     nameLeft: Emiri
-    textLeft: Heya, Akira-chi! @How do I look?
+    textLeft: Heya, Akira-chi!@How do I look?
     turnChangeOut: fadeOut
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300651
-    textLeft: Look at me! @Look at me!
+    textLeft: C'mon, tell me!
   - chara:
     - id: 300850
       motion: 100
     nameRight: Akira
-    textRight: Yeah, you look great. @It’s really cute.
+    textRight: Yeah, you look great.@It’s really cute.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -43,7 +43,7 @@ story:
       face: mtn_ex_030.exp.json
       id: 300850
       lipSynch: 0
-    textRight: Akira (Eh......[wait:1.0] your age...? I know it normally, but...)
+    textRight: (Huh...?[wait:1.0] Her age?@I'm sure I knew it, but...)
     turnEffect: thinking
   - chara:
     - cheek: 0
@@ -51,125 +51,123 @@ story:
       id: 300850
       lipSynch: 0
       motion: 0
-    textRight: Akira ......[wait:1.0][chara:300850:lipSynch_1]@uh, maybe 17 years
-      old...
+    textRight: '...[wait:1.0][chara:300850:lipSynch_1]Um, maybe 17 years old...'
     turnEffect: stop
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300651
       motion: 400
-    textLeft: Youuu’re outta luck! @The correct answer was 13 years old!
+    textLeft: You’re outta luck!@The correct answer was 13 years old!
   - chara:
     - id: 300651
       motion: 200
-    textLeft: '[chara:300651:effect_emotion_joy_0][se:7222_happy]Geez Akira-chi, getting
-      a girl’s age wrong, that''s rude you know!'
+    textLeft: '[chara:300651:effect_emotion_joy_0][se:7222_happy]Geez Akira-chi, doncha
+      know it''s rude@to get a girl''s age wrong?'
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300850
-    textRight: You say that but you look pretty happy about it.
+    textRight: You say that, but you seem pretty happy@about it.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300651
       motion: 0
-    textLeft: I was exposed!
+    textLeft: You've seen right through me!
   - chara:
     - id: 300850
       motion: 1
-    textRight: So then you really wanted to be seen as an adult.
+    textRight: So you were trying to seem older.
   - chara:
     - id: 300651
       motion: 100
-    textLeft: Well yeah! @At least I look the part!
+    textLeft: Well yeah!@At least I look the part!
   - chara:
     - id: 300651
-    textLeft: I guess the rest is how you talk.
+    textLeft: I guess the rest is how you behave.
   - chara:
     - id: 300850
       motion: 0
-    textRight: How you talk?
+    textRight: How you behave?
   - chara:
     - id: 300651
       motion: 0
-    textLeft: Yeah, I need to talk like an adult to suit this look.
+    textLeft: Yeah, I need to talk like a grown-up to suit@this outfit.
   - chara:
     - cheek: 0
       face: mtn_ex_020.exp.json
       id: 300651
       motion: 200
-    textLeft: As is, everything’s all mismatched yeah?
+    textLeft: As is, everything's all mismatched, you know?
   - bgm: stop
     chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300651
       motion: 0
-    textLeft: So then I will act as an older sister character from @now on.
+    textLeft: That's why I'm gonna act like a reliable big sister@from now on.
   - bgm: bgm03_story01
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300651
       motion: 100
-    textLeft: If I mess up, please give me advice Akira-chi.
+    textLeft: You'll give me some pointers, right?@I'm counting on you, Akira-chi!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300850
       motion: 300
-    textRight: That request is like an intro to a comedy skit but @okay.
+    textRight: This feels like the setup for a comedy sketch,@but sure.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300850
       motion: 0
-    textRight: Well then, how about you try keep up a composed demeanor?
+    textRight: Well for starters, you could work on@projecting serenity?
   - chara:
     - id: 300850
-    textRight: Referring to yourself as "I" (watashi) instead of "I" @( a ? shi) would
-      help…
+    textRight: Instead of saying "Akira-chi,"@you could use "Akira."
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300651
       motion: 400
-    textLeft: As expected of Akira-chi! If it's just that, @even "I" ( a ? shi) can...
+    textLeft: Of course I can do that!@You're so smart Akira-chi...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300850
-    textRight: Ah
+    textRight: Oops.
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300651
       motion: 0
-    textLeft: I (wa)…I (wa)…I (wa ? shi) think it’s possible!
+    textLeft: A... Akir... Akira-cucaracha!
   - chara:
     - id: 300850
       motion: 400
-    textRight: I (wa ? shi)!! It’s even worse when you mix them together!
+    textRight: CUCARACHA?!@That's even worse!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300651
       motion: 300
-    textLeft: Ugggh, my mouth is too used to it. This is harder @than I expected...
+    textLeft: Uuugh, my mouth is too used to it.@This is harder than I anticipated...
   - chara:
     - id: 300850
       motion: 100
-    textRight: Rather than being careful with words, try being conscious of how you
+    textRight: Rather than being careful with words,@try being conscious of how you
       act!
   - chara:
     - cheek: 0
       eyeClose: 1
       face: mtn_ex_020.exp.json
       id: 300651
-    textLeft: Acting... Acting...@[chara:300651:lipSynch_0].......[wait:1.0][chara:300651:eyeClose_0][chara:300651:motion_200][chara:300651:lipSynch_1]Alright!
-      This time!
+    textLeft: Acting... Acting...@[chara:300651:lipSynch_0]...[wait:1.0][chara:300651:eyeClose_0][chara:300651:motion_200][chara:300651:lipSynch_1]Alright!
+      I've got it this time!
   - bgm: stop
     chara:
     - cheek: 0
@@ -177,14 +175,14 @@ story:
       id: 800600
       motion: 0
       pos: 2
-    nameRight: Supervisor
-    textRight: Yoohoo! Emily! Akira-chi! Merry Christmas!
+    nameRight: ""
+    textRight: Yoohoo! Emily! Akira-chi!@Merry Christmas!
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300651
       motion: 0
-    textLeft: Ah! Shopping District Big Sis’!
+    textLeft: Ah! The Shopping District lady!
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -197,8 +195,7 @@ story:
       eyeClose: 1
       face: mtn_ex_010.exp.json
       id: 300651
-    textLeft: Welcome, big sister. What kind of consultation @are you looking for
-      today?
+    textLeft: Welcome, ma'am. What kind of consultation@are you looking for today?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -213,20 +210,20 @@ story:
       id: 800600
       motion: 0
       pos: 2
-    nameRight: Supervisor
-    textRight: It's not for a consultation today.
+    nameRight: ""
+    textRight: I'm not here for a consultation today.
   - chara:
     - id: 800600
-    textRight: Since it's Christmas, I just wanted to stop by.
+    textRight: I just wanted to stop by since it's Christmas.
   - chara:
     - id: 800600
-    textRight: Here you go, orange juice as a Christmas gift!
+    textRight: Here you go! I brought you some orange juice@as a present!
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300651
       motion: 400
-    textLeft: '[chara:300651:effect_emotion_joy_0][se:7222_happy]Yaay!'
+    textLeft: '[chara:300651:effect_emotion_joy_0][se:7222_happy]Wowee!'
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
@@ -234,31 +231,31 @@ story:
       motion: 200
       pos: 2
     nameRight: Akira
-    textRight: E-Emily![wait:1.0][chara:300651:eyeClose_1][chara:300651:motion_000][chara:300651:cheek_0][chara:300651:face_mtn_ex_010.exp.json][chara:300651:lipSynch_1]@You’re
-      acting like a 3 year old!
+    textRight: E-Emily!@You’re acting like a toddler!
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_030.exp.json
       id: 300651
       motion: 300
-    textLeft: Ah! Ahhhhh............ Huh, huuh, thank you kindly, big sister.
+    textLeft: O-Oh no no no...[wait:1.0][chara:300651:eyeClose_1][chara:300651:motion_000][chara:300651:cheek_0][chara:300651:face_mtn_ex_010.exp.json][chara:300651:lipSynch_1]@Ah-haha.
+      Thank you kindly, ma'am.
   - chara:
     - id: 300651
       motion: 1
-    textLeft: Well then with this juice, let's treat ourselves this evening...
+    textLeft: Well then, with this juice, let's treat ourselves@this wonderful evening...
   - chara:
     - eyeClose: 0
       id: 300651
-    textLeft: Akira, can you get three glasses for us and big sister?
+    textLeft: Akira, can you get three glasses for us?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 300850
       motion: 0
-    textRight: Here you go.
+    textRight: Sure thing.
   - nameNarration: ""
-    narration: '*Bubble bubble bubble bubble…*'
+    narration: '*Pour…*'
     narrationBg: ""
     narrationEffect: in
   - chara:
@@ -266,9 +263,9 @@ story:
       id: 300651
       motion: 0
     narrationEffect: out
-    textLeft: On this holy night... cheers...
+    textLeft: On this holy night... Cheers...
   - nameNarration: ""
-    narration: '*clink*'
+    narration: '*Clink*'
     narrationBg: ""
     narrationEffect: in
   - chara:
@@ -277,20 +274,20 @@ story:
       id: 300651
       motion: 400
     narrationEffect: out
-    textLeft: Gulp gulp gulp gulp!
+    textLeft: Down the hatch!
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300850
       motion: 300
-    textRight: Ah, you gulped it down, it was good up until then.
+    textRight: Ah, you went and chugged it.@Things were good up until then.
   - chara:
     - cheek: 0
       eyeClose: 0
       face: mtn_ex_050.exp.json
       id: 300651
       motion: 0
-    textLeft: '[chara:300651:effect_emotion_surprise_0][se:7226_shock]Huh!? @Adults
+    textLeft: '[chara:300651:effect_emotion_surprise_0][se:7226_shock]WHAT!?@Adults
       don''t drink it all at once!?'
   - autoTurnLast: 0.2
     chara:
@@ -303,19 +300,18 @@ story:
       id: 800600
       motion: 0
       pos: 2
-    nameRight: Supervisor
-    textRight: Ah, Akira... @What’s up with Emily today?
+    nameRight: ""
+    textRight: A-Akira...@What’s up with Emily today?
   - chara:
     - id: 300850
       motion: 0
     nameLeft: Akira
-    textLeft: She’s trying to match her older look by behaving and speaking like an
-      adult...
+    textLeft: She’s trying to match her outfit by behaving@like an adult...
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 800600
-    textRight: Ahh, today's Emily definitely looks mature.
+    textRight: Ah, is that so?@She definitely looks more mature than usual.
   - chara:
     - cheek: 0
       eyeClose: 1
@@ -324,7 +320,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Emiri
-    textLeft: Fu fu, how old do I seem?
+    textLeft: '*Giggle* How old do I seem?'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -333,7 +329,7 @@ story:
       motion: 1
       pos: 2
     nameRight: Akira
-    textRight: (She's doing it again)
+    textRight: (She's doing it again.)
     turnEffect: thinking
   - chara:
     - cheek: 0
@@ -342,17 +338,18 @@ story:
       lipSynch: 0
       motion: 0
       pos: 2
-    nameRight: Supervisor
-    textRight: (Eh......[wait:1.0]her age...? @I know it normally, but...)
+    nameRight: ""
+    textRight: (Huh...?[wait:1.0] Her age?@I'm sure I knew it, but...)
   - chara:
     - id: 800600
       lipSynch: 0
-    textRight: '.......[wait:1.0][chara:800600:lipSynch_1]uh, @maybe 17 years old...'
+    textRight: '...[wait:1.0][chara:800600:lipSynch_1]Um, maybe 17 years old...'
     turnEffect: stop
   - chara:
     - id: 300651
       lipSynch: 0
-    textLeft: '........[wait:1.0][chara:300651:eyeClose_0][chara:300651:motion_000][chara:300651:lipSynch_1]Correct.'
+    textLeft: '...[wait:1.0][chara:300651:eyeClose_0][chara:300651:motion_000][chara:300651:lipSynch_1]You''re
+      right.'
   - chara:
     - cheek: 0
       face: mtn_ex_030.exp.json
@@ -360,44 +357,44 @@ story:
       motion: 0
       pos: 2
     nameRight: Akira
-    textRight: It's not correct.
+    textRight: You're not right.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800600
       motion: 0
       pos: 2
-    nameRight: Supervisor
-    textRight: I pretty much understand what's happening.
+    nameRight: ""
+    textRight: I think I see what's going on here.
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 800600
-    textRight: But if you’re trying to be like a 17 year old, don’t you think you’re
-      acting too mature?
+    textRight: But if you're aiming for a 17 year old, don’t you@think you’re acting
+      TOO mature?
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 300651
-    textLeft: What?
+    textLeft: Huh?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800600
-    textRight: Well, for someone around Emily's age, @17 year olds do seem like adults
+    textRight: Well, for someone around your age,@I'm sure 17 year olds seem like
+      adults.
   - chara:
     - id: 800600
-    textRight: But, from someone whose actually experienced @being 17 years old.
+    textRight: But, as someone whose actually been that age,
   - chara:
     - id: 800600
-    textRight: 17 is still very much a child pretending to be mature.
+    textRight: 17 year olds are just kids pretending@to be all grown-up.
   - chara:
     - id: 800600
-    textRight: Their true nature doesn't change much from when @they were 10.
+    textRight: They haven't changed much on the inside@from when they were 10.
   - chara:
     - id: 800600
-    textRight: So I think acting more natural will still leave the right impression
-      with how you look.
+    textRight: So I think acting like your usual self@will still leave the right impression.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -405,7 +402,7 @@ story:
       motion: 100
       pos: 0
     nameLeft: Akira
-    textLeft: As expected of an older sister... your skills are next level.
+    textLeft: As expected of a grown-up...@Your skills are next level.
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
@@ -413,15 +410,15 @@ story:
       motion: 200
       pos: 0
     nameLeft: Emiri
-    textLeft: '...That''s right big sis''.'
+    textLeft: '...Yeah, you''re right.'
   - chara:
     - id: 300651
-    textLeft: Tell us more of your stories about being an adult!
+    textLeft: Tell us more about being an adult!
   - chara:
     - cheek: 0
       face: mtn_ex_050.exp.json
       id: 800600
-    textRight: My stories?
+    textRight: More?
   - chara:
     - cheek: 2
       face: mtn_ex_030.exp.json
@@ -429,23 +426,23 @@ story:
       motion: 300
       pos: 1
     nameCenter: Akira
-    textCenter: I also want to hear... about adult romance... @I'm a little curious...
+    textCenter: I want to hear...what adult romance is like...@I'm a little curious...
   - bgm: stop
     chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
       id: 300651
       motion: 100
-    textLeft: Was today a Christmas date as expected?
+    textLeft: Didja have a nice Christmas date?
   - chara:
     - cheek: 0
       face: mtn_ex_010.exp.json
       id: 800600
-    textRight: Today... I didn't do anything... @I got dumped yesterday...
+    textRight: I didn't have any plans.@My boyfriend dumped me yesterday...
   - bgm: bgm03_story04
     chara:
     - id: 800600
-    textRight: Since I didn’t have any plans, @I came here...
+    textRight: Since my schedule was free, I came here...
   - chara:
     - cheek: 0
       id: 300850
@@ -457,8 +454,8 @@ story:
     - cheek: 0
       face: mtn_ex_030.exp.json
       id: 300651
-    nameCenter: Akira
-    textCenter: '............'
+    nameCenter: Everyone
+    textCenter: '...'
   - autoTurnLast: 0.2
     chara:
     - id: 300850
@@ -467,7 +464,7 @@ story:
   - chara:
     - id: 300651
       motion: 300
-    textLeft: Aki-ra-chi, did I step on a land mine?
+    textLeft: Akira-chi, did I step on a landmine?
   - chara:
     - eyeClose: 1
       id: 300850
@@ -476,7 +473,7 @@ story:
   - chara:
     - id: 300651
       motion: 0
-    textLeft: What’s should an adult do in this situation?
+    textLeft: What would an adult do in this situation?
   - chara:
     - id: 300850
       motion: 1
@@ -490,7 +487,7 @@ story:
       id: 800600
       motion: 0
       pos: 2
-    textLeft: '............'
+    textLeft: '...'
   - chara:
     - cheek: 0
       face: mtn_ex_011.exp.json
@@ -504,7 +501,7 @@ story:
       motion: 200
       pos: 2
     nameRight: Akira
-    textRight: That’s such an irresponsible adult!
+    textRight: Only irresponsible adults would say that!
   - autoTurnLast: 2
     turnChangeIn: fadeIn
 version: 3

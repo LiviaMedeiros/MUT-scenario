@@ -505,7 +505,7 @@ story:
   - chara:
     - id: 103201
     nameLeft: Miyuri
-    textLeft: Apparently one of my favorites, Leiya,@is gonna be there too!
+    textLeft: Apparently one of my favorite cosplayers is gonna@be there too!
   - chara:
     - cheek: 0
       face: mtn_ex_053.exp3.json
@@ -532,8 +532,8 @@ story:
     textLeft: Yeah…@The goddess of gorgeous legs, Lady Venus!
   - bgm: bgm03_story01
     nameNarration: Miyuri
-    narration: '"She never forgets to respect@the original work with her cosplay,@not
-      to mention that Leiya spirit!"'
+    narration: '"She never forgets to respect the original work@with her costumes.@That''s
+      the heart and soul of cosplay!"'
     narrationBg: ""
     narrationEffect: in
   - narration: '"After all, you can''t talk about her@without mentioning her legs!@Slim,

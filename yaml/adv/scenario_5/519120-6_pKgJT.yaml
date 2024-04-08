@@ -415,7 +415,7 @@ story:
   - chara:
     - id: 790300
     nameCenter: Mongolian Soldier
-    textCenter: Don't listen to her.@She;s talking bullshit.
+    textCenter: Don't listen to her.@She's talking bullshit.
   - chara:
     - id: 833300
       motion: 400

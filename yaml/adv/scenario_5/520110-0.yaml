@@ -13,7 +13,7 @@ story:
     narrationCoverOpacity: 100
     narrationEffect: in
   - narration: The Japanese are a conscientious,@kind, and mild-mannered people.@There
-      is no such thing as danger in Japan;@a country ruled by law and order.
+      is no such thing as danger in Japan,@a country ruled by law and order.
   - autoTurnLast: 0.01
     item:
     - action:
@@ -36,13 +36,13 @@ story:
           posY: 3000
       path: resource/scenario/img/adv_roll_fade.png
   - nameNarration: Chisato
-    narration: Those who attempt to threaten@our society cannot be allowed to exist.@They
-      must be destroyed before causing harm.@Erase. Erase. Erase.@Then scrub away
-      the residue.
+    narration: Those who attempt to threaten our society@cannot be allowed to exist
+      to begin with.@They must be destroyed before causing harm.@Erase, delete, eradicate,
+      and beautify.
     narrationCoverOpacity: 100
     narrationEffect: in
-  - narration: Until there was never any danger to begin with.
-  - narration: Peace is the way of the Japanese people.
+  - narration: Dangers never existed to begin with.
+  - narration: Peace is upheld by the very nature@of us Japanese people.
   - autoTurnLast: 0.01
     item:
     - action:
@@ -65,8 +65,8 @@ story:
           posY: -3000
       path: resource/scenario/img/adv_roll_fade.png
   - nameNarration: Chisato
-    narration: Being able to think that is our greatest joy.@That's why we Lycoris
-      have dedicated our lives…@to making that dream happen!
+    narration: To be able to think that way makes me the happiest.@And we are the
+      ones who create that.@The purpose of a Lycoris... That's what I was told!
     narrationCoverOpacity: 100
     narrationEffect: in
   - autoTurnLast: 2

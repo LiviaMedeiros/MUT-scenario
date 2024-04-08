@@ -239,7 +239,7 @@ story:
   - chara:
     - eyeClose: 1
       id: 102300
-    textRight: After being abused many times... @Being stolen from so many times...
+    textRight: After being abused so many times... @Being stolen from so many times...
   - chara:
     - eyeClose: 0
       id: 102300
